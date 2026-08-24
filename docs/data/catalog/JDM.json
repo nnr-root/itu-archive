@@ -1,117 +1,4 @@
 {
- "JDM 501E": {
-  "code": "JDM 501E",
-  "name": "Geodynamics",
-  "nameEn": "Geodynamics",
-  "language": "English",
-  "credits": {
-   "theory": 3,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "Yer küre – iç yapısı ve bileşimi; manto ile kabuk, astenosfer ile litosfer; isostazi kavramı , Levha tektoniği – prensipler ve istisnalar; Kıtasal ve okyanusal kabuk – oluşumu, yapısı, bileşimi ve evrimi; Kıtasal kabukta magmatizma ve magmatik süreçler; Okyanusal kabukta magmatizma ve magmatik süreçler; ofiyolit kavramı; Metamorfizma – tektonik ortamı, metamorfik fasiyesler; Metamorfik olaylar ve reyaksiyonlar; Magmatik ve metamorfik kayalarda izotopik yaş tayini;Jeolojik yapılar – kırılgan ve sünek; Genişlemeli tektonik ortamlar ve riftleşme – deformasyon, magmatizma ve metamorfizma; Dalma-batma – deformasyon, eklenir prizmalar, metamorfizma ve magmatizma; Büyük yanal atımlı faylar – deformasyon ve havza oluşumu; Orojeni – zaman,deformasyon, metamorfizma ve magmatizma. Earth – internal structure and composition; mantle and crust versus astenosphere and lithosphere; the conceptof isostasy; Plate tectonics – principles and exceptions; Continental and oceanic crust – formation, structure, composition and evolution; Magmatism and magmatic processes in the continental crust; Magmatism and magmatic processes in the oceanic crust; ophiolite concept; Metamorphism – tectonic setting, metamorphic facies; Metamorphic processes and reactions; Isotopic dating of magmatic and metamorphic rocks; Geological structures – brittle and ductile; Extensional tectonics and rifting – deformation, magmatism and metamorphism;Subduction – deformation, accretionary complexes, metamorphism and magmatism; Large strike-slip faults – structures and basin formation; Orogeny – time, deformation, metamorphism and magmatism.",
-  "outcomes": [
-   "Litosferin davranış mekanizmasını",
-   "Magmatizmanın oluşum ortamı, çeşitliliği, tektonik ortam ile olan ilişkisini",
-   "Metamorfizmanın oluşum ortamı, metamorfik fasiyeslerin nasıl tanımlandığı ve neyi ifade ettiği, metamorfizmanın tektonik ortamlarını",
-   "Jeolojik yapıların çeşitliliğini, ve hangi tür ortamlarda oluştuğu",
-   "Genişlemeli ve sıkışmalı tektonik ortamlarda meydana gelen yapıları, magmatizma ve metamorfizmayı"
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Yer küre – iç yapısı ve bileşimi; manto ile kabuk, astenosfer ile litosfer; isostazi kavramı",
-   "Hafta 2 · Levha tektoniği – prensipler ve istisnalar",
-   "Hafta 3 · Kıtasal ve okyanusal kabuk – oluşumu, yapısı, bileşimi ve evrimi",
-   "Hafta 4 · Kıtasal kabukta magmatizma ve magmatik süreçler",
-   "Hafta 5 · Okyanusal kabukta magmatizma ve magmatik süreçler; ofiyolit kavramı",
-   "Hafta 6 · Metamorfizma – tektonik ortamı, metamorfik fasiyesler",
-   "Hafta 7 · Metamorfik olaylar ve reyaksiyonlar",
-   "Hafta 8 · Magmatik ve metamorfik kayalarda izotopik yaş tayini",
-   "Hafta 9 · Jeolojik yapılar – kırılgan ve sünek",
-   "Hafta 10 · Genişlemeli tektonik ortamlar ve riftleşme – deformasyon, magmatizma ve metamorfizma",
-   "Hafta 11 · Dalma-batma – deformasyon, eklenir prizmalar, metamorfizma ve magmatizma",
-   "Hafta 12 · Büyük yanal atımlı faylar – deformasyon ve havza oluşumu",
-   "Hafta 13 · Orojeni – zaman, deformasyon, metamorfizma ve magmatizma I",
-   "Hafta 14 · Orojeni – zaman, deformasyon, metamorfizma ve magmatizma II"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Yer küre – iç yapısı ve bileşimi; manto ile kabuk, astenosfer ile litosfer; isostazi kavramı",
-    "outcomes": "1"
-   },
-   {
-    "week": 2,
-    "topic": "Levha tektoniği – prensipler ve istisnalar",
-    "outcomes": "1-2"
-   },
-   {
-    "week": 3,
-    "topic": "Kıtasal ve okyanusal kabuk – oluşumu, yapısı, bileşimi ve evrimi",
-    "outcomes": "1-2"
-   },
-   {
-    "week": 4,
-    "topic": "Kıtasal kabukta magmatizma ve magmatik süreçler",
-    "outcomes": "2-3-4"
-   },
-   {
-    "week": 5,
-    "topic": "Okyanusal kabukta magmatizma ve magmatik süreçler; ofiyolit kavramı",
-    "outcomes": "2-3-4"
-   },
-   {
-    "week": 6,
-    "topic": "Metamorfizma – tektonik ortamı, metamorfik fasiyesler",
-    "outcomes": "2-3-4"
-   },
-   {
-    "week": 7,
-    "topic": "Metamorfik olaylar ve reyaksiyonlar",
-    "outcomes": "2-3-4"
-   },
-   {
-    "week": 8,
-    "topic": "Magmatik ve metamorfik kayalarda izotopik yaş tayini",
-    "outcomes": "2-3-4"
-   },
-   {
-    "week": 9,
-    "topic": "Jeolojik yapılar – kırılgan ve sünek",
-    "outcomes": "5"
-   },
-   {
-    "week": 10,
-    "topic": "Genişlemeli tektonik ortamlar ve riftleşme – deformasyon, magmatizma ve metamorfizma",
-    "outcomes": "5"
-   },
-   {
-    "week": 11,
-    "topic": "Dalma-batma – deformasyon, eklenir prizmalar, metamorfizma ve magmatizma",
-    "outcomes": "2-3-4-5"
-   },
-   {
-    "week": 12,
-    "topic": "Büyük yanal atımlı faylar – deformasyon ve havza oluşumu",
-    "outcomes": "2-3-4-5"
-   },
-   {
-    "week": 13,
-    "topic": "Orojeni – zaman, deformasyon, metamorfizma ve magmatizma I",
-    "outcomes": "2-3-4-5"
-   },
-   {
-    "week": 14,
-    "topic": "Orojeni – zaman, deformasyon, metamorfizma ve magmatizma II"
-   }
-  ],
-  "textbooks": [
-   "P. Kearey, K.A. Klepeis & F.J. Vine, 2009, Global Tectonic s. Wiley-Blackwell, 482 sayfa, ISBN 978-1-4051-0777-8.",
-   "Donald L. Turcotte & Gerald Schubert, 2014, Geodynamics, Cambridge University Press, 636 sayfa, ISBN: 9780521186230."
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=JDM&dersNo=501"
- },
  "JDM 502E": {
   "code": "JDM 502E",
   "name": "Earth Surface Processes",
@@ -230,6 +117,119 @@
    "Sharma, V.K., 2010, Introduction to Process Geomorphology, CRC press, 435 pp."
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=JDM&dersNo=502"
+ },
+ "JDM 507E": {
+  "code": "JDM 507E",
+  "name": "Dating Methods in Earth Scien.",
+  "nameEn": "Dating Methods in Earth Scien.",
+  "language": "English",
+  "credits": {
+   "theory": 3,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 7.5
+  },
+  "description": "Mineral ayırma (manyetik, ağır sıvı, binokülar altında seçme); mineral separatlarının epoksiye gömülmesi ve parlatılması, yaş tayini yapılacak minerallerin katodolüminesans ile görüntülenmesi; LA-ICP-MS aleti ile zirkon, monazit, ksenotim, rutil ve titanitler üzerinde yaş tayinleri, minerallerin iz element içeriklerinin kullanılması ile yaş değerlerinin yorumlanması (yaş tayini yapılan mineralin büyüme zamanının sınırlandırılması); Lu-Hf yaş tayini, Ar-Ar yaş tayini, Sm-Nd yaş tayini; Kapanma sıcaklığı kavramı Mineral separation (magnetic, heavy liquid, picking under binocular); Embedding of mineral grains inepoxy and polishing; Documentation of the minerals to be dated by CL or SEM, U-Pb dating of zircon, monazite, xenotime, rutile and titanite by LA-ICP-MS; Correlation of the ages of minerals with the trace elmenet abundances and interpretation of the ages (constraining the timing of growth of the dated mineral), Lu-Hf dating, Ar-Ar dating; Sm-Nd dating, Concept of Closure Temperature",
+  "outcomes": [
+   "Analizler için kullanılan kayaçlar içerisindeki farklı minerallerin tayinleri 3- Minerallerin fiziksel ve jeokimyasal özelliklerinin öğrenilmesi",
+   "Tüm kaya, ince-kesit, parlatılmış kesit ve mineral ayırma işlemlerinin öğrenilmesi 5- Örnek hazırlamaların uygulamalı olarak gerçekleştirilmesi"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Genel tanımlar: Magmatik, metamorfik ve sedimenter kayaçlar ile içerdikleri genel mineraller,",
+   "Hafta 2 · Kaynak Alan kavramı ile kaynak çalışmalarındaki gelişmeler",
+   "Hafta 3 · Jeolojide kullanılan sedimentolojik, petrografik, jeokimyasal ve jeokronolojik metodların özeti,",
+   "Hafta 4 · Temel jeokimyasal kavramlar (uyumlu-uyumsuz ve hareketli-hareketsiz elementler) veelementlerin kayaç ve minerallerdeki dağılımları,",
+   "Hafta 5 · Temel jeokronolojik kavramlar (izotoplar, kapanım sıcaklığı, ilksel oranlar vs.)",
+   "Hafta 6 · Minerallerin fiziksel özellikleri (manyetik subsebilite, yoğunluk, boyut, şekil vs.),",
+   "Hafta 7 · Tüm kaya ve mineral ayırma yöntemleri",
+   "Hafta 8 · Kırma, öğütme, boyutlama, magnetik seperatör, ağır sıvılar vs.",
+   "Hafta 9 · Tüm kaya numunesi hazırlanması (uygulamalı),",
+   "Hafta 10 · Paramagnetik minerallerin ayırtlanması (uygulamalı),",
+   "Hafta 11 · Amagmatik minerallerin ayırtlanması (uygulamalı),",
+   "Hafta 12 · Mikroskopta optic tayin",
+   "Hafta 13 · Analize hazırlama,",
+   "Hafta 14 · Ince kesit, epoksi, parlatma,"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Genel tanımlar: Magmatik, metamorfik ve sedimenter kayaçlar ile içerdikleri genel mineraller,",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "Kaynak Alan kavramı ile kaynak çalışmalarındaki gelişmeler",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 3,
+    "topic": "Jeolojide kullanılan sedimentolojik, petrografik, jeokimyasal ve jeokronolojik metodların özeti,",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 4,
+    "topic": "Temel jeokimyasal kavramlar (uyumlu-uyumsuz ve hareketli-hareketsiz elementler) veelementlerin kayaç ve minerallerdeki dağılımları,",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 5,
+    "topic": "Temel jeokronolojik kavramlar (izotoplar, kapanım sıcaklığı, ilksel oranlar vs.)",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 6,
+    "topic": "Minerallerin fiziksel özellikleri (manyetik subsebilite, yoğunluk, boyut, şekil vs.),",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 7,
+    "topic": "Tüm kaya ve mineral ayırma yöntemleri",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 8,
+    "topic": "Kırma, öğütme, boyutlama, magnetik seperatör, ağır sıvılar vs.",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 9,
+    "topic": "Tüm kaya numunesi hazırlanması (uygulamalı),",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 10,
+    "topic": "Paramagnetik minerallerin ayırtlanması (uygulamalı),",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 11,
+    "topic": "Amagmatik minerallerin ayırtlanması (uygulamalı),",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 12,
+    "topic": "Mikroskopta optic tayin",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 13,
+    "topic": "Analize hazırlama,",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 14,
+    "topic": "Ince kesit, epoksi, parlatma,"
+   }
+  ],
+  "textbooks": [
+   "Dickin, A.P., 2008. Radiogenic Isotope Geology, Cambridge University Press. 472 s.",
+   "Rosenblum, S., 1958. Magnetic susceptibilities of minerals in the Frantz Isodynamic magnetic separator. The American Mineralogist, 43. 170-173.",
+   "Hess, H.H., 1959, Notes on operation of Frantz Isodynamic Magnetic Separator: S.G. Frantz Co. Instrument Instruction Booklet, p. 1-6.",
+   "Rosenblum, S., Brownfield, I.K., 1999. Magnetic susceptıbilities of minerals, U.S. Geological Survey Open-File Report 99-529.",
+   "Klein, C., 2007. Minerals and Rocks. Wiley 456 s."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=JDM&dersNo=507"
  },
  "JDM 558E": {
   "code": "JDM 558E",
@@ -1162,10 +1162,10 @@
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=JDM&dersNo=611"
  },
- "JDM 613E": {
-  "code": "JDM 613E",
-  "name": "Selected Topics in Geodynamics",
-  "nameEn": "Selected Topics in Geodynamics",
+ "JDM 619E": {
+  "code": "JDM 619E",
+  "name": "Selec.Topics in Regional Geol.",
+  "nameEn": "Selec.Topics in Regional Geol.",
   "language": "English",
   "credits": {
    "theory": 3,
@@ -1174,105 +1174,102 @@
    "local": 3,
    "ects": 7.5
   },
-  "description": "Plato oluşumu hakkındaki temel kavramlar verildikten sonra Dünya’nın çeşitli platoları örnekler aracılığı ile tartışılacaktır. Öğrenciler dönem sonunda seçtikleri bir konu hakkında sunum yapacaklardır. Discussions concerning plateau forming mechanisms and examples from selected plateau around the world. Students will give a talk concerning their selected topics.",
+  "description": "Pontidler: İstanbul Zonu, Istranca Masifi, Sakarya Zonu. Trakya Havzası, Çankırı Havzası. Anatolid-Toridler: Tavşanlı Zonu, Afyon Zonu, Menderes Masifi, Bornova Fliş Zonu, Toroslar, Güneydoğu Anadolu - Arap platformu. Genişleme tektoniği: Ege Denizi, grabenler ve Kazdağ. Oligosen yanal atım tektoniği: Uludağ. Denizler: Marmara, Karadeniz, Ege ve Doğu Akdeniz. Türkiye’de neotektonik dönem ve Türkiye’nin neotektonik yapısı. Dünyada genişlemeli tektonik: Basin ve Range bölgesi (ABD), Doğu Afrika grabenleri. Dünyada sıkışmalı tektonik: Himalaya, Kaliforniya. Dünyada doğrultu-atımlı tektonik: San Andreas fay zonu. Pontides: İstanbul Zone, Strandja Massif, Sakarya Zone. Thrace Basin, Çankırı Basin. Anatolide-Taurides: Tavşanlı Zone, Afyon Zone, Menderes Massif, Bornova Flysch Zone, Taurides. Southeast Anatolia – Arabian Platform. Extensional tectonics: Aegean Sea, grabens and Kazdağ. Oligocene strike-slip tectonics: Uludağ. Seas: Marmara, Aegean, Black Sea and Eastern Mediterranean. Neotectonics of Turkey. Extensional tectonics in the World: Basin and Range province (USA), East African rift system. Contractional tectonics in the World: Himalaya, California. Strike-slip tectonics: San Andreas Fault System.",
   "outcomes": [
-   "İklim ve tektonizmanın platoların oluşumu etkisi",
-   "Dünya’nın önemli platolarının jeolojik ve jeomorfolojik yapılarının öğrenilmesi",
-   "-",
-   "-"
+   "Türkiye’deki tektonik birimlerin yapısı, stratigrafisi, jeolojisi.",
+   "Türkiye’nin tektonik evrimi.",
+   "Dalma-batma, riftleşme, genişleme, sıkışma gibi tektonik olaylar ve bunların jeolojik kayıtta, stratigrafide yansımalarının tespiti.",
+   "Dünyada Türkiye benzeri jeolojik ortamların tektonik yapısı ve gelişimi."
   ],
   "weeklyTopics": [
-   "Hafta 1 · Plato kavramına giriş",
-   "Hafta 2 · İklim ve topoğrafya kavramları",
-   "Hafta 3 · Tektonizma - topoğrafya ilişkisi",
-   "Hafta 4 · Yüzey yükselimi ve iklim değişimine etkisi",
-   "Hafta 5 · Flüvyal sistemler ve aşındırma oran hesapları",
-   "Hafta 6 · Platoları oluşturan mekanizmalar",
-   "Hafta 7 · Sunumlar",
-   "Hafta 8 · Dünya’dan plato örnekleri: Tibet",
-   "Hafta 9 · Dünya’dan plato örnekleri: Puna-Altiplano",
-   "Hafta 10 · Dünya’dan plato örnekleri: Colorado",
-   "Hafta 11 · Dünya’dan plato örnekleri: Antartika",
-   "Hafta 12 · Dünya’dan plato örnekleri: Adanolu (Doğu kesimi)",
-   "Hafta 13 · Dünya’dan plato örnekleri: Adanolu (Orta kesimi)",
-   "Hafta 14 · Sunumlar"
+   "Hafta 1 · Türkiye’nin genel tektonik yapısı, Pontidler: İstanbul Zonu",
+   "Hafta 2 · Pontidler: Istranca Masifi",
+   "Hafta 3 · Pontidler: Sakarya Zonu, Paleo-Tetis ve Neo-Tetis ilişkisi",
+   "Hafta 4 · Trakya Havzası, Çankırı Havzası",
+   "Hafta 5 · Anatolid-Toridler: Tavşanlı Zonu ve Afyon Zonu",
+   "Hafta 6 · Anatolid-Toridler: Menderes Masifi ve Bornova Fliş Zonu",
+   "Hafta 7 · Toroslar, Güneydoğu Anadolu - Arap platformu",
+   "Hafta 8 · Genişleme tektoniği: Ege Denizi, grabenler ve Kazdağ",
+   "Hafta 9 · Oligosen yanal atım tektoniği: Uluda",
+   "Hafta 10 · Denizler: Marmara, Karadeniz, Ege ve Doğu Akdeniz",
+   "Hafta 11 · Türkiye’de neotektonik dönem ve Türkiye’nin neotektonik yapısı",
+   "Hafta 12 · Dünyada genişlemeli tektonik: Basin ve Range bölgesi (ABD), Doğu Afrika grabenleri",
+   "Hafta 13 · Dünyada sıkışmalı tektonik: Himalaya, Dünyada doğrultu-atımlı tektonik: San Andreas fay zonu. Kaliforniya."
   ],
   "weeklyPlan": [
    {
     "week": 1,
-    "topic": "Plato kavramına giriş",
-    "outcomes": "1"
+    "topic": "Türkiye’nin genel tektonik yapısı, Pontidler: İstanbul Zonu",
+    "outcomes": "1-2-3"
    },
    {
     "week": 2,
-    "topic": "İklim ve topoğrafya kavramları",
-    "outcomes": "1"
+    "topic": "Pontidler: Istranca Masifi",
+    "outcomes": "1-2-3"
    },
    {
     "week": 3,
-    "topic": "Tektonizma - topoğrafya ilişkisi",
-    "outcomes": "1"
+    "topic": "Pontidler: Sakarya Zonu, Paleo-Tetis ve Neo-Tetis ilişkisi",
+    "outcomes": "1-2-3"
    },
    {
     "week": 4,
-    "topic": "Yüzey yükselimi ve iklim değişimine etkisi",
-    "outcomes": "1"
+    "topic": "Trakya Havzası, Çankırı Havzası",
+    "outcomes": "1-2-3"
    },
    {
     "week": 5,
-    "topic": "Flüvyal sistemler ve aşındırma oran hesapları",
-    "outcomes": "1"
+    "topic": "Anatolid-Toridler: Tavşanlı Zonu ve Afyon Zonu",
+    "outcomes": "1-2-3"
    },
    {
     "week": 6,
-    "topic": "Platoları oluşturan mekanizmalar",
-    "outcomes": "1"
+    "topic": "Anatolid-Toridler: Menderes Masifi ve Bornova Fliş Zonu",
+    "outcomes": "1-2-3"
    },
    {
     "week": 7,
-    "topic": "Sunumlar",
-    "outcomes": "2"
+    "topic": "Toroslar, Güneydoğu Anadolu - Arap platformu",
+    "outcomes": "1-2-3"
    },
    {
     "week": 8,
-    "topic": "Dünya’dan plato örnekleri: Tibet",
-    "outcomes": "2"
+    "topic": "Genişleme tektoniği: Ege Denizi, grabenler ve Kazdağ",
+    "outcomes": "1-2-3"
    },
    {
     "week": 9,
-    "topic": "Dünya’dan plato örnekleri: Puna-Altiplano",
-    "outcomes": "2"
+    "topic": "Oligosen yanal atım tektoniği: Uluda",
+    "outcomes": "1-2-3"
    },
    {
     "week": 10,
-    "topic": "Dünya’dan plato örnekleri: Colorado",
-    "outcomes": "2"
+    "topic": "Denizler: Marmara, Karadeniz, Ege ve Doğu Akdeniz",
+    "outcomes": "1-2-3"
    },
    {
     "week": 11,
-    "topic": "Dünya’dan plato örnekleri: Antartika",
-    "outcomes": "2"
+    "topic": "Türkiye’de neotektonik dönem ve Türkiye’nin neotektonik yapısı",
+    "outcomes": "1-2-3"
    },
    {
     "week": 12,
-    "topic": "Dünya’dan plato örnekleri: Adanolu (Doğu kesimi)",
-    "outcomes": "3"
+    "topic": "Dünyada genişlemeli tektonik: Basin ve Range bölgesi (ABD), Doğu Afrika grabenleri",
+    "outcomes": "1-2-3-4"
    },
    {
     "week": 13,
-    "topic": "Dünya’dan plato örnekleri: Adanolu (Orta kesimi)",
-    "outcomes": "4"
-   },
-   {
-    "week": 14,
-    "topic": "Sunumlar"
+    "topic": "Dünyada sıkışmalı tektonik: Himalaya, Dünyada doğrultu-atımlı tektonik: San Andreas fay zonu. Kaliforniya.",
+    "outcomes": "1-2-3-4"
    }
   ],
   "textbooks": [
-   "Tectonics, climate and landscape evolution (Willet et al., 2006)",
-   "Makaleler"
+   "Yin, A. & Harrison, M., (eds.), 1996, The Tectonic Evolution of Asia. Cambridge University Press, 666 s.",
+   "Okay, A.I. & Tüysüz, O., 1999, Tethyan sutures of northern Turkey. In \"The Mediterranean Basins: Tertiary extension within the Alpine orogen\" (eds. B. Durand, L. Jolivet, F. Horváth and M. Séranne), Geological Society, London, Special Publication 156, 475-515.",
+   "Okay, A.I., 2008; Geology of Turkey: A synopsis. Anschnitt, Zeitschrift für Kunst und Kultur im Bergbau, Beiheft 21, 19-42. Veröffentlichungen aus dem Deutschen Bergbau-Museum Bochum, Nr. 157.",
+   "Robinson, A.G. (ed.), 1997, Regional and Petroleum Geology of the Black Sea and Surrounding Region. American Association of Petroleum Geologists (AAPG) Memoir No. 68."
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=JDM&dersNo=613"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=JDM&dersNo=619"
  },
  "JDM 628E": {
   "code": "JDM 628E",
