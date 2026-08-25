@@ -1,9 +1,9 @@
 {
  "term": "2025-2026 Yaz Dönemi",
  "slug": "2025-2026-yaz",
- "snapshots": 65,
+ "snapshots": 66,
  "first": "2026-08-03T18:16:45Z",
- "last": "2026-08-25T08:06:10Z",
+ "last": "2026-08-25T09:59:31Z",
  "courses": [
   {
    "crn": "10001",
@@ -24248,6 +24248,26 @@
   {
    "crn": "15114",
    "capacity": 30,
+   "enrolled": 0
+  },
+  {
+   "crn": "15115",
+   "capacity": 50,
+   "enrolled": 0
+  },
+  {
+   "crn": "15116",
+   "capacity": 50,
+   "enrolled": 0
+  },
+  {
+   "crn": "15117",
+   "capacity": 70,
+   "enrolled": 0
+  },
+  {
+   "crn": "15118",
+   "capacity": 70,
    "enrolled": 0
   },
   {
