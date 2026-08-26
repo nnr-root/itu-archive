@@ -1,9 +1,9 @@
 {
  "term": "2025-2026 Yaz Dönemi",
  "slug": "2025-2026-yaz",
- "snapshots": 71,
+ "snapshots": 72,
  "first": "2026-08-03T18:16:45Z",
- "last": "2026-08-26T07:38:11Z",
+ "last": "2026-08-26T08:30:54Z",
  "courses": [
   {
    "crn": "10001",
@@ -6112,7 +6112,7 @@
   },
   {
    "crn": "11240",
-   "capacity": 35,
+   "capacity": 0,
    "enrolled": 0
   },
   {
@@ -24288,6 +24288,61 @@
   {
    "crn": "15124",
    "capacity": 40,
+   "enrolled": 0
+  },
+  {
+   "crn": "15125",
+   "capacity": 40,
+   "enrolled": 0
+  },
+  {
+   "crn": "15126",
+   "capacity": 40,
+   "enrolled": 0
+  },
+  {
+   "crn": "15127",
+   "capacity": 40,
+   "enrolled": 0
+  },
+  {
+   "crn": "15128",
+   "capacity": 40,
+   "enrolled": 0
+  },
+  {
+   "crn": "15129",
+   "capacity": 40,
+   "enrolled": 0
+  },
+  {
+   "crn": "15130",
+   "capacity": 30,
+   "enrolled": 0
+  },
+  {
+   "crn": "15131",
+   "capacity": 30,
+   "enrolled": 0
+  },
+  {
+   "crn": "15132",
+   "capacity": 20,
+   "enrolled": 0
+  },
+  {
+   "crn": "15133",
+   "capacity": 80,
+   "enrolled": 0
+  },
+  {
+   "crn": "15134",
+   "capacity": 80,
+   "enrolled": 0
+  },
+  {
+   "crn": "15135",
+   "capacity": 35,
    "enrolled": 0
   },
   {
