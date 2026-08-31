@@ -77199,7 +77199,7 @@
   "THO",
   "Funda Bozkurt Saygı",
   "Çarşamba 08:30/10:29 | Perşembe 08:30/10:29",
-  15,
+  12,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -77214,7 +77214,7 @@
   "THO",
   "Yıldız Çankaya",
   "Çarşamba 10:30/12:29 | Perşembe 10:30/12:29",
-  15,
+  12,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -77229,7 +77229,7 @@
   "THO",
   "Funda Bozkurt Saygı",
   "Çarşamba 10:30/12:29 | Perşembe 10:30/12:29",
-  15,
+  12,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -77257,7 +77257,7 @@
   "THO",
   "Şener Günay",
   "Cuma 14:00/15:59",
-  20,
+  25,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -77272,7 +77272,7 @@
   "THO",
   "Salim Sınar",
   "Pazartesi 10:30/12:29 | Salı 15:30/17:29",
-  20,
+  25,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -77360,9 +77360,9 @@
   "THO 317",
   "Sahne Projesi I (Kredisiz)",
   "THO",
-  "Funda Bozkurt Saygı",
-  "Perşembe 13:30/15:29 | Perşembe 15:30/17:29",
-  5,
+  "-",
+  "",
+  0,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -88333,8 +88333,7 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "DEN_LS",
-   "OSN_YD"
+   "DEN_LS"
   ]
  ],
  [
@@ -96306,22 +96305,6 @@
   []
  ],
  [
-  "12885",
-  "LAT 161",
-  "English Composition",
-  "LAT",
-  "-",
-  "",
-  30,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "SMT_LS",
-   "STP_LS"
-  ]
- ],
- [
   "12886",
   "MHY 505E",
   "Business Development",
@@ -98244,7 +98227,7 @@
   "PAZ",
   "Emre Onur Kahya",
   "Salı 13:30/16:29",
-  0,
+  40,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -116466,7 +116449,7 @@
   "Engineering Mechanics",
   "MEK",
   "Ali Kılıç , Şule Selçuk",
-  "Cuma 14:30/17:29",
+  "Pazartesi 13:30/16:29",
   50,
   0,
   "LS",
@@ -131233,6 +131216,68 @@
   "LUI",
   "Fiziksel (Yüz yüze)",
   []
+ ],
+ [
+  "15145",
+  "THO 117",
+  "Kondisyon Ve Esneme I (Krdsz)",
+  "THO",
+  "Funda Bozkurt Saygı",
+  "Çarşamba 13:30/15:29 | Perşembe 13:30/15:29",
+  12,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "THO_LS"
+  ]
+ ],
+ [
+  "15146",
+  "SES 427",
+  "Sahne Bilgisi ve Jest Mimik",
+  "SES",
+  "Kemal Akdoğan",
+  "Çarşamba 08:30/10:29",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CAB_LS",
+   "CEB_LS",
+   "SES_LS"
+  ]
+ ],
+ [
+  "15147",
+  "MMD 102E",
+  "Ethics for Maritime Business",
+  "MMD",
+  "Burak Zincir",
+  "Salı 08:30/10:29",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MMD_LS"
+  ]
+ ],
+ [
+  "15148",
+  "MMD 203E",
+  "Research Methods",
+  "MMD",
+  "Pelin Bolat",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MMD_LS"
+  ]
  ],
  [
   "30003",
