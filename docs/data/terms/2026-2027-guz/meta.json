@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-08-31T08:38:04Z",
+ "scrapedAt": "2026-08-31T16:13:40Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5013,
- "courses": 3502,
+ "sections": 5036,
+ "courses": 3524,
  "branches": [
   {
    "code": "ABM",
@@ -266,7 +266,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 22
+   "sections": 25
   },
   {
    "code": "DNK",
@@ -287,7 +287,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 47
+   "sections": 48
   },
   {
    "code": "DUM",
@@ -482,7 +482,7 @@
     "LS",
     "LU"
    ],
-   "sections": 114
+   "sections": 113
   },
   {
    "code": "GGP",
@@ -633,6 +633,13 @@
    "sections": 6
   },
   {
+   "code": "ISH",
+   "levels": [
+    "LS"
+   ],
+   "sections": 3
+  },
+  {
    "code": "ISL",
    "levels": [
     "LS",
@@ -666,7 +673,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 56
+   "sections": 57
   },
   {
    "code": "ITY",
@@ -953,14 +960,14 @@
    "levels": [
     "LU"
    ],
-   "sections": 8
+   "sections": 9
   },
   {
    "code": "MMD",
    "levels": [
     "LS"
    ],
-   "sections": 2
+   "sections": 17
   },
   {
    "code": "MMI",
@@ -1358,14 +1365,14 @@
    "levels": [
     "LS"
    ],
-   "sections": 41
+   "sections": 42
   },
   {
    "code": "THO",
    "levels": [
     "LS"
    ],
-   "sections": 39
+   "sections": 38
   },
   {
    "code": "TKY",
@@ -1523,11 +1530,11 @@
   }
  ],
  "stats": {
-  "sections": 5013,
-  "courses": 3502,
-  "branches": 213,
-  "instructors": 1721,
-  "capacity": 243665,
+  "sections": 5036,
+  "courses": 3524,
+  "branches": 214,
+  "instructors": 1729,
+  "capacity": 245253,
   "enrolled": 1204
  }
 }
