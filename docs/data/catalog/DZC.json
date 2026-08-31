@@ -821,6 +821,112 @@
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=DZC&dersNo=516"
  },
+ "DZC 519": {
+  "code": "DZC 519",
+  "name": "Denizel Alanda Siber Güvenlik",
+  "nameEn": "Maritime Cyber Security",
+  "language": "Türkçe",
+  "credits": {
+   "theory": 3,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 7.5
+  },
+  "description": "Siber güvenlik parametreleri, Siber alan, Siber tehdit ve saldırılar, Siber suçlar, Denizcilik alanında siber güvenlik, Denizcilik siber uzayı, Liman temelli siber uzay, Gemi temelli siber uzay, Denizel alanda siber güvenlik tehditleri, önlem ve uygulamaları, Denizel siber uzaya yönelik gerçekleşmiş saldırılar, Liman ve gemilere yönelik siber saldırı yolları, Denizcilik sektörü içinde siber tehditlere karşı önlemler, Denizcilik alanındaki güvenlik regülasyonları ve siber güvenlik, Türkiye’de siber güvenlik ve denizcilik Cyber security parameters, Cyber space, Cyber threats and attacks, Cybercrime, Cyber security in the maritime field, Maritime cyber space, Port-based cyber space, Ship-based cyber space, Marine areas in cyber security threats, measures and applications, Realized cyber-attacks against maritime domain, Methods of cyber-attacks to ports and ships precautions against cyber threats in maritime sector, Security regulations and cyber security in maritime domain, Maritime cyber security in Turkey.",
+  "outcomes": [
+   "Siber Güvenlik kavramının kapsamını bilirler",
+   "Denizel alanda Siber Güvenlik tanımını anlayabilirler.",
+   "Denizel alanda siber uzay kapsamını kavrayabilirler.",
+   "Denizel alan için siber tehditler ve önlemler hakkında yorum yapabilirler.",
+   "Denizel alanda siber güvenlik farkındalıklarını geliştirebilirler",
+   "Denizel alandaki teknolojik sistemler için siber güvenlik açısından neden sonuç ilişkisi geliştirebilirler",
+   "Ulusal ve uluslararası alanda denizcilik açısından siber güvenlik kavramı için bir bakış açısı oluşturabilirler."
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Siber güvenlik kavramı",
+   "Hafta 2 · Siber alan",
+   "Hafta 3 · Siber tehdit ve saldırılar",
+   "Hafta 4 · Siber suçlar",
+   "Hafta 5 · Denizcilikte bilgi ve iletişim teknolojileri ve siber uzay",
+   "Hafta 6 · Liman temelli siber uzay",
+   "Hafta 7 · Gemi temelli siber uzay",
+   "Hafta 8 · Denizcilikte siber güvenlik tehditleri, önlem ve uygulamaları",
+   "Hafta 9 · Denizcilikte siber uzaya yönelik gerçekleşmiş saldırılar ve vaka analizleri",
+   "Hafta 10 · Liman ve gemilere yönelik siber saldırı yolları",
+   "Hafta 11 · Denizcilik sektörü içinde siber tehditlere karşı önlemler",
+   "Hafta 12 · Denizcilikte siber güvenlik farkındalığı ve dinamikleri",
+   "Hafta 13 · Denizcilik alanındaki güvenlik regülasyonları ve siber güvenlik",
+   "Hafta 14 · Türkiye’de siber güvenlik ve denizcilik"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Siber güvenlik kavramı"
+   },
+   {
+    "week": 2,
+    "topic": "Siber alan"
+   },
+   {
+    "week": 3,
+    "topic": "Siber tehdit ve saldırılar"
+   },
+   {
+    "week": 4,
+    "topic": "Siber suçlar"
+   },
+   {
+    "week": 5,
+    "topic": "Denizcilikte bilgi ve iletişim teknolojileri ve siber uzay"
+   },
+   {
+    "week": 6,
+    "topic": "Liman temelli siber uzay"
+   },
+   {
+    "week": 7,
+    "topic": "Gemi temelli siber uzay"
+   },
+   {
+    "week": 8,
+    "topic": "Denizcilikte siber güvenlik tehditleri, önlem ve uygulamaları"
+   },
+   {
+    "week": 9,
+    "topic": "Denizcilikte siber uzaya yönelik gerçekleşmiş saldırılar ve vaka analizleri"
+   },
+   {
+    "week": 10,
+    "topic": "Liman ve gemilere yönelik siber saldırı yolları"
+   },
+   {
+    "week": 11,
+    "topic": "Denizcilik sektörü içinde siber tehditlere karşı önlemler"
+   },
+   {
+    "week": 12,
+    "topic": "Denizcilikte siber güvenlik farkındalığı ve dinamikleri"
+   },
+   {
+    "week": 13,
+    "topic": "Denizcilik alanındaki güvenlik regülasyonları ve siber güvenlik"
+   },
+   {
+    "week": 14,
+    "topic": "Türkiye’de siber güvenlik ve denizcilik"
+   }
+  ],
+  "textbooks": [
+   "The Guidelines on Cyber Security onboard, BIMCO, CLIA, ICS, INTERCARGO, INTERTANKO, 2016",
+   "Maritime Security, Second Edition: An Introduction 2nd Edition by Michael McNicholas, 2016",
+   "Michael Robinson, Kevin Jones, Helge Janicke, Cyber warfare: Issues and challenges, Computers & Security, Volume 49, March 2015, Pages 70-94,",
+   "Christian Bueger, What is maritime security?, Marine Policy, Volume 53, March 2015, Pages 159-164",
+   "Maritime Critical Infrastructure Protection: DHS Need to Better Address Port Cybersecurity Paperback – January 14, 2015 by United States Government Accountability Office",
+   "U.S. Fleet Cyber Command Strategic Plan 2015-2020 Paperback – January 10, 2016 by U.S. Fleet Cyber Command (Author), Penny Hill Press Inc (Editor)"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=DZC&dersNo=519"
+ },
  "DZC 522": {
   "code": "DZC 522",
   "name": "Denizcilikte Güvenlik Yönetimi",
@@ -1256,115 +1362,6 @@
    "Schaltegger,S, Burritt, R., Petersen, H. (2017). An Introduction to Corporate Environmental Management. Routledge."
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=DZC&dersNo=602"
- },
- "DZC 603E": {
-  "code": "DZC 603E",
-  "name": "Deniz Güvenliği İstihbaratı",
-  "nameEn": "Maritime Security Intelligence",
-  "language": "Türkçe/English",
-  "credits": {
-   "theory": 3,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "Liman güvenliğine yönelik küresel tehditler, Liman güvenlik istihbaratı ve terörle mücadele, İstihbarat planlama süreci, Denizcilikte terör ve acil durum yönetimi, Denizcilikte ISM Kod uygulamaları, Denizcilikte ISPS Kod uygulamaları, Gemi güvenlik planı ve denetleme prosedürleri, Liman güvenlik planı ve denetleme prosedürleri, Liman tesisi güvenlik değerlendirmesi, Liman tesisi güvenliğine ait eğitim, talim ve tatbikatlar, Denizcilikte güvenlik ve kalite kültürü, Uluslararası denizcilik güvenlik işbirliği, Denizcilikte siber saldırılar ve siber güvenlik, Deniz güvenliğinde durumsal farkındalık. Global threats to port security, Port security intelligence and counter-terrorism, Intelligence planning process, Terrorism and emergency management in Maritime, ISM Code Applications in MaritimeISPS Code Applications in maritime, Ship security plan and inspection procedures, Port security plan and inspection procedures, Port facility security assessment, Training, drills and exercises on port facility security, Security and quality culture in maritime, International maritime security cooperation, Cyber attacks and cyber security in maritime, Situational awareness in maritime security.",
-  "outcomes": [
-   "Güvenlik ile ilgili kavramları ve denizcilikte uygulamalarını bilebilirler.",
-   "Güvenlik ile ilgili kavramları ve denizcilikte uygulamalarını bilebilirler.",
-   "Denizcilik alanında emniyet ile ilgili politikaları değerlendirebilirler.",
-   "Denizcilik alanında emniyet ile ilgili politikaları değerlendirebilirler.",
-   "Gemi ve limanlarda güvenlik prensiplerini bilebilirler.",
-   "Gemi ve limanlarda güvenlik prensiplerini bilebilirler.",
-   "Gemi ve limanlardaki güvenlik teknolojilerinin mevcut durumunu bilebilirler.",
-   "Gemi ve limanlardaki güvenlik teknolojilerinin mevcut durumunu bilebilirler."
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Liman Güvenliğine Yönelik Küresel Tehditler",
-   "Hafta 2 · Liman Güvenlik İstihbaratı ve Terörle Mücadele",
-   "Hafta 3 · İstihbarat Planlama Süreci",
-   "Hafta 4 · Denizcilikte Terör ve Acil Durum Yönetimi",
-   "Hafta 5 · Denizcilikte ISM Kod Uygulamaları",
-   "Hafta 6 · Denizcilikte ISPS Kod Uygulamaları",
-   "Hafta 7 · Gemi Güvenlik Planı ve Denetleme Prosedürleri",
-   "Hafta 8 · Liman Güvenlik Planı ve Denetleme Prosedürleri",
-   "Hafta 9 · Liman Tesisi Güvenlik Değerlendirmesi",
-   "Hafta 10 · Liman Tesisi Güvenliğine Ait Eğitim, Talim ve Tatbikatlar",
-   "Hafta 11 · Denizcilikte Güvenlik ve Kalite Kültürü",
-   "Hafta 12 · Uluslararası Denizcilik Güvenlik İşbirliği",
-   "Hafta 13 · Denizcilikte Siber Saldırılar ve Siber Güvenlik",
-   "Hafta 14 · Deniz Güvenliğinde Durumsal Farkındalık"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Liman Güvenliğine Yönelik Küresel Tehditler"
-   },
-   {
-    "week": 2,
-    "topic": "Liman Güvenlik İstihbaratı ve Terörle Mücadele"
-   },
-   {
-    "week": 3,
-    "topic": "İstihbarat Planlama Süreci"
-   },
-   {
-    "week": 4,
-    "topic": "Denizcilikte Terör ve Acil Durum Yönetimi"
-   },
-   {
-    "week": 5,
-    "topic": "Denizcilikte ISM Kod Uygulamaları"
-   },
-   {
-    "week": 6,
-    "topic": "Denizcilikte ISPS Kod Uygulamaları"
-   },
-   {
-    "week": 7,
-    "topic": "Gemi Güvenlik Planı ve Denetleme Prosedürleri"
-   },
-   {
-    "week": 8,
-    "topic": "Liman Güvenlik Planı ve Denetleme Prosedürleri"
-   },
-   {
-    "week": 9,
-    "topic": "Liman Tesisi Güvenlik Değerlendirmesi"
-   },
-   {
-    "week": 10,
-    "topic": "Liman Tesisi Güvenliğine Ait Eğitim, Talim ve Tatbikatlar"
-   },
-   {
-    "week": 11,
-    "topic": "Denizcilikte Güvenlik ve Kalite Kültürü"
-   },
-   {
-    "week": 12,
-    "topic": "Uluslararası Denizcilik Güvenlik İşbirliği"
-   },
-   {
-    "week": 13,
-    "topic": "Denizcilikte Siber Saldırılar ve Siber Güvenlik"
-   },
-   {
-    "week": 14,
-    "topic": "Deniz Güvenliğinde Durumsal Farkındalık"
-   }
-  ],
-  "textbooks": [
-   "Kumar, S., Dwivedi, D., Hussain, M.S. (2016). Maritime Security Challenges: The Changing Scenario, G.B. Books.",
-   "Kumar, S., Dwivedi, D., Hussain, M.S. (2016). Maritime Security Challenges: The Changing Scenario, G.B. Books.",
-   "Benny, D.J. (2015) Maritime Security: Protection of Marinas, Ports, Small Watercraft, Yachts, and Ships, CRC Press.",
-   "Benny, D.J. (2015) Maritime Security: Protection of Marinas, Ports, Small Watercraft, Yachts, and Ships, CRC Press.",
-   "Christopher, K. (2014) Port Security Management, CRC Press.",
-   "Christopher, K. (2014) Port Security Management, CRC Press.",
-   "Murphy, M.N. (2013). Contemporary Piracy and Maritime Terrorism: The Threat to International Security, Routledge.",
-   "Murphy, M.N. (2013). Contemporary Piracy and Maritime Terrorism: The Threat to International Security, Routledge."
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=DZC&dersNo=603"
  },
  "DZC 609": {
   "code": "DZC 609",

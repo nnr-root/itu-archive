@@ -170,7 +170,7 @@
   },
   {
    "branch": "DFH",
-   "courses": 86
+   "courses": 85
   },
   {
    "branch": "DNK",
@@ -190,7 +190,7 @@
   },
   {
    "branch": "DUY",
-   "courses": 6
+   "courses": 7
   },
   {
    "branch": "DZC",
@@ -226,7 +226,7 @@
   },
   {
    "branch": "EGC",
-   "courses": 2
+   "courses": 4
   },
   {
    "branch": "EHB",
@@ -278,7 +278,7 @@
   },
   {
    "branch": "FIZ",
-   "courses": 126
+   "courses": 127
   },
   {
    "branch": "FRA",
@@ -286,7 +286,7 @@
   },
   {
    "branch": "FZT",
-   "courses": 1
+   "courses": 2
   },
   {
    "branch": "GAM",
@@ -366,7 +366,7 @@
   },
   {
    "branch": "IEB",
-   "courses": 1
+   "courses": 4
   },
   {
    "branch": "IKE",
@@ -482,7 +482,7 @@
   },
   {
    "branch": "KIM",
-   "courses": 164
+   "courses": 165
   },
   {
    "branch": "KMM",
@@ -622,7 +622,7 @@
   },
   {
    "branch": "MMI",
-   "courses": 6
+   "courses": 4
   },
   {
    "branch": "MOD",
@@ -854,7 +854,7 @@
   },
   {
    "branch": "STP",
-   "courses": 8
+   "courses": 7
   },
   {
    "branch": "STR",
@@ -989,7 +989,7 @@
    "courses": 11
   }
  ],
- "generatedAt": "2026-08-24T06:15:28Z",
- "groups": 6243,
- "withContent": 7467
+ "generatedAt": "2026-08-31T11:58:05Z",
+ "groups": 6249,
+ "withContent": 7472
 }
