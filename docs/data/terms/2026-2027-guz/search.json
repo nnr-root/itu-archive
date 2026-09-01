@@ -111685,21 +111685,6 @@
   ]
  ],
  [
-  "13981",
-  "MIM 213",
-  "Yapısal Analiz ve Tasarım II",
-  "MIM",
-  "Seden Acun Özgünler , Seda Erdem",
-  "Salı 10:00/11:59 | Perşembe 10:30/12:29",
-  100,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "MIM_LS"
-  ]
- ],
- [
   "13982",
   "MIM 231E",
   "Building Materials",
@@ -131638,6 +131623,115 @@
   "Fiziksel (Yüz yüze)",
   [
    "MTM_LS"
+  ]
+ ],
+ [
+  "15174",
+  "DFH 203E",
+  "Basic Swimming Skills",
+  "DFH",
+  "Hakan Çap",
+  "Salı 10:30/12:29",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15175",
+  "DUI 103E",
+  "Seamanship",
+  "DUI",
+  "Orhan Gönel",
+  "Pazartesi 13:30/17:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15176",
+  "MAT 103E",
+  "Mathematics I",
+  "MAT",
+  "Sabire Cömert",
+  "Pazartesi 08:30/11:29 | Çarşamba 08:30/10:29",
+  80,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS",
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15177",
+  "KIM 101EL",
+  "General Chemistry I Lab",
+  "KIM",
+  "Yasin Arslanoğlu",
+  "Perşembe 08:30/10:29",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS",
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15178",
+  "KIM 101EL",
+  "General Chemistry I Lab",
+  "KIM",
+  "Yasin Arslanoğlu",
+  "Perşembe 10:30/12:29",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS",
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15179",
+  "KIM 101E",
+  "General Chemistry I",
+  "KIM",
+  "Emrah Şık",
+  "Perşembe 15:30/18:29",
+  100,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS",
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15180",
+  "MIM 231",
+  "Yapı Malzemesi",
+  "MIM",
+  "Seden Acun Özgünler , Seda Erdem",
+  "Salı 10:00/11:59 | Perşembe 10:30/12:29",
+  100,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MIM_LS"
   ]
  ],
  [

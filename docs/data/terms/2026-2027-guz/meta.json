@@ -1,10 +1,10 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-08-31T23:55:25Z",
+ "scrapedAt": "2026-09-01T07:47:39Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5036,
+ "sections": 5042,
  "courses": 3524,
  "branches": [
   {
@@ -266,7 +266,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 25
+   "sections": 26
   },
   {
    "code": "DNK",
@@ -287,7 +287,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 48
+   "sections": 49
   },
   {
    "code": "DUM",
@@ -745,7 +745,7 @@
     "LS",
     "LU"
    ],
-   "sections": 169
+   "sections": 172
   },
   {
    "code": "KMM",
@@ -833,7 +833,7 @@
     "LS",
     "LU"
    ],
-   "sections": 119
+   "sections": 120
   },
   {
    "code": "MBA",
@@ -1530,11 +1530,11 @@
   }
  ],
  "stats": {
-  "sections": 5036,
+  "sections": 5042,
   "courses": 3524,
   "branches": 214,
   "instructors": 1729,
-  "capacity": 245253,
+  "capacity": 245563,
   "enrolled": 1204
  }
 }
