@@ -3,9 +3,9 @@
  "programName": "İklim Bilimi ve Meteoroloji Mühendisliği Lisans",
  "faculty": "Uçak ve Uzay Bilimleri Fakültesi",
  "level": "LS",
- "planLabel": "İklim Bilimi ve Meteoroloji Mühendisliği Lisans Programı 2024-2025 / Güz Dönemi Sonrası",
- "totalCredits": "130,50",
- "totalEcts": "240,00",
+ "planLabel": "İklim Bilimi ve Meteoroloji Mühendisliği Lisans Programı 2026-2027 / Güz Dönemi Sonrası",
+ "totalCredits": "131,00",
+ "totalEcts": "241,00",
  "semesters": [
   {
    "title": "1. Yarıyıl",
@@ -49,7 +49,7 @@
     },
     {
      "course": {
-      "code": "FIZ 101EL",
+      "code": "",
       "name": "Physics I Laboratory",
       "language": "English",
       "required": "Z",
@@ -73,7 +73,7 @@
     },
     {
      "course": {
-      "code": "KIM 101EL",
+      "code": "",
       "name": "General Chemistry I Lab",
       "language": "English",
       "required": "Z",
@@ -166,7 +166,7 @@
     },
     {
      "course": {
-      "code": "FIZ 102EL",
+      "code": "",
       "name": "Physics II Laboratory",
       "language": "English",
       "required": "Z",
@@ -204,7 +204,7 @@
     },
     {
      "course": {
-      "code": "ING 112A",
+      "code": "",
       "name": "Basics of Academic Writing",
       "language": "English",
       "required": "Z",
@@ -283,7 +283,7 @@
     },
     {
      "course": {
-      "code": "ING 201A",
+      "code": "",
       "name": "Essentials of Res.Paper Writ.",
       "language": "English",
       "required": "Z",
@@ -297,7 +297,7 @@
     {
      "elective": {
       "title": "3.yy Seçime Bağlı Ders(TB)",
-      "groupId": "11681",
+      "groupId": "13650",
       "credits": "3",
       "ects": [
        4,
@@ -470,7 +470,7 @@
     {
      "elective": {
       "title": "5.yy Seçime Bağlı Ders(MT)",
-      "groupId": "11683",
+      "groupId": "13652",
       "credits": "2,5",
       "ects": [
        4.5
@@ -506,7 +506,7 @@
     {
      "elective": {
       "title": "5.yy Seçime Bağlı Ders(ITB)",
-      "groupId": "11682",
+      "groupId": "13651",
       "credits": "3",
       "ects": [
        4
@@ -517,28 +517,28 @@
         "name": "Heykel Sanatına Bakış"
        },
        {
-        "code": "SNT 102",
-        "name": "Fotoğraf"
-       },
-       {
         "code": "SNT 102E",
         "name": "Photography"
        },
        {
-        "code": "SNT 103",
-        "name": "Desen"
+        "code": "SNT 102",
+        "name": "Fotoğraf"
        },
        {
         "code": "SNT 103E",
         "name": "Drawing"
        },
        {
-        "code": "SNT 104",
-        "name": "Mitoloji ve Sanat"
+        "code": "SNT 103",
+        "name": "Desen"
        },
        {
         "code": "SNT 104E",
         "name": "Mythology and Art"
+       },
+       {
+        "code": "SNT 104",
+        "name": "Mitoloji ve Sanat"
        },
        {
         "code": "SNT 105",
@@ -565,12 +565,12 @@
         "name": "Moda Tasarımı ve Sanat"
        },
        {
-        "code": "SNT 112",
-        "name": "Tiyatro"
-       },
-       {
         "code": "SNT 112E",
         "name": "Theater"
+       },
+       {
+        "code": "SNT 112",
+        "name": "Tiyatro"
        },
        {
         "code": "SNT 113",
@@ -613,12 +613,12 @@
         "name": "Seramik Sanatı"
        },
        {
-        "code": "SNT 123",
-        "name": "Film Yapımı"
-       },
-       {
         "code": "SNT 123E",
         "name": "Film Production"
+       },
+       {
+        "code": "SNT 123",
+        "name": "Film Yapımı"
        },
        {
         "code": "SNT 211",
@@ -717,7 +717,7 @@
     {
      "elective": {
       "title": "6.yy Seçime Bağlı Ders(MT)",
-      "groupId": "11685",
+      "groupId": "13654",
       "credits": "2,5",
       "ects": [
        4.5
@@ -765,7 +765,7 @@
     {
      "elective": {
       "title": "6.yy Seçime Bağlı Ders(ITB)",
-      "groupId": "11684",
+      "groupId": "13653",
       "credits": "3",
       "ects": [
        4
@@ -1128,20 +1128,20 @@
         "name": "Ottoman History"
        },
        {
-        "code": "ITB 208",
-        "name": "Modern Türkiye'nin Oluşumu"
-       },
-       {
         "code": "ITB 208E",
         "name": "Formations of Modern Türkiye"
        },
        {
-        "code": "ITB 209",
-        "name": "Türkiye ve Dünya"
+        "code": "ITB 208",
+        "name": "Modern Türkiye'nin Oluşumu"
        },
        {
         "code": "ITB 209E",
         "name": "Türkiye in World Affairs"
+       },
+       {
+        "code": "ITB 209",
+        "name": "Türkiye ve Dünya"
        },
        {
         "code": "ITB 211E",
@@ -1152,24 +1152,24 @@
         "name": "Art,Culture and Society"
        },
        {
-        "code": "ITB 213",
-        "name": "Edebiyat ve Toplum"
-       },
-       {
         "code": "ITB 213E",
         "name": "Toplics in Literature and Society"
+       },
+       {
+        "code": "ITB 213",
+        "name": "Edebiyat ve Toplum"
        },
        {
         "code": "ITB 214E",
         "name": "The Modern Middle East"
        },
        {
-        "code": "ITB 215",
-        "name": "Tarih ve Toplum"
-       },
-       {
         "code": "ITB 215E",
         "name": "Topics in Hist.and Society"
+       },
+       {
+        "code": "ITB 215",
+        "name": "Tarih ve Toplum"
        },
        {
         "code": "ITB 216",
@@ -1180,36 +1180,36 @@
         "name": "Economy and Society"
        },
        {
-        "code": "ITB 217",
-        "name": "Mühendislik Etiği"
-       },
-       {
         "code": "ITB 217E",
         "name": "Engineering Ethics"
        },
        {
-        "code": "ITB 218",
-        "name": "Bilim ve Teknoloji Tarihi"
+        "code": "ITB 217",
+        "name": "Mühendislik Etiği"
        },
        {
         "code": "ITB 218E",
         "name": "History of Science&Technology"
        },
        {
-        "code": "ITB 219",
-        "name": "Etik"
+        "code": "ITB 218",
+        "name": "Bilim ve Teknoloji Tarihi"
        },
        {
         "code": "ITB 219E",
         "name": "Ethics"
        },
        {
-        "code": "ITB 220",
-        "name": "Psikoloji"
+        "code": "ITB 219",
+        "name": "Etik"
        },
        {
         "code": "ITB 220E",
         "name": "Psychology"
+       },
+       {
+        "code": "ITB 220",
+        "name": "Psikoloji"
        },
        {
         "code": "ITB 221",
@@ -1220,12 +1220,12 @@
         "name": "Kent ve Toplum"
        },
        {
-        "code": "ITB 224",
-        "name": "Çevre ve Toplum"
-       },
-       {
         "code": "ITB 224E",
         "name": "Environment and Society"
+       },
+       {
+        "code": "ITB 224",
+        "name": "Çevre ve Toplum"
        },
        {
         "code": "ITB 225E",
@@ -1236,32 +1236,32 @@
         "name": "Philosophy of Art"
        },
        {
-        "code": "ITB 227",
-        "name": "Siyaset Teorisi"
-       },
-       {
         "code": "ITB 227E",
         "name": "Political Theory"
        },
        {
-        "code": "ITB 228",
-        "name": "Toplumsal Cinsiyet Çalışmaları"
+        "code": "ITB 227",
+        "name": "Siyaset Teorisi"
        },
        {
         "code": "ITB 228E",
         "name": "Gender Studies"
        },
        {
+        "code": "ITB 228",
+        "name": "Toplumsal Cinsiyet Çalışmaları"
+       },
+       {
         "code": "ITB 230",
         "name": "Afet Bilinci"
        },
        {
-        "code": "ITB 231",
-        "name": "Gönüllülük Çalışmaları"
-       },
-       {
         "code": "ITB 231E",
         "name": "Volunteering Studies"
+       },
+       {
+        "code": "ITB 231",
+        "name": "Gönüllülük Çalışmaları"
        },
        {
         "code": "ITB 234",
@@ -1370,7 +1370,7 @@
     {
      "elective": {
       "title": "7.yy Seçime Bağlı Ders I(MT)",
-      "groupId": "11687",
+      "groupId": "13656",
       "credits": "2,5",
       "ects": [
        5.5
@@ -1434,7 +1434,7 @@
     {
      "elective": {
       "title": "7.yy Seçime Bağlı Ders(TM)",
-      "groupId": "11686",
+      "groupId": "13655",
       "credits": "2",
       "ects": [
        5.5
@@ -1458,14 +1458,13 @@
    "items": [
     {
      "course": {
-      "code": "MTO 426E",
+      "code": "MTO 408E",
       "name": "Micrometeorology",
       "language": "English",
       "required": "Z",
-      "credits": 2.5,
+      "credits": 3,
       "ects": 7.5,
-      "theory": 2,
-      "tutorial": 1,
+      "theory": 3,
       "type": "MT"
      }
     },
@@ -1531,7 +1530,7 @@
     {
      "elective": {
       "title": "8.yy Seçmeli Ders I (MT)",
-      "groupId": "11688",
+      "groupId": "13657",
       "credits": "2,5",
       "ects": [
        4.5

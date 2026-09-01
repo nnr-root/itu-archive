@@ -24,7 +24,7 @@
     },
     {
      "course": {
-      "code": "FIZ 101EL",
+      "code": "",
       "name": "Physics I Laboratory",
       "language": "English",
       "required": "Z",
@@ -48,7 +48,7 @@
     },
     {
      "course": {
-      "code": "KIM 101EL",
+      "code": "",
       "name": "General Chemistry I Lab",
       "language": "English",
       "required": "Z",
@@ -185,7 +185,7 @@
     },
     {
      "course": {
-      "code": "KIM 104EL",
+      "code": "",
       "name": "Organic Chemistry Laboratory",
       "language": "English",
       "required": "Z",
@@ -209,7 +209,7 @@
     },
     {
      "course": {
-      "code": "FIZ 102EL",
+      "code": "",
       "name": "Physics II Laboratory",
       "language": "English",
       "required": "Z",
@@ -447,7 +447,7 @@
     },
     {
      "course": {
-      "code": "KIM 206EL",
+      "code": "",
       "name": "Analitical Chemistry and Instrumental Analysis Laboratory",
       "language": "English",
       "required": "Z",

@@ -5,7 +5,8 @@
  "level": "LS",
  "planLabel": "Türk Halk Oyunları Lisans Programı (Türkçe) 2012-2013 / Güz Dönemi Sonrası",
  "totalCredits": "151,50",
- "totalEcts": "0,00",
+ "totalEcts": "240,00",
+ "totalEctsComputed": true,
  "semesters": [
   {
    "title": "1. Yarıyıl",
@@ -1092,8 +1093,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 2,
-      "tutorial": 4,
-      "type": "-"
+      "tutorial": 4
      }
     }
    ]
@@ -1617,8 +1617,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 2,
-      "tutorial": 4,
-      "type": "-"
+      "tutorial": 4
      }
     }
    ]
@@ -2154,8 +2153,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 2,
-      "tutorial": 4,
-      "type": "-"
+      "tutorial": 4
      }
     },
     {
@@ -2194,8 +2192,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 2,
-      "tutorial": 4,
-      "type": "-"
+      "tutorial": 4
      }
     },
     {

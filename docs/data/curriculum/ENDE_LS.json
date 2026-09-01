@@ -36,7 +36,7 @@
     },
     {
      "course": {
-      "code": "FIZ 101EL",
+      "code": "",
       "name": "Physics I Laboratory",
       "language": "English",
       "required": "Z",
@@ -125,7 +125,7 @@
     },
     {
      "course": {
-      "code": "FIZ 102EL",
+      "code": "",
       "name": "Physics II Laboratory",
       "language": "English",
       "required": "Z",
@@ -149,7 +149,7 @@
     },
     {
      "course": {
-      "code": "KIM 101EL",
+      "code": "",
       "name": "General Chemistry I Lab",
       "language": "English",
       "required": "Z",
@@ -197,7 +197,7 @@
     },
     {
      "course": {
-      "code": "ING 112A",
+      "code": "",
       "name": "Basics of Academic Writing",
       "language": "English",
       "required": "Z",
@@ -275,7 +275,7 @@
     },
     {
      "course": {
-      "code": "ING 201A",
+      "code": "",
       "name": "Essentials of Res.Paper Writ.",
       "language": "English",
       "required": "Z",
@@ -534,6 +534,7 @@
        4.5,
        5,
        6,
+       7,
        8
       ],
       "options": [
@@ -608,6 +609,14 @@
        {
         "code": "MAT 471E",
         "name": "Financial Mathematics"
+       },
+       {
+        "code": "VBA 313E",
+        "name": "Deep Learning"
+       },
+       {
+        "code": "VBA 315E",
+        "name": "Machine Learning"
        }
       ]
      }
@@ -1237,6 +1246,7 @@
       "ects": [
        4,
        6,
+       7,
        8
       ],
       "options": [
@@ -1327,6 +1337,18 @@
        {
         "code": "ISL 333E",
         "name": "Finance"
+       },
+       {
+        "code": "VBA 322E",
+        "name": "Computer Vision"
+       },
+       {
+        "code": "VBA 324E",
+        "name": "Fundamentals of Natural Language Processing"
+       },
+       {
+        "code": "VBA 326E",
+        "name": "Big Data and Analytics"
        }
       ]
      }
@@ -1375,7 +1397,7 @@
     },
     {
      "course": {
-      "code": "END 449E END 449",
+      "code": "END 449E",
       "name": "Undergraduate Seminar Course",
       "language": "English / Türkçe",
       "required": "Z",
@@ -1501,6 +1523,7 @@
        4.5,
        5,
        6,
+       7,
        8
       ],
       "options": [
@@ -1575,6 +1598,14 @@
        {
         "code": "MAT 471E",
         "name": "Financial Mathematics"
+       },
+       {
+        "code": "VBA 313E",
+        "name": "Deep Learning"
+       },
+       {
+        "code": "VBA 315E",
+        "name": "Machine Learning"
        }
       ]
      }
@@ -1743,6 +1774,7 @@
       "ects": [
        4,
        6,
+       7,
        8
       ],
       "options": [
@@ -1837,6 +1869,18 @@
        {
         "code": "ISL 333E",
         "name": "Finance"
+       },
+       {
+        "code": "VBA 322E",
+        "name": "Computer Vision"
+       },
+       {
+        "code": "VBA 324E",
+        "name": "Fundamentals of Natural Language Processing"
+       },
+       {
+        "code": "VBA 326E",
+        "name": "Big Data and Analytics"
        }
       ]
      }

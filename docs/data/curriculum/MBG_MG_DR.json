@@ -5,40 +5,38 @@
  "level": "DR",
  "planLabel": "Moleküler Biyoloji-Genetik ve Biyoteknoloji Doktora Programı 2022-2023 / Bahar Dönemi Sonrası",
  "totalCredits": "24,00",
- "totalEcts": "0,00",
+ "totalEcts": "195,00",
+ "totalEctsComputed": true,
  "semesters": [
   {
    "title": "Moleküler Biyoloji-Genetik ve Biyoteknoloji Doktora",
    "items": [
     {
      "course": {
-      "code": "MBG DRT",
+      "code": "",
       "name": "Tez Çalışması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 150,
-      "type": "Z"
+      "ects": 150
      }
     },
     {
      "course": {
-      "code": "MBG YET",
+      "code": "",
       "name": "Yeterlik Aşaması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 30,
-      "type": "Z"
+      "ects": 30
      }
     },
     {
      "course": {
-      "code": "MBG 696 MBG 696E",
+      "code": "MBG 696E",
       "name": "Bilimsel Araş.,Etik ve Seminer",
       "language": "Türkçe / English",
       "required": "Z",
       "ects": 7.5,
-      "theory": 2,
-      "type": "Z"
+      "theory": 2
      }
     },
     {

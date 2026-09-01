@@ -757,7 +757,7 @@
     },
     {
      "course": {
-      "code": "MIM 106 MIM 106E",
+      "code": "MIM 106E",
       "name": "Yapı Mekaniği",
       "language": "Türkçe / English",
       "required": "Z",
@@ -796,7 +796,7 @@
     },
     {
      "course": {
-      "code": "ING 112A",
+      "code": "",
       "name": "Basics of Academic Writing",
       "language": "English",
       "required": "Z",
@@ -1357,7 +1357,7 @@
    "items": [
     {
      "course": {
-      "code": "ING 201A",
+      "code": "",
       "name": "Essentials of Res.Paper Writ.",
       "language": "English",
       "required": "Z",
@@ -1370,7 +1370,7 @@
     },
     {
      "course": {
-      "code": "MIM 209 MIM 209E",
+      "code": "MIM 209E",
       "name": "Mimarlık Tarihi I",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1382,7 +1382,7 @@
     },
     {
      "course": {
-      "code": "MIM 231 MIM 231E",
+      "code": "MIM 231E",
       "name": "Yapı Malzemesi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1395,7 +1395,7 @@
     },
     {
      "course": {
-      "code": "MIM 208 MIM 208E",
+      "code": "MIM 208E",
       "name": "Yapısal Analiz ve Tasarım I",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1408,7 +1408,7 @@
     },
     {
      "course": {
-      "code": "MIM 203 MIM 203E",
+      "code": "MIM 203E",
       "name": "Mimarlıkta Yapı ve Yapım",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1421,7 +1421,7 @@
     },
     {
      "course": {
-      "code": "MIM 211 MIM 211E",
+      "code": "MIM 211E",
       "name": "Mimari Proje III",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1439,7 +1439,7 @@
    "items": [
     {
      "course": {
-      "code": "MIM 210 MIM 210E",
+      "code": "MIM 210E",
       "name": "Mimarlık Tarihi II",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1451,7 +1451,7 @@
     },
     {
      "course": {
-      "code": "MIM 213 MIM 213E",
+      "code": "MIM 213E",
       "name": "Yapısal Analiz ve Tasarım II",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1464,7 +1464,7 @@
     },
     {
      "course": {
-      "code": "MIM 212 MIM 212E",
+      "code": "MIM 212E",
       "name": "Mimari Proje IV",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1477,7 +1477,7 @@
     },
     {
      "course": {
-      "code": "MIM 204 MIM 204E",
+      "code": "MIM 204E",
       "name": "Mimarlık. Yapı Elemanları Tas.",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1490,7 +1490,7 @@
     },
     {
      "course": {
-      "code": "MIM 246 MIM 246E",
+      "code": "MIM 246E",
       "name": "Çevre Kontrolü Stüdyosu",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1508,7 +1508,7 @@
    "items": [
     {
      "course": {
-      "code": "EKO 201 EKO 201E",
+      "code": "EKO 201E",
       "name": "Ekonomi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1520,7 +1520,7 @@
     },
     {
      "course": {
-      "code": "MIM 351 MIM 351E",
+      "code": "MIM 351E",
       "name": "Mimari Proje V",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1544,7 +1544,7 @@
     },
     {
      "course": {
-      "code": "MIM 333 MIM 333E",
+      "code": "MIM 333E",
       "name": "Yapım Sistemleri",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1556,7 +1556,7 @@
     },
     {
      "course": {
-      "code": "MIM 304 MIM 304E",
+      "code": "MIM 304E",
       "name": "Mimarlık Tarihi III",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1568,7 +1568,7 @@
     },
     {
      "course": {
-      "code": "MIM 322 MIM 322E",
+      "code": "MIM 322E",
       "name": "Tarihi Çevre Koruma & Restr",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1580,7 +1580,7 @@
     },
     {
      "course": {
-      "code": "MIM 306 MIM 306E",
+      "code": "MIM 306E",
       "name": "Şehircilik ve İmar Hukuku",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1598,7 +1598,7 @@
    "items": [
     {
      "course": {
-      "code": "MIM 312 MIM 312E",
+      "code": "MIM 312E",
       "name": "Mimari Proje VI",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1622,7 +1622,7 @@
     },
     {
      "course": {
-      "code": "MIM 359 MIM 359E",
+      "code": "MIM 359E",
       "name": "Yapım Yönetimi ve Ekonomisi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1635,7 +1635,7 @@
     },
     {
      "course": {
-      "code": "MIM 361 MIM 361E",
+      "code": "MIM 361E",
       "name": "Rölöve ve Restorasyon Stüdyosu",
       "language": "Türkçe / English",
       "required": "Z",
@@ -2180,7 +2180,7 @@
     },
     {
      "course": {
-      "code": "MIM 411 MIM 411E",
+      "code": "MIM 411E",
       "name": "Mimari Proje VII",
       "language": "Türkçe / English",
       "required": "Z",
@@ -2193,7 +2193,7 @@
     },
     {
      "course": {
-      "code": "MIM 484 MIM 484E",
+      "code": "MIM 484E",
       "name": "Uygulama Projesi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -2718,7 +2718,7 @@
     },
     {
      "course": {
-      "code": "MIM 4902 MIM 4902E",
+      "code": "MIM 4902E",
       "name": "Diploma Projesi",
       "language": "Türkçe / English",
       "required": "Z",

@@ -5,19 +5,19 @@
  "level": "YL",
  "planLabel": "Sürdürülebilirlik (İngilizce) Yüksek Lisans Programı",
  "totalCredits": "24,00",
- "totalEcts": "0,00",
+ "totalEcts": "127,50",
+ "totalEctsComputed": true,
  "semesters": [
   {
    "title": "Sürdürülebilirlik (İngilizce) Yüksek Lisans",
    "items": [
     {
      "course": {
-      "code": "SUS YLT",
+      "code": "",
       "name": "Thesis",
       "language": "English",
       "required": "Z",
-      "ects": 60,
-      "type": "Z"
+      "ects": 60
      }
     },
     {
@@ -27,8 +27,7 @@
       "language": "English",
       "required": "Z",
       "ects": 7.5,
-      "theory": 2,
-      "type": "Z"
+      "theory": 2
      }
     },
     {

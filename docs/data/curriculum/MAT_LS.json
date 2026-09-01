@@ -24,7 +24,7 @@
     },
     {
      "course": {
-      "code": "FIZ 101EL",
+      "code": "",
       "name": "Physics I Laboratory",
       "language": "English",
       "required": "Z",
@@ -115,7 +115,7 @@
     },
     {
      "course": {
-      "code": "FIZ 102EL",
+      "code": "",
       "name": "Physics II Laboratory",
       "language": "English",
       "required": "Z",
@@ -254,7 +254,7 @@
     },
     {
      "course": {
-      "code": "ING 112A",
+      "code": "",
       "name": "Basics of Academic Writing",
       "language": "English",
       "required": "Z",
@@ -308,7 +308,7 @@
     },
     {
      "course": {
-      "code": "ING 201A",
+      "code": "",
       "name": "Essentials of Res.Paper Writ.",
       "language": "English",
       "required": "Z",
@@ -1214,7 +1214,6 @@
       "groupId": "12578",
       "credits": "3 / 3,5 / 4",
       "ects": [
-       4.5,
        6,
        7,
        8
@@ -1453,7 +1452,6 @@
       "groupId": "12579",
       "credits": "3 / 3,5 / 4",
       "ects": [
-       4.5,
        6,
        7,
        8
@@ -1721,7 +1719,6 @@
       "groupId": "12580",
       "credits": "3 / 3,5 / 4",
       "ects": [
-       4.5,
        6,
        7,
        8
@@ -1952,7 +1949,6 @@
       "groupId": "12581",
       "credits": "3 / 3,5 / 4",
       "ects": [
-       4.5,
        6,
        7,
        8
@@ -2191,7 +2187,6 @@
       "groupId": "12582",
       "credits": "3 / 3,5 / 4",
       "ects": [
-       4.5,
        6,
        7,
        8

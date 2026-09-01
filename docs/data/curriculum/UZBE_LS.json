@@ -3,8 +3,8 @@
  "programName": "Uzay Mühendisliği (İngilizce) Lisans",
  "faculty": "Uçak ve Uzay Bilimleri Fakültesi",
  "level": "LS",
- "planLabel": "Uzay Mühendisliği Lisans Programı (%100 İngilizce) 2021-2022 / Güz Dönemi Sonrası",
- "totalCredits": "131,00",
+ "planLabel": "Uzay Mühendisliği Lisans Programı (%100 İngilizce) 2026-2027 / Güz Dönemi Sonrası",
+ "totalCredits": "134,00",
  "totalEcts": "240,00",
  "semesters": [
   {
@@ -62,7 +62,7 @@
     },
     {
      "course": {
-      "code": "FIZ 101EL",
+      "code": "",
       "name": "Physics I Laboratory",
       "language": "English",
       "required": "Z",
@@ -87,6 +87,18 @@
     },
     {
      "course": {
+      "code": "UZB 103E",
+      "name": "Introduction to Astronautical Engineering and Ethics",
+      "language": "English",
+      "required": "Z",
+      "credits": 1,
+      "ects": 1,
+      "theory": 1,
+      "type": "MT"
+     }
+    },
+    {
+     "course": {
       "code": "ING 100",
       "name": "EAP Through Global Goals",
       "language": "English",
@@ -104,12 +116,12 @@
    "items": [
     {
      "course": {
-      "code": "UZB 106E",
-      "name": "Int.Astronaut. Eng.&Des.",
+      "code": "UZB 108E",
+      "name": "Introduction to Astronautical Engineering Design",
       "language": "English",
       "required": "Z",
       "credits": 3,
-      "ects": 5,
+      "ects": 4,
       "theory": 2,
       "tutorial": 2,
       "type": "MT"
@@ -154,7 +166,7 @@
     },
     {
      "course": {
-      "code": "ING 112A",
+      "code": "",
       "name": "Basics of Academic Writing",
       "language": "English",
       "required": "Z",
@@ -167,7 +179,7 @@
     },
     {
      "course": {
-      "code": "FIZ 102EL",
+      "code": "",
       "name": "Physics II Laboratory",
       "language": "English",
       "required": "Z",
@@ -330,19 +342,19 @@
     },
     {
      "course": {
-      "code": "UZB 337E",
-      "name": "Aerospace Structures",
+      "code": "UZB 206E",
+      "name": "Spacecraft Structures",
       "language": "English",
       "required": "Z",
-      "credits": 4,
+      "credits": 3,
       "ects": 4.5,
-      "theory": 4,
+      "theory": 3,
       "type": "MT"
      }
     },
     {
      "course": {
-      "code": "ING 201A",
+      "code": "",
       "name": "Essentials of Res.Paper Writ.",
       "language": "English",
       "required": "Z",
@@ -434,7 +446,7 @@
     {
      "elective": {
       "title": "5th Semester Elective Course I (ITB)",
-      "groupId": "9090",
+      "groupId": "13660",
       "credits": "3",
       "ects": [
        4,
@@ -903,7 +915,7 @@
     {
      "elective": {
       "title": "5th Semester Elective Course II (TB)",
-      "groupId": "9089",
+      "groupId": "13659",
       "credits": "3",
       "ects": [
        4,
@@ -1007,7 +1019,7 @@
     {
      "elective": {
       "title": "6th Semester Elective Course (TM)",
-      "groupId": "9088",
+      "groupId": "13658",
       "credits": "2,5 / 3",
       "ects": [
        5,
@@ -1134,7 +1146,7 @@
     {
      "elective": {
       "title": "7th Semester Elective Course I (MT)",
-      "groupId": "9087",
+      "groupId": "13662",
       "credits": "2,5 / 3",
       "ects": [
        4.5,
@@ -1201,7 +1213,7 @@
     {
      "elective": {
       "title": "7th Semester Elective Course II (TM)",
-      "groupId": "9086",
+      "groupId": "13661",
       "credits": "2,5 / 3",
       "ects": [
        5,
@@ -1320,7 +1332,7 @@
     {
      "elective": {
       "title": "8th Semester Elective Course I (ITB)",
-      "groupId": "9085",
+      "groupId": "13664",
       "credits": "3",
       "ects": [
        4,
@@ -1801,7 +1813,7 @@
     {
      "elective": {
       "title": "8th Semester Elective Course II (MT)",
-      "groupId": "9084",
+      "groupId": "13663",
       "credits": "2,5 / 3",
       "ects": [
        4.5,

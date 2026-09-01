@@ -24,7 +24,7 @@
     },
     {
      "course": {
-      "code": "FIZ 101EL",
+      "code": "",
       "name": "Physics I Laboratory",
       "language": "English",
       "required": "Z",
@@ -48,7 +48,7 @@
     },
     {
      "course": {
-      "code": "KIM 101EL",
+      "code": "",
       "name": "General Chemistry I Lab",
       "language": "English",
       "required": "Z",
@@ -125,7 +125,7 @@
     },
     {
      "course": {
-      "code": "FIZ 102EL",
+      "code": "",
       "name": "Physics II Laboratory",
       "language": "English",
       "required": "Z",
@@ -172,7 +172,7 @@
     },
     {
      "course": {
-      "code": "ING 112A",
+      "code": "",
       "name": "Basics of Academic Writing",
       "language": "English",
       "required": "Z",
@@ -361,7 +361,7 @@
     },
     {
      "course": {
-      "code": "ING 201A",
+      "code": "",
       "name": "Essentials of Res.Paper Writ.",
       "language": "English",
       "required": "Z",
@@ -684,6 +684,10 @@
         "name": "Gender and Sustainability in Economics , Business and Management"
        },
        {
+        "code": "ISL 451E",
+        "name": "Technology and Globalization"
+       },
+       {
         "code": "ISL 452E",
         "name": "Financial Inst.&Portfolio Mng."
        },
@@ -786,6 +790,14 @@
         "name": "Productivity and Performance Analysis in Production"
        },
        {
+        "code": "ISL 451E",
+        "name": "Technology and Globalization"
+       },
+       {
+        "code": "ISL 464E",
+        "name": "Deep Learning with Business Applications"
+       },
+       {
         "code": "ISL 467E",
         "name": "Management Eng.App.with Python"
        },
@@ -827,6 +839,10 @@
         "name": "Gender and Sustainability in Economics , Business and Management"
        },
        {
+        "code": "ISL 451E",
+        "name": "Technology and Globalization"
+       },
+       {
         "code": "ISL 452E",
         "name": "Financial Inst.&Portfolio Mng."
        },
@@ -841,6 +857,10 @@
        {
         "code": "ISL 462E",
         "name": "Turkish Economy"
+       },
+       {
+        "code": "ISL 464E",
+        "name": "Deep Learning with Business Applications"
        },
        {
         "code": "ISL 467E",

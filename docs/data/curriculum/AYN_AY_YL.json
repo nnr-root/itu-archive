@@ -5,7 +5,8 @@
  "level": "YL",
  "planLabel": "Afet Yönetimi Tezsiz Yüksek Lisans Programı",
  "totalCredits": "30,00",
- "totalEcts": "0,00",
+ "totalEcts": "52,50",
+ "totalEctsComputed": true,
  "semesters": [
   {
    "title": "Afet Yönetimi Tezsiz Yüksek Lisans",
@@ -16,8 +17,7 @@
       "name": "Proje Çalışması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 7.5,
-      "type": "Z"
+      "ects": 7.5
      }
     },
     {
@@ -27,8 +27,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 7.5,
-      "theory": 2,
-      "type": "Z"
+      "theory": 2
      }
     },
     {

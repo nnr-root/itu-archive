@@ -19,8 +19,7 @@
       "credits": 3.5,
       "ects": 6.5,
       "theory": 3,
-      "tutorial": 1,
-      "type": "EB"
+      "tutorial": 1
      }
     },
     {
@@ -57,8 +56,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 5.5,
-      "theory": 3,
-      "type": "EB"
+      "theory": 3
      }
     },
     {
@@ -518,8 +516,7 @@
       "credits": 3.5,
       "ects": 7.5,
       "theory": 3,
-      "tutorial": 1,
-      "type": "EB"
+      "tutorial": 1
      }
     },
     {
@@ -561,7 +558,7 @@
     },
     {
      "course": {
-      "code": "ING 112A",
+      "code": "",
       "name": "Basics of Academic Writing",
       "language": "English",
       "required": "Z",
@@ -778,7 +775,7 @@
    "items": [
     {
      "course": {
-      "code": "ING 201A",
+      "code": "",
       "name": "Essentials of Res.Paper Writ.",
       "language": "English",
       "required": "Z",
@@ -810,8 +807,7 @@
       "credits": 3.5,
       "ects": 8,
       "theory": 3,
-      "tutorial": 1,
-      "type": "EB"
+      "tutorial": 1
      }
     },
     {
@@ -822,8 +818,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 4,
-      "theory": 3,
-      "type": "GE"
+      "theory": 3
      }
     },
     {
@@ -1119,8 +1114,7 @@
       "credits": 3.5,
       "ects": 8,
       "theory": 3,
-      "tutorial": 1,
-      "type": "EB"
+      "tutorial": 1
      }
     },
     {
@@ -1131,8 +1125,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 6,
-      "theory": 3,
-      "type": "EB"
+      "theory": 3
      }
     },
     {
@@ -1143,8 +1136,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 8,
-      "theory": 3,
-      "type": "EB"
+      "theory": 3
      }
     },
     {
@@ -1154,8 +1146,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 2,
-      "theory": 2,
-      "type": "GE"
+      "theory": 2
      }
     },
     {
@@ -1166,8 +1157,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 7,
-      "theory": 3,
-      "type": "EB"
+      "theory": 3
      }
     },
     {
@@ -1456,8 +1446,7 @@
       "credits": 3.5,
       "ects": 8,
       "theory": 3,
-      "lab": 1,
-      "type": "EB"
+      "lab": 1
      }
     },
     {
@@ -1468,8 +1457,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 4,
-      "theory": 3,
-      "type": "EB"
+      "theory": 3
      }
     },
     {
@@ -1480,8 +1468,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 6,
-      "theory": 3,
-      "type": "EB"
+      "theory": 3
      }
     },
     {
@@ -1492,8 +1479,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 7,
-      "theory": 3,
-      "type": "EB"
+      "theory": 3
      }
     },
     {
@@ -1504,8 +1490,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 6,
-      "theory": 3,
-      "type": "EB"
+      "theory": 3
      }
     },
     {
@@ -1574,8 +1559,7 @@
       "credits": 3.5,
       "ects": 8,
       "theory": 3,
-      "lab": 1,
-      "type": "EB"
+      "lab": 1
      }
     },
     {
@@ -1586,8 +1570,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 6,
-      "theory": 3,
-      "type": "EB"
+      "theory": 3
      }
     },
     {
@@ -1598,8 +1581,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 6,
-      "theory": 3,
-      "type": "EB"
+      "theory": 3
      }
     },
     {
@@ -1610,8 +1592,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 7,
-      "theory": 3,
-      "type": "EB"
+      "theory": 3
      }
     },
     {
@@ -1622,8 +1603,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 7,
-      "theory": 3,
-      "type": "EB"
+      "theory": 3
      }
     }
    ]
@@ -1651,8 +1631,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 5.5,
-      "theory": 3,
-      "type": "EB"
+      "theory": 3
      }
     },
     {
@@ -1663,8 +1642,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 6,
-      "theory": 3,
-      "type": "EB"
+      "theory": 3
      }
     },
     {
@@ -1767,8 +1745,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 5,
-      "theory": 3,
-      "type": "EB"
+      "theory": 3
      }
     },
     {
@@ -1780,8 +1757,7 @@
       "credits": 4,
       "ects": 7.5,
       "theory": 1,
-      "tutorial": 6,
-      "type": "EB"
+      "tutorial": 6
      }
     },
     {

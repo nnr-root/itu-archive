@@ -3,10 +3,9 @@
  "programName": "Siber Güvenlik Analistliği ve Operatörlüğü",
  "faculty": "Siber Güvenlik Meslek Yüksekokulu",
  "level": "OL",
- "planLabel": "Siber Güvenlik Analistliği ve Operatörlüğü Ön Lisans Programı",
- "totalCredits": "82,00",
- "totalEcts": "125,00",
- "totalEctsComputed": true,
+ "planLabel": "Siber Güvenlik Analistliği ve Operatörlüğü Ön Lisans Programı 2026-2027 / Güz Dönemi Sonrası",
+ "totalCredits": "81,00",
+ "totalEcts": "122,00",
  "semesters": [
   {
    "title": "1. Yarıyıl",
@@ -38,24 +37,13 @@
     {
      "course": {
       "code": "SAO 105E",
-      "name": "İşletim Sistemleri \u0026 Güvenliği",
+      "name": "İşletim Sistemleri & Güvenliği",
       "language": "Türkçe / English",
       "required": "Z",
       "credits": 4,
       "ects": 6,
       "theory": 3,
       "tutorial": 2
-     }
-    },
-    {
-     "course": {
-      "code": "SAO 107E",
-      "name": "Mathematics and Logic",
-      "language": "English / Türkçe",
-      "required": "Z",
-      "credits": 3,
-      "ects": 4,
-      "theory": 3
      }
     },
     {
@@ -84,7 +72,7 @@
     {
      "course": {
       "code": "ATA 121",
-      "name": "Atatürk İlk \u0026 İnkılap Trh I",
+      "name": "Atatürk İlk & İnkılap Trh I",
       "language": "Türkçe",
       "required": "Z",
       "ects": 2,
@@ -103,103 +91,11 @@
       "theory": 3,
       "type": "EC"
      }
-    }
-   ]
-  },
-  {
-   "title": "2. Yarıyıl",
-   "items": [
-    {
-     "course": {
-      "code": "SAO 102E",
-      "name": "Temel Programlama II",
-      "language": "Türkçe / English",
-      "required": "Z",
-      "credits": 4,
-      "ects": 5,
-      "theory": 3,
-      "tutorial": 2,
-      "type": "TM"
-     }
-    },
-    {
-     "course": {
-      "code": "SAO 104E",
-      "name": "Veri Tabanı Uygulamaları ve Güvenliği",
-      "language": "Türkçe / English",
-      "required": "Z",
-      "credits": 4,
-      "ects": 5,
-      "theory": 3,
-      "tutorial": 2,
-      "type": "TM"
-     }
-    },
-    {
-     "course": {
-      "code": "SAO 106E",
-      "name": "Güvenli Ağ Tasarımı ve Cihaz Yönetimi Secure Network Design and Device Management",
-      "language": "Türkçe / English",
-      "required": "Z",
-      "credits": 4,
-      "ects": 6,
-      "theory": 3,
-      "tutorial": 2,
-      "type": "TM"
-     }
-    },
-    {
-     "course": {
-      "code": "SAO 108E",
-      "name": "Sanallaştırma ve Bulut Teknolojileri",
-      "language": "Türkçe / English",
-      "required": "Z",
-      "credits": 4,
-      "ects": 6,
-      "theory": 3,
-      "tutorial": 2,
-      "type": "TM"
-     }
-    },
-    {
-     "course": {
-      "code": "TUR 122",
-      "name": "Türk Dili II",
-      "language": "Türkçe",
-      "required": "Z",
-      "ects": 2,
-      "theory": 2,
-      "type": "ITB"
-     }
-    },
-    {
-     "course": {
-      "code": "ATA 122",
-      "name": "Atatürk İlk \u0026 İnkılap Trh II",
-      "language": "Türkçe",
-      "required": "Z",
-      "ects": 2,
-      "theory": 2,
-      "type": "ITB"
-     }
-    },
-    {
-     "course": {
-      "code": "",
-      "name": "Basics of Academic Writing",
-      "language": "English",
-      "required": "Z",
-      "credits": 2,
-      "ects": 3.5,
-      "theory": 1,
-      "tutorial": 2,
-      "type": "EC"
-     }
     },
     {
      "elective": {
       "title": "Seçmeli Ders (ITB)",
-      "groupId": "11629",
+      "groupId": "13696",
       "credits": "3",
       "ects": [
        4
@@ -216,6 +112,10 @@
        {
         "code": "ALM 201",
         "name": "Almanca III"
+       },
+       {
+        "code": "ALM 202",
+        "name": "Almanca IV"
        },
        {
         "code": "ALM 301",
@@ -236,6 +136,14 @@
        {
         "code": "ARB 102",
         "name": "Arapça II"
+       },
+       {
+        "code": "BEB 120",
+        "name": "Spor ve Temel Bilimler"
+       },
+       {
+        "code": "BEB 121",
+        "name": "Spor ve Teknoloji"
        },
        {
         "code": "CIN 101",
@@ -279,15 +187,15 @@
        },
        {
         "code": "HUK 212",
-        "name": "Sendika.\u0026Toplu İş Sözl.Hukuku"
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
        },
        {
         "code": "HUK 213",
         "name": "İş Sağlığı ve Güvenliği Hukuku"
        },
        {
-        "code": "HUK 214E",
-        "name": "Protection of Technological Innovations"
+        "code": "HUK 214",
+        "name": "Teknolojik Yeniliklerin Korun."
        },
        {
         "code": "HUK 215",
@@ -306,36 +214,12 @@
         "name": "Ticaret Hukuku"
        },
        {
-        "code": "ING 103A",
-        "name": "Creative Writing"
-       },
-       {
-        "code": "ING 103AC",
-        "name": "Urban Ecology"
-       },
-       {
-        "code": "ING 103AD",
-        "name": "Advanced English for Engineers"
-       },
-       {
-        "code": "ING 103B",
-        "name": "Business English"
-       },
-       {
-        "code": "ING 103C",
-        "name": "Great Moments in Science"
-       },
-       {
         "code": "ING 103CO",
         "name": "Profess.Communic.for Engineers"
        },
        {
         "code": "ING 103DD",
         "name": "Decoding Discourse: Language, Power, and Ideology"
-       },
-       {
-        "code": "ING 103G",
-        "name": "Business Communications"
        },
        {
         "code": "ING 103H",
@@ -354,24 +238,12 @@
         "name": "Film Studies"
        },
        {
-        "code": "ING 103O",
-        "name": "Psychology"
-       },
-       {
-        "code": "ING 103P",
-        "name": "Poetry"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
         "code": "ING 103SC",
         "name": "Science Communication"
        },
        {
         "code": "ISL 465E",
-        "name": "Int.to Entrepreneurship\u0026Innov."
+        "name": "Int.to Entrepreneurship&Innov."
        },
        {
         "code": "ISL 478E",
@@ -435,7 +307,7 @@
        },
        {
         "code": "ITB 037E",
-        "name": "Knowledge, Language \u0026 Logic"
+        "name": "Knowledge, Language & Logic"
        },
        {
         "code": "ITB 087",
@@ -454,22 +326,6 @@
         "name": "International.Rel.and Globali."
        },
        {
-        "code": "ITB 095",
-        "name": "Teknoloji, Politika ve Hukuk"
-       },
-       {
-        "code": "ITB 095E",
-        "name": "Technology, Policy and Law"
-       },
-       {
-        "code": "ITB 143",
-        "name": "Durrel ve Said:Oryanta.Uyg ve"
-       },
-       {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
-       },
-       {
         "code": "ITB 151",
         "name": "İnsan Kaynakları Yönetimi"
        },
@@ -482,24 +338,8 @@
         "name": "Bilim, Teknoloji ve Toplum"
        },
        {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179",
-        "name": "İçiçe Ayr.Ede.:Vizyone,Seyf.,A"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201",
-        "name": "İnsan ve Topl. Bilim. Giriş"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities \u0026 Social Sciences"
+        "code": "ITB 172E",
+        "name": "The Historian in the Cinema"
        },
        {
         "code": "ITB 202",
@@ -512,10 +352,6 @@
        {
         "code": "ITB 203",
         "name": "Sosyoloji"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
        },
        {
         "code": "ITB 204",
@@ -570,10 +406,6 @@
         "name": "Istanbul:Hist.,Art and Society"
        },
        {
-        "code": "ITB 212E",
-        "name": "Art,Culture and Society"
-       },
-       {
         "code": "ITB 213",
         "name": "Edebiyat ve Toplum"
        },
@@ -619,15 +451,11 @@
        },
        {
         "code": "ITB 218E",
-        "name": "History of Science\u0026Technology"
+        "name": "History of Science&Technology"
        },
        {
         "code": "ITB 219",
         "name": "Etik"
-       },
-       {
-        "code": "ITB 219E",
-        "name": "Ethics"
        },
        {
         "code": "ITB 220",
@@ -640,6 +468,10 @@
        {
         "code": "ITB 221",
         "name": "Anadolu Arkeolojisi"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
        },
        {
         "code": "ITB 222",
@@ -686,6 +518,14 @@
         "name": "Afet Bilinci"
        },
        {
+        "code": "ITB 230E",
+        "name": "Disaster Awareness"
+       },
+       {
+        "code": "ITB 231",
+        "name": "Gönüllülük Çalışmaları"
+       },
+       {
         "code": "ITB 231E",
         "name": "Volunteering Studies"
        },
@@ -716,6 +556,10 @@
        {
         "code": "JPN 201",
         "name": "Japonca III"
+       },
+       {
+        "code": "JPN 202",
+        "name": "Japonca IV"
        },
        {
         "code": "RUS 101",
@@ -850,10 +694,6 @@
         "name": "Sanat,Kültür ve Toplum"
        },
        {
-        "code": "SNT 212",
-        "name": "Sanat,Kültür ve Toplum"
-       },
-       {
         "code": "SNT 213",
         "name": "Türkiye Müzik Kültürleri"
        },
@@ -887,6 +727,185 @@
    ]
   },
   {
+   "title": "2. Yarıyıl",
+   "items": [
+    {
+     "course": {
+      "code": "SAO 102E",
+      "name": "Temel Programlama II",
+      "language": "Türkçe / English",
+      "required": "Z",
+      "credits": 4,
+      "ects": 5,
+      "theory": 3,
+      "tutorial": 2,
+      "type": "TM"
+     }
+    },
+    {
+     "course": {
+      "code": "SAO 104E",
+      "name": "Veri Tabanı Uygulamaları ve Güvenliği",
+      "language": "Türkçe / English",
+      "required": "Z",
+      "credits": 4,
+      "ects": 5,
+      "theory": 3,
+      "tutorial": 2,
+      "type": "TM"
+     }
+    },
+    {
+     "course": {
+      "code": "SAO 106E",
+      "name": "Güvenli Ağ Tasarımı ve Cihaz Yönetimi",
+      "language": "Türkçe / English",
+      "required": "Z",
+      "credits": 4,
+      "ects": 6,
+      "theory": 3,
+      "tutorial": 2,
+      "type": "TM"
+     }
+    },
+    {
+     "course": {
+      "code": "SAO 108E",
+      "name": "Sanallaştırma ve Bulut Teknolojileri",
+      "language": "Türkçe / English",
+      "required": "Z",
+      "credits": 4,
+      "ects": 6,
+      "theory": 3,
+      "tutorial": 2,
+      "type": "TM"
+     }
+    },
+    {
+     "course": {
+      "code": "TUR 122",
+      "name": "Türk Dili II",
+      "language": "Türkçe",
+      "required": "Z",
+      "ects": 2,
+      "theory": 2,
+      "type": "ITB"
+     }
+    },
+    {
+     "course": {
+      "code": "ATA 122",
+      "name": "Atatürk İlk & İnkılap Trh II",
+      "language": "Türkçe",
+      "required": "Z",
+      "ects": 2,
+      "theory": 2,
+      "type": "ITB"
+     }
+    },
+    {
+     "elective": {
+      "title": "Seçmeli I",
+      "groupId": "13697",
+      "credits": "3",
+      "ects": [
+       4
+      ],
+      "options": [
+       {
+        "code": "SAO 205E",
+        "name": "Cyber Security Governance"
+       },
+       {
+        "code": "SAO 205",
+        "name": "Siber Güvenlik Yönetişimi"
+       },
+       {
+        "code": "SAO 260E",
+        "name": "Digital Forensics"
+       },
+       {
+        "code": "SAO 260",
+        "name": "Adli Bilişim"
+       },
+       {
+        "code": "SAO 261E",
+        "name": "Information Technology Law"
+       },
+       {
+        "code": "SAO 261",
+        "name": "Bilişim Hukuku"
+       },
+       {
+        "code": "SAO 262E",
+        "name": "Internet Programming"
+       },
+       {
+        "code": "SAO 262",
+        "name": "İnternet Programlama"
+       },
+       {
+        "code": "SAO 263E",
+        "name": "Artificial Intelligence and Cyber Security"
+       },
+       {
+        "code": "SAO 263",
+        "name": "Yapay Zekâ ve Siber Güvenlik"
+       },
+       {
+        "code": "SAO 264E",
+        "name": "Next-Generation Technologies"
+       },
+       {
+        "code": "SAO 264",
+        "name": "Yeni Nesil Teknolojiler"
+       },
+       {
+        "code": "SAO 265E",
+        "name": "Object Oriented Programming"
+       },
+       {
+        "code": "SAO 265",
+        "name": "Nesne Tabanlı Programlama"
+       },
+       {
+        "code": "SAO 266E",
+        "name": "Algorithm"
+       },
+       {
+        "code": "SAO 266",
+        "name": "Algoritma"
+       },
+       {
+        "code": "SAO 267E",
+        "name": "Fundamentals of Cryptology"
+       },
+       {
+        "code": "SAO 267",
+        "name": "Kriptolojinin Temelleri"
+       },
+       {
+        "code": "SAO 268E",
+        "name": "Malware Analysis and Detection"
+       },
+       {
+        "code": "SAO 268",
+        "name": "Zararlı Yazılım Analizi ve Tespiti"
+       },
+       {
+        "code": "SAO 270E",
+        "name": "Mobile Technologies and Security"
+       },
+       {
+        "code": "SAO 270",
+        "name": "Mobil Teknolojiler ve Güvenlik"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
    "title": "3. Yarıyıl",
    "items": [
     {
@@ -904,27 +923,26 @@
     },
     {
      "course": {
-      "code": "SAO 203E",
-      "name": "Mobil Teknolojiler ve Güvenlik",
-      "language": "Türkçe / English",
+      "code": "SAO 202E",
+      "name": "Cyber Incident Management",
+      "language": "English / Türkçe",
       "required": "Z",
-      "credits": 4,
+      "credits": 3,
       "ects": 6,
       "theory": 3,
-      "tutorial": 2,
       "type": "TM"
      }
     },
     {
      "course": {
-      "code": "SAO 205E",
-      "name": "Siber Güvenlik Yönetişimi",
-      "language": "Türkçe / English",
+      "code": "SAO 204",
+      "name": "Girişimcilik ve Kariyer Planlama",
+      "language": "Türkçe",
       "required": "Z",
-      "credits": 3,
-      "ects": 4,
-      "theory": 3,
-      "type": "TM"
+      "credits": 2,
+      "ects": 2,
+      "theory": 2,
+      "type": "ITB"
      }
     },
     {
@@ -954,96 +972,125 @@
     },
     {
      "course": {
-      "code": "SAO 211",
+      "code": "SAO 213",
       "name": "Proje Yönetimi Metodolojisi ve Uygulamaları",
       "language": "Türkçe",
       "required": "Z",
+      "credits": 3,
+      "ects": 3,
+      "theory": 3,
+      "type": "ITB"
+     }
+    },
+    {
+     "course": {
+      "code": "",
+      "name": "Basics of Academic Writing",
+      "language": "English",
+      "required": "Z",
       "credits": 2,
-      "ects": 2,
-      "theory": 2,
+      "ects": 3.5,
+      "theory": 1,
+      "tutorial": 2,
       "type": "ITB"
      }
     },
     {
      "elective": {
       "title": "Seçmeli I",
-      "groupId": "11630",
+      "groupId": "13694",
       "credits": "3",
       "ects": [
-       6
+       4
       ],
       "options": [
        {
-        "code": "SAO 251",
-        "name": "Kriptolojinin Temelleri"
+        "code": "SAO 205E",
+        "name": "Cyber Security Governance"
        },
        {
-        "code": "SAO 251E",
-        "name": "Fundamentals of Cryptology"
+        "code": "SAO 205",
+        "name": "Siber Güvenlik Yönetişimi"
        },
        {
-        "code": "SAO 252",
-        "name": "Yeni Nesil Teknolojiler"
-       },
-       {
-        "code": "SAO 252E",
-        "name": "Next-Generation Technologies"
-       },
-       {
-        "code": "SAO 253",
-        "name": "Nesne Tabanlı Programlama"
-       },
-       {
-        "code": "SAO 253E",
-        "name": "Object Oriented Programming"
-       },
-       {
-        "code": "SAO 254",
-        "name": "Algoritmalar"
-       },
-       {
-        "code": "SAO 254E",
-        "name": "Algorithms"
-       },
-       {
-        "code": "SAO 255",
-        "name": "Zararlı Yazılım Analizi ve Tespiti"
-       },
-       {
-        "code": "SAO 255E",
-        "name": "Malware Analysis and Detection"
-       },
-       {
-        "code": "SAO 256",
-        "name": "Adli Bilişim"
-       },
-       {
-        "code": "SAO 256E",
+        "code": "SAO 260E",
         "name": "Digital Forensics"
        },
        {
-        "code": "SAO 257",
-        "name": "Bilişim Hukuku"
+        "code": "SAO 260",
+        "name": "Adli Bilişim"
        },
        {
-        "code": "SAO 257E",
+        "code": "SAO 261E",
         "name": "Information Technology Law"
        },
        {
-        "code": "SAO 258",
-        "name": "İnternet Programlama"
+        "code": "SAO 261",
+        "name": "Bilişim Hukuku"
        },
        {
-        "code": "SAO 258E",
+        "code": "SAO 262E",
         "name": "Internet Programming"
        },
        {
-        "code": "SAO 259",
+        "code": "SAO 262",
+        "name": "İnternet Programlama"
+       },
+       {
+        "code": "SAO 263E",
+        "name": "Artificial Intelligence and Cyber Security"
+       },
+       {
+        "code": "SAO 263",
         "name": "Yapay Zekâ ve Siber Güvenlik"
        },
        {
-        "code": "SAO 259E",
-        "name": "Artificial Intelligence and Cyber Security"
+        "code": "SAO 264E",
+        "name": "Next-Generation Technologies"
+       },
+       {
+        "code": "SAO 264",
+        "name": "Yeni Nesil Teknolojiler"
+       },
+       {
+        "code": "SAO 265E",
+        "name": "Object Oriented Programming"
+       },
+       {
+        "code": "SAO 265",
+        "name": "Nesne Tabanlı Programlama"
+       },
+       {
+        "code": "SAO 266E",
+        "name": "Algorithm"
+       },
+       {
+        "code": "SAO 266",
+        "name": "Algoritma"
+       },
+       {
+        "code": "SAO 267E",
+        "name": "Fundamentals of Cryptology"
+       },
+       {
+        "code": "SAO 267",
+        "name": "Kriptolojinin Temelleri"
+       },
+       {
+        "code": "SAO 268E",
+        "name": "Malware Analysis and Detection"
+       },
+       {
+        "code": "SAO 268",
+        "name": "Zararlı Yazılım Analizi ve Tespiti"
+       },
+       {
+        "code": "SAO 270E",
+        "name": "Mobile Technologies and Security"
+       },
+       {
+        "code": "SAO 270",
+        "name": "Mobil Teknolojiler ve Güvenlik"
        }
       ]
      }
@@ -1055,122 +1102,14 @@
    "items": [
     {
      "course": {
-      "code": "SAO 202E",
-      "name": "Siber Olay Yönetimi",
-      "language": "Türkçe / English",
-      "required": "Z",
-      "credits": 3,
-      "ects": 6,
-      "theory": 3,
-      "type": "TM"
-     }
-    },
-    {
-     "course": {
-      "code": "SAO 204",
-      "name": "Girişimcilik ve Kariyer Planlama",
-      "language": "Türkçe",
-      "required": "Z",
-      "credits": 2,
-      "ects": 2,
-      "theory": 2,
-      "type": "ITB"
-     }
-    },
-    {
-     "course": {
-      "code": "SAO 200",
+      "code": "SAO 214",
       "name": "İşletmede Mesleki Eğitim",
       "language": "Türkçe",
       "required": "Z",
-      "credits": 12,
-      "ects": 16,
-      "tutorial": 24,
+      "credits": 20,
+      "ects": 30,
+      "tutorial": 40,
       "type": "MT"
-     }
-    },
-    {
-     "elective": {
-      "title": "Seçmeli II",
-      "groupId": "11631",
-      "credits": "3",
-      "ects": [
-       6
-      ],
-      "options": [
-       {
-        "code": "SAO 251",
-        "name": "Kriptolojinin Temelleri"
-       },
-       {
-        "code": "SAO 251E",
-        "name": "Fundamentals of Cryptology"
-       },
-       {
-        "code": "SAO 252",
-        "name": "Yeni Nesil Teknolojiler"
-       },
-       {
-        "code": "SAO 252E",
-        "name": "Next-Generation Technologies"
-       },
-       {
-        "code": "SAO 253",
-        "name": "Nesne Tabanlı Programlama"
-       },
-       {
-        "code": "SAO 253E",
-        "name": "Object Oriented Programming"
-       },
-       {
-        "code": "SAO 254",
-        "name": "Algoritmalar"
-       },
-       {
-        "code": "SAO 254E",
-        "name": "Algorithms"
-       },
-       {
-        "code": "SAO 255",
-        "name": "Zararlı Yazılım Analizi ve Tespiti"
-       },
-       {
-        "code": "SAO 255E",
-        "name": "Malware Analysis and Detection"
-       },
-       {
-        "code": "SAO 256",
-        "name": "Adli Bilişim"
-       },
-       {
-        "code": "SAO 256E",
-        "name": "Digital Forensics"
-       },
-       {
-        "code": "SAO 257",
-        "name": "Bilişim Hukuku"
-       },
-       {
-        "code": "SAO 257E",
-        "name": "Information Technology Law"
-       },
-       {
-        "code": "SAO 258",
-        "name": "İnternet Programlama"
-       },
-       {
-        "code": "SAO 258E",
-        "name": "Internet Programming"
-       },
-       {
-        "code": "SAO 259",
-        "name": "Yapay Zekâ ve Siber Güvenlik"
-       },
-       {
-        "code": "SAO 259E",
-        "name": "Artificial Intelligence and Cyber Security"
-       }
-      ]
      }
     }
    ]

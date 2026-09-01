@@ -5,19 +5,19 @@
  "level": "YL",
  "planLabel": "Açık Deniz Mühendisliği (%100 İngilizce) Yüksek Lisans Programı 2025-2026 Güz Dönemi Sonrası",
  "totalCredits": "24,00",
- "totalEcts": "0,00",
+ "totalEcts": "127,50",
+ "totalEctsComputed": true,
  "semesters": [
   {
    "title": "Açık Deniz Mühendisliği (İngilizce) Yüksek Lisans",
    "items": [
     {
      "course": {
-      "code": "ADM YLT",
+      "code": "",
       "name": "Tez Çalışması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 60,
-      "type": "Z"
+      "ects": 60
      }
     },
     {

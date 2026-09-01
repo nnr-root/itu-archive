@@ -5,7 +5,8 @@
  "level": "YL",
  "planLabel": "Mimarlık Tezsiz Yüksek Lisans Programı",
  "totalCredits": "36,00",
- "totalEcts": "0,00",
+ "totalEcts": "78,00",
+ "totalEctsComputed": true,
  "semesters": [
   {
    "title": "Mimarlık Tezsiz Yüksek Lisans",
@@ -16,8 +17,7 @@
       "name": "Term Project",
       "language": "English",
       "required": "Z",
-      "ects": 30,
-      "type": "Z"
+      "ects": 30
      }
     },
     {

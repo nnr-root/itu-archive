@@ -24,7 +24,7 @@
     },
     {
      "course": {
-      "code": "KIM 101EL",
+      "code": "",
       "name": "General Chemistry I Lab",
       "language": "English",
       "required": "Z",
@@ -61,7 +61,7 @@
     },
     {
      "course": {
-      "code": "FIZ 101EL",
+      "code": "",
       "name": "Physics I Laboratory",
       "language": "English",
       "required": "Z",
@@ -126,7 +126,7 @@
     },
     {
      "course": {
-      "code": "FIZ 102EL",
+      "code": "",
       "name": "Physics II Laboratory",
       "language": "English",
       "required": "Z",
@@ -161,7 +161,7 @@
     },
     {
      "course": {
-      "code": "CEV 104 CEV 104E",
+      "code": "CEV 104E",
       "name": "Yer Bilimi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -186,7 +186,7 @@
     },
     {
      "course": {
-      "code": "ING 112A",
+      "code": "",
       "name": "Basics of Academic Writing",
       "language": "English",
       "required": "Z",
@@ -215,7 +215,7 @@
    "items": [
     {
      "course": {
-      "code": "CEV 203 CEV 203E",
+      "code": "CEV 203E",
       "name": "Çevre Mikrobiyolojisi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -229,7 +229,7 @@
     },
     {
      "course": {
-      "code": "CEV 205 CEV 205E",
+      "code": "CEV 205E",
       "name": "Çevre Ekolojisi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -254,7 +254,7 @@
     },
     {
      "course": {
-      "code": "CEV 210 CEV 210E",
+      "code": "CEV 210E",
       "name": "Mühendislik Matematiği",
       "language": "Türkçe / English",
       "required": "Z",
@@ -267,7 +267,7 @@
     },
     {
      "course": {
-      "code": "STA 204 STA 204E",
+      "code": "STA 204E",
       "name": "Statik ve Mukavemet",
       "language": "Türkçe / English",
       "required": "Z",
@@ -279,7 +279,7 @@
     },
     {
      "course": {
-      "code": "CEV 211 CEV 211E",
+      "code": "CEV 211E",
       "name": "Çevre Kimyası I",
       "language": "Türkçe / English",
       "required": "Z",
@@ -292,7 +292,7 @@
     },
     {
      "course": {
-      "code": "AKM 204 AKM 204E",
+      "code": "AKM 204E",
       "name": "Akışkanlar Mekaniği",
       "language": "Türkçe / English",
       "required": "Z",
@@ -309,7 +309,7 @@
    "items": [
     {
      "course": {
-      "code": "TER 201 TER 201E",
+      "code": "TER 201E",
       "name": "Termodinamik",
       "language": "Türkçe / English",
       "required": "Z",
@@ -321,7 +321,7 @@
     },
     {
      "course": {
-      "code": "CEV 216 CEV 216E",
+      "code": "CEV 216E",
       "name": "Çevre Müh. Bilg. Uyg.",
       "language": "Türkçe / English",
       "required": "Z",
@@ -334,7 +334,7 @@
     },
     {
      "course": {
-      "code": "MAL 201 MAL 201E",
+      "code": "MAL 201E",
       "name": "Malzeme Bilimi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -346,7 +346,7 @@
     },
     {
      "course": {
-      "code": "INS 360 INS 360E",
+      "code": "INS 360E",
       "name": "Hidrolik",
       "language": "Türkçe / English",
       "required": "Z",
@@ -359,7 +359,7 @@
     },
     {
      "course": {
-      "code": "CEV 212E CEV 212",
+      "code": "CEV 212E",
       "name": "Enviromental Chemistry II",
       "language": "English / Türkçe",
       "required": "Z",
@@ -372,7 +372,7 @@
     },
     {
      "course": {
-      "code": "ING 201A",
+      "code": "",
       "name": "Essentials of Res.Paper Writ.",
       "language": "English",
       "required": "Z",
@@ -434,7 +434,7 @@
    "items": [
     {
      "course": {
-      "code": "CEV 301 CEV 301E",
+      "code": "CEV 301E",
       "name": "Kimyasal Prosesler",
       "language": "Türkçe / English",
       "required": "Z",
@@ -446,7 +446,7 @@
     },
     {
      "course": {
-      "code": "CEV 347 CEV 347E",
+      "code": "CEV 347E",
       "name": "Temel İşlemler",
       "language": "Türkçe / English",
       "required": "Z",
@@ -459,7 +459,7 @@
     },
     {
      "course": {
-      "code": "CEV 242 CEV 242E",
+      "code": "CEV 242E",
       "name": "Çevre Müh. İçin Hidroloji",
       "language": "Türkçe / English",
       "required": "Z",
@@ -472,7 +472,7 @@
     },
     {
      "course": {
-      "code": "CEV 306 CEV 306E",
+      "code": "CEV 306E",
       "name": "Su Temini &Atıksuların Uzakl.",
       "language": "Türkçe / English",
       "required": "Z",
@@ -485,7 +485,7 @@
     },
     {
      "course": {
-      "code": "CEV 303 CEV 303E",
+      "code": "CEV 303E",
       "name": "Teknik Resim (CAD)",
       "language": "Türkçe / English",
       "required": "Z",
@@ -509,7 +509,7 @@
     },
     {
      "course": {
-      "code": "CEV 343 CEV 343E",
+      "code": "CEV 343E",
       "name": "Su Kalitesi Yönetimi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -527,7 +527,7 @@
    "items": [
     {
      "course": {
-      "code": "CEV 304 CEV 304E",
+      "code": "CEV 304E",
       "name": "Temel İşlemler&Prosesler Lab.",
       "language": "Türkçe / English",
       "required": "Z",
@@ -540,7 +540,7 @@
     },
     {
      "course": {
-      "code": "CEV 308 CEV 308E",
+      "code": "CEV 308E",
       "name": "Hava Kirlenmesi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -553,7 +553,7 @@
     },
     {
      "course": {
-      "code": "CEV 330 CEV 330E",
+      "code": "CEV 330E",
       "name": "Su Arıtma Tesisi Tasarımı",
       "language": "Türkçe / English",
       "required": "Z",
@@ -566,7 +566,7 @@
     },
     {
      "course": {
-      "code": "CEV 302 CEV 302E",
+      "code": "CEV 302E",
       "name": "Biyolojik Prosesler",
       "language": "Türkçe / English",
       "required": "Z",
@@ -579,7 +579,7 @@
     },
     {
      "course": {
-      "code": "CEV 334 CEV 334E",
+      "code": "CEV 334E",
       "name": "Katı Atık Yönetimi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -603,7 +603,7 @@
     },
     {
      "course": {
-      "code": "CEV 432 CEV 432E",
+      "code": "CEV 432E",
       "name": "Çevre Ekonomisi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -620,7 +620,7 @@
    "items": [
     {
      "course": {
-      "code": "CEV 429 CEV 429E",
+      "code": "CEV 429E",
       "name": "Endüstriyel Kirlenme Kontrolü",
       "language": "Türkçe / English",
       "required": "Z",
@@ -633,7 +633,7 @@
     },
     {
      "course": {
-      "code": "CEV 427 CEV 427E",
+      "code": "CEV 427E",
       "name": "Çevre Modellemesi Esasları",
       "language": "Türkçe / English",
       "required": "Z",
@@ -646,7 +646,7 @@
     },
     {
      "course": {
-      "code": "CEV 401 CEV 401E",
+      "code": "CEV 401E",
       "name": "Atıksu Arıtma Tesisi Tas.",
       "language": "Türkçe / English",
       "required": "Z",
@@ -659,7 +659,7 @@
     },
     {
      "course": {
-      "code": "CEV 471 CEV 471E",
+      "code": "CEV 471E",
       "name": "Çevre Mühendisliğinde Etik",
       "language": "Türkçe / English",
       "required": "Z",
@@ -671,7 +671,7 @@
     },
     {
      "course": {
-      "code": "CEV 4901 CEV 4901E",
+      "code": "CEV 4901E",
       "name": "Çevre Müh. Tasarımı I",
       "language": "Türkçe / English",
       "required": "Z",
@@ -782,7 +782,7 @@
    "items": [
     {
      "course": {
-      "code": "CEV 4902 CEV 4902E",
+      "code": "CEV 4902E",
       "name": "Çevre Müh. Tasarımı II",
       "language": "Türkçe / English",
       "required": "Z",
@@ -795,7 +795,7 @@
     },
     {
      "course": {
-      "code": "CEV 442 CEV 442E",
+      "code": "CEV 442E",
       "name": "Çevre Hukuku",
       "language": "Türkçe / English",
       "required": "Z",
@@ -807,7 +807,7 @@
     },
     {
      "course": {
-      "code": "CEV 456 CEV 456E",
+      "code": "CEV 456E",
       "name": "İş Sağlığı ve Güvenliği",
       "language": "Türkçe / English",
       "required": "Z",
@@ -819,7 +819,7 @@
     },
     {
      "course": {
-      "code": "CEV 402 CEV 402E",
+      "code": "CEV 402E",
       "name": "Toprak&Yeraltı Suyu Kirl.Kont.",
       "language": "Türkçe / English",
       "required": "Z",

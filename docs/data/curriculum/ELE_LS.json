@@ -35,7 +35,7 @@
     },
     {
      "course": {
-      "code": "FIZ 101L",
+      "code": "",
       "name": "Fizik I Lab",
       "language": "Türkçe",
       "required": "Z",
@@ -59,7 +59,7 @@
     },
     {
      "course": {
-      "code": "KIM 101L",
+      "code": "",
       "name": "Genel Kimya I Laboratuvarı",
       "language": "Türkçe",
       "required": "Z",
@@ -145,7 +145,7 @@
     },
     {
      "course": {
-      "code": "FIZ 106L",
+      "code": "",
       "name": "Fizik II Laboratuvarı",
       "language": "Türkçe",
       "required": "Z",

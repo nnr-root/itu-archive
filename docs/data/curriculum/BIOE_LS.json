@@ -36,7 +36,7 @@
     },
     {
      "course": {
-      "code": "KIM 101EL",
+      "code": "",
       "name": "General Chemistry I Lab",
       "language": "English",
       "required": "Z",
@@ -73,7 +73,7 @@
     },
     {
      "course": {
-      "code": "FIZ 101EL",
+      "code": "",
       "name": "Physics I Laboratory",
       "language": "English",
       "required": "Z",
@@ -163,7 +163,7 @@
     },
     {
      "course": {
-      "code": "FIZ 102EL",
+      "code": "",
       "name": "Physics II Laboratory",
       "language": "English",
       "required": "Z",
@@ -175,7 +175,7 @@
     },
     {
      "course": {
-      "code": "BIO 106EL",
+      "code": "",
       "name": "General Biology II Lab.",
       "language": "English",
       "required": "Z",
@@ -187,7 +187,7 @@
     },
     {
      "course": {
-      "code": "ING 112A",
+      "code": "",
       "name": "Basics of Academic Writing",
       "language": "English",
       "required": "Z",
@@ -216,7 +216,7 @@
    "items": [
     {
      "course": {
-      "code": "ING 201A",
+      "code": "",
       "name": "Essentials of Res.Paper Writ.",
       "language": "English",
       "required": "Z",
@@ -265,7 +265,7 @@
     },
     {
      "course": {
-      "code": "BIO 207EL",
+      "code": "",
       "name": "Cell Biology Lab.",
       "language": "English",
       "required": "Z",
@@ -342,7 +342,7 @@
     },
     {
      "course": {
-      "code": "BIO 216EL",
+      "code": "",
       "name": "Microbiology Lab.",
       "language": "English",
       "required": "Z",
@@ -787,7 +787,7 @@
     },
     {
      "course": {
-      "code": "BIO 315EL",
+      "code": "",
       "name": "Biochemistry I Lab.",
       "language": "English",
       "required": "Z",
@@ -811,7 +811,7 @@
     },
     {
      "course": {
-      "code": "BIO 317EL",
+      "code": "",
       "name": "Molecular Genetics Lab.",
       "language": "English",
       "required": "Z",
@@ -877,7 +877,7 @@
     },
     {
      "course": {
-      "code": "BIO 328EL",
+      "code": "",
       "name": "Biochemistry II Lab.",
       "language": "English",
       "required": "Z",
@@ -913,7 +913,7 @@
     },
     {
      "course": {
-      "code": "BIO 415EL",
+      "code": "",
       "name": "Molecular Biology Lab.",
       "language": "English",
       "required": "Z",

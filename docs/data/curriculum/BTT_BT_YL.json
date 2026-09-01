@@ -5,30 +5,29 @@
  "level": "YL",
  "planLabel": "Bilim ve Teknoloji Tarihi Yüksek Lisans Programı",
  "totalCredits": "24,00",
- "totalEcts": "0,00",
+ "totalEcts": "97,50",
+ "totalEctsComputed": true,
  "semesters": [
   {
    "title": "Bilim ve Teknoloji Tarihi Yüksek Lisans",
    "items": [
     {
      "course": {
-      "code": "BVT YLT",
+      "code": "",
       "name": "Tez çalışması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 60,
-      "type": "Z"
+      "ects": 60
      }
     },
     {
      "course": {
-      "code": "BVT 596 BVT 596E",
+      "code": "BVT 596E",
       "name": "Bilimsel Araş.,Etik ve Seminer",
       "language": "Türkçe / English",
       "required": "Z",
       "ects": 7.5,
-      "theory": 2,
-      "type": "Z"
+      "theory": 2
      }
     },
     {

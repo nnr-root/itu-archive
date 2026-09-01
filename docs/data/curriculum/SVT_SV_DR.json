@@ -5,29 +5,28 @@
  "level": "DR",
  "planLabel": "Savunma Teknolojileri Doktora Programı 2022-2023 / Bahar ile 2026-2027 / Güz Dönemleri Arası",
  "totalCredits": "21,00",
- "totalEcts": "0,00",
+ "totalEcts": "225,00",
+ "totalEctsComputed": true,
  "semesters": [
   {
    "title": "Savunma Teknolojileri Doktora",
    "items": [
     {
      "course": {
-      "code": "STP DRT",
+      "code": "",
       "name": "Tez Çalışması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 150,
-      "type": "Z"
+      "ects": 150
      }
     },
     {
      "course": {
-      "code": "STP YET",
+      "code": "",
       "name": "Yeterlik Aşaması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 30,
-      "type": "Z"
+      "ects": 30
      }
     },
     {
@@ -37,8 +36,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 7.5,
-      "theory": 2,
-      "type": "Z"
+      "theory": 2
      }
     },
     {

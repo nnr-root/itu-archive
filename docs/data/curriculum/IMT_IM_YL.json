@@ -5,7 +5,8 @@
  "level": "YL",
  "planLabel": "İç Mimari Tasarım Uluslararası (IMIAD) Yüksek Lisans Programı 2012-2013 / Güz Dönemi Sonrası",
  "totalCredits": "46,00",
- "totalEcts": "0,00",
+ "totalEcts": "167,00",
+ "totalEctsComputed": true,
  "semesters": [
   {
    "title": "İç Mimari Tasarım Uluslararası (IMIAD) Yüksek Lisans",
@@ -19,8 +20,7 @@
       "credits": 5,
       "ects": 12,
       "theory": 5,
-      "lab": 3,
-      "type": "LA"
+      "lab": 3
      }
     },
     {
@@ -32,8 +32,7 @@
       "credits": 3,
       "ects": 7.5,
       "theory": 2,
-      "lab": 2,
-      "type": "LA"
+      "lab": 2
      }
     },
     {
@@ -44,8 +43,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 7.5,
-      "theory": 3,
-      "type": "LA"
+      "theory": 3
      }
     },
     {
@@ -56,8 +54,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 7.5,
-      "theory": 3,
-      "type": "LA"
+      "theory": 3
      }
     },
     {
@@ -68,8 +65,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 7.5,
-      "theory": 3,
-      "type": "LA"
+      "theory": 3
      }
     },
     {
@@ -81,8 +77,7 @@
       "credits": 6,
       "ects": 12.5,
       "theory": 2,
-      "lab": 8,
-      "type": "LA"
+      "lab": 8
      }
     },
     {
@@ -93,8 +88,7 @@
       "required": "Z",
       "credits": 2,
       "ects": 5,
-      "theory": 2,
-      "type": "LA"
+      "theory": 2
      }
     },
     {
@@ -106,8 +100,7 @@
       "credits": 3,
       "ects": 7.5,
       "theory": 2,
-      "lab": 2,
-      "type": "LA"
+      "lab": 2
      }
     },
     {
@@ -118,8 +111,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 7.5,
-      "theory": 3,
-      "type": "LA"
+      "theory": 3
      }
     },
     {
@@ -131,8 +123,7 @@
       "credits": 7,
       "ects": 12.5,
       "theory": 2,
-      "lab": 10,
-      "type": "LA"
+      "lab": 10
      }
     },
     {
@@ -143,8 +134,7 @@
       "required": "Z",
       "credits": 2,
       "ects": 5,
-      "theory": 2,
-      "type": "LA"
+      "theory": 2
      }
     },
     {
@@ -155,8 +145,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 7.5,
-      "theory": 3,
-      "type": "Z"
+      "theory": 3
      }
     },
     {
@@ -185,12 +174,11 @@
     },
     {
      "course": {
-      "code": "IMT YLT",
+      "code": "",
       "name": "Tez Çalışması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 60,
-      "type": "LA"
+      "ects": 60
      }
     }
    ]

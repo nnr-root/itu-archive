@@ -62,7 +62,7 @@
     },
     {
      "course": {
-      "code": "FIZ 101EL",
+      "code": "",
       "name": "Physics I Laboratory",
       "language": "English",
       "required": "Z",
@@ -126,7 +126,7 @@
     },
     {
      "course": {
-      "code": "KIM 101EL",
+      "code": "",
       "name": "General Chemistry I Lab",
       "language": "English",
       "required": "Z",
@@ -176,7 +176,7 @@
     },
     {
      "course": {
-      "code": "FIZ 102EL",
+      "code": "",
       "name": "Physics II Laboratory",
       "language": "English",
       "required": "Z",
@@ -188,7 +188,7 @@
     },
     {
      "course": {
-      "code": "ING 112A",
+      "code": "",
       "name": "Basics of Academic Writing",
       "language": "English",
       "required": "Z",
@@ -206,8 +206,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 1,
-      "tutorial": 2,
-      "type": "GE"
+      "tutorial": 2
      }
     }
    ]
@@ -271,13 +270,12 @@
       "required": "Z",
       "credits": 1,
       "ects": 2,
-      "theory": 1,
-      "type": "GE"
+      "theory": 1
      }
     },
     {
      "course": {
-      "code": "ING 201A",
+      "code": "",
       "name": "Essentials of Res.Paper Writ.",
       "language": "English",
       "required": "Z",
@@ -874,8 +872,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 2,
-      "theory": 2,
-      "type": "GE"
+      "theory": 2
      }
     },
     {
@@ -956,8 +953,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 4,
-      "theory": 3,
-      "type": "GE"
+      "theory": 3
      }
     },
     {
@@ -1386,8 +1382,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 2,
-      "theory": 2,
-      "type": "GE"
+      "theory": 2
      }
     },
     {

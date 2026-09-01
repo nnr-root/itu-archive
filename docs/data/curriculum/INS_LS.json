@@ -62,7 +62,7 @@
     },
     {
      "course": {
-      "code": "FIZ 101EL",
+      "code": "",
       "name": "Physics I Laboratory",
       "language": "English",
       "required": "Z",
@@ -74,7 +74,7 @@
     },
     {
      "course": {
-      "code": "KIM 101EL",
+      "code": "",
       "name": "General Chemistry I Lab",
       "language": "English",
       "required": "Z",
@@ -128,7 +128,7 @@
    "items": [
     {
      "course": {
-      "code": "FIZ 102 FIZ 102E",
+      "code": "FIZ 102E",
       "name": "Fizik II (Elektrik Fiziği)",
       "language": "Türkçe / English",
       "required": "Z",
@@ -140,7 +140,7 @@
     },
     {
      "course": {
-      "code": "FIZ 102EL",
+      "code": "",
       "name": "Physics II Laboratory",
       "language": "English",
       "required": "Z",
@@ -152,7 +152,7 @@
     },
     {
      "course": {
-      "code": "INS 102 INS 102E",
+      "code": "INS 102E",
       "name": "Statik",
       "language": "Türkçe / English",
       "required": "Z",
@@ -165,7 +165,7 @@
     },
     {
      "course": {
-      "code": "INS 112 INS 112E",
+      "code": "INS 112E",
       "name": "İnşaat Mühendisleri İçin Yer Bilimi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -178,7 +178,7 @@
     },
     {
      "course": {
-      "code": "ING 112A",
+      "code": "",
       "name": "Basics of Academic Writing",
       "language": "English",
       "required": "Z",
@@ -191,7 +191,7 @@
     },
     {
      "course": {
-      "code": "MAT 104E MAT 104",
+      "code": "MAT 104E",
       "name": "Mathematics II",
       "language": "English / Türkçe",
       "required": "Z",
@@ -960,7 +960,7 @@
    "items": [
     {
      "course": {
-      "code": "DNK 201 DNK 201E",
+      "code": "DNK 201E",
       "name": "Dinamik",
       "language": "Türkçe / English",
       "required": "Z",
@@ -972,7 +972,7 @@
     },
     {
      "course": {
-      "code": "INS 210 INS 210E",
+      "code": "INS 210E",
       "name": "İnşaat Mühendisleri için Matematik",
       "language": "Türkçe / English",
       "required": "Z",
@@ -984,7 +984,7 @@
     },
     {
      "course": {
-      "code": "INS 217 INS 217E",
+      "code": "INS 217E",
       "name": "Mukavemet I",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1008,7 +1008,7 @@
     },
     {
      "course": {
-      "code": "INS 215 INS 215E",
+      "code": "INS 215E",
       "name": "Malzeme Bilimi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1021,7 +1021,7 @@
     },
     {
      "course": {
-      "code": "INS 202 INS 202E",
+      "code": "INS 202E",
       "name": "İnşaat Müh. Sayısal Yöntemler",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1033,7 +1033,7 @@
     },
     {
      "course": {
-      "code": "ING 201A",
+      "code": "",
       "name": "Essentials of Res.Paper Writ.",
       "language": "English",
       "required": "Z",
@@ -1051,7 +1051,7 @@
    "items": [
     {
      "course": {
-      "code": "AKM 204 AKM 204E",
+      "code": "AKM 204E",
       "name": "Akışkanlar Mekaniği",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1063,7 +1063,7 @@
     },
     {
      "course": {
-      "code": "INS 218 INS 218E",
+      "code": "INS 218E",
       "name": "Mukavemet II",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1076,7 +1076,7 @@
     },
     {
      "course": {
-      "code": "INS 232 INS 232E",
+      "code": "INS 232E",
       "name": "Ölçme Bilgisi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1101,7 +1101,7 @@
     },
     {
      "course": {
-      "code": "INS 230 INS 230E",
+      "code": "INS 230E",
       "name": "Yapı Malzemesi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1181,7 +1181,7 @@
    "items": [
     {
      "course": {
-      "code": "INS 360 INS 360E",
+      "code": "INS 360E",
       "name": "Hidrolik",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1194,7 +1194,7 @@
     },
     {
      "course": {
-      "code": "INS 323 INS 323E",
+      "code": "INS 323E",
       "name": "Yapı Statiği I",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1207,7 +1207,7 @@
     },
     {
      "course": {
-      "code": "INS 325 INS 325E",
+      "code": "INS 325E",
       "name": "Demiryolu Müh.",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1219,7 +1219,7 @@
     },
     {
      "course": {
-      "code": "INS 303 INS 303E",
+      "code": "INS 303E",
       "name": "Zemin Mekaniği I",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1233,7 +1233,7 @@
     },
     {
      "course": {
-      "code": "INS 305 INS 305E",
+      "code": "INS 305E",
       "name": "Olasılık ve İstatistik",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1245,7 +1245,7 @@
     },
     {
      "course": {
-      "code": "INS 301 INS 301E",
+      "code": "INS 301E",
       "name": "Mühendislik Ekonomisi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1298,7 +1298,7 @@
    "items": [
     {
      "course": {
-      "code": "INS 338 INS 338E",
+      "code": "INS 338E",
       "name": "Betonarme I",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1311,7 +1311,7 @@
     },
     {
      "course": {
-      "code": "INS 354 INS 354E",
+      "code": "INS 354E",
       "name": "Hidroloji",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1324,7 +1324,7 @@
     },
     {
      "course": {
-      "code": "INS 302 INS 302E",
+      "code": "INS 302E",
       "name": "Karayolu Mühendisliği",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1337,7 +1337,7 @@
     },
     {
      "course": {
-      "code": "INS 336 INS 336E",
+      "code": "INS 336E",
       "name": "Yapı Statiği II",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1350,7 +1350,7 @@
     },
     {
      "course": {
-      "code": "INS 332E INS 332",
+      "code": "INS 332E",
       "name": "Foundation Engineering I",
       "language": "English / Türkçe",
       "required": "Z",
@@ -1363,7 +1363,7 @@
     },
     {
      "course": {
-      "code": "INS 304 INS 304E",
+      "code": "INS 304E",
       "name": "Yapı İşletmesi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1375,7 +1375,7 @@
     },
     {
      "course": {
-      "code": "INS 344 INS 344E",
+      "code": "INS 344E",
       "name": "Çelik Yapılar I",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1404,7 +1404,7 @@
     },
     {
      "course": {
-      "code": "INS 433 INS 433E",
+      "code": "INS 433E",
       "name": "Betonarme II",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1417,7 +1417,7 @@
     },
     {
      "course": {
-      "code": "INS 405 INS 405E",
+      "code": "INS 405E",
       "name": "İnş.İşçi Sağlığı ve İş Güven.",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1429,7 +1429,7 @@
     },
     {
      "course": {
-      "code": "INS 401 INS 401E",
+      "code": "INS 401E",
       "name": "Su Kaynakları",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1441,7 +1441,7 @@
     },
     {
      "course": {
-      "code": "INS 4901 INS 4901E",
+      "code": "INS 4901E",
       "name": "İnşaat Müh. Tasarımı I",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1739,7 +1739,7 @@
    "items": [
     {
      "course": {
-      "code": "INS 462 INS 462E",
+      "code": "INS 462E",
       "name": "Mühendislik Etiği",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1762,7 +1762,7 @@
     },
     {
      "course": {
-      "code": "INS 4902 INS 4902E",
+      "code": "INS 4902E",
       "name": "İnşaat Müh. Tasarımı II",
       "language": "Türkçe / English",
       "required": "Z",

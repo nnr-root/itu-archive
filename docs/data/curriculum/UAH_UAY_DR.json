@@ -5,40 +5,38 @@
  "level": "DR",
  "planLabel": "Uydu Haberleşmesi ve Uzaktan Algılama Doktora Programı 2026-2027 / Güz Dönemi Sonrası",
  "totalCredits": "21,00",
- "totalEcts": "0,00",
+ "totalEcts": "225,00",
+ "totalEctsComputed": true,
  "semesters": [
   {
    "title": "Uydu Haberleşmesi ve Uzaktan Algılama Doktora",
    "items": [
     {
      "course": {
-      "code": "UAH DRT",
+      "code": "",
       "name": "Tez Çalışması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 150,
-      "type": "Z"
+      "ects": 150
      }
     },
     {
      "course": {
-      "code": "UAH YET",
+      "code": "",
       "name": "Yeterlik Aşaması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 30,
-      "type": "Z"
+      "ects": 30
      }
     },
     {
      "course": {
-      "code": "UAH 696 UAH 696E",
+      "code": "UAH 696E",
       "name": "Bilimsel Araş.,Etik ve Seminer",
       "language": "Türkçe / English",
       "required": "Z",
       "ects": 7.5,
-      "theory": 2,
-      "type": "Z"
+      "theory": 2
      }
     },
     {

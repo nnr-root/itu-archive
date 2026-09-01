@@ -5,29 +5,28 @@
  "level": "DR",
  "planLabel": "Afet Bilimi ve Mühendisliği Doktora Programı 2026-2027 / Güz Dönemi Öncesi",
  "totalCredits": "21,00",
- "totalEcts": "0,00",
+ "totalEcts": "195,00",
+ "totalEctsComputed": true,
  "semesters": [
   {
    "title": "Afet Bilimi ve Mühendisliği Doktora",
    "items": [
     {
      "course": {
-      "code": "ABM DRT",
+      "code": "",
       "name": "Tez Çalışması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 150,
-      "type": "Z"
+      "ects": 150
      }
     },
     {
      "course": {
-      "code": "ABM YET",
+      "code": "",
       "name": "Yeterlik Aşaması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 30,
-      "type": "Z"
+      "ects": 30
      }
     },
     {
@@ -37,8 +36,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 7.5,
-      "theory": 2,
-      "type": "Z"
+      "theory": 2
      }
     },
     {

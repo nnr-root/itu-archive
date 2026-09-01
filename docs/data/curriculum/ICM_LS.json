@@ -156,7 +156,7 @@
     },
     {
      "course": {
-      "code": "ING 112A",
+      "code": "",
       "name": "Basics of Academic Writing",
       "language": "English",
       "required": "Z",
@@ -198,7 +198,7 @@
     },
     {
      "course": {
-      "code": "ING 201A",
+      "code": "",
       "name": "Essentials of Res.Paper Writ.",
       "language": "English",
       "required": "Z",
@@ -267,7 +267,7 @@
     },
     {
      "course": {
-      "code": "ICM 246 ICM 246E",
+      "code": "ICM 246E",
       "name": "İç Mimarlık Projesi I",
       "language": "Türkçe / English",
       "required": "Z",
@@ -318,7 +318,7 @@
        },
        {
         "code": "ICM 4026",
-        "name": "Sanat ve Ku?ltu?r Tarihi"
+        "name": "Sanat ve Kültür Tarihi"
        },
        {
         "code": "ICM 4026E",
@@ -490,7 +490,7 @@
     },
     {
      "course": {
-      "code": "ICM 349 ICM 349E",
+      "code": "ICM 349E",
       "name": "Iç Mimarlık Projesi II",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1193,7 +1193,7 @@
    "items": [
     {
      "course": {
-      "code": "ICM 449 ICM 449E",
+      "code": "ICM 449E",
       "name": "İç Mimarlık Projesi IV",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1595,7 +1595,7 @@
        },
        {
         "code": "ICM 4026",
-        "name": "Sanat ve Ku?ltu?r Tarihi"
+        "name": "Sanat ve Kültür Tarihi"
        },
        {
         "code": "ICM 4026E",
@@ -2191,7 +2191,7 @@
    "items": [
     {
      "course": {
-      "code": "ICM 4902 ICM 4902E",
+      "code": "ICM 4902E",
       "name": "Diploma Projesi",
       "language": "Türkçe / English",
       "required": "Z",
@@ -2561,7 +2561,7 @@
        },
        {
         "code": "ICM 4026",
-        "name": "Sanat ve Ku?ltu?r Tarihi"
+        "name": "Sanat ve Kültür Tarihi"
        },
        {
         "code": "ICM 4026E",

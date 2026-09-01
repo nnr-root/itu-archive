@@ -25,7 +25,7 @@
     },
     {
      "course": {
-      "code": "FIZ 113EL",
+      "code": "",
       "name": "General Physics I Laboratory",
       "language": "English",
       "required": "Z",
@@ -116,7 +116,7 @@
     },
     {
      "course": {
-      "code": "FIZ 116EL",
+      "code": "",
       "name": "General Physics II Laboratory",
       "language": "English",
       "required": "Z",
@@ -140,7 +140,7 @@
     },
     {
      "course": {
-      "code": "KIM 101EL",
+      "code": "",
       "name": "General Chemistry I Lab",
       "language": "English",
       "required": "Z",
@@ -178,7 +178,7 @@
     },
     {
      "course": {
-      "code": "ING 112A",
+      "code": "",
       "name": "Basics of Academic Writing",
       "language": "English",
       "required": "Z",
@@ -244,7 +244,7 @@
     },
     {
      "course": {
-      "code": "FIZ 233EL",
+      "code": "",
       "name": "Electronics I Lab.",
       "language": "English",
       "required": "Z",
@@ -256,7 +256,7 @@
     },
     {
      "course": {
-      "code": "ING 201A",
+      "code": "",
       "name": "Essentials of Res.Paper Writ.",
       "language": "English",
       "required": "Z",
@@ -282,7 +282,7 @@
     },
     {
      "course": {
-      "code": "FIZ 214EL",
+      "code": "",
       "name": "Wave Physics Laboratory",
       "language": "English",
       "required": "Z",
@@ -350,7 +350,7 @@
     },
     {
      "course": {
-      "code": "FIZ 215EL",
+      "code": "",
       "name": "Modern Physics Laboratory",
       "language": "English",
       "required": "Z",
@@ -362,7 +362,7 @@
     },
     {
      "course": {
-      "code": "FIZ 274EL",
+      "code": "",
       "name": "Termodynamics Laboratory",
       "language": "English",
       "required": "Z",
@@ -1208,7 +1208,7 @@
     },
     {
      "course": {
-      "code": "FIZ 374EL",
+      "code": "",
       "name": "Methods of Exp. Physics Lab.",
       "language": "English",
       "required": "Z",

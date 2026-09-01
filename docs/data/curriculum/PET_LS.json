@@ -24,7 +24,7 @@
     },
     {
      "course": {
-      "code": "KIM 101L",
+      "code": "",
       "name": "Genel Kimya I Laboratuvarı",
       "language": "Türkçe",
       "required": "Z",
@@ -86,7 +86,7 @@
     },
     {
      "course": {
-      "code": "FIZ 101EL",
+      "code": "",
       "name": "Physics I Laboratory",
       "language": "English",
       "required": "Z",
@@ -147,7 +147,7 @@
     },
     {
      "course": {
-      "code": "KIM 102L",
+      "code": "",
       "name": "Genel Kimya II Lab",
       "language": "Türkçe",
       "required": "Z",
@@ -184,7 +184,7 @@
     },
     {
      "course": {
-      "code": "FIZ 102EL",
+      "code": "",
       "name": "Physics II Laboratory",
       "language": "English",
       "required": "Z",
@@ -315,7 +315,7 @@
     },
     {
      "course": {
-      "code": "KIM 202L",
+      "code": "",
       "name": "Fiziksel Kimya Lab.",
       "language": "Türkçe",
       "required": "Z",

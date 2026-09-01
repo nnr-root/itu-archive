@@ -5,19 +5,19 @@
  "level": "YL",
  "planLabel": "İktisat Yüksek Lisans Programı",
  "totalCredits": "27,00",
- "totalEcts": "0,00",
+ "totalEcts": "67,50",
+ "totalEctsComputed": true,
  "semesters": [
   {
    "title": "İktisat Yüksek Lisans",
    "items": [
     {
      "course": {
-      "code": "IKT YLT",
+      "code": "",
       "name": "Tez çalışması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 60,
-      "type": "Z"
+      "ects": 60
      }
     },
     {
@@ -27,8 +27,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 7.5,
-      "theory": 2,
-      "type": "Z"
+      "theory": 2
      }
     },
     {

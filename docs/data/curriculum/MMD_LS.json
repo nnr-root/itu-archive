@@ -44,8 +44,7 @@
       "credits": 2,
       "ects": 6,
       "theory": 1,
-      "lab": 2,
-      "type": "GE"
+      "lab": 2
      }
     },
     {
@@ -56,8 +55,7 @@
       "required": "Z",
       "credits": 2,
       "ects": 3,
-      "theory": 2,
-      "type": "GE"
+      "theory": 2
      }
     },
     {
@@ -67,8 +65,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 2,
-      "theory": 2,
-      "type": "GE"
+      "theory": 2
      }
     },
     {
@@ -78,8 +75,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 2,
-      "theory": 2,
-      "type": "GE"
+      "theory": 2
      }
     },
     {
@@ -90,8 +86,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 3.5,
-      "theory": 3,
-      "type": "GE"
+      "theory": 3
      }
     },
     {
@@ -143,8 +138,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 2,
-      "theory": 2,
-      "type": "GE"
+      "theory": 2
      }
     },
     {
@@ -156,8 +150,7 @@
       "credits": 1.5,
       "ects": 3,
       "theory": 1,
-      "tutorial": 1,
-      "type": "GE"
+      "tutorial": 1
      }
     },
     {
@@ -168,8 +161,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 4,
-      "theory": 3,
-      "type": "GE"
+      "theory": 3
      }
     },
     {
@@ -187,15 +179,14 @@
     },
     {
      "course": {
-      "code": "ING 112A",
+      "code": "",
       "name": "Basics of Academic Writing",
       "language": "English",
       "required": "Z",
       "credits": 2,
       "ects": 3.5,
       "theory": 1,
-      "tutorial": 2,
-      "type": "GE"
+      "tutorial": 2
      }
     },
     {
@@ -205,8 +196,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 1,
-      "tutorial": 2,
-      "type": "GE"
+      "tutorial": 2
      }
     }
    ]
@@ -258,21 +248,19 @@
       "required": "Z",
       "credits": 3,
       "ects": 4,
-      "theory": 3,
-      "type": "GE"
+      "theory": 3
      }
     },
     {
      "course": {
-      "code": "ING 201A",
+      "code": "",
       "name": "Essentials of Res.Paper Writ.",
       "language": "English",
       "required": "Z",
       "credits": 2,
       "ects": 3.5,
       "theory": 1,
-      "tutorial": 2,
-      "type": "GE"
+      "tutorial": 2
      }
     },
     {
@@ -324,8 +312,7 @@
       "required": "Z",
       "credits": 2,
       "ects": 3,
-      "theory": 2,
-      "type": "GE"
+      "theory": 2
      }
     },
     {
@@ -359,8 +346,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 2,
-      "theory": 2,
-      "type": "GE"
+      "theory": 2
      }
     },
     {
@@ -583,8 +569,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 4,
-      "theory": 3,
-      "type": "GE"
+      "theory": 3
      }
     },
     {
@@ -595,8 +580,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 5,
-      "theory": 3,
-      "type": "GE"
+      "theory": 3
      }
     },
     {
@@ -1174,8 +1158,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 3,
-      "theory": 3,
-      "type": "GE"
+      "theory": 3
      }
     },
     {

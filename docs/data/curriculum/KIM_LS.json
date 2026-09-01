@@ -24,7 +24,7 @@
     },
     {
      "course": {
-      "code": "KIM 111L",
+      "code": "",
       "name": "Genel Kimya I Lab",
       "language": "Türkçe",
       "required": "Z",
@@ -61,7 +61,7 @@
     },
     {
      "course": {
-      "code": "FIZ 101EL",
+      "code": "",
       "name": "Physics I Laboratory",
       "language": "English",
       "required": "Z",
@@ -114,7 +114,7 @@
     },
     {
      "course": {
-      "code": "KIM 114L",
+      "code": "",
       "name": "Genel Kimya II Lab.",
       "language": "Türkçe",
       "required": "Z",
@@ -126,7 +126,7 @@
     },
     {
      "course": {
-      "code": "FIZ 102EL",
+      "code": "",
       "name": "Physics II Laboratory",
       "language": "English",
       "required": "Z",
@@ -176,7 +176,7 @@
     },
     {
      "course": {
-      "code": "ING 112A",
+      "code": "",
       "name": "Basics of Academic Writing",
       "language": "English",
       "required": "Z",
@@ -229,7 +229,7 @@
     },
     {
      "course": {
-      "code": "KIM 211L",
+      "code": "",
       "name": "Analitik Kimya Lab",
       "language": "Türkçe",
       "required": "Z",
@@ -264,7 +264,7 @@
     },
     {
      "course": {
-      "code": "ING 201A",
+      "code": "",
       "name": "Essentials of Res.Paper Writ.",
       "language": "English",
       "required": "Z",
@@ -306,7 +306,7 @@
     },
     {
      "course": {
-      "code": "KIM 223L",
+      "code": "",
       "name": "Anorganik Kimya Lab.",
       "language": "Türkçe",
       "required": "Z",
@@ -370,7 +370,7 @@
     },
     {
      "course": {
-      "code": "KIM 231L",
+      "code": "",
       "name": "Organik Kimya Lab. I",
       "language": "Türkçe",
       "required": "Z",
@@ -861,7 +861,7 @@
    "items": [
     {
      "course": {
-      "code": "KIM 232L",
+      "code": "",
       "name": "Organik Kimya Lab. II",
       "language": "Türkçe",
       "required": "Z",
@@ -897,7 +897,7 @@
     },
     {
      "course": {
-      "code": "KIM 311L",
+      "code": "",
       "name": "Fiziksel Kimya Lab. I",
       "language": "Türkçe",
       "required": "Z",
@@ -909,7 +909,7 @@
     },
     {
      "course": {
-      "code": "KIM 212L",
+      "code": "",
       "name": "Enstrumental Analitik Yön.Lab.",
       "language": "Türkçe",
       "required": "Z",
@@ -1081,7 +1081,7 @@
     },
     {
      "course": {
-      "code": "KIM 312L",
+      "code": "",
       "name": "Fiziksel Kimya Lab. II",
       "language": "Türkçe",
       "required": "Z",

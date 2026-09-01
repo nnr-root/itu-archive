@@ -5,29 +5,28 @@
  "level": "DR",
  "planLabel": "Siyasal ve Toplumsal Düşünceler (%100 İngilizce) Doktora Programı 2022-2023 / Bahar Dönemi Sonrası",
  "totalCredits": "24,00",
- "totalEcts": "0,00",
+ "totalEcts": "195,00",
+ "totalEctsComputed": true,
  "semesters": [
   {
    "title": "Siyasal ve Toplumsal Düşünceler (İngilizce) Doktora",
    "items": [
     {
      "course": {
-      "code": "STD",
+      "code": "",
       "name": "Tez çalışması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 150,
-      "type": "Z"
+      "ects": 150
      }
     },
     {
      "course": {
-      "code": "STD YET",
+      "code": "",
       "name": "Yeterlik Aşaması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 30,
-      "type": "Z"
+      "ects": 30
      }
     },
     {
@@ -37,8 +36,7 @@
       "language": "English",
       "required": "Z",
       "ects": 7.5,
-      "theory": 2,
-      "type": "Z"
+      "theory": 2
      }
     },
     {

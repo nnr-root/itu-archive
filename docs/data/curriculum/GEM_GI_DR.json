@@ -5,40 +5,38 @@
  "level": "DR",
  "planLabel": "Gemi İnşaatı ve Gemi Makinaları Mühendisliği Doktora Programı 2022-2023 / Bahar Dönemi Sonrası",
  "totalCredits": "21,00",
- "totalEcts": "0,00",
+ "totalEcts": "195,00",
+ "totalEctsComputed": true,
  "semesters": [
   {
    "title": "Gemi İnşaatı ve Gemi Makinaları Mühendisliği Doktora",
    "items": [
     {
      "course": {
-      "code": "GEM DRT",
+      "code": "",
       "name": "Tez Çalışması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 150,
-      "type": "Z"
+      "ects": 150
      }
     },
     {
      "course": {
-      "code": "GEM YET",
+      "code": "",
       "name": "Yeterlik Aşaması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 30,
-      "type": "Z"
+      "ects": 30
      }
     },
     {
      "course": {
-      "code": "GEM 696 GEM 696E",
+      "code": "GEM 696E",
       "name": "Scien.Rese., Ethic&Seminar",
       "language": "Türkçe / English",
       "required": "Z",
       "ects": 7.5,
-      "theory": 2,
-      "type": "Z"
+      "theory": 2
      }
     },
     {

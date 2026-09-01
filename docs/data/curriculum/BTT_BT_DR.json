@@ -5,29 +5,28 @@
  "level": "DR",
  "planLabel": "Bilim ve Teknoloji Tarihi Doktora Programı 2022-2023 / Bahar Dönemi Sonrası",
  "totalCredits": "21,00",
- "totalEcts": "0,00",
+ "totalEcts": "195,00",
+ "totalEctsComputed": true,
  "semesters": [
   {
    "title": "Bilim ve Teknoloji Tarihi Doktora",
    "items": [
     {
      "course": {
-      "code": "BVT DRT",
+      "code": "",
       "name": "Tez çalışması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 150,
-      "type": "Z"
+      "ects": 150
      }
     },
     {
      "course": {
-      "code": "BVT YET",
+      "code": "",
       "name": "Yeterlik Aşaması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 30,
-      "type": "Z"
+      "ects": 30
      }
     },
     {
@@ -37,8 +36,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 7.5,
-      "theory": 2,
-      "type": "Z"
+      "theory": 2
      }
     },
     {

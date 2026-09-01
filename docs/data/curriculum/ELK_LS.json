@@ -24,7 +24,7 @@
     },
     {
      "course": {
-      "code": "FIZ 101EL",
+      "code": "",
       "name": "Physics I Laboratory",
       "language": "English",
       "required": "Z",
@@ -113,7 +113,7 @@
     },
     {
      "course": {
-      "code": "FIZ 102EL",
+      "code": "",
       "name": "Physics II Laboratory",
       "language": "English",
       "required": "Z",
@@ -162,7 +162,7 @@
     },
     {
      "course": {
-      "code": "ING 112A",
+      "code": "",
       "name": "Basics of Academic Writing",
       "language": "English",
       "required": "Z",
@@ -251,7 +251,7 @@
     },
     {
      "course": {
-      "code": "ING 201A",
+      "code": "",
       "name": "Essentials of Res.Paper Writ.",
       "language": "English",
       "required": "Z",
@@ -499,7 +499,7 @@
    "items": [
     {
      "course": {
-      "code": "ELK 343 ELK 343E",
+      "code": "ELK 343E",
       "name": "Elektromekanik Enerji Dönüşümü",
       "language": "Türkçe / English",
       "required": "Z",
@@ -511,7 +511,7 @@
     },
     {
      "course": {
-      "code": "ELK 331 ELK 331E",
+      "code": "ELK 331E",
       "name": "Güç Elektroniği Devreleri",
       "language": "Türkçe / English",
       "required": "Z",
@@ -523,7 +523,7 @@
     },
     {
      "course": {
-      "code": "ELK 307 ELK 307E",
+      "code": "ELK 307E",
       "name": "Aydınlatma Tekniği",
       "language": "Türkçe / English",
       "required": "Z",
@@ -630,7 +630,7 @@
    "items": [
     {
      "course": {
-      "code": "ELK 356 ELK 356E",
+      "code": "ELK 356E",
       "name": "Elektrik Makinaları",
       "language": "Türkçe / English",
       "required": "Z",
@@ -666,7 +666,7 @@
     },
     {
      "course": {
-      "code": "ELK 322E ELK 322",
+      "code": "ELK 322E",
       "name": "Power Transmission Systems",
       "language": "English / Türkçe",
       "required": "Z",
@@ -1450,7 +1450,7 @@
     },
     {
      "course": {
-      "code": "ELK 431 ELK 431E",
+      "code": "ELK 431E",
       "name": "Elektrik Makinaları Lab.",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1462,7 +1462,7 @@
     },
     {
      "course": {
-      "code": "ELK 4901 ELK 4901E",
+      "code": "ELK 4901E",
       "name": "Elektrik Müh. Tasarımı I",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1661,7 +1661,7 @@
    "items": [
     {
      "course": {
-      "code": "ELK 4902 ELK 4902E",
+      "code": "ELK 4902E",
       "name": "Elektrik Müh. Tasarımı II",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1674,7 +1674,7 @@
     },
     {
      "course": {
-      "code": "ELK 420 ELK 420E",
+      "code": "ELK 420E",
       "name": "Elektrik Dağıtım Otomas. Lab.",
       "language": "Türkçe / English",
       "required": "Z",
@@ -1686,7 +1686,7 @@
     },
     {
      "course": {
-      "code": "ELK 406 ELK 406E",
+      "code": "ELK 406E",
       "name": "Elektrik Enerjisi Dağıtımı",
       "language": "Türkçe / English",
       "required": "Z",

@@ -5,19 +5,19 @@
  "level": "YL",
  "planLabel": "İşletme Tezsiz Yüksek Lisans Programı",
  "totalCredits": "33,00",
- "totalEcts": "0,00",
+ "totalEcts": "150,00",
+ "totalEctsComputed": true,
  "semesters": [
   {
    "title": "İşletme Tezsiz Yüksek Lisans",
    "items": [
     {
      "course": {
-      "code": "ISS 598 ISS 598E",
+      "code": "ISS 598E",
       "name": "Proje",
       "language": "Türkçe / English",
       "required": "Z",
-      "ects": 60,
-      "type": "Z"
+      "ects": 60
      }
     },
     {
@@ -27,8 +27,7 @@
       "language": "Türkçe",
       "required": "Z",
       "ects": 7.5,
-      "theory": 2,
-      "type": "Z"
+      "theory": 2
      }
     },
     {

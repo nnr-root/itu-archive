@@ -5,30 +5,29 @@
  "level": "YL",
  "planLabel": "Nükleer Enerji Mühendisliği Yüksek Lisans Programı 2026-2027 / Güz Dönemi Sonrası",
  "totalCredits": "24,00",
- "totalEcts": "0,00",
+ "totalEcts": "97,50",
+ "totalEctsComputed": true,
  "semesters": [
   {
    "title": "Nükleer Enerji Mühendisliği Yüksek Lisans",
    "items": [
     {
      "course": {
-      "code": "NUK YLT",
+      "code": "",
       "name": "Tez Çalışması",
       "language": "Türkçe",
       "required": "Z",
-      "ects": 60,
-      "type": "Z"
+      "ects": 60
      }
     },
     {
      "course": {
-      "code": "NUK 596 NUK 596E",
+      "code": "NUK 596E",
       "name": "Bilimsel Araştırma, Etik ve Seminer",
       "language": "Türkçe / English",
       "required": "Z",
       "ects": 7.5,
-      "theory": 2,
-      "type": "Z"
+      "theory": 2
      }
     },
     {
@@ -39,8 +38,7 @@
       "required": "Z",
       "credits": 3,
       "ects": 7.5,
-      "theory": 3,
-      "type": "Z"
+      "theory": 3
      }
     },
     {

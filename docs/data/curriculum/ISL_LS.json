@@ -24,7 +24,7 @@
     },
     {
      "course": {
-      "code": "FIZ 101EL",
+      "code": "",
       "name": "Physics I Laboratory",
       "language": "English",
       "required": "Z",
@@ -73,7 +73,7 @@
     },
     {
      "course": {
-      "code": "KIM 101EL",
+      "code": "",
       "name": "General Chemistry I Lab",
       "language": "English",
       "required": "Z",
@@ -126,7 +126,7 @@
     },
     {
      "course": {
-      "code": "FIZ 102EL",
+      "code": "",
       "name": "Physics II Laboratory",
       "language": "English",
       "required": "Z",
@@ -798,6 +798,10 @@
         "name": "European Leadership for Sustainability Management"
        },
        {
+        "code": "ISL 451E",
+        "name": "Technology and Globalization"
+       },
+       {
         "code": "ISL 467E",
         "name": "Management Eng.App.with Python"
        },
@@ -889,6 +893,14 @@
         "name": "Üretimde Veriml.ve Perf. Analz"
        },
        {
+        "code": "ISL 451E",
+        "name": "Technology and Globalization"
+       },
+       {
+        "code": "ISL 464E",
+        "name": "Deep Learning with Business Applications"
+       },
+       {
         "code": "ISL 467E",
         "name": "Management Eng.App.with Python"
        },
@@ -922,6 +934,10 @@
         "name": "European Leadership for Sustainability Management"
        },
        {
+        "code": "ISL 451E",
+        "name": "Technology and Globalization"
+       },
+       {
         "code": "ISL 452",
         "name": "Menkul Kıym.ve Portf. Yönetimi"
        },
@@ -936,6 +952,10 @@
        {
         "code": "ISL 462",
         "name": "Türkiye Ekonomisi"
+       },
+       {
+        "code": "ISL 464E",
+        "name": "Deep Learning with Business Applications"
        },
        {
         "code": "ISL 467E",
