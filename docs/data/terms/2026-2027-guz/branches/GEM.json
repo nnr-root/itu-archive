@@ -700,7 +700,7 @@
   "level": "LS",
   "name": "Gemi İnş.&Gemi Mak. Müh.Tas.I",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Gökhan Tansel Tayyar , Erdem Üçer , Emin Korkut , Oğuz Salim Söğüt , İsmail Yalçın , Devrim Bülent Danışman",
+  "instructor": "Gökhan Tansel Tayyar , Erdem Üçer , Emin Korkut , Oğuz Salim Söğüt , Devrim Bülent Danışman",
   "buildings": [
    "MEDC",
    "MEDC"
@@ -1218,14 +1218,14 @@
   "level": "LS",
   "name": "Bireysel Bitirme Projesi",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "İsmail Yalçın",
+  "instructor": "-",
   "buildings": [],
   "days": [],
   "times": [
    "-/-"
   ],
   "rooms": [],
-  "capacity": 3,
+  "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
   "programs": [

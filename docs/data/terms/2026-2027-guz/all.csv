@@ -1981,7 +1981,7 @@
 12049,GEM 409,GEM,LS,Gemi Titreşimleri,Fiziksel (Yüz yüze),Bahadır Uğurlu,MEDC,Pazartesi,10:30/13:29,2D13,40,0,-,GEM_LS,Detay,-
 12050,GEM 421,GEM,LS,Gemi Hareket ve Manevraları,Fiziksel (Yüz yüze),Cihad Çelik,MEDC | MEDC,Pazartesi | Çarşamba,08:30/10:29 | 08:30/10:29,ZA3 | ZA2,50,0,-,"GEM_LS, GEM_YD",Detay,-
 12051,GEM 421,GEM,LS,Gemi Hareket ve Manevraları,Fiziksel (Yüz yüze),Şakir Bal,MEDC | MEDC,Pazartesi | Çarşamba,08:30/10:29 | 08:30/10:29,ZD2 | ZD2,50,0,-,"GEM_LS, GEM_YD",Detay,-
-12052,GEM 4901,GEM,LS,Gemi İnş.&Gemi Mak. Müh.Tas.I,Fiziksel (Yüz yüze),"Gökhan Tansel Tayyar , Erdem Üçer , Emin Korkut , Oğuz Salim Söğüt , İsmail Yalçın , Devrim Bülent Danışman",MEDC | MEDC,Çarşamba | Perşembe,10:30/13:29 | 10:30/13:29,ZA2 | ZA2,70,0,-,GEM_LS,Detay,Detay
+12052,GEM 4901,GEM,LS,Gemi İnş.&Gemi Mak. Müh.Tas.I,Fiziksel (Yüz yüze),"Gökhan Tansel Tayyar , Erdem Üçer , Emin Korkut , Oğuz Salim Söğüt , Devrim Bülent Danışman",MEDC | MEDC,Çarşamba | Perşembe,10:30/13:29 | 10:30/13:29,ZA2 | ZA2,70,0,-,GEM_LS,Detay,Detay
 12053,GEM 4902,GEM,LS,Gemi İnş.&Gem.Mak. Müh.Tas.II,Fiziksel (Yüz yüze),"Selma Ergin , Ahmet Ergin , Osman Azmi Özsoysal , Ertekin Bayraktarkatal , Şakir Bal",MEDC | MEDC,Çarşamba | Perşembe,10:30/13:29 | 10:30/13:29,ZD2 | ZD2,70,0,-,GEM_LS,Detay,-
 12054,GEM 423E,GEM,LS,Advanced Propulsion Systems,Fiziksel (Yüz yüze),Ali Can Takinacı,MEDC,Salı,13:30/15:29,2D12,30,0,-,"GEM_LS, GEME_LS",Detay,-
 12055,GEM 425E,GEM,LS,Finite Elem.Anl.of MarineStrc.,Fiziksel (Yüz yüze),Mustafa Erden Yıldızdağ,MEDC,Salı,15:30/17:29,3BİL1,30,0,-,GEM_LS,-,-
@@ -2001,7 +2001,7 @@
 12069,GEM 482,GEM,LS,Bireysel Bitirme Projesi,Fiziksel (Yüz yüze),Fuzuli Ağrı Akçay,,,-/-,,3,0,-,GEM_LS,-,-
 12070,GEM 482,GEM,LS,Bireysel Bitirme Projesi,Fiziksel (Yüz yüze),Gökhan Tansel Tayyar,,,-/-,,3,0,-,GEM_LS,-,-
 12071,GEM 482,GEM,LS,Bireysel Bitirme Projesi,Fiziksel (Yüz yüze),Halil Saraçoğlu,,,-/-,,3,0,-,GEM_LS,-,-
-12072,GEM 482,GEM,LS,Bireysel Bitirme Projesi,Fiziksel (Yüz yüze),İsmail Yalçın,,,-/-,,3,0,-,GEM_LS,-,-
+12072,GEM 482,GEM,LS,Bireysel Bitirme Projesi,Fiziksel (Yüz yüze),-,,,-/-,,0,0,-,GEM_LS,-,-
 12073,GEM 482,GEM,LS,Bireysel Bitirme Projesi,Fiziksel (Yüz yüze),Murat Emre Demir,,,-/-,,3,0,-,GEM_LS,-,-
 12074,GEM 482,GEM,LS,Bireysel Bitirme Projesi,Fiziksel (Yüz yüze),Mustafa Erden Yıldızdağ,,,-/-,,3,0,-,GEM_LS,-,-
 12075,GEM 482,GEM,LS,Bireysel Bitirme Projesi,Fiziksel (Yüz yüze),Münir Cansın Özden,,,-/-,,3,0,-,GEM_LS,-,-
@@ -2254,11 +2254,11 @@
 12324,YZV 302E,YZV,LS,Deep Learning,Fiziksel (Yüz yüze),Tuğçe Bilen,undeclared,Pazartesi,14:30/17:29,--,5,0,-,"YZVE_LS, YZVE_LS",Detay,-
 12325,YZV 303E,YZV,LS,Deep Learning,Fiziksel (Yüz yüze),Faik Boray Tek,undeclared,Pazartesi,14:30/17:29,--,60,0,-,YZVE_LS,Detay,-
 12326,YZV 311E,YZV,LS,Data Mining,Fiziksel (Yüz yüze),Şule Öğüdücü,undeclared,Salı,13:30/16:29,--,60,0,-,YZVE_LS,Detay,-
-12327,YZV 311E,YZV,LS,Data Mining,Fiziksel (Yüz yüze),Tuğçe Bilen,undeclared,Salı,13:30/16:29,--,5,0,-,YZVE_LS,Detay,-
+12327,YZV 311E,YZV,LS,Data Mining,Fiziksel (Yüz yüze),Tuğçe Bilen,,,-/-,,5,0,-,YZVE_LS,Detay,-
 12328,YZV 401E,YZV,LS,Legal Aspects of AI&Data Eng.,Fiziksel (Yüz yüze),Çiçek Ersoy Kekevi,undeclared,Cuma,14:30/16:29,--,75,0,-,"YZVE_LS, YZVE_LS",-,-
-12329,YZV 406E,YZV,LS,Robotics,Fiziksel (Yüz yüze),Sanem Sarıel Uzer,undeclared,Çarşamba,09:30/12:29,--,60,0,-,"YZVE_LS, YZVE_LS",Detay,-
+12329,YZV 406E,YZV,LS,Robotics,Fiziksel (Yüz yüze),Sanem Sarıel Uzer,undeclared,Salı,09:30/12:29,--,60,0,-,"YZVE_LS, YZVE_LS",Detay,-
 12330,YZV 411E,YZV,LS,Big Data Analytics,Fiziksel (Yüz yüze),Cihan Topal,undeclared,Perşembe,14:30/17:29,--,60,0,-,"YZVE_LS, YZVE_LS",Detay,-
-12331,YZV 4901E,YZV,LS,AI &Data Engineering Design I,Fiziksel (Yüz yüze),Berna Kiraz,,,-/-,,40,0,-,"YZVE_LS, YZVE_LS",Detay,Detay
+12331,YZV 4901E,YZV,LS,AI &Data Engineering Design I,Fiziksel (Yüz yüze),Berna Kiraz,undeclared,Çarşamba,13:30/15:29,--,40,0,-,"YZVE_LS, YZVE_LS",Detay,Detay
 12332,YAP 696E,YAP,LU,"Scien.Rese., Ethic&Seminar",Fiziksel (Yüz yüze),Burcu Güneş,undeclared,Çarşamba,15:30/17:29,--,0,0,-,,-,-
 12333,YAP 617E,YAP,LU,Nonliear Behav.Renf.Conc.Mem.,Fiziksel (Yüz yüze),"Alper İlki , Cem Demir",undeclared,Salı,09:30/12:29,--,20,0,-,,-,-
 12334,YZV 4902E,YZV,LS,AI& Data Engineering Design II,Fiziksel (Yüz yüze),Tuğçe Bilen,,,-/-,,30,0,-,"YZVE_LS, YZVE_LS",Detay,-
@@ -4882,7 +4882,7 @@
 15158,MMD 328E,MMD,LS,Hazardous Material Transport.,Fiziksel (Yüz yüze),Elif Bal Beşikçi,DZB,Perşembe,10:30/13:29,--,30,0,-,MMD_LS,-,-
 15159,MMD 303E,MMD,LS,Practical Training,Fiziksel (Yüz yüze),İbrahim Tuğrul Ardıç,,,-/-,,30,0,-,MMD_LS,-,-
 15160,MMD 411E,MMD,LS,Maritime Business Oper. Manag.,Fiziksel (Yüz yüze),Ahmet Lutfi Tunçel,DZB,Salı,12:30/14:29,--,30,0,-,MMD_LS,Detay,-
-15161,MMD 413E,MMD,LS,Purchasing&Inventory Manag.,Fiziksel (Yüz yüze),Emir Ejder,DZB,Salı,10:30/12:29,--,30,0,-,MMD_LS,Detay,-
+15161,MMD 413E,MMD,LS,Purchasing&Inventory Manag.,Fiziksel (Yüz yüze),Emir Ejder,DZB,Çarşamba,08:30/10:29,--,30,0,-,MMD_LS,Detay,-
 15162,MMD 403E,MMD,LS,Custom Operations,Fiziksel (Yüz yüze),Murat Karaman,DZB,Çarşamba,12:30/14:29,--,30,0,-,MMD_LS,-,-
 15163,MMD 401E,MMD,LS,Shipp.Lines&Freight Forwarding,Fiziksel (Yüz yüze),Murat Karaman,DZB,Çarşamba,10:30/12:29,--,30,0,-,MMD_LS,-,-
 15164,MMD 421E,MMD,LS,Port Security Management,Fiziksel (Yüz yüze),Pelin Bolat,,,-/-,,0,0,-,MMD_LS,-,-
@@ -4910,7 +4910,7 @@
 15186,GMI 114E,GMI,LS,Materials Scie.&Manufact.Mth.,Fiziksel (Yüz yüze),Yasin Arslanoğlu,DZB,Çarşamba,13:30/15:29,--,40,0,-,MEN_LS,-,-
 15187,GMI 118E,GMI,LS,Introduction to Marine Engineering and Ethics,Fiziksel (Yüz yüze),Merve Gül Çıvgın,DZB,Pazartesi,12:30/15:29,--,40,0,-,MEN_LS,-,-
 15188,TUR 121,TUR,LS,Türk Dili I,Fiziksel (Yüz yüze),Sinan Çakır,DZB,Salı,13:30/15:29,--,80,0,-,"MEN_LS, MTM_LS",-,-
-15189,DUI 231E,DUI,LS,Marine Communication,Fiziksel (Yüz yüze),Yunus Emre Şenol,DZB,Çarşamba,13:30/15:29,--,40,0,-,MTM_LS,-,-
+15189,DUI 231E,DUI,LS,Marine Communication,Fiziksel (Yüz yüze),Alaaddin Yıldıray Ertaş,DZB,Perşembe,15:30/17:29,--,40,0,-,MTM_LS,-,-
 15190,DUI 251E,DUI,LS,Meteorology,Fiziksel (Yüz yüze),Ayşe Nak,DZB,Pazartesi,14:30/17:29,--,40,0,-,MTM_LS,-,-
 15191,DUI 215E,DUI,LS,Terrestrial Navigation,Fiziksel (Yüz yüze),Tuba Keçeci,DZB,Salı,10:30/13:29,--,40,0,-,MTM_LS,-,-
 15192,DUI 213E,DUI,LS,Ship Constrct.and Stability,Fiziksel (Yüz yüze),Melek Ertogan,DZB,Cuma,14:30/17:29,--,40,0,-,MTM_LS,-,-
@@ -4924,6 +4924,53 @@
 15200,DFH 201E,DFH,LS,Basic Swimming Skills,Fiziksel (Yüz yüze),Hakan Çap,DZB,Çarşamba,12:30/14:29,--,30,0,-,MEN_LS,-,-
 15201,DUM 623E,DUM,LU,Maching Lear.in Marit.Indus.,Fiziksel (Yüz yüze),Tayfun Uyanık,undeclared,Salı,08:30/11:29,--,10,0,-,,-,-
 15202,UCK 423E,UCK,LS,Princip. of Aircraft Design I,Fiziksel (Yüz yüze),Halit Süleyman Türkmen,MEDC,Pazartesi,14:30/17:29,1D6,40,0,-,"UCK_LS, UCK_YD",Detay,-
+15203,YZV 312E,YZV,LS,Data Mining,Fiziksel (Yüz yüze),Tuğçe Bilen,undeclared,Salı,13:30/16:29,--,5,0,-,YZVE_LS,Detay,-
+15204,GMI 206E,GMI,LS,Mechanical Workshop,Fiziksel (Yüz yüze),Çağlar Karatuğ,DZB,Pazartesi,08:30/11:29,--,40,0,-,MEN_LS,-,-
+15206,GMI 320E,GMI,LS,Naval Architecture&Stability,Fiziksel (Yüz yüze),Melek Ertogan,DZB,Perşembe,15:30/17:29,--,40,0,-,MEN_LS,-,-
+15207,GMI 254E,GMI,LS,Marine Auxiliary Machinery I,Fiziksel (Yüz yüze),Kemal Demirel,DZB,Pazartesi,13:30/16:29,--,40,0,-,MEN_LS,-,-
+15208,DFH 202E,DFH,LS,Ship Emergency Response,Fiziksel (Yüz yüze),Ahmet Lutfi Tunçel,DZB,Salı,14:30/16:29,--,80,0,-,"MEN_LS, MTM_LS",-,Detay
+15209,MEN 211,MEN,LS,Workshop Training-I,Fiziksel (Yüz yüze),Cumali Seçkin Mengeçin,,,-/-,,60,0,-,MEN_LS,-,-
+15210,MTM 211,MTM,LS,Onboard Training-I,Fiziksel (Yüz yüze),Selim Aksoy,,,-/-,,60,0,-,MTM_LS,-,-
+15211,DUI 371E,DUI,LS,Watchkeeping II,Fiziksel (Yüz yüze),Selim Aksoy,DZB,Salı,10:30/13:29,--,40,0,-,MTM_LS,-,-
+15212,DUI 321E,DUI,LS,Maritime Law I,Fiziksel (Yüz yüze),Arda Özkan,DZB,Çarşamba,08:30/10:29,--,40,0,-,MTM_LS,-,-
+15213,DUI 341E,DUI,LS,Maritime Practical Studies,Fiziksel (Yüz yüze),Serdar Kum,DZB,Cuma,14:00/17:59,--,30,0,-,MTM_LS,-,-
+15214,DUI 341E,DUI,LS,Maritime Practical Studies,Fiziksel (Yüz yüze),Yunus Emre Şenol,DZB,Cuma,14:00/17:59,--,30,0,-,MTM_LS,-,-
+15215,DUI 311E,DUI,LS,Celestial Navigation,Fiziksel (Yüz yüze),Orhan Gönel,DZB,Perşembe,12:30/15:29,--,40,0,-,MTM_LS,-,-
+15216,DUI 361E,DUI,LS,Technical Ship Management,Fiziksel (Yüz yüze),Gizem Çevik,,,-/-,,0,0,-,MTM_LS,-,-
+15217,DUI 305E,DUI,LS,Ship Hndl.and Manouvering,Fiziksel (Yüz yüze),Cenk Ay,DZB,Cuma,08:30/11:29,--,40,0,-,MTM_LS,-,-
+15218,DUI 385E,DUI,LS,Environmental Management for Ship Operations,Fiziksel (Yüz yüze),Tanzer Satır,DZB,Pazartesi,11:30/13:29,--,40,0,-,MTM_LS,-,-
+15219,GMI 341E,GMI,LS,Automatic Control Systems,Fiziksel (Yüz yüze),Tayfun Uyanık,DZB,Cuma,14:00/16:59,--,40,0,-,MEN_LS,Detay,-
+15220,GMI 301E,GMI,LS,Maritime Law,Fiziksel (Yüz yüze),Arda Özkan,DZB,Çarşamba,10:30/12:29,--,40,0,-,MEN_LS,-,-
+15221,GMI 313E,GMI,LS,Marine Boilers and Operation,Fiziksel (Yüz yüze),Cumali Seçkin Mengeçin,DZB,Salı,13:30/15:29,--,40,0,-,MEN_LS,-,-
+15222,GMI 333E,GMI,LS,Marine Diesel Engines II,Fiziksel (Yüz yüze),Cumali Seçkin Mengeçin,DZB,Cuma,10:30/12:29,--,40,0,-,MEN_LS,-,-
+15223,GMI 324E,GMI,LS,Ship Machinery Operation and Maintenance,Fiziksel (Yüz yüze),Samet Biçen,DZB,Salı,15:30/17:29,--,40,0,-,MEN_LS,-,-
+15224,GMI 342E,GMI,LS,Maritime Rules & Regulations,Fiziksel (Yüz yüze),Fırat Bolat,DZB,Salı,11:30/13:29,--,40,0,-,MEN_LS,-,-
+15225,GMI 352E,GMI,LS,Heat Transfer,Fiziksel (Yüz yüze),Yalçın Durmuşoğlu,DZB,Perşembe,08:30/11:29,--,40,0,-,MEN_LS,Detay,-
+15226,GMI 384E,GMI,LS,Engine Room Simulator (ERS) I,Fiziksel (Yüz yüze),Kemal Demirel,DZB,Perşembe,14:30/17:29,--,20,0,-,MEN_LS,Detay,-
+15227,GMI 384E,GMI,LS,Engine Room Simulator (ERS) I,Fiziksel (Yüz yüze),Kemal Demirel,DZB,Perşembe,11:30/14:29,--,20,0,-,MEN_LS,Detay,-
+15229,MEN 331,MEN,LS,Workshop Training-II,Fiziksel (Yüz yüze),Cumali Seçkin Mengeçin,,,-/-,,60,0,-,MEN_LS,-,Detay
+15230,MTM 341,MTM,LS,Onboard Training-II,Fiziksel (Yüz yüze),Selim Aksoy,,,-/-,,60,0,-,MTM_LS,-,Detay
+15231,MEN 302,MEN,LS,Onboard Training,Fiziksel (Yüz yüze),Cumali Seçkin Mengeçin,,,-/-,,60,0,-,MEN_LS,Detay,-
+15232,MTM 302,MTM,LS,Onboard Training-III,Fiziksel (Yüz yüze),Selim Aksoy,,,-/-,,60,0,-,MTM_LS,Detay,-
+15233,GMI 393E,GMI,LS,Long Term Sea Training (6 ay),Fiziksel (Yüz yüze),Cumali Seçkin Mengeçin,,,-/-,,60,0,-,MEN_LS,Detay,-
+15234,DUI 393E,DUI,LS,Long Term SeaTraining(6Months),Fiziksel (Yüz yüze),Selim Aksoy,,,-/-,,60,0,-,MTM_LS,Detay,-
+15236,DUI 461E,DUI,LS,Ship Surveying Procedures,Fiziksel (Yüz yüze),Fırat Bolat,DZB,Salı,13:30/15:29,--,80,0,-,"MEN_LS, MTM_LS",-,-
+15237,DUI 407E,DUI,LS,Cargo Handl and Stowage,Fiziksel (Yüz yüze),Tanzer Satır,,,-/-,,0,0,-,MTM_LS,Detay,-
+15238,DUI 405E,DUI,LS,Marine Engines,Fiziksel (Yüz yüze),Cumali Seçkin Mengeçin,DZB,Çarşamba,10:30/12:29,--,40,0,-,MTM_LS,-,-
+15239,DUI 4901E,DUI,LS,MaritimeTrans.Mng.Eng.Design I,Fiziksel (Yüz yüze),Selim Aksoy,,,-/-,,60,0,-,MTM_LS,Detay,Detay
+15240,DFH 361E,DFH,LS,Ship Supply Chain Management,Fiziksel (Yüz yüze),Selim Aksoy,DZB,Perşembe,08:30/10:29,--,60,0,-,"MEN_LS, MTM_LS",-,-
+15241,DFH 212E,DFH,LS,Human Resources Management in Maritime,Fiziksel (Yüz yüze),Leyla Tavacıoğlu,DZB,Çarşamba,08:30/10:29,--,40,0,-,MTM_LS,-,-
+15242,GMI 454E,GMI,LS,Marine Auxiliary Machinery II,Fiziksel (Yüz yüze),Kemal Demirel,DZB,Pazartesi,10:30/13:29,--,40,0,-,MEN_LS,Detay,-
+15243,GMI 457E,GMI,LS,Marine Electrotechnics,Fiziksel (Yüz yüze),Tayfun Uyanık,DZB,Pazartesi,14:30/16:29,--,40,0,-,MEN_LS,-,-
+15244,GMI 473E,GMI,LS,Marine Diesel Engines III,Fiziksel (Yüz yüze),Yalçın Durmuşoğlu,DZB,Salı,08:30/10:29,--,40,0,-,MEN_LS,Detay,-
+15245,GMI 4901E,GMI,LS,Marine Engineering Design I,Fiziksel (Yüz yüze),Selim Aksoy,,,-/-,,60,0,-,MEN_LS,Detay,Detay
+15246,GMI 270E,GMI,LS,Maritime English II,Fiziksel (Yüz yüze),Müjgan Özenir,DZB,Salı,15:30/17:29,--,40,0,-,MEN_LS,-,-
+15247,GMI 474E,GMI,LS,Quality&Safety Management Sys.,Fiziksel (Yüz yüze),İsmail Kandemir,DZB,Çarşamba,10:30/12:29,--,60,0,-,"MEN_LS, MTM_LS",-,-
+15248,GMI 476E,GMI,LS,Deck Machinery,Fiziksel (Yüz yüze),Cumali Seçkin Mengeçin,DZB,Çarşamba,12:30/14:29,--,40,0,-,MEN_LS,-,-
+15249,MEN 402,MEN,LS,Graduation Design Project,Fiziksel (Yüz yüze),Cumali Seçkin Mengeçin,,,-/-,,60,0,-,MEN_LS,-,Detay
+15250,MTM 402,MTM,LS,Graduation Design Project,Fiziksel (Yüz yüze),Selim Aksoy,,,-/-,,60,0,-,MTM_LS,-,Detay
+15251,GMI 4902E,GMI,LS,Marine Engineering Design II,Fiziksel (Yüz yüze),Selim Aksoy,,,-/-,,60,0,-,MEN_LS,Detay,-
+15252,DUI 4902E,DUI,LS,MaritimeTrans.Mng.Eng.DesignII,Fiziksel (Yüz yüze),Selim Aksoy,,,-/-,,60,0,-,MTM_LS,Detay,-
 30003,HGP 515,HGP,LUI,Moda ve Lüks Marka Yönetimi,Fiziksel (Yüz yüze),"Cevza Candan , Canan Sarıçam",MKB,Perşembe,18:30/21:29,D380B,20,15,-,,-,-
 30004,HGP 599,HGP,LUI,Proje,Fiziksel (Yüz yüze),Cevza Candan,,,-/-,,10,2,-,,-,-
 30005,MBA 549E,MBA,LUI,Business Forecasting,Fiziksel (Yüz yüze),Raziye Selim,ISB,Pazartesi,19:00/22:59,202,25,2,-,,-,-

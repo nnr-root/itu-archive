@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-01T13:33:32Z",
+ "scrapedAt": "2026-09-01T17:52:16Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5063,
- "courses": 3530,
+ "sections": 5110,
+ "courses": 3559,
  "branches": [
   {
    "code": "ABM",
@@ -266,7 +266,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 30
+   "sections": 33
   },
   {
    "code": "DNK",
@@ -287,7 +287,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 54
+   "sections": 68
   },
   {
    "code": "DUM",
@@ -511,7 +511,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 44
+   "sections": 65
   },
   {
    "code": "GSB",
@@ -892,6 +892,13 @@
    "sections": 5
   },
   {
+   "code": "MEN",
+   "levels": [
+    "LS"
+   ],
+   "sections": 4
+  },
+  {
    "code": "MET",
    "levels": [
     "LS",
@@ -1017,6 +1024,13 @@
     "LS"
    ],
    "sections": 9
+  },
+  {
+   "code": "MTM",
+   "levels": [
+    "LS"
+   ],
+   "sections": 4
   },
   {
    "code": "MTO",
@@ -1512,7 +1526,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 18
+   "sections": 19
   },
   {
    "code": "ZER",
@@ -1530,11 +1544,11 @@
   }
  ],
  "stats": {
-  "sections": 5063,
-  "courses": 3530,
-  "branches": 214,
-  "instructors": 1734,
-  "capacity": 246418,
+  "sections": 5110,
+  "courses": 3559,
+  "branches": 216,
+  "instructors": 1736,
+  "capacity": 248520,
   "enrolled": 1204
  }
 }

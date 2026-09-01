@@ -214,18 +214,12 @@
   "name": "Data Mining",
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Tuğçe Bilen",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Salı"
-  ],
+  "buildings": [],
+  "days": [],
   "times": [
-   "13:30/16:29"
+   "-/-"
   ],
-  "rooms": [
-   "--"
-  ],
+  "rooms": [],
   "capacity": 5,
   "enrolled": 0,
   "reserved": "-",
@@ -277,7 +271,7 @@
    "undeclared"
   ],
   "days": [
-   "Çarşamba"
+   "Salı"
   ],
   "times": [
    "09:30/12:29"
@@ -333,12 +327,18 @@
   "name": "AI &Data Engineering Design I",
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Berna Kiraz",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
+  "buildings": [
+   "undeclared"
   ],
-  "rooms": [],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "13:30/15:29"
+  ],
+  "rooms": [
+   "--"
+  ],
   "capacity": 40,
   "enrolled": 0,
   "reserved": "-",
@@ -516,6 +516,35 @@
   "reserved": "-",
   "programs": [
    "YZVE_LS",
+   "YZVE_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15203",
+  "code": "YZV 312E",
+  "branch": "YZV",
+  "level": "LS",
+  "name": "Data Mining",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Tuğçe Bilen",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "13:30/16:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 5,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
    "YZVE_LS"
   ],
   "prereq": "Detay",

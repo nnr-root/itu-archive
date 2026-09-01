@@ -84955,7 +84955,7 @@
   "GEM 4901",
   "Gemi İnş.&Gemi Mak. Müh.Tas.I",
   "GEM",
-  "Gökhan Tansel Tayyar , Erdem Üçer , Emin Korkut , Oğuz Salim Söğüt , İsmail Yalçın , Devrim Bülent Danışman",
+  "Gökhan Tansel Tayyar , Erdem Üçer , Emin Korkut , Oğuz Salim Söğüt , Devrim Bülent Danışman",
   "Çarşamba 10:30/13:29 | Perşembe 10:30/13:29",
   70,
   0,
@@ -85257,9 +85257,9 @@
   "GEM 482",
   "Bireysel Bitirme Projesi",
   "GEM",
-  "İsmail Yalçın",
+  "-",
   "",
-  3,
+  0,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -89223,7 +89223,7 @@
   "Data Mining",
   "YZV",
   "Tuğçe Bilen",
-  "Salı 13:30/16:29",
+  "",
   5,
   0,
   "LS",
@@ -89254,7 +89254,7 @@
   "Robotics",
   "YZV",
   "Sanem Sarıel Uzer",
-  "Çarşamba 09:30/12:29",
+  "Salı 09:30/12:29",
   60,
   0,
   "LS",
@@ -89286,7 +89286,7 @@
   "AI &Data Engineering Design I",
   "YZV",
   "Berna Kiraz",
-  "",
+  "Çarşamba 13:30/15:29",
   40,
   0,
   "LS",
@@ -131407,7 +131407,7 @@
   "Purchasing&Inventory Manag.",
   "MMD",
   "Emir Ejder",
-  "Salı 10:30/12:29",
+  "Çarşamba 08:30/10:29",
   30,
   0,
   "LS",
@@ -131854,8 +131854,8 @@
   "DUI 231E",
   "Marine Communication",
   "DUI",
-  "Yunus Emre Şenol",
-  "Çarşamba 13:30/15:29",
+  "Alaaddin Yıldıray Ertaş",
+  "Perşembe 15:30/17:29",
   40,
   0,
   "LS",
@@ -132061,6 +132061,715 @@
   [
    "UCK_LS",
    "UCK_YD"
+  ]
+ ],
+ [
+  "15203",
+  "YZV 312E",
+  "Data Mining",
+  "YZV",
+  "Tuğçe Bilen",
+  "Salı 13:30/16:29",
+  5,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "YZVE_LS"
+  ]
+ ],
+ [
+  "15204",
+  "GMI 206E",
+  "Mechanical Workshop",
+  "GMI",
+  "Çağlar Karatuğ",
+  "Pazartesi 08:30/11:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15206",
+  "GMI 320E",
+  "Naval Architecture&Stability",
+  "GMI",
+  "Melek Ertogan",
+  "Perşembe 15:30/17:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15207",
+  "GMI 254E",
+  "Marine Auxiliary Machinery I",
+  "GMI",
+  "Kemal Demirel",
+  "Pazartesi 13:30/16:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15208",
+  "DFH 202E",
+  "Ship Emergency Response",
+  "DFH",
+  "Ahmet Lutfi Tunçel",
+  "Salı 14:30/16:29",
+  80,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS",
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15209",
+  "MEN 211",
+  "Workshop Training-I",
+  "MEN",
+  "Cumali Seçkin Mengeçin",
+  "",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15210",
+  "MTM 211",
+  "Onboard Training-I",
+  "MTM",
+  "Selim Aksoy",
+  "",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15211",
+  "DUI 371E",
+  "Watchkeeping II",
+  "DUI",
+  "Selim Aksoy",
+  "Salı 10:30/13:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15212",
+  "DUI 321E",
+  "Maritime Law I",
+  "DUI",
+  "Arda Özkan",
+  "Çarşamba 08:30/10:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15213",
+  "DUI 341E",
+  "Maritime Practical Studies",
+  "DUI",
+  "Serdar Kum",
+  "Cuma 14:00/17:59",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15214",
+  "DUI 341E",
+  "Maritime Practical Studies",
+  "DUI",
+  "Yunus Emre Şenol",
+  "Cuma 14:00/17:59",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15215",
+  "DUI 311E",
+  "Celestial Navigation",
+  "DUI",
+  "Orhan Gönel",
+  "Perşembe 12:30/15:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15216",
+  "DUI 361E",
+  "Technical Ship Management",
+  "DUI",
+  "Gizem Çevik",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15217",
+  "DUI 305E",
+  "Ship Hndl.and Manouvering",
+  "DUI",
+  "Cenk Ay",
+  "Cuma 08:30/11:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15218",
+  "DUI 385E",
+  "Environmental Management for Ship Operations",
+  "DUI",
+  "Tanzer Satır",
+  "Pazartesi 11:30/13:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15219",
+  "GMI 341E",
+  "Automatic Control Systems",
+  "GMI",
+  "Tayfun Uyanık",
+  "Cuma 14:00/16:59",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15220",
+  "GMI 301E",
+  "Maritime Law",
+  "GMI",
+  "Arda Özkan",
+  "Çarşamba 10:30/12:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15221",
+  "GMI 313E",
+  "Marine Boilers and Operation",
+  "GMI",
+  "Cumali Seçkin Mengeçin",
+  "Salı 13:30/15:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15222",
+  "GMI 333E",
+  "Marine Diesel Engines II",
+  "GMI",
+  "Cumali Seçkin Mengeçin",
+  "Cuma 10:30/12:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15223",
+  "GMI 324E",
+  "Ship Machinery Operation and Maintenance",
+  "GMI",
+  "Samet Biçen",
+  "Salı 15:30/17:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15224",
+  "GMI 342E",
+  "Maritime Rules & Regulations",
+  "GMI",
+  "Fırat Bolat",
+  "Salı 11:30/13:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15225",
+  "GMI 352E",
+  "Heat Transfer",
+  "GMI",
+  "Yalçın Durmuşoğlu",
+  "Perşembe 08:30/11:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15226",
+  "GMI 384E",
+  "Engine Room Simulator (ERS) I",
+  "GMI",
+  "Kemal Demirel",
+  "Perşembe 14:30/17:29",
+  20,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15227",
+  "GMI 384E",
+  "Engine Room Simulator (ERS) I",
+  "GMI",
+  "Kemal Demirel",
+  "Perşembe 11:30/14:29",
+  20,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15229",
+  "MEN 331",
+  "Workshop Training-II",
+  "MEN",
+  "Cumali Seçkin Mengeçin",
+  "",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15230",
+  "MTM 341",
+  "Onboard Training-II",
+  "MTM",
+  "Selim Aksoy",
+  "",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15231",
+  "MEN 302",
+  "Onboard Training",
+  "MEN",
+  "Cumali Seçkin Mengeçin",
+  "",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15232",
+  "MTM 302",
+  "Onboard Training-III",
+  "MTM",
+  "Selim Aksoy",
+  "",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15233",
+  "GMI 393E",
+  "Long Term Sea Training (6 ay)",
+  "GMI",
+  "Cumali Seçkin Mengeçin",
+  "",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15234",
+  "DUI 393E",
+  "Long Term SeaTraining(6Months)",
+  "DUI",
+  "Selim Aksoy",
+  "",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15236",
+  "DUI 461E",
+  "Ship Surveying Procedures",
+  "DUI",
+  "Fırat Bolat",
+  "Salı 13:30/15:29",
+  80,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS",
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15237",
+  "DUI 407E",
+  "Cargo Handl and Stowage",
+  "DUI",
+  "Tanzer Satır",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15238",
+  "DUI 405E",
+  "Marine Engines",
+  "DUI",
+  "Cumali Seçkin Mengeçin",
+  "Çarşamba 10:30/12:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15239",
+  "DUI 4901E",
+  "MaritimeTrans.Mng.Eng.Design I",
+  "DUI",
+  "Selim Aksoy",
+  "",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15240",
+  "DFH 361E",
+  "Ship Supply Chain Management",
+  "DFH",
+  "Selim Aksoy",
+  "Perşembe 08:30/10:29",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS",
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15241",
+  "DFH 212E",
+  "Human Resources Management in Maritime",
+  "DFH",
+  "Leyla Tavacıoğlu",
+  "Çarşamba 08:30/10:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15242",
+  "GMI 454E",
+  "Marine Auxiliary Machinery II",
+  "GMI",
+  "Kemal Demirel",
+  "Pazartesi 10:30/13:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15243",
+  "GMI 457E",
+  "Marine Electrotechnics",
+  "GMI",
+  "Tayfun Uyanık",
+  "Pazartesi 14:30/16:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15244",
+  "GMI 473E",
+  "Marine Diesel Engines III",
+  "GMI",
+  "Yalçın Durmuşoğlu",
+  "Salı 08:30/10:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15245",
+  "GMI 4901E",
+  "Marine Engineering Design I",
+  "GMI",
+  "Selim Aksoy",
+  "",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15246",
+  "GMI 270E",
+  "Maritime English II",
+  "GMI",
+  "Müjgan Özenir",
+  "Salı 15:30/17:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15247",
+  "GMI 474E",
+  "Quality&Safety Management Sys.",
+  "GMI",
+  "İsmail Kandemir",
+  "Çarşamba 10:30/12:29",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS",
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15248",
+  "GMI 476E",
+  "Deck Machinery",
+  "GMI",
+  "Cumali Seçkin Mengeçin",
+  "Çarşamba 12:30/14:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15249",
+  "MEN 402",
+  "Graduation Design Project",
+  "MEN",
+  "Cumali Seçkin Mengeçin",
+  "",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15250",
+  "MTM 402",
+  "Graduation Design Project",
+  "MTM",
+  "Selim Aksoy",
+  "",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15251",
+  "GMI 4902E",
+  "Marine Engineering Design II",
+  "GMI",
+  "Selim Aksoy",
+  "",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15252",
+  "DUI 4902E",
+  "MaritimeTrans.Mng.Eng.DesignII",
+  "DUI",
+  "Selim Aksoy",
+  "",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
   ]
  ],
  [
