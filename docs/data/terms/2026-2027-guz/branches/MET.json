@@ -600,16 +600,16 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Muhammet Kürşat Kazmanlı",
   "buildings": [
-   "KMB"
+   "undeclared"
   ],
   "days": [
    "Pazartesi"
   ],
   "times": [
-   "10:30/12:29"
+   "11:30/13:29"
   ],
   "rooms": [
-   "D301"
+   "--"
   ],
   "capacity": 90,
   "enrolled": 0,
@@ -630,16 +630,16 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Cem Örnek",
   "buildings": [
-   "KMB"
+   "undeclared"
   ],
   "days": [
    "Pazartesi"
   ],
   "times": [
-   "10:30/12:29"
+   "11:30/13:29"
   ],
   "rooms": [
-   "D104"
+   "--"
   ],
   "capacity": 90,
   "enrolled": 0,

@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-01T07:47:39Z",
+ "scrapedAt": "2026-09-01T13:33:32Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5042,
- "courses": 3524,
+ "sections": 5063,
+ "courses": 3530,
  "branches": [
   {
    "code": "ABM",
@@ -96,7 +96,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 40
+   "sections": 42
   },
   {
    "code": "BIO",
@@ -266,7 +266,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 26
+   "sections": 30
   },
   {
    "code": "DNK",
@@ -287,14 +287,14 @@
    "levels": [
     "LS"
    ],
-   "sections": 49
+   "sections": 54
   },
   {
    "code": "DUM",
    "levels": [
     "LU"
    ],
-   "sections": 23
+   "sections": 24
   },
   {
    "code": "DUY",
@@ -438,7 +438,7 @@
     "LS",
     "LU"
    ],
-   "sections": 207
+   "sections": 210
   },
   {
    "code": "FRA",
@@ -511,7 +511,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 42
+   "sections": 44
   },
   {
    "code": "GSB",
@@ -833,7 +833,7 @@
     "LS",
     "LU"
    ],
-   "sections": 120
+   "sections": 121
   },
   {
    "code": "MBA",
@@ -889,7 +889,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 4
+   "sections": 5
   },
   {
    "code": "MET",
@@ -1066,7 +1066,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 39
+   "sections": 40
   },
   {
    "code": "MUZ",
@@ -1393,7 +1393,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 58
+   "sections": 59
   },
   {
    "code": "UAH",
@@ -1407,7 +1407,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 27
+   "sections": 28
   },
   {
    "code": "ULP",
@@ -1435,7 +1435,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 31
+   "sections": 30
   },
   {
    "code": "UZB",
@@ -1530,11 +1530,11 @@
   }
  ],
  "stats": {
-  "sections": 5042,
-  "courses": 3524,
+  "sections": 5063,
+  "courses": 3530,
   "branches": 214,
-  "instructors": 1729,
-  "capacity": 245563,
+  "instructors": 1734,
+  "capacity": 246418,
   "enrolled": 1204
  }
 }

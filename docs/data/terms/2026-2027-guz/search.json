@@ -67768,7 +67768,7 @@
   "Princip.of Corros.&Corros.Prot",
   "MET",
   "Muhammet Kürşat Kazmanlı",
-  "Pazartesi 10:30/12:29",
+  "Pazartesi 11:30/13:29",
   90,
   0,
   "LS",
@@ -67784,7 +67784,7 @@
   "Princip.of Corros.&Corros.Prot",
   "MET",
   "Cem Örnek",
-  "Pazartesi 10:30/12:29",
+  "Pazartesi 11:30/13:29",
   90,
   0,
   "LS",
@@ -70133,7 +70133,7 @@
   "DUI 231E",
   "Marine Communication",
   "DUI",
-  "Oğuzhan Gürel",
+  "Alaaddin Yıldıray Ertaş",
   "Perşembe 08:30/10:29",
   30,
   0,
@@ -70148,7 +70148,7 @@
   "DUI 231E",
   "Marine Communication",
   "DUI",
-  "Oğuzhan Gürel",
+  "Alaaddin Yıldıray Ertaş",
   "Perşembe 11:30/13:29",
   30,
   0,
@@ -73975,7 +73975,7 @@
   "JEO 481",
   "Uygulamalı Mineraloji",
   "JEO",
-  "Bala Ekinci Şans",
+  "Bala Ekinci Şans , Şenel Özdamar",
   "Çarşamba 08:30/10:29",
   30,
   0,
@@ -78758,7 +78758,7 @@
   "UCK 364E",
   "Design of Machine Elements",
   "UCK",
-  "Halit Süleyman Türkmen",
+  "Onur Tunçer",
   "Salı 08:30/11:29",
   50,
   0,
@@ -79706,7 +79706,7 @@
   "MTO 357E",
   "Physics of Upper Atmosphere",
   "MTO",
-  "Zerefşan Kaymaz",
+  "Zerefşan Kaymaz , Emine Ceren Eyigüler",
   "Perşembe 14:30/17:29",
   15,
   0,
@@ -91260,7 +91260,7 @@
   "BLG",
   "Mustafa Ersel Kamaşak",
   "Cuma 08:30/11:29",
-  70,
+  0,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -92703,7 +92703,7 @@
   "Logic & Computability",
   "BLG",
   "Mehmet Tahir Sandıkkaya",
-  "Salı 08:30/11:29",
+  "Salı 09:30/12:29",
   60,
   0,
   "LS",
@@ -92914,7 +92914,8 @@
   "Fiziksel (Yüz yüze)",
   [
    "BLG_LS",
-   "BLGE_LS"
+   "BLGE_LS",
+   "YZVE_LS"
   ]
  ],
  [
@@ -92931,7 +92932,8 @@
   [
    "BLG_LS",
    "BLGE_LS",
-   "ECNE_LS"
+   "ECNE_LS",
+   "YZVE_LS"
   ]
  ],
  [
@@ -102417,19 +102419,6 @@
   []
  ],
  [
-  "13311",
-  "UUM 543E",
-  "Spec.Top.in Aeron.&Astron.Eng.",
-  "UUM",
-  "Onur Tunçer",
-  "Salı 14:30/17:29",
-  10,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13312",
   "UUM 555",
   "Eklemeli İmalat&3B Yazıcı Tek.",
@@ -102500,7 +102489,7 @@
   "Advanced Thermodynamics",
   "UUM",
   "Onur Tunçer",
-  "Salı 08:30/11:29",
+  "Salı 14:30/17:29",
   40,
   0,
   "LU",
@@ -125012,7 +125001,7 @@
   "Consumer Behavior",
   "ENT",
   "Naz Gürpınar",
-  "Pazartesi 09:30/12:29",
+  "Cuma 09:30/12:29",
   30,
   0,
   "LS",
@@ -128450,7 +128439,7 @@
   "UUM 543E",
   "Spec.Top.in Aeron.&Astron.Eng.",
   "UUM",
-  "-",
+  "Temel Kotil",
   "Cuma 09:00/11:59",
   40,
   0,
@@ -131075,8 +131064,8 @@
   "KMP 421",
   "Batı Müziği Literatürü III",
   "KMP",
-  "Mehmet Özkan",
-  "Çarşamba 10:30/12:29",
+  "Gizem Alever Sancaktar",
+  "Cuma 16:00/17:59",
   10,
   0,
   "LS",
@@ -131732,6 +131721,346 @@
   "Fiziksel (Yüz yüze)",
   [
    "MIM_LS"
+  ]
+ ],
+ [
+  "15181",
+  "FIZ 101EL",
+  "Physics I Laboratory",
+  "FIZ",
+  "Banu Tansel Büyükçelebi",
+  "Perşembe 08:30/10:29",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS",
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15182",
+  "FIZ 101E",
+  "Physics I",
+  "FIZ",
+  "Banu Tansel Büyükçelebi",
+  "Perşembe 12:30/15:29",
+  100,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS",
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15183",
+  "FIZ 101EL",
+  "Physics I Laboratory",
+  "FIZ",
+  "Banu Tansel Büyükçelebi",
+  "Perşembe 10:30/12:29",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS",
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15184",
+  "DFH 113E",
+  "Maritime Safety I",
+  "DFH",
+  "Hakan Çap , Sinan Çakır",
+  "Cuma 08:30/12:29",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS",
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15185",
+  "DFH 113E",
+  "Maritime Safety I",
+  "DFH",
+  "İsmail Kandemir , Muhammed Fatih Gülen",
+  "Cuma 14:00/17:59",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS",
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15186",
+  "GMI 114E",
+  "Materials Scie.&Manufact.Mth.",
+  "GMI",
+  "Yasin Arslanoğlu",
+  "Çarşamba 13:30/15:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15187",
+  "GMI 118E",
+  "Introduction to Marine Engineering and Ethics",
+  "GMI",
+  "Merve Gül Çıvgın",
+  "Pazartesi 12:30/15:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15188",
+  "TUR 121",
+  "Türk Dili I",
+  "TUR",
+  "Sinan Çakır",
+  "Salı 13:30/15:29",
+  80,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS",
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15189",
+  "DUI 231E",
+  "Marine Communication",
+  "DUI",
+  "Yunus Emre Şenol",
+  "Çarşamba 13:30/15:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15190",
+  "DUI 251E",
+  "Meteorology",
+  "DUI",
+  "Ayşe Nak",
+  "Pazartesi 14:30/17:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15191",
+  "DUI 215E",
+  "Terrestrial Navigation",
+  "DUI",
+  "Tuba Keçeci",
+  "Salı 10:30/13:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15192",
+  "DUI 213E",
+  "Ship Constrct.and Stability",
+  "DUI",
+  "Melek Ertogan",
+  "Cuma 14:30/17:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15193",
+  "DFH 222E",
+  "Maritime English II",
+  "DFH",
+  "Seda Çınar Alabay",
+  "Çarşamba 08:30/10:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15194",
+  "DUI 202E",
+  "Electronic Navigation",
+  "DUI",
+  "Serdar Kum",
+  "Cuma 08:30/11:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15195",
+  "MAT 210E",
+  "Engineering Mathematics",
+  "MAT",
+  "Sabire Cömert",
+  "Pazartesi 11:30/13:29 | Salı 08:30/10:29",
+  80,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS",
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15196",
+  "MUT 461",
+  "Canlı Ses Donatımı",
+  "MUT",
+  "Gökhan Deneç",
+  "Salı 15:30/17:29",
+  15,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MUT_LS",
+   "MZT_LS"
+  ]
+ ],
+ [
+  "15197",
+  "BIL 113E",
+  "Intr.to Sci& Eng.Comp.(MATLAB)",
+  "BIL",
+  "Ata Bilgili",
+  "Perşembe 11:30/14:29",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS",
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15198",
+  "BIL 113E",
+  "Intr.to Sci& Eng.Comp.(MATLAB)",
+  "BIL",
+  "Ata Bilgili",
+  "Çarşamba 09:30/12:29",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS",
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15199",
+  "MEK 205E",
+  "Engineering Mechanics",
+  "MEK",
+  "Banu Tansel Büyükçelebi",
+  "Perşembe 17:30/20:29",
+  80,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS",
+   "MTM_LS"
+  ]
+ ],
+ [
+  "15200",
+  "DFH 201E",
+  "Basic Swimming Skills",
+  "DFH",
+  "Hakan Çap",
+  "Çarşamba 12:30/14:29",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MEN_LS"
+  ]
+ ],
+ [
+  "15201",
+  "DUM 623E",
+  "Maching Lear.in Marit.Indus.",
+  "DUM",
+  "Tayfun Uyanık",
+  "Salı 08:30/11:29",
+  10,
+  0,
+  "LU",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15202",
+  "UCK 423E",
+  "Princip. of Aircraft Design I",
+  "UCK",
+  "Halit Süleyman Türkmen",
+  "Pazartesi 14:30/17:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "UCK_LS",
+   "UCK_YD"
   ]
  ],
  [

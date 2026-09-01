@@ -1187,5 +1187,63 @@
   ],
   "prereq": "Detay",
   "classReq": "-"
+ },
+ {
+  "crn": "15186",
+  "code": "GMI 114E",
+  "branch": "GMI",
+  "level": "LS",
+  "name": "Materials Scie.&Manufact.Mth.",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Yasin Arslanoğlu",
+  "buildings": [
+   "DZB"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "13:30/15:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 40,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "MEN_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15187",
+  "code": "GMI 118E",
+  "branch": "GMI",
+  "level": "LS",
+  "name": "Introduction to Marine Engineering and Ethics",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Merve Gül Çıvgın",
+  "buildings": [
+   "DZB"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "12:30/15:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 40,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "MEN_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
  }
 ]

@@ -873,6 +873,13 @@
     "Perşembe"
    ],
    [
+    "2026-2027-guz",
+    "Serdar Kum",
+    40,
+    0,
+    "Cuma"
+   ],
+   [
     "2025-2026-guz",
     "Serdar Kum",
     45,
@@ -1396,6 +1403,13 @@
     "Cuma"
    ],
    [
+    "2026-2027-guz",
+    "Melek Ertogan",
+    40,
+    0,
+    "Cuma"
+   ],
+   [
     "2025-2026-yaz",
     "Cenk Kaya",
     60,
@@ -1662,6 +1676,13 @@
     "Pazartesi"
    ],
    [
+    "2026-2027-guz",
+    "Tuba Keçeci",
+    40,
+    0,
+    "Salı"
+   ],
+   [
     "2025-2026-guz",
     "Tuba Keçeci",
     35,
@@ -1816,17 +1837,24 @@
   "rows": [
    [
     "2026-2027-guz",
-    "Oğuzhan Gürel",
+    "Alaaddin Yıldıray Ertaş",
     30,
     0,
     "Perşembe"
    ],
    [
     "2026-2027-guz",
-    "Oğuzhan Gürel",
+    "Alaaddin Yıldıray Ertaş",
     30,
     0,
     "Perşembe"
+   ],
+   [
+    "2026-2027-guz",
+    "Yunus Emre Şenol",
+    40,
+    0,
+    "Çarşamba"
    ],
    [
     "2025-2026-guz",
@@ -3075,6 +3103,7 @@
   "code": "DUI 251E",
   "name": "Meteorology",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-yaz",
    "2024-2025-bahar",
@@ -3083,6 +3112,13 @@
    "2016-2017-yaz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Ayşe Nak",
+    40,
+    0,
+    "Pazartesi"
+   ],
    [
     "2025-2026-bahar",
     "Ayşe Nak",
