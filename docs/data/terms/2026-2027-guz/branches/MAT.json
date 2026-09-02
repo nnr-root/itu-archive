@@ -4196,21 +4196,17 @@
   "level": "LS",
   "name": "Sayısal Yöntemler",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "İsmail Yalçın",
+  "instructor": "Cihad Delen",
   "buildings": [
-   "MEDC",
    "MEDC"
   ],
   "days": [
-   "Salı",
-   "Perşembe"
+   "Cuma"
   ],
   "times": [
-   "12:30/14:29",
-   "09:30/10:29"
+   "14:00/16:59"
   ],
   "rooms": [
-   "1D6",
    "1D6"
   ],
   "capacity": 45,

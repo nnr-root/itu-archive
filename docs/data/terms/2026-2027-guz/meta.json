@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-01T22:39:33Z",
+ "scrapedAt": "2026-09-02T07:05:34Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5110,
- "courses": 3559,
+ "sections": 5111,
+ "courses": 3562,
  "branches": [
   {
    "code": "ABM",
@@ -474,7 +474,7 @@
     "LS",
     "LU"
    ],
-   "sections": 68
+   "sections": 67
   },
   {
    "code": "GEO",
@@ -539,7 +539,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 12
+   "sections": 15
   },
   {
    "code": "HUK",
@@ -1526,7 +1526,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 19
+   "sections": 18
   },
   {
    "code": "ZER",
@@ -1544,11 +1544,11 @@
   }
  ],
  "stats": {
-  "sections": 5110,
-  "courses": 3559,
+  "sections": 5111,
+  "courses": 3562,
   "branches": 216,
-  "instructors": 1736,
-  "capacity": 248520,
+  "instructors": 1735,
+  "capacity": 249085,
   "enrolled": 1204
  }
 }

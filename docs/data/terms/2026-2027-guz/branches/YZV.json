@@ -49,7 +49,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 60,
+  "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
   "programs": [
@@ -198,29 +198,6 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "YZVE_LS"
-  ],
-  "prereq": "Detay",
-  "classReq": "-"
- },
- {
-  "crn": "12327",
-  "code": "YZV 311E",
-  "branch": "YZV",
-  "level": "LS",
-  "name": "Data Mining",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Tuğçe Bilen",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 5,
   "enrolled": 0,
   "reserved": "-",
   "programs": [

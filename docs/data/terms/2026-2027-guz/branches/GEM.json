@@ -1212,29 +1212,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12072",
-  "code": "GEM 482",
-  "branch": "GEM",
-  "level": "LS",
-  "name": "Bireysel Bitirme Projesi",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "-",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 0,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "GEM_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12073",
   "code": "GEM 482",
   "branch": "GEM",

@@ -68366,7 +68366,7 @@
   "BEN 107",
   "Art of Engineering",
   "BEN",
-  "Mehmet Güler",
+  "Oğuz Haşlakoğlu",
   "Cuma 14:00/16:59",
   30,
   0,
@@ -70586,7 +70586,7 @@
   "Malz.Bilgisi ve Üretim Yöntem.",
   "GMI",
   "Hakan Demirel",
-  "Salı 09:30/11:29",
+  "Salı 11:30/13:29",
   60,
   0,
   "LS",
@@ -72613,7 +72613,7 @@
   "Intr.to Sci& Eng.Comp.(MATLAB)",
   "BIL",
   "Burçak Avcı",
-  "Salı 13:30/16:29",
+  "Pazartesi 09:30/12:29",
   45,
   0,
   "LS",
@@ -85253,21 +85253,6 @@
   ]
  ],
  [
-  "12072",
-  "GEM 482",
-  "Bireysel Bitirme Projesi",
-  "GEM",
-  "-",
-  "",
-  0,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "GEM_LS"
-  ]
- ],
- [
   "12073",
   "GEM 482",
   "Bireysel Bitirme Projesi",
@@ -87877,6 +87862,7 @@
    "SDU_LS",
    "SED_LS",
    "SGM_LS",
+   "SIN_LS",
    "SIS_LS",
    "SMT_LS",
    "STP_LS"
@@ -87990,6 +87976,7 @@
    "SDU_LS",
    "SED_LS",
    "SGM_LS",
+   "SIN_LS",
    "SIS_LS",
    "SMT_LS",
    "STP_LS"
@@ -88085,6 +88072,7 @@
    "SDU_LS",
    "SED_LS",
    "SGM_LS",
+   "SIN_LS",
    "SIS_LS",
    "SMT_LS",
    "STP_LS"
@@ -88166,6 +88154,7 @@
    "SDU_LS",
    "SED_LS",
    "SGM_LS",
+   "SIN_LS",
    "SIS_LS",
    "SMT_LS",
    "STP_LS"
@@ -88216,6 +88205,7 @@
    "SDU_LS",
    "SED_LS",
    "SGM_LS",
+   "SIN_LS",
    "SIS_LS",
    "SMT_LS",
    "STP_LS"
@@ -88382,8 +88372,8 @@
   "MAT 202",
   "Sayısal Yöntemler",
   "MAT",
-  "İsmail Yalçın",
-  "Salı 12:30/14:29 | Perşembe 09:30/10:29",
+  "Cihad Delen",
+  "Cuma 14:00/16:59",
   45,
   0,
   "LS",
@@ -89131,7 +89121,7 @@
   "YZV",
   "-",
   "Çarşamba 13:30/15:29",
-  60,
+  0,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -89210,21 +89200,6 @@
   "Şule Öğüdücü",
   "Salı 13:30/16:29",
   60,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "YZVE_LS"
-  ]
- ],
- [
-  "12327",
-  "YZV 311E",
-  "Data Mining",
-  "YZV",
-  "Tuğçe Bilen",
-  "",
-  5,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -92908,7 +92883,7 @@
   "BLG",
   "Muhammet Alkan",
   "Cuma 08:30/11:29",
-  50,
+  60,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -92925,7 +92900,7 @@
   "BBF",
   "Mehmet Keskinöz",
   "Cuma 14:30/17:29",
-  70,
+  90,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -131604,7 +131579,7 @@
   "DFH 203E",
   "Basic Swimming Skills",
   "DFH",
-  "Selim Aksoy",
+  "Hakan Çap",
   "Salı 08:30/10:29",
   30,
   0,
@@ -132771,6 +132746,45 @@
   [
    "MTM_LS"
   ]
+ ],
+ [
+  "15253",
+  "HSK DRT",
+  "Tez Çalışması",
+  "HSK",
+  "Yavuz Selim Güçlü",
+  "",
+  200,
+  0,
+  "LU",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15254",
+  "HSK YLT",
+  "Tez Çalışması",
+  "HSK",
+  "Yavuz Selim Güçlü",
+  "",
+  200,
+  0,
+  "LU",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15255",
+  "HSK YET",
+  "Yeterlik Aşaması",
+  "HSK",
+  "Yavuz Selim Güçlü",
+  "",
+  200,
+  0,
+  "LU",
+  "Fiziksel (Yüz yüze)",
+  []
  ],
  [
   "30003",
