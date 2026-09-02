@@ -1,10 +1,10 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-02T12:49:56Z",
+ "scrapedAt": "2026-09-02T17:56:50Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5110,
+ "sections": 5109,
  "courses": 3562,
  "branches": [
   {
@@ -167,7 +167,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 168
+   "sections": 167
   },
   {
    "code": "CBM",
@@ -1544,11 +1544,11 @@
   }
  ],
  "stats": {
-  "sections": 5110,
+  "sections": 5109,
   "courses": 3562,
   "branches": 216,
   "instructors": 1735,
-  "capacity": 249165,
+  "capacity": 249145,
   "enrolled": 1204
  }
 }
