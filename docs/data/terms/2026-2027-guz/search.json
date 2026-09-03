@@ -128717,7 +128717,7 @@
   "MKS 533",
   "Transport Tekn. İleri Konular",
   "MKS",
-  "Adem Candaş , Eren Kalay",
+  "Eren Kalay",
   "Pazartesi 13:30/16:29",
   30,
   0,
@@ -128743,7 +128743,7 @@
   "MKS 537E",
   "Intro.to Compt.Aided Engineer",
   "MKS",
-  "Cevat Erdem İmrak , Adem Candaş",
+  "Adem Candaş",
   "Salı 13:30/16:29",
   30,
   0,
@@ -132759,6 +132759,64 @@
   "LU",
   "Fiziksel (Yüz yüze)",
   []
+ ],
+ [
+  "15258",
+  "MTO 577",
+  "Mesoscale Dynamics",
+  "MTO",
+  "Emrah Tuncay Özdemir",
+  "Salı 13:30/16:29",
+  20,
+  0,
+  "LU",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15259",
+  "STA 204",
+  "Statik ve Mukavemet",
+  "STA",
+  "Tuğba Kuru",
+  "Cuma 14:30/17:29",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CEV_LS"
+  ]
+ ],
+ [
+  "15260",
+  "STA 204E",
+  "Statics&Strength of Materials",
+  "STA",
+  "Sedat Kömürcü",
+  "Cuma 14:30/17:29",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CEVE_LS"
+  ]
+ ],
+ [
+  "15261",
+  "AKM 204",
+  "Akışkanlar Mekaniği",
+  "AKM",
+  "Necati Erdem Ünal",
+  "Çarşamba 12:30/15:29",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CEV_LS"
+  ]
  ],
  [
   "30003",
