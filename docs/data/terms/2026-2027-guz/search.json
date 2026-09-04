@@ -93600,7 +93600,7 @@
   "Türk Dili I",
   "TUR",
   "-",
-  "Salı 11:30/13:29",
+  "Salı 09:30/11:29",
   60,
   0,
   "LS",
@@ -108644,7 +108644,9 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "MAT_LS"
+   "MAT_LS",
+   "MAT_YD",
+   "MAT_YD_EC"
   ]
  ],
  [
@@ -108659,7 +108661,9 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "MAT_LS"
+   "MAT_LS",
+   "MAT_YD",
+   "MAT_YD_EC"
   ]
  ],
  [
@@ -108813,7 +108817,9 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "MAT_LS"
+   "MAT_LS",
+   "MAT_YD",
+   "MAT_YD_EC"
   ]
  ],
  [
@@ -126022,7 +126028,8 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "MAK_LS"
+   "MAK_LS",
+   "MAK_YD"
   ]
  ],
  [
@@ -126036,7 +126043,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14817",
@@ -126049,7 +126059,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14818",
@@ -126062,7 +126075,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14819",
@@ -126075,7 +126091,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14820",
@@ -126089,6 +126108,7 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "IML_LS",
    "MAK_LS"
   ]
  ],
@@ -126103,7 +126123,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14822",
@@ -126116,7 +126139,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14823",
@@ -126129,7 +126155,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14824",
@@ -126142,7 +126171,9 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14825",
@@ -126155,7 +126186,12 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "IMLE_LS",
+   "MAK_LS",
+   "MAKE_LS"
+  ]
  ],
  [
   "14826",
@@ -126168,7 +126204,12 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "IMLE_LS",
+   "MAK_LS",
+   "MAKE_LS"
+  ]
  ],
  [
   "14827",
@@ -126181,7 +126222,12 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "IMLE_LS",
+   "MAK_LS",
+   "MAKE_LS"
+  ]
  ],
  [
   "14828",
@@ -126194,7 +126240,12 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "IMLE_LS",
+   "MAK_LS",
+   "MAKE_LS"
+  ]
  ],
  [
   "14829",
@@ -126207,7 +126258,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14830",
@@ -126220,7 +126274,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14831",
@@ -126233,7 +126290,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14832",
@@ -126246,7 +126306,9 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14833",
@@ -126259,7 +126321,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14834",
@@ -126272,7 +126337,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14835",
@@ -126298,7 +126366,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14837",
@@ -126311,7 +126382,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14838",
@@ -126324,7 +126398,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14839",
@@ -126337,7 +126414,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14840",
@@ -126350,7 +126430,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14841",
@@ -126363,7 +126446,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14842",
@@ -126376,7 +126462,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14843",
@@ -126389,7 +126478,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14844",
@@ -126402,7 +126494,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14845",
@@ -126415,7 +126510,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14846",
@@ -126444,7 +126542,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14848",
@@ -126457,7 +126558,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14849",
@@ -126470,7 +126574,9 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14850",
@@ -126605,7 +126711,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14859",
@@ -126618,7 +126727,9 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14860",
@@ -126631,7 +126742,9 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14861",
@@ -126644,7 +126757,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14862",
@@ -126657,7 +126773,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14863",
@@ -126670,7 +126789,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14864",
@@ -126683,7 +126805,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14865",
@@ -126711,7 +126836,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MAK_YD"
+  ]
  ],
  [
   "14867",
@@ -126724,7 +126852,9 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14868",
@@ -126738,6 +126868,7 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "IML_LS",
    "MAK_LS"
   ]
  ],
@@ -126752,7 +126883,9 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14870",
@@ -126765,7 +126898,9 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14871",
@@ -126778,7 +126913,9 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14872",
@@ -126791,7 +126928,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MAK_YD"
+  ]
  ],
  [
   "14873",
@@ -126804,7 +126944,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MAK_YD"
+  ]
  ],
  [
   "14874",
@@ -126817,7 +126960,9 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14875",
@@ -126830,7 +126975,9 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14876",
@@ -126843,7 +126990,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14877",
@@ -126856,7 +127006,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14878",
@@ -126869,7 +127022,11 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MAK_YD",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14879",
@@ -126882,7 +127039,11 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MAK_YD",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14880",
@@ -126895,7 +127056,11 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MAK_YD",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14881",
@@ -126908,7 +127073,11 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MAK_YD",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14882",
@@ -126921,7 +127090,11 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MAK_YD",
+   "YAN_YD"
+  ]
  ],
  [
   "14883",
@@ -126934,7 +127107,11 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MAK_YD",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14884",
@@ -126947,7 +127124,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MAK_YD"
+  ]
  ],
  [
   "14885",
@@ -126961,7 +127141,8 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "MAK_LS"
+   "MAK_LS",
+   "MAK_YD"
   ]
  ],
  [
@@ -126975,7 +127156,11 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MAK_YD",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14887",
@@ -126988,7 +127173,11 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MAK_YD",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14888",
@@ -127001,7 +127190,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14889",
@@ -127014,7 +127206,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14890",
@@ -127027,7 +127222,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MAK_YD"
+  ]
  ],
  [
   "14891",
@@ -127042,9 +127240,9 @@
   "Fiziksel (Yüz yüze)",
   [
    "IML_LS",
-   "IML_LS",
    "IMLE_LS",
    "MAK_LS",
+   "MAK_YD",
    "MAKE_LS"
   ]
  ],
@@ -127059,7 +127257,9 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14893",
@@ -127072,7 +127272,9 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14894",
@@ -127085,7 +127287,9 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14895",
@@ -127099,7 +127303,10 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "MAKE_LS"
+   "MAK_LS",
+   "MAK_YD",
+   "MAKE_LS",
+   "MKN_YD_MK"
   ]
  ],
  [
@@ -127113,7 +127320,11 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MAK_YD",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14897",
@@ -127126,7 +127337,11 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MAK_YD",
+   "MKN_YD_MK"
+  ]
  ],
  [
   "14898",
@@ -127139,7 +127354,9 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14899",
@@ -127193,12 +127410,14 @@
   "Mekanik Sistemlerin Matematik Modellemesi",
   "MAK",
   "İsmail Yalçın Uralcan , Akif Yavuz",
-  "Salı 09:30/12:29",
+  "Çarşamba 09:30/12:29",
   80,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14903",
@@ -127212,7 +127431,6 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "MAK_LS",
    "MAK_LS"
   ]
  ],
@@ -127229,7 +127447,8 @@
   "Fiziksel (Yüz yüze)",
   [
    "MAK_LS",
-   "MAK_LS"
+   "MAKE_LS",
+   "MSS_LS"
   ]
  ],
  [
@@ -127244,7 +127463,8 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "MAK_LS"
+   "MAK_LS",
+   "MSS_LS"
   ]
  ],
  [
@@ -127253,7 +127473,7 @@
   "Mak. Müh. Yenilikçi Tas. Yönt.",
   "MAK",
   "Vedat Temiz , İbrahim Mehmet Palabıyık , Zeynep Parlar",
-  "",
+  "Perşembe 09:30/12:29",
   80,
   0,
   "LS",
@@ -127274,7 +127494,6 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "MAK_LS",
    "MAK_LS"
   ]
  ],
@@ -127291,7 +127510,8 @@
   "Fiziksel (Yüz yüze)",
   [
    "MAK_LS",
-   "MAK_LS"
+   "MAKE_LS",
+   "MSS_LS"
   ]
  ],
  [
@@ -127952,7 +128172,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MAK_YD"
+  ]
  ],
  [
   "14956",
@@ -127965,7 +128188,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MAK_YD"
+  ]
  ],
  [
   "14957",
@@ -127978,7 +128204,11 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS",
+   "MAK_YD"
+  ]
  ],
  [
   "14958",
@@ -128009,6 +128239,7 @@
   "Fiziksel (Yüz yüze)",
   [
    "IML_LS",
+   "IML_MTM_LS",
    "IMLE_LS",
    "MAK_LS",
    "MAKE_LS"
@@ -128041,7 +128272,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14962",
@@ -128057,6 +128291,7 @@
   [
    "IML_LS",
    "IMLE_LS",
+   "MAK_LS",
    "MAKE_LS"
   ]
  ],
@@ -128087,7 +128322,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS",
+   "MSS_LS"
+  ]
  ],
  [
   "14965",
@@ -128184,7 +128422,10 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "IML_LS",
+   "MAK_LS"
+  ]
  ],
  [
   "14971",
@@ -128197,7 +128438,9 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14972",
@@ -128243,7 +128486,9 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14975",
@@ -128274,7 +128519,10 @@
   "Fiziksel (Yüz yüze)",
   [
    "IML_LS",
-   "MAK_LS"
+   "IML_MTM_LS",
+   "IMLE_LS",
+   "MAK_LS",
+   "MAKE_LS"
   ]
  ],
  [
@@ -128319,7 +128567,9 @@
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
-  []
+  [
+   "MAK_LS"
+  ]
  ],
  [
   "14980",
@@ -133207,6 +133457,359 @@
    "ROS_LS",
    "ROSE_LS",
    "TEL_LS"
+  ]
+ ],
+ [
+  "15282",
+  "BLG 453E",
+  "Computer Vision",
+  "BLG",
+  "Hazım Kemal Ekenel",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15283",
+  "BLG 449E",
+  "Prog.in Parallel&DistrubedSys.",
+  "BLG",
+  "Deniz Turgay Altılar",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15284",
+  "BLG 444E",
+  "Computer Graphics",
+  "BLG",
+  "Uluğ Bayazıt",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15285",
+  "BLG 458E",
+  "Functional Programming",
+  "BLG",
+  "Yusuf Hüseyin Şahin",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15286",
+  "BLG 443E",
+  "Discrete Event Simulation",
+  "BLG",
+  "Sanem Kabadayı",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15287",
+  "BLG 336E",
+  "Analysis of Algorithms II",
+  "BLG",
+  "Mehmet Baysan",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15288",
+  "BLG 354E",
+  "Signal&Systems for Comp.Eng.",
+  "BLG",
+  "Yusuf Hüseyin Şahin",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15289",
+  "BLG 475E",
+  "Software Quality and Testing",
+  "BLG",
+  "Ayşe Tosun Kühn",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15290",
+  "NAE 201",
+  "Practical Training-I",
+  "NAE",
+  "Murat Durmaz",
+  "",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15291",
+  "NAE 301",
+  "Practical Training-II",
+  "NAE",
+  "Murat Durmaz",
+  "",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15292",
+  "NAE 411",
+  "Ship Design Project I",
+  "NAE",
+  "İbrahim Tuğrul Ardıç",
+  "Çarşamba 10:30/12:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15293",
+  "BLG 443E",
+  "Discrete Event Simulation",
+  "BLG",
+  "Sanem Kabadayı",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15294",
+  "NAE 402",
+  "Graduation Design Project",
+  "NAE",
+  "Murat Durmaz",
+  "",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15295",
+  "BLG 444E",
+  "Computer Graphics",
+  "BLG",
+  "Uluğ Bayazıt",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15296",
+  "NAE 401",
+  "Practical Training-III",
+  "NAE",
+  "Murat Durmaz",
+  "",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15297",
+  "NAE 101E",
+  "Int.to Nav.Arch.&Mar.Eng.&Eth.",
+  "NAE",
+  "Cihad Delen",
+  "Pazartesi 10:30/12:29",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15298",
+  "DNK 201E",
+  "Dynamics",
+  "DNK",
+  "Oktay Eren Türeyen",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15299",
+  "NAE 203",
+  "Strength of Materials I",
+  "NAE",
+  "İbrahim Tuğrul Ardıç",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15300",
+  "MAT 202E",
+  "Numerical Methods",
+  "MAT",
+  "Özcan Kalenderli",
+  "Çarşamba 09:00/11:59",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15301",
+  "GEM 321E",
+  "Ship Theory",
+  "GEM",
+  "Erdem Üçer",
+  "Salı 09:30/13:29",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15302",
+  "GEM 327E",
+  "Ship Hydrodynamics(Resistance)",
+  "GEM",
+  "Şakir Bal",
+  "Pazartesi 10:30/12:29",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15303",
+  "GEM 4901E",
+  "Naval Architecture & Marine Engeneering Design I",
+  "GEM",
+  "Murat Durmaz",
+  "Çarşamba 10:30/13:29 | Perşembe 10:30/13:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15304",
+  "GEM 331E",
+  "Shipping Economics",
+  "GEM",
+  "Erdem Üçer",
+  "Salı 13:30/15:29",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15305",
+  "BLG 322E",
+  "Computer Architecture",
+  "BLG",
+  "Ayşe Yılmazer Metin",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15306",
+  "GEM 421E",
+  "Ship Motions and Maneuvering",
+  "GEM",
+  "Şakir Bal",
+  "Salı 09:00/12:59",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
   ]
  ],
  [

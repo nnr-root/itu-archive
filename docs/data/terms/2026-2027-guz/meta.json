@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-04T12:47:22Z",
+ "scrapedAt": "2026-09-04T17:39:41Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5133,
- "courses": 3573,
+ "sections": 5158,
+ "courses": 3592,
  "branches": [
   {
    "code": "ABM",
@@ -118,7 +118,7 @@
     "LS",
     "LU"
    ],
-   "sections": 66
+   "sections": 77
   },
   {
    "code": "BLU",
@@ -280,7 +280,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 9
+   "sections": 10
   },
   {
    "code": "DTM",
@@ -481,7 +481,7 @@
     "LS",
     "LU"
    ],
-   "sections": 67
+   "sections": 72
   },
   {
    "code": "GEO",
@@ -841,7 +841,7 @@
     "LS",
     "LU"
    ],
-   "sections": 121
+   "sections": 122
   },
   {
    "code": "MBA",
@@ -1124,6 +1124,13 @@
     "LU"
    ],
    "sections": 15
+  },
+  {
+   "code": "NAE",
+   "levels": [
+    "LS"
+   ],
+   "sections": 7
   },
   {
    "code": "NSE",
@@ -1559,11 +1566,11 @@
   }
  ],
  "stats": {
-  "sections": 5133,
-  "courses": 3573,
-  "branches": 218,
-  "instructors": 1742,
-  "capacity": 249850,
+  "sections": 5158,
+  "courses": 3592,
+  "branches": 219,
+  "instructors": 1743,
+  "capacity": 250390,
   "enrolled": 1204
  }
 }

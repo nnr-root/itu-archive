@@ -276,5 +276,28 @@
   ],
   "prereq": "Detay",
   "classReq": "-"
+ },
+ {
+  "crn": "15298",
+  "code": "DNK 201E",
+  "branch": "DNK",
+  "level": "LS",
+  "name": "Dynamics",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Oktay Eren Türeyen",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "NAE_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
  }
 ]

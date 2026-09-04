@@ -4893,7 +4893,9 @@
   "enrolled": 0,
   "reserved": "-",
   "programs": [
-   "MAT_LS"
+   "MAT_LS",
+   "MAT_YD",
+   "MAT_YD_EC"
   ],
   "prereq": "-",
   "classReq": "-"
@@ -4926,7 +4928,9 @@
   "enrolled": 0,
   "reserved": "-",
   "programs": [
-   "MAT_LS"
+   "MAT_LS",
+   "MAT_YD",
+   "MAT_YD_EC"
   ],
   "prereq": "-",
   "classReq": "-"
@@ -5232,7 +5236,9 @@
   "enrolled": 0,
   "reserved": "-",
   "programs": [
-   "MAT_LS"
+   "MAT_LS",
+   "MAT_YD",
+   "MAT_YD_EC"
   ],
   "prereq": "Detay",
   "classReq": "-"
@@ -6298,6 +6304,35 @@
   "programs": [
    "MEN_LS",
    "MTM_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15300",
+  "code": "MAT 202E",
+  "branch": "MAT",
+  "level": "LS",
+  "name": "Numerical Methods",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Özcan Kalenderli",
+  "buildings": [
+   "MEDC"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "09:00/11:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 50,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "NAE_LS"
   ],
   "prereq": "Detay",
   "classReq": "-"
