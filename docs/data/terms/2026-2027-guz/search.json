@@ -21202,7 +21202,7 @@
   "MAT 103E",
   "Mathematics I",
   "MAT",
-  "-",
+  "Burak Yıldıran Stodolsky",
   "Salı 14:30/17:29 | Perşembe 13:30/15:29",
   0,
   0,
@@ -67178,7 +67178,7 @@
   "KMM 4901",
   "Kimya Mühendisliği Tasarımı I",
   "KMM",
-  "Devrim Barış Kaymak",
+  "Devrim Barış Kaymak , Sinan Kutluay , Hüseyin Enis Karahan",
   "Çarşamba 12:30/15:29 | Perşembe 10:30/12:29",
   100,
   0,
@@ -67450,7 +67450,7 @@
   "KMM",
   "Sinan Kutluay",
   "Salı 13:30/16:29",
-  20,
+  0,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -84705,7 +84705,7 @@
   "GEM 205",
   "Malzeme ve Imal Usulleri",
   "GEM",
-  "Mete Kayıhan",
+  "-",
   "Pazartesi 10:30/13:29",
   45,
   0,
@@ -108980,7 +108980,9 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "MAT_LS"
+   "MAT_LS",
+   "MAT_YD_EC",
+   "MAT_YD_UY"
   ]
  ],
  [
@@ -108995,7 +108997,9 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "MAT_LS"
+   "MAT_LS",
+   "MAT_YD_EC",
+   "MAT_YD_UY"
   ]
  ],
  [
@@ -109109,7 +109113,6 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "BTK_YD",
    "ECNE_LS",
    "END_LS",
    "ENDE_LS",
@@ -109120,8 +109123,7 @@
    "MAT_YD_EC",
    "MAT_YD_TE",
    "MAT_YD_UY",
-   "MATE_LS",
-   "MTT_LS"
+   "MATE_LS"
   ]
  ],
  [
@@ -109159,8 +109161,7 @@
    "MAT_YD_EC",
    "MAT_YD_TE",
    "MAT_YD_UY",
-   "MATE_LS",
-   "MTT_LS"
+   "MATE_LS"
   ]
  ],
  [
@@ -112288,7 +112289,7 @@
  [
   "14027",
   "BVA 507E",
-  "Business Analytics for Manager",
+  "Business Analytics for Managers",
   "BVA",
   "Alp Üstündağ",
   "Perşembe 09:30/12:29",
@@ -133072,6 +133073,140 @@
    "IND_LS",
    "MMD_LS",
    "NAE_LS"
+  ]
+ ],
+ [
+  "15275",
+  "MAL 201E",
+  "Materials Science",
+  "MAL",
+  "Hakan Nuri Atahan",
+  "Pazartesi 13:30/16:29",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "EEE_LS",
+   "EHB_LS",
+   "EHBE_LS",
+   "ELK_LS",
+   "ELKE_LS",
+   "KOM_LS",
+   "KOME_LS",
+   "ROS_LS",
+   "ROSE_LS"
+  ]
+ ],
+ [
+  "15276",
+  "MAL 201E",
+  "Materials Science",
+  "MAL",
+  "Hasan Nuri Türkmenoğlu",
+  "Salı 09:30/12:29",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "EEE_LS",
+   "EHB_LS",
+   "EHBE_LS",
+   "ELK_LS",
+   "ELKE_LS",
+   "KOM_LS",
+   "KOME_LS",
+   "ROS_LS",
+   "ROSE_LS"
+  ]
+ ],
+ [
+  "15277",
+  "ICM 506E",
+  "Research Methods for Interior Architecture",
+  "ICM",
+  "Deniz Çalışır Pençe , Ahmet Gün",
+  "Pazartesi 09:30/12:29",
+  15,
+  0,
+  "LU",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15278",
+  "ICM 505E",
+  "Special Topics in Interior Architecture",
+  "ICM",
+  "Seniye Banu Garip , Uğur Efe Uçar , Gözde Gökdemir , Fırat Küçükersen",
+  "Cuma 14:00/16:59",
+  15,
+  0,
+  "LU",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15279",
+  "ICM YLT",
+  "Tez Çalışması",
+  "ICM",
+  "Seniye Banu Garip",
+  "",
+  200,
+  0,
+  "LU",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15280",
+  "DNK 201E",
+  "Dynamics",
+  "DNK",
+  "Tuğba Kuru",
+  "Salı 12:30/15:29",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "EHB_LS",
+   "EHBE_LS",
+   "ELE_LS",
+   "ELK_LS",
+   "ELKE_LS",
+   "KOM_LS",
+   "KOME_LS",
+   "ROS_LS",
+   "ROSE_LS",
+   "TEL_LS"
+  ]
+ ],
+ [
+  "15281",
+  "STA 201E",
+  "Statics",
+  "STA",
+  "Pınar Teymür",
+  "Cuma 14:00/16:59",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "EEE_LS",
+   "EHB_LS",
+   "EHBE_LS",
+   "ELE_LS",
+   "ELK_LS",
+   "ELKE_LS",
+   "KOM_LS",
+   "KOME_LS",
+   "ROS_LS",
+   "ROSE_LS",
+   "TEL_LS"
   ]
  ],
  [
