@@ -16220,18 +16220,102 @@
   "name": "Essentials of Res.Paper Writ.",
   "method": "Sanal (Çevrimiçi/Online)",
   "instructor": "Çağrı Lord",
-  "buildings": [
-   "MED"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
+  "buildings": [],
+  "days": [],
   "times": [
-   "12:30/14:29"
+   "-/-"
   ],
-  "rooms": [
-   "--"
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "ARC_LS",
+   "CEN_LS",
+   "EEE_LS",
+   "EFN_LS",
+   "IAD_LS",
+   "IND_LS",
+   "MMD_LS",
+   "NAE_LS"
   ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15272",
+  "code": "ING 201A",
+  "branch": "ING",
+  "level": "LS",
+  "name": "Essentials of Res.Paper Writ.",
+  "method": "Sanal (Çevrimiçi/Online)",
+  "instructor": "Çağla Tokyay",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "ARC_LS",
+   "CEN_LS",
+   "EEE_LS",
+   "EFN_LS",
+   "IAD_LS",
+   "IND_LS",
+   "MMD_LS",
+   "NAE_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15273",
+  "code": "ING 201A",
+  "branch": "ING",
+  "level": "LS",
+  "name": "Essentials of Res.Paper Writ.",
+  "method": "Sanal (Çevrimiçi/Online)",
+  "instructor": "Çağrı Lord",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "ARC_LS",
+   "CEN_LS",
+   "EEE_LS",
+   "EFN_LS",
+   "IAD_LS",
+   "IND_LS",
+   "MMD_LS",
+   "NAE_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15274",
+  "code": "ING 201A",
+  "branch": "ING",
+  "level": "LS",
+  "name": "Essentials of Res.Paper Writ.",
+  "method": "Sanal (Çevrimiçi/Online)",
+  "instructor": "Çağrı Lord",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
   "capacity": 0,
   "enrolled": 0,
   "reserved": "-",

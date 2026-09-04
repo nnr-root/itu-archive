@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T07:11:29Z",
+ "generatedAt": "2026-09-04T07:15:08Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -31721,13 +31721,15 @@
   },
   {
    "code": "UZB 411",
-   "name": "",
-   "branch": "UZB"
+   "name": "Space Environment",
+   "branch": "UZB",
+   "requirement": "( UCK 207 MIN. DD Veya UCK 207E MIN. DD ) Veya ( UCK 205 MIN. DD Veya UCK 205E MIN. DD ) Veya ( UCK 212 MIN. DD Veya UCK 212E MIN. DD )"
   },
   {
    "code": "UZB 411E",
    "name": "Space Environment",
-   "branch": "UZB"
+   "branch": "UZB",
+   "requirement": "( UCK 207 MIN. DD Veya UCK 207E MIN. DD ) Veya ( UCK 205 MIN. DD Veya UCK 205E MIN. DD ) Veya ( UCK 212 MIN. DD Veya UCK 212E MIN. DD )"
   },
   {
    "code": "UZB 412E",
@@ -102076,6 +102078,14 @@
   },
   {
    "from": "UCK 205",
+   "to": "UZB 411"
+  },
+  {
+   "from": "UCK 205",
+   "to": "UZB 411E"
+  },
+  {
+   "from": "UCK 205",
    "to": "UZB 441"
   },
   {
@@ -102116,6 +102126,14 @@
   },
   {
    "from": "UCK 205E",
+   "to": "UZB 411"
+  },
+  {
+   "from": "UCK 205E",
+   "to": "UZB 411E"
+  },
+  {
+   "from": "UCK 205E",
    "to": "UZB 441"
   },
   {
@@ -102133,6 +102151,14 @@
   {
    "from": "UCK 207",
    "to": "UCK 427E"
+  },
+  {
+   "from": "UCK 207",
+   "to": "UZB 411"
+  },
+  {
+   "from": "UCK 207",
+   "to": "UZB 411E"
   },
   {
    "from": "UCK 207",
@@ -102157,6 +102183,14 @@
   {
    "from": "UCK 207E",
    "to": "UCK 427E"
+  },
+  {
+   "from": "UCK 207E",
+   "to": "UZB 411"
+  },
+  {
+   "from": "UCK 207E",
+   "to": "UZB 411E"
   },
   {
    "from": "UCK 207E",
@@ -102221,6 +102255,14 @@
   {
    "from": "UCK 212",
    "to": "UZB 345E"
+  },
+  {
+   "from": "UCK 212",
+   "to": "UZB 411"
+  },
+  {
+   "from": "UCK 212",
+   "to": "UZB 411E"
   },
   {
    "from": "UCK 212",
@@ -102285,6 +102327,14 @@
   {
    "from": "UCK 212E",
    "to": "UZB 345E"
+  },
+  {
+   "from": "UCK 212E",
+   "to": "UZB 411"
+  },
+  {
+   "from": "UCK 212E",
+   "to": "UZB 411E"
   },
   {
    "from": "UCK 212E",
