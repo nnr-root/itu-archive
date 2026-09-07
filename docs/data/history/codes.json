@@ -3861,7 +3861,7 @@
   "CAB 279",
   "Koltuk Davul I",
   "CAB",
-  9
+  10
  ],
  [
   "CAB 280",
@@ -5404,6 +5404,12 @@
   "Oda Müziği II",
   "CAB",
   8
+ ],
+ [
+  "CAB 790",
+  "20-21yy Çkssli TrkMzği ÇlgıRep",
+  "CAB",
+  1
  ],
  [
   "CAB 791",
@@ -7292,12 +7298,6 @@
  [
   "CKY 510",
   "Gürültü Kont.Yapı Elem.Tasrm",
-  "CKY",
-  1
- ],
- [
-  "CKY 520",
-  "Mimarlıkta Geleneksel Yapı Mal",
   "CKY",
   1
  ],
@@ -30164,6 +30164,12 @@
  [
   "MBM 513E",
   "Cicular Economy and Advanced Polymer Recycling Technologies",
+  "MBM",
+  1
+ ],
+ [
+  "MBM 518",
+  "Paslanmaz Çeliklerin Temelleri ve Teknolojileri",
   "MBM",
   1
  ],

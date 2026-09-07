@@ -1973,13 +1973,6 @@
    ],
    [
     "2026-2027-guz",
-    "DEN 4902E",
-    "Shipbuilding\u0026Ocean Eng.Dsg.II",
-    150,
-    0
-   ],
-   [
-    "2026-2027-guz",
     "DEN 482",
     "Bireysel Proje",
     3,
@@ -13833,8 +13826,8 @@
   ],
   "terms": 9
  },
- "Handan Palak": {
-  "name": "Handan Palak",
+ "Handan Palak Erginsoy": {
+  "name": "Handan Palak Erginsoy",
   "rows": [
    [
     "2026-2027-guz",
@@ -22398,6 +22391,13 @@
     "GID 450",
     "Gıda Müh. Özel Konular",
     50,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "ULP 101",
+    "NewBeg.Fresh.Sem.\u0026Serv to L. I",
+    0,
     0
    ],
    [
