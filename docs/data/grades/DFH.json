@@ -808,6 +808,22 @@
  },
  {
   "code": "DFH 203",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 11,
+  "grades": {
+   "AA": 1,
+   "BA": 4,
+   "BB": 2,
+   "BB+": 1,
+   "CC+": 1,
+   "DC+": 1,
+   "DD+": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=DFH&dersNo=203&yil=2026"
+ },
+ {
+  "code": "DFH 203",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 17,
@@ -923,6 +939,22 @@
    "FF": 66
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=DFH&dersNo=203&yil=2024"
+ },
+ {
+  "code": "DFH 203E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 11,
+  "grades": {
+   "AA": 1,
+   "BA": 4,
+   "BB": 2,
+   "BB+": 1,
+   "CC+": 1,
+   "DC+": 1,
+   "DD+": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=DFH&dersNo=203&yil=2026"
  },
  {
   "code": "DFH 203E",
@@ -1392,32 +1424,23 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=DFH&dersNo=228&yil=2026"
  },
  {
-  "code": "DFH 228E",
-  "term": "2025-2026 Bahar Dönemi",
-  "donem": "202620",
+  "code": "DFH 232E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
   "total": 23,
   "grades": {
-   "AA": 4,
-   "BA": 5,
-   "BA+": 4,
+   "AA": 2,
+   "BA": 2,
+   "BA+": 2,
    "BB": 5,
-   "BB+": 4,
+   "BB+": 2,
+   "CB": 3,
+   "CB+": 3,
+   "CC": 1,
+   "CC+": 2,
    "FF": 1
   },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=DFH&dersNo=228&yil=2026"
- },
- {
-  "code": "DFH 228E",
-  "term": "2025-2026 Güz Dönemi",
-  "donem": "202610",
-  "total": 11,
-  "grades": {
-   "AA": 3,
-   "BA": 3,
-   "BA+": 3,
-   "BB+": 2
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=DFH&dersNo=228&yil=2026"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=DFH&dersNo=232&yil=2026"
  },
  {
   "code": "DFH 232E",

@@ -110,6 +110,39 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MEN&dersNo=321&yil=2024"
  },
  {
+  "code": "MEN 331",
+  "term": "2024-2025 Bahar Dönemi",
+  "donem": "202520",
+  "total": 11,
+  "grades": {
+   "BL": 4,
+   "BZ": 7
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MEN&dersNo=331&yil=2025"
+ },
+ {
+  "code": "MEN 331",
+  "term": "2023-2024 Bahar Dönemi",
+  "donem": "202420",
+  "total": 13,
+  "grades": {
+   "BL": 12,
+   "BZ": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MEN&dersNo=331&yil=2024"
+ },
+ {
+  "code": "MEN 331",
+  "term": "2023-2024 Güz Dönemi",
+  "donem": "202410",
+  "total": 31,
+  "grades": {
+   "BL": 23,
+   "BZ": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MEN&dersNo=331&yil=2024"
+ },
+ {
   "code": "MEN 401",
   "term": "2024-2025 Güz Dönemi",
   "donem": "202510",
@@ -161,39 +194,6 @@
    "VF": 1
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MEN&dersNo=401&yil=2024"
- },
- {
-  "code": "MEN 331",
-  "term": "2024-2025 Bahar Dönemi",
-  "donem": "202520",
-  "total": 11,
-  "grades": {
-   "BL": 4,
-   "BZ": 7
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MEN&dersNo=331&yil=2025"
- },
- {
-  "code": "MEN 331",
-  "term": "2023-2024 Bahar Dönemi",
-  "donem": "202420",
-  "total": 13,
-  "grades": {
-   "BL": 12,
-   "BZ": 1
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MEN&dersNo=331&yil=2024"
- },
- {
-  "code": "MEN 331",
-  "term": "2023-2024 Güz Dönemi",
-  "donem": "202410",
-  "total": 31,
-  "grades": {
-   "BL": 23,
-   "BZ": 1
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MEN&dersNo=331&yil=2024"
  },
  {
   "code": "MEN 402",

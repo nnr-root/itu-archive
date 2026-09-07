@@ -188,6 +188,34 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=DUM&dersNo=531&yil=2024"
  },
  {
+  "code": "DUM 533E",
+  "term": "2023-2024 Güz Dönemi",
+  "donem": "202410",
+  "total": 12,
+  "grades": {
+   "AA": 4,
+   "BA": 2,
+   "BA+": 5,
+   "BB+": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=DUM&dersNo=533&yil=2024"
+ },
+ {
+  "code": "DUM 539E",
+  "term": "2025-2026 Güz Dönemi",
+  "donem": "202610",
+  "total": 10,
+  "grades": {
+   "AA": 2,
+   "BA": 1,
+   "BA+": 3,
+   "BB+": 1,
+   "CB+": 1,
+   "VF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=DUM&dersNo=539&yil=2026"
+ },
+ {
   "code": "DUM 596E",
   "term": "2023-2024 Bahar Dönemi",
   "donem": "202420",

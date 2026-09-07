@@ -1,6 +1,29 @@
 [
  {
   "code": "TER 201",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 111,
+  "grades": {
+   "AA": 11,
+   "BA": 5,
+   "BA+": 6,
+   "BB": 11,
+   "BB+": 11,
+   "CB": 4,
+   "CB+": 4,
+   "CC": 11,
+   "CC+": 7,
+   "DC": 6,
+   "DC+": 8,
+   "DD": 11,
+   "DD+": 8,
+   "FF": 8
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TER&dersNo=201&yil=2026"
+ },
+ {
+  "code": "TER 201",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 251,
@@ -188,6 +211,29 @@
    "VF": 34
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TER&dersNo=201&yil=2024"
+ },
+ {
+  "code": "TER 201E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 111,
+  "grades": {
+   "AA": 11,
+   "BA": 5,
+   "BA+": 6,
+   "BB": 11,
+   "BB+": 11,
+   "CB": 4,
+   "CB+": 4,
+   "CC": 11,
+   "CC+": 7,
+   "DC": 6,
+   "DC+": 8,
+   "DD": 11,
+   "DD+": 8,
+   "FF": 8
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TER&dersNo=201&yil=2026"
  },
  {
   "code": "TER 201E",

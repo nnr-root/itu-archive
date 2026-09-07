@@ -383,6 +383,126 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=112&yil=2024"
  },
  {
+  "code": "TUR 121",
+  "term": "2025-2026 Summer Semester",
+  "donem": "202630",
+  "total": 246,
+  "grades": {
+   "BL": 207,
+   "BZ": 31,
+   "VF": 8
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=121&yil=2026"
+ },
+ {
+  "code": "TUR 121",
+  "term": "2025-2026 Spring Semester",
+  "donem": "202620",
+  "total": 1322,
+  "grades": {
+   "BL": 1043,
+   "BZ": 189,
+   "VF": 88
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=121&yil=2026"
+ },
+ {
+  "code": "TUR 121",
+  "term": "2025-2026 Fall Semester",
+  "donem": "202610",
+  "total": 3230,
+  "grades": {
+   "BL": 2573,
+   "BZ": 358,
+   "VF": 290
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=121&yil=2026"
+ },
+ {
+  "code": "TUR 121",
+  "term": "2024-2025 Yaz Dönemi",
+  "donem": "202530",
+  "total": 321,
+  "grades": {
+   "BL": 274,
+   "BZ": 35,
+   "VF": 12
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=121&yil=2025"
+ },
+ {
+  "code": "TUR 121",
+  "term": "2024-2025 Bahar Dönemi",
+  "donem": "202520",
+  "total": 898,
+  "grades": {
+   "BL": 683,
+   "BZ": 128,
+   "VF": 86
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=121&yil=2025"
+ },
+ {
+  "code": "TUR 121",
+  "term": "2024-2025 Güz Dönemi",
+  "donem": "202510",
+  "total": 2815,
+  "grades": {
+   "BL": 2025,
+   "BZ": 560,
+   "VF": 218
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=121&yil=2025"
+ },
+ {
+  "code": "TUR 121",
+  "term": "2023-2024 Yaz Dönemi",
+  "donem": "202430",
+  "total": 175,
+  "grades": {
+   "BL": 145,
+   "BZ": 12,
+   "VF": 18
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=121&yil=2024"
+ },
+ {
+  "code": "TUR 121",
+  "term": "2023-2024 Bahar Dönemi",
+  "donem": "202420",
+  "total": 800,
+  "grades": {
+   "BL": 519,
+   "BZ": 149,
+   "VF": 132
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=121&yil=2024"
+ },
+ {
+  "code": "TUR 121",
+  "term": "2023-2024 Güz Dönemi",
+  "donem": "202410",
+  "total": 2732,
+  "grades": {
+   "BL": 1840,
+   "BZ": 650,
+   "VF": 242
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=121&yil=2024"
+ },
+ {
+  "code": "TUR 122",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 247,
+  "grades": {
+   "BL": 209,
+   "BZ": 27,
+   "VF": 11
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=122&yil=2026"
+ },
+ {
   "code": "TUR 122",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
@@ -477,101 +597,5 @@
    "VF": 83
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=122&yil=2024"
- },
- {
-  "code": "TUR 121",
-  "term": "2025-2026 Bahar Dönemi",
-  "donem": "202620",
-  "total": 1322,
-  "grades": {
-   "BL": 1043,
-   "BZ": 189,
-   "VF": 88
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=121&yil=2026"
- },
- {
-  "code": "TUR 121",
-  "term": "2025-2026 Güz Dönemi",
-  "donem": "202610",
-  "total": 3230,
-  "grades": {
-   "BL": 2573,
-   "BZ": 358,
-   "VF": 290
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=121&yil=2026"
- },
- {
-  "code": "TUR 121",
-  "term": "2024-2025 Yaz Dönemi",
-  "donem": "202530",
-  "total": 321,
-  "grades": {
-   "BL": 274,
-   "BZ": 35,
-   "VF": 12
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=121&yil=2025"
- },
- {
-  "code": "TUR 121",
-  "term": "2024-2025 Bahar Dönemi",
-  "donem": "202520",
-  "total": 898,
-  "grades": {
-   "BL": 683,
-   "BZ": 128,
-   "VF": 86
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=121&yil=2025"
- },
- {
-  "code": "TUR 121",
-  "term": "2024-2025 Güz Dönemi",
-  "donem": "202510",
-  "total": 2815,
-  "grades": {
-   "BL": 2025,
-   "BZ": 560,
-   "VF": 218
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=121&yil=2025"
- },
- {
-  "code": "TUR 121",
-  "term": "2023-2024 Yaz Dönemi",
-  "donem": "202430",
-  "total": 175,
-  "grades": {
-   "BL": 145,
-   "BZ": 12,
-   "VF": 18
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=121&yil=2024"
- },
- {
-  "code": "TUR 121",
-  "term": "2023-2024 Bahar Dönemi",
-  "donem": "202420",
-  "total": 800,
-  "grades": {
-   "BL": 519,
-   "BZ": 149,
-   "VF": 132
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=121&yil=2024"
- },
- {
-  "code": "TUR 121",
-  "term": "2023-2024 Güz Dönemi",
-  "donem": "202410",
-  "total": 2732,
-  "grades": {
-   "BL": 1840,
-   "BZ": 650,
-   "VF": 242
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TUR&dersNo=121&yil=2024"
  }
 ]

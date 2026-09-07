@@ -1,6 +1,25 @@
 [
  {
   "code": "MUK 203",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 17,
+  "grades": {
+   "AA": 1,
+   "BA": 3,
+   "BA+": 1,
+   "BB": 3,
+   "BB+": 1,
+   "CB": 1,
+   "CC": 1,
+   "DD": 1,
+   "DD+": 1,
+   "FF": 4
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MUK&dersNo=203&yil=2026"
+ },
+ {
+  "code": "MUK 203",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 82,
@@ -163,6 +182,25 @@
  },
  {
   "code": "MUK 203E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 17,
+  "grades": {
+   "AA": 1,
+   "BA": 3,
+   "BA+": 1,
+   "BB": 3,
+   "BB+": 1,
+   "CB": 1,
+   "CC": 1,
+   "DD": 1,
+   "DD+": 1,
+   "FF": 4
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MUK&dersNo=203&yil=2026"
+ },
+ {
+  "code": "MUK 203E",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 82,
@@ -322,6 +360,29 @@
    "FF": 42
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MUK&dersNo=203&yil=2024"
+ },
+ {
+  "code": "MUK 204",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 104,
+  "grades": {
+   "AA": 5,
+   "BA": 2,
+   "BA+": 8,
+   "BB": 6,
+   "BB+": 6,
+   "CB": 4,
+   "CB+": 4,
+   "CC": 8,
+   "CC+": 5,
+   "DC": 4,
+   "DC+": 5,
+   "DD": 24,
+   "DD+": 6,
+   "FF": 17
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MUK&dersNo=204&yil=2026"
  },
  {
   "code": "MUK 204",
@@ -415,6 +476,29 @@
    "VF": 12
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MUK&dersNo=204&yil=2024"
+ },
+ {
+  "code": "MUK 204E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 104,
+  "grades": {
+   "AA": 5,
+   "BA": 2,
+   "BA+": 8,
+   "BB": 6,
+   "BB+": 6,
+   "CB": 4,
+   "CB+": 4,
+   "CC": 8,
+   "CC+": 5,
+   "DC": 4,
+   "DC+": 5,
+   "DD": 24,
+   "DD+": 6,
+   "FF": 17
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MUK&dersNo=204&yil=2026"
  },
  {
   "code": "MUK 204E",
@@ -748,6 +832,28 @@
    "FF": 17
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MUK&dersNo=207&yil=2024"
+ },
+ {
+  "code": "MUK 211",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 72,
+  "grades": {
+   "AA": 23,
+   "BA": 4,
+   "BA+": 8,
+   "BB": 2,
+   "BB+": 7,
+   "CB": 3,
+   "CB+": 3,
+   "CC": 3,
+   "CC+": 4,
+   "DC": 2,
+   "DC+": 5,
+   "DD+": 1,
+   "FF": 7
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MUK&dersNo=211&yil=2026"
  },
  {
   "code": "MUK 211",
@@ -865,6 +971,28 @@
    "VF": 10
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MUK&dersNo=211&yil=2024"
+ },
+ {
+  "code": "MUK 211E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 72,
+  "grades": {
+   "AA": 23,
+   "BA": 4,
+   "BA+": 8,
+   "BB": 2,
+   "BB+": 7,
+   "CB": 3,
+   "CB+": 3,
+   "CC": 3,
+   "CC+": 4,
+   "DC": 2,
+   "DC+": 5,
+   "DD+": 1,
+   "FF": 7
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MUK&dersNo=211&yil=2026"
  },
  {
   "code": "MUK 211E",

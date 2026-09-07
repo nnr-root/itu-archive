@@ -1,6 +1,30 @@
 [
  {
   "code": "EEF 110E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 73,
+  "grades": {
+   "AA": 11,
+   "BA": 5,
+   "BA+": 2,
+   "BB": 6,
+   "BB+": 1,
+   "CB": 10,
+   "CB+": 2,
+   "CC": 5,
+   "CC+": 2,
+   "DC": 3,
+   "DC+": 4,
+   "DD": 3,
+   "DD+": 4,
+   "FF": 2,
+   "VF": 13
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=110&yil=2026"
+ },
+ {
+  "code": "EEF 110E",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 518,
@@ -97,6 +121,24 @@
  },
  {
   "code": "EEF 205",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 29,
+  "grades": {
+   "AA": 3,
+   "BA": 1,
+   "BA+": 2,
+   "BB": 1,
+   "CC": 1,
+   "DC": 1,
+   "DC+": 1,
+   "DD+": 1,
+   "FF": 18
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=205&yil=2026"
+ },
+ {
+  "code": "EEF 205",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 126,
@@ -193,6 +235,24 @@
  },
  {
   "code": "EEF 205E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 29,
+  "grades": {
+   "AA": 3,
+   "BA": 1,
+   "BA+": 2,
+   "BB": 1,
+   "CC": 1,
+   "DC": 1,
+   "DC+": 1,
+   "DD+": 1,
+   "FF": 18
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=205&yil=2026"
+ },
+ {
+  "code": "EEF 205E",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 126,
@@ -286,6 +346,30 @@
    "VF": 74
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=205&yil=2024"
+ },
+ {
+  "code": "EEF 206",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 92,
+  "grades": {
+   "AA": 5,
+   "BA": 1,
+   "BA+": 1,
+   "BB": 2,
+   "BB+": 8,
+   "CB": 8,
+   "CB+": 4,
+   "CC": 3,
+   "CC+": 6,
+   "DC": 5,
+   "DC+": 5,
+   "DD": 8,
+   "DD+": 6,
+   "FF": 4,
+   "VF": 26
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=206&yil=2026"
  },
  {
   "code": "EEF 206",
@@ -385,6 +469,30 @@
  },
  {
   "code": "EEF 206E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 92,
+  "grades": {
+   "AA": 5,
+   "BA": 1,
+   "BA+": 1,
+   "BB": 2,
+   "BB+": 8,
+   "CB": 8,
+   "CB+": 4,
+   "CC": 3,
+   "CC+": 6,
+   "DC": 5,
+   "DC+": 5,
+   "DD": 8,
+   "DD+": 6,
+   "FF": 4,
+   "VF": 26
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=206&yil=2026"
+ },
+ {
+  "code": "EEF 206E",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 577,
@@ -478,6 +586,28 @@
    "VF": 162
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=206&yil=2024"
+ },
+ {
+  "code": "EEF 210",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 69,
+  "grades": {
+   "AA": 1,
+   "BA": 4,
+   "BA+": 7,
+   "BB": 4,
+   "BB+": 6,
+   "CB": 5,
+   "CB+": 2,
+   "CC": 6,
+   "CC+": 9,
+   "DC": 5,
+   "DC+": 3,
+   "DD+": 1,
+   "FF": 16
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=210&yil=2026"
  },
  {
   "code": "EEF 210",
@@ -620,6 +750,28 @@
  },
  {
   "code": "EEF 210E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 69,
+  "grades": {
+   "AA": 1,
+   "BA": 4,
+   "BA+": 7,
+   "BB": 4,
+   "BB+": 6,
+   "CB": 5,
+   "CB+": 2,
+   "CC": 6,
+   "CC+": 9,
+   "DC": 5,
+   "DC+": 3,
+   "DD+": 1,
+   "FF": 16
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=210&yil=2026"
+ },
+ {
+  "code": "EEF 210E",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 216,
@@ -759,15 +911,37 @@
  },
  {
   "code": "EEF 211",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 55,
+  "grades": {
+   "AA": 4,
+   "BA": 2,
+   "BA+": 1,
+   "BB+": 1,
+   "CB": 3,
+   "CB+": 1,
+   "CC": 1,
+   "DC": 2,
+   "DC+": 4,
+   "DD": 3,
+   "DD+": 2,
+   "FF": 18,
+   "VF": 13
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=211&yil=2026"
+ },
+ {
+  "code": "EEF 211",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 215,
   "grades": {
    "AA": 6,
    "BA": 8,
-   "BA+": 7,
+   "BA+": 8,
    "BB": 12,
-   "BB+": 14,
+   "BB+": 13,
    "CB": 12,
    "CB+": 14,
    "CC": 11,
@@ -903,15 +1077,37 @@
  },
  {
   "code": "EEF 211E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 55,
+  "grades": {
+   "AA": 4,
+   "BA": 2,
+   "BA+": 1,
+   "BB+": 1,
+   "CB": 3,
+   "CB+": 1,
+   "CC": 1,
+   "DC": 2,
+   "DC+": 4,
+   "DD": 3,
+   "DD+": 2,
+   "FF": 18,
+   "VF": 13
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=211&yil=2026"
+ },
+ {
+  "code": "EEF 211E",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 215,
   "grades": {
    "AA": 6,
    "BA": 8,
-   "BA+": 7,
+   "BA+": 8,
    "BB": 12,
-   "BB+": 14,
+   "BB+": 13,
    "CB": 12,
    "CB+": 14,
    "CC": 11,
@@ -1044,6 +1240,29 @@
    "VF": 76
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=211&yil=2024"
+ },
+ {
+  "code": "EEF 212",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 102,
+  "grades": {
+   "AA": 4,
+   "BA": 2,
+   "BA+": 1,
+   "BB": 5,
+   "BB+": 3,
+   "CB": 2,
+   "CB+": 4,
+   "CC": 2,
+   "CC+": 2,
+   "DC": 4,
+   "DC+": 5,
+   "DD": 5,
+   "DD+": 7,
+   "FF": 56
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=212&yil=2026"
  },
  {
   "code": "EEF 212",
@@ -1159,6 +1378,29 @@
    "VF": 84
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=212&yil=2024"
+ },
+ {
+  "code": "EEF 212E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 102,
+  "grades": {
+   "AA": 4,
+   "BA": 2,
+   "BA+": 1,
+   "BB": 5,
+   "BB+": 3,
+   "CB": 2,
+   "CB+": 4,
+   "CC": 2,
+   "CC+": 2,
+   "DC": 4,
+   "DC+": 5,
+   "DD": 5,
+   "DD+": 7,
+   "FF": 56
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=212&yil=2026"
  },
  {
   "code": "EEF 212E",
@@ -1397,6 +1639,30 @@
  },
  {
   "code": "EEF 232",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 155,
+  "grades": {
+   "AA": 3,
+   "BA": 3,
+   "BA+": 3,
+   "BB": 12,
+   "BB+": 6,
+   "CB": 4,
+   "CB+": 5,
+   "CC": 6,
+   "CC+": 13,
+   "DC": 4,
+   "DC+": 9,
+   "DD": 8,
+   "DD+": 5,
+   "FF": 53,
+   "VF": 21
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=232&yil=2026"
+ },
+ {
+  "code": "EEF 232",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 502,
@@ -1517,6 +1783,30 @@
  },
  {
   "code": "EEF 232E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 155,
+  "grades": {
+   "AA": 3,
+   "BA": 3,
+   "BA+": 3,
+   "BB": 12,
+   "BB+": 6,
+   "CB": 4,
+   "CB+": 5,
+   "CC": 6,
+   "CC+": 13,
+   "DC": 4,
+   "DC+": 9,
+   "DD": 8,
+   "DD+": 5,
+   "FF": 53,
+   "VF": 21
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=232&yil=2026"
+ },
+ {
+  "code": "EEF 232E",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 502,
@@ -1634,6 +1924,30 @@
    "VF": 70
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=232&yil=2024"
+ },
+ {
+  "code": "EEF 262",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 237,
+  "grades": {
+   "AA": 11,
+   "BA": 13,
+   "BA+": 2,
+   "BB": 15,
+   "BB+": 14,
+   "CB": 10,
+   "CB+": 16,
+   "CC": 12,
+   "CC+": 14,
+   "DC": 7,
+   "DC+": 10,
+   "DD": 4,
+   "DD+": 8,
+   "FF": 63,
+   "VF": 38
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=262&yil=2026"
  },
  {
   "code": "EEF 262",
@@ -1775,6 +2089,30 @@
    "FF": 327
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=262&yil=2024"
+ },
+ {
+  "code": "EEF 262E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 237,
+  "grades": {
+   "AA": 11,
+   "BA": 13,
+   "BA+": 2,
+   "BB": 15,
+   "BB+": 14,
+   "CB": 10,
+   "CB+": 16,
+   "CC": 12,
+   "CC+": 14,
+   "DC": 7,
+   "DC+": 10,
+   "DD": 4,
+   "DD+": 8,
+   "FF": 63,
+   "VF": 38
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EEF&dersNo=262&yil=2026"
  },
  {
   "code": "EEF 262E",

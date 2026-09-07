@@ -621,6 +621,29 @@
  },
  {
   "code": "BLG 223",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 60,
+  "grades": {
+   "AA": 3,
+   "BA": 6,
+   "BA+": 5,
+   "BB": 7,
+   "BB+": 4,
+   "CB": 8,
+   "CB+": 13,
+   "CC": 2,
+   "CC+": 2,
+   "DC": 2,
+   "DC+": 1,
+   "DD": 1,
+   "FF": 1,
+   "VF": 5
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BLG&dersNo=223&yil=2026"
+ },
+ {
+  "code": "BLG 223",
   "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
   "total": 176,
@@ -725,6 +748,29 @@
    "FF": 184
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BLG&dersNo=223&yil=2024"
+ },
+ {
+  "code": "BLG 223E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 60,
+  "grades": {
+   "AA": 3,
+   "BA": 6,
+   "BA+": 5,
+   "BB": 7,
+   "BB+": 4,
+   "CB": 8,
+   "CB+": 13,
+   "CC": 2,
+   "CC+": 2,
+   "DC": 2,
+   "DC+": 1,
+   "DD": 1,
+   "FF": 1,
+   "VF": 5
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BLG&dersNo=223&yil=2026"
  },
  {
   "code": "BLG 223E",
@@ -1272,11 +1318,11 @@
   "donem": "202620",
   "total": 191,
   "grades": {
-   "AA": 13,
-   "BA": 44,
+   "AA": 14,
+   "BA": 43,
    "BA+": 26,
-   "BB": 20,
-   "BB+": 25,
+   "BB": 19,
+   "BB+": 26,
    "CB": 13,
    "CB+": 14,
    "CC": 2,
@@ -1359,11 +1405,11 @@
   "donem": "202620",
   "total": 191,
   "grades": {
-   "AA": 13,
-   "BA": 44,
+   "AA": 14,
+   "BA": 43,
    "BA+": 26,
-   "BB": 20,
-   "BB+": 25,
+   "BB": 19,
+   "BB+": 26,
    "CB": 13,
    "CB+": 14,
    "CC": 2,
@@ -1794,7 +1840,7 @@
  },
  {
   "code": "BLG 335E",
-  "term": "2024-2025 Fall Semester",
+  "term": "2024-2025 Güz Dönemi",
   "donem": "202510",
   "total": 261,
   "grades": {
@@ -2089,7 +2135,7 @@
  },
  {
   "code": "BLG 348E",
-  "term": "2023-2024 Fall Semester",
+  "term": "2023-2024 Güz Dönemi",
   "donem": "202410",
   "total": 66,
   "grades": {
@@ -2815,7 +2861,7 @@
  },
  {
   "code": "BLG 448E",
-  "term": "2025-2026 Spring Semester",
+  "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 157,
   "grades": {
@@ -2839,7 +2885,7 @@
  },
  {
   "code": "BLG 448E",
-  "term": "2025-2026 Fall Semester",
+  "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
   "total": 38,
   "grades": {
@@ -3417,6 +3463,27 @@
    "VF": 1
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BLG&dersNo=468&yil=2024"
+ },
+ {
+  "code": "BLG 470E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 104,
+  "grades": {
+   "AA": 20,
+   "BA": 18,
+   "BA+": 9,
+   "BB": 21,
+   "BB+": 1,
+   "CB": 5,
+   "CB+": 8,
+   "CC": 1,
+   "CC+": 2,
+   "DC": 1,
+   "DC+": 2,
+   "FF": 16
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BLG&dersNo=470&yil=2026"
  },
  {
   "code": "BLG 475E",
@@ -4664,7 +4731,7 @@
  },
  {
   "code": "BLG 561E",
-  "term": "2025-2026 Spring Semester",
+  "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 52,
   "grades": {
@@ -4682,7 +4749,7 @@
  },
  {
   "code": "BLG 561E",
-  "term": "2025-2026 Fall Semester",
+  "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
   "total": 48,
   "grades": {
@@ -4815,6 +4882,37 @@
    "FF": 3
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BLG&dersNo=563&yil=2024"
+ },
+ {
+  "code": "BLG 565E",
+  "term": "2025-2026 Güz Dönemi",
+  "donem": "202610",
+  "total": 19,
+  "grades": {
+   "AA": 7,
+   "BA": 3,
+   "BB": 3,
+   "CB": 3,
+   "CC": 1,
+   "FF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BLG&dersNo=565&yil=2026"
+ },
+ {
+  "code": "BLG 565E",
+  "term": "2023-2024 Güz Dönemi",
+  "donem": "202410",
+  "total": 13,
+  "grades": {
+   "BA": 1,
+   "BA+": 2,
+   "BB": 1,
+   "BB+": 1,
+   "CB": 4,
+   "CC": 2,
+   "FF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BLG&dersNo=565&yil=2024"
  },
  {
   "code": "BLG 596",

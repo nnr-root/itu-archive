@@ -98,19 +98,6 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=THO&dersNo=113&yil=2026"
  },
  {
-  "code": "THO 115",
-  "term": "2025-2026 Güz Dönemi",
-  "donem": "202610",
-  "total": 20,
-  "grades": {
-   "AA": 6,
-   "BA": 1,
-   "BA+": 6,
-   "FF": 7
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=THO&dersNo=115&yil=2026"
- },
- {
   "code": "THO 114",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
@@ -127,6 +114,19 @@
    "VF": 2
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=THO&dersNo=114&yil=2026"
+ },
+ {
+  "code": "THO 115",
+  "term": "2025-2026 Güz Dönemi",
+  "donem": "202610",
+  "total": 20,
+  "grades": {
+   "AA": 6,
+   "BA": 1,
+   "BA+": 6,
+   "FF": 7
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=THO&dersNo=115&yil=2026"
  },
  {
   "code": "THO 116",

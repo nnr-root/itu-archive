@@ -1,6 +1,26 @@
 [
  {
   "code": "HUK 201",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 116,
+  "grades": {
+   "AA": 12,
+   "BA": 12,
+   "BA+": 11,
+   "BB": 14,
+   "BB+": 14,
+   "CB": 17,
+   "CB+": 12,
+   "CC": 7,
+   "CC+": 13,
+   "DC+": 2,
+   "FF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=HUK&dersNo=201&yil=2026"
+ },
+ {
+  "code": "HUK 201",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 364,
@@ -146,6 +166,26 @@
    "FF": 34
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=HUK&dersNo=201&yil=2024"
+ },
+ {
+  "code": "HUK 201E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 116,
+  "grades": {
+   "AA": 12,
+   "BA": 12,
+   "BA+": 11,
+   "BB": 14,
+   "BB+": 14,
+   "CB": 17,
+   "CB+": 12,
+   "CC": 7,
+   "CC+": 13,
+   "DC+": 2,
+   "FF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=HUK&dersNo=201&yil=2026"
  },
  {
   "code": "HUK 201E",

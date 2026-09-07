@@ -1,6 +1,29 @@
 [
  {
   "code": "EKO 201",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 340,
+  "grades": {
+   "AA": 19,
+   "BA": 26,
+   "BA+": 19,
+   "BB": 27,
+   "BB+": 33,
+   "CB": 34,
+   "CB+": 26,
+   "CC": 34,
+   "CC+": 23,
+   "DC": 16,
+   "DC+": 33,
+   "DD": 10,
+   "DD+": 24,
+   "FF": 16
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EKO&dersNo=201&yil=2026"
+ },
+ {
+  "code": "EKO 201",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 1043,
@@ -175,6 +198,29 @@
    "FF": 183
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EKO&dersNo=201&yil=2024"
+ },
+ {
+  "code": "EKO 201E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 340,
+  "grades": {
+   "AA": 19,
+   "BA": 26,
+   "BA+": 19,
+   "BB": 27,
+   "BB+": 33,
+   "CB": 34,
+   "CB+": 26,
+   "CC": 34,
+   "CC+": 23,
+   "DC": 16,
+   "DC+": 33,
+   "DD": 10,
+   "DD+": 24,
+   "FF": 16
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EKO&dersNo=201&yil=2026"
  },
  {
   "code": "EKO 201E",

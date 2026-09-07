@@ -607,6 +607,62 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=PEM&dersNo=214&yil=2024"
  },
  {
+  "code": "PEM 225E",
+  "term": "2025-2026 Güz Dönemi",
+  "donem": "202610",
+  "total": 41,
+  "grades": {
+   "AA": 3,
+   "BA": 13,
+   "BA+": 5,
+   "BB": 4,
+   "BB+": 11,
+   "FF": 1,
+   "VF": 4
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=PEM&dersNo=225&yil=2026"
+ },
+ {
+  "code": "PEM 225E",
+  "term": "2024-2025 Güz Dönemi",
+  "donem": "202510",
+  "total": 52,
+  "grades": {
+   "AA": 3,
+   "BA": 4,
+   "BA+": 8,
+   "BB": 10,
+   "BB+": 7,
+   "CB": 2,
+   "CB+": 8,
+   "CC+": 4,
+   "DC": 1,
+   "DD+": 1,
+   "VF": 4
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=PEM&dersNo=225&yil=2025"
+ },
+ {
+  "code": "PEM 225E",
+  "term": "2023-2024 Güz Dönemi",
+  "donem": "202410",
+  "total": 65,
+  "grades": {
+   "AA": 2,
+   "BA": 8,
+   "BA+": 8,
+   "BB": 5,
+   "BB+": 12,
+   "CB": 6,
+   "CB+": 14,
+   "CC": 2,
+   "CC+": 3,
+   "FF": 1,
+   "VF": 4
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=PEM&dersNo=225&yil=2024"
+ },
+ {
   "code": "PEM 231E",
   "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
@@ -668,62 +724,6 @@
    "VF": 13
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=PEM&dersNo=231&yil=2024"
- },
- {
-  "code": "PEM 225E",
-  "term": "2025-2026 Güz Dönemi",
-  "donem": "202610",
-  "total": 41,
-  "grades": {
-   "AA": 3,
-   "BA": 13,
-   "BA+": 5,
-   "BB": 4,
-   "BB+": 11,
-   "FF": 1,
-   "VF": 4
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=PEM&dersNo=225&yil=2026"
- },
- {
-  "code": "PEM 225E",
-  "term": "2024-2025 Güz Dönemi",
-  "donem": "202510",
-  "total": 52,
-  "grades": {
-   "AA": 3,
-   "BA": 4,
-   "BA+": 8,
-   "BB": 10,
-   "BB+": 7,
-   "CB": 2,
-   "CB+": 8,
-   "CC+": 4,
-   "DC": 1,
-   "DD+": 1,
-   "VF": 4
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=PEM&dersNo=225&yil=2025"
- },
- {
-  "code": "PEM 225E",
-  "term": "2023-2024 Güz Dönemi",
-  "donem": "202410",
-  "total": 65,
-  "grades": {
-   "AA": 2,
-   "BA": 8,
-   "BA+": 8,
-   "BB": 5,
-   "BB+": 12,
-   "CB": 6,
-   "CB+": 14,
-   "CC": 2,
-   "CC+": 3,
-   "FF": 1,
-   "VF": 4
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=PEM&dersNo=225&yil=2024"
  },
  {
   "code": "PEM 242E",

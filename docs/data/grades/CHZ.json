@@ -802,6 +802,29 @@
  },
  {
   "code": "CHZ 318",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 44,
+  "grades": {
+   "AA": 5,
+   "BA": 1,
+   "BA+": 3,
+   "BB": 3,
+   "BB+": 2,
+   "CB": 3,
+   "CB+": 1,
+   "CC": 2,
+   "CC+": 1,
+   "DC": 3,
+   "DC+": 2,
+   "DD": 4,
+   "DD+": 2,
+   "FF": 12
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=CHZ&dersNo=318&yil=2026"
+ },
+ {
+  "code": "CHZ 318",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 85,
@@ -880,6 +903,29 @@
    "FF": 27
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=CHZ&dersNo=318&yil=2024"
+ },
+ {
+  "code": "CHZ 318E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 44,
+  "grades": {
+   "AA": 5,
+   "BA": 1,
+   "BA+": 3,
+   "BB": 3,
+   "BB+": 2,
+   "CB": 3,
+   "CB+": 1,
+   "CC": 2,
+   "CC+": 1,
+   "DC": 3,
+   "DC+": 2,
+   "DD": 4,
+   "DD+": 2,
+   "FF": 12
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=CHZ&dersNo=318&yil=2026"
  },
  {
   "code": "CHZ 318E",

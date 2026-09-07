@@ -314,39 +314,6 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MBL&dersNo=557&yil=2024"
  },
  {
-  "code": "MBL 596",
-  "term": "2025-2026 Güz Dönemi",
-  "donem": "202610",
-  "total": 10,
-  "grades": {
-   "BL": 10
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MBL&dersNo=596&yil=2026"
- },
- {
-  "code": "MBL 596",
-  "term": "2024-2025 Güz Dönemi",
-  "donem": "202510",
-  "total": 15,
-  "grades": {
-   "BL": 13,
-   "VF": 2
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MBL&dersNo=596&yil=2025"
- },
- {
-  "code": "MBL 596",
-  "term": "2023-2024 Bahar Dönemi",
-  "donem": "202420",
-  "total": 10,
-  "grades": {
-   "BL": 8,
-   "BZ": 1,
-   "VF": 1
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MBL&dersNo=596&yil=2024"
- },
- {
   "code": "MBL 559E",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
@@ -397,6 +364,39 @@
    "VF": 1
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MBL&dersNo=559&yil=2024"
+ },
+ {
+  "code": "MBL 596",
+  "term": "2025-2026 Güz Dönemi",
+  "donem": "202610",
+  "total": 10,
+  "grades": {
+   "BL": 10
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MBL&dersNo=596&yil=2026"
+ },
+ {
+  "code": "MBL 596",
+  "term": "2024-2025 Güz Dönemi",
+  "donem": "202510",
+  "total": 15,
+  "grades": {
+   "BL": 13,
+   "VF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MBL&dersNo=596&yil=2025"
+ },
+ {
+  "code": "MBL 596",
+  "term": "2023-2024 Bahar Dönemi",
+  "donem": "202420",
+  "total": 10,
+  "grades": {
+   "BL": 8,
+   "BZ": 1,
+   "VF": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MBL&dersNo=596&yil=2024"
  },
  {
   "code": "MBL 611",

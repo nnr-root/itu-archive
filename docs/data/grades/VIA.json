@@ -1,41 +1,5 @@
 [
  {
-  "code": "VIA 504E",
-  "term": "2025-2026 Yaz Dönemi",
-  "donem": "202630",
-  "total": 14,
-  "grades": {
-   "AA": 11,
-   "BA": 1,
-   "BA+": 2
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=VIA&dersNo=504&yil=2026"
- },
- {
-  "code": "VIA 504E",
-  "term": "2024-2025 Bahar Dönemi",
-  "donem": "202520",
-  "total": 25,
-  "grades": {
-   "AA": 18,
-   "BA+": 7
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=VIA&dersNo=504&yil=2025"
- },
- {
-  "code": "VIA 504E",
-  "term": "2023-2024 Bahar Dönemi",
-  "donem": "202420",
-  "total": 29,
-  "grades": {
-   "AA": 17,
-   "BA": 5,
-   "BB": 6,
-   "CB": 1
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=VIA&dersNo=504&yil=2024"
- },
- {
   "code": "VIA 502E",
   "term": "2025-2026 Yaz Dönemi",
   "donem": "202630",
@@ -87,6 +51,42 @@
    "BB+": 1
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=VIA&dersNo=502&yil=2024"
+ },
+ {
+  "code": "VIA 504E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 14,
+  "grades": {
+   "AA": 11,
+   "BA": 1,
+   "BA+": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=VIA&dersNo=504&yil=2026"
+ },
+ {
+  "code": "VIA 504E",
+  "term": "2024-2025 Bahar Dönemi",
+  "donem": "202520",
+  "total": 25,
+  "grades": {
+   "AA": 18,
+   "BA+": 7
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=VIA&dersNo=504&yil=2025"
+ },
+ {
+  "code": "VIA 504E",
+  "term": "2023-2024 Bahar Dönemi",
+  "donem": "202420",
+  "total": 29,
+  "grades": {
+   "AA": 17,
+   "BA": 5,
+   "BB": 6,
+   "CB": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=VIA&dersNo=504&yil=2024"
  },
  {
   "code": "VIA 506E",
@@ -315,12 +315,34 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=VIA&dersNo=528&yil=2024"
  },
  {
+  "code": "VIA 529E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 18,
+  "grades": {
+   "AA": 17,
+   "BB": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=VIA&dersNo=529&yil=2026"
+ },
+ {
+  "code": "VIA 529E",
+  "term": "2023-2024 Bahar Dönemi",
+  "donem": "202420",
+  "total": 17,
+  "grades": {
+   "AA": 16,
+   "BA": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=VIA&dersNo=529&yil=2024"
+ },
+ {
   "code": "VIA 599",
   "term": "2025-2026 Yaz Dönemi",
   "donem": "202630",
   "total": 24,
   "grades": {
-   "BL": 18,
+   "BL": 22,
    "BZ": 2
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=VIA&dersNo=599&yil=2026"
@@ -345,27 +367,5 @@
    "BZ": 1
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=VIA&dersNo=599&yil=2024"
- },
- {
-  "code": "VIA 529E",
-  "term": "2025-2026 Yaz Dönemi",
-  "donem": "202630",
-  "total": 18,
-  "grades": {
-   "AA": 17,
-   "BB": 1
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=VIA&dersNo=529&yil=2026"
- },
- {
-  "code": "VIA 529E",
-  "term": "2023-2024 Bahar Dönemi",
-  "donem": "202420",
-  "total": 17,
-  "grades": {
-   "AA": 16,
-   "BA": 1
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=VIA&dersNo=529&yil=2024"
  }
 ]

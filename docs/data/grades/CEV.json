@@ -3476,6 +3476,26 @@
  },
  {
   "code": "CEV 347",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 21,
+  "grades": {
+   "BA": 1,
+   "BA+": 1,
+   "BB": 1,
+   "BB+": 2,
+   "CB+": 2,
+   "CC+": 1,
+   "DC": 1,
+   "DD": 3,
+   "DD+": 1,
+   "FF": 4,
+   "VF": 4
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=CEV&dersNo=347&yil=2026"
+ },
+ {
+  "code": "CEV 347",
   "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
   "total": 161,
@@ -3564,6 +3584,26 @@
    "VF": 7
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=CEV&dersNo=347&yil=2024"
+ },
+ {
+  "code": "CEV 347E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 21,
+  "grades": {
+   "BA": 1,
+   "BA+": 1,
+   "BB": 1,
+   "BB+": 2,
+   "CB+": 2,
+   "CC+": 1,
+   "DC": 1,
+   "DD": 3,
+   "DD+": 1,
+   "FF": 4,
+   "VF": 4
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=CEV&dersNo=347&yil=2026"
  },
  {
   "code": "CEV 347E",
@@ -5158,22 +5198,6 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=CEV&dersNo=449&yil=2024"
  },
  {
-  "code": "CEV 453E",
-  "term": "2024-2025 Güz Dönemi",
-  "donem": "202510",
-  "total": 14,
-  "grades": {
-   "AA": 1,
-   "BB": 3,
-   "CB": 2,
-   "CC": 1,
-   "CC+": 2,
-   "DC": 4,
-   "DD": 1
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=CEV&dersNo=453&yil=2025"
- },
- {
   "code": "CEV 452",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
@@ -5224,6 +5248,22 @@
    "FF": 1
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=CEV&dersNo=452&yil=2024"
+ },
+ {
+  "code": "CEV 453E",
+  "term": "2024-2025 Güz Dönemi",
+  "donem": "202510",
+  "total": 14,
+  "grades": {
+   "AA": 1,
+   "BB": 3,
+   "CB": 2,
+   "CC": 1,
+   "CC+": 2,
+   "DC": 4,
+   "DD": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=CEV&dersNo=453&yil=2025"
  },
  {
   "code": "CEV 454E",

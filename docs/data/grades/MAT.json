@@ -1,6 +1,30 @@
 [
  {
   "code": "MAT 103",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 991,
+  "grades": {
+   "AA": 54,
+   "BA": 41,
+   "BA+": 49,
+   "BB": 48,
+   "BB+": 55,
+   "CB": 69,
+   "CB+": 48,
+   "CC": 60,
+   "CC+": 66,
+   "DC": 89,
+   "DC+": 59,
+   "DD": 71,
+   "DD+": 91,
+   "FF": 142,
+   "VF": 49
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=103&yil=2026"
+ },
+ {
+  "code": "MAT 103",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 1682,
@@ -123,22 +147,22 @@
   "code": "MAT 103",
   "term": "2023-2024 Yaz Dönemi",
   "donem": "202430",
-  "total": 900,
+  "total": 742,
   "grades": {
    "AA": 22,
-   "BA": 27,
+   "BA": 26,
    "BA+": 20,
-   "BB": 63,
-   "BB+": 39,
-   "CB": 72,
-   "CB+": 51,
-   "CC": 67,
-   "CC+": 64,
-   "DC": 77,
-   "DC+": 57,
-   "DD": 54,
-   "DD+": 79,
-   "FF": 185,
+   "BB": 52,
+   "BB+": 34,
+   "CB": 55,
+   "CB+": 41,
+   "CC": 57,
+   "CC+": 49,
+   "DC": 63,
+   "DC+": 49,
+   "DD": 45,
+   "DD+": 62,
+   "FF": 144,
    "VF": 23
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=103&yil=2024"
@@ -190,6 +214,30 @@
    "VF": 455
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=103&yil=2024"
+ },
+ {
+  "code": "MAT 103E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 991,
+  "grades": {
+   "AA": 54,
+   "BA": 41,
+   "BA+": 49,
+   "BB": 48,
+   "BB+": 55,
+   "CB": 69,
+   "CB+": 48,
+   "CC": 60,
+   "CC+": 66,
+   "DC": 89,
+   "DC+": 59,
+   "DD": 71,
+   "DD+": 91,
+   "FF": 142,
+   "VF": 49
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=103&yil=2026"
  },
  {
   "code": "MAT 103E",
@@ -315,22 +363,22 @@
   "code": "MAT 103E",
   "term": "2023-2024 Yaz Dönemi",
   "donem": "202430",
-  "total": 900,
+  "total": 742,
   "grades": {
    "AA": 22,
-   "BA": 27,
+   "BA": 26,
    "BA+": 20,
-   "BB": 63,
-   "BB+": 39,
-   "CB": 72,
-   "CB+": 51,
-   "CC": 67,
-   "CC+": 64,
-   "DC": 77,
-   "DC+": 57,
-   "DD": 54,
-   "DD+": 79,
-   "FF": 185,
+   "BB": 52,
+   "BB+": 34,
+   "CB": 55,
+   "CB+": 41,
+   "CC": 57,
+   "CC+": 49,
+   "DC": 63,
+   "DC+": 49,
+   "DD": 45,
+   "DD+": 62,
+   "FF": 144,
    "VF": 23
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=103&yil=2024"
@@ -382,6 +430,30 @@
    "VF": 455
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=103&yil=2024"
+ },
+ {
+  "code": "MAT 104E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 840,
+  "grades": {
+   "AA": 53,
+   "BA": 34,
+   "BA+": 47,
+   "BB": 48,
+   "BB+": 42,
+   "CB": 44,
+   "CB+": 48,
+   "CC": 44,
+   "CC+": 41,
+   "DC": 76,
+   "DC+": 75,
+   "DD": 74,
+   "DD+": 63,
+   "FF": 111,
+   "VF": 40
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=104&yil=2026"
  },
  {
   "code": "MAT 104E",
@@ -2036,6 +2108,29 @@
  },
  {
   "code": "MAT 202",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 49,
+  "grades": {
+   "AA": 5,
+   "BA": 1,
+   "BA+": 1,
+   "BB": 2,
+   "BB+": 2,
+   "CB": 3,
+   "CB+": 4,
+   "CC": 4,
+   "CC+": 1,
+   "DC": 2,
+   "DC+": 1,
+   "DD": 8,
+   "DD+": 4,
+   "FF": 11
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=202&yil=2026"
+ },
+ {
+  "code": "MAT 202",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 448,
@@ -2225,6 +2320,29 @@
  },
  {
   "code": "MAT 202E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 49,
+  "grades": {
+   "AA": 5,
+   "BA": 1,
+   "BA+": 1,
+   "BB": 2,
+   "BB+": 2,
+   "CB": 3,
+   "CB+": 4,
+   "CC": 4,
+   "CC+": 1,
+   "DC": 2,
+   "DC+": 1,
+   "DD": 8,
+   "DD+": 4,
+   "FF": 11
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=202&yil=2026"
+ },
+ {
+  "code": "MAT 202E",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 448,
@@ -2411,6 +2529,29 @@
    "VF": 44
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=202&yil=2024"
+ },
+ {
+  "code": "MAT 210",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 175,
+  "grades": {
+   "AA": 21,
+   "BA": 16,
+   "BA+": 12,
+   "BB": 17,
+   "BB+": 6,
+   "CB": 8,
+   "CB+": 14,
+   "CC": 11,
+   "CC+": 15,
+   "DC": 15,
+   "DC+": 8,
+   "DD": 10,
+   "DD+": 11,
+   "FF": 11
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=210&yil=2026"
  },
  {
   "code": "MAT 210",
@@ -2590,6 +2731,29 @@
    "VF": 12
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=210&yil=2024"
+ },
+ {
+  "code": "MAT 210E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 175,
+  "grades": {
+   "AA": 21,
+   "BA": 16,
+   "BA+": 12,
+   "BB": 17,
+   "BB+": 6,
+   "CB": 8,
+   "CB+": 14,
+   "CC": 11,
+   "CC+": 15,
+   "DC": 15,
+   "DC+": 8,
+   "DD": 10,
+   "DD+": 11,
+   "FF": 11
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=210&yil=2026"
  },
  {
   "code": "MAT 210E",
@@ -3107,6 +3271,24 @@
    "VF": 1
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=226&yil=2024"
+ },
+ {
+  "code": "MAT 232",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 49,
+  "grades": {
+   "AA": 27,
+   "BA": 4,
+   "BA+": 6,
+   "BB": 1,
+   "BB+": 2,
+   "CB": 1,
+   "CB+": 1,
+   "CC+": 1,
+   "FF": 6
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=232&yil=2026"
  },
  {
   "code": "MAT 232",
@@ -3200,6 +3382,24 @@
    "VF": 4
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=232&yil=2024"
+ },
+ {
+  "code": "MAT 232E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 49,
+  "grades": {
+   "AA": 27,
+   "BA": 4,
+   "BA+": 6,
+   "BB": 1,
+   "BB+": 2,
+   "CB": 1,
+   "CB+": 1,
+   "CC+": 1,
+   "FF": 6
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=232&yil=2026"
  },
  {
   "code": "MAT 232E",
@@ -3915,6 +4115,28 @@
  },
  {
   "code": "MAT 271",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 252,
+  "grades": {
+   "AA": 87,
+   "BA": 20,
+   "BA+": 18,
+   "BB": 29,
+   "BB+": 35,
+   "CB": 10,
+   "CB+": 16,
+   "CC": 8,
+   "CC+": 9,
+   "DC": 7,
+   "DC+": 6,
+   "DD": 2,
+   "FF": 5
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=271&yil=2026"
+ },
+ {
+  "code": "MAT 271",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 545,
@@ -4102,6 +4324,28 @@
    "VF": 23
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=271&yil=2024"
+ },
+ {
+  "code": "MAT 271E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 252,
+  "grades": {
+   "AA": 87,
+   "BA": 20,
+   "BA+": 18,
+   "BB": 29,
+   "BB+": 35,
+   "CB": 10,
+   "CB+": 16,
+   "CC": 8,
+   "CC+": 9,
+   "DC": 7,
+   "DC+": 6,
+   "DD": 2,
+   "FF": 5
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=271&yil=2026"
  },
  {
   "code": "MAT 271E",
@@ -7052,7 +7296,7 @@
   "grades": {
    "AA": 73,
    "BA": 2,
-   "FF": 4
+   "FF": 2
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=4902&yil=2026"
  },
@@ -7120,7 +7364,7 @@
   "grades": {
    "AA": 73,
    "BA": 2,
-   "FF": 4
+   "FF": 2
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=MAT&dersNo=4902&yil=2026"
  },

@@ -53,6 +53,20 @@
  },
  {
   "code": "BIO 105E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 13,
+  "grades": {
+   "AA": 6,
+   "BA": 1,
+   "BA+": 3,
+   "BB+": 2,
+   "FF": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BIO&dersNo=105&yil=2026"
+ },
+ {
+  "code": "BIO 105E",
   "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
   "total": 90,
@@ -870,6 +884,25 @@
    "FF": 32
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BIO&dersNo=232&yil=2024"
+ },
+ {
+  "code": "BIO 301E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 62,
+  "grades": {
+   "AA": 22,
+   "BA": 7,
+   "BA+": 17,
+   "BB+": 2,
+   "CB": 3,
+   "CB+": 5,
+   "CC": 1,
+   "CC+": 2,
+   "DC+": 1,
+   "FF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BIO&dersNo=301&yil=2026"
  },
  {
   "code": "BIO 301E",

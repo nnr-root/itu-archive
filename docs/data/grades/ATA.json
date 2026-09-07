@@ -374,6 +374,18 @@
  },
  {
   "code": "ATA 121",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 226,
+  "grades": {
+   "BL": 190,
+   "BZ": 16,
+   "VF": 20
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ATA&dersNo=121&yil=2026"
+ },
+ {
+  "code": "ATA 121",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 1568,
@@ -470,6 +482,18 @@
  },
  {
   "code": "ATA 121E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 226,
+  "grades": {
+   "BL": 190,
+   "BZ": 16,
+   "VF": 20
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ATA&dersNo=121&yil=2026"
+ },
+ {
+  "code": "ATA 121E",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 1568,
@@ -563,6 +587,18 @@
    "VF": 537
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ATA&dersNo=121&yil=2024"
+ },
+ {
+  "code": "ATA 122",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 234,
+  "grades": {
+   "BL": 200,
+   "BZ": 13,
+   "VF": 21
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ATA&dersNo=122&yil=2026"
  },
  {
   "code": "ATA 122",
@@ -659,6 +695,18 @@
    "VF": 194
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ATA&dersNo=122&yil=2024"
+ },
+ {
+  "code": "ATA 122E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 234,
+  "grades": {
+   "BL": 200,
+   "BZ": 13,
+   "VF": 21
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ATA&dersNo=122&yil=2026"
  },
  {
   "code": "ATA 122E",

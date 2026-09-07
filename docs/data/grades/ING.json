@@ -1,6 +1,27 @@
 [
  {
   "code": "ING 100",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 65,
+  "grades": {
+   "AA": 20,
+   "BA": 4,
+   "BA+": 3,
+   "BB": 1,
+   "BB+": 9,
+   "CB": 2,
+   "CB+": 8,
+   "CC": 1,
+   "CC+": 2,
+   "DC+": 1,
+   "DD": 1,
+   "FF": 13
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ING&dersNo=100&yil=2026"
+ },
+ {
+  "code": "ING 100",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 1115,

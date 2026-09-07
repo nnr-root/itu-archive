@@ -1,6 +1,29 @@
 [
  {
   "code": "BIL 100E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 275,
+  "grades": {
+   "AA": 28,
+   "BA": 61,
+   "BA+": 43,
+   "BB": 26,
+   "BB+": 43,
+   "CB": 15,
+   "CB+": 17,
+   "CC": 4,
+   "CC+": 8,
+   "DC": 7,
+   "DC+": 5,
+   "DD": 6,
+   "DD+": 6,
+   "FF": 6
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BIL&dersNo=100&yil=2026"
+ },
+ {
+  "code": "BIL 100E",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 1029,
@@ -521,6 +544,28 @@
    "VF": 6
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BIL&dersNo=112&yil=2024"
+ },
+ {
+  "code": "BIL 113E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 102,
+  "grades": {
+   "AA": 1,
+   "BA": 6,
+   "BA+": 6,
+   "BB": 10,
+   "BB+": 12,
+   "CB": 14,
+   "CB+": 13,
+   "CC+": 17,
+   "DC": 2,
+   "DC+": 4,
+   "DD": 1,
+   "DD+": 4,
+   "FF": 12
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BIL&dersNo=113&yil=2026"
  },
  {
   "code": "BIL 113E",

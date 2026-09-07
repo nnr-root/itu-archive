@@ -70,6 +70,29 @@
  },
  {
   "code": "GEO 103",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 31,
+  "grades": {
+   "AA": 1,
+   "BA": 2,
+   "BA+": 2,
+   "BB": 2,
+   "BB+": 2,
+   "CB": 1,
+   "CB+": 5,
+   "CC": 1,
+   "CC+": 6,
+   "DC": 1,
+   "DC+": 1,
+   "DD+": 2,
+   "FF": 3,
+   "VF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=103&yil=2026"
+ },
+ {
+  "code": "GEO 103",
   "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
   "total": 143,
@@ -169,6 +192,29 @@
    "VF": 10
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=103&yil=2024"
+ },
+ {
+  "code": "GEO 103E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 31,
+  "grades": {
+   "AA": 1,
+   "BA": 2,
+   "BA+": 2,
+   "BB": 2,
+   "BB+": 2,
+   "CB": 1,
+   "CB+": 5,
+   "CC": 1,
+   "CC+": 6,
+   "DC": 1,
+   "DC+": 1,
+   "DD+": 2,
+   "FF": 3,
+   "VF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=103&yil=2026"
  },
  {
   "code": "GEO 103E",
@@ -944,6 +990,27 @@
  },
  {
   "code": "GEO 203",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 29,
+  "grades": {
+   "AA": 8,
+   "BA": 2,
+   "BA+": 4,
+   "BB": 2,
+   "BB+": 1,
+   "CB": 2,
+   "CC+": 3,
+   "DC": 2,
+   "DC+": 1,
+   "DD": 1,
+   "FF": 1,
+   "VF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=203&yil=2026"
+ },
+ {
+  "code": "GEO 203",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 71,
@@ -1088,6 +1155,27 @@
    "VF": 13
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=203&yil=2024"
+ },
+ {
+  "code": "GEO 203E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 29,
+  "grades": {
+   "AA": 8,
+   "BA": 2,
+   "BA+": 4,
+   "BB": 2,
+   "BB+": 1,
+   "CB": 2,
+   "CC+": 3,
+   "DC": 2,
+   "DC+": 1,
+   "DD": 1,
+   "FF": 1,
+   "VF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=203&yil=2026"
  },
  {
   "code": "GEO 203E",
@@ -2124,6 +2212,30 @@
  },
  {
   "code": "GEO 212",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 59,
+  "grades": {
+   "AA": 2,
+   "BA": 1,
+   "BA+": 2,
+   "BB": 7,
+   "BB+": 2,
+   "CB": 4,
+   "CB+": 3,
+   "CC": 5,
+   "CC+": 4,
+   "DC": 5,
+   "DC+": 6,
+   "DD": 3,
+   "DD+": 1,
+   "FF": 6,
+   "VF": 8
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=212&yil=2026"
+ },
+ {
+  "code": "GEO 212",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 104,
@@ -2239,6 +2351,30 @@
    "VF": 38
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=212&yil=2024"
+ },
+ {
+  "code": "GEO 212E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 59,
+  "grades": {
+   "AA": 2,
+   "BA": 1,
+   "BA+": 2,
+   "BB": 7,
+   "BB+": 2,
+   "CB": 4,
+   "CB+": 3,
+   "CC": 5,
+   "CC+": 4,
+   "DC": 5,
+   "DC+": 6,
+   "DD": 3,
+   "DD+": 1,
+   "FF": 6,
+   "VF": 8
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=212&yil=2026"
  },
  {
   "code": "GEO 212E",
@@ -2492,6 +2628,18 @@
  },
  {
   "code": "GEO 216",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 21,
+  "grades": {
+   "AA": 13,
+   "BA+": 7,
+   "VF": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=216&yil=2026"
+ },
+ {
+  "code": "GEO 216",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 53,
@@ -2577,6 +2725,18 @@
  },
  {
   "code": "GEO 216E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 21,
+  "grades": {
+   "AA": 13,
+   "BA+": 7,
+   "VF": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=216&yil=2026"
+ },
+ {
+  "code": "GEO 216E",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 53,
@@ -2659,6 +2819,29 @@
    "VF": 20
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=216&yil=2024"
+ },
+ {
+  "code": "GEO 220",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 49,
+  "grades": {
+   "AA": 3,
+   "BA": 3,
+   "BA+": 4,
+   "BB": 5,
+   "BB+": 6,
+   "CB": 6,
+   "CB+": 2,
+   "CC": 4,
+   "CC+": 2,
+   "DC+": 2,
+   "DD": 3,
+   "DD+": 1,
+   "FF": 4,
+   "VF": 4
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=220&yil=2026"
  },
  {
   "code": "GEO 220",
@@ -2772,6 +2955,29 @@
    "VF": 8
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=220&yil=2024"
+ },
+ {
+  "code": "GEO 220E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 49,
+  "grades": {
+   "AA": 3,
+   "BA": 3,
+   "BA+": 4,
+   "BB": 5,
+   "BB+": 6,
+   "CB": 6,
+   "CB+": 2,
+   "CC": 4,
+   "CC+": 2,
+   "DC+": 2,
+   "DD": 3,
+   "DD+": 1,
+   "FF": 4,
+   "VF": 4
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=220&yil=2026"
  },
  {
   "code": "GEO 220E",
@@ -2957,6 +3163,24 @@
    "VF": 6
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=221&yil=2024"
+ },
+ {
+  "code": "GEO 225E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 22,
+  "grades": {
+   "AA": 2,
+   "BB": 3,
+   "CB": 1,
+   "CC": 2,
+   "CC+": 4,
+   "DC": 1,
+   "DC+": 2,
+   "FF": 5,
+   "VF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=225&yil=2026"
  },
  {
   "code": "GEO 225E",
@@ -3373,6 +3597,27 @@
  },
  {
   "code": "GEO 303",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 33,
+  "grades": {
+   "AA": 1,
+   "BA": 1,
+   "BA+": 1,
+   "BB": 1,
+   "BB+": 1,
+   "CB": 3,
+   "CB+": 3,
+   "CC": 5,
+   "CC+": 5,
+   "DC+": 7,
+   "FF": 1,
+   "VF": 4
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=303&yil=2026"
+ },
+ {
+  "code": "GEO 303",
   "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
   "total": 144,
@@ -3458,6 +3703,27 @@
    "VF": 2
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=303&yil=2024"
+ },
+ {
+  "code": "GEO 303E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 33,
+  "grades": {
+   "AA": 1,
+   "BA": 1,
+   "BA+": 1,
+   "BB": 1,
+   "BB+": 1,
+   "CB": 3,
+   "CB+": 3,
+   "CC": 5,
+   "CC+": 5,
+   "DC+": 7,
+   "FF": 1,
+   "VF": 4
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=303&yil=2026"
  },
  {
   "code": "GEO 303E",
@@ -7223,6 +7489,27 @@
  },
  {
   "code": "GEO 476",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 29,
+  "grades": {
+   "AA": 2,
+   "BA": 5,
+   "BA+": 2,
+   "BB": 3,
+   "BB+": 3,
+   "CB+": 3,
+   "CC": 3,
+   "CC+": 3,
+   "DC": 1,
+   "DC+": 1,
+   "DD+": 1,
+   "VF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=476&yil=2026"
+ },
+ {
+  "code": "GEO 476",
   "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
   "total": 17,
@@ -7309,6 +7596,27 @@
    "VF": 1
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=476&yil=2024"
+ },
+ {
+  "code": "GEO 476E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 29,
+  "grades": {
+   "AA": 2,
+   "BA": 5,
+   "BA+": 2,
+   "BB": 3,
+   "BB+": 3,
+   "CB+": 3,
+   "CC": 3,
+   "CC+": 3,
+   "DC": 1,
+   "DC+": 1,
+   "DD+": 1,
+   "VF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=GEO&dersNo=476&yil=2026"
  },
  {
   "code": "GEO 476E",

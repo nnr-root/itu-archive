@@ -467,6 +467,29 @@
  },
  {
   "code": "EHB 222",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 72,
+  "grades": {
+   "AA": 2,
+   "BA": 3,
+   "BA+": 1,
+   "BB": 1,
+   "CB": 3,
+   "CB+": 4,
+   "CC": 4,
+   "CC+": 2,
+   "DC": 3,
+   "DC+": 1,
+   "DD": 2,
+   "DD+": 6,
+   "FF": 7,
+   "VF": 33
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EHB&dersNo=222&yil=2026"
+ },
+ {
+  "code": "EHB 222",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 65,
@@ -476,10 +499,10 @@
    "BB": 2,
    "BB+": 1,
    "CB": 1,
-   "CC": 1,
+   "CC": 2,
    "CC+": 2,
    "DC": 1,
-   "DC+": 2,
+   "DC+": 1,
    "DD": 8,
    "DD+": 3,
    "FF": 4,
@@ -629,6 +652,29 @@
  },
  {
   "code": "EHB 222E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 72,
+  "grades": {
+   "AA": 2,
+   "BA": 3,
+   "BA+": 1,
+   "BB": 1,
+   "CB": 3,
+   "CB+": 4,
+   "CC": 4,
+   "CC+": 2,
+   "DC": 3,
+   "DC+": 1,
+   "DD": 2,
+   "DD+": 6,
+   "FF": 7,
+   "VF": 33
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EHB&dersNo=222&yil=2026"
+ },
+ {
+  "code": "EHB 222E",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 65,
@@ -638,10 +684,10 @@
    "BB": 2,
    "BB+": 1,
    "CB": 1,
-   "CC": 1,
+   "CC": 2,
    "CC+": 2,
    "DC": 1,
-   "DC+": 2,
+   "DC+": 1,
    "DD": 8,
    "DD+": 3,
    "FF": 4,
@@ -1674,7 +1720,7 @@
  },
  {
   "code": "EHB 322",
-  "term": "2025-2026 Bahar Dönemi",
+  "term": "2025-2026 Spring Semester",
   "donem": "202620",
   "total": 217,
   "grades": {
@@ -1698,7 +1744,7 @@
  },
  {
   "code": "EHB 322",
-  "term": "2025-2026 Güz Dönemi",
+  "term": "2025-2026 Fall Semester",
   "donem": "202610",
   "total": 15,
   "grades": {
@@ -1710,7 +1756,7 @@
  },
  {
   "code": "EHB 322",
-  "term": "2024-2025 Bahar Dönemi",
+  "term": "2024-2025 Spring Semester",
   "donem": "202520",
   "total": 217,
   "grades": {
@@ -1734,7 +1780,7 @@
  },
  {
   "code": "EHB 322",
-  "term": "2023-2024 Bahar Dönemi",
+  "term": "2023-2024 Spring Semester",
   "donem": "202420",
   "total": 254,
   "grades": {
@@ -1758,7 +1804,7 @@
  },
  {
   "code": "EHB 322E",
-  "term": "2025-2026 Bahar Dönemi",
+  "term": "2025-2026 Spring Semester",
   "donem": "202620",
   "total": 217,
   "grades": {
@@ -1782,7 +1828,7 @@
  },
  {
   "code": "EHB 322E",
-  "term": "2025-2026 Güz Dönemi",
+  "term": "2025-2026 Fall Semester",
   "donem": "202610",
   "total": 15,
   "grades": {
@@ -1794,7 +1840,7 @@
  },
  {
   "code": "EHB 322E",
-  "term": "2024-2025 Bahar Dönemi",
+  "term": "2024-2025 Spring Semester",
   "donem": "202520",
   "total": 217,
   "grades": {
@@ -1818,7 +1864,7 @@
  },
  {
   "code": "EHB 322E",
-  "term": "2023-2024 Bahar Dönemi",
+  "term": "2023-2024 Spring Semester",
   "donem": "202420",
   "total": 254,
   "grades": {
@@ -1980,7 +2026,7 @@
  },
  {
   "code": "EHB 326E",
-  "term": "2025-2026 Güz Dönemi",
+  "term": "2025-2026 Fall Semester",
   "donem": "202610",
   "total": 57,
   "grades": {
@@ -1994,7 +2040,7 @@
  },
  {
   "code": "EHB 326E",
-  "term": "2024-2025 Güz Dönemi",
+  "term": "2024-2025 Fall Semester",
   "donem": "202510",
   "total": 58,
   "grades": {
@@ -2017,7 +2063,7 @@
  },
  {
   "code": "EHB 326E",
-  "term": "2023-2024 Güz Dönemi",
+  "term": "2023-2024 Fall Semester",
   "donem": "202410",
   "total": 69,
   "grades": {
@@ -2290,6 +2336,29 @@
  },
  {
   "code": "EHB 335",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 54,
+  "grades": {
+   "AA": 4,
+   "BA": 3,
+   "BA+": 4,
+   "BB": 3,
+   "BB+": 2,
+   "CB": 3,
+   "CB+": 1,
+   "CC": 7,
+   "CC+": 4,
+   "DC": 4,
+   "DC+": 6,
+   "DD": 2,
+   "DD+": 5,
+   "FF": 6
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EHB&dersNo=335&yil=2026"
+ },
+ {
+  "code": "EHB 335",
   "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
   "total": 107,
@@ -2405,6 +2474,29 @@
    "VF": 103
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EHB&dersNo=335&yil=2024"
+ },
+ {
+  "code": "EHB 335E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 54,
+  "grades": {
+   "AA": 4,
+   "BA": 3,
+   "BA+": 4,
+   "BB": 3,
+   "BB+": 2,
+   "CB": 3,
+   "CB+": 1,
+   "CC": 7,
+   "CC+": 4,
+   "DC": 4,
+   "DC+": 6,
+   "DD": 2,
+   "DD+": 5,
+   "FF": 6
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EHB&dersNo=335&yil=2026"
  },
  {
   "code": "EHB 335E",
@@ -2710,7 +2802,7 @@
  },
  {
   "code": "EHB 362",
-  "term": "2025-2026 Bahar Dönemi",
+  "term": "2025-2026 Spring Semester",
   "donem": "202620",
   "total": 229,
   "grades": {
@@ -2733,7 +2825,7 @@
  },
  {
   "code": "EHB 362",
-  "term": "2024-2025 Bahar Dönemi",
+  "term": "2024-2025 Spring Semester",
   "donem": "202520",
   "total": 204,
   "grades": {
@@ -2756,7 +2848,7 @@
  },
  {
   "code": "EHB 362",
-  "term": "2023-2024 Bahar Dönemi",
+  "term": "2023-2024 Spring Semester",
   "donem": "202420",
   "total": 185,
   "grades": {
@@ -2779,7 +2871,7 @@
  },
  {
   "code": "EHB 362E",
-  "term": "2025-2026 Bahar Dönemi",
+  "term": "2025-2026 Spring Semester",
   "donem": "202620",
   "total": 229,
   "grades": {
@@ -2802,7 +2894,7 @@
  },
  {
   "code": "EHB 362E",
-  "term": "2024-2025 Bahar Dönemi",
+  "term": "2024-2025 Spring Semester",
   "donem": "202520",
   "total": 204,
   "grades": {
@@ -2825,7 +2917,7 @@
  },
  {
   "code": "EHB 362E",
-  "term": "2023-2024 Bahar Dönemi",
+  "term": "2023-2024 Spring Semester",
   "donem": "202420",
   "total": 185,
   "grades": {
@@ -5098,70 +5190,6 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EHB&dersNo=465&yil=2024"
  },
  {
-  "code": "EHB 466",
-  "term": "2025-2026 Bahar Dönemi",
-  "donem": "202620",
-  "total": 28,
-  "grades": {
-   "AA": 1,
-   "BA": 7,
-   "BA+": 2,
-   "BB": 5,
-   "BB+": 9,
-   "CB": 3,
-   "VF": 1
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EHB&dersNo=466&yil=2026"
- },
- {
-  "code": "EHB 466",
-  "term": "2024-2025 Bahar Dönemi",
-  "donem": "202520",
-  "total": 16,
-  "grades": {
-   "AA": 3,
-   "BA": 2,
-   "BB": 5,
-   "BB+": 2,
-   "CB": 1,
-   "CB+": 2,
-   "VF": 1
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EHB&dersNo=466&yil=2025"
- },
- {
-  "code": "EHB 466E",
-  "term": "2025-2026 Bahar Dönemi",
-  "donem": "202620",
-  "total": 28,
-  "grades": {
-   "AA": 1,
-   "BA": 7,
-   "BA+": 2,
-   "BB": 5,
-   "BB+": 9,
-   "CB": 3,
-   "VF": 1
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EHB&dersNo=466&yil=2026"
- },
- {
-  "code": "EHB 466E",
-  "term": "2024-2025 Bahar Dönemi",
-  "donem": "202520",
-  "total": 16,
-  "grades": {
-   "AA": 3,
-   "BA": 2,
-   "BB": 5,
-   "BB+": 2,
-   "CB": 1,
-   "CB+": 2,
-   "VF": 1
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EHB&dersNo=466&yil=2025"
- },
- {
   "code": "EHB 467",
   "term": "2024-2025 Bahar Dönemi",
   "donem": "202520",
@@ -5192,6 +5220,70 @@
    "FF": 1
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EHB&dersNo=467&yil=2025"
+ },
+ {
+  "code": "EHB 466",
+  "term": "2025-2026 Bahar Dönemi",
+  "donem": "202620",
+  "total": 28,
+  "grades": {
+   "AA": 1,
+   "BA": 7,
+   "BA+": 2,
+   "BB": 5,
+   "BB+": 9,
+   "CB": 3,
+   "VF": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EHB&dersNo=466&yil=2026"
+ },
+ {
+  "code": "EHB 466",
+  "term": "2024-2025 Bahar Dönemi",
+  "donem": "202520",
+  "total": 16,
+  "grades": {
+   "AA": 3,
+   "BA": 2,
+   "BB": 5,
+   "BB+": 2,
+   "CB": 1,
+   "CB+": 2,
+   "VF": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EHB&dersNo=466&yil=2025"
+ },
+ {
+  "code": "EHB 466E",
+  "term": "2025-2026 Bahar Dönemi",
+  "donem": "202620",
+  "total": 28,
+  "grades": {
+   "AA": 1,
+   "BA": 7,
+   "BA+": 2,
+   "BB": 5,
+   "BB+": 9,
+   "CB": 3,
+   "VF": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EHB&dersNo=466&yil=2026"
+ },
+ {
+  "code": "EHB 466E",
+  "term": "2024-2025 Bahar Dönemi",
+  "donem": "202520",
+  "total": 16,
+  "grades": {
+   "AA": 3,
+   "BA": 2,
+   "BB": 5,
+   "BB+": 2,
+   "CB": 1,
+   "CB+": 2,
+   "VF": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=EHB&dersNo=466&yil=2025"
  },
  {
   "code": "EHB 473",
@@ -5249,7 +5341,7 @@
  },
  {
   "code": "EHB 474E",
-  "term": "2025-2026 Bahar Dönemi",
+  "term": "2025-2026 Spring Semester",
   "donem": "202620",
   "total": 92,
   "grades": {
@@ -5270,7 +5362,7 @@
  },
  {
   "code": "EHB 474E",
-  "term": "2025-2026 Güz Dönemi",
+  "term": "2025-2026 Fall Semester",
   "donem": "202610",
   "total": 65,
   "grades": {

@@ -1,6 +1,30 @@
 [
  {
   "code": "FIZ 101",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 693,
+  "grades": {
+   "AA": 80,
+   "BA": 39,
+   "BA+": 28,
+   "BB": 42,
+   "BB+": 27,
+   "CB": 54,
+   "CB+": 35,
+   "CC": 43,
+   "CC+": 54,
+   "DC": 43,
+   "DC+": 45,
+   "DD": 43,
+   "DD+": 38,
+   "FF": 71,
+   "VF": 51
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=FIZ&dersNo=101&yil=2026"
+ },
+ {
+  "code": "FIZ 101",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 1200,
@@ -193,6 +217,30 @@
  },
  {
   "code": "FIZ 101E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 693,
+  "grades": {
+   "AA": 80,
+   "BA": 39,
+   "BA+": 28,
+   "BB": 42,
+   "BB+": 27,
+   "CB": 54,
+   "CB+": 35,
+   "CC": 43,
+   "CC+": 54,
+   "DC": 43,
+   "DC+": 45,
+   "DD": 43,
+   "DD+": 38,
+   "FF": 71,
+   "VF": 51
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=FIZ&dersNo=101&yil=2026"
+ },
+ {
+  "code": "FIZ 101E",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 1200,
@@ -382,6 +430,30 @@
    "VF": 340
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=FIZ&dersNo=101&yil=2024"
+ },
+ {
+  "code": "FIZ 101EL",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 693,
+  "grades": {
+   "AA": 80,
+   "BA": 39,
+   "BA+": 28,
+   "BB": 42,
+   "BB+": 27,
+   "CB": 54,
+   "CB+": 35,
+   "CC": 43,
+   "CC+": 54,
+   "DC": 43,
+   "DC+": 45,
+   "DD": 43,
+   "DD+": 38,
+   "FF": 71,
+   "VF": 51
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=FIZ&dersNo=101&yil=2026"
  },
  {
   "code": "FIZ 101EL",
@@ -577,6 +649,30 @@
  },
  {
   "code": "FIZ 102E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 975,
+  "grades": {
+   "AA": 46,
+   "BA": 30,
+   "BA+": 20,
+   "BB": 36,
+   "BB+": 23,
+   "CB": 38,
+   "CB+": 38,
+   "CC": 58,
+   "CC+": 44,
+   "DC": 66,
+   "DC+": 50,
+   "DD": 78,
+   "DD+": 57,
+   "FF": 289,
+   "VF": 102
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=FIZ&dersNo=102&yil=2026"
+ },
+ {
+  "code": "FIZ 102E",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 2689,
@@ -593,8 +689,8 @@
    "DC": 178,
    "DC+": 174,
    "DD": 84,
-   "DD+": 128,
-   "FF": 489,
+   "DD+": 129,
+   "FF": 488,
    "VF": 289
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=FIZ&dersNo=102&yil=2026"
@@ -4524,9 +4620,9 @@
    "CC+": 5,
    "DC": 2,
    "DC+": 2,
-   "DD": 2,
+   "DD": 3,
    "DD+": 3,
-   "FF": 4,
+   "FF": 3,
    "VF": 15
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=FIZ&dersNo=411&yil=2026"
@@ -4632,9 +4728,9 @@
    "CC+": 5,
    "DC": 2,
    "DC+": 2,
-   "DD": 2,
+   "DD": 3,
    "DD+": 3,
-   "FF": 4,
+   "FF": 3,
    "VF": 15
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=FIZ&dersNo=411&yil=2026"

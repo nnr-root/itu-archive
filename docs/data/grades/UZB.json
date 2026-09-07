@@ -656,7 +656,29 @@
  },
  {
   "code": "UZB 314E",
-  "term": "2025-2026 Bahar Dönemi",
+  "term": "2025-2026 Summer Semester",
+  "donem": "202630",
+  "total": 81,
+  "grades": {
+   "AA": 3,
+   "BA": 11,
+   "BA+": 7,
+   "BB": 10,
+   "BB+": 8,
+   "CB": 11,
+   "CB+": 7,
+   "CC": 6,
+   "CC+": 7,
+   "DC": 4,
+   "DC+": 1,
+   "DD+": 1,
+   "FF": 5
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=UZB&dersNo=314&yil=2026"
+ },
+ {
+  "code": "UZB 314E",
+  "term": "2025-2026 Spring Semester",
   "donem": "202620",
   "total": 149,
   "grades": {
@@ -680,7 +702,7 @@
  },
  {
   "code": "UZB 314E",
-  "term": "2024-2025 Yaz Dönemi",
+  "term": "2024-2025 Summer Semester",
   "donem": "202530",
   "total": 74,
   "grades": {
@@ -702,7 +724,7 @@
  },
  {
   "code": "UZB 314E",
-  "term": "2024-2025 Bahar Dönemi",
+  "term": "2024-2025 Spring Semester",
   "donem": "202520",
   "total": 216,
   "grades": {
@@ -726,7 +748,7 @@
  },
  {
   "code": "UZB 314E",
-  "term": "2023-2024 Bahar Dönemi",
+  "term": "2023-2024 Spring Semester",
   "donem": "202420",
   "total": 154,
   "grades": {
@@ -894,6 +916,26 @@
  },
  {
   "code": "UZB 337",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 28,
+  "grades": {
+   "AA": 1,
+   "BA": 2,
+   "BB": 2,
+   "BB+": 4,
+   "CB": 2,
+   "CB+": 3,
+   "CC": 1,
+   "CC+": 5,
+   "DC+": 1,
+   "DD": 3,
+   "FF": 4
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=UZB&dersNo=337&yil=2026"
+ },
+ {
+  "code": "UZB 337",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
   "total": 54,
@@ -1050,6 +1092,26 @@
    "VF": 5
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=UZB&dersNo=337&yil=2024"
+ },
+ {
+  "code": "UZB 337E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 28,
+  "grades": {
+   "AA": 1,
+   "BA": 2,
+   "BB": 2,
+   "BB+": 4,
+   "CB": 2,
+   "CB+": 3,
+   "CC": 1,
+   "CC+": 5,
+   "DC+": 1,
+   "DD": 3,
+   "FF": 4
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=UZB&dersNo=337&yil=2026"
  },
  {
   "code": "UZB 337E",
@@ -1236,6 +1298,26 @@
  },
  {
   "code": "UZB 352",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 26,
+  "grades": {
+   "AA": 1,
+   "BA": 3,
+   "BA+": 2,
+   "BB+": 3,
+   "CB": 5,
+   "CB+": 4,
+   "CC": 1,
+   "CC+": 3,
+   "DC": 1,
+   "DD": 1,
+   "FF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=UZB&dersNo=352&yil=2026"
+ },
+ {
+  "code": "UZB 352",
   "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
   "total": 124,
@@ -1302,6 +1384,26 @@
    "VF": 12
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=UZB&dersNo=352&yil=2024"
+ },
+ {
+  "code": "UZB 352E",
+  "term": "2025-2026 Yaz Dönemi",
+  "donem": "202630",
+  "total": 26,
+  "grades": {
+   "AA": 1,
+   "BA": 3,
+   "BA+": 2,
+   "BB+": 3,
+   "CB": 5,
+   "CB+": 4,
+   "CC": 1,
+   "CC+": 3,
+   "DC": 1,
+   "DD": 1,
+   "FF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=UZB&dersNo=352&yil=2026"
  },
  {
   "code": "UZB 352E",
@@ -1576,7 +1678,7 @@
  },
  {
   "code": "UZB 419E",
-  "term": "2025-2026 Fall Semester",
+  "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
   "total": 87,
   "grades": {
@@ -1598,7 +1700,7 @@
  },
  {
   "code": "UZB 419E",
-  "term": "2024-2025 Fall Semester",
+  "term": "2024-2025 Güz Dönemi",
   "donem": "202510",
   "total": 78,
   "grades": {
@@ -1970,6 +2072,19 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=UZB&dersNo=461&yil=2024"
  },
  {
+  "code": "UZB 479E",
+  "term": "2023-2024 Bahar Dönemi",
+  "donem": "202420",
+  "total": 42,
+  "grades": {
+   "AA": 21,
+   "BA": 5,
+   "BA+": 14,
+   "BB+": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=UZB&dersNo=479&yil=2024"
+ },
+ {
   "code": "UZB 487E",
   "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
@@ -2026,19 +2141,6 @@
    "VF": 1
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=UZB&dersNo=489&yil=2026"
- },
- {
-  "code": "UZB 479E",
-  "term": "2023-2024 Bahar Dönemi",
-  "donem": "202420",
-  "total": 42,
-  "grades": {
-   "AA": 21,
-   "BA": 5,
-   "BA+": 14,
-   "BB+": 2
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=UZB&dersNo=479&yil=2024"
  },
  {
   "code": "UZB 4901E",
