@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07T07:20:18Z",
+ "generatedAt": "2026-09-08T07:15:48Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -24162,7 +24162,7 @@
   },
   {
    "code": "MET 445E",
-   "name": "Yoğunluk Fonksiyonel Teorisine (DFT) Giriş ve Uygulamaları",
+   "name": "Introduction to Density Functional Theory (DFT) and Application",
    "branch": "MET",
    "requirement": "( MET 213 MIN. DD Veya MET 213E MIN. DD ) Ve ( MET 220 MIN. DD Veya MET 220E MIN. DD ) Ve ( MET 246 MIN. DD Veya MET 246E MIN. DD )"
   },
@@ -26070,6 +26070,12 @@
    "name": "Ürün Geliştirme Mühendisliğinde Teknik Risk Analizi, Araçlar ve Yöntemler",
    "branch": "MTH",
    "classReq": "60,00"
+  },
+  {
+   "code": "MTH 414E",
+   "name": "Fırlatma Aracı Tasarımına Giriş ve Endüstri Deneyimi",
+   "branch": "MTH",
+   "requirement": "( UZB 362 MIN. DD Veya UZB 362E MIN. DD )"
   },
   {
    "code": "MTM 112",
@@ -103083,6 +103089,14 @@
   {
    "from": "UZB 352E",
    "to": "UZB 461E"
+  },
+  {
+   "from": "UZB 362",
+   "to": "MTH 414E"
+  },
+  {
+   "from": "UZB 362E",
+   "to": "MTH 414E"
   },
   {
    "from": "UZB 411",

@@ -84030,22 +84030,6 @@
   ]
  ],
  [
-  "11992",
-  "DEN 340E",
-  "Hydrostatics of Marine Vehic.",
-  "DEN",
-  "Hakan Akyıldız",
-  "Çarşamba 11:30/13:29",
-  70,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "DEN_LS",
-   "DENE_LS"
-  ]
- ],
- [
   "11993",
   "DEN 340E",
   "Hydrostatics of Marine Vehic.",
@@ -84053,22 +84037,6 @@
   "Ömer Kemal Kınacı",
   "Çarşamba 11:30/13:29",
   70,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "DEN_LS",
-   "DENE_LS"
-  ]
- ],
- [
-  "11994",
-  "DEN 341E",
-  "Ship Theory",
-  "DEN",
-  "Hakan Akyıldız",
-  "Çarşamba 08:30/11:29",
-  20,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -84390,21 +84358,6 @@
   "Bireysel Proje",
   "DEN",
   "Ayhan Menteş",
-  "",
-  3,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "DEN_LS"
-  ]
- ],
- [
-  "12015",
-  "DEN 482",
-  "Bireysel Proje",
-  "DEN",
-  "Hakan Akyıldız",
   "",
   3,
   0,
@@ -90851,7 +90804,7 @@
   "ICM",
   "-",
   "Pazartesi 13:30/17:29 | Perşembe 13:30/17:29",
-  15,
+  0,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -91141,7 +91094,7 @@
   "ICM",
   "-",
   "Pazartesi 13:30/17:29 | Perşembe 13:30/17:29",
-  15,
+  0,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -91273,7 +91226,7 @@
   "ICM",
   "-",
   "Pazartesi 13:30/17:29 | Perşembe 13:30/17:29",
-  15,
+  0,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -99322,7 +99275,7 @@
   "UAH YET",
   "Yeterlik Aşaması",
   "UAH",
-  "İbrahim Akduman",
+  "Şinasi Kaya",
   "",
   200,
   0,
@@ -99335,7 +99288,7 @@
   "UAH YLT",
   "Tez Çalışması",
   "UAH",
-  "İbrahim Akduman",
+  "Şinasi Kaya",
   "",
   200,
   0,
@@ -99348,7 +99301,7 @@
   "UAH DRT",
   "Tez Çalışması",
   "UAH",
-  "İbrahim Akduman",
+  "Şinasi Kaya",
   "",
   200,
   0,
@@ -120061,7 +120014,7 @@
   "Construction Project",
   "MIM",
   "Tarık Serhat Bozkurt",
-  "Salı 13:30/17:29 | Cuma 14:00/17:59",
+  "Salı 13:30/17:29 | Cuma 08:30/12:29",
   14,
   0,
   "LS",
@@ -133929,7 +133882,7 @@
   "Technical Drawing",
   "RES",
   "Enise Pekgenç",
-  "Perşembe 09:30/12:29",
+  "Perşembe 13:30/16:29",
   60,
   0,
   "LS",
@@ -134031,6 +133984,61 @@
   [
    "ARC_LS"
   ]
+ ],
+ [
+  "15317",
+  "CAB 131",
+  "Keman I",
+  "CAB",
+  "Ahmet Hakan Şensoy",
+  "",
+  5,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CAB_LS",
+   "CEB_LS"
+  ]
+ ],
+ [
+  "15318",
+  "MIM 4011",
+  "Fotoğraf",
+  "MIM",
+  "Aras Neftçi",
+  "Salı 13:30/16:29",
+  25,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15319",
+  "MET 445E",
+  "Introduction to Density Functional Theory (DFT) and Application",
+  "MET",
+  "Cem Örnek",
+  "Çarşamba 09:00/11:59",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15320",
+  "MIM 4031E",
+  "Architect Sinan",
+  "MIM",
+  "-",
+  "Pazartesi 13:30/16:29",
+  25,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  []
  ],
  [
   "30003",
