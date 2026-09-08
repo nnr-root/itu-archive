@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-08T12:55:39Z",
+ "scrapedAt": "2026-09-08T17:58:00Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5107,
- "courses": 3594,
+ "sections": 5130,
+ "courses": 3616,
  "branches": [
   {
    "code": "ABM",
@@ -481,7 +481,7 @@
     "LS",
     "LU"
    ],
-   "sections": 72
+   "sections": 75
   },
   {
    "code": "GEO",
@@ -518,7 +518,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 65
+   "sections": 71
   },
   {
    "code": "GSB",
@@ -761,7 +761,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 35
+   "sections": 37
   },
   {
    "code": "KOM",
@@ -834,7 +834,7 @@
     "LS",
     "LU"
    ],
-   "sections": 122
+   "sections": 121
   },
   {
    "code": "MBA",
@@ -1046,7 +1046,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 45
+   "sections": 48
   },
   {
    "code": "MTS",
@@ -1060,7 +1060,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 4
+   "sections": 3
   },
   {
    "code": "MTZ",
@@ -1088,7 +1088,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 38
+   "sections": 40
   },
   {
    "code": "MYE",
@@ -1394,7 +1394,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 38
+   "sections": 39
   },
   {
    "code": "TKY",
@@ -1429,7 +1429,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 32
+   "sections": 38
   },
   {
    "code": "ULP",
@@ -1464,7 +1464,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 27
+   "sections": 29
   },
   {
    "code": "UZM",
@@ -1545,11 +1545,11 @@
   }
  ],
  "stats": {
-  "sections": 5107,
-  "courses": 3594,
+  "sections": 5130,
+  "courses": 3616,
   "branches": 216,
   "instructors": 1750,
-  "capacity": 250160,
+  "capacity": 250296,
   "enrolled": 0
  }
 }

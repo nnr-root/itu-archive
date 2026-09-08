@@ -15126,6 +15126,12 @@
   8
  ],
  [
+  "GEM 409E",
+  "Ship Vibration",
+  "GEM",
+  1
+ ],
+ [
   "GEM 410",
   "Hesaplamalı Akışkanlar Mek.",
   "GEM",
@@ -15276,10 +15282,22 @@
   11
  ],
  [
+  "GEM 445E",
+  "Marine Piping Systems",
+  "GEM",
+  1
+ ],
+ [
   "GEM 447E",
   "Vent & Air Cond Sys For Ships",
   "GEM",
   8
+ ],
+ [
+  "GEM 451E",
+  "Automatic Control of Ships",
+  "GEM",
+  1
  ],
  [
   "GEM 453E",
@@ -17367,7 +17385,7 @@
   "GMI 223",
   "Makine Elemanları",
   "GMI",
-  9
+  10
  ],
  [
   "GMI 223E",
@@ -17469,7 +17487,7 @@
   "GMI 255",
   "Gemi Elektrotekniği I",
   "GMI",
-  6
+  7
  ],
  [
   "GMI 255E",
@@ -17493,7 +17511,7 @@
   "GMI 261E",
   "Fluid Mechanics",
   "GMI",
-  16
+  17
  ],
  [
   "GMI 270E",
@@ -17829,7 +17847,7 @@
   "GMI 461",
   "Buhar & Gaz Türbinleri Operas.",
   "GMI",
-  7
+  8
  ],
  [
   "GMI 461E",
@@ -17925,7 +17943,7 @@
   "GMI 484E",
   "Engine Room Simulator (ERS) II",
   "GMI",
-  7
+  8
  ],
  [
   "GMI 485E",
@@ -26091,7 +26109,7 @@
   "KMP 294",
   "Armoni II",
   "KMP",
-  15
+  16
  ],
  [
   "KMP 301",
@@ -26241,7 +26259,7 @@
   "KMP 362",
   "Türk MzğndeFrmBlg.ve Çzmlme II",
   "KMP",
-  9
+  10
  ],
  [
   "KMP 362E",
@@ -29541,7 +29559,7 @@
   "MAT 386E",
   "Computational Data Science",
   "MAT",
-  5
+  4
  ],
  [
   "MAT 388E",
@@ -35109,7 +35127,7 @@
   "MTR 102",
   "Makam Teorisi II",
   "MTR",
-  11
+  12
  ],
  [
   "MTR 102E",
@@ -35133,7 +35151,7 @@
   "MTR 104",
   "Müzik Teorisi II",
   "MTR",
-  11
+  12
  ],
  [
   "MTR 104E",
@@ -35265,7 +35283,7 @@
   "MTR 204",
   "Müzik Teorisi IV",
   "MTR",
-  15
+  16
  ],
  [
   "MTR 204E",
@@ -35684,12 +35702,6 @@
  [
   "MTT 102E",
   "Advanced Linear Algebra",
-  "MTT",
-  1
- ],
- [
-  "MTT 201E",
-  "Graph Theory",
   "MTT",
   1
  ],
@@ -36753,7 +36765,7 @@
   "MUZ 342",
   "Seminer II",
   "MUZ",
-  8
+  9
  ],
  [
   "MUZ 342E",
@@ -37017,7 +37029,7 @@
   "MUZ 442",
   "Seminer IV",
   "MUZ",
-  14
+  15
  ],
  [
   "MUZ 442E",
@@ -44013,7 +44025,7 @@
   "THO 204",
   "Türk Halk Oyunları II",
   "THO",
-  11
+  12
  ],
  [
   "THO 205",
@@ -44859,7 +44871,7 @@
   "UCK 212",
   "Termodinamik",
   "UCK",
-  4
+  5
  ],
  [
   "UCK 212E",
@@ -44937,7 +44949,7 @@
   "UCK 337E",
   "Introduction to Optimization",
   "UCK",
-  7
+  8
  ],
  [
   "UCK 348E",
@@ -44979,7 +44991,7 @@
   "UCK 358E",
   "Int.to Artificial Intelligence",
   "UCK",
-  4
+  5
  ],
  [
   "UCK 360E",
@@ -44991,7 +45003,7 @@
   "UCK 361E",
   "Design of Machine Elements",
   "UCK",
-  12
+  13
  ],
  [
   "UCK 362E",
@@ -45075,7 +45087,7 @@
   "UCK 432",
   "Uçak Tasarımı",
   "UCK",
-  4
+  5
  ],
  [
   "UCK 432E",
@@ -45087,7 +45099,7 @@
   "UCK 435E",
   "Design of Aerospace Structures",
   "UCK",
-  3
+  4
  ],
  [
   "UCK 439E",
@@ -45699,7 +45711,7 @@
   "UZB 416E",
   "Spacecraft Systems Design II",
   "UZB",
-  4
+  5
  ],
  [
   "UZB 419E",
@@ -45783,7 +45795,7 @@
   "UZB 489E",
   "Electric Propulsion",
   "UZB",
-  4
+  5
  ],
  [
   "UZB 4901E",

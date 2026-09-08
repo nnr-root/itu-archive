@@ -59483,7 +59483,7 @@
   "SNT 103",
   "Desen",
   "SNT",
-  "Ömer Emre Yavuz",
+  "-",
   "Cuma 14:00/16:59",
   15,
   0,
@@ -108748,7 +108748,8 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "MAT_LS"
+   "MAT_LS",
+   "MTT_LS"
   ]
  ],
  [
@@ -108763,7 +108764,8 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "MAT_LS"
+   "MAT_LS",
+   "MTT_LS"
   ]
  ],
  [
@@ -109028,7 +109030,8 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "MAT_LS"
+   "MAT_LS",
+   "MTT_LS"
   ]
  ],
  [
@@ -109043,7 +109046,8 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "MAT_LS"
+   "MAT_LS",
+   "MTT_LS"
   ]
  ],
  [
@@ -109107,23 +109111,6 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "MAT_LS",
-   "MATE_LS"
-  ]
- ],
- [
-  "13792",
-  "MAT 386E",
-  "Computational Data Science",
-  "MAT",
-  "Burcu Tunga",
-  "Cuma 14:00/17:59",
-  24,
-  0,
-  "LS",
-  "Sanal (Çevrimiçi/Online)",
-  [
-   "MAT_LS",
    "MAT_LS",
    "MATE_LS"
   ]
@@ -109322,28 +109309,12 @@
   ]
  ],
  [
-  "13807",
-  "MTT 201E",
-  "Graph Theory",
-  "MTT",
-  "Burak Yıldıran Stodolsky",
-  "Pazartesi 08:30/11:29",
-  40,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "MAT_LS",
-   "MTT_LS"
-  ]
- ],
- [
   "13808",
   "MTT 305E",
   "Number Theory",
   "MTT",
   "Ergün Yaraneri",
-  "Salı 14:30/17:29",
+  "Pazartesi 17:30/20:29",
   40,
   0,
   "LS",
@@ -112335,7 +112306,8 @@
   "Fiziksel (Yüz yüze)",
   [
    "ECNE_LS",
-   "MAT_LS"
+   "MAT_LS",
+   "MTT_LS"
   ]
  ],
  [
@@ -127185,7 +127157,7 @@
   "MTH 106",
   "Calculus II",
   "MTH",
-  "Füsun Zengin",
+  "-",
   "Salı 08:30/11:29",
   30,
   0,
@@ -127200,7 +127172,7 @@
   "MTH 107",
   "Calculus I",
   "MTH",
-  "Burak Yıldıran Stodolsky",
+  "Füsun Zengin",
   "Pazartesi 14:30/17:29 | Salı 08:30/11:29",
   30,
   0,
@@ -132104,7 +132076,7 @@
   "Org.Mngt &Behavior in Maritime",
   "DFH",
   "Serdar Kum",
-  "Pazartesi 10:30/13:29",
+  "Pazartesi 11:30/13:29 | Pazartesi 18:30/19:29",
   30,
   0,
   "LS",
@@ -132433,7 +132405,7 @@
   "ISH 301E",
   "Fundamentals of Env.Sci & Eng.",
   "ISH",
-  "Serdar Doğruel",
+  "Serdar Doğruel , Elif Pehlivanoğlu",
   "Çarşamba 09:30/12:29",
   60,
   0,
@@ -134356,7 +134328,7 @@
   "Int.to Nav.Arch.&Mar.Eng.&Eth.",
   "NAE",
   "Cihad Delen",
-  "Pazartesi 10:30/12:29",
+  "Perşembe 15:30/17:29",
   50,
   0,
   "LS",
@@ -134371,8 +134343,8 @@
   "Dynamics",
   "DNK",
   "Oktay Eren Türeyen",
-  "",
-  0,
+  "Pazartesi 10:30/13:29",
+  50,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -134526,6 +134498,10 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "CHZ_LS",
+   "END_LS",
+   "GID_LS",
+   "ISL_LS",
    "JEF_LS",
    "MAD_LS"
   ]
@@ -135124,6 +135100,23 @@
   []
  ],
  [
+  "15347",
+  "KMP 294",
+  "Armoni II",
+  "KMP",
+  "Recep Gül",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CAB_LS",
+   "CEB_LS",
+   "MTR_LS"
+  ]
+ ],
+ [
   "15348",
   "UCK 353E",
   "Aerospace Materials",
@@ -135161,5 +135154,348 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   []
+ ],
+ [
+  "15351",
+  "UCK 432",
+  "Uçak Tasarımı",
+  "UCK",
+  "Tahir Soyugüzel",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15352",
+  "UCK 337E",
+  "Introduction to Optimization",
+  "UCK",
+  "Aydın Mısırlıoğlu",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15353",
+  "KMP 362",
+  "Türk MzğndeFrmBlg.ve Çzmlme II",
+  "KMP",
+  "Eray Cömert",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MUZ_LS"
+  ]
+ ],
+ [
+  "15354",
+  "MTR 102",
+  "Makam Teorisi II",
+  "MTR",
+  "Elif Ahıs Yunusoğlu",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTR_LS",
+   "MUZ_LS",
+   "MZT_LS",
+   "SES_LS"
+  ]
+ ],
+ [
+  "15355",
+  "UCK 435E",
+  "Design of Aerospace Structures",
+  "UCK",
+  "Zahit Mecitoğlu",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15356",
+  "MTR 104",
+  "Müzik Teorisi II",
+  "MTR",
+  "Ayşecan Olgun",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTR_LS",
+   "MUT_LS",
+   "MUZ_LS",
+   "MZT_LS",
+   "SES_LS"
+  ]
+ ],
+ [
+  "15357",
+  "MTR 204",
+  "Müzik Teorisi IV",
+  "MTR",
+  "Ufuk Biçak",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTR_LS",
+   "MUT_LS",
+   "MUZ_LS",
+   "MZT_LS",
+   "SES_LS"
+  ]
+ ],
+ [
+  "15358",
+  "MUZ 342",
+  "Seminer II",
+  "MUZ",
+  "Faruk Çalışkan",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MUZ_LS"
+  ]
+ ],
+ [
+  "15359",
+  "MUZ 442",
+  "Seminer IV",
+  "MUZ",
+  "Eylül Doğan",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MUZ_LS"
+  ]
+ ],
+ [
+  "15360",
+  "UCK 212",
+  "Termodinamik",
+  "UCK",
+  "Mete Budaklı",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15361",
+  "UCK 361E",
+  "Design of Machine Elements",
+  "UCK",
+  "Halit Süleyman Türkmen",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15362",
+  "UCK 358E",
+  "Int.to Artificial Intelligence",
+  "UCK",
+  "Barış Başpınar",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15363",
+  "UZB 416E",
+  "Spacecraft Systems Design II",
+  "UZB",
+  "Alim Rüstem Aslan",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15364",
+  "UZB 489E",
+  "Electric Propulsion",
+  "UZB",
+  "Bülent Tutkun",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15365",
+  "THO 204",
+  "Türk Halk Oyunları II",
+  "THO",
+  "Salim Sınar",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "THO_LS"
+  ]
+ ],
+ [
+  "15367",
+  "GMI 223",
+  "Makine Elemanları",
+  "GMI",
+  "Hakan Demirel",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15368",
+  "GMI 261E",
+  "Fluid Mechanics",
+  "GMI",
+  "Ata Bilgili",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15369",
+  "GMI 255",
+  "Gemi Elektrotekniği I",
+  "GMI",
+  "Tayfun Uyanık",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15370",
+  "GMI 461",
+  "Buhar & Gaz Türbinleri Operas.",
+  "GMI",
+  "Yalçın Durmuşoğlu",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15371",
+  "GMI 481E",
+  "Marine Insurance",
+  "GMI",
+  "-",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15372",
+  "GMI 484E",
+  "Engine Room Simulator (ERS) II",
+  "GMI",
+  "Samet Biçen",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15373",
+  "GEM 409E",
+  "Ship Vibration",
+  "GEM",
+  "Ahmet Ergin",
+  "Perşembe 13:30/16:29",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15374",
+  "GEM 445E",
+  "Marine Piping Systems",
+  "GEM",
+  "Osman Azmi Özsoysal",
+  "Pazartesi 10:30/12:29",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15375",
+  "GEM 451E",
+  "Automatic Control of Ships",
+  "GEM",
+  "Ali Sinan Çabuk",
+  "Çarşamba 13:30/15:29 | Çarşamba 17:30/18:29",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
  ]
 ]

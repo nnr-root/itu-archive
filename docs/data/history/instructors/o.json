@@ -500,7 +500,7 @@
     "2026-2027-guz",
     "DNK 201E",
     "Dynamics",
-    0,
+    50,
     0
    ],
    [
@@ -6273,6 +6273,13 @@
     "GEM 515",
     "Gem.Mak.Sist.Tas.\u0026Optimizasyon",
     30,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "GEM 445E",
+    "Marine Piping Systems",
+    50,
     0
    ],
    [
@@ -14068,19 +14075,6 @@
     "AFY YLT",
     "Tez Çalışması",
     200,
-    0
-   ]
-  ],
-  "terms": 1
- },
- "Ömer Emre Yavuz": {
-  "name": "Ömer Emre Yavuz",
-  "rows": [
-   [
-    "2026-2027-guz",
-    "SNT 103",
-    "Desen",
-    15,
     0
    ]
   ],
