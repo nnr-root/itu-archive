@@ -5284,11 +5284,11 @@
    "undeclared"
   ],
   "days": [
-   "Perşembe",
+   "Salı",
    "Cuma"
   ],
   "times": [
-   "08:30/11:29",
+   "09:30/12:29",
    "14:30/16:29"
   ],
   "rooms": [
@@ -5299,7 +5299,8 @@
   "enrolled": 0,
   "reserved": "-",
   "programs": [
-   "MAT_LS"
+   "MAT_LS",
+   "MTT_LS"
   ],
   "prereq": "Detay",
   "classReq": "-"
@@ -5332,7 +5333,8 @@
   "enrolled": 0,
   "reserved": "-",
   "programs": [
-   "MAT_LS"
+   "MAT_LS",
+   "MTT_LS"
   ],
   "prereq": "Detay",
   "classReq": "-"

@@ -5982,13 +5982,6 @@
    ],
    [
     "2026-2027-guz",
-    "DUY 504",
-    "Denizcilik Ticari İşletmecil.",
-    25,
-    5
-   ],
-   [
-    "2026-2027-guz",
     "MMD 328E",
     "Hazardous Material Transport.",
     30,
@@ -6608,24 +6601,17 @@
    ],
    [
     "2026-2027-guz",
-    "MBA 546E",
-    "Strategic Internet Marketing",
-    25,
-    15
+    "MBA 511E",
+    "Marketing Management",
+    35,
+    0
    ],
    [
     "2026-2027-guz",
-    "MBA 598E",
-    "Project",
-    10,
-    4
-   ],
-   [
-    "2026-2027-guz",
-    "SSI 518",
-    "Pazarlama Yönetimi",
-    10,
-    7
+    "MBA 511E",
+    "Marketing Management",
+    35,
+    0
    ],
    [
     "2026-2027-guz",
@@ -9727,10 +9713,10 @@
   "rows": [
    [
     "2026-2027-guz",
-    "IPY 599",
-    "Proje",
-    20,
-    3
+    "IPY 517",
+    "İnşaat Proje.İçin Yön.\u0026Organ.",
+    30,
+    0
    ],
    [
     "2026-2027-guz",
@@ -11032,10 +11018,10 @@
   "rows": [
    [
     "2026-2027-guz",
-    "HGP 599",
-    "Proje",
-    10,
-    5
+    "HGP 501",
+    "Araştırma Metotları",
+    35,
+    0
    ],
    [
     "2026-2027-guz",
@@ -17853,10 +17839,10 @@
   "rows": [
    [
     "2026-2027-guz",
-    "DUY 599",
-    "Denizcilik Dönem Projesi",
-    25,
-    3
+    "DUY 527",
+    "Teknik Gemi İşletmeciliği",
+    10,
+    0
    ],
    [
     "2026-2027-guz",
@@ -19210,6 +19196,13 @@
    ],
    [
     "2026-2027-guz",
+    "UCK 362E",
+    "Automatic Control",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
     "UUM 507E",
     "Linear Control Systems",
     60,
@@ -19596,20 +19589,6 @@
  "Emre Çevikcan": {
   "name": "Emre Çevikcan",
   "rows": [
-   [
-    "2026-2027-guz",
-    "CTT 599",
-    "Dönem Projesi",
-    25,
-    2
-   ],
-   [
-    "2026-2027-guz",
-    "CTT 515",
-    "Cephe Üretim Siste.Tas.\u0026Yön.",
-    25,
-    18
-   ],
    [
     "2026-2027-guz",
     "END 411E",
@@ -22589,6 +22568,13 @@
    ],
    [
     "2026-2027-guz",
+    "MUZ 322",
+    "Alan Araştırma Metodları",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
     "MZJ 596",
     "Bilimsel Araş.,Etik ve Seminer",
     20,
@@ -23848,6 +23834,13 @@
  "Erdem Yavuz": {
   "name": "Erdem Yavuz",
   "rows": [
+   [
+    "2026-2027-guz",
+    "KIM 422",
+    "Endüstriyel Kimya",
+    45,
+    0
+   ],
    [
     "2026-2027-guz",
     "KIM 526",
@@ -29275,6 +29268,13 @@
     0
    ],
    [
+    "2026-2027-guz",
+    "MHN 501E",
+    "Statistical Methods in Eng.",
+    40,
+    0
+   ],
+   [
     "2025-2026-bahar",
     "END 210E",
     "Linear Algebra for Indust.Eng.",
@@ -30353,7 +30353,7 @@
     "2026-2027-guz",
     "MEK 205",
     "Mühendislik Mekaniği",
-    50,
+    100,
     0
    ],
    [
@@ -30903,19 +30903,6 @@
     "Bitirme Çalışması",
     100,
     7
-   ]
-  ],
-  "terms": 1
- },
- "Erol Uzal": {
-  "name": "Erol Uzal",
-  "rows": [
-   [
-    "2026-2027-guz",
-    "ROT 504E",
-    "Rotorcraft CFD",
-    5,
-    3
    ]
   ],
   "terms": 1
@@ -33047,10 +33034,17 @@
    ],
    [
     "2026-2027-guz",
-    "IYB 599E",
-    "Project",
-    10,
-    3
+    "IYB 557E",
+    "Construction Project Managemen",
+    25,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "IYB 501E",
+    "Building Information Modeling",
+    25,
+    0
    ],
    [
     "2026-2027-guz",
@@ -34000,10 +33994,17 @@
    ],
    [
     "2026-2027-guz",
-    "ISG 599",
-    "Proje",
-    10,
-    1
+    "ISG 501",
+    "İş Sağlığı ve Güvenliğine Giriş",
+    20,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "IYB 551E",
+    "Managerial\u0026Engineering Economi",
+    25,
+    0
    ],
    [
     "2025-2026-bahar",

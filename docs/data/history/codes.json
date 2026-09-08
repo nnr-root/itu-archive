@@ -3645,7 +3645,7 @@
   "CAB 244",
   "Yrd.Çalgı Piyano IV",
   "CAB",
-  16
+  17
  ],
  [
   "CAB 245",
@@ -3693,7 +3693,7 @@
   "CAB 252",
   "Kanun IV",
   "CAB",
-  10
+  11
  ],
  [
   "CAB 253",
@@ -4257,7 +4257,7 @@
   "CAB 344",
   "Yrd.Çalgı Piyano VI",
   "CAB",
-  16
+  17
  ],
  [
   "CAB 345",
@@ -4305,7 +4305,7 @@
   "CAB 352",
   "Kanun VI",
   "CAB",
-  8
+  9
  ],
  [
   "CAB 353",
@@ -4863,13 +4863,13 @@
   "CAB 451",
   "Kanun VII",
   "CAB",
-  7
+  8
  ],
  [
   "CAB 452",
   "Kanun VIII",
   "CAB",
-  6
+  7
  ],
  [
   "CAB 453",
@@ -6075,7 +6075,7 @@
   "CEV 315E",
   "Urban Planning",
   "CEV",
-  7
+  8
  ],
  [
   "CEV 317E",
@@ -7428,26 +7428,26 @@
   1
  ],
  [
-  "CTT 509",
-  "Cephe Sistemlerinde Detay Tas.",
+  "CTT 501E",
+  "Facade Systems",
   "CTT",
   1
  ],
  [
-  "CTT 511",
-  "Cephe için Proje&Yapım Yönet.",
+  "CTT 502E",
+  "Structural Des.of Facade Sys.",
   "CTT",
   1
  ],
  [
-  "CTT 515",
-  "Cephe Üretim Siste.Tas.&Yön.",
+  "CTT 503E",
+  "Opaque&Transp.Facade Mater.",
   "CTT",
   1
  ],
  [
-  "CTT 599",
-  "Dönem Projesi",
+  "CTT 505",
+  "Cephe Tasarımı",
   "CTT",
   1
  ],
@@ -7476,8 +7476,32 @@
   3
  ],
  [
-  "DCZ 599",
-  "Proje",
+  "DCZ 506",
+  "Denizci.Sektör.Kariyer Plan.",
+  "DCZ",
+  1
+ ],
+ [
+  "DCZ 508",
+  "Denizci.Kalite Sist.&Stan.",
+  "DCZ",
+  1
+ ],
+ [
+  "DCZ 520",
+  "Denizci.Çalışma.Uyg.Proje Yön.",
+  "DCZ",
+  1
+ ],
+ [
+  "DCZ 521",
+  "Denizcil.Stra.İnsan Kayn.Yön.",
+  "DCZ",
+  1
+ ],
+ [
+  "DCZ 523",
+  "Denizcilik Sektörü ve Sürdürülebilir Kalkınma Politikaları",
   "DCZ",
   1
  ],
@@ -9288,38 +9312,32 @@
   1
  ],
  [
-  "DUY 501",
-  "Kiralama ve Brokerlik",
+  "DUY 505",
+  "Denizcil.Örgüts.Davra.& Lider.",
   "DUY",
   1
  ],
  [
-  "DUY 504",
-  "Denizcilik Ticari İşletmecil.",
+  "DUY 513",
+  "Denizcilik Çevre Yönetimi",
   "DUY",
   1
  ],
  [
-  "DUY 507",
-  "Denizcil.İnsan Kaynak.Yöne.",
+  "DUY 517",
+  "Liman ve Terminal Yönetimi",
   "DUY",
   1
  ],
  [
-  "DUY 514",
-  "Deniz Lojistiği",
+  "DUY 523",
+  "Denizcilikte Kalite Yönetimi",
   "DUY",
   1
  ],
  [
-  "DUY 515",
-  "Denizcilik Mevzuatı",
-  "DUY",
-  1
- ],
- [
-  "DUY 599",
-  "Denizcilik Dönem Projesi",
+  "DUY 527",
+  "Teknik Gemi İşletmeciliği",
   "DUY",
   1
  ],
@@ -18120,14 +18138,32 @@
   1
  ],
  [
-  "HGP 515",
-  "Moda ve Lüks Marka Yönetimi",
+  "HGP 501",
+  "Araştırma Metotları",
   "HGP",
   1
  ],
  [
-  "HGP 599",
-  "Proje",
+  "HGP 505",
+  "İşletme İktisadı",
+  "HGP",
+  1
+ ],
+ [
+  "HGP 507",
+  "Moda Yönetimi",
+  "HGP",
+  1
+ ],
+ [
+  "HGP 509",
+  "Tekstil&Hazır Giyim Üret.&Yön.",
+  "HGP",
+  1
+ ],
+ [
+  "HGP 521",
+  "Hazır Giyim Ticareti",
   "HGP",
   1
  ],
@@ -20868,32 +20904,32 @@
   2
  ],
  [
-  "IPY 511",
-  "İnşaat Pro.Yönet.Enfor.Tekno.",
+  "IPY 501",
+  "İnşaat Projeleri Yönetim.Giriş",
   "IPY",
   1
  ],
  [
-  "IPY 523",
-  "İnşaat Sözleşme İdaresi",
+  "IPY 506",
+  "İnşaat Proj.İhale Süreci&Söz.",
   "IPY",
   1
  ],
  [
-  "IPY 529",
-  "İnşaat Firmalar.Finan.Yönet.",
+  "IPY 512",
+  "Şantiye Yönetimi",
   "IPY",
   1
  ],
  [
-  "IPY 534",
-  "İnşaat proje.Yön.Özel Konular",
+  "IPY 513",
+  "İnşaat İşletmesi Hukuku",
   "IPY",
   1
  ],
  [
-  "IPY 599",
-  "Proje",
+  "IPY 517",
+  "İnşaat Proje.İçin Yön.&Organ.",
   "IPY",
   1
  ],
@@ -21000,32 +21036,26 @@
   8
  ],
  [
-  "ISG 502",
-  "İş Sağlığı ve Güven.Risk Yön.",
+  "ISG 501",
+  "İş Sağlığı ve Güvenliğine Giriş",
   "ISG",
   1
  ],
  [
-  "ISG 507",
-  "Ulusal İş Sağlığı ve Güvenliği Mevzuatı",
+  "ISG 503",
+  "İş Hukuku",
   "ISG",
   1
  ],
  [
-  "ISG 509",
-  "İşletme Hukuku",
+  "ISG 506",
+  "Uygulamalı Olasılık&İstatistik",
   "ISG",
   1
  ],
  [
-  "ISG 514",
-  "İnşaat İşlerinde İş Sağlığı ve Güvenliği",
-  "ISG",
-  1
- ],
- [
-  "ISG 599",
-  "Proje",
+  "ISG 512",
+  "İmalatta İş Güvenliği",
   "ISG",
   1
  ],
@@ -22020,110 +22050,26 @@
   1
  ],
  [
-  "ITY 511",
-  "İstatis.Düşünme&Veri Analiz.",
-  "ITY",
-  1
- ],
- [
-  "ITY 512",
-  "İşletmelerde Optimizasyon",
-  "ITY",
-  1
- ],
- [
-  "ITY 513",
-  "İşletme Ekonomisi",
-  "ITY",
-  1
- ],
- [
-  "ITY 516",
-  "Yönetim Bilişim Sistemleri",
-  "ITY",
-  1
- ],
- [
-  "ITY 518",
-  "Tedârik Zinciri Yönetimi",
-  "ITY",
-  1
- ],
- [
-  "ITY 529",
-  "İşletme&Teknol.Yön.Karar Ver.",
-  "ITY",
-  1
- ],
- [
-  "ITY 531",
-  "Yapay Zekâ ve Bilgi Yönetimi",
-  "ITY",
-  1
- ],
- [
-  "ITY 538",
-  "Stratejik Yönetim",
-  "ITY",
-  1
- ],
- [
-  "ITY 542",
-  "Satınalma Yönetimi",
-  "ITY",
-  1
- ],
- [
-  "ITY 544",
-  "Endüstri 4.0&Ekleme.İmal.Tek.",
-  "ITY",
-  1
- ],
- [
-  "ITY 545",
-  "Büyük Veri Teknolojileri&Uyg.",
-  "ITY",
-  1
- ],
- [
-  "ITY 549",
-  "Risk ve Belirsizlik Altında Yatırım Kararları",
-  "ITY",
-  1
- ],
- [
-  "ITY 550",
-  "Küresel Makroekonomik Analiz: Kalkınma ve Teknoloji",
-  "ITY",
-  1
- ],
- [
-  "ITY 599",
-  "Proje",
-  "ITY",
-  1
- ],
- [
-  "IYB 515E",
-  "Special Top.in Const.Manag.",
+  "IYB 501E",
+  "Building Information Modeling",
   "IYB",
   1
  ],
  [
-  "IYB 517E",
-  "Claim Manag.in Cons.Pro.",
+  "IYB 505E",
+  "Strategic Management in Const.",
   "IYB",
   1
  ],
  [
-  "IYB 561E",
-  "Business Process Mana.in Cons.",
+  "IYB 551E",
+  "Managerial&Engineering Economi",
   "IYB",
   1
  ],
  [
-  "IYB 599E",
-  "Project",
+  "IYB 557E",
+  "Construction Project Managemen",
   "IYB",
   1
  ],
@@ -26001,7 +25947,7 @@
   "KMP 114",
   "Klasik Armoni II",
   "KMP",
-  8
+  9
  ],
  [
   "KMP 115",
@@ -26061,7 +26007,7 @@
   "KMP 198",
   "Konturpuan-Füg II",
   "KMP",
-  13
+  14
  ],
  [
   "KMP 199",
@@ -26091,7 +26037,7 @@
   "KMP 204",
   "Türk Müziği Literatürü II",
   "KMP",
-  8
+  9
  ],
  [
   "KMP 205",
@@ -26157,7 +26103,7 @@
   "KMP 302",
   "Kompozisyon VI",
   "KMP",
-  8
+  9
  ],
  [
   "KMP 303",
@@ -26217,7 +26163,7 @@
   "KMP 312",
   "Türk Makam Müzğnde Kompzsyn",
   "KMP",
-  8
+  9
  ],
  [
   "KMP 3122",
@@ -29892,56 +29838,32 @@
   1
  ],
  [
-  "MBA 534E",
-  "Entrepreneurship",
+  "MBA 511E",
+  "Marketing Management",
   "MBA",
   1
  ],
  [
-  "MBA 537E",
-  "International Finance",
+  "MBA 513E",
+  "Business Economics",
   "MBA",
   1
  ],
  [
-  "MBA 539E",
-  "Investments",
+  "MBA 515E",
+  "Financial Accounting",
   "MBA",
   1
  ],
  [
-  "MBA 540E",
-  "Project Management",
+  "MBA 517E",
+  "Management Statistics",
   "MBA",
   1
  ],
  [
-  "MBA 546E",
-  "Strategic Internet Marketing",
-  "MBA",
-  1
- ],
- [
-  "MBA 549E",
-  "Business Forecasting",
-  "MBA",
-  1
- ],
- [
-  "MBA 565E",
-  "Econo.of Money&Finan.Mar.",
-  "MBA",
-  1
- ],
- [
-  "MBA 567E",
-  "Managerial Decision Making",
-  "MBA",
-  1
- ],
- [
-  "MBA 598E",
-  "Project",
+  "MBA 519E",
+  "Management&Organizations",
   "MBA",
   1
  ],
@@ -31068,32 +30990,32 @@
   1
  ],
  [
-  "MHN 510E",
-  "Technology Management",
+  "MHN 500E",
+  "Principles of Eng.Management",
   "MHN",
   1
  ],
  [
-  "MHN 518",
-  "Proje Yönetimi",
+  "MHN 501E",
+  "Statistical Methods in Eng.",
   "MHN",
   1
  ],
  [
-  "MHN 520E",
-  "Marketing Analytics",
+  "MHN 502E",
+  "Operations Research",
   "MHN",
   1
  ],
  [
-  "MHN 522E",
-  "Feasiblity Analysis",
+  "MHN 506",
+  "Üretim Yönetimi",
   "MHN",
   1
  ],
  [
-  "MHN 599",
-  "Dönem Projesi",
+  "MHN 515",
+  "İnsan Kaynak.&Perform.Yön.",
   "MHN",
   1
  ],
@@ -34215,11 +34137,17 @@
   "MTH 407",
   "Otomatik Hedef İzleme Temelleri",
   "MTH",
-  2
+  3
  ],
  [
   "MTH 408",
   "Uzay Radyasyon Ortamı ve Etkileri",
+  "MTH",
+  1
+ ],
+ [
+  "MTH 416",
+  "Görsel Veri Analizine Giriş",
   "MTH",
   1
  ],
@@ -35313,7 +35241,7 @@
   "MTR 202",
   "Makam Teorisi IV",
   "MTR",
-  16
+  17
  ],
  [
   "MTR 202E",
@@ -35451,7 +35379,7 @@
   "MTR 302",
   "İleri Makam Teorisi II",
   "MTR",
-  14
+  15
  ],
  [
   "MTR 303",
@@ -35547,7 +35475,7 @@
   "MTR 402",
   "İleri Makam Teorisi IV",
   "MTR",
-  11
+  12
  ],
  [
   "MTR 403",
@@ -35559,7 +35487,7 @@
   "MTR 404",
   "İleri Müzik Teorisi IV",
   "MTR",
-  15
+  16
  ],
  [
   "MTR 405",
@@ -35571,7 +35499,7 @@
   "MTR 406",
   "Dikte ve Deşifre II",
   "MTR",
-  15
+  16
  ],
  [
   "MTR 407",
@@ -35583,7 +35511,7 @@
   "MTR 408",
   "Eser Çözümleme II",
   "MTR",
-  11
+  12
  ],
  [
   "MTR 431",
@@ -36777,7 +36705,7 @@
   "MUZ 322",
   "Alan Araştırma Metodları",
   "MUZ",
-  12
+  13
  ],
  [
   "MUZ 322E",
@@ -36951,7 +36879,7 @@
   "MUZ 380",
   "Dini Müzik II",
   "MUZ",
-  10
+  11
  ],
  [
   "MUZ 390",
@@ -39582,32 +39510,20 @@
   1
  ],
  [
+  "ROT 501E",
+  "Engineering Mathematics",
+  "ROT",
+  1
+ ],
+ [
   "ROT 504E",
   "Rotorcraft CFD",
   "ROT",
   1
  ],
  [
-  "ROT 511E",
-  "Modal Testing",
-  "ROT",
-  1
- ],
- [
-  "ROT 512E",
-  "Avionic Systems",
-  "ROT",
-  1
- ],
- [
-  "ROT 513E",
-  "Rotorcraft Manufacturing",
-  "ROT",
-  1
- ],
- [
-  "ROT 591E",
-  "Term Project",
+  "ROT 507E",
+  "Structural Dynamics",
   "ROT",
   1
  ],
@@ -42420,36 +42336,6 @@
   1
  ],
  [
-  "SSI 510",
-  "İş Geliştirme ve Girişimcilik",
-  "SSI",
-  1
- ],
- [
-  "SSI 511",
-  "Pazarlama Analitiği ve Müşteri İlişkileri Yönetimi",
-  "SSI",
-  1
- ],
- [
-  "SSI 512",
-  "Tedarik Zinciri Yönetimi",
-  "SSI",
-  1
- ],
- [
-  "SSI 518",
-  "Pazarlama Yönetimi",
-  "SSI",
-  1
- ],
- [
-  "SSI 599",
-  "Proje",
-  "SSI",
-  1
- ],
- [
   "STA 201",
   "Statik",
   "STA",
@@ -45081,7 +44967,7 @@
   "UCK 353E",
   "Aerospace Materials",
   "UCK",
-  4
+  5
  ],
  [
   "UCK 354E",
@@ -45111,7 +44997,7 @@
   "UCK 362E",
   "Automatic Control",
   "UCK",
-  7
+  8
  ],
  [
   "UCK 363E",
@@ -45177,7 +45063,7 @@
   "UCK 424E",
   "Princip. of Aircraft Design II",
   "UCK",
-  6
+  7
  ],
  [
   "UCK 427E",
@@ -45237,7 +45123,7 @@
   "UCK 451E",
   "Principles of Aircraft Design",
   "UCK",
-  6
+  7
  ],
  [
   "UCK 457",
@@ -46065,66 +45951,6 @@
   "VBA 343E",
   "Recommender Systems",
   "VBA",
-  1
- ],
- [
-  "VIA 502E",
-  "Data Mining for Business",
-  "VIA",
-  1
- ],
- [
-  "VIA 504E",
-  "Big Data Technologies&Appli.",
-  "VIA",
-  1
- ],
- [
-  "VIA 506E",
-  "Optimization&Decision Modell.",
-  "VIA",
-  1
- ],
- [
-  "VIA 508E",
-  "Data Visualization and Commun.",
-  "VIA",
-  1
- ],
- [
-  "VIA 509E",
-  "Machine Learningwith Big Data",
-  "VIA",
-  1
- ],
- [
-  "VIA 511E",
-  "Time Series and Forecasting",
-  "VIA",
-  1
- ],
- [
-  "VIA 525E",
-  "Social Network Analy.for Bus.",
-  "VIA",
-  1
- ],
- [
-  "VIA 528E",
-  "Deep Learning for Business App",
-  "VIA",
-  1
- ],
- [
-  "VIA 529E",
-  "Reinforce.Lear.for Busi.App.",
-  "VIA",
-  1
- ],
- [
-  "VIA 599",
-  "Proje",
-  "VIA",
   1
  ],
  [

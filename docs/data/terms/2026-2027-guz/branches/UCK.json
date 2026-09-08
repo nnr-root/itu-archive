@@ -828,5 +828,89 @@
   ],
   "prereq": "Detay",
   "classReq": "-"
+ },
+ {
+  "crn": "15346",
+  "code": "UCK 424E",
+  "branch": "UCK",
+  "level": "LS",
+  "name": "Princip. of Aircraft Design II",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Tahir Soyugüzel",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15348",
+  "code": "UCK 353E",
+  "branch": "UCK",
+  "level": "LS",
+  "name": "Aerospace Materials",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Samet Çeri",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15349",
+  "code": "UCK 362E",
+  "branch": "UCK",
+  "level": "LS",
+  "name": "Automatic Control",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Emre Koyuncu",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15350",
+  "code": "UCK 451E",
+  "branch": "UCK",
+  "level": "LS",
+  "name": "Principles of Aircraft Design",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Tahir Soyugüzel",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
  }
 ]

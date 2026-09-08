@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-08T07:14:11Z",
+ "scrapedAt": "2026-09-08T12:55:39Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5166,
- "courses": 3598,
+ "sections": 5107,
+ "courses": 3594,
  "branches": [
   {
    "code": "ABM",
@@ -174,7 +174,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 170
+   "sections": 176
   },
   {
    "code": "CBM",
@@ -188,7 +188,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 50
+   "sections": 51
   },
   {
    "code": "CHE",
@@ -238,7 +238,7 @@
    "levels": [
     "LUI"
    ],
-   "sections": 11
+   "sections": 4
   },
   {
    "code": "DAN",
@@ -252,7 +252,7 @@
    "levels": [
     "LUI"
    ],
-   "sections": 3
+   "sections": 5
   },
   {
    "code": "DEN",
@@ -308,7 +308,7 @@
    "levels": [
     "LUI"
    ],
-   "sections": 8
+   "sections": 5
   },
   {
    "code": "DZC",
@@ -539,7 +539,7 @@
    "levels": [
     "LUI"
    ],
-   "sections": 6
+   "sections": 5
   },
   {
    "code": "HSK",
@@ -624,7 +624,7 @@
    "levels": [
     "LUI"
    ],
-   "sections": 9
+   "sections": 5
   },
   {
    "code": "ISE",
@@ -638,7 +638,7 @@
    "levels": [
     "LUI"
    ],
-   "sections": 6
+   "sections": 4
   },
   {
    "code": "ISH",
@@ -684,18 +684,11 @@
    "sections": 57
   },
   {
-   "code": "ITY",
-   "levels": [
-    "LUI"
-   ],
-   "sections": 29
-  },
-  {
    "code": "IYB",
    "levels": [
     "LUI"
    ],
-   "sections": 7
+   "sections": 4
   },
   {
    "code": "JDM",
@@ -768,7 +761,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 29
+   "sections": 35
   },
   {
    "code": "KOM",
@@ -848,7 +841,7 @@
    "levels": [
     "LUI"
    ],
-   "sections": 17
+   "sections": 10
   },
   {
    "code": "MBG",
@@ -919,7 +912,7 @@
    "levels": [
     "LUI"
    ],
-   "sections": 13
+   "sections": 5
   },
   {
    "code": "MHY",
@@ -1031,7 +1024,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 9
+   "sections": 11
   },
   {
    "code": "MTM",
@@ -1053,7 +1046,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 39
+   "sections": 45
   },
   {
    "code": "MTS",
@@ -1095,7 +1088,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 36
+   "sections": 38
   },
   {
    "code": "MYE",
@@ -1216,7 +1209,7 @@
    "levels": [
     "LUI"
    ],
-   "sections": 5
+   "sections": 3
   },
   {
    "code": "RSM",
@@ -1280,7 +1273,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 60
+   "sections": 62
   },
   {
    "code": "SGI",
@@ -1316,13 +1309,6 @@
     "LU"
    ],
    "sections": 4
-  },
-  {
-   "code": "SSI",
-   "levels": [
-    "LUI"
-   ],
-   "sections": 8
   },
   {
    "code": "STA",
@@ -1443,7 +1429,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 28
+   "sections": 32
   },
   {
    "code": "ULP",
@@ -1493,13 +1479,6 @@
     "LS"
    ],
    "sections": 13
-  },
-  {
-   "code": "VIA",
-   "levels": [
-    "LUI"
-   ],
-   "sections": 16
   },
   {
    "code": "YAB",
@@ -1566,11 +1545,11 @@
   }
  ],
  "stats": {
-  "sections": 5166,
-  "courses": 3598,
-  "branches": 219,
+  "sections": 5107,
+  "courses": 3594,
+  "branches": 216,
   "instructors": 1750,
-  "capacity": 250982,
-  "enrolled": 1204
+  "capacity": 250160,
+  "enrolled": 0
  }
 }

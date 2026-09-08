@@ -222,7 +222,8 @@
    "KMP_LS",
    "MTR_LS",
    "MUT_LS",
-   "MZT_LS"
+   "MZT_LS",
+   "SES_LS"
   ],
   "prereq": "-",
   "classReq": "-"
@@ -1084,6 +1085,63 @@
   "programs": [
    "BST_LS",
    "KMP_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15323",
+  "code": "MUZ 380",
+  "branch": "MUZ",
+  "level": "LS",
+  "name": "Dini Müzik II",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "İdris Melih Berse",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "BST_LS",
+   "KMP_LS",
+   "MTR_LS",
+   "MUZ_LS",
+   "SES_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15345",
+  "code": "MUZ 322",
+  "branch": "MUZ",
+  "level": "LS",
+  "name": "Alan Araştırma Metodları",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Eray Cömert",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CAB_LS",
+   "CEB_LS",
+   "MTR_LS",
+   "MUT_LS",
+   "MUZ_LS",
+   "MZT_LS",
+   "SES_LS",
+   "THO_LS"
   ],
   "prereq": "-",
   "classReq": "-"

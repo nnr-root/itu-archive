@@ -6404,6 +6404,13 @@
   "rows": [
    [
     "2026-2027-guz",
+    "UCK 353E",
+    "Aerospace Materials",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
     "UUM 629E",
     "Struc.Heal.Moni.of Aeros.Str.",
     40,
@@ -10073,13 +10080,6 @@
     0
    ],
    [
-    "2026-2027-guz",
-    "SSI 512",
-    "Tedarik Zinciri Yönetimi",
-    10,
-    7
-   ],
-   [
     "2025-2026-bahar",
     "END 308E",
     "Quality Engineering",
@@ -11380,27 +11380,6 @@
     0
    ],
    [
-    "2026-2027-guz",
-    "VIA 508E",
-    "Data Visualization and Commun.",
-    0,
-    14
-   ],
-   [
-    "2026-2027-guz",
-    "VIA 525E",
-    "Social Network Analy.for Bus.",
-    50,
-    23
-   ],
-   [
-    "2026-2027-guz",
-    "VIA 599",
-    "Proje",
-    10,
-    5
-   ],
-   [
     "2025-2026-bahar",
     "ISE 316",
     "Informatics Ethics \u0026 Law",
@@ -11622,13 +11601,6 @@
   "name": "Seher Melike Aydoğan",
   "rows": [
    [
-    "2026-2027-guz",
-    "MTT 403",
-    "Fonksiyonel Analiz",
-    40,
-    0
-   ],
-   [
     "2025-2026-guz",
     "MAT 437E",
     "Real Analysis II",
@@ -11734,7 +11706,7 @@
     98
    ]
   ],
-  "terms": 12
+  "terms": 11
  },
  "Selamet Gürbüz Erçelebi": {
   "name": "Selamet Gürbüz Erçelebi",
@@ -17054,6 +17026,20 @@
     "CAB 761",
     "Toplu Uygulama VII (Orkestra)",
     20,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "CAB 244",
+    "Yrd.Çalgı Piyano IV",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "CAB 344",
+    "Yrd.Çalgı Piyano VI",
+    0,
     0
    ]
   ],
@@ -23642,6 +23628,20 @@
     0
    ],
    [
+    "2026-2027-guz",
+    "CAB 252",
+    "Kanun IV",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "CAB 451",
+    "Kanun VII",
+    0,
+    0
+   ],
+   [
     "2025-2026-bahar",
     "CAB 190",
     "Çalgılama II",
@@ -27622,6 +27622,13 @@
     "SES 309",
     "Korrepetisyon V",
     5,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "SES 425",
+    "Yrd. Repertuvar I (THM)",
+    0,
     0
    ],
    [
@@ -32815,13 +32822,6 @@
     0
    ],
    [
-    "2026-2027-guz",
-    "MHN 599",
-    "Dönem Projesi",
-    10,
-    5
-   ],
-   [
     "2025-2026-bahar",
     "END 412",
     "İnsan Kaynakları Yönetiminin Temelleri",
@@ -37411,6 +37411,13 @@
     0
    ],
    [
+    "2026-2027-guz",
+    "SES 281",
+    "15.-17.Yüzyıl Türk Müziği Rep.",
+    0,
+    0
+   ],
+   [
     "2025-2026-guz",
     "SES 492",
     "Bitirme Çalışması",
@@ -40096,27 +40103,6 @@
     "Bilimsel Araş.,Etik ve Seminer",
     25,
     0
-   ],
-   [
-    "2026-2027-guz",
-    "VIA 504E",
-    "Big Data Technologies\u0026Appli.",
-    0,
-    14
-   ],
-   [
-    "2026-2027-guz",
-    "VIA 509E",
-    "Machine Learningwith Big Data",
-    50,
-    24
-   ],
-   [
-    "2026-2027-guz",
-    "VIA 599",
-    "Proje",
-    10,
-    5
    ]
   ],
   "terms": 1
@@ -49810,27 +49796,6 @@
    ],
    [
     "2026-2027-guz",
-    "ITY 518",
-    "Tedârik Zinciri Yönetimi",
-    35,
-    13
-   ],
-   [
-    "2026-2027-guz",
-    "ITY 599",
-    "Proje",
-    10,
-    1
-   ],
-   [
-    "2026-2027-guz",
-    "MHN 599",
-    "Dönem Projesi",
-    10,
-    2
-   ],
-   [
-    "2026-2027-guz",
     "ULP 101",
     "NewBeg.Fresh.Sem.\u0026Serv to L. I",
     0,
@@ -50723,6 +50688,13 @@
     "KMP 203",
     "Türk Müziği Literatürü I",
     10,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "KMP 204",
+    "Türk Müziği Literatürü II",
+    0,
     0
    ],
    [
@@ -51933,31 +51905,10 @@
    ],
    [
     "2026-2027-guz",
-    "ITY 544",
-    "Endüstri 4.0\u0026Ekleme.İmal.Tek.",
-    35,
-    12
-   ],
-   [
-    "2026-2027-guz",
-    "ITY 599",
-    "Proje",
-    10,
-    9
-   ],
-   [
-    "2026-2027-guz",
-    "MHN 522E",
-    "Feasiblity Analysis",
-    30,
-    17
-   ],
-   [
-    "2026-2027-guz",
-    "MHN 599",
-    "Dönem Projesi",
-    10,
-    5
+    "MHN 506",
+    "Üretim Yönetimi",
+    40,
+    0
    ],
    [
     "2026-2027-guz",
