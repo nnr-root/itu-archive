@@ -3201,7 +3201,7 @@
   "CAB 178",
   "Piyano II",
   "CAB",
-  19
+  20
  ],
  [
   "CAB 178E",
@@ -30126,12 +30126,6 @@
   1
  ],
  [
-  "MBM 603",
-  "Malzeme.Kimyasal&Elektro.Davr.",
-  "MBM",
-  1
- ],
- [
   "MBM 696E",
   "Scien.Rese., Ethic&Seminar",
   "MBM",
@@ -35181,7 +35175,7 @@
   "MTR 122",
   "Makam Teorisi II",
   "MTR",
-  11
+  12
  ],
  [
   "MTR 123",
@@ -35325,7 +35319,7 @@
   "MTR 222",
   "Makam Teorisi IV",
   "MTR",
-  13
+  14
  ],
  [
   "MTR 223",
@@ -35337,7 +35331,7 @@
   "MTR 224",
   "Müzik Teorisi IV",
   "MTR",
-  11
+  12
  ],
  [
   "MTR 231",
@@ -35457,7 +35451,7 @@
   "MTR 318",
   "Müzikte Metin Çözümlemeleri II",
   "MTR",
-  11
+  12
  ],
  [
   "MTR 321",
@@ -35541,7 +35535,7 @@
   "MTR 432",
   "Dikte Deşifre II",
   "MTR",
-  13
+  14
  ],
  [
   "MTR 433",
@@ -36345,7 +36339,7 @@
   "MUT 412",
   "Kanun Yapımı II",
   "MUT",
-  14
+  15
  ],
  [
   "MUT 4133",
@@ -36513,7 +36507,7 @@
   "MUZ 122",
   "Müzik Tarihi II",
   "MUZ",
-  8
+  9
  ],
  [
   "MUZ 132",
@@ -37059,7 +37053,7 @@
   "MUZ 446",
   "Dünya Vokal Kültürleri",
   "MUZ",
-  10
+  11
  ],
  [
   "MUZ 447",
@@ -37149,7 +37143,7 @@
   "MUZ 476",
   "Türk Halk Müziği Bilgileri II",
   "MUZ",
-  9
+  10
  ],
  [
   "MUZ 477",
@@ -41211,7 +41205,7 @@
   "SES 222",
   "Koro II (Kredisiz)",
   "SES",
-  8
+  9
  ],
  [
   "SES 231",
@@ -41223,7 +41217,7 @@
   "SES 232",
   "Ağız ve Hançere Teknikleri II",
   "SES",
-  9
+  10
  ],
  [
   "SES 233",
@@ -41307,7 +41301,7 @@
   "SES 308",
   "Yöre Ağızları II",
   "SES",
-  11
+  12
  ],
  [
   "SES 309",
@@ -41409,7 +41403,7 @@
   "SES 322",
   "Koro IV(Kredisiz)",
   "SES",
-  8
+  9
  ],
  [
   "SES 3313",
@@ -41739,7 +41733,7 @@
   "SES 422",
   "Koro VI (Kredisiz)",
   "SES",
-  9
+  10
  ],
  [
   "SES 423",
@@ -41817,7 +41811,7 @@
   "SES 436",
   "Yrd. Repertuvar IV (TSM)",
   "SES",
-  9
+  10
  ],
  [
   "SES 451",
@@ -44103,7 +44097,7 @@
   "THO 306",
   "Oyunda Yöresel Tavırlar IV",
   "THO",
-  10
+  11
  ],
  [
   "THO 307",
@@ -44115,7 +44109,7 @@
   "THO 308",
   "Oyun Repertuvarı IV",
   "THO",
-  10
+  11
  ],
  [
   "THO 309",
@@ -44169,7 +44163,7 @@
   "THO 312",
   "Oyun Analizi II",
   "THO",
-  13
+  14
  ],
  [
   "THO 3124",
@@ -44187,7 +44181,7 @@
   "THO 314",
   "Koreoloji II",
   "THO",
-  10
+  11
  ],
  [
   "THO 317",
@@ -44277,7 +44271,7 @@
   "THO 412",
   "Geleneksel Giyim Kuşam II",
   "THO",
-  11
+  12
  ],
  [
   "THO 4122",
@@ -44301,7 +44295,7 @@
   "THO 418",
   "Sahne Projesi IV (Kredisiz)",
   "THO",
-  14
+  15
  ],
  [
   "THO 421",
@@ -44812,6 +44806,12 @@
   "Uçak Müh. Giriş ve Etik",
   "UCK",
   7
+ ],
+ [
+  "UCK 103E",
+  "Introduction to Aeronautical Engineering and Ethics",
+  "UCK",
+  1
  ],
  [
   "UCK 104",

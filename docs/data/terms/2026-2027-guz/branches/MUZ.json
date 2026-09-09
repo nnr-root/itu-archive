@@ -1191,5 +1191,84 @@
   ],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "15378",
+  "code": "MUZ 476",
+  "branch": "MUZ",
+  "level": "LS",
+  "name": "Türk Halk Müziği Bilgileri II",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Süleyman Şenel",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CAB_LS",
+   "CEB_LS",
+   "MTR_LS",
+   "MUT_LS",
+   "MUZ_LS",
+   "MZT_LS",
+   "SES_LS",
+   "THO_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15391",
+  "code": "MUZ 122",
+  "branch": "MUZ",
+  "level": "LS",
+  "name": "Müzik Tarihi II",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Ozan Baysal",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CAB_LS",
+   "CEB_LS",
+   "MTR_LS",
+   "SES_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15392",
+  "code": "MUZ 446",
+  "branch": "MUZ",
+  "level": "LS",
+  "name": "Dünya Vokal Kültürleri",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Burcu Yıldız Ataş",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "SES_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
  }
 ]

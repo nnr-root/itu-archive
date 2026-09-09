@@ -4778,6 +4778,13 @@
    ],
    [
     "2026-2027-guz",
+    "KIM 533",
+    "Spektroskopi I",
+    30,
+    0
+   ],
+   [
+    "2026-2027-guz",
     "KIM YLT",
     "Tez Çalışması",
     200,
@@ -11636,7 +11643,7 @@
     "2026-2027-guz",
     "MYE 5016E",
     "Project Management",
-    10,
+    40,
     0
    ],
    [
@@ -17992,13 +17999,6 @@
   "name": "Burak Yıldıran Stodolsky",
   "rows": [
    [
-    "2026-2027-guz",
-    "MAT 103E",
-    "Mathematics I",
-    0,
-    0
-   ],
-   [
     "2025-2026-bahar",
     "MAT 148E",
     "Discrete Mathematics",
@@ -18286,7 +18286,7 @@
     8
    ]
   ],
-  "terms": 19
+  "terms": 18
  },
  "Burak Zincir": {
   "name": "Burak Zincir",
@@ -21021,6 +21021,13 @@
     "MUZ 411",
     "Türkiye Müzik Kültrlerne Giriş",
     25,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "MUZ 446",
+    "Dünya Vokal Kültürleri",
+    0,
     0
    ],
    [
@@ -25665,13 +25672,6 @@
   "name": "Bünyamin Karagöz",
   "rows": [
    [
-    "2026-2027-guz",
-    "KIM 533",
-    "Spektroskopi I",
-    30,
-    0
-   ],
-   [
     "2025-2026-bahar",
     "KIM 422",
     "Endüstriyel Kimya",
@@ -25826,7 +25826,7 @@
     47
    ]
   ],
-  "terms": 17
+  "terms": 16
  },
  "Büşra Kartal": {
   "name": "Büşra Kartal",

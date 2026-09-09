@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-08T07:15:48Z",
+ "generatedAt": "2026-09-09T07:24:03Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -5847,19 +5847,19 @@
    "code": "DEN 310E",
    "name": "Resistance and Propulsion",
    "branch": "DEN",
-   "requirement": "( AKM 205 MIN. DD Veya AKM 205E MIN. DD )"
+   "requirement": "( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( AKM 204 MIN. DD Veya AKM 204E MIN. DD )"
   },
   {
    "code": "DEN 312",
    "name": "Gemi & Dnz Yapılarının Direnci",
    "branch": "DEN",
-   "requirement": "( AKM 205 MIN. DD Veya AKM 205E MIN. DD )"
+   "requirement": "( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( AKM 204 MIN. DD Veya AKM 204E MIN. DD )"
   },
   {
    "code": "DEN 312E",
    "name": "Resist. of Ship&Offshore Stru.",
    "branch": "DEN",
-   "requirement": "( AKM 205 MIN. DD Veya AKM 205E MIN. DD )"
+   "requirement": "( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( AKM 204 MIN. DD Veya AKM 204E MIN. DD )"
   },
   {
    "code": "DEN 320",
@@ -5889,7 +5889,7 @@
    "code": "DEN 323E",
    "name": "Wave Mechanics",
    "branch": "DEN",
-   "requirement": "( ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) ) Ve ( AKM 205 MIN. DD Veya AKM 205E MIN. DD )"
+   "requirement": "( ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) ) Ve ( ( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( AKM 204 MIN. DD Veya AKM 204E MIN. DD ) )"
   },
   {
    "code": "DEN 324",
@@ -5931,7 +5931,7 @@
    "code": "DEN 328E",
    "name": "Oceanography",
    "branch": "DEN",
-   "requirement": "( AKM 205 MIN. DD Veya AKM 205E MIN. DD )"
+   "requirement": "( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( AKM 204 MIN. DD Veya AKM 204E MIN. DD )"
   },
   {
    "code": "DEN 330",
@@ -6020,13 +6020,13 @@
    "code": "DEN 411",
    "name": "Hidrodinamik",
    "branch": "DEN",
-   "requirement": "( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya DEN 323E MIN. DD"
+   "requirement": "( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( AKM 204 MIN. DD Veya AKM 204E MIN. DD ) Veya DEN 323E MIN. DD"
   },
   {
    "code": "DEN 411E",
    "name": "Hydrodynamics",
    "branch": "DEN",
-   "requirement": "( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya DEN 323E MIN. DD"
+   "requirement": "( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( AKM 204 MIN. DD Veya AKM 204E MIN. DD ) Veya DEN 323E MIN. DD"
   },
   {
    "code": "DEN 412E",
@@ -6038,13 +6038,13 @@
    "code": "DEN 421",
    "name": "Gemi Sevki",
    "branch": "DEN",
-   "requirement": "( DEN 312 MIN. DD Veya DEN 312E MIN. DD ) Ve ( AKM 205 MIN. DD Veya AKM 205E MIN. DD )"
+   "requirement": "( DEN 312 MIN. DD Veya DEN 312E MIN. DD ) Ve ( ( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( AKM 204 MIN. DD Veya AKM 204E MIN. DD ) )"
   },
   {
    "code": "DEN 421E",
    "name": "Ship Propulsion",
    "branch": "DEN",
-   "requirement": "( DEN 312 MIN. DD Veya DEN 312E MIN. DD ) Ve ( AKM 205 MIN. DD Veya AKM 205E MIN. DD )"
+   "requirement": "( DEN 312 MIN. DD Veya DEN 312E MIN. DD ) Ve ( ( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( AKM 204 MIN. DD Veya AKM 204E MIN. DD ) )"
   },
   {
    "code": "DEN 422",
@@ -10266,13 +10266,13 @@
    "code": "END 471",
    "name": "Müşteri İlişkileri Yönetimi ve Pazarlama Analitiği",
    "branch": "END",
-   "requirement": "( END 311 MIN. DD Veya END 311E MIN. DD ) Veya ( VBA 311E MIN. DD Veya VBA 311 MIN. DD )"
+   "requirement": "( END 311 MIN. DD Veya END 311E MIN. DD ) Veya ( VBA 311E MIN. DD Veya VBA 311 MIN. DD ) Veya ( ECN 211E MIN. DD Veya ECN 211 MIN. DD ) Veya ( ISL 214 MIN. DD Veya ISL 214E MIN. DD )"
   },
   {
    "code": "END 471E",
    "name": "Marketing & CRM Analytics",
    "branch": "END",
-   "requirement": "( END 311 MIN. DD Veya END 311E MIN. DD ) Veya ( VBA 311E MIN. DD Veya VBA 311 MIN. DD )"
+   "requirement": "( END 311 MIN. DD Veya END 311E MIN. DD ) Veya ( VBA 311E MIN. DD Veya VBA 311 MIN. DD ) Veya ( ECN 211E MIN. DD Veya ECN 211 MIN. DD ) Veya ( ISL 214 MIN. DD Veya ISL 214E MIN. DD )"
   },
   {
    "code": "END 473",
@@ -12127,7 +12127,7 @@
   },
   {
    "code": "GEM 409E",
-   "name": "Gemi Titreşimleri",
+   "name": "Ship Vibration",
    "branch": "GEM",
    "requirement": "( ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( GEM 210E MIN. DD Veya GEM 210 MIN. DD ) ) Ve ( ( GEM 201E MIN. DD Veya GEM 201 MIN. DD ) Veya ( DNK 201 MIN. DD Veya DNK 201E MIN. DD ) )"
   },
@@ -16950,7 +16950,7 @@
    "code": "ISL 435E",
    "name": "The World Economy at a Glance",
    "branch": "ISL",
-   "requirement": "( ISL 244 MIN. DD Veya ISL 244E MIN. DD )"
+   "requirement": "( ISL 244 MIN. DD Veya ISL 244E MIN. DD ) Veya ( ECN 102 MIN. DD Veya ECN 102E MIN. DD )"
   },
   {
    "code": "ISL 437E",
@@ -26712,7 +26712,7 @@
   },
   {
    "code": "MTT 201E",
-   "name": "Graph Theory",
+   "name": "Graf Teorisi",
    "branch": "MTT",
    "requirement": "( MAT 148 MIN. DD Veya MAT 148E MIN. DD )"
   },
@@ -31959,7 +31959,7 @@
    "code": "VBA 312E",
    "name": "Data Analytics",
    "branch": "VBA",
-   "requirement": "( ( VBA 113E MIN. DD Veya VBA 113 MIN. DD ) Veya ( BIL 100 MIN. DD Veya BIL 100E MIN. DD ) ) Ve ( ( VBA 311E MIN. DD Veya VBA 311 MIN. DD ) Veya ( END 311 MIN. DD Veya END 311E MIN. DD ) )"
+   "requirement": "( ( VBA 113E MIN. DD Veya VBA 113 MIN. DD ) Veya ( BIL 100 MIN. DD Veya BIL 100E MIN. DD ) ) Ve ( ( VBA 311E MIN. DD Veya VBA 311 MIN. DD ) Veya ( ECN 211E MIN. DD Veya ECN 211 MIN. DD ) Veya ( END 311 MIN. DD Veya END 311E MIN. DD ) )"
   },
   {
    "code": "VBA 313E",
@@ -32528,6 +32528,42 @@
   },
   {
    "from": "AKM 204",
+   "to": "DEN 310E"
+  },
+  {
+   "from": "AKM 204",
+   "to": "DEN 312"
+  },
+  {
+   "from": "AKM 204",
+   "to": "DEN 312E"
+  },
+  {
+   "from": "AKM 204",
+   "to": "DEN 323E"
+  },
+  {
+   "from": "AKM 204",
+   "to": "DEN 328E"
+  },
+  {
+   "from": "AKM 204",
+   "to": "DEN 411"
+  },
+  {
+   "from": "AKM 204",
+   "to": "DEN 411E"
+  },
+  {
+   "from": "AKM 204",
+   "to": "DEN 421"
+  },
+  {
+   "from": "AKM 204",
+   "to": "DEN 421E"
+  },
+  {
+   "from": "AKM 204",
    "to": "DEN 427"
   },
   {
@@ -32801,6 +32837,42 @@
   {
    "from": "AKM 204E",
    "to": "CEV 345E"
+  },
+  {
+   "from": "AKM 204E",
+   "to": "DEN 310E"
+  },
+  {
+   "from": "AKM 204E",
+   "to": "DEN 312"
+  },
+  {
+   "from": "AKM 204E",
+   "to": "DEN 312E"
+  },
+  {
+   "from": "AKM 204E",
+   "to": "DEN 323E"
+  },
+  {
+   "from": "AKM 204E",
+   "to": "DEN 328E"
+  },
+  {
+   "from": "AKM 204E",
+   "to": "DEN 411"
+  },
+  {
+   "from": "AKM 204E",
+   "to": "DEN 411E"
+  },
+  {
+   "from": "AKM 204E",
+   "to": "DEN 421"
+  },
+  {
+   "from": "AKM 204E",
+   "to": "DEN 421E"
   },
   {
    "from": "AKM 204E",
@@ -44436,6 +44508,10 @@
   },
   {
    "from": "ECN 102",
+   "to": "ISL 435E"
+  },
+  {
+   "from": "ECN 102",
    "to": "MMD 353E"
   },
   {
@@ -44473,6 +44549,10 @@
   {
    "from": "ECN 102E",
    "to": "ISL 353E"
+  },
+  {
+   "from": "ECN 102E",
+   "to": "ISL 435E"
   },
   {
    "from": "ECN 102E",
@@ -44932,6 +45012,14 @@
   },
   {
    "from": "ECN 211",
+   "to": "END 471"
+  },
+  {
+   "from": "ECN 211",
+   "to": "END 471E"
+  },
+  {
+   "from": "ECN 211",
    "to": "END 476"
   },
   {
@@ -44945,6 +45033,10 @@
   {
    "from": "ECN 211",
    "to": "ISL 334E"
+  },
+  {
+   "from": "ECN 211",
+   "to": "VBA 312E"
   },
   {
    "from": "ECN 211E",
@@ -44980,6 +45072,14 @@
   },
   {
    "from": "ECN 211E",
+   "to": "END 471"
+  },
+  {
+   "from": "ECN 211E",
+   "to": "END 471E"
+  },
+  {
+   "from": "ECN 211E",
    "to": "END 476"
   },
   {
@@ -44993,6 +45093,10 @@
   {
    "from": "ECN 211E",
    "to": "ISL 334E"
+  },
+  {
+   "from": "ECN 211E",
+   "to": "VBA 312E"
   },
   {
    "from": "ECN 212",
@@ -65692,6 +65796,14 @@
   },
   {
    "from": "ISL 214",
+   "to": "END 471"
+  },
+  {
+   "from": "ISL 214",
+   "to": "END 471E"
+  },
+  {
+   "from": "ISL 214",
    "to": "IML 335"
   },
   {
@@ -65741,6 +65853,14 @@
   {
    "from": "ISL 214E",
    "to": "END 448E"
+  },
+  {
+   "from": "ISL 214E",
+   "to": "END 471"
+  },
+  {
+   "from": "ISL 214E",
+   "to": "END 471E"
   },
   {
    "from": "ISL 214E",

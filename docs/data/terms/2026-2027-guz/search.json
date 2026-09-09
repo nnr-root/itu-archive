@@ -21202,7 +21202,7 @@
   "MAT 103E",
   "Mathematics I",
   "MAT",
-  "Burak Yıldıran Stodolsky",
+  "Seher Melike Aydoğan",
   "Salı 14:30/17:29 | Perşembe 13:30/15:29",
   0,
   0,
@@ -80336,7 +80336,7 @@
   "NUK 696E",
   "Scientific Research, Ethic and Seminar",
   "NUK",
-  "İskender Atilla Reyhancan",
+  "Şükran Çavdar",
   "Çarşamba 15:30/17:29",
   20,
   0,
@@ -82316,8 +82316,8 @@
   "KIM 533",
   "Spektroskopi I",
   "KIM",
-  "Bünyamin Karagöz",
-  "Salı 12:30/15:29",
+  "Barış Kışkan",
+  "Cuma 14:00/16:59",
   30,
   0,
   "LU",
@@ -85974,7 +85974,7 @@
   "RBT 596",
   "Bilimsel Araş.,Etik ve Seminer",
   "RBT",
-  "Recep Bıyık",
+  "Şükran Çavdar",
   "Cuma 14:00/15:59",
   10,
   0,
@@ -91659,7 +91659,7 @@
   "Production Analysis",
   "MYE",
   "Sertaç Kakı",
-  "Pazartesi 14:30/17:29",
+  "Çarşamba 08:30/11:29",
   40,
   0,
   "LU",
@@ -92525,7 +92525,7 @@
   "Scien.Rese., Ethic&Seminar",
   "MDP",
   "Emine Şirin Özgün Tanır",
-  "",
+  "Çarşamba 15:30/17:29",
   200,
   0,
   "LU",
@@ -101217,19 +101217,6 @@
   "MBM",
   "Yonca Alkan Göksu",
   "Pazartesi 13:30/16:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13225",
-  "MBM 603",
-  "Malzeme.Kimyasal&Elektro.Davr.",
-  "MBM",
-  "Servet İbrahim Timur",
-  "Pazartesi 08:30/11:29",
   30,
   0,
   "LU",
@@ -112355,7 +112342,7 @@
   "Bilimsel Araş.,Etik ve Seminer",
   "HSK",
   "Mehmet Melih Koşucu",
-  "Çarşamba 13:30/15:29",
+  "Perşembe 15:30/17:29",
   20,
   0,
   "LU",
@@ -126389,7 +126376,7 @@
   "Research Methods I",
   "ISL",
   "Tolga Kaya",
-  "Pazartesi 14:30/17:29",
+  "Perşembe 14:30/17:29",
   15,
   0,
   "LU",
@@ -128157,7 +128144,7 @@
   "NSE 603E",
   "Radiation Proc.for Nanomateris",
   "NSE",
-  "Nilgün Baydoğan , Sevilay Hacıyakupoğlu , Nesrin Altınsoy , Sema Erentürk",
+  "Nilgün Baydoğan , Nesrin Altınsoy , Sema Erentürk , Ayşe Filiz Baytaş",
   "Pazartesi 13:30/16:29",
   20,
   0,
@@ -129290,7 +129277,7 @@
   "MYE",
   "Berna Özbilen",
   "Salı 13:30/16:29",
-  10,
+  40,
   0,
   "LU",
   "Fiziksel (Yüz yüze)",
@@ -129341,7 +129328,7 @@
   "Isı-Akış Olaylarında Den. Yönt",
   "MIA",
   "Bayram Şahin",
-  "Pazartesi 09:30/12:29",
+  "Pazartesi 12:30/15:29",
   30,
   0,
   "LU",
@@ -129549,7 +129536,7 @@
   "Bilimsel Araş.,Etik ve Seminer",
   "MKS",
   "Hacı Abdullah Taşdemir",
-  "",
+  "Çarşamba 13:30/15:29",
   30,
   0,
   "LU",
@@ -129915,7 +129902,7 @@
   "Lineer Olmayan Titreşiler",
   "MAK",
   "Osman Taha Şen",
-  "Cuma 09:30/12:29",
+  "Salı 09:30/12:29",
   30,
   0,
   "LU",
@@ -134651,7 +134638,7 @@
   "MET",
   "Cem Örnek",
   "Çarşamba 09:00/11:59",
-  40,
+  25,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -134666,7 +134653,7 @@
   "Architect Sinan",
   "MIM",
   "-",
-  "Pazartesi 13:30/16:29",
+  "Pazartesi 13:30/15:29",
   25,
   0,
   "LS",
@@ -135649,6 +135636,366 @@
   0,
   "LS",
   "Ek Sınav",
+  []
+ ],
+ [
+  "15378",
+  "MUZ 476",
+  "Türk Halk Müziği Bilgileri II",
+  "MUZ",
+  "Süleyman Şenel",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CAB_LS",
+   "CEB_LS",
+   "MTR_LS",
+   "MUT_LS",
+   "MUZ_LS",
+   "MZT_LS",
+   "SES_LS",
+   "THO_LS"
+  ]
+ ],
+ [
+  "15379",
+  "THO 306",
+  "Oyunda Yöresel Tavırlar IV",
+  "THO",
+  "Aydın Balcı",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "THO_LS"
+  ]
+ ],
+ [
+  "15380",
+  "THO 308",
+  "Oyun Repertuvarı IV",
+  "THO",
+  "Serdar Bombacı",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "THO_LS"
+  ]
+ ],
+ [
+  "15381",
+  "THO 312",
+  "Oyun Analizi II",
+  "THO",
+  "Eyüp Uzunkaya",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "THO_LS"
+  ]
+ ],
+ [
+  "15382",
+  "THO 314",
+  "Koreoloji II",
+  "THO",
+  "Eyüp Uzunkaya",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "THO_LS"
+  ]
+ ],
+ [
+  "15383",
+  "THO 412",
+  "Geleneksel Giyim Kuşam II",
+  "THO",
+  "İlknur Bektaş",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "THO_LS"
+  ]
+ ],
+ [
+  "15384",
+  "THO 418",
+  "Sahne Projesi IV (Kredisiz)",
+  "THO",
+  "İlknur Bektaş",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "THO_LS"
+  ]
+ ],
+ [
+  "15385",
+  "MTR 122",
+  "Makam Teorisi II",
+  "MTR",
+  "Ali İhsan Alemli",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "THO_LS"
+  ]
+ ],
+ [
+  "15386",
+  "MTR 222",
+  "Makam Teorisi IV",
+  "MTR",
+  "Ahmet Serhat Turunç",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "THO_LS"
+  ]
+ ],
+ [
+  "15387",
+  "MTR 224",
+  "Müzik Teorisi IV",
+  "MTR",
+  "Orkun Zafer Özgelen",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "THO_LS"
+  ]
+ ],
+ [
+  "15388",
+  "MTR 432",
+  "Dikte Deşifre II",
+  "MTR",
+  "Cem Ekmen",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CAB_LS",
+   "CEB_LS",
+   "THO_LS"
+  ]
+ ],
+ [
+  "15389",
+  "MUT 412",
+  "Kanun Yapımı II",
+  "MUT",
+  "Şafak Köksal",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MUT_LS",
+   "MZT_LS"
+  ]
+ ],
+ [
+  "15390",
+  "CAB 178",
+  "Piyano II",
+  "CAB",
+  "Devlet Devrim Öztaş",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MTR_LS",
+   "MUT_LS",
+   "MUZ_LS",
+   "MZT_LS",
+   "SES_LS"
+  ]
+ ],
+ [
+  "15391",
+  "MUZ 122",
+  "Müzik Tarihi II",
+  "MUZ",
+  "Ozan Baysal",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CAB_LS",
+   "CEB_LS",
+   "MTR_LS",
+   "SES_LS"
+  ]
+ ],
+ [
+  "15392",
+  "MUZ 446",
+  "Dünya Vokal Kültürleri",
+  "MUZ",
+  "Burcu Yıldız Ataş",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "SES_LS"
+  ]
+ ],
+ [
+  "15393",
+  "SES 222",
+  "Koro II (Kredisiz)",
+  "SES",
+  "Fidan Kurt Kasapbaşı , Ulaş Saka",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "SES_LS"
+  ]
+ ],
+ [
+  "15394",
+  "SES 322",
+  "Koro IV(Kredisiz)",
+  "SES",
+  "Fidan Kurt Kasapbaşı , Ulaş Saka",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "SES_LS"
+  ]
+ ],
+ [
+  "15395",
+  "SES 422",
+  "Koro VI (Kredisiz)",
+  "SES",
+  "Fidan Kurt Kasapbaşı , Ulaş Saka",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "SES_LS"
+  ]
+ ],
+ [
+  "15396",
+  "MTR 318",
+  "Müzikte Metin Çözümlemeleri II",
+  "MTR",
+  "Celal Volkan Kaya",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "SES_LS"
+  ]
+ ],
+ [
+  "15397",
+  "SES 232",
+  "Ağız ve Hançere Teknikleri II",
+  "SES",
+  "Deniz Güneş",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "SES_LS"
+  ]
+ ],
+ [
+  "15398",
+  "SES 308",
+  "Yöre Ağızları II",
+  "SES",
+  "Seval Eroğlu",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "SES_LS"
+  ]
+ ],
+ [
+  "15399",
+  "SES 436",
+  "Yrd. Repertuvar IV (TSM)",
+  "SES",
+  "Gülşah Sönmez",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "SES_LS"
+  ]
+ ],
+ [
+  "15400",
+  "UCK 103E",
+  "Introduction to Aeronautical Engineering and Ethics",
+  "UCK",
+  "Zahit Mecitoğlu",
+  "Salı 13:30/14:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
   []
  ]
 ]

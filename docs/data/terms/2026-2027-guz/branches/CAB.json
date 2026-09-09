@@ -5091,5 +5091,32 @@
   ],
   "prereq": "Detay",
   "classReq": "-"
+ },
+ {
+  "crn": "15390",
+  "code": "CAB 178",
+  "branch": "CAB",
+  "level": "LS",
+  "name": "Piyano II",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Devlet Devrim Öztaş",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "MTR_LS",
+   "MUT_LS",
+   "MUZ_LS",
+   "MZT_LS",
+   "SES_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
  }
 ]

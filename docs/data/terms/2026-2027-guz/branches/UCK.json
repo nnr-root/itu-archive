@@ -1038,5 +1038,32 @@
   "programs": [],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "15400",
+  "code": "UCK 103E",
+  "branch": "UCK",
+  "level": "LS",
+  "name": "Introduction to Aeronautical Engineering and Ethics",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Zahit Mecitoğlu",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "13:30/14:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 40,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
  }
 ]

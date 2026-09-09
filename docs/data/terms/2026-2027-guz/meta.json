@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-08T22:45:06Z",
+ "scrapedAt": "2026-09-09T07:22:33Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5132,
- "courses": 3617,
+ "sections": 5154,
+ "courses": 3639,
  "branches": [
   {
    "code": "ABM",
@@ -174,7 +174,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 176
+   "sections": 177
   },
   {
    "code": "CBM",
@@ -862,7 +862,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 9
+   "sections": 8
   },
   {
    "code": "MDK",
@@ -1046,7 +1046,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 48
+   "sections": 53
   },
   {
    "code": "MTS",
@@ -1081,14 +1081,14 @@
    "levels": [
     "LS"
    ],
-   "sections": 40
+   "sections": 41
   },
   {
    "code": "MUZ",
    "levels": [
     "LS"
    ],
-   "sections": 40
+   "sections": 43
   },
   {
    "code": "MYE",
@@ -1273,7 +1273,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 62
+   "sections": 68
   },
   {
    "code": "SGI",
@@ -1394,7 +1394,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 39
+   "sections": 45
   },
   {
    "code": "TKY",
@@ -1429,7 +1429,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 38
+   "sections": 39
   },
   {
    "code": "ULP",
@@ -1545,11 +1545,11 @@
   }
  ],
  "stats": {
-  "sections": 5132,
-  "courses": 3617,
+  "sections": 5154,
+  "courses": 3639,
   "branches": 216,
-  "instructors": 1750,
-  "capacity": 250326,
+  "instructors": 1749,
+  "capacity": 250351,
   "enrolled": 0
  }
 }
