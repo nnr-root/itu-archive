@@ -84660,7 +84660,7 @@
   "GEM 205",
   "Malzeme ve Imal Usulleri",
   "GEM",
-  "-",
+  "Murat Tosun",
   "Pazartesi 10:30/13:29",
   45,
   0,
@@ -131955,9 +131955,9 @@
   "MMD 203E",
   "Research Methods",
   "MMD",
-  "Pelin Bolat",
-  "Perşembe 15:30/18:29",
-  30,
+  "Sabire Cömert",
+  "",
+  0,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -132001,7 +132001,7 @@
   "Transportation Planning&Mng.",
   "MMD",
   "Pelin Bolat",
-  "Pazartesi 15:30/18:29",
+  "Perşembe 15:30/18:29",
   30,
   0,
   "LS",
@@ -136109,6 +136109,365 @@
   "Fiziksel (Yüz yüze)",
   [
    "SBL_LS"
+  ]
+ ],
+ [
+  "15414",
+  "BEB 101",
+  "Temel Yüzme Becerisi Öğrenimi",
+  "BEB",
+  "-",
+  "",
+  12,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15415",
+  "MTH 414E",
+  "Introduction to Launch Vehicle Design and Industrial Practice",
+  "MTH",
+  "Fırat Oğuz Edis",
+  "Çarşamba 08:30/11:29",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "UCK_LS",
+   "UZBE_LS"
+  ]
+ ],
+ [
+  "15416",
+  "MMD 101E",
+  "Intr.to Maritime Bus.Administ.",
+  "MMD",
+  "Kaya Tokmakçıoğlu",
+  "Cuma 14:30/16:29",
+  25,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MMD_LS"
+  ]
+ ],
+ [
+  "15417",
+  "MMD 111E",
+  "Intr. to Business Analytics",
+  "MMD",
+  "Ömer Lütfi Antalyalı",
+  "Perşembe 14:30/17:29",
+  25,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MMD_LS"
+  ]
+ ],
+ [
+  "15418",
+  "MMD 211E",
+  "Accounting&Financial Stat.Anl.",
+  "MMD",
+  "Kaya Tokmakçıoğlu",
+  "Salı 13:30/16:29",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MMD_LS"
+  ]
+ ],
+ [
+  "15419",
+  "MMD 305E",
+  "Operations Research",
+  "MMD",
+  "Ferhan Çebi",
+  "Pazartesi 13:30/16:29",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MMD_LS"
+  ]
+ ],
+ [
+  "15420",
+  "EFN 105E",
+  "Principles of Microeconomics",
+  "EFN",
+  "Derya Gültekin",
+  "Pazartesi 13:30/17:29",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "EFN_LS"
+  ]
+ ],
+ [
+  "15421",
+  "EFN 211E",
+  "Statistical Meth. in Economics",
+  "EFN",
+  "Ömer Lütfi Antalyalı",
+  "Salı 14:30/18:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "EFN_LS"
+  ]
+ ],
+ [
+  "15422",
+  "EFN 301E",
+  "Econometrics I",
+  "EFN",
+  "Zehra Atik",
+  "Salı 13:30/17:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "EFN_LS"
+  ]
+ ],
+ [
+  "15423",
+  "EFN 307E",
+  "Game Theory",
+  "EFN",
+  "Qian Li",
+  "Perşembe 13:30/16:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "EFN_LS"
+  ]
+ ],
+ [
+  "15425",
+  "EFN 305E",
+  "Industrial Organisation",
+  "EFN",
+  "Shourjo Chakravorty",
+  "Cuma 09:30/12:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "EFN_LS"
+  ]
+ ],
+ [
+  "15426",
+  "CEN 101E",
+  "Intr. to Information Systems",
+  "CEN",
+  "Ömer Özyıldırım",
+  "Perşembe 08:30/11:29",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CEN_LS"
+  ]
+ ],
+ [
+  "15427",
+  "CEN 113E",
+  "Intr.toComp.Eng.and Ethics",
+  "CEN",
+  "Eşref Adalı",
+  "Çarşamba 13:30/15:29",
+  150,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CEN_LS"
+  ]
+ ],
+ [
+  "15428",
+  "MAT 281E",
+  "Linear Algebra and Applicat.",
+  "MAT",
+  "Muhammed Lütfi Yarar",
+  "Perşembe 08:30/11:29",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CEN_LS"
+  ]
+ ],
+ [
+  "15429",
+  "CEN 223E",
+  "Data Structures",
+  "CEN",
+  "Meriç Yücel",
+  "Salı 08:30/10:29 | Perşembe 14:30/16:29",
+  80,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CEN_LS"
+  ]
+ ],
+ [
+  "15430",
+  "CEN 231E",
+  "Digital Circuits",
+  "CEN",
+  "Mehmet Ali Sarıkaya",
+  "Cuma 08:30/11:29",
+  70,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CEN_LS"
+  ]
+ ],
+ [
+  "15431",
+  "MAT 210E",
+  "Engineering Mathematics",
+  "MAT",
+  "-",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CEN_LS"
+  ]
+ ],
+ [
+  "15432",
+  "MAT 271E",
+  "Probability and Statistics",
+  "MAT",
+  "İbrahim Papila",
+  "",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CEN_LS"
+  ]
+ ],
+ [
+  "15433",
+  "CEN 212E",
+  "Microprocessor Systems",
+  "CEN",
+  "-",
+  "Pazartesi 08:30/11:29",
+  0,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CEN_LS"
+  ]
+ ],
+ [
+  "15434",
+  "CEN 317E",
+  "Database Systems",
+  "CEN",
+  "Mehmet Ali Ertürk",
+  "Çarşamba 08:30/11:29",
+  80,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CEN_LS"
+  ]
+ ],
+ [
+  "15435",
+  "CEN 335E",
+  "Analysis of Algorithms I",
+  "CEN",
+  "Mehmet Ali Sarıkaya",
+  "Perşembe 08:30/11:29",
+  75,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CEN_LS"
+  ]
+ ],
+ [
+  "15436",
+  "CEN 411E",
+  "Software Engineering",
+  "CEN",
+  "Mehmet Ali Sarıkaya",
+  "Pazartesi 09:30/12:29",
+  80,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CEN_LS"
+  ]
+ ],
+ [
+  "15437",
+  "CEN 336E",
+  "Analysis of Algorithms II",
+  "CEN",
+  "Mehmet Ali Sarıkaya",
+  "Perşembe 13:30/16:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CEN_LS"
+  ]
+ ],
+ [
+  "15438",
+  "BLG 322E",
+  "Computer Architecture",
+  "BLG",
+  "Nizamettin Aydın",
+  "Salı 08:30/11:29",
+  40,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CEN_LS"
   ]
  ]
 ]

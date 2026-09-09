@@ -1962,7 +1962,7 @@
 12034,GEM 203,GEM,LS,Mukavemet I,Fiziksel (Yüz yüze),Bahadır Uğurlu,MEDC | MEDC,Pazartesi | Salı,14:30/16:29 | 14:30/16:29,ZD2 | 1D5,45,0,-,GEM_LS,-,-
 12035,GEM 203,GEM,LS,Mukavemet I,Fiziksel (Yüz yüze),Fuzuli Ağrı Akçay,MEDC | MEDC,Pazartesi | Salı,14:30/16:29 | 14:30/16:29,1D3 | 1D10,45,0,-,GEM_LS,-,-
 12036,GEM 205,GEM,LS,Malzeme ve Imal Usulleri,Fiziksel (Yüz yüze),Necip Ünlü,MEDC,Pazartesi,10:30/13:29,ZD1,45,0,-,GEM_LS,-,-
-12037,GEM 205,GEM,LS,Malzeme ve Imal Usulleri,Fiziksel (Yüz yüze),-,MEDC,Pazartesi,10:30/13:29,ZA3,45,0,-,GEM_LS,-,-
+12037,GEM 205,GEM,LS,Malzeme ve Imal Usulleri,Fiziksel (Yüz yüze),Murat Tosun,MEDC,Pazartesi,10:30/13:29,ZA3,45,0,-,GEM_LS,-,-
 12038,GEM 210E,GEM,LS,Engineering Mathematics,Fiziksel (Yüz yüze),Devrim Bülent Danışman,MEDC | MEDC,Pazartesi | Çarşamba,08:30/10:29 | 08:30/10:29,ZD1 | ZD1,70,0,-,GEM_LS,Detay,-
 12039,GEM 313,GEM,LS,Gemi Makinaları,Fiziksel (Yüz yüze),"Murat Emre Demir , Halil Saraçoğlu",MEDC | MEDC,Salı | Perşembe,08:30/10:29 | 13:30/15:29,2D17 | 2D17,40,0,-,"GEM_LS, GEM_YD",Detay,-
 12040,GEM 313,GEM,LS,Gemi Makinaları,Fiziksel (Yüz yüze),"Oğuz Salim Söğüt , Ahmet Ergün Palaz",MEDC | MEDC,Salı | Perşembe,08:30/10:29 | 13:30/15:29,2D13 | 2D13,40,0,-,GEM_LS,Detay,-
@@ -4904,10 +4904,10 @@
 15145,THO 117,THO,LS,Kondisyon Ve Esneme I (Krdsz),Fiziksel (Yüz yüze),Funda Bozkurt Saygı,undeclared | undeclared,Çarşamba | Perşembe,13:30/15:29 | 13:30/15:29,-- | --,12,0,-,THO_LS,-,-
 15146,SES 427,SES,LS,Sahne Bilgisi ve Jest Mimik,Fiziksel (Yüz yüze),Kemal Akdoğan,undeclared,Çarşamba,08:30/10:29,--,30,0,-,"CAB_LS, CEB_LS, SES_LS",-,-
 15147,MMD 102E,MMD,LS,Ethics for Maritime Business,Fiziksel (Yüz yüze),Burak Zincir,DZB,Salı,08:30/10:29,--,30,0,-,MMD_LS,-,-
-15148,MMD 203E,MMD,LS,Research Methods,Fiziksel (Yüz yüze),Pelin Bolat,DZB,Perşembe,15:30/18:29,--,30,0,-,MMD_LS,-,-
+15148,MMD 203E,MMD,LS,Research Methods,Fiziksel (Yüz yüze),Sabire Cömert,,,-/-,,0,0,-,MMD_LS,-,-
 15149,MMD 207E,MMD,LS,Marine Tourism,Fiziksel (Yüz yüze),Muhsin Kadıoğlu,DZB,Pazartesi,13:30/15:29,--,30,0,-,MMD_LS,-,-
 15150,DFH 497E,DFH,LS,Org.Mngt &Behavior in Maritime,Fiziksel (Yüz yüze),Serdar Kum,DZB | DZB,Pazartesi | Pazartesi,11:30/13:29 | 18:30/19:29,-- | --,30,0,-,MMD_LS,-,-
-15151,MMD 209E,MMD,LS,Transportation Planning&Mng.,Fiziksel (Yüz yüze),Pelin Bolat,DZB,Pazartesi,15:30/18:29,--,30,0,-,MMD_LS,-,-
+15151,MMD 209E,MMD,LS,Transportation Planning&Mng.,Fiziksel (Yüz yüze),Pelin Bolat,DZB,Perşembe,15:30/18:29,--,30,0,-,MMD_LS,-,-
 15152,MMD 213E,MMD,LS,Maritime Policy,Fiziksel (Yüz yüze),Muhsin Kadıoğlu,DZB,Pazartesi,08:30/11:29,--,30,0,-,MMD_LS,-,-
 15153,DFH 361E,DFH,LS,Ship Supply Chain Management,Fiziksel (Yüz yüze),Cenk Ay,DZB,Perşembe,08:30/10:29,--,30,0,-,MMD_LS,-,-
 15154,MKS 593,MKS,LU,Konstrüksiyon.Tolerans Analizi,Fiziksel (Yüz yüze),"Serpil Kurt Habiboğlu , Umut Şahin",undeclared,Pazartesi,13:30/16:29,--,0,0,-,,-,-
@@ -5165,3 +5165,27 @@
 15411,KON 425,KON,LS,Süreç Kontrolü,Fiziksel (Yüz yüze),İlhan Kocaarslan,undeclared,Çarşamba,08:30/11:29,--,50,0,-,"EHB_LS, KOM_LS, MKN_YD_EL, ROS_LS",Detay,-
 15412,EHB 477E,EHB,LS,Fundm.of Electrmgn.Compt.,Fiziksel (Yüz yüze),Mehmet Nuri Akıncı,undeclared,Salı,08:30/11:29,--,60,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detay,-
 15413,ISE 304,ISE,LS,SW Engineering,Fiziksel (Yüz yüze),-,undeclared,Çarşamba,12:30/15:29,--,45,0,-,SBL_LS,-,-
+15414,BEB 101,BEB,LS,Temel Yüzme Becerisi Öğrenimi,Fiziksel (Yüz yüze),-,,,-/-,,12,0,-,,-,-
+15415,MTH 414E,MTH,LS,Introduction to Launch Vehicle Design and Industrial Practice,Fiziksel (Yüz yüze),Fırat Oğuz Edis,undeclared,Çarşamba,08:30/11:29,--,50,0,-,"UCK_LS, UZBE_LS",Detay,-
+15416,MMD 101E,MMD,LS,Intr.to Maritime Bus.Administ.,Fiziksel (Yüz yüze),Kaya Tokmakçıoğlu,MSB,Cuma,14:30/16:29,--,25,0,-,MMD_LS,-,-
+15417,MMD 111E,MMD,LS,Intr. to Business Analytics,Fiziksel (Yüz yüze),Ömer Lütfi Antalyalı,MSB,Perşembe,14:30/17:29,--,25,0,-,MMD_LS,-,-
+15418,MMD 211E,MMD,LS,Accounting&Financial Stat.Anl.,Fiziksel (Yüz yüze),Kaya Tokmakçıoğlu,MSB,Salı,13:30/16:29,--,30,0,-,MMD_LS,-,-
+15419,MMD 305E,MMD,LS,Operations Research,Fiziksel (Yüz yüze),Ferhan Çebi,MSB,Pazartesi,13:30/16:29,--,30,0,-,MMD_LS,Detay,-
+15420,EFN 105E,EFN,LS,Principles of Microeconomics,Fiziksel (Yüz yüze),Derya Gültekin,MSB,Pazartesi,13:30/17:29,--,30,0,-,EFN_LS,-,-
+15421,EFN 211E,EFN,LS,Statistical Meth. in Economics,Fiziksel (Yüz yüze),Ömer Lütfi Antalyalı,MSB,Salı,14:30/18:29,--,40,0,-,EFN_LS,-,-
+15422,EFN 301E,EFN,LS,Econometrics I,Fiziksel (Yüz yüze),Zehra Atik,MSB,Salı,13:30/17:29,--,40,0,-,EFN_LS,Detay,-
+15423,EFN 307E,EFN,LS,Game Theory,Fiziksel (Yüz yüze),Qian Li,MSB,Perşembe,13:30/16:29,--,40,0,-,EFN_LS,Detay,-
+15425,EFN 305E,EFN,LS,Industrial Organisation,Fiziksel (Yüz yüze),Shourjo Chakravorty,MSB,Cuma,09:30/12:29,--,40,0,-,EFN_LS,Detay,-
+15426,CEN 101E,CEN,LS,Intr. to Information Systems,Fiziksel (Yüz yüze),Ömer Özyıldırım,BBB,Perşembe,08:30/11:29,--,0,0,-,CEN_LS,-,-
+15427,CEN 113E,CEN,LS,Intr.toComp.Eng.and Ethics,Fiziksel (Yüz yüze),Eşref Adalı,BBB,Çarşamba,13:30/15:29,--,150,0,-,CEN_LS,-,-
+15428,MAT 281E,MAT,LS,Linear Algebra and Applicat.,Fiziksel (Yüz yüze),Muhammed Lütfi Yarar,BBB,Perşembe,08:30/11:29,--,0,0,-,CEN_LS,-,-
+15429,CEN 223E,CEN,LS,Data Structures,Fiziksel (Yüz yüze),Meriç Yücel,BBB | BBB,Salı | Perşembe,08:30/10:29 | 14:30/16:29,-- | --,80,0,-,CEN_LS,Detay,-
+15430,CEN 231E,CEN,LS,Digital Circuits,Fiziksel (Yüz yüze),Mehmet Ali Sarıkaya,BBB,Cuma,08:30/11:29,--,70,0,-,CEN_LS,-,-
+15431,MAT 210E,MAT,LS,Engineering Mathematics,Fiziksel (Yüz yüze),-,,,-/-,,0,0,-,CEN_LS,Detay,-
+15432,MAT 271E,MAT,LS,Probability and Statistics,Fiziksel (Yüz yüze),İbrahim Papila,,,-/-,,0,0,-,CEN_LS,-,-
+15433,CEN 212E,CEN,LS,Microprocessor Systems,Fiziksel (Yüz yüze),-,BBB,Pazartesi,08:30/11:29,--,0,0,-,CEN_LS,Detay,-
+15434,CEN 317E,CEN,LS,Database Systems,Fiziksel (Yüz yüze),Mehmet Ali Ertürk,BBB,Çarşamba,08:30/11:29,--,80,0,-,CEN_LS,Detay,-
+15435,CEN 335E,CEN,LS,Analysis of Algorithms I,Fiziksel (Yüz yüze),Mehmet Ali Sarıkaya,BBB,Perşembe,08:30/11:29,--,75,0,-,CEN_LS,Detay,-
+15436,CEN 411E,CEN,LS,Software Engineering,Fiziksel (Yüz yüze),Mehmet Ali Sarıkaya,BBB,Pazartesi,09:30/12:29,--,80,0,-,CEN_LS,Detay,-
+15437,CEN 336E,CEN,LS,Analysis of Algorithms II,Fiziksel (Yüz yüze),Mehmet Ali Sarıkaya,BBB,Perşembe,13:30/16:29,--,40,0,-,CEN_LS,Detay,-
+15438,BLG 322E,BLG,LS,Computer Architecture,Fiziksel (Yüz yüze),Nizamettin Aydın,BBB,Salı,08:30/11:29,--,40,0,-,CEN_LS,Detay,-

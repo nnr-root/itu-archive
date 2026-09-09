@@ -5595,7 +5595,7 @@
   "CEN 101E",
   "Intr. to Information Systems",
   "CEN",
-  1
+  2
  ],
  [
   "CEN 102E",
@@ -5613,7 +5613,7 @@
   "CEN 113E",
   "Intr.toComp.Eng.and Ethics",
   "CEN",
-  1
+  2
  ],
  [
   "CEN 202E",
@@ -5622,16 +5622,28 @@
   3
  ],
  [
+  "CEN 212E",
+  "Microprocessor Systems",
+  "CEN",
+  1
+ ],
+ [
   "CEN 222E",
   "Computer Organization",
   "CEN",
   2
  ],
  [
+  "CEN 223E",
+  "Data Structures",
+  "CEN",
+  1
+ ],
+ [
   "CEN 231E",
   "Digital Circuits",
   "CEN",
-  1
+  2
  ],
  [
   "CEN 242E",
@@ -5658,16 +5670,22 @@
   2
  ],
  [
+  "CEN 317E",
+  "Database Systems",
+  "CEN",
+  1
+ ],
+ [
   "CEN 335E",
   "Analysis of Algorithms I",
   "CEN",
-  1
+  2
  ],
  [
   "CEN 336E",
   "Analysis of Algorithms II",
   "CEN",
-  1
+  2
  ],
  [
   "CEN 351E",
@@ -5686,6 +5704,12 @@
   "Tech. Communic.for Comp.Eng.",
   "CEN",
   2
+ ],
+ [
+  "CEN 411E",
+  "Software Engineering",
+  "CEN",
+  1
  ],
  [
   "CEV 101",
@@ -10311,7 +10335,7 @@
   "EFN 105E",
   "Principles of Microeconomics",
   "EFN",
-  1
+  2
  ],
  [
   "EFN 202E",
@@ -10332,14 +10356,38 @@
   2
  ],
  [
+  "EFN 211E",
+  "Statistical Meth. in Economics",
+  "EFN",
+  1
+ ],
+ [
+  "EFN 301E",
+  "Econometrics I",
+  "EFN",
+  1
+ ],
+ [
   "EFN 302E",
   "Econometrics II",
   "EFN",
   1
  ],
  [
+  "EFN 305E",
+  "Industrial Organisation",
+  "EFN",
+  1
+ ],
+ [
   "EFN 306E",
   "Financial Markets&Institutions",
+  "EFN",
+  1
+ ],
+ [
+  "EFN 307E",
+  "Game Theory",
   "EFN",
   1
  ],
@@ -29355,7 +29403,7 @@
   "MAT 281E",
   "Linear Algebra and Applicat.",
   "MAT",
-  16
+  17
  ],
  [
   "MAT 287",
@@ -32931,7 +32979,7 @@
   "MMD 101E",
   "Intr.to Maritime Bus.Administ.",
   "MMD",
-  1
+  2
  ],
  [
   "MMD 102E",
@@ -32943,7 +32991,7 @@
   "MMD 111E",
   "Intr. to Business Analytics",
   "MMD",
-  1
+  2
  ],
  [
   "MMD 203E",
@@ -32985,7 +33033,7 @@
   "MMD 211E",
   "Accounting&Financial Stat.Anl.",
   "MMD",
-  1
+  2
  ],
  [
   "MMD 213E",
@@ -33016,6 +33064,12 @@
   "Maritime Insurance Law",
   "MMD",
   2
+ ],
+ [
+  "MMD 305E",
+  "Operations Research",
+  "MMD",
+  1
  ],
  [
   "MMD 306E",
@@ -34166,6 +34220,12 @@
  [
   "MTH 408",
   "Uzay Radyasyon Ortamı ve Etkileri",
+  "MTH",
+  1
+ ],
+ [
+  "MTH 414E",
+  "Introduction to Launch Vehicle Design and Industrial Practice",
   "MTH",
   1
  ],

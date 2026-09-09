@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-09T13:01:10Z",
+ "scrapedAt": "2026-09-09T17:52:38Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5166,
- "courses": 3651,
+ "sections": 5190,
+ "courses": 3671,
  "branches": [
   {
    "code": "ABM",
@@ -75,7 +75,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 47
+   "sections": 48
   },
   {
    "code": "BEN",
@@ -118,7 +118,7 @@
     "LS",
     "LU"
    ],
-   "sections": 77
+   "sections": 78
   },
   {
    "code": "BLU",
@@ -182,6 +182,13 @@
     "LU"
    ],
    "sections": 24
+  },
+  {
+   "code": "CEN",
+   "levels": [
+    "LS"
+   ],
+   "sections": 9
   },
   {
    "code": "CEV",
@@ -351,6 +358,13 @@
     "LS"
    ],
    "sections": 39
+  },
+  {
+   "code": "EFN",
+   "levels": [
+    "LS"
+   ],
+   "sections": 5
   },
   {
    "code": "EGC",
@@ -834,7 +848,7 @@
     "LS",
     "LU"
    ],
-   "sections": 120
+   "sections": 123
   },
   {
    "code": "MBA",
@@ -975,7 +989,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 17
+   "sections": 21
   },
   {
    "code": "MMI",
@@ -1024,7 +1038,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 12
+   "sections": 13
   },
   {
    "code": "MTM",
@@ -1545,11 +1559,11 @@
   }
  ],
  "stats": {
-  "sections": 5166,
-  "courses": 3651,
-  "branches": 216,
-  "instructors": 1751,
-  "capacity": 250230,
+  "sections": 5190,
+  "courses": 3671,
+  "branches": 218,
+  "instructors": 1756,
+  "capacity": 251177,
   "enrolled": 0
  }
 }
