@@ -129,7 +129,7 @@
   "AKM 204E",
   "Fluid Mechanics",
   "AKM",
-  26
+  27
  ],
  [
   "AKM 205",
@@ -11157,7 +11157,7 @@
   "EHB 477E",
   "Fundm.of Electrmgn.Compt.",
   "EHB",
-  2
+  3
  ],
  [
   "EHB 481",
@@ -20991,7 +20991,7 @@
   "ISE 304",
   "SW Engineering",
   "ISE",
-  6
+  7
  ],
  [
   "ISE 305",
@@ -24687,7 +24687,7 @@
   "KIM 212L",
   "Enstrumental Analitik Yön.Lab.",
   "KIM",
-  9
+  10
  ],
  [
   "KIM 214E",
@@ -24709,9 +24709,9 @@
  ],
  [
   "KIM 222E",
-  "Inst. Analytical Methods Lab",
+  "Instrumental Analysis Methods Laboratory",
   "KIM",
-  1
+  2
  ],
  [
   "KIM 223",
@@ -24921,7 +24921,7 @@
   "KIM 319E",
   "Cosmetic Chemistry",
   "KIM",
-  9
+  10
  ],
  [
   "KIM 320",
@@ -25107,7 +25107,7 @@
   "KIM 431",
   "Organik Reaksiyonlar",
   "KIM",
-  3
+  4
  ],
  [
   "KIM 431E",
@@ -25155,7 +25155,7 @@
   "KIM 452",
   "Koordinasyon Kimyası",
   "KIM",
-  2
+  3
  ],
  [
   "KIM 452E",
@@ -25206,6 +25206,12 @@
   6
  ],
  [
+  "KIM 481",
+  "Endüstriyel Polimerler",
+  "KIM",
+  1
+ ],
+ [
   "KIM 481E",
   "Industrial Polymers",
   "KIM",
@@ -25215,7 +25221,7 @@
   "KIM 482",
   "Organik Reaksiyonlar",
   "KIM",
-  3
+  4
  ],
  [
   "KIM 482E",
@@ -26895,7 +26901,7 @@
   "KON 425",
   "Süreç Kontrolü",
   "KON",
-  2
+  3
  ],
  [
   "KON 425E",
@@ -29821,7 +29827,7 @@
  ],
  [
   "MAT 606E",
-  "Algebratic Topology",
+  "Algebraic Topology",
   "MAT",
   1
  ],
@@ -34132,6 +34138,12 @@
   "Fnc.Safety&PwrtrainAppAutoInd",
   "MTH",
   3
+ ],
+ [
+  "MTH 405",
+  "Uçuş Kontrol Sistemleri",
+  "MTH",
+  1
  ],
  [
   "MTH 405E",

@@ -10750,9 +10750,9 @@
   "rows": [
    [
     "2026-2027-guz",
-    "STA 204E",
-    "Statics\u0026Strength of Materials",
-    60,
+    "STA 201E",
+    "Statics",
+    50,
     0
    ],
    [
@@ -11626,6 +11626,13 @@
     "MAT 103E",
     "Mathematics I",
     0,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "MTH 123",
+    "Calculus",
+    40,
     0
    ],
    [
@@ -32312,9 +32319,9 @@
   "rows": [
    [
     "2026-2027-guz",
-    "MTH 123",
-    "Calculus",
-    40,
+    "MTH 106",
+    "Calculus II",
+    30,
     0
    ],
    [
