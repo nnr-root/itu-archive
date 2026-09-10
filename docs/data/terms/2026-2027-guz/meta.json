@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-09T22:37:36Z",
+ "scrapedAt": "2026-09-10T07:17:49Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5190,
- "courses": 3671,
+ "sections": 5194,
+ "courses": 3676,
  "branches": [
   {
    "code": "ABM",
@@ -1053,7 +1053,7 @@
     "LS",
     "LU"
    ],
-   "sections": 66
+   "sections": 67
   },
   {
    "code": "MTR",
@@ -1295,6 +1295,13 @@
     "LS"
    ],
    "sections": 9
+  },
+  {
+   "code": "SMK",
+   "levels": [
+    "LS"
+   ],
+   "sections": 3
   },
   {
    "code": "SNT",
@@ -1559,11 +1566,11 @@
   }
  ],
  "stats": {
-  "sections": 5190,
-  "courses": 3671,
-  "branches": 218,
+  "sections": 5194,
+  "courses": 3676,
+  "branches": 219,
   "instructors": 1756,
-  "capacity": 251177,
+  "capacity": 251267,
   "enrolled": 0
  }
 }

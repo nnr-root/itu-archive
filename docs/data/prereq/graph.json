@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09T07:24:03Z",
+ "generatedAt": "2026-09-10T07:19:21Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -4555,7 +4555,7 @@
   },
   {
    "code": "CEN 212E",
-   "name": "Mikroişlemci Sistemleri",
+   "name": "Microprocessor Systems",
    "branch": "CEN",
    "requirement": "( BLG 231 MIN. DD Veya BLG 231E MIN. DD ) Veya ( EHB 205 MIN. DD Veya EHB 205E MIN. DD ) Veya ( EEF 205 MIN. DD Veya EEF 205E MIN. DD ) Veya ( CEN 231 MIN. DD Veya CEN 231E MIN. DD )"
   },
@@ -4567,7 +4567,7 @@
   },
   {
    "code": "CEN 223E",
-   "name": "Veri Yapıları",
+   "name": "Data Structures",
    "branch": "CEN",
    "requirement": "( BLG 102 MIN. DD Veya BLG 102E MIN. DD ) Veya ( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 105 MIN. DD Veya BIL 105E MIN. DD ) Veya CEN 102E MIN. DD"
   },
@@ -4625,7 +4625,7 @@
   },
   {
    "code": "CEN 317E",
-   "name": "Veritabanı Sistemleri",
+   "name": "Database Systems",
    "branch": "CEN",
    "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD ) Veya ( MUH 212 MIN. DD Veya MUH 212E MIN. DD ) Veya ( YZV 201 MIN. DD Veya YZV 201E MIN. DD ) Veya ( CEN 252 MIN. DD Veya CEN 252E MIN. DD )"
   },
@@ -4673,7 +4673,7 @@
   },
   {
    "code": "CEN 411E",
-   "name": "Yazılım Mühendisliği",
+   "name": "Software Engineering",
    "branch": "CEN",
    "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD ) Veya ( CEN 252 MIN. DD Veya CEN 252E MIN. DD )"
   },
@@ -7066,7 +7066,7 @@
   },
   {
    "code": "EFN 211E",
-   "name": "",
+   "name": "Statistical Meth. in Economics",
    "branch": "EFN"
   },
   {
@@ -18608,7 +18608,7 @@
   },
   {
    "code": "KIM 222E",
-   "name": "Inst. Analytical Methods Lab",
+   "name": "Instrumental Analysis Methods Laboratory",
    "branch": "KIM",
    "requirement": "( KIM 211 MIN. DD Veya KIM 211E MIN. DD ) Veya ( KIM 221 MIN. DD Veya KIM 221E MIN. DD )"
   },
@@ -25554,7 +25554,7 @@
   },
   {
    "code": "MMD 305E",
-   "name": "Yöneylem Araştırması",
+   "name": "Operations Research",
    "branch": "MMD",
    "requirement": "( MAT 104 MIN. DD Veya MAT 104E MIN. DD )"
   },
@@ -26073,7 +26073,7 @@
   },
   {
    "code": "MTH 414E",
-   "name": "Fırlatma Aracı Tasarımına Giriş ve Endüstri Deneyimi",
+   "name": "Introduction to Launch Vehicle Design and Industrial Practice",
    "branch": "MTH",
    "requirement": "( UZB 362 MIN. DD Veya UZB 362E MIN. DD )"
   },
@@ -26332,7 +26332,7 @@
   },
   {
    "code": "MTO 408E",
-   "name": "Mikrometeoroloji",
+   "name": "Micrometeorology",
    "branch": "MTO",
    "requirement": "( MTO 333 MIN. DD Veya MTO 333E MIN. DD ) Veya ( MTO 337 MIN. DD Veya MTO 337E MIN. DD )"
   },
