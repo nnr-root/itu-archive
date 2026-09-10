@@ -210,6 +210,18 @@
   6
  ],
  [
+  "ALG 301",
+  "Elektroniğe Giriş",
+  "ALG",
+  1
+ ],
+ [
+  "ALG 303",
+  "Algılayıcı (Sensör) Teknolojileri",
+  "ALG",
+  1
+ ],
+ [
   "ALM 101",
   "German I",
   "ALM",
@@ -714,8 +726,8 @@
   1
  ],
  [
-  "BGK 502E",
-  "Operating System Security",
+  "BGK 502",
+  "İşletim Sistemleri Güvenliği",
   "BGK",
   1
  ],
@@ -1395,7 +1407,7 @@
   "BLG 252E",
   "Object Oriented Programming",
   "BLG",
-  14
+  15
  ],
  [
   "BLG 311",
@@ -7554,6 +7566,12 @@
   1
  ],
  [
+  "DEN 204E",
+  "Data Analysis for Marine Applications",
+  "DEN",
+  1
+ ],
+ [
   "DEN 208E",
   "Const.of Ship&Offshore Strc.",
   "DEN",
@@ -9594,6 +9612,12 @@
   1
  ],
  [
+  "EBT 529E",
+  "Geothermal Energy",
+  "EBT",
+  1
+ ],
+ [
   "EBT 532E",
   "Bioener.Recov.from Organ.Waste",
   "EBT",
@@ -10983,7 +11007,7 @@
   "EHB 429E",
   "Communication Electronic Circuits",
   "EHB",
-  3
+  4
  ],
  [
   "EHB 431E",
@@ -21486,6 +21510,12 @@
   9
  ],
  [
+  "ISL 464E",
+  "Deep Learning with Business Applications",
+  "ISL",
+  1
+ ],
+ [
   "ISL 465E",
   "Int.to Entrepreneurship&Innov.",
   "ISL",
@@ -26766,12 +26796,6 @@
   13
  ],
  [
-  "KON 319",
-  "Kontrol Sistemlerinin Analizi",
-  "KON",
-  1
- ],
- [
   "KON 319E",
   "Analysis of Control Systems",
   "KON",
@@ -26955,7 +26979,7 @@
   "KON 425E",
   "Process Control",
   "KON",
-  10
+  9
  ],
  [
   "KON 426E",
@@ -39416,6 +39440,12 @@
  [
   "PST 603E",
   "Modification of Polymers",
+  "PST",
+  1
+ ],
+ [
+  "PST 613E",
+  "Membrane Technology",
   "PST",
   1
  ],

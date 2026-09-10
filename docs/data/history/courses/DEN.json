@@ -215,6 +215,22 @@
    ]
   ]
  },
+ "DEN 204E": {
+  "code": "DEN 204E",
+  "name": "Data Analysis for Marine Applications",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Bülent Düz",
+    20,
+    0,
+    "Pazartesi"
+   ]
+  ]
+ },
  "DEN 208E": {
   "code": "DEN 208E",
   "name": "Const.of Ship&Offshore Strc.",
@@ -2141,10 +2157,10 @@
   "rows": [
    [
     "2026-2027-guz",
-    "Erdal Gedikoğlu",
+    "-",
     30,
     0,
-    "Cuma"
+    "Salı"
    ],
    [
     "2025-2026-guz",

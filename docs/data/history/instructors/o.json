@@ -5692,6 +5692,13 @@
    ],
    [
     "2026-2027-guz",
+    "MTR 103",
+    "Müzik Teorisi I",
+    30,
+    0
+   ],
+   [
+    "2026-2027-guz",
     "MTR 123",
     "Müzik Teorisi I",
     25,
@@ -8223,13 +8230,6 @@
  "Osman Taylan": {
   "name": "Osman Taylan",
   "rows": [
-   [
-    "2026-2027-guz",
-    "ISL 224E",
-    "Cost Accounting",
-    80,
-    0
-   ],
    [
     "2026-2027-guz",
     "ISL 334E",
@@ -13326,6 +13326,13 @@
   "name": "Oğuzhan Kızılbey",
   "rows": [
    [
+    "2026-2027-guz",
+    "EHB 429E",
+    "Communication Electronic Circuits",
+    60,
+    0
+   ],
+   [
     "2025-2026-guz",
     "EHB 429E",
     "Communication Electronic Circuits",
@@ -13333,7 +13340,7 @@
     0
    ]
   ],
-  "terms": 1
+  "terms": 2
  },
  "Ömer Berk Berkalp": {
   "name": "Ömer Berk Berkalp",

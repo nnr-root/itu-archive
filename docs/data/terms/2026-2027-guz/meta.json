@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-10T07:17:49Z",
+ "scrapedAt": "2026-09-10T12:58:43Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5194,
- "courses": 3676,
+ "sections": 5206,
+ "courses": 3682,
  "branches": [
   {
    "code": "ABM",
@@ -27,6 +27,13 @@
     "LS"
    ],
    "sections": 4
+  },
+  {
+   "code": "ALG",
+   "levels": [
+    "LS"
+   ],
+   "sections": 2
   },
   {
    "code": "ALM",
@@ -75,7 +82,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 48
+   "sections": 50
   },
   {
    "code": "BEN",
@@ -118,7 +125,7 @@
     "LS",
     "LU"
    ],
-   "sections": 78
+   "sections": 79
   },
   {
    "code": "BLU",
@@ -266,7 +273,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 39
+   "sections": 40
   },
   {
    "code": "DEP",
@@ -336,7 +343,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 41
+   "sections": 42
   },
   {
    "code": "ECN",
@@ -357,7 +364,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 39
+   "sections": 38
   },
   {
    "code": "EFN",
@@ -378,7 +385,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 74
+   "sections": 75
   },
   {
    "code": "EHN",
@@ -459,7 +466,7 @@
     "LS",
     "LU"
    ],
-   "sections": 210
+   "sections": 211
   },
   {
    "code": "FRA",
@@ -624,7 +631,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 206
+   "sections": 207
   },
   {
    "code": "INS",
@@ -667,7 +674,7 @@
     "LS",
     "LU"
    ],
-   "sections": 60
+   "sections": 61
   },
   {
    "code": "ISP",
@@ -789,7 +796,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 48
+   "sections": 46
   },
   {
    "code": "KTB",
@@ -947,7 +954,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 151
+   "sections": 152
   },
   {
    "code": "MIT",
@@ -1038,7 +1045,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 13
+   "sections": 14
   },
   {
    "code": "MTM",
@@ -1060,7 +1067,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 53
+   "sections": 54
   },
   {
    "code": "MTS",
@@ -1188,7 +1195,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 12
+   "sections": 13
   },
   {
    "code": "PYY",
@@ -1566,11 +1573,11 @@
   }
  ],
  "stats": {
-  "sections": 5194,
-  "courses": 3676,
-  "branches": 219,
-  "instructors": 1756,
-  "capacity": 251267,
+  "sections": 5206,
+  "courses": 3682,
+  "branches": 220,
+  "instructors": 1762,
+  "capacity": 251980,
   "enrolled": 0
  }
 }
