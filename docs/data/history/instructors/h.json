@@ -2518,6 +2518,13 @@
    ],
    [
     "2026-2027-guz",
+    "EHB 466E",
+    "Remote Sensing",
+    50,
+    0
+   ],
+   [
+    "2026-2027-guz",
     "EHN 252",
     "Signals and Systems",
     30,
@@ -16716,6 +16723,13 @@
   "name": "Hasan Erdem Yantır",
   "rows": [
    [
+    "2026-2027-guz",
+    "MTH 401E",
+    "RISC-V Architecture \u0026Processor",
+    40,
+    0
+   ],
+   [
     "2025-2026-bahar",
     "MTH 401E",
     "RISC-V Architecture \u0026Processor",
@@ -16737,7 +16751,7 @@
     50
    ]
   ],
-  "terms": 3
+  "terms": 4
  },
  "Hasan Ergin": {
   "name": "Hasan Ergin",
@@ -31500,7 +31514,7 @@
     "2026-2027-guz",
     "MET 457E",
     "Semiconductor Materials",
-    45,
+    0,
     0
    ],
    [

@@ -374,7 +374,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Fırat Oğuz Edis",
   "buildings": [
-   "undeclared"
+   "MEDC"
   ],
   "days": [
    "Çarşamba"
@@ -383,7 +383,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "2D16"
   ],
   "capacity": 50,
   "enrolled": 0,
@@ -410,6 +410,33 @@
   ],
   "rooms": [],
   "capacity": 60,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "Detay"
+ },
+ {
+  "crn": "15462",
+  "code": "MTH 401E",
+  "branch": "MTH",
+  "level": "LS",
+  "name": "RISC-V Architecture &Processor",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Hasan Erdem Yantır",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "12:30/15:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 40,
   "enrolled": 0,
   "reserved": "-",
   "programs": [],

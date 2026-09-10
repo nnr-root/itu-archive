@@ -7,18 +7,12 @@
   "name": "Elektroniğe Giriş",
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "-",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Cuma"
-  ],
+  "buildings": [],
+  "days": [],
   "times": [
-   "09:00/11:59"
+   "-/-"
   ],
-  "rooms": [
-   "--"
-  ],
+  "rooms": [],
   "capacity": 40,
   "enrolled": 0,
   "reserved": "-",
