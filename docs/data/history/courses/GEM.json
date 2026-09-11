@@ -1603,12 +1603,20 @@
   "code": "GEM 313E",
   "name": "Marine Engines",
   "terms": [
+   "2026-2027-guz",
    "2021-2022-bahar",
    "2019-2020-guz",
    "2018-2019-guz",
    "2017-2018-guz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Murat Durmaz",
+    50,
+    0,
+    "Çarşamba, Cuma"
+   ],
    [
     "2021-2022-bahar",
     "Murat Emre Demir",
@@ -2281,9 +2289,17 @@
   "code": "GEM 325E",
   "name": "Ship Construction",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "İbrahim Tuğrul Ardıç",
+    50,
+    0,
+    "Pazartesi, Çarşamba"
+   ],
    [
     "2025-2026-bahar",
     "İbrahim Tuğrul Ardıç",
@@ -2636,6 +2652,22 @@
     70,
     30,
     "Perşembe"
+   ]
+  ]
+ },
+ "GEM 329E": {
+  "code": "GEM 329E",
+  "name": "Maritime and Labor Law",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Hasan Murat Demirkıran",
+    50,
+    0,
+    "Cuma"
    ]
   ]
  },
@@ -4866,6 +4898,22 @@
     25,
     28,
     "Çarşamba"
+   ]
+  ]
+ },
+ "GEM 443E": {
+  "code": "GEM 443E",
+  "name": "Structural Design of Ships",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "İbrahim Tuğrul Ardıç",
+    50,
+    0,
+    "Çarşamba, Çarşamba"
    ]
   ]
  },

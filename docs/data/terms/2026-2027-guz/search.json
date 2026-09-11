@@ -131699,8 +131699,8 @@
   "Strength of Materials I",
   "NAE",
   "İbrahim Tuğrul Ardıç",
-  "",
-  0,
+  "Pazartesi 13:30/16:29",
+  50,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -135075,5 +135075,110 @@
   "LS",
   "Ek Sınav",
   []
+ ],
+ [
+  "15493",
+  "ENR 301",
+  "Heat Transfer",
+  "ENR",
+  "Murat Durmaz",
+  "Cuma 09:30/12:29",
+  20,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15494",
+  "MEN 411",
+  "Marine Auxialiary Machinery II",
+  "MEN",
+  "Ahmet Ergün Palaz",
+  "Perşembe 09:30/12:29",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15495",
+  "MAT 210E",
+  "Engineering Mathematics",
+  "MAT",
+  "Kürşat Hasözdemir",
+  "Çarşamba 13:30/15:29 | Perşembe 14:30/16:29",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15496",
+  "GEM 313E",
+  "Marine Engines",
+  "GEM",
+  "Murat Durmaz",
+  "Çarşamba 13:30/15:29 | Cuma 14:00/15:59",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15497",
+  "GEM 325E",
+  "Ship Construction",
+  "GEM",
+  "İbrahim Tuğrul Ardıç",
+  "Pazartesi 08:30/10:29 | Çarşamba 08:30/10:29",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15498",
+  "GEM 329E",
+  "Maritime and Labor Law",
+  "GEM",
+  "Hasan Murat Demirkıran",
+  "Cuma 10:30/12:29",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
+ ],
+ [
+  "15499",
+  "GEM 443E",
+  "Structural Design of Ships",
+  "GEM",
+  "İbrahim Tuğrul Ardıç",
+  "Çarşamba 13:30/15:29 | Çarşamba 17:30/18:29",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
+  ]
  ]
 ]

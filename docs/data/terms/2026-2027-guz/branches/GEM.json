@@ -2237,5 +2237,133 @@
   "programs": [],
   "prereq": "Detay",
   "classReq": "-"
+ },
+ {
+  "crn": "15496",
+  "code": "GEM 313E",
+  "branch": "GEM",
+  "level": "LS",
+  "name": "Marine Engines",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Murat Durmaz",
+  "buildings": [
+   "MEDC",
+   "MEDC"
+  ],
+  "days": [
+   "Çarşamba",
+   "Cuma"
+  ],
+  "times": [
+   "13:30/15:29",
+   "14:00/15:59"
+  ],
+  "rooms": [
+   "--",
+   "--"
+  ],
+  "capacity": 50,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "NAE_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15497",
+  "code": "GEM 325E",
+  "branch": "GEM",
+  "level": "LS",
+  "name": "Ship Construction",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "İbrahim Tuğrul Ardıç",
+  "buildings": [
+   "MEDC",
+   "MEDC"
+  ],
+  "days": [
+   "Pazartesi",
+   "Çarşamba"
+  ],
+  "times": [
+   "08:30/10:29",
+   "08:30/10:29"
+  ],
+  "rooms": [
+   "--",
+   "--"
+  ],
+  "capacity": 50,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "NAE_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15498",
+  "code": "GEM 329E",
+  "branch": "GEM",
+  "level": "LS",
+  "name": "Maritime and Labor Law",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Hasan Murat Demirkıran",
+  "buildings": [
+   "MEDC"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "10:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 50,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "NAE_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15499",
+  "code": "GEM 443E",
+  "branch": "GEM",
+  "level": "LS",
+  "name": "Structural Design of Ships",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "İbrahim Tuğrul Ardıç",
+  "buildings": [
+   "MEDC",
+   "MEDC"
+  ],
+  "days": [
+   "Çarşamba",
+   "Çarşamba"
+  ],
+  "times": [
+   "13:30/15:29",
+   "17:30/18:29"
+  ],
+  "rooms": [
+   "--",
+   "--"
+  ],
+  "capacity": 50,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "NAE_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
  }
 ]

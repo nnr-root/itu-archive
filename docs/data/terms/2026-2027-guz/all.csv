@@ -5046,7 +5046,7 @@
 15296,NAE 401,NAE,LS,Practical Training-III,Fiziksel (Yüz yüze),Murat Durmaz,,,-/-,,40,0,-,NAE_LS,-,Detay
 15297,NAE 101E,NAE,LS,Int.to Nav.Arch.&Mar.Eng.&Eth.,Fiziksel (Yüz yüze),Cihad Delen,MEDC,Perşembe,15:30/17:29,--,50,0,-,NAE_LS,-,-
 15298,DNK 201E,DNK,LS,Dynamics,Fiziksel (Yüz yüze),Oktay Eren Türeyen,MEDC,Pazartesi,10:30/13:29,--,50,0,-,NAE_LS,Detay,-
-15299,NAE 203,NAE,LS,Strength of Materials I,Fiziksel (Yüz yüze),İbrahim Tuğrul Ardıç,,,-/-,,0,0,-,NAE_LS,-,-
+15299,NAE 203,NAE,LS,Strength of Materials I,Fiziksel (Yüz yüze),İbrahim Tuğrul Ardıç,MEDC,Pazartesi,13:30/16:29,--,50,0,-,NAE_LS,-,-
 15300,MAT 202E,MAT,LS,Numerical Methods,Fiziksel (Yüz yüze),Özcan Kalenderli,MEDC,Çarşamba,09:00/11:59,--,50,0,-,NAE_LS,Detay,-
 15301,GEM 321E,GEM,LS,Ship Theory,Fiziksel (Yüz yüze),Erdem Üçer,MEDC,Salı,09:30/13:29,--,50,0,-,NAE_LS,Detay,-
 15302,GEM 327E,GEM,LS,Ship Hydrodynamics(Resistance),Fiziksel (Yüz yüze),Şakir Bal,MEDC,Pazartesi,10:30/12:29,--,50,0,-,NAE_LS,Detay,-
@@ -5235,3 +5235,10 @@
 15489,DEN 451E,DEN,LS,Ship Mod.Tst.&OceanographyLab.,Ek Sınav,"Ceren Bilgin Güney , Burcu Erbaş",,,-/-,,0,0,-,,-,-
 15490,GEM 411,GEM,LS,Gemi Tasarımı Projesi I,Ek Sınav,Selma Ergin,,,-/-,,0,0,-,,Detay,-
 15491,GEM 422,GEM,LS,Gemi Tasarım Projesi II,Ek Sınav,Selma Ergin,,,-/-,,0,0,-,,Detay,-
+15493,ENR 301,ENR,LS,Heat Transfer,Fiziksel (Yüz yüze),Murat Durmaz,MEDC,Cuma,09:30/12:29,--,20,0,-,NAE_LS,Detay,-
+15494,MEN 411,MEN,LS,Marine Auxialiary Machinery II,Fiziksel (Yüz yüze),Ahmet Ergün Palaz,MEDC,Perşembe,09:30/12:29,--,30,0,-,NAE_LS,Detay,-
+15495,MAT 210E,MAT,LS,Engineering Mathematics,Fiziksel (Yüz yüze),Kürşat Hasözdemir,MEDB | MEDB,Çarşamba | Perşembe,13:30/15:29 | 14:30/16:29,-- | --,50,0,-,NAE_LS,Detay,-
+15496,GEM 313E,GEM,LS,Marine Engines,Fiziksel (Yüz yüze),Murat Durmaz,MEDC | MEDC,Çarşamba | Cuma,13:30/15:29 | 14:00/15:59,-- | --,50,0,-,NAE_LS,Detay,-
+15497,GEM 325E,GEM,LS,Ship Construction,Fiziksel (Yüz yüze),İbrahim Tuğrul Ardıç,MEDC | MEDC,Pazartesi | Çarşamba,08:30/10:29 | 08:30/10:29,-- | --,50,0,-,NAE_LS,Detay,-
+15498,GEM 329E,GEM,LS,Maritime and Labor Law,Fiziksel (Yüz yüze),Hasan Murat Demirkıran,MEDC,Cuma,10:30/12:29,--,50,0,-,NAE_LS,-,-
+15499,GEM 443E,GEM,LS,Structural Design of Ships,Fiziksel (Yüz yüze),İbrahim Tuğrul Ardıç,MEDC | MEDC,Çarşamba | Çarşamba,13:30/15:29 | 17:30/18:29,-- | --,50,0,-,NAE_LS,Detay,-
