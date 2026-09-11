@@ -1,15 +1,15 @@
 {
  "currentTerm": "2026-2027 Güz Dönemi",
  "currentSlug": "2026-2027-guz",
- "scrapedAt": "2026-09-11T07:16:33Z",
+ "scrapedAt": "2026-09-11T12:52:53Z",
  "terms": [
   {
    "slug": "2026-2027-guz",
    "label": "2026-2027 Güz Dönemi",
-   "scrapedAt": "2026-09-11T07:16:33Z",
+   "scrapedAt": "2026-09-11T12:52:53Z",
    "source": "itu-archive",
    "live": true,
-   "sections": 5220
+   "sections": 5236
   },
   {
    "slug": "2025-2026-yaz",
@@ -264,11 +264,11 @@
   }
  ],
  "stats": {
-  "sections": 5220,
-  "courses": 3695,
+  "sections": 5236,
+  "courses": 3709,
   "branches": 221,
-  "instructors": 1763,
-  "capacity": 252119,
+  "instructors": 1765,
+  "capacity": 252350,
   "enrolled": 0
  }
 }

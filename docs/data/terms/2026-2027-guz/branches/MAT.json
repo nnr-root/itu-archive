@@ -1165,6 +1165,7 @@
    "METE_LS",
    "MIM_LS",
    "MIME_LS",
+   "MMD_LS",
    "MTO_LS",
    "PEM_LS",
    "PEME_LS",
@@ -2182,6 +2183,7 @@
    "GMIE_LS",
    "HTA_LS",
    "HTAE_LS",
+   "IAD_LS",
    "IBM_LS",
    "ICM_LS",
    "IML_LS",
@@ -6237,7 +6239,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 0,
+  "capacity": 70,
   "enrolled": 0,
   "reserved": "-",
   "programs": [
