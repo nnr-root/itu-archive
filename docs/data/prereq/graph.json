@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10T07:19:21Z",
+ "generatedAt": "2026-09-11T07:18:03Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -14366,7 +14366,7 @@
   },
   {
    "code": "IEB 215E",
-   "name": "",
+   "name": "System Thinking and Analysis",
    "branch": "IEB"
   },
   {
@@ -17100,7 +17100,7 @@
   },
   {
    "code": "ISL 464E",
-   "name": "İşletme Uygulamaları ile Derin Öğrenme",
+   "name": "Deep Learning with Business Applications",
    "branch": "ISL",
    "requirement": "( ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Ve ( ISL 214 MIN. DD Veya ISL 214E MIN. DD ) ) Veya ( ( END 311 MIN. DD Veya END 311E MIN. DD )",
    "classReq": "95,00"

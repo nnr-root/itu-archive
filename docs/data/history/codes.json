@@ -7713,13 +7713,13 @@
   "DEN 328E",
   "Oceanography",
   "DEN",
-  7
+  8
  ],
  [
   "DEN 330E",
   "Marine Engines&Aux.",
   "DEN",
-  7
+  8
  ],
  [
   "DEN 331E",
@@ -7815,7 +7815,7 @@
   "DEN 406E",
   "Offshore Structural Analysis",
   "DEN",
-  6
+  7
  ],
  [
   "DEN 411",
@@ -7887,7 +7887,7 @@
   "DEN 422",
   "Deniz Yapıları Proje II",
   "DEN",
-  5
+  6
  ],
  [
   "DEN 422E",
@@ -7971,7 +7971,7 @@
   "DEN 441",
   "Deniz Yapıları Proje I",
   "DEN",
-  4
+  5
  ],
  [
   "DEN 441E",
@@ -8103,7 +8103,7 @@
   "DEN 492",
   "Bitirme Çalışması",
   "DEN",
-  7
+  8
  ],
  [
   "DEN 492E",
@@ -19044,6 +19044,12 @@
   1
  ],
  [
+  "IEB 113E",
+  "Int.to Industrial Eng.& Ethics",
+  "IEB",
+  1
+ ],
+ [
   "IEB 210E",
   "Linear Algebra for Indust.Eng.",
   "IEB",
@@ -19052,6 +19058,12 @@
  [
   "IEB 213E",
   "Data Manag.in Industrial Syst.",
+  "IEB",
+  1
+ ],
+ [
+  "IEB 215E",
+  "System Thinking and Analysis",
   "IEB",
   1
  ],

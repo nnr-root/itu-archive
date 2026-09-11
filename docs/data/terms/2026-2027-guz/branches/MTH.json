@@ -332,7 +332,9 @@
   "capacity": 40,
   "enrolled": 0,
   "reserved": "-",
-  "programs": [],
+  "programs": [
+   "MAT_LS"
+  ],
   "prereq": "-",
   "classReq": "-"
  },
