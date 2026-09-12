@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11T07:18:03Z",
+ "generatedAt": "2026-09-12T07:10:17Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -5845,7 +5845,7 @@
   },
   {
    "code": "DEN 310E",
-   "name": "Resistance and Propulsion",
+   "name": "Marine Propulsion",
    "branch": "DEN",
    "requirement": "( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( AKM 204 MIN. DD Veya AKM 204E MIN. DD )"
   },
@@ -12325,7 +12325,7 @@
   },
   {
    "code": "GEM 443E",
-   "name": "Gemilerin Yapısal Dizaynı",
+   "name": "Structural Design of Ships",
    "branch": "GEM",
    "requirement": "( GEM 322 MIN. DD Veya GEM 322E MIN. DD )"
   },
