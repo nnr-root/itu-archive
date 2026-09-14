@@ -143,5 +143,92 @@
   ],
   "prereq": "Detay",
   "classReq": "-"
+ },
+ {
+  "crn": "15511",
+  "code": "EFN 306E",
+  "branch": "EFN",
+  "level": "LS",
+  "name": "Financial Markets&Institutions",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "-",
+  "buildings": [
+   "MSB"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "09:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "EFN_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15512",
+  "code": "EFN 403E",
+  "branch": "EFN",
+  "level": "LS",
+  "name": "Bank Management",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Ömer Haksever",
+  "buildings": [
+   "MSB"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "14:30/17:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 40,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "EFN_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15513",
+  "code": "EFN 404E",
+  "branch": "EFN",
+  "level": "LS",
+  "name": "Derivatives & Risk Management",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "-",
+  "buildings": [
+   "MSB"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "09:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "EFN_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
  }
 ]

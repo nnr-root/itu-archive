@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-14T07:53:10Z",
+ "scrapedAt": "2026-09-14T15:05:21Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5246,
- "courses": 3719,
+ "sections": 5268,
+ "courses": 3746,
  "branches": [
   {
    "code": "ABM",
@@ -61,7 +61,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 58
+   "sections": 59
   },
   {
    "code": "BBF",
@@ -259,7 +259,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 5
+   "sections": 3
   },
   {
    "code": "DCZ",
@@ -371,7 +371,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 5
+   "sections": 8
   },
   {
    "code": "EGC",
@@ -457,7 +457,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 1
+   "sections": 2
   },
   {
    "code": "EUT",
@@ -473,7 +473,7 @@
     "LS",
     "LU"
    ],
-   "sections": 211
+   "sections": 214
   },
   {
    "code": "FRA",
@@ -546,7 +546,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 72
+   "sections": 74
   },
   {
    "code": "GSB",
@@ -589,6 +589,13 @@
     "LUI"
    ],
    "sections": 4
+  },
+  {
+   "code": "IAD",
+   "levels": [
+    "LS"
+   ],
+   "sections": 3
   },
   {
    "code": "ICM",
@@ -645,7 +652,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 208
+   "sections": 195
   },
   {
    "code": "INS",
@@ -847,7 +854,7 @@
     "LS",
     "LU"
    ],
-   "sections": 125
+   "sections": 135
   },
   {
    "code": "MAL",
@@ -869,7 +876,7 @@
     "LS",
     "LU"
    ],
-   "sections": 124
+   "sections": 127
   },
   {
    "code": "MBA",
@@ -925,7 +932,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 6
+   "sections": 7
   },
   {
    "code": "MEN",
@@ -1287,7 +1294,7 @@
     "LS",
     "LU"
    ],
-   "sections": 69
+   "sections": 67
   },
   {
    "code": "SEC",
@@ -1349,6 +1356,13 @@
    "code": "SRM",
    "levels": [
     "LU"
+   ],
+   "sections": 4
+  },
+  {
+   "code": "SSI",
+   "levels": [
+    "LUI"
    ],
    "sections": 4
   },
@@ -1429,7 +1443,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 42
+   "sections": 43
   },
   {
    "code": "THO",
@@ -1527,7 +1541,7 @@
    "levels": [
     "LUI"
    ],
-   "sections": 3
+   "sections": 10
   },
   {
    "code": "YAB",
@@ -1594,11 +1608,11 @@
   }
  ],
  "stats": {
-  "sections": 5246,
-  "courses": 3719,
-  "branches": 223,
-  "instructors": 1763,
-  "capacity": 252285,
-  "enrolled": 0
+  "sections": 5268,
+  "courses": 3746,
+  "branches": 225,
+  "instructors": 1777,
+  "capacity": 252739,
+  "enrolled": 476
  }
 }

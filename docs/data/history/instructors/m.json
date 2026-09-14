@@ -1379,7 +1379,7 @@
     "ISG 503",
     "İş Hukuku",
     20,
-    0
+    3
    ],
    [
     "2025-2026-yaz",
@@ -4144,6 +4144,13 @@
     "VIA 505E",
     "Database Management\u0026Big Data",
     40,
+    18
+   ],
+   [
+    "2026-2027-guz",
+    "VIA 529E",
+    "Reinforce.Lear.for Busi.App.",
+    0,
     0
    ],
    [
@@ -8431,14 +8438,14 @@
     "MBA 519E",
     "Management\u0026Organizations",
     35,
-    0
+    17
    ],
    [
     "2026-2027-guz",
     "MBA 519E",
     "Management\u0026Organizations",
     35,
-    0
+    19
    ],
    [
     "2025-2026-bahar",
@@ -13315,6 +13322,13 @@
    ],
    [
     "2026-2027-guz",
+    "IAD 233E",
+    "Building Materials",
+    60,
+    0
+   ],
+   [
+    "2026-2027-guz",
     "MIM 231E",
     "Building Materials",
     150,
@@ -15656,6 +15670,13 @@
     0
    ],
    [
+    "2026-2027-guz",
+    "VIA 507E",
+    "Business Analytics for Manager",
+    40,
+    17
+   ],
+   [
     "2025-2026-bahar",
     "SED 305",
     "Intr. to Stochastic Modell.",
@@ -16231,7 +16252,7 @@
     "HGP 505",
     "İşletme İktisadı",
     35,
-    0
+    8
    ],
    [
     "2023-2024-guz",
@@ -18539,6 +18560,13 @@
     "ESL 101",
     "English I",
     35,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "ING 112",
+    "English I",
+    40,
     0
    ],
    [
@@ -24872,6 +24900,13 @@
     "Introduction to Marine Engineering and Ethics",
     40,
     0
+   ],
+   [
+    "2026-2027-guz",
+    "GMI 462",
+    "Buhar \u0026 Gaz Türbinleri Operas.",
+    30,
+    0
    ]
   ],
   "terms": 1
@@ -29001,14 +29036,14 @@
     "DCZ 508",
     "Denizci.Kalite Sist.\u0026Stan.",
     10,
-    0
+    8
    ],
    [
     "2026-2027-guz",
     "DUY 523",
     "Denizcilikte Kalite Yönetimi",
     10,
-    0
+    2
    ],
    [
     "2026-2027-guz",
@@ -33118,6 +33153,13 @@
     0
    ],
    [
+    "2026-2027-guz",
+    "SBP 4024",
+    "Taşınmaz Mal (Gyrm)Değerlemesi",
+    35,
+    0
+   ],
+   [
     "2025-2026-bahar",
     "GEO 292E",
     "Geomatics Project 10",
@@ -36328,6 +36370,48 @@
   "name": "Murat Bilgin",
   "rows": [
    [
+    "2026-2027-guz",
+    "BEB 116",
+    "Badminton Temel Beceri Eğitimi",
+    12,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "BEB 116",
+    "Badminton Temel Beceri Eğitimi",
+    12,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "BEB 116",
+    "Badminton Temel Beceri Eğitimi",
+    12,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "BEB 116",
+    "Badminton Temel Beceri Eğitimi",
+    12,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "BEB 105",
+    "Futbol ve Temel Hareket Öğret.",
+    25,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "BEB 105",
+    "Futbol ve Temel Hareket Öğret.",
+    25,
+    0
+   ],
+   [
     "2025-2026-bahar",
     "BEB 114",
     "Futsal Temel Beceri Eğitim",
@@ -37042,7 +37126,7 @@
     12
    ]
   ],
-  "terms": 16
+  "terms": 17
  },
  "Murat Budakoğlu": {
   "name": "Murat Budakoğlu",
@@ -40195,6 +40279,13 @@
     "MYZ 303E",
     "Artificial Intelligence in Civil Engineering",
     50,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "STA 204E",
+    "Statics\u0026Strength of Materials",
+    60,
     0
    ],
    [
@@ -51949,13 +52040,6 @@
  "Müjde Güzelkaya": {
   "name": "Müjde Güzelkaya",
   "rows": [
-   [
-    "2026-2027-guz",
-    "DAN 102",
-    "Girişimcilik \u0026 Kariyer Danış.",
-    150,
-    0
-   ],
    [
     "2026-2027-guz",
     "KOM 505",

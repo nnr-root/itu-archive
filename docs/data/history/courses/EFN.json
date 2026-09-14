@@ -195,9 +195,17 @@
   "code": "EFN 306E",
   "name": "Financial Markets&Institutions",
   "terms": [
+   "2026-2027-guz",
    "2023-2024-guz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "-",
+    0,
+    0,
+    "Salı"
+   ],
    [
     "2023-2024-guz",
     "Erhan Çetinkaya",
@@ -299,6 +307,38 @@
     "Serdar Altay",
     40,
     32,
+    "Cuma"
+   ]
+  ]
+ },
+ "EFN 403E": {
+  "code": "EFN 403E",
+  "name": "Bank Management",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Ömer Haksever",
+    40,
+    0,
+    "Pazartesi"
+   ]
+  ]
+ },
+ "EFN 404E": {
+  "code": "EFN 404E",
+  "name": "Derivatives & Risk Management",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "-",
+    0,
+    0,
     "Cuma"
    ]
   ]
