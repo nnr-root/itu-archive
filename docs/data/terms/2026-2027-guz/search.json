@@ -69501,6 +69501,7 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "JEF_LS",
    "JEF_YD",
    "JEFE_LS"
   ]
@@ -72927,7 +72928,7 @@
   "JEO 121",
   "Yer Bilimlerinde Tas. Geometri",
   "JEO",
-  "Şaziye Özge Dinç Göğüş , Ömer Ündül",
+  "Ömer Ündül",
   "Cuma 08:30/11:29",
   60,
   0,
@@ -73151,7 +73152,7 @@
   "JEO 377E",
   "Individual Studies",
   "JEO",
-  "Şaziye Özge Dinç Göğüş , Enes Zengin",
+  "Enes Zengin",
   "Salı 15:30/17:29",
   20,
   0,
@@ -73652,6 +73653,7 @@
   [
    "JEF_LS",
    "JEFE_LS",
+   "PET_LS",
    "PETE_LS"
   ]
  ],
@@ -73686,6 +73688,7 @@
   [
    "JEF_LS",
    "JEFE_LS",
+   "PET_LS",
    "PETE_LS"
   ]
  ],
@@ -92578,7 +92581,7 @@
   "DTM 610E",
   "Spec.Top.in Shipbu.&Oce.Eng.",
   "DTM",
-  "Bülent Düz",
+  "-",
   "Perşembe 09:30/12:29",
   20,
   0,
@@ -95025,7 +95028,7 @@
   "Elektronik Haberleşme Düzen.",
   "BLU",
   "Nisa Özge Önal Tuğrul",
-  "Perşembe 13:30/16:29",
+  "Perşembe 09:30/12:29",
   25,
   0,
   "LU",
@@ -100378,7 +100381,7 @@
   "CSP 596",
   "Bilimsel Araş.,Etik ve Seminer",
   "CSP",
-  "-",
+  "Eray Cömert",
   "Salı 10:30/12:29",
   5,
   0,
@@ -108019,9 +108022,9 @@
   "MTO 575",
   "İklim Risk Yönetimi",
   "MTO",
-  "Mikdat Kadıoğlu",
-  "Pazartesi 11:30/14:29",
-  20,
+  "-",
+  "",
+  0,
   0,
   "LU",
   "Fiziksel (Yüz yüze)",
@@ -120111,7 +120114,7 @@
   "INS 4071",
   "Çubuk Sonlu Elemanlar",
   "INS",
-  "Nihal Eratlı",
+  "Nihal Eratlı , Yonca Bab",
   "Salı 13:30/16:29",
   35,
   0,
@@ -131012,19 +131015,6 @@
   []
  ],
  [
-  "15258",
-  "MTO 577",
-  "Mesoscale Dynamics",
-  "MTO",
-  "Emrah Tuncay Özdemir",
-  "Salı 13:30/16:29",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "15259",
   "STA 204",
   "Statik ve Mukavemet",
@@ -131887,7 +131877,7 @@
   "STA 204E",
   "Statics&Strength of Materials",
   "STA",
-  "Sedat Kömürcü",
+  "Yonca Bab",
   "Pazartesi 08:30/11:29",
   60,
   0,
@@ -133846,7 +133836,7 @@
   "Data Structures",
   "CEN",
   "Meriç Yücel",
-  "Salı 08:30/10:29 | Perşembe 14:30/16:29",
+  "Salı 09:30/11:29 | Perşembe 14:30/16:29",
   80,
   0,
   "LS",
@@ -134314,32 +134304,6 @@
    "EHBE_LS",
    "ELE_LS"
   ]
- ],
- [
-  "15449",
-  "MTH 405",
-  "Uçuş Kontrol Sistemleri",
-  "MTH",
-  "-",
-  "",
-  60,
-  0,
-  "LS",
-  "Sanal (Çevrimiçi/Online)",
-  []
- ],
- [
-  "15450",
-  "KON 425",
-  "Süreç Kontrolü",
-  "KON",
-  "-",
-  "",
-  50,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  []
  ],
  [
   "15451",
@@ -135181,5 +135145,86 @@
   [
    "NAE_LS"
   ]
+ ],
+ [
+  "15500",
+  "STA 204E",
+  "Statics&Strength of Materials",
+  "STA",
+  "Arcan Yanık",
+  "Pazartesi 14:30/17:29",
+  60,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "ISL_LS",
+   "ISLE_LS"
+  ]
+ ],
+ [
+  "15501",
+  "MTO 577E",
+  "Mesoscale Dynamics",
+  "MTO",
+  "Emrah Tuncay Özdemir",
+  "Salı 13:30/16:29",
+  20,
+  0,
+  "LU",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15502",
+  "VIA 501E",
+  "Advances in Data Science",
+  "VIA",
+  "Sefer Baday",
+  "Çarşamba 19:00/21:59",
+  40,
+  0,
+  "LUI",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15503",
+  "VIA 503E",
+  "Applied Statistics",
+  "VIA",
+  "Burhaneddin Sandıkçı",
+  "Salı 19:00/21:59",
+  40,
+  0,
+  "LUI",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15504",
+  "GMI 214",
+  "Hidrolik ve Pnömatik",
+  "GMI",
+  "Ömer Berkehan İnal",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15505",
+  "VIA 505E",
+  "Database Management&Big Data",
+  "VIA",
+  "Mehmet Ali Ergün",
+  "Perşembe 19:00/21:59",
+  40,
+  0,
+  "LUI",
+  "Fiziksel (Yüz yüze)",
+  []
  ]
 ]

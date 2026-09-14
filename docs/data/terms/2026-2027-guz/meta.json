@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-13T22:29:10Z",
+ "scrapedAt": "2026-09-14T07:53:10Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5243,
- "courses": 3715,
+ "sections": 5246,
+ "courses": 3719,
  "branches": [
   {
    "code": "ABM",
@@ -546,7 +546,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 71
+   "sections": 72
   },
   {
    "code": "GSB",
@@ -810,7 +810,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 46
+   "sections": 45
   },
   {
    "code": "KTB",
@@ -1059,7 +1059,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 15
+   "sections": 14
   },
   {
    "code": "MTM",
@@ -1357,7 +1357,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 5
+   "sections": 6
   },
   {
    "code": "STD",
@@ -1523,6 +1523,13 @@
    "sections": 13
   },
   {
+   "code": "VIA",
+   "levels": [
+    "LUI"
+   ],
+   "sections": 3
+  },
+  {
    "code": "YAB",
    "levels": [
     "LU"
@@ -1587,11 +1594,11 @@
   }
  ],
  "stats": {
-  "sections": 5243,
-  "courses": 3715,
-  "branches": 222,
+  "sections": 5246,
+  "courses": 3719,
+  "branches": 223,
   "instructors": 1763,
-  "capacity": 252235,
+  "capacity": 252285,
   "enrolled": 0
  }
 }

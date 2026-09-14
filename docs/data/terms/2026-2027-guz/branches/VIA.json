@@ -1,0 +1,83 @@
+[
+ {
+  "crn": "15502",
+  "code": "VIA 501E",
+  "branch": "VIA",
+  "level": "LUI",
+  "name": "Advances in Data Science",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Sefer Baday",
+  "buildings": [
+   "MED"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "19:00/21:59"
+  ],
+  "rooms": [
+   "A14"
+  ],
+  "capacity": 40,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15503",
+  "code": "VIA 503E",
+  "branch": "VIA",
+  "level": "LUI",
+  "name": "Applied Statistics",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Burhaneddin Sandıkçı",
+  "buildings": [
+   "ISB"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "19:00/21:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 40,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15505",
+  "code": "VIA 505E",
+  "branch": "VIA",
+  "level": "LUI",
+  "name": "Database Management&Big Data",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Mehmet Ali Ergün",
+  "buildings": [
+   "ISB"
+  ],
+  "days": [
+   "Perşembe"
+  ],
+  "times": [
+   "19:00/21:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 40,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ }
+]
