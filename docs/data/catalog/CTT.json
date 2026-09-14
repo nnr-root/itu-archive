@@ -1,106 +1,8 @@
 {
- "CTT 509": {
-  "code": "CTT 509",
-  "name": "Cephe Sistemlerinde Detay Tas.",
-  "nameEn": "Detailing of Facade Systems",
-  "language": "Türkçe",
-  "credits": {
-   "theory": 3,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "Detay oluşturmada yaklaşımlar. Detay tasarımı ilkeleri. Detay tasarımında ölçütler: performans gereksinimleri, yapılabilirlik, görsel etki. Sistemler yaklaşımı, performans yaklaşımı, parça-bütün etkileşimi bağlamında tipik bölge detayı ve birleşim bölgesi detayı tasarımı. Giydirme cephe sistemi-bina birleşim detayları. Doğrama-duvar birleşim detayları. Ahşap, doğal taş, pişmiş toprak, metal, çimento, polimer esaslı cephe kaplama sistemlerinde tipik bölge ve birleşim bölgesi detayları. Bitkilendirilmiş cephe ve fotovoltaik cephe sistemlerinde detaylar. Stüdyo çalışması: Örnek analizi. Stüdyo çalışması: Detay tasarımı. Detail development approaches. Principles of detail design. Detail design criteria: performance requirements, constructability, aesthetics. Typical area detail and intersection area detail design in the context of systems approach, performance approach, part-whole interaction. Curtain wall – building intersection area details. Window/door frame - wall intersection area details. Typical area details and intersection area details of timber, natural stone, burned clay, metal, cement, plastic based façade cladding systems. Details of green façade and photovoltaic façade systems. Studio work: Precedent analysis. Studio work: Detail design.",
-  "outcomes": [
-   "Detay oluşturma ilkeleri konusunda bilgi kazanmak.",
-   "Cephe sistemi detaylarının oluşturulmasında tasarım ölçütleri konusunda bilgi kazanmak.",
-   "Sistematik yaklaşımlar ile cephe sistemlerinin tipik bölge detayları tasarım becerisi kazanmak.",
-   "Sistematik yaklaşımlar ile cephe sistemi-bina birleşim bölgesi detayları tasarım becerisi kazanmak."
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Giriş: Detay oluşturmada yaklaşımlar, detay tasarımı ilkeleri.",
-   "Hafta 2 · Detay tasarımında ölçütler: performans gereksinimleri.",
-   "Hafta 3 · Detay tasarımında ölçütler: yapılabilirlik ve görsel etki.",
-   "Hafta 4 · Cephe sistemlerinin detay tasarımında malzeme seçimi ilkeleri. Cephe sistemlerinin tipik bölge detayı analiz ve tasarım ilkeleri.",
-   "Hafta 5 · Cephe sistemi-bina birleşim bölgesi detayı analiz ve tasarım ilkeleri.",
-   "Hafta 6 · Örnek analizi: Giydirme cephe sistemi-bina birleşim detayları.",
-   "Hafta 7 · Detay tasarımı: Giydirme cephe sistemi-bina birleşimi.",
-   "Hafta 8 · Örnek analizi: Doğrama-duvar birleşim detayları.",
-   "Hafta 9 · Detay tasarımı: Doğrama-duvar birleşimi.",
-   "Hafta 10 · Örnek analizi: Cephe kaplama sistemlerinde (Ahşap, doğal taş, pişmiş toprak, metal, çimento, polimer esaslı, bitkilendirilmiş, fotovoltaik) tipik bölge ve birleşim bölgesi detayları.",
-   "Hafta 11 · Detay tasarımı: Cephe kaplama sistemlerinde (Ahşap, doğal taş, pişmiş toprak, metal, çimento, polimer esaslı,bitkilendirilmiş, fotovoltaik) tipik bölge ve birleşim bölgesi."
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Giriş: Detay oluşturmada yaklaşımlar, detay tasarımı ilkeleri.",
-    "outcomes": "1"
-   },
-   {
-    "week": 2,
-    "topic": "Detay tasarımında ölçütler: performans gereksinimleri.",
-    "outcomes": "1-2"
-   },
-   {
-    "week": 3,
-    "topic": "Detay tasarımında ölçütler: yapılabilirlik ve görsel etki.",
-    "outcomes": "1-2"
-   },
-   {
-    "week": 4,
-    "topic": "Cephe sistemlerinin detay tasarımında malzeme seçimi ilkeleri. Cephe sistemlerinin tipik bölge detayı analiz ve tasarım ilkeleri.",
-    "outcomes": "1-2-3"
-   },
-   {
-    "week": 5,
-    "topic": "Cephe sistemi-bina birleşim bölgesi detayı analiz ve tasarım ilkeleri.",
-    "outcomes": "1-2-4"
-   },
-   {
-    "week": 6,
-    "topic": "Örnek analizi: Giydirme cephe sistemi-bina birleşim detayları.",
-    "outcomes": "4"
-   },
-   {
-    "week": 7,
-    "topic": "Detay tasarımı: Giydirme cephe sistemi-bina birleşimi.",
-    "outcomes": "4"
-   },
-   {
-    "week": 8,
-    "topic": "Örnek analizi: Doğrama-duvar birleşim detayları.",
-    "outcomes": "4"
-   },
-   {
-    "week": 9,
-    "topic": "Detay tasarımı: Doğrama-duvar birleşimi.",
-    "outcomes": "4"
-   },
-   {
-    "week": 10,
-    "topic": "Örnek analizi: Cephe kaplama sistemlerinde (Ahşap, doğal taş, pişmiş toprak, metal, çimento, polimer esaslı, bitkilendirilmiş, fotovoltaik) tipik bölge ve birleşim bölgesi detayları.",
-    "outcomes": "3-4"
-   },
-   {
-    "week": 11,
-    "topic": "Detay tasarımı: Cephe kaplama sistemlerinde (Ahşap, doğal taş, pişmiş toprak, metal, çimento, polimer esaslı,bitkilendirilmiş, fotovoltaik) tipik bölge ve birleşim bölgesi.",
-    "outcomes": "3-4"
-   }
-  ],
-  "textbooks": [
-   "Allen, E., Rand, P., 2007. Architectural Detailing – Function, Constructability, Aesthetics. New Jersey: John Wiley & Sons.",
-   "Herzog, T., Krippner, R., Lang, W., 2004, Façade Construction Manual. Basel: Birkhäuser Verlag.",
-   "Knaack, U., Klein, T., Bilow, M., Auer, T., 2007. Façades - Principles of Construction. Basel: Birkhäuser Verlag.",
-   "Meijs, M., Knaack, U., 2009. Components and Connections in Architecture – Principles of Construction. Basel: Birkhäuser Verlag.",
-   "Nashed, F., 1995. Time-Saver Details for Exterior Wall Design. New York: McGraw-Hill."
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CTT&dersNo=509"
- },
- "CTT 511": {
-  "code": "CTT 511",
-  "name": "Cephe için Proje&Yapım Yönet.",
-  "nameEn": "Project and Construction Management for Facade",
+ "CTT 501E": {
+  "code": "CTT 501E",
+  "name": "Cephe Sistemleri",
+  "nameEn": "Facade Systems",
   "language": "Türkçe/English",
   "credits": {
    "theory": 3,
@@ -109,95 +11,98 @@
    "local": 3,
    "ects": 7.5
   },
-  "description": "Tasarım sürecinde mimari cephe ve detay tasarımının önemi; mimari cephe ve detay tasarımının süreye, kaliteye, maliyete, proje yönetim sürecine ve binanın hayat döngüsüne etkileri; tasarım ile değer yaratımı; mimari cephe ve detay tasarımı için altyüklenicinin tespiti ve sözleşmede dikkat edilmesi gereken unsurlar; şantiyede mobilizasyon aşamasında, inşaat sırasında ve sonrasında dikkat edilmesi gereken unsurlar; tasarım ve inşaat yönetiminde güncel yaklaşımlar. Importance of the architectural façade and detail design in the design process; effects of architectural façade and detail design to duration, quality, cost, project management process and buildings’ lifecycle; creation of value through design; assignment/appointment of subcontractors for façade and detail design; critical factors to be considered in contracts; critical factors to be considered in preconstruction, construction and postcontruction phases; contemporary trends in design and construction management.",
+  "description": "Cephe sistemi; tanım, terim, tarihçe ve sınıflandırma. Kaplamalı cephe sistemi: bileşenler (opak cephe kaplama malzemeleri, yalıtımlar, gövde malzemeleri) ve katmanlaşma modelleri. Çubuk ve panel sistemler: bileşenler (aluminyum profiller, geçirimsizlik contası, bağlantı elemanları, saydam bileşenler vd.) ve sistem tipleri: kapaklı sistem, silikon sistem, kasetli sistem. Beton panel sistem: bileşenler ve sistem tipleri. Façade system; definition, terminology, history and classification. Cladding systems: components (opaque cladding, thermal insulation, waterproofing, etc.) and their assembly. Stick and panel systems: components (transom, mullion, bracket, transparent-translucent components etc.) and system types: structural sealant, cover cap . Concrete panel systems: components and system types.",
   "outcomes": [
-   "Mimari cephe ve detay tasarımının tasarım sürecindeki rolünü, proje yönetim sürecinin performansına ve binanın hayat döngüsüne etkilerini öğrenme;",
-   "Mimari cephe ve detay tasarımı ile ilgili sözleşmesel düzenlemeleri ve sözleşmelerde dikkat edilmesi gereken unsurlarını tanıma;",
-   "Mimari cephe ve detay tasarımı ile ilgili mobilizasyon, inşaat ve inşaat sonrası aşamalarında şantiyede dikkat edilmesi gereken unsurlarını öğrenme;",
-   "Tasarım ve inşaat yönetiminde güncel yaklaşımları öğrenme."
+   "Cephe sistemleri ile ilgili terim, tarihçe ve sınıflandırma konularında bilgi kazanmak",
+   "Kaplamalı cephe sistemlerini oluşturan bileşenler, işlevleri ve katmanlaşma modelleri hakkında bilgi kazanmak.",
+   "Çubuk ve panel sistemleri oluşturan bileşenler, işlevleri ve sistem hakkında bilgi kazanmak.",
+   "Beton panel sistemleri oluşturan bileşenler, işlevleri ve sistem hakkında bilgi kazanmak.",
+   "Mevcut bir cephe sistemini analiz edebilme becerisi kazanmak."
   ],
   "weeklyTopics": [
-   "Hafta 1 · Giriş Türk inşaat sektörüne genel bir bakış İnşaat proje yönetiminin temel konularına genel bir bakış",
-   "Hafta 2 · İnşaat proje yönetiminin fazlarına genel bir bakış (inşaat öncesi: fizibilite, tasarım, sözleşmeler; inşaat süreci; inşaat sonrası)",
-   "Hafta 3 · Cephe tasarımın sürecinin süreye, kaliteye, maliyete, proje yönetim sürecine ve binanın hayat döngüsüne etkileri",
-   "Hafta 4 · Altyüklenicinin tespiti ve sözleşmede dikkat edilmesi gereken unsurlar I (ihaleler, tedarik zinciri, altyüklenici seçim kriterleri)",
-   "Hafta 5 · Altyüklenicinin tespiti ve sözleşmede dikkat edilmesi gereken unsurlar II (standart sözleşmeler ve sözleşme tipleri)",
-   "Hafta 6 · Altyüklenicinin tespiti ve sözleşmede dikkat edilmesi gereken unsurlar III (iş değişiklikleri, hak talepleri, uyuşmazlıklar, tasarım ekonomisi)",
-   "Hafta 7 · Şantiyede mobilizasyon aşamasında dikkat edilmesi gereken unsurlar (iş güvenliği, iş programı ve altyüklenici koordinasyonu, sürdürülebilirlik, şantiye atık yönetimi)",
-   "Hafta 8 · İnşaat sırasında şantiyede dikkat edilmesi gereken unsurlar (iş güvenliği, control, altyüklenici koordinasyonu, sürdürülebilirlik, şantiye atık yönetimi)",
-   "Hafta 9 · İnşaat sonrasında dikkat edilmesi gereken unsurlar (demobilizasyon, bakım onarım, iklime adaptasyon, yıkım)",
-   "Hafta 10 · Örnek olay incelemeleri",
-   "Hafta 11 · Tasarım ve inşaat yönetiminde güncel yaklaşımlar (yapı bilgi modelleme, sürdürülebilirlik, yalınlık)"
+   "Hafta 1 · Cephe sistemlerine giriş: terimler-tarifler, tarihçe ve sınıflandırma",
+   "Hafta 2 · Kaplamalı cephe sistemi: bileşenler ve katmanlaşma modellleri",
+   "Hafta 3 · Kaplamalı cephe sistemi örneği: kenetli çinko kaplamalı sistem",
+   "Hafta 4 · Mevcut proje analizi: kaplamalı cephe sistemleri",
+   "Hafta 5 · Çubuk ve panel sistemler: bileşenler",
+   "Hafta 6 · Çubuk sistemler: kapaklı sistem, silikon sistem, kaset sistem",
+   "Hafta 7 · Panel sistemler: kapaklı sistem, silikon sistem",
+   "Hafta 8 · Mevcut proje analizi: çubuk ve panel sistem",
+   "Hafta 9 · Beton panel sistemler: bileşenler",
+   "Hafta 10 · Beton panel sistem örneği: hibrid sistem",
+   "Hafta 11 · Mevcut proje analizi: beton panel sistemi"
   ],
   "weeklyPlan": [
    {
     "week": 1,
-    "topic": "Giriş Türk inşaat sektörüne genel bir bakış İnşaat proje yönetiminin temel konularına genel bir bakış",
+    "topic": "Cephe sistemlerine giriş: terimler-tarifler, tarihçe ve sınıflandırma",
     "outcomes": "1"
    },
    {
     "week": 2,
-    "topic": "İnşaat proje yönetiminin fazlarına genel bir bakış (inşaat öncesi: fizibilite, tasarım, sözleşmeler; inşaat süreci; inşaat sonrası)",
-    "outcomes": "1"
+    "topic": "Kaplamalı cephe sistemi: bileşenler ve katmanlaşma modellleri",
+    "outcomes": "2"
    },
    {
     "week": 3,
-    "topic": "Cephe tasarımın sürecinin süreye, kaliteye, maliyete, proje yönetim sürecine ve binanın hayat döngüsüne etkileri",
-    "outcomes": "1"
+    "topic": "Kaplamalı cephe sistemi örneği: kenetli çinko kaplamalı sistem",
+    "outcomes": "2"
    },
    {
     "week": 4,
-    "topic": "Altyüklenicinin tespiti ve sözleşmede dikkat edilmesi gereken unsurlar I (ihaleler, tedarik zinciri, altyüklenici seçim kriterleri)",
-    "outcomes": "2"
+    "topic": "Mevcut proje analizi: kaplamalı cephe sistemleri",
+    "outcomes": "2-5"
    },
    {
     "week": 5,
-    "topic": "Altyüklenicinin tespiti ve sözleşmede dikkat edilmesi gereken unsurlar II (standart sözleşmeler ve sözleşme tipleri)",
-    "outcomes": "2"
+    "topic": "Çubuk ve panel sistemler: bileşenler",
+    "outcomes": "3"
    },
    {
     "week": 6,
-    "topic": "Altyüklenicinin tespiti ve sözleşmede dikkat edilmesi gereken unsurlar III (iş değişiklikleri, hak talepleri, uyuşmazlıklar, tasarım ekonomisi)",
-    "outcomes": "2"
+    "topic": "Çubuk sistemler: kapaklı sistem, silikon sistem, kaset sistem",
+    "outcomes": "3"
    },
    {
     "week": 7,
-    "topic": "Şantiyede mobilizasyon aşamasında dikkat edilmesi gereken unsurlar (iş güvenliği, iş programı ve altyüklenici koordinasyonu, sürdürülebilirlik, şantiye atık yönetimi)",
+    "topic": "Panel sistemler: kapaklı sistem, silikon sistem",
     "outcomes": "3"
    },
    {
     "week": 8,
-    "topic": "İnşaat sırasında şantiyede dikkat edilmesi gereken unsurlar (iş güvenliği, control, altyüklenici koordinasyonu, sürdürülebilirlik, şantiye atık yönetimi)",
-    "outcomes": "3"
+    "topic": "Mevcut proje analizi: çubuk ve panel sistem",
+    "outcomes": "3-5"
    },
    {
     "week": 9,
-    "topic": "İnşaat sonrasında dikkat edilmesi gereken unsurlar (demobilizasyon, bakım onarım, iklime adaptasyon, yıkım)",
-    "outcomes": "3"
+    "topic": "Beton panel sistemler: bileşenler",
+    "outcomes": "4"
    },
    {
     "week": 10,
-    "topic": "Örnek olay incelemeleri",
-    "outcomes": "1-2-3"
+    "topic": "Beton panel sistem örneği: hibrid sistem",
+    "outcomes": "4"
    },
    {
     "week": 11,
-    "topic": "Tasarım ve inşaat yönetiminde güncel yaklaşımlar (yapı bilgi modelleme, sürdürülebilirlik, yalınlık)",
-    "outcomes": "4"
+    "topic": "Mevcut proje analizi: beton panel sistemi",
+    "outcomes": "4-5"
    }
   ],
   "textbooks": [
-   "R. Johnson, The Economics of Building/A Practical Guide for the Design Professional, John Wiley & Sons, New York, 1990.",
-   "Turner, Rennis, Design and Build: Contract Practice, Longman, Essex, 1986.",
-   "Blau, J.R., Architects and Firms, MIT, MA, 1988."
+   "Knaack, U., Klein, T., Bilow, M., Auer, T., 2007. Façades - Principles of Construction. Basel: Birkhäuser Verlag",
+   "Nashed, F., 1995. Time-Saver Details for Exterior Wall Design. New York: McGraw-Hill.",
+   "CMHC; 2002. Best Practice Guide – Architectural Precast Concrete Walls. Canada Mortgage and Housing Corporation.",
+   "Brock, L., 2005. Designing the exterior wall : an architectural guide to the vertical envelope. John Wiley.",
+   "CMHC, 1982. Glossary of Housing Terms. Canada Mortgage and Housing Corporation."
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CTT&dersNo=511"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CTT&dersNo=501"
  },
- "CTT 515": {
-  "code": "CTT 515",
-  "name": "Cephe Üretim Siste.Tas.&Yön.",
-  "nameEn": "Design and Management for Facade Manufacturing Systems",
-  "language": "Türkçe",
+ "CTT 502E": {
+  "code": "CTT 502E",
+  "name": "Structural Des.of Facade Sys.",
+  "nameEn": "Structural Des.of Facade Sys.",
+  "language": "Türkçe/English",
   "credits": {
    "theory": 3,
    "practice": 0,
@@ -205,178 +110,289 @@
    "local": 3,
    "ects": 7.5
   },
-  "description": "Üretim sistemlerinin karmaşık, dinamik ve olasılıksal (stokastik) doğasını tanıtmak, etkin üretim sistemlerinin tasarlanması için gerekli yetenekleri kazandırmak ve üretim sistemlerinin tasarımındaki modern yaklaşımları aktarmak Presenting complex, dynamic and stochastic nature of manufacturing systems, providing the set of skills to design effective manufacturing systems and introducing modern approaches in the design of production systems.",
+  "description": "Cephe taşıyıcı sistemleri ile ilgili genel bilgiler. Temel yapı mekaniği bilgisi. Temel malzeme mekanik özellikleri. Yüklemeler. Yapısal çözümleme metodları. Düşey yüklere göre tasarım. Rüzgar etkilerine karşı tasarım. Deprem etkilerine karşı tasarım. Birleşim detayları. Yapısal performans testleri. Introduction of structural systems of facades. Basics of structural mechanics. Basic mechanical characteristics of materials. Loads. Methods of structural analysis. Design for vertical loads. Design against wind. Design for earthquake resistance. Connection details. Structural performance tests.",
   "outcomes": [
-   "Cephe sistemi tasarım-üretim-montaj süreçlerinin belirleyip tasarlayabilir.",
-   "Tesis içi uygun malzeme akışını etkin hale getirir.",
-   "Tasarım süreçlerinde üretim ve montajı dikkate alır.",
-   "Gelen talep doğrultusunda üretim planı hazırlayabilir.",
-   "Üretim sistemini Tedarik Zinciri içerisinde konumlandırır.",
-   "Kurumsal Kaynak Planlama işlevleri hakkında bilgi sahibi olur.",
-   "Üretim sistemi içerisindeki katma değeri olmayan faaliyetlerin azaltılmasına odaklanır.",
-   "Proje kaynaklarını etkin planlar."
+   "Farklı tür cephelerin taşıyıcı sistemleri hakkında bilgi edinirler.",
+   ")Bu farklı tür taşıyıcı sistemlerinin maruz kalacağı yüklemer hakkında bilgi edinirler.",
+   "Temel yapı mekaniği konularında bilgi edinirler",
+   "Farklı yükleme etkileri altında farklı tür cephe taşıyıcı sistemleri için yapısal çözümleme, boyutlandırma ve detaylandırma prensipleri konusunda bilgi edinirler",
+   "Cephe taşıyıcı sistemlerinin birleşimleri konusunda bilgi edinirler",
+   "Farklı cephelerin taşıyıcı sistemlerinin performans testleri konusunda bilgi edinirler."
   ],
   "weeklyTopics": [
-   "Hafta 1 · Üretim sistemleri ve özellikleri",
-   "Hafta 2 · Cephe sistemleri üretim süreçleri",
-   "Hafta 3 · Proje tipi montaj sistemlerinin tasarımı",
-   "Hafta 4 · Bütünleşik ürün ve süreç tasarımı",
-   "Hafta 5 · Üretim planlama ve kontrol, kapasite planlama",
-   "Hafta 6 · Bakım yönetimi",
-   "Hafta 7 · Tesis tasarımı ve planlaması hususları",
-   "Hafta 8 · Tedarik zinciri yönetimi ve üretim lojistiği",
-   "Hafta 9 · Kurumsal kaynak planlama işlevleri",
-   "Hafta 10 · Yalın üretim",
-   "Hafta 11 · Proje yönetim teknikleri"
+   "Hafta 1 · Cephe taşıyıcı sistemlerinin tanıtılması",
+   "Hafta 2 · Cephe taşıyıcı sistemlerinde kullanılan malzemelerin mekanik özellikleri",
+   "Hafta 3 · Temel yapı mekaniği bilgileri-1",
+   "Hafta 4 · Temel yapı mekaniği bilgileri-2",
+   "Hafta 5 · Cephe sistemlerine etkiyecek yükler, ilgili yönetmelikler",
+   "Hafta 6 · Düşey yükler için tasarım, analiz, boyutlandırma, detaylandırma",
+   "Hafta 7 · Rüzgar yükleri için tasarım, analiz, boyutlandırma, detaylandırma",
+   "Hafta 8 · Deprem yükleri için tasarım, analiz, boyutlandırma, detaylandırma",
+   "Hafta 9 · Cephe sistemlerinin performans deneyleri",
+   "Hafta 10 · Yapı ve Deprem Mühendisliği Laboratuvarı ziyareti, cephe taşıyıcı sistem deneyleri",
+   "Hafta 11 · Dönem ödevlerinin sunuşu, tartışılması ve değerlendirilmesi"
   ],
   "weeklyPlan": [
    {
     "week": 1,
-    "topic": "Üretim sistemleri ve özellikleri",
-    "outcomes": "1"
+    "topic": "Cephe taşıyıcı sistemlerinin tanıtılması",
+    "outcomes": "1-2"
    },
    {
     "week": 2,
-    "topic": "Cephe sistemleri üretim süreçleri",
-    "outcomes": "1"
+    "topic": "Cephe taşıyıcı sistemlerinde kullanılan malzemelerin mekanik özellikleri",
+    "outcomes": "1-2"
    },
    {
     "week": 3,
-    "topic": "Proje tipi montaj sistemlerinin tasarımı",
-    "outcomes": "2-3"
+    "topic": "Temel yapı mekaniği bilgileri-1",
+    "outcomes": "1-2-3"
    },
    {
     "week": 4,
-    "topic": "Bütünleşik ürün ve süreç tasarımı",
-    "outcomes": "3"
+    "topic": "Temel yapı mekaniği bilgileri-2",
+    "outcomes": "1-2"
    },
    {
     "week": 5,
-    "topic": "Üretim planlama ve kontrol, kapasite planlama",
-    "outcomes": "4"
+    "topic": "Cephe sistemlerine etkiyecek yükler, ilgili yönetmelikler",
+    "outcomes": "1-2"
    },
    {
     "week": 6,
-    "topic": "Bakım yönetimi",
-    "outcomes": "2"
+    "topic": "Düşey yükler için tasarım, analiz, boyutlandırma, detaylandırma",
+    "outcomes": "1-2-3"
    },
    {
     "week": 7,
-    "topic": "Tesis tasarımı ve planlaması hususları",
-    "outcomes": "2"
+    "topic": "Rüzgar yükleri için tasarım, analiz, boyutlandırma, detaylandırma",
+    "outcomes": "1-2-3"
    },
    {
     "week": 8,
-    "topic": "Tedarik zinciri yönetimi ve üretim lojistiği",
-    "outcomes": "5"
+    "topic": "Deprem yükleri için tasarım, analiz, boyutlandırma, detaylandırma",
+    "outcomes": "1-2-3"
    },
    {
     "week": 9,
-    "topic": "Kurumsal kaynak planlama işlevleri",
-    "outcomes": "6"
+    "topic": "Cephe sistemlerinin performans deneyleri",
+    "outcomes": "2"
    },
    {
     "week": 10,
-    "topic": "Yalın üretim",
-    "outcomes": "7"
+    "topic": "Yapı ve Deprem Mühendisliği Laboratuvarı ziyareti, cephe taşıyıcı sistem deneyleri",
+    "outcomes": "2"
    },
    {
     "week": 11,
-    "topic": "Proje yönetim teknikleri",
-    "outcomes": "8"
+    "topic": "Dönem ödevlerinin sunuşu, tartışılması ve değerlendirilmesi",
+    "outcomes": "4-5-6"
    }
   ],
   "textbooks": [
-   "Krajewski, L.J., Ritzman, L.P., Malhotra, M.K. (2014), Üretim Yönetimi, Çeviri Editörü: Semra Birgün, Nobel Akademik Yayıncılık, Ankara.",
-   "Anil Kumar, S. (2008), Production and operations management (with skill development, caselets and cases), New Delhi : New Age International (P) Ltd., Publishers.",
-   "Groover, M. P. (2007), Fundemantals of Modern Manufacturing: Materials, Processes, and Systems, John Wiley & Sons.",
-   "Tanyaş, M., Baskak, M., (2006),, Üretim Planlama ve Kontrol, İrfan Yayımcılık, İstanbul.",
-   "Gunn, T.G., (1997), 21st Century Manufacturing, Oliver White Publications.",
-   "Hitomi, K. (1996), Manufacturing Systems Engineering, Taylor & Francis Publications."
+   "Richard A. Behr (2009). Architectural Glass to Resist Seismic and Extreme Climatic Events.",
+   "IBC (2009). International Building Code",
+   "ASCE 7-10 (2010). Minimum Design Load for Buildings and Other Structures.",
+   "ADE (2007). Architectural Design for Earthquake, New Zealand Society for Earthquake Engineering.",
+   "AAMA 501.6 (2009). Recommended Dynamic Test Method for Determining the Seismic Drift Causing Glass Fallout from a Wall System",
+   "AAMA 501.4 (2009). Recommended Static Test Method for Evaluating Curtain Wall and Storefront Systems Subjected to Seismic and Wind Induced Interstory Drifts.",
+   "ASTM E1300 (2004). Standard Practice for Determining Load Resistance of Glass in Buildings"
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CTT&dersNo=515"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CTT&dersNo=502"
  },
- "CTT 599": {
-  "code": "CTT 599",
-  "name": "Dönem Projesi",
-  "nameEn": "Term Project",
-  "language": "Türkçe",
+ "CTT 503E": {
+  "code": "CTT 503E",
+  "name": "Opak ve Saydam Cephe Malzeme.",
+  "nameEn": "Opaque&Transp.Facade Mater.",
+  "language": "Türkçe/English",
   "credits": {
    "theory": 3,
    "practice": 0,
    "lab": 0,
-   "local": 0,
+   "local": 3,
    "ects": 7.5
   },
-  "description": "Cephe sistemlerinin tasarım, üretim, montaj, kullanım süreçlerinden en az birinde, pratik alanda var olan bir problemin irdelenmesi, analiz edilmesi, çözümüne yönelik uygun araştırma yöntemleri ile bilgi toplanması ve derlenmesi, yapılan çalışmaların yazılı ve sözlü olarak sunulması. Yapılan araştırma çalışmasının sonuçlarının da bir tasarım girdisi olarak kullanılması ile bir bina cephesinin performans gereksinimleri, kimlik/estetik ve yapılabilirlik ölçütleri bağlamında, bütünsel ve detay tasarımının tümünün veya belirli bölümlerinin yapılması, uygulamaya yönelik teknik dökümanlar ile birlikte proje çizimlerinin hazırlanması. To examine and to analyze a problem existing in practice in at least one of the process stages of design, manufacturing, on-site construction, usage of façade systems, organizing and collecting information with appropriate research methods in generating solutions, written and oral presentation of the study. Designing entirely or partially a building’s façade system and it’s details in the context of performance requirements, identity/aesthetics, constructability and in using outcomes of the aforementioned research work as design criteria, preparing construction documents and project drawings.",
+  "description": "Yapı sektöründe yaygın olarak kullanılan opak, saydam ve yarı geçirgen cephe malzemeleri, bileşenleri ve teknolojilerinin tanıtılması: Doğal taş, beton ve çimento esaslı, ahşap ve ahşap esaslı, metal, cam, plastik, vb malzemeler; pencere ve cam giydirme cephe sistemleri ve bileşenleri, opak cephe kaplama sistemleri ve bileşenleri. Temel özellikleri, performans özellikleri, üretimi, uygulaması, performans değerlendirmesi, cephe malzeme ve bileşenlerindeki bozulmalar, ilişkili standartlar. Introduction of opaque, transparent and translucent facade materials, components, and technologies widely used in the building industry: natural stone, concrete and cement-based, wood and wood-based, metal, glass, plastic, etc.; window and curtain wall systems and components; opaque cladding systems and components. Basic properties, performance characteristics, production, implementation, evaluation of performance, failures of façade materials and components, related standards",
   "outcomes": [
-   "Cephe sistemleri ile ilgili problem tanımlama, bilgiye ulaşma ve kullanma, seçenek geliştirme, çözüme ulaşma konularında yetkinlik.",
-   "Belirli ölçütler ile cephe sistemi tasarımı konusunda yetkinlik.",
-   "Cephe sistemi ile bina bileşenlerinin bütünlenmesi konusunda yetkinlik.",
-   "Cephe sistemleri ile ilgili proje ve teknik döküman hazırlama konusunda yetkinlik."
+   "Cephe tasarımında malzeme ve teknolojinin yeri ve öneminin kavranması",
+   "Opak ve saydam cephe malzeme ve bileşenlerinin temel özellikleri, üretimi ve uygulamasına yönelik bilimsel bilginin kazandırılması.",
+   "Cephe malzeme ve bileşenlerinin performans özellikleri ve değerlendirmesine ilişkin bilimsel bilginin pratikte kullanım yetkinliğinin kazandırılması",
+   "Cephe özelliklerine ve kullanım sırasındaki belirli ortam şartlarına bağlı olarak uygun cephe malzeme ve bileşen seçimi becerisinin geliştirilmesi"
   ],
   "weeklyTopics": [
-   "Hafta 1 · Dersin tanıtımı, amaçları, içeriği ve konuların verilmesi",
-   "Hafta 2 · Literatür taraması 1",
-   "Hafta 3 · Literatür taraması 2",
-   "Hafta 4 · Ara sunum 1",
-   "Hafta 5 · Analiz çalışması 1",
-   "Hafta 6 · Analiz çalışması 2",
-   "Hafta 7 · Analiz çalışması 3",
-   "Hafta 8 · Ara sunum 2",
-   "Hafta 9 · Sentez 1",
-   "Hafta 10 · Sentez 2",
-   "Hafta 11 · Final sunum"
+   "Hafta 1 · Giriş: dersin tanıtımı, içerik, yöntem",
+   "Hafta 2 · Opak cephe malzemeleri ve bileşenleri: doğal taş; beton ve çimento esaslı,",
+   "Hafta 3 · Opak cephe malzemeleri ve bileşenleri: ahşap ve ahşap esaslı, metal, kompozit, vb.",
+   "Hafta 4 · Opak cephe malzemeleri ve bileşenleri: performans özellikleri",
+   "Hafta 5 · Opak cephe malzemeleri ve bileşenleri: performans değerlendirmesi",
+   "Hafta 6 · Saydam cephe malzemeleri ve bileşenleri: cam türleri ve özellikleri",
+   "Hafta 7 · Saydam cephe malzemeleri ve bileşenleri: pencere ve giydirme cephe sistemleri",
+   "Hafta 8 · Saydam cephe malzemeleri ve bileşenleri: performans özellikleri",
+   "Hafta 9 · Saydam cephe malzemeleri ve bileşenleri: performans değerlendirmesi",
+   "Hafta 10 · Yarı geçirgen cephe malzemeleri ve bileşenleri: plastikler, CTP, vb.",
+   "Hafta 11 · Malzeme ve cephe sistemi entegrasyon çalışması"
   ],
   "weeklyPlan": [
    {
     "week": 1,
-    "topic": "Dersin tanıtımı, amaçları, içeriği ve konuların verilmesi"
+    "topic": "Giriş: dersin tanıtımı, içerik, yöntem",
+    "outcomes": "1"
    },
    {
     "week": 2,
-    "topic": "Literatür taraması 1"
+    "topic": "Opak cephe malzemeleri ve bileşenleri: doğal taş; beton ve çimento esaslı,",
+    "outcomes": "2"
    },
    {
     "week": 3,
-    "topic": "Literatür taraması 2"
+    "topic": "Opak cephe malzemeleri ve bileşenleri: ahşap ve ahşap esaslı, metal, kompozit, vb.",
+    "outcomes": "1"
    },
    {
     "week": 4,
-    "topic": "Ara sunum 1"
+    "topic": "Opak cephe malzemeleri ve bileşenleri: performans özellikleri",
+    "outcomes": "2-3"
    },
    {
     "week": 5,
-    "topic": "Analiz çalışması 1"
+    "topic": "Opak cephe malzemeleri ve bileşenleri: performans değerlendirmesi",
+    "outcomes": "2-3-4"
    },
    {
     "week": 6,
-    "topic": "Analiz çalışması 2"
+    "topic": "Saydam cephe malzemeleri ve bileşenleri: cam türleri ve özellikleri",
+    "outcomes": "2"
    },
    {
     "week": 7,
-    "topic": "Analiz çalışması 3"
+    "topic": "Saydam cephe malzemeleri ve bileşenleri: pencere ve giydirme cephe sistemleri",
+    "outcomes": "2"
    },
    {
     "week": 8,
-    "topic": "Ara sunum 2"
+    "topic": "Saydam cephe malzemeleri ve bileşenleri: performans özellikleri",
+    "outcomes": "2-3"
    },
    {
     "week": 9,
-    "topic": "Sentez 1"
+    "topic": "Saydam cephe malzemeleri ve bileşenleri: performans değerlendirmesi",
+    "outcomes": "2-3-4"
    },
    {
     "week": 10,
-    "topic": "Sentez 2"
+    "topic": "Yarı geçirgen cephe malzemeleri ve bileşenleri: plastikler, CTP, vb.",
+    "outcomes": "2-3-4"
    },
    {
     "week": 11,
-    "topic": "Final sunum"
+    "topic": "Malzeme ve cephe sistemi entegrasyon çalışması",
+    "outcomes": "1-2-3-4"
    }
   ],
   "textbooks": [
-   "-"
+   "1. Deplazes, A. (ed.); translation into English, Söffker, G.H., Thrift, P. (2013). Constructing architecture: materials, processes, structures: a handbook; Basel: Birkhäuser",
+   "2. Hegger, M., Drexler, H., Zeumer, M. (2007). Basics Materials; Birkhäuser-Publishers for architecture: Basel, Boston, Berlin.",
+   "3. Herzog, Krippner, Lang (2004). Facade construction manual; Birkhäuser-Publishers for architecture",
+   "4. Carmody, J., Selkowitz, S., Lee, E.S., Arasteh, D, Willmert, T. (2004) Window systems for high performance buildings; W.W. Norton, New York, London",
+   "5. Boswell, K. C. (2014) Exterior building enclosures, Design process and composition for innovative facades, John Wiley and Sons, Canada."
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CTT&dersNo=599"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CTT&dersNo=503"
+ },
+ "CTT 505": {
+  "code": "CTT 505",
+  "name": "Cephe Tasarımı",
+  "nameEn": "Facade Design",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 3,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 7.5
+  },
+  "description": "Cephe sistemleri tasarımına genel bakış; Cephe tasarımında rol oynayan etkenler; Cephe tasarım alternatifleri üretme ve tasarım alternatiflerini değerlendirme; Cephe tasarım probleminin doğasına uygun veri toplama ve analiz süreçlerinin geliştirilmesi ve uygulanması; Cephe tasarım konuları üzerine güncel metot, standart ve teknikler. Overview to facade systems design; Factors affecting design of facade’s; Production of facade design alternatives and evaluation of design alternatives; Development and implementation of the processes of data collection and analysis which is appropriate the nature of the facade design problem; Contemporary methods, standards and tecniques on facade design issues.",
+  "outcomes": [
+   "1. Lisans düzeyi yeterliliklerine dayalı olarak, cephe sistemleri tasarımı alanında bilgilerini uzmanlık düzeyinde geliştirebilme ve derinleştirebilme",
+   "2. Cephe sistemleri tasarım konularına ilişkin kapsamlı veri toplama, araştırma ve aktarma becerisi;",
+   "3. Başarılı bir cephe sistemi için, tasarım, malzeme bilgisi, yönetim ve uygulama yöntemleri gibi temel bileşenlerin belirlenmesine ilişkin karşılaşılan sorunları, interdisipliner (mimari ve mühendislik pratiği) araştırma yöntemlerini kullanarak çözümleyebilme",
+   "4. Cephe sistemleri tasarımında ileri teknoloji ve malzeme olanaklarını araştırabilme becerisi",
+   "5. Cephe sistemleri tasarımı üzerine edindiği uzmanlık düzeyindeki bilgi ve becerileri eleştirel bir yaklaşımla değerlendirebilme, ileri tasarım süreçlerini koordine edebilme ve bireysel öğrenmesini yönlendirebilme",
+   "6. Cephe tasarımı alanında edinilen uzmanlık düzeyindeki kuramsal ve uygulamalı bilgileri, nitelikli bir kariyer amacıyla kullanabilme ve liderlik yapabilme becerisi."
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Temel Cephe Bileşenlerine Giriş: bina kabuğu tasarımı ve performansına ilişkin temeller, cephe sistem bileşenleri",
+   "Hafta 2 · Cephe Tasarımı -1 Mimari tasarımda cephe tasarımı entegrasyonu, arkitektonikler",
+   "Hafta 3 · Cephe Tasarımı -2 Yaratıcı ve yenilikçi yaklaşımlar...",
+   "Hafta 4 · Cephe Tasarımı -3 Cephe sistemlerinin seçimi",
+   "Hafta 5 · Cephe Tasarımında Yapı Fiziği: Termal - Görsel - Akustik konfor ve performans , enerji verimliliği , sürdürülebilirlik ...",
+   "Hafta 6 · Cephe Tasarımında Bilgisayar Tabanlı Araçlar: Cephe sistemlerinin planlanması, tasarımı, analizi ve değerlendirilmesine ilişkin yazılımların tanıtılması.",
+   "Hafta 7 · Cephe Tasarımında Malzeme ve Yapısal Bileşenler: Temel Malzemeler: metal, cam, ahşap, taş, sıva vb. plastik yüzeyler, malzeme performansları, kaplama, yüzey bitirmeleri ve giydirmeleri, boyutlandırma, bağlantı şekilleri, montaj, strüktürel dayanım, detay geliştirme.",
+   "Hafta 8 · Cephe Tasarımında Elektro-Mekanik ve Tesisat: Cephe ile ilgili elektronik ve mekanik servisler ve donatılar, aydınlatma, bakım...",
+   "Hafta 9 · Cephe Endüstrisi ve Mimari Uygulama Üretim süreçleri, danışmanlık, yönetim, ihale, sözleşme işleri",
+   "Hafta 10 · Cephe Tasarım Stüdyo Çalışması -1: Kavramsal tasarım",
+   "Hafta 11 · Cephe Tasarım Stüdyo Çalışması -2: Yapısal tasarım Görsel komfor, aydınlatma ve enerji performansına yönelik tartışma ve örnek çözümlerin değerlendirilmesi"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Temel Cephe Bileşenlerine Giriş: bina kabuğu tasarımı ve performansına ilişkin temeller, cephe sistem bileşenleri",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 2,
+    "topic": "Cephe Tasarımı -1 Mimari tasarımda cephe tasarımı entegrasyonu, arkitektonikler",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 3,
+    "topic": "Cephe Tasarımı -2 Yaratıcı ve yenilikçi yaklaşımlar...",
+    "outcomes": "1-2-3-4"
+   },
+   {
+    "week": 4,
+    "topic": "Cephe Tasarımı -3 Cephe sistemlerinin seçimi",
+    "outcomes": "1-2-3-4"
+   },
+   {
+    "week": 5,
+    "topic": "Cephe Tasarımında Yapı Fiziği: Termal - Görsel - Akustik konfor ve performans , enerji verimliliği , sürdürülebilirlik ...",
+    "outcomes": "3-4-5"
+   },
+   {
+    "week": 6,
+    "topic": "Cephe Tasarımında Bilgisayar Tabanlı Araçlar: Cephe sistemlerinin planlanması, tasarımı, analizi ve değerlendirilmesine ilişkin yazılımların tanıtılması.",
+    "outcomes": "3-4-5"
+   },
+   {
+    "week": 7,
+    "topic": "Cephe Tasarımında Malzeme ve Yapısal Bileşenler: Temel Malzemeler: metal, cam, ahşap, taş, sıva vb. plastik yüzeyler, malzeme performansları, kaplama, yüzey bitirmeleri ve giydirmeleri, boyutlandırma, bağlantı şekilleri, montaj, strüktürel dayanım, detay geliştirme.",
+    "outcomes": "3-4-5"
+   },
+   {
+    "week": 8,
+    "topic": "Cephe Tasarımında Elektro-Mekanik ve Tesisat: Cephe ile ilgili elektronik ve mekanik servisler ve donatılar, aydınlatma, bakım...",
+    "outcomes": "3-4-5"
+   },
+   {
+    "week": 9,
+    "topic": "Cephe Endüstrisi ve Mimari Uygulama Üretim süreçleri, danışmanlık, yönetim, ihale, sözleşme işleri",
+    "outcomes": "3-4-5"
+   },
+   {
+    "week": 10,
+    "topic": "Cephe Tasarım Stüdyo Çalışması -1: Kavramsal tasarım",
+    "outcomes": "3-4-5-6"
+   },
+   {
+    "week": 11,
+    "topic": "Cephe Tasarım Stüdyo Çalışması -2: Yapısal tasarım Görsel komfor, aydınlatma ve enerji performansına yönelik tartışma ve örnek çözümlerin değerlendirilmesi",
+    "outcomes": "3-4-5-6"
+   }
+  ],
+  "textbooks": [
+   "1. Knaack, U., Klein, T., Bilous, M., Auer, T., (2014). Facades: Principles of construction., Basel, Switzerland: Birkhäuser Verlag.",
+   "2. Yu, M. L, (2014). Skins, Envelopes, and Enclosures: Concepts for Designing Building Exteriors, Routledge, NY."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CTT&dersNo=505"
  }
 }

@@ -1,8 +1,8 @@
 {
- "DUY 501": {
-  "code": "DUY 501",
-  "name": "Kiralama ve Brokerlik",
-  "nameEn": "Chartering and Ship Brokering",
+ "DUY 505": {
+  "code": "DUY 505",
+  "name": "Denizcil.Örgüts.Davra.& Lider.",
+  "nameEn": "Maritime Organizational Behaviour & Leadership",
   "language": "Türkçe/English",
   "credits": {
    "theory": 3,
@@ -11,110 +11,111 @@
    "local": 3,
    "ects": 7.5
   },
-  "description": "Gemi kiralamaya giriş, Market yapısı ve brokerlik, Brokerin rolü, Broker yetkileri ve sorumlulukları, Gemi tarifi, Deniz taşımacılığı coğrafyası, Kiralama terimleri, Kiralama sözleşmeleri, Çerter parti klozları, Tarafların sorumluluk ve ödevleri, Kiralama çeşitleri, Liman performansı, Starya ve sürastarya hesabı, Anlaşmazlıklar ve tahkim. Introduction chartering, Market Context and broking, The role of broker, Broker’s authority, Vessel description, Geograpy of sea transport, Chartering terminology, Chartering contracts, Charter party clauses, Obligationg of parties, Chartering modules, Port and performance, laytime and demurrage calculation, Disputes and arbitrations.",
+  "description": "Örgüt kavramı ve çeşitleri. Gemi organizasyonu ve denizcilikteki örgütler. Kişilik ve kişilik tipleri. İş tatmini, örgütsel bağlılık ve motivasyon. Grup oluşumu, grupla çalışma teknikleri ve takım çalışması. Liderlik ve yaklaşımları. STCW Liderlik matrisi. Çatışma ve müzakare. Örgütsel çevre ve teknoloji. Örgüt kültürü ve iletişim. Örgütsel değişim ve örgüt geliştirmi. Stres ve yönetimi. Sosyal sorumluluk ve etik. Organisating and types of organisation. Organisations in ship and in maritime. Individuality and types of personality. Job satisfaction, organisational commitment and motivation. Group, formation of group, working within different groups and team work. Leadership and its approaches. STCW Leadership matrix Organization change and development. Stress and stress management. Social responsibility and ethics.",
   "outcomes": [
-   "I. Denizcilik ticari işlemeciliği konusunda gerekli bilgi, kavrayış ve becerileri elde eder.",
-   "II. Gemi işletme ve çarter partiler hakkında bilgi sahibi olur.",
-   "III. Kar ve zarar hesabı yapabilir",
-   "IV. Sigorta, acente, brokerlik hakkında bilgi sahibi olur"
+   "I. Yönetim ve örgüt konusunda bilgi sahibi olur,",
+   "II. Denizcilik örgütlerindeki görev, yetki ve sorumluluklarını öğrenir,",
+   "III. Etkin gemi organizasyonu oluşumunu, kültürü ve yönetimini öğrenir.",
+   "IV. Liderlik vasfı ile gemi organizasyonu içi ve dışı uyuşmazlıkları çözmeyi öğrenir.",
+   "V. Stres ve çatışma durumlarını yönetmeyi öğrenir"
   ],
   "weeklyTopics": [
-   "Hafta 1 · Gemi kiralamaya giriş,",
-   "Hafta 2 · Market yapısı ve brokerlik,",
-   "Hafta 3 · Brokerin rolü",
-   "Hafta 4 · Broker yetkileri ve sorumlulukları,",
-   "Hafta 5 · Kiralama terimleri, Kiralama sözleşmeleri",
-   "Hafta 6 · Çerter parti klozları",
-   "Hafta 7 · Navlunun tahsili",
-   "Hafta 8 · Acenta işlemleri",
-   "Hafta 9 · Tarafların sorumluluk ve ödevleri,",
-   "Hafta 10 · Kiralama çeşitleri,",
-   "Hafta 11 · Liman performansı, Starya ve sürastarya hesabı,",
-   "Hafta 12 · Gemi alım satımı",
-   "Hafta 13 · Çarter partiden doğan ihtilaflar",
-   "Hafta 14 · Anlaşmazlıklar ve tahkim"
+   "Hafta 1 · Örgüt kavramı ve çeşitleri, örgüt süreci ve ilkeleri",
+   "Hafta 2 · Gemi organizasyonu ve denizcilikteki diğer örgütler ile ilişkiler",
+   "Hafta 3 · Tutum, değer, birey, kişilik ve kişilik tipleri",
+   "Hafta 4 · Algılama, Atfetme ve Öğrenme",
+   "Hafta 5 · İş tatmini ve örgütsel bağlılık, denizcilik şirketlerinde gemiadamlarının durumu",
+   "Hafta 6 · Motivasyon ve motivasyon kuramları, denizcilik sektöründe motivasyon faktörleri",
+   "Hafta 7 · Örgütlerde grup/takım yönetimi; grup/takım oluşumu, çeşitleri ve özellikleri: gemi örgütlenmesinden örnekler",
+   "Hafta 8 · Liderlik, liderlik yaklaşımları ve gemide liderlik uygulamalarına örnekler",
+   "Hafta 9 · STCW güverte-makine sınıfına göre liderlik unsurları (liderlik matrisi)",
+   "Hafta 10 · Bireysel ve örgütsel çatışma, müzakare; gemide sosyal yaşama ilişkin yorumlar",
+   "Hafta 11 · Örgütsel çevre ve teknoloji: gemi organizasyonu örneği",
+   "Hafta 12 · Örgüt kültürü ve örgütsel iletişim; örgüt içi ve örgütler arası, çok kültürlü gemide çalışma",
+   "Hafta 13 · Örgütsel değişim, değişime direnç ve yönetimi, örgüt geliştirmi",
+   "Hafta 14 · Stres ve yönetimi; tükenmişlik sendromu. Sosyal sorumluluk ve etik. Denizcilik şirketi ve gemideki durum"
   ],
   "weeklyPlan": [
    {
     "week": 1,
-    "topic": "Gemi kiralamaya giriş,",
-    "outcomes": "1-2"
+    "topic": "Örgüt kavramı ve çeşitleri, örgüt süreci ve ilkeleri",
+    "outcomes": "1"
    },
    {
     "week": 2,
-    "topic": "Market yapısı ve brokerlik,",
-    "outcomes": "1-2"
+    "topic": "Gemi organizasyonu ve denizcilikteki diğer örgütler ile ilişkiler",
+    "outcomes": "1"
    },
    {
     "week": 3,
-    "topic": "Brokerin rolü",
+    "topic": "Tutum, değer, birey, kişilik ve kişilik tipleri",
     "outcomes": "1-2"
    },
    {
     "week": 4,
-    "topic": "Broker yetkileri ve sorumlulukları,",
-    "outcomes": "3-4"
+    "topic": "Algılama, Atfetme ve Öğrenme",
+    "outcomes": "1-2"
    },
    {
     "week": 5,
-    "topic": "Kiralama terimleri, Kiralama sözleşmeleri",
-    "outcomes": "3-4"
+    "topic": "İş tatmini ve örgütsel bağlılık, denizcilik şirketlerinde gemiadamlarının durumu",
+    "outcomes": "1-2"
    },
    {
     "week": 6,
-    "topic": "Çerter parti klozları",
-    "outcomes": "2-3"
+    "topic": "Motivasyon ve motivasyon kuramları, denizcilik sektöründe motivasyon faktörleri",
+    "outcomes": "1-2"
    },
    {
     "week": 7,
-    "topic": "Navlunun tahsili",
-    "outcomes": "2-3"
+    "topic": "Örgütlerde grup/takım yönetimi; grup/takım oluşumu, çeşitleri ve özellikleri: gemi örgütlenmesinden örnekler",
+    "outcomes": "1-2-3"
    },
    {
     "week": 8,
-    "topic": "Acenta işlemleri",
-    "outcomes": "2-3"
+    "topic": "Liderlik, liderlik yaklaşımları ve gemide liderlik uygulamalarına örnekler",
+    "outcomes": "3"
    },
    {
     "week": 9,
-    "topic": "Tarafların sorumluluk ve ödevleri,",
+    "topic": "STCW güverte-makine sınıfına göre liderlik unsurları (liderlik matrisi)",
     "outcomes": "3"
    },
    {
     "week": 10,
-    "topic": "Kiralama çeşitleri,",
-    "outcomes": "4"
+    "topic": "Bireysel ve örgütsel çatışma, müzakare; gemide sosyal yaşama ilişkin yorumlar",
+    "outcomes": "2-3"
    },
    {
     "week": 11,
-    "topic": "Liman performansı, Starya ve sürastarya hesabı,",
-    "outcomes": "3-4"
+    "topic": "Örgütsel çevre ve teknoloji: gemi organizasyonu örneği",
+    "outcomes": "3"
    },
    {
     "week": 12,
-    "topic": "Gemi alım satımı",
+    "topic": "Örgüt kültürü ve örgütsel iletişim; örgüt içi ve örgütler arası, çok kültürlü gemide çalışma",
     "outcomes": "3-4"
    },
    {
     "week": 13,
-    "topic": "Çarter partiden doğan ihtilaflar",
-    "outcomes": "2-3"
+    "topic": "Örgütsel değişim, değişime direnç ve yönetimi, örgüt geliştirmi",
+    "outcomes": "4-5"
    },
    {
     "week": 14,
-    "topic": "Anlaşmazlıklar ve tahkim"
+    "topic": "Stres ve yönetimi; tükenmişlik sendromu. Sosyal sorumluluk ve etik. Denizcilik şirketi ve gemideki durum"
    }
   ],
   "textbooks": [
    "-",
    "-"
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=DUY&dersNo=501"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=DUY&dersNo=505"
  },
- "DUY 504": {
-  "code": "DUY 504",
-  "name": "Denizcilik Ticari İşletmecil.",
-  "nameEn": "Maritime Commercial Management",
+ "DUY 513": {
+  "code": "DUY 513",
+  "name": "Denizcilik Çevre Yönetimi",
+  "nameEn": "Maritime Environmental Management",
   "language": "Türkçe/English",
   "credits": {
    "theory": 3,
@@ -123,111 +124,110 @@
    "local": 3,
    "ects": 7.5
   },
-  "description": "İşletmeye giriş ve işletme kavramları, Çarter parti seçimi, Sefer hesabı, Starya ve kiralama şartları, Kâr ve zarar hesabı, Acentelik işlemleri, Gemi Sigorta İşlemleri, Gemi kiralama, Brokerlik, Gemi alım satımı, Teknik destek Introduction to management and management concepts, Negotiation of charter parties, Voyage estimates, Lay time and hire statements, Profit and loss accounts, Agency, Ship Insurance, Chartering and Brokerage, Sale and Purchase, Technical Support.",
+  "description": "Deniz çevresinin ekolojik yapısı, Deniz kirliliği, Gemi kaynaklı deniz ve çevre kirliliği, Gemi kaynaklı deniz kirliliğinde uyulması gereken ulusal & uluslar arası kurallar, çevre kirliliğinin tespiti, önlenmesi, izlenmesi ve bertaraf edilmesi. Acil Müdahale Planları ve yakıt dağılım simülasyonları, Çevre politikasının kapsamlı anlaşılması için 6 gerekli konu: Çevre politikaları kavramı; Çevre politikaları için araçlar (hukuk, iktisat, planlama, bilim, mühendislik, etik). Marine Environment Ecological Structure, Marine Pollution, Marine and Environment pollution from ship, International & National Agreements and Conventions Against Ship-based Pollution, Methods for detection and information of environmental pollution, preventing monitoring and controlling. Emergency preparedness/contingency planning, Oil Spill Simulation. Introduction to six areas essential to a comprehensive understanding of environmental policy: concept of environmental policy; tools (law, economics, planning, science, engineering, ethics) for environmental policy.",
   "outcomes": [
-   "I. Denizcilik ticari işlemeciliği konusunda gerekli bilgi, kavrayış ve becerileri elde eder",
-   "II. Gemi işletme ve çarter partiler hakkında bilgi sahibi olur.",
-   "III. Kar ve zarar hesabı yapabilir",
-   "IV. Sigorta, acente, brokerlik hakkında bilgi sahibi olur.",
-   "V. Gemi alım satım işlerini öğrenir."
+   "I. Deniz ve çevre kirliliği temel kavramları konusunda bilgi sahibi olur",
+   "II. Gemi kaynaklı deniz kirliliği hakkında temel konuları öğrenir",
+   "III. Çevre politikalarını öğrenir",
+   "IV. Deniz çevresel yönetimini öğrenir"
   ],
   "weeklyTopics": [
-   "Hafta 1 · İşletmeye giriş ve işletme kavramları",
-   "Hafta 2 · Denizcilik işletmeleri",
-   "Hafta 3 · Çarter parti seçimi",
-   "Hafta 4 · Sefer hesabı",
-   "Hafta 5 · Starya ve kiralama şartları",
-   "Hafta 6 · Kâr ve zarar hesabı",
-   "Hafta 7 · Çarter partiden doğan ihtilaflar",
-   "Hafta 8 · Navlunun tahsili",
-   "Hafta 9 · Acenta işlemleri",
-   "Hafta 10 · Gemi sigorta işlemleri",
-   "Hafta 11 · Gemi kiralama",
-   "Hafta 12 · Brokerlik",
-   "Hafta 13 · Gemi alım satımı",
-   "Hafta 14 · Teknik destek ve danışmanlık"
+   "Hafta 1 · Deniz Çevresinin Ekolojik Yapısı",
+   "Hafta 2 · Deniz ve Çevre Kirliliği, Çeşitleri ve Gemi Kaynaklı Kirlilik",
+   "Hafta 3 · Deniz Çevre Yönetimi Kavramı",
+   "Hafta 4 · Deniz Çevre Politikası Kavramı",
+   "Hafta 5 · Ulusal ve Uluslararası alanlarda Çevre Politikası",
+   "Hafta 6 · Çevre politikasının kapsamlı bir anlaşılması için temel altı alan",
+   "Hafta 7 · Çevre yönetimi için araçlar",
+   "Hafta 8 · Petrol kirliliği ve Yakıt Dağılım Simülasyonları( GNOME..)",
+   "Hafta 9 · Petrol kirliliği ve Yakıt Dağılım Simülasyonları( GNOME..)",
+   "Hafta 10 · Limanlarda Gemi Atıklarının Bertaraf ve Transfer Yöntemleri",
+   "Hafta 11 · Gemi Atık Takip Sistemi",
+   "Hafta 12 · Gemilerde Kirliliğe Neden Olan İllegal Operasyonlar",
+   "Hafta 13 · Gemilerden oluşan hava kirliliği",
+   "Hafta 14 · Gemi Balast Suyu Yönetimi"
   ],
   "weeklyPlan": [
    {
     "week": 1,
-    "topic": "İşletmeye giriş ve işletme kavramları",
-    "outcomes": "1-2"
+    "topic": "Deniz Çevresinin Ekolojik Yapısı",
+    "outcomes": "1"
    },
    {
     "week": 2,
-    "topic": "Denizcilik işletmeleri",
-    "outcomes": "1-2"
+    "topic": "Deniz ve Çevre Kirliliği, Çeşitleri ve Gemi Kaynaklı Kirlilik",
+    "outcomes": "2"
    },
    {
     "week": 3,
-    "topic": "Çarter parti seçimi",
-    "outcomes": "1-2"
+    "topic": "Deniz Çevre Yönetimi Kavramı",
+    "outcomes": "1-4"
    },
    {
     "week": 4,
-    "topic": "Sefer hesabı",
-    "outcomes": "3-4"
+    "topic": "Deniz Çevre Politikası Kavramı",
+    "outcomes": "1-3"
    },
    {
     "week": 5,
-    "topic": "Starya ve kiralama şartları",
-    "outcomes": "3-4"
-   },
-   {
-    "week": 6,
-    "topic": "Kâr ve zarar hesabı",
-    "outcomes": "2-3"
-   },
-   {
-    "week": 7,
-    "topic": "Çarter partiden doğan ihtilaflar",
-    "outcomes": "2-3"
-   },
-   {
-    "week": 8,
-    "topic": "Navlunun tahsili",
-    "outcomes": "2-3"
-   },
-   {
-    "week": 9,
-    "topic": "Acenta işlemleri",
+    "topic": "Ulusal ve Uluslararası alanlarda Çevre Politikası",
     "outcomes": "3"
    },
    {
-    "week": 10,
-    "topic": "Gemi sigorta işlemleri",
+    "week": 6,
+    "topic": "Çevre politikasının kapsamlı bir anlaşılması için temel altı alan",
+    "outcomes": "3-4"
+   },
+   {
+    "week": 7,
+    "topic": "Çevre yönetimi için araçlar",
     "outcomes": "4"
    },
    {
+    "week": 8,
+    "topic": "Petrol kirliliği ve Yakıt Dağılım Simülasyonları( GNOME..)",
+    "outcomes": "2-4"
+   },
+   {
+    "week": 9,
+    "topic": "Petrol kirliliği ve Yakıt Dağılım Simülasyonları( GNOME..)",
+    "outcomes": "2-4"
+   },
+   {
+    "week": 10,
+    "topic": "Limanlarda Gemi Atıklarının Bertaraf ve Transfer Yöntemleri",
+    "outcomes": "2-4"
+   },
+   {
     "week": 11,
-    "topic": "Gemi kiralama",
-    "outcomes": "3-4"
+    "topic": "Gemi Atık Takip Sistemi",
+    "outcomes": "2-4"
    },
    {
     "week": 12,
-    "topic": "Brokerlik",
-    "outcomes": "3-4"
+    "topic": "Gemilerde Kirliliğe Neden Olan İllegal Operasyonlar",
+    "outcomes": "4"
    },
    {
     "week": 13,
-    "topic": "Gemi alım satımı",
-    "outcomes": "2-3"
+    "topic": "Gemilerden oluşan hava kirliliği",
+    "outcomes": "2-4"
    },
    {
     "week": 14,
-    "topic": "Teknik destek ve danışmanlık"
+    "topic": "Gemi Balast Suyu Yönetimi"
    }
   ],
   "textbooks": [
    "-",
    "-"
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=DUY&dersNo=504"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=DUY&dersNo=513"
  },
- "DUY 507": {
-  "code": "DUY 507",
-  "name": "Denizcil.İnsan Kaynak.Yöne.",
-  "nameEn": "Maritime Human Resource Management",
+ "DUY 517": {
+  "code": "DUY 517",
+  "name": "Liman ve Terminal Yönetimi",
+  "nameEn": "Maritime Terminal and Port Management",
   "language": "Türkçe/English",
   "credits": {
    "theory": 3,
@@ -236,111 +236,112 @@
    "local": 3,
    "ects": 7.5
   },
-  "description": "İnsan Kaynakları Yönetimi (İKY) temel kavramları ve fonksiyonları. Şirket-gemi organizasyonu ve gemiadamı yönetimi. Gemiadamları konusunda İKY uygulamaları; gemiadamı İKY planlaması, personel temini ve seçimi, eğitim, belgelendirme, performans değerleme, kariyer planlaması. Gemiadamı ücret yönetimi, denizcilikte kullanılan İK Bilgi Sistemleri ve gemiadamlarının yönetimi. Uluslararası ve Stratejik İKY kavramları ve denizcilikteki uygulamaları. Fundamentals and functions of Human Resources Management (HRM). Company-ship organization and seafarer management. HRM application on seafarers; seafarers HRM planning, personnel selection and employment, training, certification, performance assessment and career planning. HR Information Systems in maritime and seafarer management. The concept of International and strategic HRM and their applications in maritime.",
+  "description": "Taşıma türleri, taşınan yükler ve yük birimleri, denizyolu taşımacılığı, taşıma araçları, limanlar ve terminal kavramı, liman ve terminal tasarımı, liman tesisleri, gemi-liman ilişkileri, liman operasyonları, limanların idari yapısı ve organizasyonu , liman ekonomisi, limanlarda verim, kapasite ve maliyet analizleri, liman bilişim sistemleri, Transportation modes, cargo and cargo units, maritime transportation, transportation vehicles, port and terminal concept, port and terminal design, port and terminal facilities, ship-port relationship, port and terminal organization and administrative structure, port and terminal operations, port economics, analysis of handling productivity; capacity and cost of a port, port information systems and automation",
   "outcomes": [
-   "I. İKY ile ilgili temel kavramları öğrenir",
-   "II. Gemi işletmeciliği ile İKY faaliyetleri arasındaki ilişkiyi kavrar.",
-   "III. Gemiadamı ile İKY faaliyetleri arasındaki ilişkiyi kavrar.",
-   "IV. Gemiadamı gerekleri, eğitimi ve performans değerlendirmesini öğrenir",
-   "V. İKY faaliyetlerinin denizcilik sektöründeki rolü ve önemini anlar."
+   "I. Liman ve terminaller hakkında bilgilenir",
+   "II. Terminal türleri hakkında ayrıntılı bilgiye sahip olur",
+   "III. Her türlü terminalde gerçekleştirilen operasyonları öğrenir.",
+   "IV. Limanların ekonomik olarak etkin biçimde yönetilmesini öğrenir.",
+   "V. Limanlar ile alakalı resmi prosedürleri ve bürokratik işlemleri öğrenir.",
+   "VI. Limanlarda kullanılan bilişim sistemlerini tanır."
   ],
   "weeklyTopics": [
-   "Hafta 1 · İnsan Kaynakları Yönetimi (İKY) kavramı ve kapsamı. İKY’nin amaçları ve fonksiyonları",
-   "Hafta 2 · Denizcilikte personel yönetiminden İKY’ne geçiş ve şirket-gemi organizasyonu",
-   "Hafta 3 · Deniz ulaştırması alanında İKY planlaması, amaç ve süreci. Personel gereksinmesi türleri",
-   "Hafta 4 · Gemiadamı temini ve seçimi",
-   "Hafta 5 · Gemiadamı eğitim ve geliştirmesi",
-   "Hafta 6 · Gemiadamı eğitim süreci ve belgelendirmesi",
-   "Hafta 7 · Gemiadamı performans değerlemesi",
-   "Hafta 8 · Gemiadamı olarak kariyer planlaması ve gelişimi",
-   "Hafta 9 · İş analizleri, iş (görev) tanımları ve gerekleri",
-   "Hafta 10 · Gemiadamı ücret yönetimi",
-   "Hafta 11 · Denizcilikte kullanılan İK Bilgi Sistemleri (İKBS)",
-   "Hafta 12 · Şirket ve gemi tarafından (İKBS kullanımı ile) gemiadamı yönetimi",
-   "Hafta 13 · Uluslararası ve Stratejik İKY kavramları",
-   "Hafta 14 · İKY ve teknolojik gelişim, denizcilikteki uygulamaları"
+   "Hafta 1 · Taşıma türleri, Limancılık Terimleri ve Temel Kavramlar",
+   "Hafta 2 · Liman ve terminal tasarımı, Limanlarda Altyapı ve Terminaller",
+   "Hafta 3 · Liman ve terminal tasarımı, Limanlarda Altyapı ve Terminaller",
+   "Hafta 4 · Terminal Türleri I : Konteyner, Ro-Ro ve Yolcu Terminalleri",
+   "Hafta 5 · Terminal Türleri II : Sıvı ve Kuru Dökme Yük Terminalleri",
+   "Hafta 6 · Terminal Operasyonları II: Kapı, CFS, Depolama, Gümrük ve Lojistik",
+   "Hafta 7 · Terminal Operasyonları II: Kapı, CFS, Depolama, Gümrük ve Lojistik",
+   "Hafta 8 · Limancılık Ekonomisi I: Operasyonların Verimliliği",
+   "Hafta 9 · Limancılık Ekonomisi II: İşgücü ve Vardiya Planlaması",
+   "Hafta 10 · Limancılık Ekonomisi III: Liman Pazarlaması",
+   "Hafta 11 · Liman Otoritesi ve Yanaşma Prosedürleri",
+   "Hafta 12 · Limancılık ile Alakalı Uluslararası Anlaşmalar",
+   "Hafta 13 · Limanlarda Bilişim Sistemleri ve Otomasyon",
+   "Hafta 14 · Liman emniyeti ve Türkiye’de Limanlar"
   ],
   "weeklyPlan": [
    {
     "week": 1,
-    "topic": "İnsan Kaynakları Yönetimi (İKY) kavramı ve kapsamı. İKY’nin amaçları ve fonksiyonları",
+    "topic": "Taşıma türleri, Limancılık Terimleri ve Temel Kavramlar",
     "outcomes": "1"
    },
    {
     "week": 2,
-    "topic": "Denizcilikte personel yönetiminden İKY’ne geçiş ve şirket-gemi organizasyonu",
+    "topic": "Liman ve terminal tasarımı, Limanlarda Altyapı ve Terminaller",
     "outcomes": "1"
    },
    {
     "week": 3,
-    "topic": "Deniz ulaştırması alanında İKY planlaması, amaç ve süreci. Personel gereksinmesi türleri",
-    "outcomes": "1-2"
+    "topic": "Liman ve terminal tasarımı, Limanlarda Altyapı ve Terminaller",
+    "outcomes": "1"
    },
    {
     "week": 4,
-    "topic": "Gemiadamı temini ve seçimi",
+    "topic": "Terminal Türleri I : Konteyner, Ro-Ro ve Yolcu Terminalleri",
     "outcomes": "2"
    },
    {
     "week": 5,
-    "topic": "Gemiadamı eğitim ve geliştirmesi",
-    "outcomes": "3"
+    "topic": "Terminal Türleri II : Sıvı ve Kuru Dökme Yük Terminalleri",
+    "outcomes": "2"
    },
    {
     "week": 6,
-    "topic": "Gemiadamı eğitim süreci ve belgelendirmesi",
+    "topic": "Terminal Operasyonları II: Kapı, CFS, Depolama, Gümrük ve Lojistik",
     "outcomes": "3"
    },
    {
     "week": 7,
-    "topic": "Gemiadamı performans değerlemesi",
-    "outcomes": "4"
+    "topic": "Terminal Operasyonları II: Kapı, CFS, Depolama, Gümrük ve Lojistik",
+    "outcomes": "3"
    },
    {
     "week": 8,
-    "topic": "Gemiadamı olarak kariyer planlaması ve gelişimi",
-    "outcomes": "3-4"
+    "topic": "Limancılık Ekonomisi I: Operasyonların Verimliliği",
+    "outcomes": "3"
    },
    {
     "week": 9,
-    "topic": "İş analizleri, iş (görev) tanımları ve gerekleri",
-    "outcomes": "3-4"
+    "topic": "Limancılık Ekonomisi II: İşgücü ve Vardiya Planlaması",
+    "outcomes": "4"
    },
    {
     "week": 10,
-    "topic": "Gemiadamı ücret yönetimi",
-    "outcomes": "3-4"
+    "topic": "Limancılık Ekonomisi III: Liman Pazarlaması",
+    "outcomes": "4"
    },
    {
     "week": 11,
-    "topic": "Denizcilikte kullanılan İK Bilgi Sistemleri (İKBS)",
+    "topic": "Liman Otoritesi ve Yanaşma Prosedürleri",
     "outcomes": "5"
    },
    {
     "week": 12,
-    "topic": "Şirket ve gemi tarafından (İKBS kullanımı ile) gemiadamı yönetimi",
+    "topic": "Limancılık ile Alakalı Uluslararası Anlaşmalar",
     "outcomes": "5"
    },
    {
     "week": 13,
-    "topic": "Uluslararası ve Stratejik İKY kavramları",
-    "outcomes": "5"
+    "topic": "Limanlarda Bilişim Sistemleri ve Otomasyon",
+    "outcomes": "6"
    },
    {
     "week": 14,
-    "topic": "İKY ve teknolojik gelişim, denizcilikteki uygulamaları"
+    "topic": "Liman emniyeti ve Türkiye’de Limanlar"
    }
   ],
   "textbooks": [
    "-",
    "-"
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=DUY&dersNo=507"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=DUY&dersNo=517"
  },
- "DUY 514": {
-  "code": "DUY 514",
-  "name": "Deniz Lojistiği",
-  "nameEn": "Maritime Logistics",
+ "DUY 523": {
+  "code": "DUY 523",
+  "name": "Denizcilikte Kalite Yönetimi",
+  "nameEn": "Maritime Quality Management",
   "language": "Türkçe/English",
   "credits": {
    "theory": 3,
@@ -349,328 +350,217 @@
    "local": 3,
    "ects": 7.5
   },
-  "description": "Küresel ticaret-ekonomisi, taşıma modları, modal-intermodal taşımacılık ve deniz lojistiğiyle ilişkisi. Deniz lojistiği ve liman/terminal operasyon trendleri. Küresel denizcilik yük/kargolarının fonksiyonel sınıflandırması. Denizyoluyla taşınan kargolar ve tehlikeli yükler. Yük/kargo ve kapasite planlaması ve yönetimi. Deniz lojistiğinde performans analizi. Deniz lojistiği ve sürdürülebilirlik. Deniz lojistiğinde gelecekteki olası meseleler Global trade-economics, modular transportation, modal-intermodal transport and relation with maritime logistics. Maritime logistics and port/terminal operation trends. Functional classification of global maritime cargoes. Seaborne cargo and dangerous goods. Cargo and capacity planning and management. Performance analysis in maritime logistics. Maritime logistics and sustainability. Future challenges in maritime logictics.",
+  "description": "Denizcilik endüstrisi paydaşları, Deniz taşımacılığında kısıtlar, Düşük standartlı işletmecilik, Öz-denetim olgusu ve sertifikalandırma kuruluşları, Deniz taşımacılığında uluslararası kural konsepti, Denizcilikte kalite yönetim sistemi, Kalite yönetim sistemi prensipleri, Kural uyumluluğu değerlendirmesi, Toplam Kalite Yönetimi, İşletme mükemmelliği modeli, Stratejik kalite yönetimi, Süreç yönetimi, Denizcilik organizasyonları için kalite yönetim sistemi entegrasyonu, Filo operasyonları için kalite yönetim sistemi entegrasyonu Maritime stakeholders, Constraints in maritime transportation, Substandard management, Self-regulation phenomena and classification societies, International regulation concept in maritime transportation, Quality management system in shipping, Quality management system principles, Regulatory compliance assessment, Total quality management, Business excellence model, Strategic quality management, Process management, Quality management system integration into maritime organizations, Quality management system integration into fleet operations",
   "outcomes": [
-   "I. Taşıma modları hakkında ve küresel ticaret ekonomisi ile ilişkisi hakkında bilgi edinir",
-   "II. Deniz lojistiği ile ilgili mevcut ve yeni trendleri öğrenir.",
-   "III. Yük çeşitlerini, özelliklerini öğrenerek kapasite planlamalarını yapabilir.",
-   "IV. Deniz lojistiği ile ilgili yenilikleri öğrenir ve bunları akademik çalışmalarla destekler."
+   "I. Gemi işletmeciliğinde süreç yönetimini öğrenir",
+   "II. Kural gereksinimleri ile kalite standartlarını bütünleştirir",
+   "III. Kalite yönetim sistemi üzerine uygulama stratejileri üretir,",
+   "IV. Denizcilik organizasyonlarında etkin kalite sistemi tasarlar."
   ],
   "weeklyTopics": [
-   "Hafta 1 · Küresel ticaret ekonomisi ve taşımacılık ilişkisi",
-   "Hafta 2 · Taşıma modları",
-   "Hafta 3 · Kombine, multimodel ve intermodel taşımacılık kavramları",
-   "Hafta 4 · Deniz lojistiği ve liman/terminal operasyon trendleri.",
-   "Hafta 5 · Deniz lojistiği ve liman/terminal operasyon trendleri",
-   "Hafta 6 · Küresel denizcilik yük/kargolarının fonksiyonel sınıflandırması",
-   "Hafta 7 · Denizyoluyla taşınan kargolar ve tehlikeli yükler",
-   "Hafta 8 · Yük/kargo ve kapasite planlaması ve stratejik yönetimi.",
-   "Hafta 9 · Yük/kargo ve kapasite planlaması, stratejik yönetim.",
-   "Hafta 10 · Deniz lojistiğinde performans analizi.",
-   "Hafta 11 · Deniz lojistiği aktivitelerinin gerçek zamanlı kontrolü.",
-   "Hafta 12 · Yeşil deniz lojistiği ve sürdürülebilirlik.",
-   "Hafta 13 · Yeşil deniz lojistiği ve sürdürülebilirlik",
-   "Hafta 14 · Deniz lojistiğinde gelecekteki olası meseleler."
+   "Hafta 1 · Denizcilik endüstrisi paydaşları",
+   "Hafta 2 · Deniz taşımacılığında kısıtlar",
+   "Hafta 3 · Düşük standartlı işletmecilik",
+   "Hafta 4 · Öz-denetim olgusu ve sertifikalandırma kuruluşları",
+   "Hafta 5 · Deniz taşımacılığında uluslararası kural konsepti",
+   "Hafta 6 · Denizcilikte kalite yönetim sistemi",
+   "Hafta 7 · Kalite yönetim sistemi prensipleri",
+   "Hafta 8 · Kural uyumluluğu değerlendirmesi",
+   "Hafta 9 · Toplam kalite yönetimi",
+   "Hafta 10 · İş mükemmelliği modeli",
+   "Hafta 11 · Stratejik kalite yönetimi",
+   "Hafta 12 · Süreç yönetimi",
+   "Hafta 13 · Denizcilik organizasyonları için kalite yönetim sistemi entegrasyonu",
+   "Hafta 14 · Filo operasyonları için kalite yönetim sistemi entegrasyonu"
   ],
   "weeklyPlan": [
    {
     "week": 1,
-    "topic": "Küresel ticaret ekonomisi ve taşımacılık ilişkisi",
+    "topic": "Denizcilik endüstrisi paydaşları",
     "outcomes": "1"
    },
    {
     "week": 2,
-    "topic": "Taşıma modları",
+    "topic": "Deniz taşımacılığında kısıtlar",
     "outcomes": "1"
    },
    {
     "week": 3,
-    "topic": "Kombine, multimodel ve intermodel taşımacılık kavramları",
+    "topic": "Düşük standartlı işletmecilik",
     "outcomes": "1"
    },
    {
     "week": 4,
-    "topic": "Deniz lojistiği ve liman/terminal operasyon trendleri.",
-    "outcomes": "1"
-   },
-   {
-    "week": 5,
-    "topic": "Deniz lojistiği ve liman/terminal operasyon trendleri",
-    "outcomes": "2"
-   },
-   {
-    "week": 6,
-    "topic": "Küresel denizcilik yük/kargolarının fonksiyonel sınıflandırması",
-    "outcomes": "2"
-   },
-   {
-    "week": 7,
-    "topic": "Denizyoluyla taşınan kargolar ve tehlikeli yükler",
-    "outcomes": "3"
-   },
-   {
-    "week": 8,
-    "topic": "Yük/kargo ve kapasite planlaması ve stratejik yönetimi.",
-    "outcomes": "2-3"
-   },
-   {
-    "week": 9,
-    "topic": "Yük/kargo ve kapasite planlaması, stratejik yönetim.",
-    "outcomes": "2-3"
-   },
-   {
-    "week": 10,
-    "topic": "Deniz lojistiğinde performans analizi.",
-    "outcomes": "2-4"
-   },
-   {
-    "week": 11,
-    "topic": "Deniz lojistiği aktivitelerinin gerçek zamanlı kontrolü.",
-    "outcomes": "2-4"
-   },
-   {
-    "week": 12,
-    "topic": "Yeşil deniz lojistiği ve sürdürülebilirlik.",
-    "outcomes": "2-4"
-   },
-   {
-    "week": 13,
-    "topic": "Yeşil deniz lojistiği ve sürdürülebilirlik",
-    "outcomes": "2-4"
-   },
-   {
-    "week": 14,
-    "topic": "Deniz lojistiğinde gelecekteki olası meseleler."
-   }
-  ],
-  "textbooks": [
-   "-",
-   "-"
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=DUY&dersNo=514"
- },
- "DUY 515": {
-  "code": "DUY 515",
-  "name": "Denizcilik Mevzuatı",
-  "nameEn": "Maritime Legislations",
-  "language": "Türkçe/English",
-  "credits": {
-   "theory": 3,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "Deniz Hukukunda Türk Mevzuatının Genel İncelemesi; Uluslararası Denizcilik Örgütleri ve Sözleşme Yapma Usulleri, 1969 Viyana Andlaşmalar Hukuku Sözleşmesi, Denizcilik alanında uluslararası temel sözleşmeler, ILO, üyelik, organları, çalışma yöntemi, MLC 2006 İncelemesi, IMO, üyelik, organları, çalışma yöntemi, IMO’nun Temel Sözleşmeleri ve uygulaması (güvenlik, emniyet, sorumluluk), SOLAS 1974, gemi işletmeciliğinde önemi, MARPOL 1973 ve gemi kaynaklı çevre kirliliğini önlemedeki önemi, BWM 2004 ve yaptırımları, LLMC 1976/1996 ve CLC 1969/1992 ve BUNKER 2001 kapsamında sorumluluk sınırları ve Türk hukukuna etkisi, SALVAGE 1989, LOF ve TOF kapsamında incelenmesi. Safety Analyzing Turkish Legislation under Maritime and Admiralty Law, International Maritime Organizations and Conventions accepting procedure, 1969 1969 Vienna Convention on the Law of Treaties, Main International Maritime Conventions, ILO membership, structure, principles, Main Conventions of IMO and enforcement (safety, security, liability), SOLAS 1974 and the importance in ship management, MARPOL 1973 and importance in prevention of environment pollution sourced by ship, BWM 2004 and it’s enforcements, LLMC 1976/1996, CLC 1969/1992, BUNKER 2001 and limitation of liability under their scopes, SALVAGE 1989 analyzing under LOF and TOF.",
-  "outcomes": [
-   "I. Ulusal ve uluslararası sözleşme kavramını, sözleşmelerin yapılma usulünü öğrenme,",
-   "II. Uluslararası denizcilik sözleşmelerinin, güvenlik, emniyet ve tazmin türlerinin detaylarını kavrayabilir.",
-   "III. SOLAS, MARPOL, SALVAGE gibi temel sözleşme içeriklerinin gemi işletmeciliğindeki uygulamalarını inceyelebilir.",
-   "IV. Denizcilik sözleşmelerinin hukuk alanına yansımalarını gözden geçirebilir."
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Denizcilik mevzuatına giriş, uluslararası sözleşmeler terminolojisi",
-   "Hafta 2 · Uluslararası denizcilik örgütleri ve yapıları",
-   "Hafta 3 · STCW 78 sözleşmesi ve sözleşmenin incelenmesi",
-   "Hafta 4 · COLREG 72 sözleşmesi ve sözleşmenin incelenmesi",
-   "Hafta 5 · FAL 65 ve LC 72 ve HNS 96 sözleşmeleri ve sözleşmelerin incelenmesi",
-   "Hafta 6 · LLMC 76/ Protokol 96 sözleşmesi ve incelenmesi",
-   "Hafta 7 · CLC 69 / Protokol 92 sözleşmesi ve incelenmesi",
-   "Hafta 8 · SALVAGE 89 sözleşmesi ve incelenmesi",
-   "Hafta 9 · BUNKER 2001 ve BWM 2004 sözleşmeleri ve incelenmesi",
-   "Hafta 10 · MARPOL 73/38 sözleşmesi ve annex I-II-III- IV-V-VI incelemesi",
-   "Hafta 11 · SOLAS 74 sözleşmesi ve Chapter II- III – V ve ISM kod ve ISPS incelenmesi",
-   "Hafta 12 · ILO (Uluslararası Çalışma Örgütü) tanıtımı ve MLC 2006 incelemesi",
-   "Hafta 13 · Denizcilik sözleşmelerinin mahkeme kararları kapsamında incelenmesi -I",
-   "Hafta 14 · Denizcilik sözleşmelerinin mahkeme kararları kapsamında incelenmesi -II"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Denizcilik mevzuatına giriş, uluslararası sözleşmeler terminolojisi",
-    "outcomes": "1"
-   },
-   {
-    "week": 2,
-    "topic": "Uluslararası denizcilik örgütleri ve yapıları",
+    "topic": "Öz-denetim olgusu ve sertifikalandırma kuruluşları",
     "outcomes": "1-2"
    },
    {
-    "week": 3,
-    "topic": "STCW 78 sözleşmesi ve sözleşmenin incelenmesi",
-    "outcomes": "2-3"
-   },
-   {
-    "week": 4,
-    "topic": "COLREG 72 sözleşmesi ve sözleşmenin incelenmesi",
-    "outcomes": "2-3"
-   },
-   {
     "week": 5,
-    "topic": "FAL 65 ve LC 72 ve HNS 96 sözleşmeleri ve sözleşmelerin incelenmesi",
-    "outcomes": "2-3"
+    "topic": "Deniz taşımacılığında uluslararası kural konsepti",
+    "outcomes": "2"
    },
    {
     "week": 6,
-    "topic": "LLMC 76/ Protokol 96 sözleşmesi ve incelenmesi",
-    "outcomes": "2-3"
+    "topic": "Denizcilikte kalite yönetim sistemi",
+    "outcomes": "2"
    },
    {
     "week": 7,
-    "topic": "CLC 69 / Protokol 92 sözleşmesi ve incelenmesi",
-    "outcomes": "2-3"
+    "topic": "Kalite yönetim sistemi prensipleri",
+    "outcomes": "1-2-3"
    },
    {
     "week": 8,
-    "topic": "SALVAGE 89 sözleşmesi ve incelenmesi",
-    "outcomes": "2-3"
+    "topic": "Kural uyumluluğu değerlendirmesi",
+    "outcomes": "1-2-3"
    },
    {
     "week": 9,
-    "topic": "BUNKER 2001 ve BWM 2004 sözleşmeleri ve incelenmesi",
-    "outcomes": "2-3"
+    "topic": "Toplam kalite yönetimi",
+    "outcomes": "1-2-3"
    },
    {
     "week": 10,
-    "topic": "MARPOL 73/38 sözleşmesi ve annex I-II-III- IV-V-VI incelemesi",
-    "outcomes": "2-3"
+    "topic": "İş mükemmelliği modeli",
+    "outcomes": "1-2-3"
    },
    {
     "week": 11,
-    "topic": "SOLAS 74 sözleşmesi ve Chapter II- III – V ve ISM kod ve ISPS incelenmesi",
-    "outcomes": "2-3"
+    "topic": "Stratejik kalite yönetimi",
+    "outcomes": "3-4"
    },
    {
     "week": 12,
-    "topic": "ILO (Uluslararası Çalışma Örgütü) tanıtımı ve MLC 2006 incelemesi",
-    "outcomes": "2-3-4"
+    "topic": "Süreç yönetimi",
+    "outcomes": "3-4"
    },
    {
     "week": 13,
-    "topic": "Denizcilik sözleşmelerinin mahkeme kararları kapsamında incelenmesi -I",
-    "outcomes": "4"
+    "topic": "Denizcilik organizasyonları için kalite yönetim sistemi entegrasyonu",
+    "outcomes": "1-2-3-4"
    },
    {
     "week": 14,
-    "topic": "Denizcilik sözleşmelerinin mahkeme kararları kapsamında incelenmesi -II"
+    "topic": "Filo operasyonları için kalite yönetim sistemi entegrasyonu"
    }
   ],
   "textbooks": [
    "-",
    "-"
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=DUY&dersNo=515"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=DUY&dersNo=523"
  },
- "DUY 599": {
-  "code": "DUY 599",
-  "name": "Denizcilik Dönem Projesi",
-  "nameEn": "Maritime Term Project",
+ "DUY 527": {
+  "code": "DUY 527",
+  "name": "Teknik Gemi İşletmeciliği",
+  "nameEn": "Maritime Technical Management",
   "language": "Türkçe/English",
   "credits": {
-   "theory": 0,
+   "theory": 3,
    "practice": 0,
    "lab": 0,
-   "local": 0,
+   "local": 3,
    "ects": 7.5
   },
-  "description": "Dönem projesi, araştırma ve yoğun veri analizine dayalı olarak bir akademik danışman yönetiminde çalışılan, küresel denizcilik endüstrisi için önemli bir problemin, yaratıcı bir tarzda incelendiği ve iyileştirilmesine yönelik tavsiyelerin yapıldığı bir içerikte tasarlanan, bir projedir. Konular, programla ilişkili alanlardan seçilebilir. Yönetici mülakatları ve anketler gibi temel araştırmalar ile dergiler, resmi dokümanlar, pazarlama verileri ve diğer güvenilir kaynaklar gibi dolaylı veriler yoluyla, öğrenciler kendi başlarına önerilerini destekleyecek argümanları sunacaklardır. Yarıyıl sonunda uzmanlardan oluşan bir panel, sunumların ilintisini, analizin derinliğini, anlatının mantığını, yaratıcılığını ve özgünlüğünü değerlendirecektir The graduation project is a research and data intensive project studied with the supervision of an academic advisor and designed to creatively analyze an acceptable problem within the global maritime industry and to provide recommendations for its improvement. Topics may select from sub-section related with programme Through primary research, such as executive interviews and surveys; and secondary research, such as journals, government documents, marketing data, and other authoritative sources, students individually will provide supporting arguments for their recommendations. At the end of the semester, a panel of experts will judge the presentations for relevance, depth of analysis, logical narrative, and creativity and originality of recommendations",
+  "description": "Gemi çalışma maliyetlerinin analizi ve gemi performansı üzerine etkileri, gemi kredileri ve satın alma için fizibilite raporlarının değişik gemi tipleri göz önünde bulundurularak hazırlanması. Uluslararası konvansiyonel gereklerin mevcut gemi işletmeciliği şirketlerinin organizasyonuna adaptasyonu. Gemi işletmeciliği şirketlerinin kalite yönetim sistemlerinin oluşturulması prensipleri Running cost analysis and their affect on ship performance, preparation of feasibility reports for credits, sale and purchase process for various types of ships. Adaptation procedures of international conventional requirements into the existing organization structure of ship management companies. Establishment principles of quality management systems at ship management companies.",
   "outcomes": [
-   "I. Alanında edindiği uzmanlık düzeyindeki kuramsal ve uygulamalı bilgileri kullanabilme becerisi",
-   "II. Alanını ile ilgili karşılaşılan sorunları araştırma yöntemlerini kullanarak çözümleyebilme becerisi",
-   "III. Alanını ile ilgili özel bir çalışmayı bağımsız olarak yürütebilme becerisi",
-   "IV. Alanındaki güncel gelişmeleri ve kendi çalışmalarını, alanındaki gruplara, yazılı, sözlü ve görsel olarak aktarabilme becerisi"
+   "I. Gemi İşletmeciliğindeki temel kavramları ve teknik kavramları öğrenme",
+   "II. Gemi işletmeciliğinde işletme ve çalıştırma maliyetlerinin analizinin yapılması",
+   "III. Gemi fizibilite raporu hazırlayabilme",
+   "IV. Gemi personel, emniyet ve kalite yönetimini yapabilme",
+   "V. Gemi işletmelerinin performanslarının değerlendirilebilmesi"
   ],
   "weeklyTopics": [
-   "Hafta 1 · -",
-   "Hafta 2 · -",
-   "Hafta 3 · -",
-   "Hafta 4 · -",
-   "Hafta 5 · -",
-   "Hafta 6 · -",
-   "Hafta 7 · -",
-   "Hafta 8 · -",
-   "Hafta 9 · -",
-   "Hafta 10 · -",
-   "Hafta 11 · -",
-   "Hafta 12 · -",
-   "Hafta 13 · -",
-   "Hafta 14 · -"
+   "Hafta 1 · Gemi İşletmeciliği ile ilgili temel kavramlar",
+   "Hafta 2 · Gemi işletmeciliğinde gemi arz talebi ve navlunlara etki eden faktörler",
+   "Hafta 3 · Gemi işletme ve çalıştırma maliyetleri",
+   "Hafta 4 · Gemi İşletmeciliği firmalarının paydaşları",
+   "Hafta 5 · İşletmelerde organizasyon yapısı",
+   "Hafta 6 · Ticari işletmecilik ve stratejik yönetim",
+   "Hafta 7 · Ara Sınav",
+   "Hafta 8 · Üçüncü parti gemi işletmeciliği, potansiyel fayda ve maliyetleri",
+   "Hafta 9 · Gemi yatırımı ve fizibilitesi",
+   "Hafta 10 · Teknik gemi işletmeciliği",
+   "Hafta 11 · Personel işe alımı, yönetimi ve eğitimi",
+   "Hafta 12 · Sağlık, Emniyet, Çevre ve Kalite Yönetimi",
+   "Hafta 13 · Gemi İşletmelerinin ve gemilerin denetimi ve sonuçlarının analizi",
+   "Hafta 14 · Gemi İşletmelerinin Performans Analizi"
   ],
   "weeklyPlan": [
    {
     "week": 1,
-    "topic": "-",
-    "outcomes": "1-2-3-4"
+    "topic": "Gemi İşletmeciliği ile ilgili temel kavramlar",
+    "outcomes": "1"
    },
    {
     "week": 2,
-    "topic": "-",
-    "outcomes": "1-2-3-4"
+    "topic": "Gemi işletmeciliğinde gemi arz talebi ve navlunlara etki eden faktörler",
+    "outcomes": "1"
    },
    {
     "week": 3,
-    "topic": "-",
-    "outcomes": "1-2-3-4"
+    "topic": "Gemi işletme ve çalıştırma maliyetleri",
+    "outcomes": "2"
    },
    {
     "week": 4,
-    "topic": "-",
-    "outcomes": "1-2-3-4"
+    "topic": "Gemi İşletmeciliği firmalarının paydaşları",
+    "outcomes": "1-2"
    },
    {
     "week": 5,
-    "topic": "-",
-    "outcomes": "1-2-3-4"
+    "topic": "İşletmelerde organizasyon yapısı",
+    "outcomes": "1-2"
    },
    {
     "week": 6,
-    "topic": "-",
-    "outcomes": "1-2-3-4"
+    "topic": "Ticari işletmecilik ve stratejik yönetim",
+    "outcomes": "3"
    },
    {
     "week": 7,
-    "topic": "-",
-    "outcomes": "1-2-3-4"
+    "topic": "Ara Sınav",
+    "outcomes": "1-2-3"
    },
    {
     "week": 8,
-    "topic": "-",
-    "outcomes": "1-2-3-4"
+    "topic": "Üçüncü parti gemi işletmeciliği, potansiyel fayda ve maliyetleri",
+    "outcomes": "3"
    },
    {
     "week": 9,
-    "topic": "-",
-    "outcomes": "1-2-3-4"
+    "topic": "Gemi yatırımı ve fizibilitesi",
+    "outcomes": "3"
    },
    {
     "week": 10,
-    "topic": "-",
-    "outcomes": "1-2-3-4"
+    "topic": "Teknik gemi işletmeciliği",
+    "outcomes": "4"
    },
    {
     "week": 11,
-    "topic": "-",
-    "outcomes": "1-2-3-4"
+    "topic": "Personel işe alımı, yönetimi ve eğitimi",
+    "outcomes": "4"
    },
    {
     "week": 12,
-    "topic": "-",
-    "outcomes": "1-2-3-4"
+    "topic": "Sağlık, Emniyet, Çevre ve Kalite Yönetimi",
+    "outcomes": "4"
    },
    {
     "week": 13,
-    "topic": "-",
-    "outcomes": "1-2-3-4"
+    "topic": "Gemi İşletmelerinin ve gemilerin denetimi ve sonuçlarının analizi",
+    "outcomes": "4"
    },
    {
     "week": 14,
-    "topic": "-"
+    "topic": "Gemi İşletmelerinin Performans Analizi"
    }
   ],
   "textbooks": [
    "-",
    "-"
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=DUY&dersNo=599"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=DUY&dersNo=527"
  }
 }

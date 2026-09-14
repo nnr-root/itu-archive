@@ -1,8 +1,8 @@
 {
- "MBA 534E": {
-  "code": "MBA 534E",
-  "name": "Entrepreneurship",
-  "nameEn": "Entrepreneurship",
+ "MBA 511E": {
+  "code": "MBA 511E",
+  "name": "Marketing Management",
+  "nameEn": "Marketing Management",
   "language": "English",
   "credits": {
    "theory": 4,
@@ -11,694 +11,506 @@
    "local": 3,
    "ects": 7.5
   },
-  "description": "Bu ders uygun girişim fikirleri bulmak, bunları eleyerek birini seçmek ve bu fikiri bir tamamlanmış ve tutarlı bir iş planı haline getirmeye odaklanmaktadır. Ders kapsamında yapılacak çalışmanın büyük bir kısmı pazar araştırması, ürün geliştirilmesi, fiyatlama, finansal tahminleme, yönetim planlama gibi güçlü bir iş planının hazırlanması için gerekli işlerin yapılmasını içermektedir. Thiscoursefocuses on findingandscreening a suitableentrepreneurialideaanddeveloping it into a completeandcoherentbusiness plan. Most of theworkwillincludetaskslike market research, productdevelopment, pricing, financialforecasting, managementplanning, andotherfactorsneededtocreate a strongbusiness plan.",
+  "description": "Pazarlamanın temel ilkeleri, pazarlama anlayışının gelişimi, pazarlama yönelimi kavramı, stratejik planlamada pazarlamanın rolü, pazarlama planı geliştirme, pazarlama çevresinin analizi, son kullanıcı ve örgütlerarası alıcı pazarları, rekabet stratejileri oluşturma, pazar bölümlendirme, hedef pazarlama ve konumlandırma, , ürün stratejileri, marka yönetimi, fiyatlandırma yaklaşımları, dağıtım kanalı yönetimi, tutundurma ve bütünleşik pazarlama iletişimi yönetimi. Principles of marketing, evolution of marketing thought, the concept of market orientation, the role of marketing in strategic planning, developing marketing plans, analysis of the marketing environment, end consumer and business user markets, developing competitive strategies, market segmentation, target marketing and positioning, product strategies, brand management, pricing approaches, distribution channel management, promotion and integrated marketing communication management.",
   "outcomes": [
-   "Hızlı yeni girişim ortamı hakkında bilgi ve deneyim kazanmak.",
-   "Başlangıçta çok iyi tanınmayan bir endüstri, teknoloji ve/veya pazar hakkında kısa ürede öğrenmek ve katkı sağlamak becerisini kazanmak..",
-   "Girişimci şirketlerde ihtiyaç duyulan, müşteri analizi, pazar seçimi ve ticarileştirme gibi belirli araç ve becerilerin öğrenilmesi.",
-   "Rekabetçi bir pazar ortamındaki müşteri ihtiyaçlarına yönelik belirli bir değer teklifini, teknik yeterlilikler ile uyumlu bir biçimde oluşturacak bir iş modelinin nasıl kurgulanacağı ve rakamlara döküleceğini öğrenmek.",
-   "Yeni iş fırsatları için bir iş planını, teknik, örgütsel ve pazar fizibilitesini analiz ederek nasıl oluşturmak, aktarmak, belirlemek, değerlendirmek, gerektiğine yönelik becerileri öğrenmek ve yetenekleri geliştirmek",
-   "Hızlı yeni girişim ortamı hakkında bilgi ve deneyim kazanmak.",
-   "Başlangıçta çok iyi tanınmayan bir endüstri, teknoloji ve/veya pazar hakkında kısa ürede öğrenmek ve katkı sağlamak becerisini kazanmak..",
-   "Girişimci şirketlerde ihtiyaç duyulan, müşteri analizi, pazar seçimi ve ticarileştirme gibi belirli araç ve becerilerin öğrenilmesi.",
-   "Rekabetçi bir pazar ortamındaki müşteri ihtiyaçlarına yönelik belirli bir değer teklifini, teknik yeterlilikler ile uyumlu bir biçimde oluşturacak bir iş modelinin nasıl kurgulanacağı ve rakamlara döküleceğini öğrenmek.",
-   "Yeni iş fırsatları için bir iş planını, teknik, örgütsel ve pazar fizibilitesini analiz ederek nasıl oluşturmak, aktarmak, belirlemek, değerlendirmek, gerektiğine yönelik becerileri öğrenmek ve yetenekleri geliştirmek"
+   "Pazar yönelimli bakış açısının temel bileşenlerini ve pazarlama kavramının dayandığı temelleri anlayabilme ve yorumlayabilme becerisi,",
+   "Firmanın stratejik planı dahilinde ve bunu tamamlayacak şekilde pazarlama planları hazırlayabilme becerisi,",
+   "Pazarlama çevresine ilişkin bilgiye ulaşabilme, bu bilgiyi analiz edebilme ve pazarlama kararlarına destek olmada kullanabilme becerisi,",
+   "Bireysel yetkinliklerini grup dinamiği ile birleştirerek takımlar içerisinde etkili çalışabilme becerisi,",
+   "Pazarlama karmasına ilişkin karar ve stratejileri anlama ve yorumlama becerisi."
   ],
   "weeklyTopics": [
-   "Hafta 1 · Giriş & Girişimci Zihniyet",
-   "Hafta 2 · İş Fikirlerini Bulmak: Fırsatları Tespit Etmek İçin Dış Analiz",
-   "Hafta 3 · İş Fikrinin İletişimi: Asansör Konuşması",
-   "Hafta 4 · Girişimciler İçin Pazarlama",
-   "Hafta 5 · Örgütsel Tasarım",
-   "Hafta 6 · Yeni Girişimler İçin Hukuki Konular",
-   "Hafta 7 · Girişimciler İçin Finans",
-   "Hafta 8 · Senaryo Planlama",
-   "Hafta 9 · Sermaye Fonlama ve Değerleme",
-   "Hafta 10 · İş Planı Sunumu – Deneme",
-   "Hafta 11 · İş Planı Sunumu – Son Sunum"
+   "Hafta 1 · Pazarlama Kavramının ve Pazar Yönelimli Düşüncenin Anlaşılması",
+   "Hafta 2 · Stratejik Pazarlama Planlarının Geliştirilmesi",
+   "Hafta 3 · Pazarlama Çevresinin İzlenmesi ve Bilgi Toplanması",
+   "Hafta 4 · Son Tüketici Pazarının ve Davranışının İncelenmesi",
+   "Hafta 5 · Örgütsel Pazarın ve Davranışının İncelenmesi",
+   "Hafta 6 · Rekabet Stratejilerinin Oluşturulması",
+   "Hafta 7 · Pazar Bölümlerinin Belirlenmesi, Hedef Pazarlama ve Konumlandırma",
+   "Hafta 8 · Ürün ve Marka Stratejilerinin Oluşturulması",
+   "Hafta 9 · Fiyatlandırma Yaklaşımları ve Stratejileri",
+   "Hafta 10 · Pazarlama Kanallarının Tasarlanması ve Yönetimi",
+   "Hafta 11 · Bütünleşik İletişim Kanallarının Tasarlanması ve Yönetimi"
   ],
   "weeklyPlan": [
    {
     "week": 1,
-    "topic": "Giriş & Girişimci Zihniyet"
+    "topic": "Pazarlama Kavramının ve Pazar Yönelimli Düşüncenin Anlaşılması",
+    "outcomes": "1"
    },
    {
     "week": 2,
-    "topic": "İş Fikirlerini Bulmak: Fırsatları Tespit Etmek İçin Dış Analiz"
-   },
-   {
-    "week": 3,
-    "topic": "İş Fikrinin İletişimi: Asansör Konuşması"
-   },
-   {
-    "week": 4,
-    "topic": "Girişimciler İçin Pazarlama"
-   },
-   {
-    "week": 5,
-    "topic": "Örgütsel Tasarım"
-   },
-   {
-    "week": 6,
-    "topic": "Yeni Girişimler İçin Hukuki Konular"
-   },
-   {
-    "week": 7,
-    "topic": "Girişimciler İçin Finans"
-   },
-   {
-    "week": 8,
-    "topic": "Senaryo Planlama"
-   },
-   {
-    "week": 9,
-    "topic": "Sermaye Fonlama ve Değerleme"
-   },
-   {
-    "week": 10,
-    "topic": "İş Planı Sunumu – Deneme"
-   },
-   {
-    "week": 11,
-    "topic": "İş Planı Sunumu – Son Sunum"
-   }
-  ],
-  "textbooks": [
-   "Kuratko, D.F. andHodgetts, R. M. 2008. Entrepreneurship: Theory, ProcessandPractice, ThomsonSouthwestern.",
-   "Osterwalder, A. andPigneur, Y. 2010. Business Model Generation, Wiley.",
-   "Hisrich, R.D.,Peters, M. P. andShepherd, D.A. 2008. Entrepreneurship. McGraw-Hill.",
-   "Tennent, J. andFriend, G. 2005. The Economist Guide to Business Modelling, 2nd edn, Profile Books.",
-   "Friend, G. andZehle, S. 2004. The Economist Guide to Business Planning, Profile Books.",
-   "Kuratko, D.F. and Hodgetts, R. M. 2008. Entrepreneurship: Theory, ProcessandPractice, ThomsonSouthwestern.",
-   "Osterwalder, A. andPigneur, Y. 2010. Business Model Generation, Wiley.",
-   "Hisrich, R.D.,Peters, M. P. andShepherd, D.A. 2008. Entrepreneurship. McGraw-Hill.",
-   "Tennent, J. andFriend, G. 2005. The Economist Guide to Business Modelling, 2nd edn, Profile Books.",
-   "Friend, G. andZehle, S. 2004. The Economist Guide to Business Planning, Profile Books."
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=MBA&dersNo=534"
- },
- "MBA 537E": {
-  "code": "MBA 537E",
-  "name": "International Finance",
-  "nameEn": "International Finance",
-  "language": "English",
-  "credits": {
-   "theory": 4,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "Uluslararası firmalarda temel karar verme süreçlerinin analizi, uluslararası finansal ürünler, uluslararası finansal kurumlar ve buralarda işlem gören enstrümanlar, parite işleyişi, kur ve parite tahminleri finansal kararlarda uluslar ve uluslararası firmalarda karar verme süreçleri Tools and methods to study and analyze multinational finance issues and problems, the foreign exchange market, parity conditions; foreign exchange rate determination and forecasting; derivatives, the key financial decisions of the multinational firms",
-  "outcomes": [
-   "Uluslararası şirketlerin finansal yönetimi hakkında bilgi,",
-   "Uluslararası piyasalar ve buralarda işlem gören ürünler hakkında bilgi,",
-   "Parite koşulları ile kur tahmini yapabilme becerisi,",
-   "Swap ve türev ürünler hakkında bilgi,",
-   "Çevrim riskini yönetme ve hesaplama becerisi,",
-   "Uluslararası ticaretin finansmanında kullanılan teknikler hakkında bilgi,",
-   "Uluslararası kullanılan ürünleri fiyatlama becerisi,",
-   "Uluslararası şirketlerin finansal yönetimi hakkında bilgi,",
-   "Uluslararası piyasalar ve buralarda işlem gören ürünler hakkında bilgi,",
-   "Parite koşulları ile kur tahmini yapabilme becerisi,",
-   "Swap ve türev ürünler hakkında bilgi,",
-   "Çevrim riskini yönetme ve hesaplama becerisi,",
-   "Uluslararası ticaretin finansmanında kullanılan teknikler hakkında bilgi,",
-   "Uluslararası kullanılan ürünleri fiyatlama becerisi,"
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Uluslararası Finansa Giriş, Çokuluslu Şirketlerde Finansal Yönetim",
-   "Hafta 2 · Parite ve Döviz Kuru Tahmini, Döviz Piyasası",
-   "Hafta 3 · Döviz ve Türev Piyasaları I- II",
-   "Hafta 4 · Döviz Piyasalarının Analizine Yönelik Proje Sunumları",
-   "Hafta 5 · Swaplar ve Faize Dayalı Türev Araçlar",
-   "Hafta 6 · Çevrim Riski Ölçümü ve Yönetimi",
-   "Hafta 7 · Ekonomik Risk Ölçümü ve Yönetimi",
-   "Hafta 8 · Dış Ticaretin Finansmanı",
-   "Hafta 9 · Dönen Varlıklar Yönetimi ve Kısa Vadeli Borçlanma I",
-   "Hafta 10 · Dönen Varlıklar Yönetimi ve Kısa Vadeli Borçlanma II",
-   "Hafta 11 · Risk Yönetimine Yönelik Proje Sunumları"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Uluslararası Finansa Giriş, Çokuluslu Şirketlerde Finansal Yönetim"
-   },
-   {
-    "week": 2,
-    "topic": "Parite ve Döviz Kuru Tahmini, Döviz Piyasası"
-   },
-   {
-    "week": 3,
-    "topic": "Döviz ve Türev Piyasaları I- II"
-   },
-   {
-    "week": 4,
-    "topic": "Döviz Piyasalarının Analizine Yönelik Proje Sunumları"
-   },
-   {
-    "week": 5,
-    "topic": "Swaplar ve Faize Dayalı Türev Araçlar"
-   },
-   {
-    "week": 6,
-    "topic": "Çevrim Riski Ölçümü ve Yönetimi"
-   },
-   {
-    "week": 7,
-    "topic": "Ekonomik Risk Ölçümü ve Yönetimi"
-   },
-   {
-    "week": 8,
-    "topic": "Dış Ticaretin Finansmanı"
-   },
-   {
-    "week": 9,
-    "topic": "Dönen Varlıklar Yönetimi ve Kısa Vadeli Borçlanma I"
-   },
-   {
-    "week": 10,
-    "topic": "Dönen Varlıklar Yönetimi ve Kısa Vadeli Borçlanma II"
-   },
-   {
-    "week": 11,
-    "topic": "Risk Yönetimine Yönelik Proje Sunumları"
-   }
-  ],
-  "textbooks": [
-   "Shapiro, A.C. (2010), Multinational Financial Management, 10. Baskı, Wiley. ISBN: 978- 0470415016",
-   "Eun, C., Resnick, B. (2011), International Financial Management, McGraw Hill. ISBN: 978- 0078034657",
-   "Eiteman, D., Stonehill, A., Moffett, M. (2010), Multinational Business Finance, 12. Baskı, Addison Wesley. ISBN: 978-0136096689",
-   "Shapiro, A.C. (2010), Multinational Financial Management, 10. Baskı, Wiley. ISBN: 978- 0470415016",
-   "Eun, C., Resnick, B. (2011), International Financial Management, McGraw Hill. ISBN: 978- 0078034657",
-   "Eiteman, D., Stonehill, A., Moffett, M. (2010), Multinational Business Finance, 12. Baskı, Addison Wesley. ISBN: 978-0136096689"
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=MBA&dersNo=537"
- },
- "MBA 539E": {
-  "code": "MBA 539E",
-  "name": "Investments",
-  "nameEn": "Investments",
-  "language": "English",
-  "credits": {
-   "theory": 4,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "Bu ders öğrencilerin finansal ürünler ve temel portföy yönetim teknikleri hakkında bilgiler edinmeleri için tasarlanmıştır. Bu amaçla, genel hatlarıyla finansal ürünler ve bu ürünlerin işlem gördüğü piyasalardan bahsedildikten sonra, risk ve getiri arasındaki ilişki ve varlık fiyatlama ve portföy yönetiminde kullanılan birtakım modeller ve stratejiler gösterilmektedir. This course is designed to give students a comprehensive knowledge about financial assets and portfolio management. Accordingly, after a general introduction of financial assets and markets in which these assets are traded, the relation between risk and return and some models and strategies used in asset valuation portfolio management are shown.",
-  "outcomes": [
-   "I. Finansal piyasaların ekonomik sistemdeki rolü, büyüklüğü ve aralarındaki ilişkileri yorumlayabilirler",
-   "II. Çeşitli modellerle hisse senedi ve tahvilleri fiyatlayabilirler",
-   "III. Temel ve teknik analiz yöntemlerini uygulayabilirler",
-   "IV. Korunma aracı olarak türev ürünleri kullanabilirler",
-   "V. Varlık ve portföy riskini ölçebilme ve yorumlayabilirler",
-   "VI. Getirileri modelleyebilirler",
-   "VII. Portföy yönetim stratejileri geliştirebilirler",
-   "Dönem boyunca yönettikleri portföylerinin performanslarını ölçebilir ve değerlendirebilirler",
-   "Finansal piyasaların ekonomik sistemdeki rolü, büyüklüğü ve aralarındaki ilişkileri yorumlayabilirler",
-   "Çeşitli modellerle hisse senedi ve tahvilleri fiyatlayabilirler",
-   "Temel ve teknik analiz yöntemlerini uygulayabilirler",
-   "Korunma aracı olarak türev ürünleri kullanabilirler",
-   "Varlık ve portföy riskini ölçebilme ve yorumlayabilirler",
-   "Getirileri modelleyebilirler",
-   "Portföy yönetim stratejileri geliştirebilirler",
-   "Dönem boyunca yönettikleri portföylerinin performanslarını ölçebilir ve değerlendirebilirler."
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Türkiye'de ve Dünyada Finansal Kurumlar ve Sermaye Piyasaları",
-   "Hafta 2 · SermayePiyasasıYatırımAraçları",
-   "Hafta 3 · BorsalardaAlım-SatımYöntemleri",
-   "Hafta 4 · FinansalVarlıklarınFiyatAnalizi",
-   "Hafta 5 · Türev Ürünler",
-   "Hafta 6 · FinansalPiyasalarveAraçlar",
-   "Hafta 7 · Risk-GetiriİlişkisivePortföyÇeşitlendirmesi",
-   "Hafta 8 · PortföyYönetimStratejileri",
-   "Hafta 9 · PortföyPerformansÖlçümü",
-   "Hafta 10 · Risk veArbitraj",
-   "Hafta 11 · Projesunumları: PortföyYönetimi"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Türkiye'de ve Dünyada Finansal Kurumlar ve Sermaye Piyasaları"
-   },
-   {
-    "week": 2,
-    "topic": "SermayePiyasasıYatırımAraçları"
-   },
-   {
-    "week": 3,
-    "topic": "BorsalardaAlım-SatımYöntemleri"
-   },
-   {
-    "week": 4,
-    "topic": "FinansalVarlıklarınFiyatAnalizi"
-   },
-   {
-    "week": 5,
-    "topic": "Türev Ürünler"
-   },
-   {
-    "week": 6,
-    "topic": "FinansalPiyasalarveAraçlar"
-   },
-   {
-    "week": 7,
-    "topic": "Risk-GetiriİlişkisivePortföyÇeşitlendirmesi"
-   },
-   {
-    "week": 8,
-    "topic": "PortföyYönetimStratejileri"
-   },
-   {
-    "week": 9,
-    "topic": "PortföyPerformansÖlçümü"
-   },
-   {
-    "week": 10,
-    "topic": "Risk veArbitraj"
-   },
-   {
-    "week": 11,
-    "topic": "Projesunumları: PortföyYönetimi"
-   }
-  ],
-  "textbooks": [
-   "Bodie, Z., Kane, A., Marcus, A.J., (2010), Investments, 9th Edition, McGraw Hill. ISBN: 978-0073530703",
-   "Sharpe, W., Alexander, G.J., Bailey, J.W, (1998), 6th edition, Prentice Hall. ISBN: 978-0130101303",
-   "Graham, B., (2008), Security Analysis, 6th edition, McGraw Hill. ISBN: 978-0071592536",
-   "Bodie, Z., Kane, A., Marcus, A.J., (2010), Investments, 9th Edition, McGraw Hill. ISBN: 978-0073530703",
-   "Sharpe, W., Alexander, G.J., Bailey, J.W, (1998), 6th edition, Prentice Hall. ISBN: 978-0130101303",
-   "Graham, B., (2008), Security Analysis, 6th edition, McGraw Hill. ISBN: 978-0071592536"
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=MBA&dersNo=539"
- },
- "MBA 540E": {
-  "code": "MBA 540E",
-  "name": "Project Management",
-  "nameEn": "Project Management",
-  "language": "English",
-  "credits": {
-   "theory": 4,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "Çok disiplinli bir faaliyet olan Proje Yönetimi, önceden tanımlanmış hedeflere, kısıtlı kaynak ve zamanda erişebilmeyi amaçlar. Bu ders, projelerin pek çok teknik ve yönetimsel yönlerini ele alan sistem yaklaşımları sağlamak için tasarlanmıştır. Ders; yeni proje fikri geliştirmekten, proje seçme ve değerlendirme, proje organizasyonu, planlama, bütçeleme, çizelgeleme,izleme, kontrol,denetim ve sonlandırmaya kadar gibi pek çok konuyu içermektedir. Project Management is a multi-disciplinary activity, whichaims to achieve the predetermined objectives under limited resource and time conditions. This course is designed to provide a system approach that includes almost all technical and managerial aspects of projects. Topics vary from creating new project ideas to project selection and evaluation, project organization, planning, budgeting, scheduling, monitoring, controlling, auditing, and termination.",
-  "outcomes": [
-   "Proje Yönetimi süreci ve güncel hayatta değişik sektörlerdeki projeler için uygulayabilme bilgisi,",
-   "Birbiriyle rekabet halindeki yeni proje fikirlerini tasarlayabilme, değerlendirebilme ve seçebilme becerisi,",
-   "Proje türlerini ayırt ederek; organizasyon yapısını belirleme, uygun takım oluşturabilme ve takım içi etkin iletişimi sağlama becerisi,",
-   "Projeyi planlama, programlama, kaynak atama, izleme, etkin sonuçlandırma ve kontrol etme becerisi,",
-   "Proje maliyetlerini doğrulukla tahmin edebilecek ve kaynakları etkin kullanabilme yeteneği,",
-   "Proje Yönetimi süreci ve güncel hayatta değişik sektörlerdeki projeler için uygulayabilme bilgisi,",
-   "Birbiriyle rekabet halindeki yeni proje fikirlerini tasarlayabilme, değerlendirebilme ve seçebilme becerisi,",
-   "Proje türlerini ayırt ederek; organizasyon yapısını belirleme, uygun takım oluşturabilme ve takım içi etkin iletişimi sağlama becerisi,",
-   "Projeyi planlama, programlama, kaynak atama, izleme, etkin sonuçlandırma ve kontrol etme becerisi,",
-   "Proje maliyetlerini doğrulukla tahmin edebilecek ve kaynakları etkin kullanabilme yeteneği,"
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Proje yönetiminde temel kavramlar",
-   "Hafta 2 · Proje değerlemesi ve seçimi",
-   "Hafta 3 · Proje yöneticisi ve proje örgütü",
-   "Hafta 4 · Proje planlama",
-   "Hafta 5 · Müzakere ve anlaşmazlik çözümleme",
-   "Hafta 6 · Bütçeleme ve maliyet tahmini",
-   "Hafta 7 · Çizelgeleme",
-   "Hafta 8 · Kaynak atanmasi",
-   "Hafta 9 · İzleme ve bilişim sistemleri",
-   "Hafta 10 · Proje kontrolü",
-   "Hafta 11 · Proje denetimi ve sonuçlandırma"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Proje yönetiminde temel kavramlar"
-   },
-   {
-    "week": 2,
-    "topic": "Proje değerlemesi ve seçimi"
-   },
-   {
-    "week": 3,
-    "topic": "Proje yöneticisi ve proje örgütü"
-   },
-   {
-    "week": 4,
-    "topic": "Proje planlama"
-   },
-   {
-    "week": 5,
-    "topic": "Müzakere ve anlaşmazlik çözümleme"
-   },
-   {
-    "week": 6,
-    "topic": "Bütçeleme ve maliyet tahmini"
-   },
-   {
-    "week": 7,
-    "topic": "Çizelgeleme"
-   },
-   {
-    "week": 8,
-    "topic": "Kaynak atanmasi"
-   },
-   {
-    "week": 9,
-    "topic": "İzleme ve bilişim sistemleri"
-   },
-   {
-    "week": 10,
-    "topic": "Proje kontrolü"
-   },
-   {
-    "week": 11,
-    "topic": "Proje denetimi ve sonuçlandırma"
-   }
-  ],
-  "textbooks": [
-   "Mantel, S. J;Meredith, J.;Shafer,M.S. and Sutton,M.M., “Project Management In Practice”, Third Edition, Jhon Wiley& Sons Inc., 2007",
-   "Meredith, J.; Mantel, S. J., 2006, Project Management: A Managerial Approach, Sixth Edition, John Wiley & Sons Inc.",
-   "Kerzner, H., Project management : a systems approach to planning, scheduling, and controlling, Hoboken, N.J. : J. Wiley, 2006.",
-   "Mantel, S. J;Meredith, J.;Shafer,M.S. and Sutton,M.M., “Project Management In Practice”, Third Edition, Jhon Wiley& Sons Inc., 2007",
-   "Meredith, J.; Mantel, S. J., 2006, Project Management: A Managerial Approach, Sixth Edition, John Wiley & Sons Inc.",
-   "Kerzner, H., Project management : a systems approach to planning, scheduling, and controlling, Hoboken, N.J. : J. Wiley, 2006."
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=MBA&dersNo=540"
- },
- "MBA 546E": {
-  "code": "MBA 546E",
-  "name": "Strategic Internet Marketing",
-  "nameEn": "Strategic Internet Marketing",
-  "language": "English",
-  "credits": {
-   "theory": 4,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "İnternet, firmaların pazarlama faaliyetleri açısından yeni araçlar ve beceriler gerektiren yeni bir faaliyet ortamı yaratmaktadır. Ders kapsamında ilişkisel pazarlama yaklaşımı temelinde, firmaların paydaşları ile etkili ilişkiler oluşturmasında ve sürdürmesinde İnternetin artan öneminden ve e-pazarlama kavramından bahsedilecektir. E-pazarlama faaliyetlerinin firma genel stratejisi ile bütünleşmesinde e-pazarlama karması unsurlarının önemi ve sadece İnternet üzerinde çalışan e-iş modelleri üzerinde ayrıntılı olarak durulacaktır. Internet is reshaping the field of marketing in many ways and providing companies a new business environment. The course is designed to discuss the role of Internet in establishing and maintaining effective relationship with stakeholders and to introduce the basic concepts of e-marketing. This course also provides deep insights about e-marketing mix and e-business models.",
-  "outcomes": [
-   "İnternetin pazarlama faaliyetlerine etkileri hakkında bilgi edinme,",
-   "stratejik e-pazarlama planı hazırlayabilme,",
-   "e-iş modeli tasarlama",
-   "E-pazarlama yönetiminin gerek piyasa mekanizması gerekse toplum üzerindeki etkilerini dikkate alma, sosyal sorumluluk ve etik anlayışını benimseyebilme,",
-   "Takım olarak çalışabilme, işbirliği ve takım üyeleri ile iletişim kurma becerileri kazanmaları hedeflenmektedir."
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Pazarlama kavramındaki gelişmeler;İlişkisel pazarlama - Müşteri ilişkileri yönetimi ve ilgili kavramlar",
-   "Hafta 2 · Internet ve Pazarlama; E-ticaret ve E-pazarlama kavramları",
-   "Hafta 3 · Internetin pazarlama stratejilerine etkisi; Pazarlama karması ve E-pazarlama karması",
-   "Hafta 4 · E-pazarlama stratejileri; e-modeller ve ilgili kavramlar",
-   "Hafta 5 · E-modeller: Süreçleri, altyapı ve örnek e-ticaret sitesi yapımı, iş planı hazırlama – I Vaka:",
-   "Hafta 6 · E-pazarlama modelleri değerlendirme II. Vaka:",
-   "Hafta 7 · E-pazarlama modelleri: Pazaryerleri, C2C III. Vaka:",
-   "Hafta 8 · E-pazarlama modelleri: Bir araya getirenlerIV. Vaka:",
-   "Hafta 9 · İçerik sağlayıcılar ve e-pazarlama ile ilişkisiVI. Vaka:",
-   "Hafta 10 · Mobil pazarlama, mobil ticaret ve yeni iş modelleriVIII. Vaka:",
-   "Hafta 11 · --Proje sunumları—"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Pazarlama kavramındaki gelişmeler;İlişkisel pazarlama - Müşteri ilişkileri yönetimi ve ilgili kavramlar"
-   },
-   {
-    "week": 2,
-    "topic": "Internet ve Pazarlama; E-ticaret ve E-pazarlama kavramları"
-   },
-   {
-    "week": 3,
-    "topic": "Internetin pazarlama stratejilerine etkisi; Pazarlama karması ve E-pazarlama karması"
-   },
-   {
-    "week": 4,
-    "topic": "E-pazarlama stratejileri; e-modeller ve ilgili kavramlar"
-   },
-   {
-    "week": 5,
-    "topic": "E-modeller: Süreçleri, altyapı ve örnek e-ticaret sitesi yapımı, iş planı hazırlama – I Vaka:"
-   },
-   {
-    "week": 6,
-    "topic": "E-pazarlama modelleri değerlendirme II. Vaka:"
-   },
-   {
-    "week": 7,
-    "topic": "E-pazarlama modelleri: Pazaryerleri, C2C III. Vaka:"
-   },
-   {
-    "week": 8,
-    "topic": "E-pazarlama modelleri: Bir araya getirenlerIV. Vaka:"
-   },
-   {
-    "week": 9,
-    "topic": "İçerik sağlayıcılar ve e-pazarlama ile ilişkisiVI. Vaka:"
-   },
-   {
-    "week": 10,
-    "topic": "Mobil pazarlama, mobil ticaret ve yeni iş modelleriVIII. Vaka:"
-   },
-   {
-    "week": 11,
-    "topic": "--Proje sunumları—"
-   }
-  ],
-  "textbooks": [
-   "Özmen, Ş. (2009), Ağ Ekonomisinde Yeni Ticaret Yolu E-Ticaret, Genişletilmiş 3.Baskı, Bilgi Üniversitesi Yayınları.",
-   "Strauss, J., ve Frost, R. (2009), E-Marketing, 5.Baskı, Pearson Education International."
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=MBA&dersNo=546"
- },
- "MBA 549E": {
-  "code": "MBA 549E",
-  "name": "Business Forecasting",
-  "nameEn": "Business Forecasting",
-  "language": "English",
-  "credits": {
-   "theory": 4,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "İleriyi tahmin tekniklerine giriş, basit modeller, hareketli ortalamalar ve üstsel düzleme yöntemleri, regresyon yöntemi ile ileriyi tahmine giriş, basit doğrusal genel eğilim tahmini, çoklu regresyonla tahmin, zaman serisi ayrım analizi, durağanlık, Box-Jenkins zamanserisianaliziyöntemleri, ileriyitahmintekniklerisonuçlarınınbirleştirilmesi Introduction to business forecasting, naïve models, moving averages and exponential smoothing, introduction to forecasting with regression models, forecasting with a simple linear trend, forecasting with multiple regression, time-series decomposition, stationarity, Box-Jenkins type time series analysis models, combining forecast results.",
-  "outcomes": [
-   "İleriyi tahmin yöntemlerinin, tahmin performansını değerlendirmek",
-   "Grafikler ile zaman serisinin özellikleri hakkında yorum yapmak",
-   "Eldeki problem ve veri için en uygun ileriyi tahmin yönteminin seçilmesi ve uygulanması",
-   "Zaman serisini bileşenlerine ayırma ve her bileşen için tahminlerde bulunma",
-   "En uygun regresyon modelinin tahmini, bu modelin olası problemlerinin saptanması, bu problemlerin düzeltilmesi için gerekli işlemlerin yapılması",
-   "Box-Jenkins modelinin tahmini",
-   "Farklı ileriyi tahmin tekniklerinden elde edilen sonuçların karşılaştırılması ve birleştirilmesi"
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · İleriyi tahmin tekniklerine giriş, basit modeller",
-   "Hafta 2 · Temel istatistik kavramların gözden geçirilmesi, ileriyi tahmin performans ölçüleri",
-   "Hafta 3 · Hareketli ortalamalar ve üstsel düzleme yöntemleri",
-   "Hafta 4 · Basit doğrusal regresyon",
-   "Hafta 5 · Regresyon modelinin istatistiksel değerlendirilmesi, değişen varyans, ardışık bağımlılık",
-   "Hafta 6 · Regresyon modeli ile ileriyi tahmin tekniklerine giriş, basit doğrusal genel eğilim tahmini",
-   "Hafta 7 · Yıliçi sınavı",
-   "Hafta 8 · Çoklu regresyonla ileriyi tahmin",
-   "Hafta 9 · Zaman serisi ayırım analizi, genel eğilimi bulma, konjonktür bileşenini ölçme",
-   "Hafta 10 · Box-Jenkins zamanserisianaliziyöntemleri, durağanlık",
-   "Hafta 11 · İleriyi tahmin teknikleri sonuçlarının birleştirilmesi"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "İleriyi tahmin tekniklerine giriş, basit modeller"
-   },
-   {
-    "week": 2,
-    "topic": "Temel istatistik kavramların gözden geçirilmesi, ileriyi tahmin performans ölçüleri"
-   },
-   {
-    "week": 3,
-    "topic": "Hareketli ortalamalar ve üstsel düzleme yöntemleri"
-   },
-   {
-    "week": 4,
-    "topic": "Basit doğrusal regresyon"
-   },
-   {
-    "week": 5,
-    "topic": "Regresyon modelinin istatistiksel değerlendirilmesi, değişen varyans, ardışık bağımlılık"
-   },
-   {
-    "week": 6,
-    "topic": "Regresyon modeli ile ileriyi tahmin tekniklerine giriş, basit doğrusal genel eğilim tahmini"
-   },
-   {
-    "week": 7,
-    "topic": "Yıliçi sınavı"
-   },
-   {
-    "week": 8,
-    "topic": "Çoklu regresyonla ileriyi tahmin"
-   },
-   {
-    "week": 9,
-    "topic": "Zaman serisi ayırım analizi, genel eğilimi bulma, konjonktür bileşenini ölçme"
-   },
-   {
-    "week": 10,
-    "topic": "Box-Jenkins zamanserisianaliziyöntemleri, durağanlık"
-   },
-   {
-    "week": 11,
-    "topic": "İleriyi tahmin teknikleri sonuçlarının birleştirilmesi"
-   }
-  ],
-  "textbooks": [
-   "• J. Holton Wilson, and Barry Keating (2001), Business Forecasting, McGraw Hill",
-   "• R. Harris and R. Sollis (2003) Applied Time Series Modelling and Forecasting",
-   "• P.H. Frances (1999) Time Series Models for Business and Economic Forecasting",
-   "• D. Gujarati (1995), Basic Econometrics, McGraw Hill."
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=MBA&dersNo=549"
- },
- "MBA 565E": {
-  "code": "MBA 565E",
-  "name": "Econo.of Money&Finan.Mar.",
-  "nameEn": "Econo.of Money&Finan.Mar.",
-  "language": "English",
-  "credits": {
-   "theory": 4,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "",
-  "outcomes": null,
-  "textbooks": [
-   "-"
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=MBA&dersNo=565"
- },
- "MBA 567E": {
-  "code": "MBA 567E",
-  "name": "Managerial Decision Making",
-  "nameEn": "Managerial Decision Making",
-  "language": "English",
-  "credits": {
-   "theory": 4,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "Bu ders farklı özelliklerdeki kurumsal ve toplumsal karar verme durumlarında sayısal analiz teknikleri uygulayabilme yeteneklerini öğrencilere sunar. Sayısal analiz / yönetim bilimi alanındaki çok sayıda önemli konu ders kapsamında işlenecektir.im bilimiayabilme yetenekleri This courseprovidesthestudents with skills to apply the techniques of quantitative analysis in many types of organizational and societal decision making situations. Most of the major topics in the quantitative analysis / management science field are covered by this course.",
-  "outcomes": [
-   "kendilerini etkin karar vermeden uzaklaştırabilecek hataları ve tuzakları tanımlayabilirler,",
-   "karar verme sürecinin nasıl işlediğini anlayabilirler",
-   "karar verme etkinliğini geliştirecek çok sayıda karar verme tekniği kullanabilirler",
-   "karar verebilmek için uzlaşık seçeneği bulabilirler (seçim, sıralama veya sınıflandırma)"
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Belirsizlik ve Risk altında Karar Verme",
-   "Hafta 2 · Karar Ağaçları, Fayda Teorisi",
-   "Hafta 3 · BilişselHaritalar",
-   "Hafta 4 · Çok Kriterli Karar Verme",
-   "Hafta 5 · Temel Yöntemler",
-   "Hafta 6 · Basit Toplamlı Ağırlıklandırma, Ağırlıklı Çarpım, TOPSIS",
-   "Hafta 7 · Analitik Hiyerarşi Süreci",
-   "Hafta 8 · Analitik Ağ Süreci",
-   "Hafta 9 · Gerçek Hayat Vakaları",
-   "Hafta 10 · Grup Karar Verme: Takımlar için Teknikler",
-   "Hafta 11 · Grup Karar Verme: Sosyal Seçim Fonksiyonu"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Belirsizlik ve Risk altında Karar Verme",
-    "outcomes": "1-2-3-4"
-   },
-   {
-    "week": 2,
-    "topic": "Karar Ağaçları, Fayda Teorisi",
-    "outcomes": "1-2-3-4"
-   },
-   {
-    "week": 3,
-    "topic": "BilişselHaritalar",
+    "topic": "Stratejik Pazarlama Planlarının Geliştirilmesi",
     "outcomes": "1-2"
    },
    {
+    "week": 3,
+    "topic": "Pazarlama Çevresinin İzlenmesi ve Bilgi Toplanması",
+    "outcomes": "1-3-4"
+   },
+   {
     "week": 4,
-    "topic": "Çok Kriterli Karar Verme",
-    "outcomes": "1-2"
+    "topic": "Son Tüketici Pazarının ve Davranışının İncelenmesi",
+    "outcomes": "3-4"
    },
    {
     "week": 5,
-    "topic": "Temel Yöntemler",
+    "topic": "Örgütsel Pazarın ve Davranışının İncelenmesi",
     "outcomes": "3-4"
    },
    {
     "week": 6,
-    "topic": "Basit Toplamlı Ağırlıklandırma, Ağırlıklı Çarpım, TOPSIS",
+    "topic": "Rekabet Stratejilerinin Oluşturulması",
     "outcomes": "3-4"
    },
    {
     "week": 7,
-    "topic": "Analitik Hiyerarşi Süreci",
-    "outcomes": "1-2-3-4"
+    "topic": "Pazar Bölümlerinin Belirlenmesi, Hedef Pazarlama ve Konumlandırma",
+    "outcomes": "3-4-5"
    },
    {
     "week": 8,
-    "topic": "Analitik Ağ Süreci",
-    "outcomes": "1-2-3-4"
+    "topic": "Ürün ve Marka Stratejilerinin Oluşturulması",
+    "outcomes": "4-5"
    },
    {
     "week": 9,
-    "topic": "Gerçek Hayat Vakaları",
-    "outcomes": "1-2-3-4"
+    "topic": "Fiyatlandırma Yaklaşımları ve Stratejileri",
+    "outcomes": "4-5"
    },
    {
     "week": 10,
-    "topic": "Grup Karar Verme: Takımlar için Teknikler",
-    "outcomes": "1-2-3"
+    "topic": "Pazarlama Kanallarının Tasarlanması ve Yönetimi",
+    "outcomes": "4-5"
    },
    {
     "week": 11,
-    "topic": "Grup Karar Verme: Sosyal Seçim Fonksiyonu",
-    "outcomes": "1-2-3-4"
+    "topic": "Bütünleşik İletişim Kanallarının Tasarlanması ve Yönetimi",
+    "outcomes": "4-5"
    }
   ],
   "textbooks": [
-   "Render, B., Stair Jr, R.M., and Hanna, M.E. 2012. Quantitative Analysis for Management. 11th Ed., Pearson Education Inc., New Jersey.",
-   "Goodwin, P., Wright, G. 2010. Decision Analysis for Management Judgment, 4th Ed., John Wiley & Sons, New York."
+   "Kotler, P.ve Keller, A. (2011), A Framework for Marketing Management, 5.Baskı, Prentice Hall.",
+   "Kotler, P.ve Keller, A. (2011), Marketing Management, 14. Baskı, Prentice Hall.",
+   "Tek, Ö.B. (1999 ), Pazarlama İlkeleri: Global Yönetimsel Yaklaşım, 8. Baskı, Beta Yayınevi.",
+   "Harvard Business Review, Business Week, Marketing Türkiye, Capital vb.den derlenen makaleler. /",
+   "Kotler, P.ve Keller, A. (2011), A Framework for Marketing Management, 5.Baskı, Prentice Hall.",
+   "Kotler, P.ve Keller, A. (2011), Marketing Management, 14. Baskı, Prentice Hall.",
+   "Tek, Ö.B. (1999 ), Pazarlama İlkeleri: Global Yönetimsel Yaklaşım, 8. Baskı, Beta Yayınevi.",
+   "Harvard Business Review, Business Week, Marketing Türkiye, Capital vb.den derlenen makaleler. (Articles exempted from Harvard Business Review, Business Week, Marketing Turkiye, Capital, etc.)"
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=MBA&dersNo=567"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=MBA&dersNo=511"
  },
- "MBA 598E": {
-  "code": "MBA 598E",
-  "name": "Proje",
-  "nameEn": "Project",
-  "language": "Türkçe/English",
+ "MBA 513E": {
+  "code": "MBA 513E",
+  "name": "Business Economics",
+  "nameEn": "Business Economics",
+  "language": "English",
   "credits": {
-   "theory": 3,
+   "theory": 4,
    "practice": 0,
    "lab": 0,
-   "local": 0,
+   "local": 3,
    "ects": 7.5
   },
-  "description": "İşletme yönetimi uzmanlık alanında bir konunun akademik danışman yönetiminde yazılı olarak incelenmesidir. A subject related to business administration is studied under supervision of a faculty member.",
+  "description": "Temel kavramlar; iktisadi ssistem ve iktisadi birimler; iktisadi karar alma; arz-talep; piyasa, piyasa dinamikleri ve rekabet; esneklikler; maliyet ve arz ilişkisi; makroiktisadi ssistem; milli gelir ölçümü; milli gelirin belirlenmesi; para piyasasına yönelik temel konular. Basic concepts; economic system and economic units; decision making in economic; supply and demand; markets, market dynamics and competition; elasticities; costs and their relationship with supply; macroeconomic system; national income and measurement issues; the determination of national income; basic issues in money market.",
   "outcomes": [
-   "İşletme yönetimi alanında edindiği uzmanlık düzeyindeki kuramsal ve uygulamalı bilgiyi kullanabilme",
-   "İşletme yönetimi alanında edindiği uzmanlık düzeyindeki kuramsal ve uygulamalı bilgiyi kullanabilme",
-   "İşletme yönetimi alanı ile ilgili uzmanlık gerektiren bir çalışmayı bağımsız olarak yürütebilme",
-   "İşletme yönetimi alanı ile ilgili uzmanlık gerektiren bir çalışmayı bağımsız olarak yürütebilme"
+   "İktisadi sitemin işleyişi hakkında fikir sahibi olma",
+   "Gündelik iktisadi konuları yorumlayabilme ve çözün önerebilme kabiliyeti",
+   "Piyasa dinamiklerinin firma kararlarına etkilerini anlama becerisi",
+   "İktisadi çevre ve yönetim pratikleri arasındaki ilişkileri görme becerisi",
+   "İktisadi çevreye bağlı olrak yönetim pratiklerini belirleme becerisi",
+   "İktisadi sitemin işleyişi hakkında fikir sahibi olma",
+   "Gündelik iktisadi konuları yorumlayabilme ve çözün önerebilme kabiliyeti",
+   "Piyasa dinamiklerinin firma kararlarına etkilerini anlama becerisi",
+   "İktisadi çevre ve yönetim pratikleri arasındaki ilişkileri görme becerisi",
+   "İktisadi çevreye bağlı olrak yönetim pratiklerini belirleme becerisi"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · İktisadi analiz ve iktisatçı gibi düşünmek",
+   "Hafta 2 · Arz ve talep",
+   "Hafta 3 · Piyasa, piyasa dinamikleri ve rekabet",
+   "Hafta 4 · Esneklikler",
+   "Hafta 5 · Üretim maliyetleri",
+   "Hafta 6 · Piyasa ve yönetim kararları arasındaki ilişkiler",
+   "Hafta 7 · Yıliçi Sınavı",
+   "Hafta 8 · Makroiktisadi sistem ve unsurları",
+   "Hafta 9 · Ulusal gelirin belirlenmesi",
+   "Hafta 10 · Ulusal gelirin ölçümü",
+   "Hafta 11 · Finansal sistem ve modern bankacılık"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "İktisadi analiz ve iktisatçı gibi düşünmek",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "Arz ve talep",
+    "outcomes": "2"
+   },
+   {
+    "week": 3,
+    "topic": "Piyasa, piyasa dinamikleri ve rekabet",
+    "outcomes": "3"
+   },
+   {
+    "week": 4,
+    "topic": "Esneklikler",
+    "outcomes": "4-5"
+   },
+   {
+    "week": 5,
+    "topic": "Üretim maliyetleri",
+    "outcomes": "4-5"
+   },
+   {
+    "week": 6,
+    "topic": "Piyasa ve yönetim kararları arasındaki ilişkiler",
+    "outcomes": "1-2-3-4-5"
+   },
+   {
+    "week": 7,
+    "topic": "Yıliçi Sınavı",
+    "outcomes": "4-5"
+   },
+   {
+    "week": 8,
+    "topic": "Makroiktisadi sistem ve unsurları",
+    "outcomes": "4"
+   },
+   {
+    "week": 9,
+    "topic": "Ulusal gelirin belirlenmesi",
+    "outcomes": "5"
+   },
+   {
+    "week": 10,
+    "topic": "Ulusal gelirin ölçümü",
+    "outcomes": "5"
+   },
+   {
+    "week": 11,
+    "topic": "Finansal sistem ve modern bankacılık",
+    "outcomes": "5"
+   }
   ],
   "textbooks": [
-   "-"
+   "G. Mankiw (1998), The Principle of Economics, (New York: Dryden Press).",
+   "M. Thomas (1999). Managerial Economics. (New York: McGrawHill).",
+   "R.S. Pindyck abd D.L. Rubinfeld (2005). Microeconomics. (London: Prentice Hall).",
+   "M. K. Evans (2004). Macroeconomics for Managers. (London: Blackwell Oublishing).",
+   "G. Mankiw (1998), The Principle of Economics, (New York: Dryden Press).",
+   "M. Thomas (1999). Managerial Economics. (New York: McGrawHill).",
+   "R.S. Pindyck abd D.L. Rubinfeld (2005). Microeconomics. (London: Prentice Hall).",
+   "M. K. Evans (2004). Macroeconomics for Managers. (London: Blackwell Oublishing)."
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=MBA&dersNo=598"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=MBA&dersNo=513"
+ },
+ "MBA 515E": {
+  "code": "MBA 515E",
+  "name": "Financial Accounting",
+  "nameEn": "Financial Accounting",
+  "language": "English",
+  "credits": {
+   "theory": 4,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 7.5
+  },
+  "description": "Finansal muhasebeye giriş, finansal tablolar ve fonksiyonları, genel kabul görmüş muhasebe ilkeleri, muhasebe döngüsü, finansal varlık, duran varlık, kısa süreli borç, stokları muhasebeleştirilmesi ve finansal tabloların hazırlama Introduction to financial accounting, general accounting principles, accounting cycle, examinations of current assets, fixed assets, current liabilities, inventory methods and policies, and preparation of financial tables (Balance Sheet, Income Statement, Statement of Owner’s Equity and Cash Flows)",
+  "outcomes": [
+   "Finansal muhasebenin amacı ve işletmeler için önemini kavrama",
+   "Finansal bilgileri yorumlama ve muhasebe sürecini anlama",
+   "Bir şirketin yaptığı işlemlerden yola çıkarak muhasebe defterlerini tutma",
+   "Finansal tablolar hazırlama",
+   "Ticari şirketlerin muhasebe kayıtlarını tutma",
+   "Finansal varlıkları belirleme ve değerleme",
+   "Alternatif yöntemlerle stokları hesaplama",
+   "Sabit varlıkları belirleme ve değerleme",
+   "Finansal borçları ve özkaynakları belirleme ve değerleme",
+   "Finansal muhasebenin amacı ve işletmeler için önemini kavrama",
+   "Finansal bilgileri yorumlama ve muhasebe sürecini anlama",
+   "Bir şirketin yaptığı işlemlerden yola çıkarak muhasebe defterlerini tutma",
+   "Finansal tablolar hazırlama",
+   "Ticari şirketlerin muhasebe kayıtlarını tutma",
+   "Finansal varlıkları belirleme ve değerleme",
+   "Alternatif yöntemlerle stokları hesaplama",
+   "Sabit varlıkları belirleme ve değerleme",
+   "Finansal borçları ve özkaynakları belirleme ve değerleme"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Muhasebeye Giriş ve Temel Finansal Tablolar I, II",
+   "Hafta 2 · Muhasebe Döngüsü: İşlemleri Kaydetme",
+   "Hafta 3 · Muhasebe Döngüsü: Tahakkuklar ve Ertelemeler",
+   "Hafta 4 · Muhasebe Döngüsü: Finansal Tabloların Raporlanması",
+   "Hafta 5 · Vaka Çalışması I: Halka Açık Bir Şirketin Mali Tablolarının Analizi",
+   "Hafta 6 · Finansal Tablolar, Kayıtlar ve Kapatmalar",
+   "Hafta 7 · Ticari Şirketlerin Muhasebesi, Finansal Varlıklar",
+   "Hafta 8 · Stoklar ve Satılan Malların Maliyeti",
+   "Hafta 9 · Maddi ve Maddi Olmayan Varlıklar",
+   "Hafta 10 · Yükümlülükler, Özsermaye",
+   "Hafta 11 · Vaka Çalışması II: Halka Açık Bir Bankanın Mali Tablolarının Analizi"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Muhasebeye Giriş ve Temel Finansal Tablolar I, II"
+   },
+   {
+    "week": 2,
+    "topic": "Muhasebe Döngüsü: İşlemleri Kaydetme"
+   },
+   {
+    "week": 3,
+    "topic": "Muhasebe Döngüsü: Tahakkuklar ve Ertelemeler"
+   },
+   {
+    "week": 4,
+    "topic": "Muhasebe Döngüsü: Finansal Tabloların Raporlanması"
+   },
+   {
+    "week": 5,
+    "topic": "Vaka Çalışması I: Halka Açık Bir Şirketin Mali Tablolarının Analizi"
+   },
+   {
+    "week": 6,
+    "topic": "Finansal Tablolar, Kayıtlar ve Kapatmalar"
+   },
+   {
+    "week": 7,
+    "topic": "Ticari Şirketlerin Muhasebesi, Finansal Varlıklar"
+   },
+   {
+    "week": 8,
+    "topic": "Stoklar ve Satılan Malların Maliyeti"
+   },
+   {
+    "week": 9,
+    "topic": "Maddi ve Maddi Olmayan Varlıklar"
+   },
+   {
+    "week": 10,
+    "topic": "Yükümlülükler, Özsermaye"
+   },
+   {
+    "week": 11,
+    "topic": "Vaka Çalışması II: Halka Açık Bir Bankanın Mali Tablolarının Analizi"
+   }
+  ],
+  "textbooks": [
+   "Williams, J., Haka, S., Bettner, M., Carcello, J., (2011), Financial & Managerial Accounting, 16. Baskı, McGraw Hill, ISBN: 978-0077504014",
+   "Anthony, R., Hawkins, D., Merchant, K. (2010), Accounting: Text and Cases, 13. Baskı, McGraw-Hill, ISBN: 978-0073379593",
+   "Jones, M. (2006), Accounting, 2. Baskı, Wiley, ISBN: 978-0470017791",
+   "Wild, J., Shaw, K., Chiappetta, B. (2010), Principles of Financial Accounting, 20. Baskı, McGraw Hill. ISBN: 978-0077338237",
+   "Williams, J., Haka, S., Bettner, M., Carcello, J., (2011), Financial & Managerial Accounting, 16. Baskı, McGraw Hill, ISBN: 978-0077504014",
+   "Anthony, R., Hawkins, D., Merchant, K. (2010), Accounting: Text and Cases, 13. Baskı, McGraw-Hill, ISBN: 978-0073379593",
+   "Jones, M. (2006), Accounting, 2. Baskı, Wiley, ISBN: 978-0470017791",
+   "Wild, J., Shaw, K., Chiappetta, B. (2010), Principles of Financial Accounting, 20. Baskı, McGraw Hill. ISBN: 978-0077338237"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=MBA&dersNo=515"
+ },
+ "MBA 517E": {
+  "code": "MBA 517E",
+  "name": "Management Statistics",
+  "nameEn": "Management Statistics",
+  "language": "English",
+  "credits": {
+   "theory": 4,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 7.5
+  },
+  "description": "Temel kavramlar; ölçme düzeyleri; sorgulayıcı istatistik; tanımlayıcı istatistik (ortalama ölçüleri; yayıklık ölçüleri); olasılık; kesikli ve sürekli olasılık dağılımları; örnekleme; nokta tahmini; aralık tahmini; hipotez sınamaları (tek örneklem, iki örneklem); varyans çözümlemesi, ki-kare testleri, regresyon analizi Basic concepts; measurement levels; exploratory statistics, descriptive statistics (measures of central tendency, measures of dispersion); probability; discrete and continuous probability distributions; sampling; point estimation, interval estimation, hypothesis testing (one sample, two sample), analysis of variance ; chi-square tests; regression analysis",
+  "outcomes": [
+   "Veriyi çizelge ve çizimlerle özetleyerek sunma becerisi",
+   "Sorgulayıcı veri çözümlemesi yapma becerisi",
+   "Veriyi örneklem istatistikleri ile özetleyerek sunma becerisi",
+   "Tek anakütle parametreleri için güven aralığı hesabı ve hipotez sınamaları yapma becerisi",
+   "İki veya daha fazla anakütle parametresinin karşılaştırılması için güven aralığı hesabı ve hipotez sınamaları yapma becerisi",
+   "İki sözel değişkenin bağımsızlığını test etme becerisi",
+   "Sayısal değişkenler arasındaki ilişkileri tahmin etme ve yorumlama becerisi",
+   "Veriyi çizelge ve çizimlerle özetleyerek sunma becerisi",
+   "Sorgulayıcı veri çözümlemesi yapma becerisi",
+   "Veriyi örneklem istatistikleri ile özetleyerek sunma becerisi",
+   "Tek anakütle parametreleri için güven aralığı hesabı ve hipotez sınamaları yapma becerisi",
+   "İki veya daha fazla anakütle parametresinin karşılaştırılması için güven aralığı hesabı ve hipotez sınamaları yapma becerisi",
+   "İki sözel değişkenin bağımsızlığını test etme becerisi",
+   "Sayısal değişkenler arasındaki ilişkileri tahmin etme ve yorumlama becerisi"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Giriş, ölçme düzeyleri",
+   "Hafta 2 · Sorgulayıcı İstatistik",
+   "Hafta 3 · Tanımlayıcı İstatistik",
+   "Hafta 4 · Olasılık, kesikli olasılık dağılımları",
+   "Hafta 5 · Sürekli olasılık dağılımları",
+   "Hafta 6 · Yıliçi Sınavı",
+   "Hafta 7 · Örnekleme, nokta tahmin, aralık tahmin",
+   "Hafta 8 · Hipotez Sınaması (tek örneklem)",
+   "Hafta 9 · Hipotez Sınaması (iki örneklem ve k örneklem (varyans çözümlemesi)",
+   "Hafta 10 · Ki-kare Testleri",
+   "Hafta 11 · Regresyon Analizi"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Giriş, ölçme düzeyleri"
+   },
+   {
+    "week": 2,
+    "topic": "Sorgulayıcı İstatistik"
+   },
+   {
+    "week": 3,
+    "topic": "Tanımlayıcı İstatistik"
+   },
+   {
+    "week": 4,
+    "topic": "Olasılık, kesikli olasılık dağılımları"
+   },
+   {
+    "week": 5,
+    "topic": "Sürekli olasılık dağılımları"
+   },
+   {
+    "week": 6,
+    "topic": "Yıliçi Sınavı"
+   },
+   {
+    "week": 7,
+    "topic": "Örnekleme, nokta tahmin, aralık tahmin"
+   },
+   {
+    "week": 8,
+    "topic": "Hipotez Sınaması (tek örneklem)"
+   },
+   {
+    "week": 9,
+    "topic": "Hipotez Sınaması (iki örneklem ve k örneklem (varyans çözümlemesi)"
+   },
+   {
+    "week": 10,
+    "topic": "Ki-kare Testleri"
+   },
+   {
+    "week": 11,
+    "topic": "Regresyon Analizi"
+   }
+  ],
+  "textbooks": [
+   "Berenson, M.L., C. Krehbiel, T.C. and Levine D.M, (2006), Basic Business Statistics: Concepts and Applications and CD package, Prentice-Hall.",
+   "Groebner, D.F., Shannon, P.W., Fry, P.C., Smith, K.D. (2010), Business Statistics: Decision Making Approach, 8. Baskı, Prentice Hall. ISBN: 978-0136121015",
+   "Newbold, P. (2000), (Çeviri: Ümit Şenesen), İşletme Ve İktisat İçin İstatistik, 4.Baskı, Literatür Yayıncılık. ISBN: 978-9758431557",
+   "Şenesen, Ümit (2004), İstatistik - Sayıların Arkasını Anlamak, Literatür Yayıncılık. ISBN: 978-9750402838",
+   "Berenson, M.L., C. Krehbiel, T.C. and Levine D.M, (2006), Basic Business Statistics: Concepts and Applications and CD package, Prentice-Hall.",
+   "Groebner, D.F., Shannon, P.W., Fry, P.C., Smith, K.D. (2010), Business Statistics: Decision Making Approach, 8. Baskı, Prentice Hall. ISBN: 978-0136121015",
+   "Newbold, P. (2000), (Çeviri: Ümit Şenesen), İşletme Ve İktisat İçin İstatistik, 4.Baskı, Literatür Yayıncılık. ISBN: 978-9758431557",
+   "Şenesen, Ümit (2004), İstatistik - Sayıların Arkasını Anlamak, Literatür Yayıncılık. ISBN: 978-9750402838"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=MBA&dersNo=517"
+ },
+ "MBA 519E": {
+  "code": "MBA 519E",
+  "name": "Management&Organizations",
+  "nameEn": "Management&Organizations",
+  "language": "English",
+  "credits": {
+   "theory": 4,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 7.5
+  },
+  "description": "Dersin içeriği temel yönetim kavram ve süreçlerinin tanımlanmasını, yönetim düşüncesinin tarihsel evriminin irdelenmesini, ulusal ve örgütsel kültürün yönetim pratiklerine etkisinin açıklanmasını, karar verme süreçlerinin analizini, planlama, örgütleme, yürütme ve kontrol süreçlerinin değerlendirilmesi ve vaka çözümlerini kapsamaktadır. The contents of the course include definition of key management concepts and processes, discussions of the evolution of management thought, explanation of national and organizational level culture and their impact on management practices, analysis of decision making processes and evaluation of planning, organizing, leading and controlling functions of management with case studies.",
+  "outcomes": [
+   "Yönetim konusundaki bilgilerini genişletip derinleştiriler,",
+   "Yönetim ve organizasyon konusundaki temel konu başlıklarını bağlama ve zamana ilişkin eleştirel bir bakış açısıyla değerlendirebilirler,",
+   "İşletme yönetimi ve yönetsel karar verme faaliyetlerine ilişkin sosyal ilişkileri düzenleyen normları anlar, analiz edebilir ve bunları tekrar yapılandırmak üzere harekete geçebilirler.",
+   "Gerçek yaşamda karşılaşılabilecek durumları içeren vakalar kapsamında gerekli problem tanımlarını yapabilir, analiz eder ve uygun yönetsel kararları alabilirler.",
+   "Yönetim konusundaki bilgilerini genişletip derinleştiriler,",
+   "Yönetim ve organizasyon konusundaki temel konu başlıklarını bağlama ve zamana ilişkin eleştirel bir bakış açısıyla değerlendirebilirler,",
+   "İşletme yönetimi ve yönetsel karar verme faaliyetlerine ilişkin sosyal ilişkileri düzenleyen normları anlar, analiz edebilir ve bunları tekrar yapılandırmak üzere harekete geçebilirler.",
+   "Gerçek yaşamda karşılaşılabilecek durumları içeren vakalar kapsamında gerekli problem tanımlarını yapabilir, analiz eder ve uygun yönetsel kararları alabilirler."
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Giriş ve Temel kavramlar- Yönetim, Örgüt ve Yönetici",
+   "Hafta 2 · Dış çevre faktörleri ve paydaşlar",
+   "Hafta 3 · Evolution of Management Thought",
+   "Hafta 4 · Kültür/Ahlak/kurumsal sosyal sorumluluk",
+   "Hafta 5 · Karar verme",
+   "Hafta 6 · Planlama",
+   "Hafta 7 · Örgütleme",
+   "Hafta 8 · Örgütleme (devam); Yürütme-motivasyon",
+   "Hafta 9 · Motivasyon ve Liderlik",
+   "Hafta 10 · Liderlik-devam. Koordinasyon, iletişim ve takımlar",
+   "Hafta 11 · Kontrol sistemleri"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Giriş ve Temel kavramlar- Yönetim, Örgüt ve Yönetici",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 2,
+    "topic": "Dış çevre faktörleri ve paydaşlar",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 3,
+    "topic": "Evolution of Management Thought",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 4,
+    "topic": "Kültür/Ahlak/kurumsal sosyal sorumluluk",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 5,
+    "topic": "Karar verme",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 6,
+    "topic": "Planlama",
+    "outcomes": "3"
+   },
+   {
+    "week": 7,
+    "topic": "Örgütleme",
+    "outcomes": "3"
+   },
+   {
+    "week": 8,
+    "topic": "Örgütleme (devam); Yürütme-motivasyon",
+    "outcomes": "4"
+   },
+   {
+    "week": 9,
+    "topic": "Motivasyon ve Liderlik",
+    "outcomes": "4"
+   },
+   {
+    "week": 10,
+    "topic": "Liderlik-devam. Koordinasyon, iletişim ve takımlar",
+    "outcomes": "4"
+   },
+   {
+    "week": 11,
+    "topic": "Kontrol sistemleri",
+    "outcomes": "4"
+   }
+  ],
+  "textbooks": [
+   "Daft, R.L. (2010) The New Era of Management., 10th International Ed., South-Western-Cengage.",
+   "Daft, R.L., Murphy, J., Wilmott, H. (20109, Organization Theory and Design, International Ed., South-Western-Cengage.",
+   "Daft, R.L. (2010) The New Era of Management., 10th International Ed., South-Western-Cengage.",
+   "Daft, R.L., Murphy, J., Wilmott, H. (20109, Organization Theory and Design, International Ed., South-Western-Cengage."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=MBA&dersNo=519"
  }
 }
