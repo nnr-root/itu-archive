@@ -14935,7 +14935,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 0,
+  "capacity": 60,
   "enrolled": 0,
   "reserved": "-",
   "programs": [
@@ -15287,6 +15287,64 @@
   "enrolled": 0,
   "reserved": "-",
   "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15560",
+  "code": "ING 103N",
+  "branch": "ING",
+  "level": "LS",
+  "name": "Film Studies",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Hacer Şivil",
+  "buildings": [
+   "TAS_2"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "13:30/16:29"
+  ],
+  "rooms": [
+   "Amfi"
+  ],
+  "capacity": 10,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "EFN_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15561",
+  "code": "ING 103SC",
+  "branch": "ING",
+  "level": "LS",
+  "name": "Science Communication",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Yılmaz Akkaya",
+  "buildings": [
+   "KTPH"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "13:30/16:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 10,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "EFN_LS"
+  ],
   "prereq": "-",
   "classReq": "-"
  }

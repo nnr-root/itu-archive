@@ -337,7 +337,7 @@
    [
     "2026-2027-guz",
     "Çağla Tokyay",
-    0,
+    60,
     0,
     "Perşembe"
    ],
@@ -6421,6 +6421,13 @@
     "Perşembe"
    ],
    [
+    "2026-2027-guz",
+    "Hacer Şivil",
+    10,
+    0,
+    "Salı"
+   ],
+   [
     "2025-2026-bahar",
     "Duygu Özkan",
     25,
@@ -6873,6 +6880,7 @@
   "code": "ING 103SC",
   "name": "Science Communication",
   "terms": [
+   "2026-2027-guz",
    "2022-2023-guz",
    "2021-2022-bahar",
    "2021-2022-guz",
@@ -6884,6 +6892,13 @@
    "2018-2019-guz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Yılmaz Akkaya",
+    10,
+    0,
+    "Salı"
+   ],
    [
     "2022-2023-guz",
     "--",

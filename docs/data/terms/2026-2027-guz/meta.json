@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-14T15:05:21Z",
+ "scrapedAt": "2026-09-14T23:12:39Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5268,
- "courses": 3746,
+ "sections": 5278,
+ "courses": 3749,
  "branches": [
   {
    "code": "ABM",
@@ -110,7 +110,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 44
+   "sections": 45
   },
   {
    "code": "BIO",
@@ -195,7 +195,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 9
+   "sections": 12
   },
   {
    "code": "CEV",
@@ -308,7 +308,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 68
+   "sections": 69
   },
   {
    "code": "DUM",
@@ -371,7 +371,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 8
+   "sections": 10
   },
   {
    "code": "EGC",
@@ -652,7 +652,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 195
+   "sections": 197
   },
   {
    "code": "INS",
@@ -1017,7 +1017,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 21
+   "sections": 22
   },
   {
    "code": "MMI",
@@ -1608,11 +1608,11 @@
   }
  ],
  "stats": {
-  "sections": 5268,
-  "courses": 3746,
+  "sections": 5278,
+  "courses": 3749,
   "branches": 225,
-  "instructors": 1777,
-  "capacity": 252739,
-  "enrolled": 476
+  "instructors": 1780,
+  "capacity": 252849,
+  "enrolled": 551
  }
 }
