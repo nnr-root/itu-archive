@@ -63,7 +63,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 20,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -501,7 +501,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 51,
+  "enrolled": 53,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1033,7 +1033,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 41,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1166,7 +1166,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 10,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1299,7 +1299,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1565,7 +1565,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 47,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2097,7 +2097,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 60,
+  "enrolled": 59,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2363,7 +2363,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 24,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -3294,7 +3294,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -3560,7 +3560,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 24,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -3693,7 +3693,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 10,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -4491,7 +4491,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 11,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -4757,7 +4757,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 12,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -7018,7 +7018,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 23,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "DUI_LS",

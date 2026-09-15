@@ -118,7 +118,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 24,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -224,7 +224,7 @@
    "B207"
   ],
   "capacity": 60,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "JEF_LS",
@@ -671,7 +671,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 23,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1671,7 +1671,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 23,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1771,7 +1771,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 5,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "BIO_LS",
