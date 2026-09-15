@@ -78,7 +78,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "ICM_LS"
@@ -344,7 +344,7 @@
    "--"
   ],
   "capacity": 55,
-  "enrolled": 0,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "IAD_LS",

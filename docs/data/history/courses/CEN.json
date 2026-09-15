@@ -11,7 +11,7 @@
     "2026-2027-guz",
     "Ömer Özyıldırım",
     80,
-    0,
+    8,
     "Perşembe"
    ],
    [
@@ -98,14 +98,14 @@
     "2026-2027-guz",
     "Eşref Adalı",
     150,
-    0,
+    8,
     "Çarşamba"
    ],
    [
     "2026-2027-guz",
     "Nizamettin Aydın , Murat Çakan",
     30,
-    0,
+    4,
     "Çarşamba"
    ],
    [
@@ -314,6 +314,22 @@
     80,
     0,
     "Çarşamba"
+   ]
+  ]
+ },
+ "CEN 322E": {
+  "code": "CEN 322E",
+  "name": "Computer Architecture",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Nizamettin Aydın",
+    40,
+    0,
+    "Salı"
    ]
   ]
  },

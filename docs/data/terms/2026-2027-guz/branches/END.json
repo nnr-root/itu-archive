@@ -20,7 +20,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 0,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "END_LS"
@@ -49,7 +49,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 0,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "ENDE_LS"
@@ -200,8 +200,8 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 0,
-  "reserved": "IND_LS/15/0 | ISL_LS/5/0 | ISLE_LS/5/0 | Diğer/55/0",
+  "enrolled": 1,
+  "reserved": "IND_LS/15/0 | ISL_LS/5/0 | ISLE_LS/5/0 | Diğer/55/1",
   "programs": [
    "END_LS",
    "ENDE_LS",
@@ -938,9 +938,10 @@
   ],
   "capacity": 80,
   "enrolled": 0,
-  "reserved": "-",
+  "reserved": "KOM_LS/3/0 | Diğer/77/0",
   "programs": [
-   "END_LS"
+   "END_LS",
+   "KOM_LS"
   ],
   "prereq": "Detay",
   "classReq": "-"
@@ -1025,9 +1026,11 @@
   ],
   "capacity": 80,
   "enrolled": 0,
-  "reserved": "-",
+  "reserved": "KOM_LS/2/0 | KOME_LS/3/0 | Diğer/75/0",
   "programs": [
-   "ENDE_LS"
+   "ENDE_LS",
+   "KOM_LS",
+   "KOME_LS"
   ],
   "prereq": "Detay",
   "classReq": "-"
@@ -1292,11 +1295,13 @@
   ],
   "capacity": 50,
   "enrolled": 0,
-  "reserved": "IND_LS/10/0 | Diğer/40/0",
+  "reserved": "IND_LS/10/0 | KOM_LS/2/0 | KOME_LS/3/0 | Diğer/35/0",
   "programs": [
    "END_LS",
    "ENDE_LS",
-   "IND_LS"
+   "IND_LS",
+   "KOM_LS",
+   "KOME_LS"
   ],
   "prereq": "-",
   "classReq": "-"

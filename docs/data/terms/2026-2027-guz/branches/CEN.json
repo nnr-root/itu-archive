@@ -20,7 +20,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 0,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [
    "CEN_LS"
@@ -49,7 +49,7 @@
    "--"
   ],
   "capacity": 150,
-  "enrolled": 0,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [
    "CEN_LS"
@@ -273,7 +273,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "-",
   "buildings": [
-   "TAS_2"
+   "Gazimagusa-TAS_1"
   ],
   "days": [
    "Pazartesi"
@@ -282,7 +282,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "Amfi"
+   "502"
   ],
   "capacity": 0,
   "enrolled": 0,
@@ -325,7 +325,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Nizamettin Aydın , Murat Çakan",
   "buildings": [
-   "TAS_2"
+   "Gazimagusa-TAS_1"
   ],
   "days": [
    "Çarşamba"
@@ -334,15 +334,44 @@
    "09:30/11:29"
   ],
   "rooms": [
-   "Amfi"
+   "502"
   ],
   "capacity": 30,
-  "enrolled": 0,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "CEN_LS"
   ],
   "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15570",
+  "code": "CEN 322E",
+  "branch": "CEN",
+  "level": "LS",
+  "name": "Computer Architecture",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Nizamettin Aydın",
+  "buildings": [
+   "BBB"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "08:30/11:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 40,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEN_LS"
+  ],
+  "prereq": "Detay",
   "classReq": "-"
  }
 ]

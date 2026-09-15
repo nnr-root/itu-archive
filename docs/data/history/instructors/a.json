@@ -1014,6 +1014,19 @@
   ],
   "terms": 1
  },
+ "Abdullah Cihan Ak": {
+  "name": "Abdullah Cihan Ak",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "ISE 304",
+    "SW Engineering",
+    0,
+    0
+   ]
+  ],
+  "terms": 1
+ },
  "Abdullah Ekrem Yüce": {
   "name": "Abdullah Ekrem Yüce",
   "rows": [
@@ -1558,7 +1571,7 @@
     "MAD 111",
     "Maden Müh Giriş",
     75,
-    0
+    15
    ],
    [
     "2026-2027-guz",
@@ -2725,7 +2738,7 @@
     "ISG 506",
     "Uygulamalı Olasılık\u0026İstatistik",
     20,
-    3
+    4
    ],
    [
     "2026-2027-guz",
@@ -2878,7 +2891,7 @@
     "SEC 113E",
     "Intr. to Cyber Sec. Eng \u0026 Ethics",
     60,
-    0
+    11
    ],
    [
     "2025-2026-bahar",
@@ -3113,7 +3126,7 @@
     "GEO 103E",
     "Fundamentals of Surveying",
     40,
-    0
+    7
    ],
    [
     "2026-2027-guz",
@@ -3301,14 +3314,14 @@
     "MAK 107",
     "Makina Tasarımına Giriş",
     30,
-    0
+    30
    ],
    [
     "2026-2027-guz",
     "MAK 198",
     "Atölye: İşSağ.\u0026Güv. Mak.Elema.",
     200,
-    0
+    87
    ],
    [
     "2026-2027-guz",
@@ -3681,7 +3694,7 @@
     "GEO 101E",
     "Intro. to Info. Technologies",
     50,
-    0
+    26
    ],
    [
     "2026-2027-guz",
@@ -5502,7 +5515,7 @@
     "CAB 157",
     "Bağlama I",
     5,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -7759,7 +7772,7 @@
     "MTO 101",
     "Meteoroloji Müh. Giriş ve Etik",
     70,
-    0
+    24
    ],
    [
     "2026-2027-guz",
@@ -9418,14 +9431,14 @@
     "INS 111",
     "İnşaat Müh. Giriş ve Etik",
     250,
-    0
+    75
    ],
    [
     "2026-2027-guz",
     "INS 111E",
     "Int. to Civil Eng. \u0026 Ethics",
     250,
-    0
+    40
    ],
    [
     "2025-2026-yaz",
@@ -9895,7 +9908,7 @@
    ],
    [
     "2026-2027-guz",
-    "GEM 453E",
+    "GEM 451E",
     "Automatic Control of Ships",
     30,
     0
@@ -9946,7 +9959,7 @@
     "CAB 131",
     "Keman I",
     5,
-    0
+    1
    ],
    [
     "2025-2026-bahar",
@@ -10211,7 +10224,7 @@
     "EEF 281",
     "Lineer Cebir ve Uygulamaları",
     80,
-    0
+    11
    ],
    [
     "2025-2026-bahar",
@@ -12150,13 +12163,6 @@
   "rows": [
    [
     "2026-2027-guz",
-    "KMM 305E",
-    "Heat and Mass Transfer",
-    90,
-    0
-   ],
-   [
-    "2026-2027-guz",
     "KMM 483",
     "Araştırma Projesi I",
     100,
@@ -14040,7 +14046,7 @@
     "BIL 100E",
     "Intr.to Prog.Language(PYTHON)",
     30,
-    0
+    11
    ],
    [
     "2026-2027-guz",
@@ -16821,7 +16827,7 @@
     "CAB 1101",
     "Keman I",
     5,
-    0
+    3
    ],
    [
     "2026-2027-guz",
@@ -20385,7 +20391,7 @@
     "CAB 107",
     "Bağlama I",
     5,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -24786,7 +24792,7 @@
     "MTR 121",
     "Makam Teorisi I",
     30,
-    0
+    22
    ],
    [
     "2026-2027-guz",
@@ -25802,7 +25808,7 @@
     "UZB 103E",
     "Introduction to Astronautical Engineering and Ethics",
     50,
-    0
+    18
    ],
    [
     "2026-2027-guz",
@@ -26981,7 +26987,7 @@
     "SBP 119E",
     "Int.to Urb.\u0026Regio.Plann.\u0026Ethic",
     80,
-    0
+    41
    ],
    [
     "2026-2027-guz",
@@ -28809,7 +28815,7 @@
     "PAZ 101",
     "Fundamentals of Textiles",
     40,
-    0
+    16
    ],
    [
     "2026-2027-guz",
@@ -29052,8 +29058,8 @@
     "2026-2027-guz",
     "CAB 177",
     "Piyano I",
-    15,
-    0
+    18,
+    18
    ],
    [
     "2026-2027-guz",
@@ -31248,13 +31254,6 @@
   "rows": [
    [
     "2026-2027-guz",
-    "KMM 412",
-    "Kimyasal Teknolojiler",
-    100,
-    0
-   ],
-   [
-    "2026-2027-guz",
     "KMM 483",
     "Araştırma Projesi I",
     100,
@@ -31352,7 +31351,7 @@
     "SAO 101E",
     "Fundamentals of Programming I",
     30,
-    0
+    19
    ]
   ],
   "terms": 1
@@ -32258,7 +32257,7 @@
     "ISL 364E",
     "Business Law",
     80,
-    0
+    2
    ],
    [
     "2025-2026-bahar",
@@ -32557,7 +32556,7 @@
     "PEM 119E",
     "Int.Landscape Architec.\u0026Ethics",
     100,
-    0
+    19
    ],
    [
     "2026-2027-guz",
@@ -33370,7 +33369,7 @@
     "GID 113E",
     "Int.to Food Eng. and Ethics",
     75,
-    0
+    33
    ],
    [
     "2026-2027-guz",
@@ -38225,14 +38224,14 @@
     "MAT 175E",
     "Abstract Mathematics",
     50,
-    0
+    3
    ],
    [
     "2026-2027-guz",
     "MAT 175E",
     "Abstract Mathematics",
     50,
-    0
+    17
    ],
    [
     "2025-2026-bahar",
@@ -42600,7 +42599,7 @@
     "KMP 197",
     "Konturpuan-Füg I",
     25,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -42621,7 +42620,7 @@
     "KMP 115",
     "Müzik Formları I",
     10,
-    0
+    2
    ],
    [
     "2026-2027-guz",
@@ -43837,7 +43836,7 @@
     "DEN 101",
     "Gemi\u0026Deniz Tek.Müh.Giriş\u0026Etik",
     90,
-    0
+    23
    ],
    [
     "2026-2027-guz",
@@ -44414,7 +44413,7 @@
     "BEB 104",
     "Tenis Teknik ve Taktik Eğitim",
     12,
-    0
+    3
    ],
    [
     "2026-2027-guz",
@@ -44428,35 +44427,35 @@
     "BEB 104",
     "Tenis Teknik ve Taktik Eğitim",
     12,
-    0
+    8
    ],
    [
     "2026-2027-guz",
     "BEB 104",
     "Tenis Teknik ve Taktik Eğitim",
     12,
-    0
+    5
    ],
    [
     "2026-2027-guz",
     "BEB 104",
     "Tenis Teknik ve Taktik Eğitim",
     12,
-    0
+    3
    ],
    [
     "2026-2027-guz",
     "BEB 104",
     "Tenis Teknik ve Taktik Eğitim",
     12,
-    0
+    10
    ],
    [
     "2026-2027-guz",
     "BEB 118",
     "Genel Kond.ve Vücut Geliştirme",
     15,
-    0
+    2
    ],
    [
     "2025-2026-bahar",
@@ -47632,7 +47631,7 @@
     "BUS 110E",
     "Principles of Microeconomics",
     35,
-    0
+    18
    ],
    [
     "2026-2027-guz",
@@ -54510,13 +54509,6 @@
   "rows": [
    [
     "2026-2027-guz",
-    "KMM 305E",
-    "Heat and Mass Transfer",
-    90,
-    0
-   ],
-   [
-    "2026-2027-guz",
     "KMM 483",
     "Araştırma Projesi I",
     100,
@@ -55028,7 +55020,7 @@
     "MTR 103",
     "Müzik Teorisi I",
     30,
-    0
+    23
    ],
    [
     "2026-2027-guz",
@@ -55796,7 +55788,7 @@
     "TES 111E",
     "Project I",
     20,
-    0
+    4
    ],
    [
     "2026-2027-guz",
@@ -56812,7 +56804,7 @@
     "CAB 145",
     "Kanun I",
     5,
-    0
+    1
    ],
    [
     "2026-2027-guz",

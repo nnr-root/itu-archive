@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-15T07:42:07Z",
+ "scrapedAt": "2026-09-15T13:40:14Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5281,
- "courses": 3751,
+ "sections": 5285,
+ "courses": 3759,
  "branches": [
   {
    "code": "ABM",
@@ -125,7 +125,7 @@
     "LS",
     "LU"
    ],
-   "sections": 79
+   "sections": 78
   },
   {
    "code": "BLU",
@@ -195,7 +195,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 12
+   "sections": 13
   },
   {
    "code": "CEV",
@@ -287,7 +287,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 33
+   "sections": 34
   },
   {
    "code": "DNK",
@@ -357,14 +357,14 @@
    "levels": [
     "LS"
    ],
-   "sections": 7
+   "sections": 6
   },
   {
    "code": "EEF",
    "levels": [
     "LS"
    ],
-   "sections": 38
+   "sections": 37
   },
   {
    "code": "EFN",
@@ -473,7 +473,7 @@
     "LS",
     "LU"
    ],
-   "sections": 214
+   "sections": 212
   },
   {
    "code": "FRA",
@@ -546,7 +546,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 74
+   "sections": 75
   },
   {
    "code": "GSB",
@@ -673,7 +673,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 7
+   "sections": 8
   },
   {
    "code": "ISG",
@@ -724,6 +724,13 @@
     "LS"
    ],
    "sections": 58
+  },
+  {
+   "code": "ITY",
+   "levels": [
+    "LUI"
+   ],
+   "sections": 6
   },
   {
    "code": "IYB",
@@ -796,7 +803,7 @@
     "LS",
     "LU"
    ],
-   "sections": 50
+   "sections": 49
   },
   {
    "code": "KMP",
@@ -1608,11 +1615,11 @@
   }
  ],
  "stats": {
-  "sections": 5281,
-  "courses": 3751,
-  "branches": 225,
-  "instructors": 1782,
-  "capacity": 252949,
-  "enrolled": 567
+  "sections": 5285,
+  "courses": 3759,
+  "branches": 226,
+  "instructors": 1784,
+  "capacity": 252796,
+  "enrolled": 15159
  }
 }

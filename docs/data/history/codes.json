@@ -5688,6 +5688,12 @@
   1
  ],
  [
+  "CEN 322E",
+  "Computer Architecture",
+  "CEN",
+  1
+ ],
+ [
   "CEN 335E",
   "Analysis of Algorithms I",
   "CEN",
@@ -8667,7 +8673,7 @@
   "DFH 490E",
   "E-Navigation Systems",
   "DFH",
-  5
+  6
  ],
  [
   "DFH 491E",
@@ -15405,7 +15411,7 @@
   "GEM 453E",
   "Automatic Control of Ships",
   "GEM",
-  9
+  8
  ],
  [
   "GEM 473",
@@ -17565,7 +17571,7 @@
   "GMI 243",
   "Denizel Çevre Kimyası",
   "GMI",
-  6
+  7
  ],
  [
   "GMI 243E",
@@ -21081,7 +21087,7 @@
   "ISE 101",
   "Intro.to Information Sys. and",
   "ISE",
-  7
+  6
  ],
  [
   "ISE 102",
@@ -21090,16 +21096,28 @@
   16
  ],
  [
+  "ISE 105E",
+  "Intro.to Information Sys.",
+  "ISE",
+  1
+ ],
+ [
   "ISE 111",
   "Linear Algebra",
   "ISE",
-  7
+  6
  ],
  [
   "ISE 112",
   "Discrete Mathematics",
   "ISE",
   7
+ ],
+ [
+  "ISE 113E",
+  "Linear Algebra",
+  "ISE",
+  1
  ],
  [
   "ISE 302",
@@ -21123,7 +21141,7 @@
   "ISE 306",
   "Computer Networks",
   "ISE",
-  9
+  10
  ],
  [
   "ISE 307",
@@ -22191,6 +22209,36 @@
   "ITB XXX",
   "Test Course",
   "ITB",
+  1
+ ],
+ [
+  "ITY 510",
+  "Yönetim ve Organizasyon",
+  "ITY",
+  1
+ ],
+ [
+  "ITY 516",
+  "Yönetim Bilişim Sistemleri",
+  "ITY",
+  1
+ ],
+ [
+  "ITY 521",
+  "Teknoloji, Yenilik&Ar-Ge Yön.",
+  "ITY",
+  1
+ ],
+ [
+  "ITY 522",
+  "Teknoloji ve Hukuk",
+  "ITY",
+  1
+ ],
+ [
+  "ITY 523",
+  "Finansal Yönetim",
+  "ITY",
   1
  ],
  [
