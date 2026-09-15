@@ -607,9 +607,9 @@
   "level": "LS",
   "name": "Intr.to Maritime Bus.Administ.",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "-",
+  "instructor": "Gizem Kodak",
   "buildings": [
-   "Gazimagusa-TAS_1"
+   "Gazimagusa-TAS_2"
   ],
   "days": [
    "Salı"
@@ -618,9 +618,9 @@
    "08:30/10:29"
   ],
   "rooms": [
-   "502"
+   "902"
   ],
-  "capacity": 0,
+  "capacity": 30,
   "enrolled": 0,
   "reserved": "-",
   "programs": [

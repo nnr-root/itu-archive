@@ -1379,7 +1379,7 @@
     "ISG 503",
     "İş Hukuku",
     20,
-    4
+    5
    ],
    [
     "2025-2026-yaz",
@@ -4509,9 +4509,9 @@
   "rows": [
    [
     "2026-2027-guz",
-    "CEN 231E",
-    "Digital Circuits",
-    70,
+    "CEN 212E",
+    "Microprocessor Systems",
+    90,
     0
    ],
    [
@@ -4519,13 +4519,6 @@
     "CEN 335E",
     "Analysis of Algorithms I",
     75,
-    0
-   ],
-   [
-    "2026-2027-guz",
-    "CEN 411E",
-    "Software Engineering",
-    80,
     0
    ],
    [
@@ -8424,7 +8417,7 @@
     "MBA 519E",
     "Management\u0026Organizations",
     35,
-    18
+    19
    ],
    [
     "2026-2027-guz",
@@ -8833,7 +8826,7 @@
     "TES 113E",
     "Basic Design and Visual Arts",
     45,
-    20
+    19
    ],
    [
     "2025-2026-yaz",
@@ -16391,7 +16384,7 @@
     "MTR 143",
     "Müzik Teorisi I",
     30,
-    15
+    18
    ],
    [
     "2026-2027-guz",
@@ -16405,14 +16398,14 @@
     "PHY 125",
     "Physics I",
     30,
-    22
+    26
    ],
    [
     "2026-2027-guz",
     "PHY 125L",
     "Physics I Laboratory",
     30,
-    18
+    19
    ],
    [
     "2026-2027-guz",
@@ -16887,7 +16880,7 @@
     "GEO 103E",
     "Fundamentals of Surveying",
     40,
-    12
+    13
    ],
    [
     "2026-2027-guz",
@@ -20216,7 +20209,7 @@
     "KMM 111",
     "Kimya Müh. Giriş ve Etik",
     100,
-    18
+    19
    ],
    [
     "2026-2027-guz",
@@ -24203,14 +24196,14 @@
     "GEO 101E",
     "Intro. to Info. Technologies",
     50,
-    31
+    33
    ],
    [
     "2026-2027-guz",
     "GEO 103E",
     "Fundamentals of Surveying",
     25,
-    9
+    10
    ],
    [
     "2026-2027-guz",
@@ -24672,21 +24665,21 @@
     "INS 101E",
     "Technical Drawing",
     40,
-    28
+    30
    ],
    [
     "2026-2027-guz",
     "INS 107E",
     "Int. to Prog. Lang. (Python)",
     50,
-    15
+    17
    ],
    [
     "2026-2027-guz",
     "INS 107E",
     "Int. to Prog. Lang. (Python)",
     50,
-    26
+    27
    ],
    [
     "2025-2026-bahar",
@@ -24885,7 +24878,7 @@
     "GMI 118E",
     "Introduction to Marine Engineering and Ethics",
     40,
-    12
+    13
    ],
    [
     "2026-2027-guz",
@@ -25439,7 +25432,7 @@
     "ING 100",
     "EAP Through Global Goals",
     3500,
-    546
+    572
    ],
    [
     "2025-2026-yaz",
@@ -29029,7 +29022,7 @@
     "DUY 523",
     "Denizcilikte Kalite Yönetimi",
     10,
-    5
+    6
    ],
    [
     "2026-2027-guz",
@@ -29329,14 +29322,14 @@
     "ING 105",
     "English I",
     40,
-    21
+    25
    ],
    [
     "2026-2027-guz",
     "ING 105",
     "English I",
     40,
-    19
+    24
    ],
    [
     "2026-2027-guz",
@@ -30180,7 +30173,7 @@
     "MTO 111E",
     "Intr. to Atmospheric Sciences",
     80,
-    24
+    26
    ],
    [
     "2026-2027-guz",
@@ -33013,7 +33006,7 @@
     "DFH 113E",
     "Maritime Safety I",
     30,
-    2
+    3
    ]
   ],
   "terms": 1
@@ -35591,7 +35584,7 @@
     "MET 101E",
     "Int.toMet.\u0026Mat.Engn.\u0026Eng.Ethic",
     200,
-    47
+    50
    ],
    [
     "2026-2027-guz",
@@ -36367,7 +36360,7 @@
     "BEB 116",
     "Badminton Temel Beceri Eğitimi",
     12,
-    1
+    0
    ],
    [
     "2026-2027-guz",
@@ -37624,7 +37617,7 @@
     "EAS 112",
     "Technical Drawing",
     40,
-    16
+    19
    ],
    [
     "2026-2027-guz",
@@ -39644,7 +39637,7 @@
     "MUT 131",
     "Akustik I",
     40,
-    11
+    12
    ],
    [
     "2026-2027-guz",
@@ -40869,10 +40862,10 @@
   "rows": [
    [
     "2026-2027-guz",
-    "CEN 113E",
+    "CEN 115E",
     "Intr.toComp.Eng.and Ethics",
     30,
-    4
+    3
    ],
    [
     "2026-2027-guz",
@@ -44287,7 +44280,7 @@
     "KON 103",
     "Kontrol \u0026 Otom. Müh.Giriş\u0026Etik",
     70,
-    8
+    9
    ],
    [
     "2026-2027-guz",
@@ -45559,10 +45552,17 @@
    ],
    [
     "2026-2027-guz",
+    "CEN 231E",
+    "Digital Circuits",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
     "ISE 105E",
     "Intro.to Information Sys.",
     45,
-    1
+    2
    ],
    [
     "2025-2026-bahar",

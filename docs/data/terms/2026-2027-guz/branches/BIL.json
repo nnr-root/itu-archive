@@ -80,7 +80,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 29,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -118,7 +118,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 20,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -156,7 +156,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 29,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -224,7 +224,7 @@
    "B207"
   ],
   "capacity": 60,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "JEF_LS",
@@ -471,7 +471,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 17,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -671,7 +671,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 22,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -771,7 +771,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 9,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -871,7 +871,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 12,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1071,7 +1071,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 35,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1671,7 +1671,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 21,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2071,7 +2071,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 42,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2257,7 +2257,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 13,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -2381,7 +2381,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 25,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -2501,7 +2501,7 @@
    "B207"
   ],
   "capacity": 55,
-  "enrolled": 15,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -2531,7 +2531,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 49,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2550,20 +2550,20 @@
   "level": "LS",
   "name": "Intr.to Prog.Language(PYTHON)",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "-",
+  "instructor": "Tunca Zeki Berkkurt",
   "buildings": [
-   "Gazimagusa-TAS_1"
+   "Gazimagusa-TAS_2"
   ],
   "days": [
-   "Cuma"
+   "Çarşamba"
   ],
   "times": [
-   "14:30/17:29"
+   "12:30/15:29"
   ],
   "rooms": [
-   "--"
+   "Amfi"
   ],
-  "capacity": 0,
+  "capacity": 50,
   "enrolled": 0,
   "reserved": "-",
   "programs": [

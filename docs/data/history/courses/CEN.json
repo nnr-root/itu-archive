@@ -34,19 +34,11 @@
   "code": "CEN 102E",
   "name": "Intr to Sci&Eng Comp (C)",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Deniz Turgay Altılar",
-    0,
-    0,
-    ""
-   ],
    [
     "2025-2026-bahar",
     "Meriç Yücel",
@@ -103,10 +95,10 @@
    ],
    [
     "2026-2027-guz",
-    "Nizamettin Aydın , Murat Çakan",
-    30,
-    4,
-    "Çarşamba"
+    "-",
+    0,
+    2,
+    ""
    ],
    [
     "2023-2024-guz",
@@ -114,6 +106,22 @@
     62,
     60,
     "Salı"
+   ]
+  ]
+ },
+ "CEN 115E": {
+  "code": "CEN 115E",
+  "name": "Intr.toComp.Eng.and Ethics",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Nizamettin Aydın , Murat Çakan",
+    30,
+    3,
+    "Çarşamba"
    ]
   ]
  },
@@ -158,8 +166,8 @@
   "rows": [
    [
     "2026-2027-guz",
-    "-",
-    0,
+    "Mehmet Ali Sarıkaya",
+    90,
     0,
     "Pazartesi"
    ]
@@ -215,10 +223,10 @@
   "rows": [
    [
     "2026-2027-guz",
-    "Mehmet Ali Sarıkaya",
-    70,
+    "Mustafa Ersel Kamaşak",
     0,
-    "Cuma"
+    0,
+    ""
    ],
    [
     "2023-2024-guz",
@@ -454,7 +462,7 @@
   "rows": [
    [
     "2026-2027-guz",
-    "Mehmet Ali Sarıkaya",
+    "Sajjad Nematzadeh Mıondoab",
     80,
     0,
     "Pazartesi"

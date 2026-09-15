@@ -868,7 +868,7 @@
    "B33"
   ],
   "capacity": 35,
-  "enrolled": 3,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1412,7 +1412,7 @@
    "B35"
   ],
   "capacity": 40,
-  "enrolled": 0,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -3810,7 +3810,7 @@
    "D206"
   ],
   "capacity": 35,
-  "enrolled": 5,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3888,7 +3888,7 @@
    "D206"
   ],
   "capacity": 35,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3966,7 +3966,7 @@
    "B35"
   ],
   "capacity": 30,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "BIO_LS",
