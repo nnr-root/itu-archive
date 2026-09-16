@@ -634,7 +634,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 14,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1033,7 +1033,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 49,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1432,7 +1432,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 23,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -3161,7 +3161,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 24,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -3693,7 +3693,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 11,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -7038,7 +7038,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "-",
   "buildings": [
-   "undeclared"
+   "DZB"
   ],
   "days": [
    "Perşembe"
