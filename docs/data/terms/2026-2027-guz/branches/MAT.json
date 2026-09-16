@@ -378,7 +378,7 @@
    "--"
   ],
   "capacity": 770,
-  "enrolled": 420,
+  "enrolled": 421,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -1523,7 +1523,7 @@
    "--"
   ],
   "capacity": 550,
-  "enrolled": 130,
+  "enrolled": 132,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -2651,7 +2651,7 @@
    "174"
   ],
   "capacity": 150,
-  "enrolled": 32,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -4331,7 +4331,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 56,
+  "enrolled": 57,
   "reserved": "-",
   "programs": [
    "DUI_LS",
@@ -6021,7 +6021,7 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "--"
+   "101"
   ],
   "capacity": 100,
   "enrolled": 0,

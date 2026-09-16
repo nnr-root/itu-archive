@@ -14,12 +14,12 @@
    "Pazartesi"
   ],
   "times": [
-   "13:30/17:29"
+   "14:30/18:29"
   ],
   "rooms": [
-   "--"
+   "B04"
   ],
-  "capacity": 30,
+  "capacity": 0,
   "enrolled": 5,
   "reserved": "-",
   "programs": [
@@ -46,7 +46,7 @@
    "14:30/18:29"
   ],
   "rooms": [
-   "--"
+   "B01"
   ],
   "capacity": 40,
   "enrolled": 0,
@@ -66,16 +66,16 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Zehra Atik",
   "buildings": [
-   "MSB"
+   "ISB"
   ],
   "days": [
    "Salı"
   ],
   "times": [
-   "13:30/17:29"
+   "14:30/18:29"
   ],
   "rooms": [
-   "--"
+   "210"
   ],
   "capacity": 0,
   "enrolled": 0,
@@ -98,15 +98,15 @@
    "MSB"
   ],
   "days": [
-   "Perşembe"
+   "Pazartesi"
   ],
   "times": [
-   "13:30/16:29"
+   "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "103"
   ],
-  "capacity": 0,
+  "capacity": 40,
   "enrolled": 0,
   "reserved": "-",
   "programs": [
@@ -133,7 +133,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "113"
   ],
   "capacity": 40,
   "enrolled": 0,
@@ -162,7 +162,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "109"
   ],
   "capacity": 0,
   "enrolled": 0,
@@ -191,7 +191,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "109"
   ],
   "capacity": 40,
   "enrolled": 0,
@@ -220,7 +220,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "B12"
   ],
   "capacity": 0,
   "enrolled": 0,
@@ -288,6 +288,64 @@
    "EFN_LS"
   ],
   "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15579",
+  "code": "EFN 424E",
+  "branch": "EFN",
+  "level": "LS",
+  "name": "Financial Management",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Tayfun Özkan",
+  "buildings": [
+   "MSB"
+  ],
+  "days": [
+   "Perşembe"
+  ],
+  "times": [
+   "14:30/17:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 40,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "EFN_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15580",
+  "code": "EFN 412E",
+  "branch": "EFN",
+  "level": "LS",
+  "name": "Environmental Economics",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Büşra Çiçekalan",
+  "buildings": [
+   "MSB"
+  ],
+  "days": [
+   "Perşembe"
+  ],
+  "times": [
+   "09:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 40,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "EFN_LS"
+  ],
+  "prereq": "Detay",
   "classReq": "-"
  }
 ]

@@ -883,6 +883,7 @@
    "DENE_LS",
    "DUI_LS",
    "ECNE_LS",
+   "EFN_LS",
    "EHB_LS",
    "EHBE_LS",
    "ELE_LS",
@@ -1364,7 +1365,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Gizem Sarıbay Öztürk",
   "buildings": [
-   "undeclared"
+   "MSB"
   ],
   "days": [
    "Cuma"
@@ -1373,7 +1374,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "B04"
   ],
   "capacity": 40,
   "enrolled": 0,

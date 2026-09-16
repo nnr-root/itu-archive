@@ -1532,7 +1532,7 @@
    "151"
   ],
   "capacity": 25,
-  "enrolled": 23,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -1868,7 +1868,7 @@
    "432"
   ],
   "capacity": 25,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -2624,7 +2624,7 @@
    "167"
   ],
   "capacity": 25,
-  "enrolled": 6,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -14418,7 +14418,7 @@
    "--"
   ],
   "capacity": 3500,
-  "enrolled": 587,
+  "enrolled": 589,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -14499,7 +14499,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "B11"
   ],
   "capacity": 40,
   "enrolled": 19,
@@ -14560,7 +14560,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 16,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -14598,7 +14598,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -14674,7 +14674,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 24,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -15219,7 +15219,7 @@
    "--"
   ],
   "capacity": 300,
-  "enrolled": 45,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "ARC_LS",

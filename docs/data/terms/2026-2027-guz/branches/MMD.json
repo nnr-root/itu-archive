@@ -48,7 +48,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 0,
+  "capacity": 30,
   "enrolled": 0,
   "reserved": "-",
   "programs": [
@@ -502,7 +502,7 @@
    "14:30/16:29"
   ],
   "rooms": [
-   "--"
+   "B04"
   ],
   "capacity": 25,
   "enrolled": 1,
@@ -531,7 +531,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "B04"
   ],
   "capacity": 25,
   "enrolled": 1,
@@ -551,7 +551,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Kaya Tokmakçıoğlu",
   "buildings": [
-   "MSB"
+   "ISB"
   ],
   "days": [
    "Salı"
@@ -560,7 +560,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "209"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -589,7 +589,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "B11"
   ],
   "capacity": 30,
   "enrolled": 0,

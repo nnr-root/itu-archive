@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15T07:43:39Z",
+ "generatedAt": "2026-09-16T07:41:52Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -4631,7 +4631,7 @@
   },
   {
    "code": "CEN 322E",
-   "name": "Bilgisayar Mimarisi",
+   "name": "Computer Architecture",
    "branch": "CEN",
    "requirement": "( BLG 222 MIN. DD Veya BLG 222E MIN. DD ) Veya CEN 222E MIN. DD"
   },
@@ -17102,7 +17102,7 @@
    "code": "ISL 464E",
    "name": "Deep Learning with Business Applications",
    "branch": "ISL",
-   "requirement": "( ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Ve ( ISL 214 MIN. DD Veya ISL 214E MIN. DD ) ) Veya ( ( END 311 MIN. DD Veya END 311E MIN. DD )",
+   "requirement": "( ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( END 210E MIN. DD Veya END 210 MIN. DD ) Veya ( VBA 210E MIN. DD Veya VBA 210 MIN. DD ) ) Ve ( ( ISL 214 MIN. DD Veya ISL 214E MIN. DD ) Veya ( END 311 MIN. DD Veya END 311E MIN. DD ) Veya ( ECN 211E MIN. DD Veya ECN 211 MIN. DD ) )",
    "classReq": "95,00"
   },
   {
@@ -20163,13 +20163,13 @@
    "code": "KON 425",
    "name": "Süreç Kontrolü",
    "branch": "KON",
-   "requirement": "( KON 314 MIN. DD Veya KON 314E MIN. DD )"
+   "requirement": "( KON 314 MIN. DD Veya KON 314E MIN. DD ) Veya ( KON 319E MIN. DD Veya KON 319 MIN. DD )"
   },
   {
    "code": "KON 425E",
    "name": "Process Control",
    "branch": "KON",
-   "requirement": "( KON 314 MIN. DD Veya KON 314E MIN. DD )"
+   "requirement": "( KON 314 MIN. DD Veya KON 314E MIN. DD ) Veya ( KON 319E MIN. DD Veya KON 319 MIN. DD )"
   },
   {
    "code": "KON 426",
@@ -23232,13 +23232,13 @@
    "code": "MAT 343",
    "name": "Zaman Serisi Analizi",
    "branch": "MAT",
-   "requirement": "( MAT 244 MIN. DD Veya MAT 244E MIN. DD )"
+   "requirement": "( MAT 244 MIN. DD Veya MAT 244E MIN. DD ) Veya ( END 311 MIN. DD Veya END 311E MIN. DD )"
   },
   {
    "code": "MAT 343E",
    "name": "Time Series Analysis",
    "branch": "MAT",
-   "requirement": "( MAT 244 MIN. DD Veya MAT 244E MIN. DD )"
+   "requirement": "( MAT 244 MIN. DD Veya MAT 244E MIN. DD ) Veya ( END 311 MIN. DD Veya END 311E MIN. DD )"
   },
   {
    "code": "MAT 345",
@@ -31727,15 +31727,13 @@
   },
   {
    "code": "UZB 411",
-   "name": "Space Environment",
-   "branch": "UZB",
-   "requirement": "( UCK 207 MIN. DD Veya UCK 207E MIN. DD ) Veya ( UCK 205 MIN. DD Veya UCK 205E MIN. DD ) Veya ( UCK 212 MIN. DD Veya UCK 212E MIN. DD )"
+   "name": "",
+   "branch": "UZB"
   },
   {
    "code": "UZB 411E",
    "name": "Space Environment",
-   "branch": "UZB",
-   "requirement": "( UCK 207 MIN. DD Veya UCK 207E MIN. DD ) Veya ( UCK 205 MIN. DD Veya UCK 205E MIN. DD ) Veya ( UCK 212 MIN. DD Veya UCK 212E MIN. DD )"
+   "branch": "UZB"
   },
   {
    "code": "UZB 412E",
@@ -45036,6 +45034,10 @@
   },
   {
    "from": "ECN 211",
+   "to": "ISL 464E"
+  },
+  {
+   "from": "ECN 211",
    "to": "VBA 312E"
   },
   {
@@ -45093,6 +45095,10 @@
   {
    "from": "ECN 211E",
    "to": "ISL 334E"
+  },
+  {
+   "from": "ECN 211E",
+   "to": "ISL 464E"
   },
   {
    "from": "ECN 211E",
@@ -51640,6 +51646,10 @@
   },
   {
    "from": "END 210",
+   "to": "ISL 464E"
+  },
+  {
+   "from": "END 210",
    "to": "MAT 263"
   },
   {
@@ -51713,6 +51723,10 @@
   {
    "from": "END 210E",
    "to": "IND 331E"
+  },
+  {
+   "from": "END 210E",
+   "to": "ISL 464E"
   },
   {
    "from": "END 210E",
@@ -52377,6 +52391,14 @@
   {
    "from": "END 311",
    "to": "ISL 464E"
+  },
+  {
+   "from": "END 311",
+   "to": "MAT 343"
+  },
+  {
+   "from": "END 311",
+   "to": "MAT 343E"
   },
   {
    "from": "END 311",
@@ -52513,6 +52535,14 @@
   {
    "from": "END 311E",
    "to": "ISL 464E"
+  },
+  {
+   "from": "END 311E",
+   "to": "MAT 343"
+  },
+  {
+   "from": "END 311E",
+   "to": "MAT 343E"
   },
   {
    "from": "END 311E",
@@ -72445,6 +72475,22 @@
   {
    "from": "KON 318E",
    "to": "ROS 444E"
+  },
+  {
+   "from": "KON 319",
+   "to": "KON 425"
+  },
+  {
+   "from": "KON 319",
+   "to": "KON 425E"
+  },
+  {
+   "from": "KON 319E",
+   "to": "KON 425"
+  },
+  {
+   "from": "KON 319E",
+   "to": "KON 425E"
   },
   {
    "from": "KON 322",
@@ -102204,14 +102250,6 @@
   },
   {
    "from": "UCK 205",
-   "to": "UZB 411"
-  },
-  {
-   "from": "UCK 205",
-   "to": "UZB 411E"
-  },
-  {
-   "from": "UCK 205",
    "to": "UZB 441"
   },
   {
@@ -102252,14 +102290,6 @@
   },
   {
    "from": "UCK 205E",
-   "to": "UZB 411"
-  },
-  {
-   "from": "UCK 205E",
-   "to": "UZB 411E"
-  },
-  {
-   "from": "UCK 205E",
    "to": "UZB 441"
   },
   {
@@ -102277,14 +102307,6 @@
   {
    "from": "UCK 207",
    "to": "UCK 427E"
-  },
-  {
-   "from": "UCK 207",
-   "to": "UZB 411"
-  },
-  {
-   "from": "UCK 207",
-   "to": "UZB 411E"
   },
   {
    "from": "UCK 207",
@@ -102309,14 +102331,6 @@
   {
    "from": "UCK 207E",
    "to": "UCK 427E"
-  },
-  {
-   "from": "UCK 207E",
-   "to": "UZB 411"
-  },
-  {
-   "from": "UCK 207E",
-   "to": "UZB 411E"
   },
   {
    "from": "UCK 207E",
@@ -102381,14 +102395,6 @@
   {
    "from": "UCK 212",
    "to": "UZB 345E"
-  },
-  {
-   "from": "UCK 212",
-   "to": "UZB 411"
-  },
-  {
-   "from": "UCK 212",
-   "to": "UZB 411E"
   },
   {
    "from": "UCK 212",
@@ -102453,14 +102459,6 @@
   {
    "from": "UCK 212E",
    "to": "UZB 345E"
-  },
-  {
-   "from": "UCK 212E",
-   "to": "UZB 411"
-  },
-  {
-   "from": "UCK 212E",
-   "to": "UZB 411E"
   },
   {
    "from": "UCK 212E",
@@ -103440,6 +103438,10 @@
   },
   {
    "from": "VBA 210",
+   "to": "ISL 464E"
+  },
+  {
+   "from": "VBA 210",
    "to": "VBA 211E"
   },
   {
@@ -103461,6 +103463,10 @@
   {
    "from": "VBA 210E",
    "to": "BHB 304"
+  },
+  {
+   "from": "VBA 210E",
+   "to": "ISL 464E"
   },
   {
    "from": "VBA 210E",

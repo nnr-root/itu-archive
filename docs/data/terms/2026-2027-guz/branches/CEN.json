@@ -365,5 +365,34 @@
   ],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "15586",
+  "code": "CEN 104E",
+  "branch": "CEN",
+  "level": "LS",
+  "name": "Linear Algebra and Applications",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Deniz Turgay Altılar",
+  "buildings": [
+   "Gazimagusa-TAS_2"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "09:30/12:29"
+  ],
+  "rooms": [
+   "902"
+  ],
+  "capacity": 30,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEN_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
  }
 ]

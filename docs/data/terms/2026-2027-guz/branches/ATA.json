@@ -142,7 +142,7 @@
    "--"
   ],
   "capacity": 70,
-  "enrolled": 10,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1175,7 +1175,7 @@
    "10:30/12:29"
   ],
   "rooms": [
-   "103"
+   "203"
   ],
   "capacity": 70,
   "enrolled": 1,
@@ -1297,7 +1297,7 @@
    "13:30/15:29"
   ],
   "rooms": [
-   "103"
+   "203"
   ],
   "capacity": 70,
   "enrolled": 0,
@@ -4751,7 +4751,7 @@
    "--"
   ],
   "capacity": 70,
-  "enrolled": 17,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "ARC_LS",
