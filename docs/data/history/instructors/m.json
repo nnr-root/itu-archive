@@ -1379,7 +1379,7 @@
     "ISG 503",
     "İş Hukuku",
     20,
-    5
+    6
    ],
    [
     "2025-2026-yaz",
@@ -3654,6 +3654,13 @@
     0
    ],
    [
+    "2026-2027-guz",
+    "MAT 271E",
+    "Probability and Statistics",
+    70,
+    0
+   ],
+   [
     "2025-2026-yaz",
     "ISE 112",
     "Discrete Mathematics",
@@ -4144,7 +4151,7 @@
     "VIA 505E",
     "Database Management\u0026Big Data",
     40,
-    20
+    21
    ],
    [
     "2026-2027-guz",
@@ -8833,7 +8840,7 @@
     "TES 113E",
     "Basic Design and Visual Arts",
     45,
-    19
+    23
    ],
    [
     "2025-2026-yaz",
@@ -10036,14 +10043,14 @@
     "PHY 123",
     "Physics I",
     30,
-    11
+    13
    ],
    [
     "2026-2027-guz",
     "PHY 123L",
     "Physics I Lab",
     30,
-    11
+    13
    ],
    [
     "2025-2026-bahar",
@@ -15660,7 +15667,7 @@
     "VIA 507E",
     "Business Analytics for Manager",
     40,
-    20
+    21
    ],
    [
     "2025-2026-bahar",
@@ -16238,7 +16245,7 @@
     "HGP 505",
     "İşletme İktisadı",
     35,
-    13
+    16
    ],
    [
     "2023-2024-guz",
@@ -18546,14 +18553,14 @@
     "ESL 101",
     "English I",
     35,
-    19
+    20
    ],
    [
     "2026-2027-guz",
     "ING 112",
     "English I",
     40,
-    0
+    11
    ],
    [
     "2025-2026-yaz",
@@ -20216,7 +20223,7 @@
     "KMM 111",
     "Kimya Müh. Giriş ve Etik",
     100,
-    19
+    20
    ],
    [
     "2026-2027-guz",
@@ -25208,27 +25215,6 @@
    ],
    [
     "2026-2027-guz",
-    "KMM 451",
-    "Kimya Mühendisliği Lab. I",
-    40,
-    0
-   ],
-   [
-    "2026-2027-guz",
-    "KMM 451",
-    "Kimya Mühendisliği Lab. I",
-    40,
-    0
-   ],
-   [
-    "2026-2027-guz",
-    "KMM 451",
-    "Kimya Mühendisliği Lab. I",
-    0,
-    0
-   ],
-   [
-    "2026-2027-guz",
     "KMM 483",
     "Araştırma Projesi I",
     100,
@@ -25439,7 +25425,7 @@
     "ING 100",
     "EAP Through Global Goals",
     3500,
-    589
+    606
    ],
    [
     "2025-2026-yaz",
@@ -29022,7 +29008,7 @@
     "DCZ 508",
     "Denizci.Kalite Sist.\u0026Stan.",
     10,
-    9
+    10
    ],
    [
     "2026-2027-guz",
@@ -29336,7 +29322,14 @@
     "ING 105",
     "English I",
     40,
-    26
+    27
+   ],
+   [
+    "2026-2027-guz",
+    "ING 205",
+    "English III",
+    40,
+    0
    ],
    [
     "2026-2027-guz",
@@ -33006,7 +32999,7 @@
     "DFH 113",
     "Denizde Güvenlik I",
     140,
-    54
+    58
    ],
    [
     "2026-2027-guz",
@@ -33508,7 +33501,7 @@
     "BBF 101E",
     "Introduction to Information Systems",
     80,
-    20
+    21
    ],
    [
     "2026-2027-guz",
@@ -34425,7 +34418,7 @@
     "CHE 123",
     "General Chemistry I",
     40,
-    11
+    13
    ],
    [
     "2026-2027-guz",
@@ -35591,7 +35584,7 @@
     "MET 101E",
     "Int.toMet.\u0026Mat.Engn.\u0026Eng.Ethic",
     200,
-    51
+    52
    ],
    [
     "2026-2027-guz",
@@ -37624,7 +37617,7 @@
     "EAS 112",
     "Technical Drawing",
     40,
-    19
+    20
    ],
    [
     "2026-2027-guz",
@@ -38457,14 +38450,14 @@
     "MMD 403E",
     "Custom Operations",
     30,
-    1
+    0
    ],
    [
     "2026-2027-guz",
     "MMD 401E",
     "Shipp.Lines\u0026Freight Forwarding",
     30,
-    1
+    0
    ]
   ],
   "terms": 1
@@ -38477,7 +38470,7 @@
     "BIO 105E",
     "General Biology I",
     100,
-    26
+    28
    ],
    [
     "2025-2026-bahar",
@@ -39437,7 +39430,7 @@
     "SAO 209",
     "Etkili İletişim ve Sunum Teknikleri",
     30,
-    1
+    4
    ]
   ],
   "terms": 1
@@ -39644,7 +39637,7 @@
     "MUT 131",
     "Akustik I",
     40,
-    13
+    14
    ],
    [
     "2026-2027-guz",
@@ -40872,7 +40865,7 @@
     "CEN 115E",
     "Intr.toComp.Eng.and Ethics",
     30,
-    5
+    7
    ],
    [
     "2026-2027-guz",
@@ -41200,7 +41193,7 @@
     "PET 113E",
     "Intr.to Petr.\u0026Nat Gas.Eng.",
     70,
-    25
+    27
    ],
    [
     "2026-2027-guz",
@@ -43787,13 +43780,6 @@
     "EHB 442E",
     "Semiconductor Devices",
     50,
-    0
-   ],
-   [
-    "2026-2027-guz",
-    "EHN 262",
-    "Electronics II",
-    30,
     0
    ],
    [

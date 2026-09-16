@@ -126,6 +126,13 @@
     0
    ],
    [
+    "2026-2027-guz",
+    "EHN 262",
+    "Electronics II",
+    30,
+    0
+   ],
+   [
     "2025-2026-yaz",
     "EEF 262E",
     "Fundamentals of Electronics",
@@ -1099,7 +1106,7 @@
     "ISG 512",
     "İmalatta İş Güvenliği",
     20,
-    5
+    6
    ],
    [
     "2026-2027-guz",
@@ -1621,7 +1628,7 @@
     "2026-2027-guz",
     "SEC 311E",
     "Computer Security",
-    0,
+    30,
     0
    ]
   ],
@@ -2540,6 +2547,13 @@
     "2026-2027-guz",
     "EHB 466E",
     "Remote Sensing",
+    50,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "EHB 461E",
+    "Communication Tech. and Syst.",
     50,
     0
    ],
@@ -5905,14 +5919,14 @@
     "MAD 101E",
     "Tech.Draw.Appl.in Mining Eng.",
     45,
-    16
+    17
    ],
    [
     "2026-2027-guz",
     "MAD 101E",
     "Tech.Draw.Appl.in Mining Eng.",
     45,
-    1
+    0
    ],
    [
     "2026-2027-guz",
@@ -6568,7 +6582,7 @@
     "IPY 501",
     "İnşaat Projeleri Yönetim.Giriş",
     30,
-    13
+    14
    ],
    [
     "2026-2027-guz",
@@ -6853,14 +6867,14 @@
     "DFH 203",
     "Temel Yüzme Becerisi",
     25,
-    18
+    19
    ],
    [
     "2026-2027-guz",
     "DFH 203",
     "Temel Yüzme Becerisi",
     25,
-    21
+    22
    ],
    [
     "2026-2027-guz",
@@ -6874,7 +6888,7 @@
     "DFH 113",
     "Denizde Güvenlik I",
     140,
-    28
+    27
    ],
    [
     "2026-2027-guz",
@@ -6902,14 +6916,14 @@
     "DFH 203E",
     "Basic Swimming Skills",
     30,
-    2
+    5
    ],
    [
     "2026-2027-guz",
     "DFH 113E",
     "Maritime Safety I",
     30,
-    25
+    28
    ],
    [
     "2026-2027-guz",
@@ -10149,14 +10163,14 @@
     "ING 112",
     "English I",
     40,
-    19
+    20
    ],
    [
     "2026-2027-guz",
     "LAT 161",
     "English Composition",
     40,
-    28
+    29
    ],
    [
     "2026-2027-guz",
@@ -16973,14 +16987,14 @@
     "2026-2027-guz",
     "MAK 234",
     "Akışkanlar Mekaniği I",
-    40,
+    0,
     0
    ],
    [
     "2026-2027-guz",
     "MAK 229E",
     "Fluid Mechanics II",
-    15,
+    0,
     0
    ],
    [
@@ -17420,7 +17434,7 @@
     "CAB 159",
     "Ud I",
     5,
-    4
+    3
    ],
    [
     "2026-2027-guz",
@@ -18067,6 +18081,13 @@
  "Hasan Nuri Türkmenoğlu": {
   "name": "Hasan Nuri Türkmenoğlu",
   "rows": [
+   [
+    "2026-2027-guz",
+    "CIE 329",
+    "Civil Engineering Materials",
+    30,
+    0
+   ],
    [
     "2026-2027-guz",
     "MAL 201E",
@@ -22401,6 +22422,26 @@
    ]
   ],
   "terms": 18
+ },
+ "Hatice Ece Gülağaç": {
+  "name": "Hatice Ece Gülağaç",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "ICM 366E",
+    "Interior Arch.Desgn Studio III",
+    1,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "ICM 449E",
+    "Interior Arch.Desgn Studio IV",
+    15,
+    0
+   ]
+  ],
+  "terms": 1
  },
  "Hatice Funda Karbancıoğlu Güler": {
   "name": "Hatice Funda Karbancıoğlu Güler",
@@ -30390,7 +30431,7 @@
     "ISL 223E",
     "Fundm.of Production Management",
     80,
-    0
+    1
    ],
    [
     "2026-2027-guz",

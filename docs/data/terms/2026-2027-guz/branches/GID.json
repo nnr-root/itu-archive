@@ -20,7 +20,7 @@
    "D105"
   ],
   "capacity": 75,
-  "enrolled": 33,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -1161,6 +1161,93 @@
   "enrolled": 0,
   "reserved": "-",
   "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15588",
+  "code": "GID 441",
+  "branch": "GID",
+  "level": "LS",
+  "name": "Proses Kontrol",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Gülay Özkan",
+  "buildings": [
+   "KMB"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "09:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 2,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "GID_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15589",
+  "code": "GID 419E",
+  "branch": "GID",
+  "level": "LS",
+  "name": "Enzymes in Food Production",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Zeynep Tacer Caba",
+  "buildings": [
+   "KMB"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "09:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 2,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "GID_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15590",
+  "code": "GID 316E",
+  "branch": "GID",
+  "level": "LS",
+  "name": "Food Packaging",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Gülay Özkan",
+  "buildings": [
+   "KMB"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "12:30/15:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 2,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "GID_LS"
+  ],
   "prereq": "-",
   "classReq": "-"
  }

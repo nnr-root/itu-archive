@@ -17,10 +17,10 @@
    "14:30/15:29"
   ],
   "rooms": [
-   "D104"
+   "D304"
   ],
   "capacity": 100,
-  "enrolled": 19,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "KMM_LS"
@@ -415,7 +415,7 @@
   "level": "LS",
   "name": "Kimyasal Teknolojiler",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Burcu Selen Çağlayan",
+  "instructor": "Burcu Selen Çağlayan , Alıreza Khataee",
   "buildings": [
    "KMB"
   ],
@@ -480,7 +480,7 @@
   "level": "LS",
   "name": "Kimya Mühendisliği Lab. I",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Yaşar Volkan Arıncı , Taylan Maraş , İlayda Nur Oksal , Ebru Kahraman , Merve Yüce",
+  "instructor": "Yaşar Volkan Arıncı , Taylan Maraş , İlayda Nur Oksal , Ebru Kahraman , Tuğba Hayri Şenel",
   "buildings": [
    "KMB"
   ],
@@ -510,7 +510,7 @@
   "level": "LS",
   "name": "Kimya Mühendisliği Lab. I",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Taylan Maraş , İlayda Nur Oksal , Ebru Kahraman , Merve Yüce",
+  "instructor": "Taylan Maraş , İlayda Nur Oksal , Ebru Kahraman , Tuğba Hayri Şenel , Yaşar Volkan Arıncı",
   "buildings": [
    "KMB"
   ],
@@ -540,7 +540,7 @@
   "level": "LS",
   "name": "Kimya Mühendisliği Lab. I",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Yaşar Volkan Arıncı , Taylan Maraş , İlayda Nur Oksal , Ebru Kahraman , Merve Yüce",
+  "instructor": "Yaşar Volkan Arıncı , Taylan Maraş , İlayda Nur Oksal , Ebru Kahraman , Tuğba Hayri Şenel",
   "buildings": [
    "KMB"
   ],

@@ -24,7 +24,7 @@
    "--"
   ],
   "capacity": 260,
-  "enrolled": 182,
+  "enrolled": 187,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -201,7 +201,7 @@
    "--"
   ],
   "capacity": 260,
-  "enrolled": 92,
+  "enrolled": 95,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -378,7 +378,7 @@
    "--"
   ],
   "capacity": 770,
-  "enrolled": 421,
+  "enrolled": 431,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -1211,7 +1211,7 @@
    "--"
   ],
   "capacity": 240,
-  "enrolled": 106,
+  "enrolled": 108,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -1523,7 +1523,7 @@
    "--"
   ],
   "capacity": 550,
-  "enrolled": 132,
+  "enrolled": 137,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -2460,7 +2460,7 @@
    "A34"
   ],
   "capacity": 120,
-  "enrolled": 120,
+  "enrolled": 119,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -2564,7 +2564,7 @@
    "A14"
   ],
   "capacity": 120,
-  "enrolled": 103,
+  "enrolled": 109,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2606,7 +2606,7 @@
    "A11"
   ],
   "capacity": 150,
-  "enrolled": 92,
+  "enrolled": 96,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2651,7 +2651,7 @@
    "174"
   ],
   "capacity": 150,
-  "enrolled": 35,
+  "enrolled": 36,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -4331,7 +4331,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 57,
+  "enrolled": 58,
   "reserved": "-",
   "programs": [
    "DUI_LS",
@@ -4349,8 +4349,8 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "-",
   "buildings": [
-   "undeclared",
-   "undeclared"
+   "DZB",
+   "DZB"
   ],
   "days": [
    "Çarşamba",
@@ -4365,7 +4365,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "DUI_LS",
@@ -4383,8 +4383,8 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "-",
   "buildings": [
-   "undeclared",
-   "undeclared"
+   "DZB",
+   "DZB"
   ],
   "days": [
    "Salı",
@@ -6151,7 +6151,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 28,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "MEN_LS",
@@ -6425,12 +6425,42 @@
    "502"
   ],
   "capacity": 60,
-  "enrolled": 7,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "CEN_LS",
    "EFN_LS",
    "MMD_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15596",
+  "code": "MAT 271E",
+  "branch": "MAT",
+  "level": "LS",
+  "name": "Probability and Statistics",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Mehmet Akif Yazıcı",
+  "buildings": [
+   "BBB"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "09:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 70,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "BLG_LS",
+   "BLGE_LS"
   ],
   "prereq": "-",
   "classReq": "-"

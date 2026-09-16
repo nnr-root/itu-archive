@@ -141,7 +141,7 @@
     "2026-2027-guz",
     "Bilgi Görkem Yazgaç",
     100,
-    64,
+    66,
     "Çarşamba"
    ],
    [
@@ -3128,7 +3128,7 @@
     "2026-2027-guz",
     "Fatma İnci Çilesiz",
     50,
-    0,
+    1,
     "Çarşamba"
    ],
    [
@@ -9692,10 +9692,10 @@
   "rows": [
    [
     "2026-2027-guz",
-    "Tamer Ölmez",
+    "Oğuzhan Kızılbey",
     50,
     0,
-    "Çarşamba"
+    "Perşembe"
    ],
    [
     "2025-2026-guz",
@@ -11359,9 +11359,17 @@
   "code": "EHB 461E",
   "name": "Communication Tech. and Syst.",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-guz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Hakan Ali Çırpan",
+    50,
+    0,
+    "Cuma"
+   ],
    [
     "2025-2026-guz",
     "Ertuğrul Güvenkaya",

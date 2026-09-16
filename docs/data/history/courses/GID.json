@@ -70,7 +70,7 @@
     "2026-2027-guz",
     "Aslı Can Karaça",
     75,
-    33,
+    34,
     "Çarşamba"
    ],
    [
@@ -1309,6 +1309,7 @@
   "code": "GID 316E",
   "name": "Food Packaging",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -1320,6 +1321,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Gülay Özkan",
+    2,
+    0,
+    "Çarşamba"
+   ],
    [
     "2025-2026-bahar",
     "Gürbüz Güneş",
@@ -2842,12 +2850,20 @@
   "code": "GID 419E",
   "name": "Enzymes in Food Production",
   "terms": [
+   "2026-2027-guz",
    "2023-2024-guz",
    "2022-2023-guz",
    "2021-2022-guz",
    "2020-2021-guz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Zeynep Tacer Caba",
+    2,
+    0,
+    "Salı"
+   ],
    [
     "2023-2024-guz",
     "Derya Kahveci Karıncaoğlu",
@@ -3353,6 +3369,7 @@
   "code": "GID 441",
   "name": "Proses Kontrol",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-guz",
    "2023-2024-guz",
    "2022-2023-guz",
@@ -3362,6 +3379,13 @@
    "2018-2019-guz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Gülay Özkan",
+    2,
+    0,
+    "Cuma"
+   ],
    [
     "2025-2026-guz",
     "Gülay Özkan",

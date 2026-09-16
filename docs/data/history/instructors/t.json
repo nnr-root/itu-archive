@@ -871,13 +871,6 @@
   "rows": [
    [
     "2026-2027-guz",
-    "EHB 422",
-    "Biyolojik İşar.Ol.\u0026Alg.Yöntem.",
-    50,
-    0
-   ],
-   [
-    "2026-2027-guz",
     "EHB 455",
     "Mikrodenetleyici Tem.Sist.Tas.",
     60,
@@ -3440,7 +3433,7 @@
     "EEE 101E",
     "Intr.Elect.\u0026Elec.Eng.\u0026Eng.Eth.",
     60,
-    30
+    32
    ],
    [
     "2026-2027-guz",
@@ -3454,7 +3447,7 @@
     "EHN 111",
     "Intr.to Electronics\u0026 Comm.Eng.",
     40,
-    11
+    13
    ],
    [
     "2026-2027-guz",
@@ -8699,7 +8692,7 @@
     "CAB 187",
     "Gitar I",
     5,
-    2
+    1
    ],
    [
     "2026-2027-guz",
@@ -11041,7 +11034,7 @@
     "BIL 100E",
     "Intr.to Prog.Language(PYTHON)",
     50,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -12923,7 +12916,7 @@
     "JEF 111",
     "Jeofizik Mühendisliğine Giriş",
     80,
-    15
+    18
    ],
    [
     "2026-2027-guz",
@@ -13825,6 +13818,33 @@
    ]
   ],
   "terms": 16
+ },
+ "Tuğba Hayri Şenel": {
+  "name": "Tuğba Hayri Şenel",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "KMM 451",
+    "Kimya Mühendisliği Lab. I",
+    40,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "KMM 451",
+    "Kimya Mühendisliği Lab. I",
+    40,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "KMM 451",
+    "Kimya Mühendisliği Lab. I",
+    0,
+    0
+   ]
+  ],
+  "terms": 1
  },
  "Tuğba Kuru": {
   "name": "Tuğba Kuru",

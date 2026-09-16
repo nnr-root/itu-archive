@@ -13,7 +13,7 @@
     "2026-2027-guz",
     "MAK 232",
     "Termodinamik II",
-    40,
+    0,
     0
    ],
    [
@@ -2385,6 +2385,26 @@
   ],
   "terms": 5
  },
+ "Yasemin Başuslu": {
+  "name": "Yasemin Başuslu",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "ICM 246E",
+    "Interior Arch. Design Studio I",
+    2,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "ICM 349E",
+    "Interior Arch.Design Studio II",
+    15,
+    0
+   ]
+  ],
+  "terms": 1
+ },
  "Yasemin Dora": {
   "name": "Yasemin Dora",
   "rows": [
@@ -3151,6 +3171,26 @@
   ],
   "terms": 1
  },
+ "Yasin Altıpat": {
+  "name": "Yasin Altıpat",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "ICM 366E",
+    "Interior Arch.Desgn Studio III",
+    1,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "ICM 449E",
+    "Interior Arch.Desgn Studio IV",
+    15,
+    0
+   ]
+  ],
+  "terms": 1
+ },
  "Yasin Arslanoğlu": {
   "name": "Yasin Arslanoğlu",
   "rows": [
@@ -3194,14 +3234,14 @@
     "KIM 101EL",
     "General Chemistry I Lab",
     30,
-    20
+    21
    ],
    [
     "2026-2027-guz",
     "KIM 101EL",
     "General Chemistry I Lab",
     30,
-    8
+    10
    ],
    [
     "2025-2026-bahar",
@@ -5115,6 +5155,13 @@
  "Yaşar Volkan Arıncı": {
   "name": "Yaşar Volkan Arıncı",
   "rows": [
+   [
+    "2026-2027-guz",
+    "KMM 451",
+    "Kimya Mühendisliği Lab. I",
+    40,
+    0
+   ],
    [
     "2026-2027-guz",
     "KMM 451",
@@ -10166,6 +10213,13 @@
     "2026-2027-guz",
     "BLG 492",
     "Bitirme Çalışması",
+    200,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "BLG 492E",
+    "Graduation Project",
     200,
     0
    ],

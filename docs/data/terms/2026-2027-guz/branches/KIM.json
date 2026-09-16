@@ -20,7 +20,7 @@
    "--"
   ],
   "capacity": 300,
-  "enrolled": 109,
+  "enrolled": 110,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -256,7 +256,7 @@
    "--"
   ],
   "capacity": 200,
-  "enrolled": 94,
+  "enrolled": 95,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -433,7 +433,7 @@
    "--"
   ],
   "capacity": 200,
-  "enrolled": 124,
+  "enrolled": 126,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -610,7 +610,7 @@
    "--"
   ],
   "capacity": 200,
-  "enrolled": 86,
+  "enrolled": 87,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -787,7 +787,7 @@
    "--"
   ],
   "capacity": 400,
-  "enrolled": 106,
+  "enrolled": 111,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1277,7 +1277,7 @@
    "--"
   ],
   "capacity": 200,
-  "enrolled": 103,
+  "enrolled": 104,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1568,7 +1568,7 @@
    "--"
   ],
   "capacity": 200,
-  "enrolled": 158,
+  "enrolled": 165,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1862,7 +1862,7 @@
    "--"
   ],
   "capacity": 200,
-  "enrolled": 59,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2156,7 +2156,7 @@
    "--"
   ],
   "capacity": 200,
-  "enrolled": 42,
+  "enrolled": 41,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2450,7 +2450,7 @@
    "174"
   ],
   "capacity": 100,
-  "enrolled": 63,
+  "enrolled": 66,
   "reserved": "-",
   "programs": [
    "CEN_LS",
@@ -2484,7 +2484,7 @@
    "LAB-D"
   ],
   "capacity": 40,
-  "enrolled": 11,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2577,7 +2577,7 @@
    "--"
   ],
   "capacity": 160,
-  "enrolled": 96,
+  "enrolled": 99,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3135,7 +3135,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3690,7 +3690,7 @@
    "--"
   ],
   "capacity": 160,
-  "enrolled": 68,
+  "enrolled": 69,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4150,7 +4150,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 17,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4426,7 +4426,7 @@
    "--"
   ],
   "capacity": 120,
-  "enrolled": 101,
+  "enrolled": 102,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4794,7 +4794,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 38,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -5622,7 +5622,7 @@
    "LAB-E"
   ],
   "capacity": 40,
-  "enrolled": 26,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -5714,7 +5714,7 @@
    "LAB-A"
   ],
   "capacity": 40,
-  "enrolled": 17,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -6082,7 +6082,7 @@
    "LAB-C"
   ],
   "capacity": 50,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "CEN_LS",
@@ -6183,7 +6183,7 @@
    "D205"
   ],
   "capacity": 40,
-  "enrolled": 21,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "KIM_LS",
@@ -6218,7 +6218,7 @@
    "D206"
   ],
   "capacity": 40,
-  "enrolled": 4,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [
    "KIM_LS",
@@ -6249,7 +6249,7 @@
    "LAB-E"
   ],
   "capacity": 40,
-  "enrolled": 18,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "KIM_LS",
@@ -6279,7 +6279,7 @@
    "LAB-F"
   ],
   "capacity": 40,
-  "enrolled": 7,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [
    "KIM_LS",
@@ -6309,7 +6309,7 @@
    "D202"
   ],
   "capacity": 100,
-  "enrolled": 25,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "KIM_LS"
@@ -8841,7 +8841,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "-",
   "buildings": [
-   "undeclared"
+   "DZB"
   ],
   "days": [
    "Pazartesi"
@@ -8871,7 +8871,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "-",
   "buildings": [
-   "undeclared"
+   "DZB"
   ],
   "days": [
    "Pazartesi"
@@ -8883,7 +8883,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 22,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "DUI_LS",
@@ -8901,7 +8901,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "-",
   "buildings": [
-   "undeclared"
+   "DZB"
   ],
   "days": [
    "Pazartesi"
@@ -8931,7 +8931,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Emrah Şık",
   "buildings": [
-   "undeclared"
+   "DZB"
   ],
   "days": [
    "Perşembe"
@@ -8943,7 +8943,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "DUI_LS",
@@ -8961,7 +8961,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Emrah Şık",
   "buildings": [
-   "undeclared"
+   "DZB"
   ],
   "days": [
    "Perşembe"
@@ -8973,7 +8973,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 42,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [
    "DUI_LS",
@@ -8991,7 +8991,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Emrah Şık",
   "buildings": [
-   "undeclared"
+   "DZB"
   ],
   "days": [
    "Perşembe"
@@ -9123,7 +9123,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "MEN_LS",
@@ -9153,7 +9153,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 8,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "MEN_LS",
@@ -9183,7 +9183,7 @@
    "--"
   ],
   "capacity": 100,
-  "enrolled": 28,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "MEN_LS",

@@ -47,10 +47,10 @@
    "13:30/15:29"
   ],
   "rooms": [
-   "104"
+   "Z-18"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 60,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "YZVE_LS"
@@ -195,7 +195,7 @@
    "12:30/15:29"
   ],
   "rooms": [
-   "Z-18"
+   "104"
   ],
   "capacity": 60,
   "enrolled": 0,
@@ -258,9 +258,9 @@
   ],
   "capacity": 60,
   "enrolled": 0,
-  "reserved": "-",
+  "reserved": "YZVE_LS/50/0 | Diğer/10/0",
   "programs": [
-   "YZVE_LS",
+   "BLGE_LS",
    "YZVE_LS"
   ],
   "prereq": "Detay",
@@ -304,19 +304,13 @@
   "name": "AI &Data Engineering Design I",
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Berna Kiraz",
-  "buildings": [
-   "BBB"
-  ],
-  "days": [
-   "Perşembe"
-  ],
+  "buildings": [],
+  "days": [],
   "times": [
-   "11:30/13:29"
+   "-/-"
   ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 0,
+  "rooms": [],
+  "capacity": 40,
   "enrolled": 0,
   "reserved": "-",
   "programs": [

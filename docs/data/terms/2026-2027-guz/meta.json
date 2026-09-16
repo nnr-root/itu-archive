@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-16T07:40:21Z",
+ "scrapedAt": "2026-09-16T13:34:43Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5294,
- "courses": 3769,
+ "sections": 5302,
+ "courses": 3773,
  "branches": [
   {
    "code": "ABM",
@@ -68,7 +68,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 14
+   "sections": 13
   },
   {
    "code": "BBL",
@@ -181,7 +181,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 177
+   "sections": 178
   },
   {
    "code": "CBM",
@@ -392,7 +392,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 76
+   "sections": 77
   },
   {
    "code": "EHN",
@@ -539,7 +539,7 @@
     "LS",
     "LU"
    ],
-   "sections": 41
+   "sections": 44
   },
   {
    "code": "GIT",
@@ -553,7 +553,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 75
+   "sections": 76
   },
   {
    "code": "GSB",
@@ -659,7 +659,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 197
+   "sections": 199
   },
   {
    "code": "INS",
@@ -890,7 +890,7 @@
     "LS",
     "LU"
    ],
-   "sections": 127
+   "sections": 128
   },
   {
    "code": "MBA",
@@ -1622,11 +1622,11 @@
   }
  ],
  "stats": {
-  "sections": 5294,
-  "courses": 3769,
+  "sections": 5302,
+  "courses": 3773,
   "branches": 227,
-  "instructors": 1789,
-  "capacity": 253378,
-  "enrolled": 16233
+  "instructors": 1797,
+  "capacity": 253907,
+  "enrolled": 16740
  }
 }

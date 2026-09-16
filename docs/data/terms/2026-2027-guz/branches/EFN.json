@@ -19,7 +19,7 @@
   "rooms": [
    "B04"
   ],
-  "capacity": 0,
+  "capacity": 40,
   "enrolled": 5,
   "reserved": "-",
   "programs": [
@@ -77,7 +77,7 @@
   "rooms": [
    "210"
   ],
-  "capacity": 0,
+  "capacity": 40,
   "enrolled": 0,
   "reserved": "-",
   "programs": [
@@ -252,7 +252,7 @@
    "Amfi"
   ],
   "capacity": 50,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "EFN_LS",
