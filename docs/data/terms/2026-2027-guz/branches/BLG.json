@@ -911,7 +911,7 @@
    "KON1"
   ],
   "capacity": 150,
-  "enrolled": 73,
+  "enrolled": 83,
   "reserved": "-",
   "programs": [
    "BLGE_LS"
@@ -944,7 +944,7 @@
    "Z-19"
   ],
   "capacity": 80,
-  "enrolled": 11,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "SECE_LS"
@@ -1006,7 +1006,7 @@
    "Z-21"
   ],
   "capacity": 70,
-  "enrolled": 23,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1099,7 +1099,7 @@
    "Z-19"
   ],
   "capacity": 90,
-  "enrolled": 29,
+  "enrolled": 90,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1130,7 +1130,7 @@
    "Z-18"
   ],
   "capacity": 90,
-  "enrolled": 13,
+  "enrolled": 69,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1161,10 +1161,11 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 7,
-  "reserved": "-",
+  "enrolled": 29,
+  "reserved": "CEN_LS/8/3 | CES_LS/8/0 | BLG_LS/3/0 | Diğer/41/26",
   "programs": [
    "BLGE_LS",
+   "CEN_LS",
    "CES_LS"
   ],
   "prereq": "Detay",
@@ -1191,12 +1192,13 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 10,
-  "reserved": "-",
+  "enrolled": 29,
+  "reserved": "CEN_LS/8/3 | CES_LS/8/0 | BLG_LS/3/0 | Diğer/41/26",
   "programs": [
    "BLG_LS",
    "BLG_LS",
    "BLGE_LS",
+   "CEN_LS",
    "CES_LS"
   ],
   "prereq": "Detay",
@@ -1223,7 +1225,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 16,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1255,12 +1257,13 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 3,
-  "reserved": "-",
+  "enrolled": 30,
+  "reserved": "CEN_LS/8/2 | CES_LS/8/0 | BLG_LS/2/0 | Diğer/42/28",
   "programs": [
    "BLG_LS",
    "BLG_LS",
    "BLGE_LS",
+   "CEN_LS",
    "CES_LS"
   ],
   "prereq": "Detay",
@@ -1287,7 +1290,7 @@
    "Z-21"
   ],
   "capacity": 60,
-  "enrolled": 13,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1319,11 +1322,12 @@
    "Z-20"
   ],
   "capacity": 60,
-  "enrolled": 38,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
+   "CES_LS",
    "SECE_LS"
   ],
   "prereq": "-",
@@ -1350,11 +1354,12 @@
    "Z-20"
   ],
   "capacity": 60,
-  "enrolled": 13,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
+   "CES_LS",
    "SECE_LS"
   ],
   "prereq": "-",
@@ -1381,8 +1386,8 @@
    "Z-17"
   ],
   "capacity": 80,
-  "enrolled": 46,
-  "reserved": "YZVE_LS/10/2 | Diğer/70/44",
+  "enrolled": 80,
+  "reserved": "YZVE_LS/10/10 | Diğer/70/70",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1412,8 +1417,8 @@
    "Z-19"
   ],
   "capacity": 80,
-  "enrolled": 77,
-  "reserved": "YZVE_LS/10/7 | Diğer/70/70",
+  "enrolled": 80,
+  "reserved": "YZVE_LS/10/10 | Diğer/70/70",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1443,7 +1448,7 @@
    "Z-17"
   ],
   "capacity": 60,
-  "enrolled": 41,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1533,11 +1538,12 @@
    "101"
   ],
   "capacity": 60,
-  "enrolled": 44,
-  "reserved": "YZVE_LS/10/10 | Diğer/50/34",
+  "enrolled": 52,
+  "reserved": "YZVE_LS/10/10 | Diğer/50/42",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
+   "CES_LS",
    "YZVE_LS"
   ],
   "prereq": "-",
@@ -1569,6 +1575,7 @@
   "programs": [
    "BLG_LS",
    "BLGE_LS",
+   "CES_LS",
    "YZVE_LS"
   ],
   "prereq": "-",
@@ -1644,7 +1651,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 118,
+  "enrolled": 123,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1692,7 +1699,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 22,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1741,7 +1748,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 2,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1772,11 +1779,12 @@
    "102"
   ],
   "capacity": 40,
-  "enrolled": 8,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "BLG_LS",
-   "BLGE_LS"
+   "BLGE_LS",
+   "CES_LS"
   ],
   "prereq": "-",
   "classReq": "-"
@@ -1808,6 +1816,7 @@
    "BLG_LS",
    "BLG_LS",
    "BLGE_LS",
+   "CEN_LS",
    "CES_LS"
   ],
   "prereq": "Detay",
@@ -1833,10 +1842,12 @@
   "rooms": [
    "Z-23"
   ],
-  "capacity": 0,
+  "capacity": 20,
   "enrolled": 0,
   "reserved": "-",
-  "programs": [],
+  "programs": [
+   "KHE_YD"
+  ],
   "prereq": "Detay",
   "classReq": "-"
  },
@@ -1860,10 +1871,12 @@
   "rooms": [
    "122"
   ],
-  "capacity": 0,
+  "capacity": 20,
   "enrolled": 0,
   "reserved": "-",
-  "programs": [],
+  "programs": [
+   "KHE_YD"
+  ],
   "prereq": "Detay",
   "classReq": "-"
  },
