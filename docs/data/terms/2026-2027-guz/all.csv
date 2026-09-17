@@ -1193,12 +1193,12 @@
 11227,PET 4902E,PET,LS,Petr. & Nat.Gas Eng. Design II,Fiziksel (Yüz yüze),Murat Çınar,,,-/-,,60,19,-,PETE_LS,Detay,-
 11228,PET 4901E,PET,LS,Petr. & Nat. Gas Eng. Design I,Fiziksel (Yüz yüze),Murat Çınar,,,-/-,,60,52,-,PETE_LS,Detay,Detay
 11229,DUI 385,DUI,LS,Gemi Operas. Çevresel Yönetim,Fiziksel (Yüz yüze),Tanzer Satır,DZB,Pazartesi,13:30/15:29,--,30,14,-,DUI_LS,-,-
-11230,PET 487E,PET,LS,Petroleum Fuels Market&Segment,Fiziksel (Yüz yüze),-,MDB,Perşembe,13:30/16:29,A205,20,20,-,"PET_LS, PETE_LS",-,-
+11230,PET 487E,PET,LS,Petroleum Fuels Market&Segment,Fiziksel (Yüz yüze),-,MDB,Perşembe,13:30/16:29,A205,25,20,-,"PET_LS, PETE_LS",-,-
 11231,DUI 461E,DUI,LS,Ship Surveying Procedures,Fiziksel (Yüz yüze),Gizem Çevik,DZB,Çarşamba,11:30/13:29,--,50,35,-,DUI_LS,-,-
 11232,DUI 461E,DUI,LS,Ship Surveying Procedures,Fiziksel (Yüz yüze),Gizem Çevik,DZB,Çarşamba,09:30/11:29,--,35,11,-,DUI_LS,-,-
 11233,PET 467E,PET,LS,Anly. of Well Pressure Tests,Fiziksel (Yüz yüze),Yıldıray Palabıyık,MDB,Salı,13:30/16:29,A205,25,20,-,"PET_LS, PET_YD, PETE_LS",Detay,-
 11234,DUI 407E,DUI,LS,Cargo Handl and Stowage,Fiziksel (Yüz yüze),Tanzer Satır,DZB,Perşembe,08:30/11:29,--,35,24,-,DUI_LS,Detay,-
-11235,PET 441E,PET,LS,Enhanced Oil Recovery,Fiziksel (Yüz yüze),Hasan Özgür Yıldız,MDB,Salı,13:30/16:29,A204,20,20,-,"PET_LS, PET_YD, PETE_LS",Detay,-
+11235,PET 441E,PET,LS,Enhanced Oil Recovery,Fiziksel (Yüz yüze),Hasan Özgür Yıldız,MDB,Salı,13:30/16:29,A204,25,20,-,"PET_LS, PET_YD, PETE_LS",Detay,-
 11236,DUI 407E,DUI,LS,Cargo Handl and Stowage,Fiziksel (Yüz yüze),Tanzer Satır,DZB,Perşembe,11:30/14:29,--,35,28,-,DUI_LS,Detay,-
 11237,DUI 405,DUI,LS,Gemi Makinaları,Fiziksel (Yüz yüze),Fırat Bolat,DZB,Çarşamba,13:30/15:29,--,50,41,-,DUI_LS,-,-
 11238,DUI 4901,DUI,LS,Deniz Ulaş.&İşlet.Müh. Tas. I,Fiziksel (Yüz yüze),Yunus Emre Şenol,,,-/-,,150,49,-,DUI_LS,Detay,Detay
@@ -1668,7 +1668,7 @@
 11746,UZB 492,UZB,LS,Bitirme Çalışması,Fiziksel (Yüz yüze),Alim Rüstem Aslan,,,-/-,,50,0,-,UZB_LS,-,Detay
 11747,UZB 492E,UZB,LS,Graduation Project,Fiziksel (Yüz yüze),Alim Rüstem Aslan,,,-/-,,50,1,-,"UZB_LS, UZB_LS, UZBE_LS",-,Detay
 11749,SAV 302E,SAV,LS,Discrete Mathematics,Fiziksel (Yüz yüze),İbrahim Özkol,MEDC,Perşembe,17:30/20:29,2D14,30,19,-,SAV_YD,Detay,-
-11750,SAV 305E,SAV,LS,Embedded System Applications for Autonomous Platforms,Fiziksel (Yüz yüze),Ramazan Yeniçeri,MEDC,Çarşamba,17:30/20:29,2D15,30,30,-,SAV_YD,-,-
+11750,SAV 305E,SAV,LS,Embedded System Applications for Autonomous Platforms,Fiziksel (Yüz yüze),Ramazan Yeniçeri,MEDC,Çarşamba,17:30/20:29,2D15,36,30,-,SAV_YD,-,-
 11751,MYZ 312,MYZ,LS,Meteorolojide Makine Öğrenmesi,Fiziksel (Yüz yüze),Ahmet Öztopal,MEDC,Cuma,14:30/17:29,ZA1,15,15,-,"IBM_LS, MTO_LS",Detay,-
 11752,MTO 101,MTO,LS,Meteoroloji Müh. Giriş ve Etik,Fiziksel (Yüz yüze),Ahmet Duran Şahin,MEDC,Perşembe,13:30/14:29,ZA3,70,28,-,"IBM_LS, MTO_LS",-,-
 11753,MTO 111E,MTO,LS,Intr. to Atmospheric Sciences,Fiziksel (Yüz yüze),Mikdat Kadıoğlu,MEDC,Pazartesi,14:30/17:29,ZD1,80,28,-,"IBM_LS, MTO_LS, MTO_LS, MTOE_LS",-,-
