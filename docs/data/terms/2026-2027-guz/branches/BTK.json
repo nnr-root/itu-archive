@@ -1,58 +1,58 @@
 [
  {
-  "crn": "11160",
-  "code": "CMP 111",
-  "branch": "CMP",
+  "crn": "15598",
+  "code": "BTK 301",
+  "branch": "BTK",
   "level": "LS",
-  "name": "Intr.to Engineering and Comput",
+  "name": "Antik Dönemde Bilim ve Teknoloji",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Gazi Koçak",
+  "instructor": "-",
   "buildings": [
-   "DZB"
+   "FEB"
   ],
   "days": [
-   "Çarşamba"
+   "Cuma"
   ],
   "times": [
-   "11:30/15:29"
+   "08:30/11:29"
   ],
   "rooms": [
    "--"
   ],
-  "capacity": 10,
-  "enrolled": 1,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
-   "SGM_LS"
+   "BTK_YD"
   ],
   "prereq": "-",
   "classReq": "-"
  },
  {
-  "crn": "11289",
-  "code": "CMP 113",
-  "branch": "CMP",
+  "crn": "15599",
+  "code": "BTK 304",
+  "branch": "BTK",
   "level": "LS",
-  "name": "Intr.to Business Computing",
+  "name": "Bilim Tarihinde Yöntem ve Tarih Yazımı",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Muhsin Kadıoğlu",
+  "instructor": "Tuncay Zorlu",
   "buildings": [
-   "DZB"
+   "FEB"
   ],
   "days": [
-   "Perşembe"
+   "Salı"
   ],
   "times": [
-   "13:30/17:29"
+   "11:30/14:29"
   ],
   "rooms": [
    "--"
   ],
   "capacity": 10,
-  "enrolled": 4,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
-   "SDU_LS"
+   "BTK_YD"
   ],
   "prereq": "-",
   "classReq": "-"

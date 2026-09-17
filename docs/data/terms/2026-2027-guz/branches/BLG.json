@@ -911,7 +911,7 @@
    "KON1"
   ],
   "capacity": 150,
-  "enrolled": 70,
+  "enrolled": 73,
   "reserved": "-",
   "programs": [
    "BLGE_LS"
@@ -944,7 +944,7 @@
    "Z-19"
   ],
   "capacity": 80,
-  "enrolled": 0,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "SECE_LS"
@@ -1006,7 +1006,7 @@
    "Z-21"
   ],
   "capacity": 70,
-  "enrolled": 0,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1037,7 +1037,7 @@
    "Z-20"
   ],
   "capacity": 70,
-  "enrolled": 0,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1099,7 +1099,7 @@
    "Z-19"
   ],
   "capacity": 90,
-  "enrolled": 0,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1130,7 +1130,7 @@
    "Z-18"
   ],
   "capacity": 90,
-  "enrolled": 0,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1161,7 +1161,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 0,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "BLGE_LS",
@@ -1191,7 +1191,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 0,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1223,7 +1223,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 0,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1255,7 +1255,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 0,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1287,7 +1287,7 @@
    "Z-21"
   ],
   "capacity": 60,
-  "enrolled": 0,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1319,7 +1319,7 @@
    "Z-20"
   ],
   "capacity": 60,
-  "enrolled": 0,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1350,7 +1350,7 @@
    "Z-20"
   ],
   "capacity": 60,
-  "enrolled": 0,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1381,8 +1381,8 @@
    "Z-17"
   ],
   "capacity": 80,
-  "enrolled": 0,
-  "reserved": "YZVE_LS/10/0 | Diğer/70/0",
+  "enrolled": 46,
+  "reserved": "YZVE_LS/10/2 | Diğer/70/44",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1412,8 +1412,8 @@
    "Z-19"
   ],
   "capacity": 80,
-  "enrolled": 0,
-  "reserved": "YZVE_LS/10/0 | Diğer/70/0",
+  "enrolled": 77,
+  "reserved": "YZVE_LS/10/7 | Diğer/70/70",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1443,7 +1443,7 @@
    "Z-17"
   ],
   "capacity": 60,
-  "enrolled": 0,
+  "enrolled": 41,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1473,7 +1473,7 @@
    "Z-20"
   ],
   "capacity": 60,
-  "enrolled": 0,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1503,7 +1503,7 @@
    "Z-21"
   ],
   "capacity": 60,
-  "enrolled": 0,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1533,8 +1533,8 @@
    "101"
   ],
   "capacity": 60,
-  "enrolled": 0,
-  "reserved": "YZVE_LS/10/0 | Diğer/50/0",
+  "enrolled": 44,
+  "reserved": "YZVE_LS/10/10 | Diğer/50/34",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1564,7 +1564,7 @@
    "101"
   ],
   "capacity": 40,
-  "enrolled": 0,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1595,7 +1595,7 @@
    "Z-21"
   ],
   "capacity": 60,
-  "enrolled": 0,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1620,7 +1620,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 0,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1644,7 +1644,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 0,
+  "enrolled": 118,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1668,7 +1668,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 0,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1692,7 +1692,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 0,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1741,7 +1741,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 0,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1772,7 +1772,7 @@
    "102"
   ],
   "capacity": 40,
-  "enrolled": 0,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [
    "BLG_LS",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T07:41:52Z",
+ "generatedAt": "2026-09-17T07:38:41Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -7624,13 +7624,13 @@
    "code": "EHB 420",
    "name": "Yapay Sinir Ağları",
    "branch": "EHB",
-   "requirement": "( MAT 281 MIN. DD Veya MAT 281E MIN. DD ) Veya ( EEF 281 MIN. DD Veya EEF 281E MIN. DD )"
+   "requirement": "( MAT 281 MIN. DD Veya MAT 281E MIN. DD ) Veya ( EEF 281 MIN. DD Veya EEF 281E MIN. DD ) Veya ( END 210E MIN. DD Veya END 210 MIN. DD )"
   },
   {
    "code": "EHB 420E",
    "name": "Artificial Neural Networks",
    "branch": "EHB",
-   "requirement": "( MAT 281 MIN. DD Veya MAT 281E MIN. DD ) Veya ( EEF 281 MIN. DD Veya EEF 281E MIN. DD )"
+   "requirement": "( MAT 281 MIN. DD Veya MAT 281E MIN. DD ) Veya ( EEF 281 MIN. DD Veya EEF 281E MIN. DD ) Veya ( END 210E MIN. DD Veya END 210 MIN. DD )"
   },
   {
    "code": "EHB 421",
@@ -21753,28 +21753,28 @@
    "code": "MAK 401",
    "name": "Makina Mühendisliği Lab. I",
    "branch": "MAK",
-   "requirement": "( MAK 312 MIN. DD Veya MAK 312E MIN. DD )",
+   "requirement": "( MAK 312 MIN. DD Veya MAK 312E MIN. DD ) Veya ( MAK 304E MIN. DD Veya MAK 304 MIN. DD )",
    "classReq": "95,00"
   },
   {
    "code": "MAK 401E",
    "name": "Mechanical Engineering Lab. I",
    "branch": "MAK",
-   "requirement": "( MAK 312 MIN. DD Veya MAK 312E MIN. DD )",
+   "requirement": "( MAK 312 MIN. DD Veya MAK 312E MIN. DD ) Veya ( MAK 304E MIN. DD Veya MAK 304 MIN. DD )",
    "classReq": "95,00"
   },
   {
    "code": "MAK 402",
    "name": "Makina Mühendisliği Lab. II",
    "branch": "MAK",
-   "requirement": "( MAK 312 MIN. DD Veya MAK 312E MIN. DD )",
+   "requirement": "( MAK 312 MIN. DD Veya MAK 312E MIN. DD ) Veya ( MAK 304E MIN. DD Veya MAK 304 MIN. DD )",
    "classReq": "95,00"
   },
   {
    "code": "MAK 402E",
    "name": "Mechanical Engineering Lab. II",
    "branch": "MAK",
-   "requirement": "( MAK 312 MIN. DD Veya MAK 312E MIN. DD )",
+   "requirement": "( MAK 312 MIN. DD Veya MAK 312E MIN. DD ) Veya ( MAK 304E MIN. DD Veya MAK 304 MIN. DD )",
    "classReq": "95,00"
   },
   {
@@ -26075,7 +26075,7 @@
    "code": "MTH 414E",
    "name": "Introduction to Launch Vehicle Design and Industrial Practice",
    "branch": "MTH",
-   "requirement": "( UZB 362 MIN. DD Veya UZB 362E MIN. DD )"
+   "requirement": "( UZB 362 MIN. DD Veya UZB 362E MIN. DD ) Veya UZB 310E MIN. DD"
   },
   {
    "code": "MTM 112",
@@ -51606,6 +51606,14 @@
   },
   {
    "from": "END 210",
+   "to": "EHB 420"
+  },
+  {
+   "from": "END 210",
+   "to": "EHB 420E"
+  },
+  {
+   "from": "END 210",
    "to": "END 331"
   },
   {
@@ -51683,6 +51691,14 @@
   {
    "from": "END 210E",
    "to": "BHB 304"
+  },
+  {
+   "from": "END 210E",
+   "to": "EHB 420"
+  },
+  {
+   "from": "END 210E",
+   "to": "EHB 420E"
   },
   {
    "from": "END 210E",
@@ -75815,6 +75831,38 @@
   {
    "from": "MAK 303E",
    "to": "MAK 390E"
+  },
+  {
+   "from": "MAK 304",
+   "to": "MAK 401"
+  },
+  {
+   "from": "MAK 304",
+   "to": "MAK 401E"
+  },
+  {
+   "from": "MAK 304",
+   "to": "MAK 402"
+  },
+  {
+   "from": "MAK 304",
+   "to": "MAK 402E"
+  },
+  {
+   "from": "MAK 304E",
+   "to": "MAK 401"
+  },
+  {
+   "from": "MAK 304E",
+   "to": "MAK 401E"
+  },
+  {
+   "from": "MAK 304E",
+   "to": "MAK 402"
+  },
+  {
+   "from": "MAK 304E",
+   "to": "MAK 402E"
   },
   {
    "from": "MAK 311",
@@ -103119,6 +103167,10 @@
   {
    "from": "UZB 301E",
    "to": "UCK 304E"
+  },
+  {
+   "from": "UZB 310E",
+   "to": "MTH 414E"
   },
   {
    "from": "UZB 310E",
