@@ -1668,7 +1668,7 @@
 11746,UZB 492,UZB,LS,Bitirme Çalışması,Fiziksel (Yüz yüze),Alim Rüstem Aslan,,,-/-,,50,0,-,UZB_LS,-,Detay
 11747,UZB 492E,UZB,LS,Graduation Project,Fiziksel (Yüz yüze),Alim Rüstem Aslan,,,-/-,,50,1,-,"UZB_LS, UZB_LS, UZBE_LS",-,Detay
 11749,SAV 302E,SAV,LS,Discrete Mathematics,Fiziksel (Yüz yüze),İbrahim Özkol,MEDC,Perşembe,17:30/20:29,2D14,30,30,-,SAV_YD,Detay,-
-11750,SAV 305E,SAV,LS,Embedded System Applications for Autonomous Platforms,Fiziksel (Yüz yüze),Ramazan Yeniçeri,MEDC,Çarşamba,17:30/20:29,2D15,36,36,-,SAV_YD,-,-
+11750,SAV 305E,SAV,LS,Embedded System Applications for Autonomous Platforms,Fiziksel (Yüz yüze),Ramazan Yeniçeri,MEDC,Çarşamba,17:30/20:29,2D15,40,36,-,SAV_YD,-,-
 11751,MYZ 312,MYZ,LS,Meteorolojide Makine Öğrenmesi,Fiziksel (Yüz yüze),Ahmet Öztopal,MEDC,Cuma,14:30/17:29,ZA1,18,15,-,"IBM_LS, MTO_LS",Detay,-
 11752,MTO 101,MTO,LS,Meteoroloji Müh. Giriş ve Etik,Fiziksel (Yüz yüze),Ahmet Duran Şahin,MEDC,Perşembe,13:30/14:29,ZA3,70,51,-,"IBM_LS, MTO_LS",-,-
 11753,MTO 111E,MTO,LS,Intr. to Atmospheric Sciences,Fiziksel (Yüz yüze),Mikdat Kadıoğlu,MEDC,Pazartesi,14:30/17:29,ZD1,80,51,-,"IBM_LS, MTO_LS, MTO_LS, MTOE_LS",-,-
@@ -3195,7 +3195,7 @@
 13400,GDP 503,GDP,LU,Geleneksel Dans.Çalgısal Eşlik,Fiziksel (Yüz yüze),Eyüp Uzunkaya,TMB,Perşembe,09:30/12:29,--,20,0,-,,-,-
 13401,ROT 501E,ROT,LUI,Engineering Mathematics,Fiziksel (Yüz yüze),İbrahim Özkol,UUB,Cuma,18:30/21:29,--,5,1,-,,-,-
 13402,GDP 520,GDP,LU,Sahne Performansı,Fiziksel (Yüz yüze),Serpil Murtezaoğlu,TMB,Salı,08:30/11:29,--,5,0,-,,-,-
-13403,GEO 103,GEO,LS,Temel Ölçme Bilgisi,Fiziksel (Yüz yüze),Turan Erden,INB,Çarşamba,08:30/12:29,B204,25,25,-,"GEO_LS, HTA_LS",-,-
+13403,GEO 103,GEO,LS,Temel Ölçme Bilgisi,Fiziksel (Yüz yüze),Turan Erden,INB,Çarşamba,08:30/12:29,B204,30,25,-,"GEO_LS, HTA_LS",-,-
 13404,GDP 505,GDP,LU,Karşılama-Hora Performansı,Fiziksel (Yüz yüze),İlknur Bektaş,TMB,Pazartesi,13:30/16:29,--,20,0,-,,-,-
 13405,ROT 504E,ROT,LUI,Rotorcraft CFD,Fiziksel (Yüz yüze),Ayşe Gül Güngör,UUB,Perşembe,18:30/21:29,--,5,1,-,,-,-
 13406,ROT 507E,ROT,LUI,Structural Dynamics,Fiziksel (Yüz yüze),Vedat Ziya Doğan,UUB,Cumartesi,10:00/12:59,--,5,0,-,,-,-
@@ -3205,7 +3205,7 @@
 13410,GDP 514,GDP,LU,Gelen.Dans Mü.Tür Biçim&Ritim,Fiziksel (Yüz yüze),Cihangir Terzi,TMB,Çarşamba,13:30/16:29,--,20,0,-,,-,-
 13411,GDP 596,GDP,LU,"Bilimsel Araş.,Etik ve Seminer",Fiziksel (Yüz yüze),Eray Cömert,TMB,Cuma,10:30/12:29,--,20,0,-,,-,-
 13412,GDP YLT,GDP,LU,Tez Çalışması,Fiziksel (Yüz yüze),İlknur Bektaş,,,-/-,,200,0,-,,-,-
-13413,GEO 103,GEO,LS,Temel Ölçme Bilgisi,Fiziksel (Yüz yüze),Ramazan Alper Kuçak,INB,Çarşamba,08:30/12:29,B206,25,25,-,"GEO_LS, HTA_LS",-,-
+13413,GEO 103,GEO,LS,Temel Ölçme Bilgisi,Fiziksel (Yüz yüze),Ramazan Alper Kuçak,INB,Çarşamba,08:30/12:29,B206,30,25,-,"GEO_LS, HTA_LS",-,-
 13414,GEO 103E,GEO,LS,Fundamentals of Surveying,Fiziksel (Yüz yüze),Mert Bezcioğlu,INB,Pazartesi,13:30/17:29,B305,25,25,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
 13415,MAT 501E,MAT,LU,Differential Equations I,Fiziksel (Yüz yüze),Ali Demirci,FEB,Çarşamba,08:30/11:29,B1_226,20,0,-,,-,-
 13416,GEO 103E,GEO,LS,Fundamentals of Surveying,Fiziksel (Yüz yüze),Mehmet İşiler,INB,Perşembe,13:30/17:29,B307,40,20,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
@@ -3225,18 +3225,18 @@
 13431,CKY 547,CKY,LU,Cephe Malzeme ve Bileşenleri,Fiziksel (Yüz yüze),Mehmet Serkan Yatağan,undeclared,Perşembe,13:30/16:29,--,25,0,-,,-,-
 13432,CKY 553,CKY,LU,Depreme Dayanıklı Mimari Tasarım Uygulama İlkeleri,Fiziksel (Yüz yüze),Ferhat Pakdamar,undeclared,Çarşamba,09:30/12:29,--,15,0,-,,-,-
 13433,CKY 549,CKY,LU,Taşıyıcı Sistem Tasarımı,Fiziksel (Yüz yüze),Necdet Torunbalcı,undeclared,Çarşamba,09:30/12:29,--,10,0,-,,-,-
-13434,GEO 109,GEO,LS,Analitik Geometri&Vektör Hesab,Fiziksel (Yüz yüze),Büşra Kartal,INB,Perşembe,13:30/16:29,B201,60,60,-,"GEO_LS, HTA_LS",-,-
+13434,GEO 109,GEO,LS,Analitik Geometri&Vektör Hesab,Fiziksel (Yüz yüze),Büşra Kartal,INB,Perşembe,13:30/16:29,B201,65,60,-,"GEO_LS, HTA_LS",-,-
 13435,CKY 543,CKY,LU,Bina Tasarımında Yangın.Korun.,Fiziksel (Yüz yüze),Nuri Serteser,undeclared,Perşembe,13:30/16:29,--,16,0,-,,-,-
 13436,CKY 510,CKY,LU,Gürültü Kont.Yapı Elem.Tasrm,Fiziksel (Yüz yüze),Tarık Serhat Bozkurt,undeclared,Cuma,14:00/16:59,--,15,0,-,,-,-
-13437,GEO 109E,GEO,LS,Analy. Geom. and Vect. Algeb.,Fiziksel (Yüz yüze),Caner Güney,INB,Salı,08:30/11:29,A202,60,60,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+13437,GEO 109E,GEO,LS,Analy. Geom. and Vect. Algeb.,Fiziksel (Yüz yüze),Caner Güney,INB,Salı,08:30/11:29,A202,65,60,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
 13438,CKY 529,CKY,LU,Proje II,Fiziksel (Yüz yüze),Halet Almıla Büyüktaşkın,undeclared,Pazartesi,09:30/12:29,--,30,0,-,,-,-
 13439,CKY 533,CKY,LU,Proje I,Fiziksel (Yüz yüze),Halet Almıla Büyüktaşkın,undeclared,Pazartesi,13:30/16:29,--,30,0,-,,-,-
 13440,CKY YLT,CKY,LU,Tez Çalışması,Fiziksel (Yüz yüze),Halet Almıla Büyüktaşkın,,,-/-,,200,0,-,,-,-
 13441,GEO 111,GEO,LS,Geomatik Müh. Giriş ve Etik,Fiziksel (Yüz yüze),Çiğdem Göksel,INB,Salı,08:30/10:29,A203,60,49,-,"GEO_LS, HTA_LS",-,-
-13442,GEO 111E,GEO,LS,Intro. to Geomat. Eng.&Ethics,Fiziksel (Yüz yüze),Filiz Bektaş Balçık,INB,Salı,14:30/16:29,A202,60,60,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+13442,GEO 111E,GEO,LS,Intro. to Geomat. Eng.&Ethics,Fiziksel (Yüz yüze),Filiz Bektaş Balçık,INB,Salı,14:30/16:29,A202,65,60,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
 13443,GEO 201,GEO,LS,Kartografya I,Fiziksel (Yüz yüze),Adalet Dervişoğlu,INB,Çarşamba,10:30/12:29,A202,70,31,-,"GEO_LS, HTA_LS",-,-
-13444,GEO 201E,GEO,LS,Cartography I,Fiziksel (Yüz yüze),Ahmet Özgür Doğru,INB,Pazartesi,08:30/10:29,B305,40,40,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
-13445,GEO 201E,GEO,LS,Cartography I,Fiziksel (Yüz yüze),Şaziye Özge Atik,INB,Pazartesi,08:30/10:29,B307,40,40,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+13444,GEO 201E,GEO,LS,Cartography I,Fiziksel (Yüz yüze),Ahmet Özgür Doğru,INB,Pazartesi,08:30/10:29,B305,45,40,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+13445,GEO 201E,GEO,LS,Cartography I,Fiziksel (Yüz yüze),Şaziye Özge Atik,INB,Pazartesi,08:30/10:29,B307,45,40,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
 13446,GEO 203,GEO,LS,Koord. Sist. Ve Jeodezi I,Fiziksel (Yüz yüze),"Hayri Hakan Denli , Serdar Erol",INB,Pazartesi,13:30/17:29,A203,50,34,-,"GEO_LS, HTA_LS",-,-
 13448,BLU 505,BLU,LU,İş Süreçleri Yönetimi,Fiziksel (Yüz yüze),Kevser Şimşek,BEB,Salı,09:30/12:29,--,20,0,-,,-,-
 13449,GEO 203E,GEO,LS,Coordinate Sys. and Geodesy I,Fiziksel (Yüz yüze),Bihter Erol,INB,Cuma,08:30/12:29,B302,40,40,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
@@ -3281,7 +3281,7 @@
 13490,BBL 596E,BBL,LU,"Scien.Rese., Ethic&Seminar",Fiziksel (Yüz yüze),Abdulkerim Çapar,BEB,Çarşamba,13:30/15:29,--,25,0,-,,-,-
 13491,ENB 501E,ENB,LU,Fundamentals of Env.Biotech. I,Fiziksel (Yüz yüze),Gülsüm Emel Zengin Balcı,undeclared,Cuma,08:30/11:29,--,30,0,-,,-,-
 13492,BLU YET,BLU,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Behçet Uğur Töreyin,,,-/-,,200,0,-,,-,-
-13493,GEO 220E,GEO,LS,Mathematics for Geomatics Eng.,Fiziksel (Yüz yüze),Hasan Tonbul,INB,Pazartesi,13:30/16:29,A105,50,50,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detay,-
+13493,GEO 220E,GEO,LS,Mathematics for Geomatics Eng.,Fiziksel (Yüz yüze),Hasan Tonbul,INB,Pazartesi,13:30/16:29,A105,60,50,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detay,-
 13494,ENB 503E,ENB,LU,Metabolic Cons. in Env.Science,Fiziksel (Yüz yüze),Ebru Dülekgürgen,undeclared,Çarşamba,08:30/11:29,--,30,0,-,,-,-
 13495,ENB 506E,ENB,LU,Research Writing in E.Science,Fiziksel (Yüz yüze),Seval Sözen,undeclared,Perşembe,08:30/11:29,--,30,0,-,,-,-
 13496,BBL 696E,BBL,LU,"Scien.Rese., Ethic&Seminar",Fiziksel (Yüz yüze),Abdulkerim Çapar,BEB,Çarşamba,15:30/17:29,--,25,0,-,,-,-
@@ -3299,15 +3299,15 @@
 13508,GEO 4902E,GEO,LS,Geomatics Eng. Design II,Fiziksel (Yüz yüze),Mustafa Yanalak,,,-/-,,500,23,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detay,-
 13509,BBL 540E,BBL,LU,Quantum Data Structures and Algorithms,Fiziksel (Yüz yüze),Deniz Türkpençe,BEB,Perşembe,08:30/11:29,--,15,0,-,,-,-
 13510,BBL 606,BBL,LU,Veri Madenciliği,Fiziksel (Yüz yüze),Nisa Özge Önal Tuğrul,BEB,Salı,13:30/16:29,--,25,0,-,,-,-
-13511,GEO 221E,GEO,LS,Num. Meth. for Geomatics Eng.,Fiziksel (Yüz yüze),Mustafa Fahri Karabulut,INB,Cuma,14:30/17:29,A101,50,50,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+13511,GEO 221E,GEO,LS,Num. Meth. for Geomatics Eng.,Fiziksel (Yüz yüze),Mustafa Fahri Karabulut,INB,Cuma,14:30/17:29,A101,55,50,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
 13512,BBL 541E,BBL,LU,Modeling and Analysis of Markovian Systems,Fiziksel (Yüz yüze),Evren Dağlarlı,BEB,Salı,09:30/12:29,--,25,0,-,,-,-
-13513,GEO 221E,GEO,LS,Num. Meth. for Geomatics Eng.,Fiziksel (Yüz yüze),Hasan Tonbul,INB,Salı,14:30/17:29,A101,55,55,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+13513,GEO 221E,GEO,LS,Num. Meth. for Geomatics Eng.,Fiziksel (Yüz yüze),Hasan Tonbul,INB,Salı,14:30/17:29,A101,60,55,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
 13515,BBL DRT,BBL,LU,Tez Çalışması,Fiziksel (Yüz yüze),Sefer Baday,,,-/-,,200,0,-,,-,-
 13516,GEO 478,GEO,LS,Kamulaştırma Tekniği,Sanal (Çevrimiçi/Online),Reha Metin Alkan,INB,Salı,10:30/12:29,--,30,12,-,"GEO_LS, HTA_LS",-,-
 13517,BBL YET,BBL,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Sefer Baday,,,-/-,,200,0,-,,-,-
-13518,GEO 225E,GEO,LS,Prob.and Stat. for Geom. Eng.,Fiziksel (Yüz yüze),Mehmet İşiler,INB,Pazartesi,10:30/13:29,B303,35,35,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
-13519,GEO 225E,GEO,LS,Prob.and Stat. for Geom. Eng.,Fiziksel (Yüz yüze),Adil Enis Arslan,INB,Pazartesi,10:30/13:29,B307,35,35,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
-13520,GEO 225E,GEO,LS,Prob.and Stat. for Geom. Eng.,Fiziksel (Yüz yüze),Esra Erten,INB,Pazartesi,10:30/13:29,B304,35,35,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+13518,GEO 225E,GEO,LS,Prob.and Stat. for Geom. Eng.,Fiziksel (Yüz yüze),Mehmet İşiler,INB,Pazartesi,10:30/13:29,B303,38,35,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+13519,GEO 225E,GEO,LS,Prob.and Stat. for Geom. Eng.,Fiziksel (Yüz yüze),Adil Enis Arslan,INB,Pazartesi,10:30/13:29,B307,38,35,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+13520,GEO 225E,GEO,LS,Prob.and Stat. for Geom. Eng.,Fiziksel (Yüz yüze),Esra Erten,INB,Pazartesi,10:30/13:29,B304,38,35,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
 13521,GEO 227,GEO,LS,"İş Hukuku,İşçi Sağl.&İş Güv.",Sanal (Çevrimiçi/Online),Hasan Hakan Yavaşoğlu,INB,Pazartesi,13:30/15:29,--,80,59,-,"GEO_LS, HTA_LS",-,-
 13522,GEO 227E,GEO,LS,"Labor Law,Occupati.Health&Saf.",Sanal (Çevrimiçi/Online),Hasan Hakan Yavaşoğlu,INB,Salı,08:30/10:29,--,80,57,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
 13523,GEO 303,GEO,LS,Kadastro Bilgisi,Fiziksel (Yüz yüze),Tahsin Yomralıoğlu,INB,Salı,11:30/13:29,A104,60,42,-,"GEO_LS, HTA_LS",Detay,-
@@ -3375,7 +3375,7 @@
 13586,MHY YLT,MHY,LU,Tez Çalışması,Fiziksel (Yüz yüze),Ayberk Soyer,,,-/-,,200,0,-,,-,-
 13587,GEO 309,GEO,LS,Fotogrametri I,Fiziksel (Yüz yüze),Muhammed Enes Atik,INB,Çarşamba,13:30/15:29,B206,25,16,-,"GEO_LS, HTA_LS",-,-
 13588,END YLT,END,LU,Tez Çalışması,Fiziksel (Yüz yüze),Başar Öztayşi,,,-/-,,200,0,-,,-,-
-13589,GEO 309E,GEO,LS,Photogrammetry I,Fiziksel (Yüz yüze),Dursun Zafer Şeker,INB,Perşembe,08:30/10:29,A103,40,40,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+13589,GEO 309E,GEO,LS,Photogrammetry I,Fiziksel (Yüz yüze),Dursun Zafer Şeker,INB,Perşembe,08:30/10:29,A103,43,40,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
 13590,END DRT,END,LU,Tez Çalışması,Fiziksel (Yüz yüze),Başar Öztayşi,,,-/-,,200,0,-,,-,-
 13591,END YET,END,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Başar Öztayşi,,,-/-,,200,0,-,,-,-
 13592,GEO 311,GEO,LS,Jeodezik Altyapı ve Ağlar,Fiziksel (Yüz yüze),"Serdar Erol , Bihter Erol",INB,Cuma,14:30/16:29,A302,70,24,-,"GEO_LS, HTA_LS",-,-
@@ -3982,10 +3982,10 @@
 14219,EHN 311,EHN,LS,Intr.to Electronics Laboratory,Fiziksel (Yüz yüze),Onur Kurt,undeclared,Perşembe,10:30/12:29,--,30,11,-,EHN_LS,-,-
 14220,DUY 505,DUY,LUI,Denizcil.Örgüts.Davra.& Lider.,Fiziksel (Yüz yüze),-,,,-/-,,0,0,-,,-,-
 14221,EHB 101,EHB,LS,EHM Giriş ve Müh. Etiği,Fiziksel (Yüz yüze),Tayfun Akgül,EEB,Çarşamba,13:30/15:29,5102,100,77,-,EHB_LS,-,-
-14222,EHB 101E,EHB,LS,Int.toElctr.&Comm.Eng.&Eng.Eth,Fiziksel (Yüz yüze),Bilgi Görkem Yazgaç,EEB,Çarşamba,13:30/15:29,5104,100,100,-,"EHB_LS, EHBE_LS",-,-
+14222,EHB 101E,EHB,LS,Int.toElctr.&Comm.Eng.&Eng.Eth,Fiziksel (Yüz yüze),Bilgi Görkem Yazgaç,EEB,Çarşamba,13:30/15:29,5104,125,100,-,"EHB_LS, EHBE_LS",-,-
 14223,EHB 208,EHB,LS,Veri Yapıları ve Programlama,Fiziksel (Yüz yüze),-,EEB,Perşembe,08:30/11:29,6309,80,79,-,"EHB_LS, ELK_LS, KOM_LS, ROS_LS",Detay,-
 14226,EHB 227E,EHB,LS,Introduction to Optics,Fiziksel (Yüz yüze),Fatma İnci Çilesiz,EEB,Çarşamba,12:30/15:29,5307,50,14,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
-14227,EHB 235,EHB,LS,Kompleks Fonk Teorisi,Fiziksel (Yüz yüze),Ali Yapar,EEB,Çarşamba,12:30/15:29,5304,90,90,-,"EHB_LS, EHS_LS, ELK_LS, KOM_LS, ROS_LS",-,-
+14227,EHB 235,EHB,LS,Kompleks Fonk Teorisi,Fiziksel (Yüz yüze),Ali Yapar,EEB,Çarşamba,12:30/15:29,5304,100,90,-,"EHB_LS, EHS_LS, ELK_LS, KOM_LS, ROS_LS",-,-
 14229,DUY 513,DUY,LUI,Denizcilik Çevre Yönetimi,Fiziksel (Yüz yüze),Yasin Arslanoğlu,DZB,Perşembe,17:30/20:29,--,10,9,-,,-,-
 14231,DUY 523,DUY,LUI,Denizcilikte Kalite Yönetimi,Fiziksel (Yüz yüze),Metin Çelik,DZB,Çarşamba,17:30/20:29,--,10,9,-,,-,-
 14234,DUY 527,DUY,LUI,Teknik Gemi İşletmeciliği,Fiziksel (Yüz yüze),Emre Akyüz,DZB,Pazartesi,17:30/20:29,--,10,8,-,,-,-
@@ -4002,8 +4002,8 @@
 14249,EHB 235E,EHB,LS,Theory of Complex Functions,Fiziksel (Yüz yüze),-,EEB,Çarşamba,12:30/15:29,5204,90,34,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
 14250,EHB 307,EHB,LS,Haberleşme I,Fiziksel (Yüz yüze),-,EEB,Perşembe,08:30/11:29,5302,75,75,-,EHB_LS,Detay,-
 14251,EHB 307,EHB,LS,Haberleşme I,Fiziksel (Yüz yüze),-,EEB,Perşembe,08:30/11:29,5304,75,66,-,EHB_LS,Detay,-
-14252,EHB 307E,EHB,LS,Communication I,Fiziksel (Yüz yüze),-,EEB,Perşembe,08:30/11:29,5202,75,75,-,"EEE_LS, EHB_LS, EHBE_LS",Detay,-
-14253,EHB 307E,EHB,LS,Communication I,Fiziksel (Yüz yüze),-,EEB,Perşembe,08:30/11:29,5204,75,75,-,"EEE_LS, EHB_LS, EHBE_LS",Detay,-
+14252,EHB 307E,EHB,LS,Communication I,Fiziksel (Yüz yüze),-,EEB,Perşembe,08:30/11:29,5202,80,75,-,"EEE_LS, EHB_LS, EHBE_LS",Detay,-
+14253,EHB 307E,EHB,LS,Communication I,Fiziksel (Yüz yüze),-,EEB,Perşembe,08:30/11:29,5204,80,75,-,"EEE_LS, EHB_LS, EHBE_LS",Detay,-
 14254,EHB 311E,EHB,LS,Intr.to Electronics Laboratory,Fiziksel (Yüz yüze),-,undeclared,Perşembe,10:30/12:29,--,48,31,-,"BLG_LS, BLGE_LS, CEN_LS, EHB_LS, EHBE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
 14255,EHB 311E,EHB,LS,Intr.to Electronics Laboratory,Fiziksel (Yüz yüze),-,undeclared,Perşembe,10:30/12:29,--,48,23,-,"BLG_LS, BLGE_LS, CEN_LS, EHB_LS, EHBE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
 14256,EHB 311E,EHB,LS,Intr.to Electronics Laboratory,Fiziksel (Yüz yüze),-,undeclared,Perşembe,12:30/14:29,--,48,48,-,"BLG_LS, BLGE_LS, CEN_LS, EHB_LS, EHBE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
@@ -4018,7 +4018,7 @@
 14265,EHB 324E,EHB,LS,Logic Design Lab.,Fiziksel (Yüz yüze),-,undeclared,Çarşamba,12:30/14:29,--,30,30,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detay,-
 14266,EHB 324E,EHB,LS,Logic Design Lab.,Fiziksel (Yüz yüze),-,undeclared,Çarşamba,12:30/14:29,--,30,30,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detay,-
 14267,EHB 324E,EHB,LS,Logic Design Lab.,Fiziksel (Yüz yüze),-,undeclared,Pazartesi,10:30/12:29,--,30,30,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detay,-
-14268,EHB 326E,EHB,LS,Intr.to Embedded Systems,Fiziksel (Yüz yüze),Müştak Erhan Yalçın,EEB,Perşembe,12:30/15:29,4102,75,75,EEE_LS/5/5 | Diğer/70/70,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, KOM_LS, KOME_LS",Detay,-
+14268,EHB 326E,EHB,LS,Intr.to Embedded Systems,Fiziksel (Yüz yüze),Müştak Erhan Yalçın,EEB,Perşembe,12:30/15:29,4102,85,75,EEE_LS/5/5 | Diğer/80/70,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, KOM_LS, KOME_LS",Detay,-
 14269,EHB 335E,EHB,LS,Analog Electronic Circuits,Fiziksel (Yüz yüze),-,EEB,Çarşamba,08:30/11:29,5102,75,71,EEE_LS/5/1 | Diğer/70/70,"EEE_LS, EHB_LS, EHBE_LS, ELE_LS, TEL_LS",Detay,-
 14270,EHB 335E,EHB,LS,Analog Electronic Circuits,Fiziksel (Yüz yüze),-,EEB,Çarşamba,08:30/11:29,5304,75,49,EEE_LS/5/1 | Diğer/70/48,"EEE_LS, EHB_LS, EHBE_LS, ELE_LS, TEL_LS",Detay,-
 14271,EHB 337,EHB,LS,Elektromanyetik Teori-II,Fiziksel (Yüz yüze),-,EEB,Salı,08:30/11:29,2102,75,75,-,EHB_LS,Detay,-
@@ -4026,24 +4026,24 @@
 14273,EHB 337E,EHB,LS,Theory of Electromagnetics II,Fiziksel (Yüz yüze),-,EEB,Salı,08:30/11:29,2106,75,75,EEE_LS/5/5 | Diğer/70/70,"EEE_LS, EHB_LS, EHBE_LS",Detay,-
 14274,EHB 337E,EHB,LS,Theory of Electromagnetics II,Fiziksel (Yüz yüze),-,EEB,Salı,08:30/11:29,5302,75,51,EEE_LS/5/5 | Diğer/70/46,"EEE_LS, EHB_LS, EHBE_LS",Detay,-
 14275,EHB 405E,EHB,LS,Analog Integrated Circuits,Fiziksel (Yüz yüze),Nil Banu Tarım,EEB,Pazartesi,08:30/11:29,5203,50,5,EEE_LS/5/0 | Diğer/45/5,"EEE_LS, EHB_LS, EHBE_LS",Detay,-
-14276,EHB 415E,EHB,LS,Data Communications,Fiziksel (Yüz yüze),İbrahim Hökelek,EEB,Pazartesi,08:30/11:29,5201,55,55,EEE_LS/5/5 | Diğer/50/50,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detay,-
+14276,EHB 415E,EHB,LS,Data Communications,Fiziksel (Yüz yüze),İbrahim Hökelek,EEB,Pazartesi,08:30/11:29,5201,60,55,EEE_LS/5/5 | Diğer/55/50,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detay,-
 14277,EHB 417E,EHB,LS,RF Microelectronics,Fiziksel (Yüz yüze),Tufan Coşkun Karalar,EEB,Cuma,08:30/11:29,5105,60,37,EEE_LS/5/4 | Diğer/55/33,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS",Detay,-
 14278,EHB 418E,EHB,LS,RF Electronics Applications,Fiziksel (Yüz yüze),Hasan Bülent Yağcı,EEB,Çarşamba,08:30/12:29,5201,20,18,EEE_LS/3/1 | Diğer/17/17,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS",Detay,-
 14279,EHB 419E,EHB,LS,Digital System Design,Fiziksel (Yüz yüze),Ece Olcay Güneş,EEB,Çarşamba,08:30/11:29,5303,60,44,EEE_LS/5/5 | Diğer/55/39,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, KOM_LS, KOME_LS",Detay,-
-14280,EHB 420E,EHB,LS,Artificial Neural Networks,Fiziksel (Yüz yüze),"Onur Ergen , Navid Ghorashian",EEB,Cuma,14:00/16:59,5102,80,80,EEE_LS/5/5 | Diğer/75/75,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS, TEL_LS",Detay,-
+14280,EHB 420E,EHB,LS,Artificial Neural Networks,Fiziksel (Yüz yüze),"Onur Ergen , Navid Ghorashian",EEB,Cuma,14:00/16:59,5102,85,80,EEE_LS/5/5 | Diğer/80/75,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS, TEL_LS",Detay,-
 14281,EHB 421,EHB,LS,Tıp Elektroniğine Giriş,Fiziksel (Yüz yüze),-,,,-/-,,0,0,-,"EHB_LS, ELE_LS",Detay,-
 14282,EHB 422,EHB,LS,Biyolojik İşar.Ol.&Alg.Yöntem.,Fiziksel (Yüz yüze),Oğuzhan Kızılbey,EEB,Perşembe,12:30/15:29,Z1,50,6,-,"EHB_LS, ELE_LS",Detay,-
 14283,EHB 428E,EHB,LS,Industrial Electronics,Fiziksel (Yüz yüze),Muhammet Tahir Güneşer,EEB,Salı,08:30/11:29,5207,50,17,EEE_LS/5/5 | Diğer/45/12,"EEE_LS, EHB_LS, EHBE_LS",Detay,-
 14284,EHB 436E,EHB,LS,Digital System Design Applic.,Fiziksel (Yüz yüze),Ece Olcay Güneş,EEB,Salı,12:30/16:29,5303,20,20,EEE_LS/3/3 | Diğer/17/17,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS",Detay,-
 14285,EHB 436E,EHB,LS,Digital System Design Applic.,Fiziksel (Yüz yüze),Sıddıka Berna Örs Yalçın,EEB,Perşembe,08:30/12:29,5205,20,20,EEE_LS/3/3 | Diğer/17/17,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS",Detay,-
 14286,EHB 442E,EHB,LS,Semiconductor Devices,Fiziksel (Yüz yüze),Mustafa Berke Yelten,EEB,Perşembe,08:30/11:29,5103,50,20,EEE_LS/5/1 | Diğer/45/19,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS",Detay,-
-14287,EHB 451E,EHB,LS,Active Microwave Circuits,Fiziksel (Yüz yüze),Mesut Kartal,EEB,Pazartesi,12:30/15:29,5203,70,70,EEE_LS/5/5 | Diğer/65/65,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detay,-
+14287,EHB 451E,EHB,LS,Active Microwave Circuits,Fiziksel (Yüz yüze),Mesut Kartal,EEB,Pazartesi,12:30/15:29,5203,75,70,EEE_LS/5/5 | Diğer/70/65,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detay,-
 14288,EHB 453E,EHB,LS,Intr.to Mobile Communications,Fiziksel (Yüz yüze),Ömer Melih Gül,EEB,Çarşamba,08:30/11:29,5203,60,51,EEE_LS/5/5 | Diğer/55/46,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detay,-
 14289,EHB 455,EHB,LS,Mikrodenetleyici Tem.Sist.Tas.,Fiziksel (Yüz yüze),Tamer Ölmez,EEB,Salı,08:30/11:29,5201,60,12,-,EHB_LS,Detay,-
 14290,EHB 456E,EHB,LS,Antennas,Fiziksel (Yüz yüze),Mehmet Çayören,EEB,Cuma,08:30/11:29,5203,75,39,EEE_LS/5/1 | Diğer/70/38,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detay,-
 14291,EHB 467,EHB,LS,Radar Sistemleri,Fiziksel (Yüz yüze),Murat Tayfun Günel,EEB,Çarşamba,12:30/15:29,5205,30,14,-,"EHB_LS, EHS_LS",Detay,-
 14292,EHB 473,EHB,LS,Mikrodalga&RF Haberleşmesi,Fiziksel (Yüz yüze),Mesut Kartal,EEB,Perşembe,12:30/15:29,5107,75,45,-,"EHB_LS, TEL_LS",Detay,-
-14293,EHB 474E,EHB,LS,Introduction to Optimization,Fiziksel (Yüz yüze),Mehmet Nuri Akıncı,EEB,Salı,12:30/15:29,5101,75,75,EEE_LS/5/5 | Diğer/70/70,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, KOM_LS, KOME_LS",Detay,-
+14293,EHB 474E,EHB,LS,Introduction to Optimization,Fiziksel (Yüz yüze),Mehmet Nuri Akıncı,EEB,Salı,12:30/15:29,5101,80,75,EEE_LS/5/5 | Diğer/75/70,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, KOM_LS, KOME_LS",Detay,-
 14294,EHB 481,EHB,LS,Temel Hab.Sis. Tas&Uy,Fiziksel (Yüz yüze),İbrahim Altunbaş,EEB | EEB,Pazartesi | Pazartesi,12:30/14:29 | 14:30/16:29,5301 | 5301,20,8,-,"EHB_LS, TEL_LS",Detay,-
 14295,EHB 481E,EHB,LS,Des.&Applic.of Basic Comm.Sys.,Fiziksel (Yüz yüze),Hakan Ali Çırpan,EEB | EEB,Perşembe | Perşembe,13:30/15:29 | 15:30/17:29,1301 | 1301,20,17,EEE_LS/3/0 | Diğer/17/17,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detay,-
 14296,EHB 4901,EHB,LS,Elektronik & Hab. Müh. Tas .I,Fiziksel (Yüz yüze),Hakan Ali Çırpan,,,-/-,,500,66,-,EHB_LS,Detay,Detay
@@ -4154,14 +4154,14 @@
 14408,MIM 411E,MIM,LS,Architectural Design VII,Fiziksel (Yüz yüze),Mehmet Emin Şalgamcıoğlu,undeclared | undeclared,Pazartesi | Perşembe,13:30/17:29 | 13:30/17:29,-- | --,14,14,-,"ARC_LS, MIM_LS, MIME_LS",Detay,-
 14409,MIM 411E,MIM,LS,Architectural Design VII,Fiziksel (Yüz yüze),Ahmet Gün,undeclared | undeclared,Pazartesi | Perşembe,13:30/17:29 | 13:30/17:29,-- | --,14,14,-,"ARC_LS, MIM_LS, MIME_LS",Detay,-
 14410,EEF 205,EEF,LS,Lojik Tasarıma Giriş,Fiziksel (Yüz yüze),Yusuf Yaşa,EEB,Cuma,08:30/11:29,2104,80,58,-,"EHB_LS, ELK_LS, KOM_LS, ROS_LS",-,-
-14411,EEF 205E,EEF,LS,Introduction to Logic Design,Fiziksel (Yüz yüze),Cenk Andiç,EEB,Cuma,08:30/11:29,5204,80,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
-14412,EEF 205E,EEF,LS,Introduction to Logic Design,Fiziksel (Yüz yüze),Ahmet Can Erten,EEB,Cuma,08:30/11:29,4104,80,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
-14413,EEF 205E,EEF,LS,Introduction to Logic Design,Fiziksel (Yüz yüze),Aydın Tarık Zengin,EEB,Cuma,08:30/11:29,5202,80,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
-14414,EEF 205E,EEF,LS,Introduction to Logic Design,Fiziksel (Yüz yüze),Mustafa Altun,EEB,Cuma,08:30/11:29,6309,80,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
-14415,EEF 205E,EEF,LS,Introduction to Logic Design,Fiziksel (Yüz yüze),Osman Kaan Erol,EEB,Cuma,08:30/11:29,2102,80,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+14411,EEF 205E,EEF,LS,Introduction to Logic Design,Fiziksel (Yüz yüze),Cenk Andiç,EEB,Cuma,08:30/11:29,5204,85,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+14412,EEF 205E,EEF,LS,Introduction to Logic Design,Fiziksel (Yüz yüze),Ahmet Can Erten,EEB,Cuma,08:30/11:29,4104,85,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+14413,EEF 205E,EEF,LS,Introduction to Logic Design,Fiziksel (Yüz yüze),Aydın Tarık Zengin,EEB,Cuma,08:30/11:29,5202,85,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+14414,EEF 205E,EEF,LS,Introduction to Logic Design,Fiziksel (Yüz yüze),Mustafa Altun,EEB,Cuma,08:30/11:29,6309,85,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+14415,EEF 205E,EEF,LS,Introduction to Logic Design,Fiziksel (Yüz yüze),Osman Kaan Erol,EEB,Cuma,08:30/11:29,2102,85,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
 14416,EEF 210,EEF,LS,Diferansiyel Denklemler,Fiziksel (Yüz yüze),Mehmet Ali Sönmez,EEB,Perşembe,12:30/15:29,5102,80,42,-,"EHB_LS, ELK_LS, KOM_LS, ROS_LS",Detay,-
-14417,EEF 210E,EEF,LS,Differential Equations,Fiziksel (Yüz yüze),Aydın Tarık Zengin,EEB,Perşembe,12:30/15:29,5104,80,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
-14419,EEF 210E,EEF,LS,Differential Equations,Fiziksel (Yüz yüze),Oğuz Kağan Işık,EEB,Perşembe,12:30/15:29,5302,80,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
+14417,EEF 210E,EEF,LS,Differential Equations,Fiziksel (Yüz yüze),Aydın Tarık Zengin,EEB,Perşembe,12:30/15:29,5104,85,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
+14419,EEF 210E,EEF,LS,Differential Equations,Fiziksel (Yüz yüze),Oğuz Kağan Işık,EEB,Perşembe,12:30/15:29,5302,85,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
 14420,EEF 211,EEF,LS,Elektrik Devre Temelleri,Fiziksel (Yüz yüze),Yüksel Çakır,EEB,Pazartesi,08:30/11:29,4104,80,16,-,"BLG_LS, EHB_LS, ELK_LS, KOM_LS, ROS_LS",Detay,-
 14421,EEF 211,EEF,LS,Elektrik Devre Temelleri,Fiziksel (Yüz yüze),Neslihan Serap Şengör,EEB,Pazartesi,08:30/11:29,5204,80,80,-,"BLG_LS, EHB_LS, ELK_LS, KOM_LS, ROS_LS",Detay,-
 14422,EEF 211,EEF,LS,Elektrik Devre Temelleri,Fiziksel (Yüz yüze),Metin Hüner,EEB,Pazartesi,08:30/11:29,4102,80,1,-,"BLG_LS, EHB_LS, ELK_LS, KOM_LS, ROS_LS",Detay,-
@@ -4173,17 +4173,17 @@
 14428,EEF 212E,EEF,LS,Electromagnetic Theory I,Fiziksel (Yüz yüze),Burak Acar,EEB | EEB,Salı | Çarşamba,12:30/14:29 | 08:30/10:29,5102 | 5202,80,73,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
 14429,EEF 212E,EEF,LS,Electromagnetic Theory I,Fiziksel (Yüz yüze),Semih Doğu,EEB | EEB,Salı | Çarşamba,12:30/14:29 | 08:30/10:29,5104 | 5204,80,80,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
 14430,EEF 232,EEF,LS,Devre ve Sistem Analizi,Fiziksel (Yüz yüze),Mürvet Kırcı,EEB,Perşembe,12:30/15:29,2102,80,24,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
-14431,EEF 232E,EEF,LS,Circuit and System Analysis,Fiziksel (Yüz yüze),Metin Hüner,EEB,Perşembe,12:30/15:29,6309,80,80,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
-14432,EEF 232E,EEF,LS,Circuit and System Analysis,Fiziksel (Yüz yüze),Yüksel Çakır,EEB,Perşembe,12:30/15:29,5304,80,80,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
+14431,EEF 232E,EEF,LS,Circuit and System Analysis,Fiziksel (Yüz yüze),Metin Hüner,EEB,Perşembe,12:30/15:29,6309,85,80,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
+14432,EEF 232E,EEF,LS,Circuit and System Analysis,Fiziksel (Yüz yüze),Yüksel Çakır,EEB,Perşembe,12:30/15:29,5304,85,80,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
 14433,EEF 262E,EEF,LS,Fundamentals of Electronics,Fiziksel (Yüz yüze),Hacer Atar Yıldız,EEB | EEB,Pazartesi | Çarşamba,12:30/14:29 | 10:30/12:29,5302 | 5202,80,16,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
 14434,EEF 262E,EEF,LS,Fundamentals of Electronics,Fiziksel (Yüz yüze),Tufan Coşkun Karalar,EEB | EEB,Pazartesi | Çarşamba,12:30/14:29 | 10:30/12:29,5204 | 5204,80,70,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
 14435,EEF 262E,EEF,LS,Fundamentals of Electronics,Fiziksel (Yüz yüze),Emre Özer,EEB | EEB,Pazartesi | Çarşamba,12:30/14:29 | 10:30/12:29,5202 | 5104,80,80,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
-14436,EEF 271E,EEF,LS,Probability and Statistics,Fiziksel (Yüz yüze),Osman Ervan,EEB,Salı,08:30/11:29,5104,80,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
-14437,EEF 271E,EEF,LS,Probability and Statistics,Fiziksel (Yüz yüze),Semih Beyçimen,EEB,Salı,08:30/11:29,5202,80,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
-14438,EEF 271E,EEF,LS,Probability and Statistics,Fiziksel (Yüz yüze),Ibraheem Abdullah Mohammed Shayea,EEB,Salı,08:30/11:29,5204,80,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
-14439,EEF 271E,EEF,LS,Probability and Statistics,Fiziksel (Yüz yüze),Tuba Yılmaz Abdolsaheb,EEB,Salı,08:30/11:29,4104,80,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+14436,EEF 271E,EEF,LS,Probability and Statistics,Fiziksel (Yüz yüze),Osman Ervan,EEB,Salı,08:30/11:29,5104,85,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+14437,EEF 271E,EEF,LS,Probability and Statistics,Fiziksel (Yüz yüze),Semih Beyçimen,EEB,Salı,08:30/11:29,5202,85,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+14438,EEF 271E,EEF,LS,Probability and Statistics,Fiziksel (Yüz yüze),Ibraheem Abdullah Mohammed Shayea,EEB,Salı,08:30/11:29,5204,85,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+14439,EEF 271E,EEF,LS,Probability and Statistics,Fiziksel (Yüz yüze),Tuba Yılmaz Abdolsaheb,EEB,Salı,08:30/11:29,4104,85,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
 14441,EEF 281E,EEF,LS,Linear Algebra & Applications,Fiziksel (Yüz yüze),Burak Acar,EEB,Perşembe,13:30/16:29,2106,80,55,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
-14442,EEF 281E,EEF,LS,Linear Algebra & Applications,Fiziksel (Yüz yüze),Fikret Çalışkan,EEB,Perşembe,13:30/16:29,2104,80,18,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+14442,EEF 281E,EEF,LS,Linear Algebra & Applications,Fiziksel (Yüz yüze),Fikret Çalışkan,EEB,Perşembe,13:30/16:29,2104,85,18,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
 14443,EEF 311E,EEF,LS,Numerical Analysis with Python,Fiziksel (Yüz yüze),İbrahim Çatalkaya,EEB,Cuma,14:00/16:59,5104,80,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
 14444,EEF 311E,EEF,LS,Numerical Analysis with Python,Fiziksel (Yüz yüze),Cem Recai Çırak,EEB,Cuma,14:00/16:59,6309,80,79,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
 14445,EEF 311E,EEF,LS,Numerical Analysis with Python,Fiziksel (Yüz yüze),Bora Döken,EEB,Cuma,14:00/16:59,5204,80,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
@@ -4665,7 +4665,7 @@
 14931,MTR 101,MTR,LS,Makam Teorisi I,Fiziksel (Yüz yüze),Elif Ahıs Yunusoğlu,undeclared | undeclared | undeclared,Pazartesi | Perşembe | Cuma,10:30/12:29 | 08:30/10:29 | 16:00/17:59,-- | -- | --,30,21,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",-,-
 14932,MTR 101,MTR,LS,Makam Teorisi I,Fiziksel (Yüz yüze),Eren Özek,undeclared | undeclared | undeclared,Salı | Çarşamba | Perşembe,13:30/15:29 | 13:30/15:29 | 10:30/12:29,-- | -- | --,40,40,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",-,-
 14933,EHB 208E,EHB,LS,Data Structures & Programming,Fiziksel (Yüz yüze),Arda İnceoğlu,EEB,Perşembe,08:30/11:29,2102,70,50,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
-14934,EHB 433E,EHB,LS,Digital Filters and Systems,Fiziksel (Yüz yüze),Bekir Sıddık Binboğa Yarman,EEB,Çarşamba,12:30/15:29,2106,50,50,EEE_LS/5/5 | Diğer/45/45,"EEE_LS, EHB_LS, EHBE_LS",Detay,-
+14934,EHB 433E,EHB,LS,Digital Filters and Systems,Fiziksel (Yüz yüze),Bekir Sıddık Binboğa Yarman,EEB,Çarşamba,12:30/15:29,2106,55,50,EEE_LS/5/5 | Diğer/50/45,"EEE_LS, EHB_LS, EHBE_LS",Detay,-
 14935,EEF 210E,EEF,LS,Differential Equations,Fiziksel (Yüz yüze),Muhammed İsmail Pençe,EEB,Perşembe,12:30/15:29,5103,80,80,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
 14936,NSE 612E,NSE,LU,2-Dimensional Advanced Materials,Fiziksel (Yüz yüze),Burak Tekin,undeclared,Pazartesi,08:30/11:29,--,20,0,-,,-,-
 14937,BVT 501,BVT,LU,Astronomi Tarihi,Fiziksel (Yüz yüze),Kazım Yavuz Ekşi,undeclared,Pazartesi,14:30/17:29,--,10,0,-,,-,-
@@ -4777,7 +4777,7 @@
 15046,MAK 696,MAK,LU,"Bilimsel Araş.,Etik ve Seminer",Fiziksel (Yüz yüze),Abdussamet Subaşı,undeclared,Çarşamba,15:30/17:29,--,30,0,-,,-,-
 15047,MAK YET,MAK,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Vahit Mermertaş,,,-/-,,100,0,-,,-,-
 15049,MAK DRT,MAK,LU,Tez Çalışması,Fiziksel (Yüz yüze),Vahit Mermertaş,,,-/-,,100,0,-,,-,-
-15050,EEF 281,EEF,LS,Lineer Cebir ve Uygulamaları,Fiziksel (Yüz yüze),Ahmet Hamdi Kayran,EEB,Perşembe,13:30/16:29,5204,80,80,-,"EEE_LS, EHB_LS, ELK_LS, KOM_LS, ROS_LS",-,-
+15050,EEF 281,EEF,LS,Lineer Cebir ve Uygulamaları,Fiziksel (Yüz yüze),Ahmet Hamdi Kayran,EEB,Perşembe,13:30/16:29,5204,90,80,-,"EEE_LS, EHB_LS, ELK_LS, KOM_LS, ROS_LS",-,-
 15051,KON 314E,KON,LS,Control System Design,Fiziksel (Yüz yüze),İlker Üstoğlu,EEB | EEB,Pazartesi | Perşembe,11:30/13:29 | 15:30/17:29,5102 | 5102,60,37,-,"EEE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
 15052,CHE 123,CHE,LS,General Chemistry I,Fiziksel (Yüz yüze),Muhammet Übeydullah Kahveci,MED,Perşembe,13:30/16:29,B34,40,26,-,EHN_LS,-,-
 15053,PHY 123,PHY,LS,Physics I,Fiziksel (Yüz yüze),Mehmet Kerim Ramazanoğlu,FEB,Salı,14:30/17:29,D204,30,26,-,EHN_LS,-,-
@@ -4823,7 +4823,7 @@
 15099,INS 301,INS,LS,Mühendislik Ekonomisi,Fiziksel (Yüz yüze),"Harun Türkoğlu , Fırat Doğu Akın",undeclared,Perşembe,13:30/15:29,--,40,40,-,INS_LS,-,-
 15100,JDM 507E,JDM,LU,Dating Methods in Earth Scien.,Fiziksel (Yüz yüze),"Remziye Akdoğan , Gültekin Topuz",AYBE,Perşembe,13:30/16:29,--,20,0,-,,-,-
 15101,ITB 221E,ITB,LS,Anatolian Archaeology,Fiziksel (Yüz yüze),Bülent Arıkan,MED,Salı,14:30/17:29,B37,30,1,-,"ARC_LS, BES_LS, BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, BST_LS, CAB_LS, CEB_LS, CEN_LS, CES_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, EHN_LS, EHS_LS, ELE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENT_LS, ENTE_LS, ESS_LS, EUT_LS, EUTE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IAD_LS, IBM_LS, ICM_LS, IEBE_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KMP_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MAT_LS, MATE_LS, MBI_LS, MEN_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MMD_LS, MSS_LS, MTM_LS, MTO_LS, MTOE_LS, MTR_LS, MUT_LS, MUZ_LS, MZT_LS, NAE_LS, PEM_LS, PEME_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SAO_OL, SAS_LS, SBL_LS, SBP_LS, SBPE_LS, SDU_LS, SECE_LS, SED_LS, SEK_LS, SEN_LS, SES_LS, SES_TH_LS, SES_TS_LS, SGI_LS, SGM_LS, SIN_LS, SIS_LS, SMT_LS, STP_LS, TEK_LS, TEKE_LS, TEL_LS, THO_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",-,-
-15102,EHB 322E,EHB,LS,Digital Electronic Circuits,Fiziksel (Yüz yüze),Sheıda Farajı,EEB,Çarşamba,12:30/15:29,5101,50,50,-,"BLG_LS, BLGE_LS, EHB_LS, EHB_LS, EHBE_LS, ELE_LS, ELE_LS",Detay,-
+15102,EHB 322E,EHB,LS,Digital Electronic Circuits,Fiziksel (Yüz yüze),Sheıda Farajı,EEB,Çarşamba,12:30/15:29,5101,60,50,-,"BLG_LS, BLGE_LS, EHB_LS, EHB_LS, EHBE_LS, ELE_LS, ELE_LS",Detay,-
 15103,UZB 103E,UZB,LS,Introduction to Astronautical Engineering and Ethics,Fiziksel (Yüz yüze),"Nuriye Leman Okşan Çetiner Yıldırım , Alim Rüstem Aslan",MEDC,Çarşamba,14:30/15:29,1D10,50,24,-,UZBE_LS,-,-
 15104,EHB 472E,EHB,LS,Image Processing Fundamentals,Fiziksel (Yüz yüze),Navid Ghorashian,EEB,Salı,08:30/11:29,5107,50,37,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS",Detay,-
 15105,BBL YLT,BBL,LU,Tez Çalışması,Fiziksel (Yüz yüze),Sefer Baday,,,-/-,,200,0,-,,-,-
