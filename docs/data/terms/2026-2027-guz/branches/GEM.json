@@ -50,7 +50,7 @@
    "ZA2"
   ],
   "capacity": 75,
-  "enrolled": 37,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "GEM_LS",
@@ -84,7 +84,7 @@
    "3D20"
   ],
   "capacity": 45,
-  "enrolled": 8,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -117,7 +117,7 @@
    "ZD1"
   ],
   "capacity": 45,
-  "enrolled": 3,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -150,7 +150,7 @@
    "1D5"
   ],
   "capacity": 45,
-  "enrolled": 1,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -183,7 +183,7 @@
    "1D10"
   ],
   "capacity": 45,
-  "enrolled": 6,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -212,7 +212,7 @@
    "ZD1"
   ],
   "capacity": 45,
-  "enrolled": 14,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -241,7 +241,7 @@
    "ZA3"
   ],
   "capacity": 45,
-  "enrolled": 0,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -274,7 +274,7 @@
    "ZD1"
   ],
   "capacity": 70,
-  "enrolled": 10,
+  "enrolled": 68,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -307,7 +307,7 @@
    "2D17"
   ],
   "capacity": 40,
-  "enrolled": 38,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "GEM_LS",
@@ -341,7 +341,7 @@
    "2D13"
   ],
   "capacity": 40,
-  "enrolled": 25,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -370,7 +370,7 @@
    "ZA2"
   ],
   "capacity": 80,
-  "enrolled": 47,
+  "enrolled": 69,
   "reserved": "-",
   "programs": [
    "GEM_LS",
@@ -438,7 +438,7 @@
    "ZA4"
   ],
   "capacity": 70,
-  "enrolled": 55,
+  "enrolled": 70,
   "reserved": "-",
   "programs": [
    "GEM_LS",
@@ -468,7 +468,7 @@
    "3D20"
   ],
   "capacity": 75,
-  "enrolled": 51,
+  "enrolled": 64,
   "reserved": "-",
   "programs": [
    "GEM_LS",
@@ -499,7 +499,7 @@
    "1D10"
   ],
   "capacity": 75,
-  "enrolled": 37,
+  "enrolled": 54,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -528,7 +528,7 @@
    "3D20"
   ],
   "capacity": 80,
-  "enrolled": 56,
+  "enrolled": 69,
   "reserved": "-",
   "programs": [
    "GEM_LS",
@@ -558,7 +558,7 @@
    "2D18"
   ],
   "capacity": 85,
-  "enrolled": 77,
+  "enrolled": 79,
   "reserved": "-",
   "programs": [
    "GEM_LS",
@@ -810,7 +810,7 @@
    "3BİL1"
   ],
   "capacity": 30,
-  "enrolled": 15,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -839,7 +839,7 @@
    "2D13"
   ],
   "capacity": 30,
-  "enrolled": 27,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -897,7 +897,7 @@
    "2D17"
   ],
   "capacity": 30,
-  "enrolled": 7,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -1850,7 +1850,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 23,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -1912,7 +1912,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 11,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -1970,7 +1970,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 35,
+  "enrolled": 36,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -1999,7 +1999,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 23,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -2032,7 +2032,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -2233,7 +2233,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 27,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -2266,7 +2266,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 5,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -2295,7 +2295,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 3,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -2347,7 +2347,7 @@
    "2D15"
   ],
   "capacity": 30,
-  "enrolled": 11,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "GEM_LS",

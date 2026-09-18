@@ -20,7 +20,7 @@
    "3D20"
   ],
   "capacity": 90,
-  "enrolled": 30,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "DEN_LS",
@@ -54,7 +54,7 @@
    "ZA4"
   ],
   "capacity": 80,
-  "enrolled": 9,
+  "enrolled": 71,
   "reserved": "-",
   "programs": [
    "DEN_LS",
@@ -113,8 +113,8 @@
   "rooms": [
    "ZA4"
   ],
-  "capacity": 95,
-  "enrolled": 95,
+  "capacity": 100,
+  "enrolled": 97,
   "reserved": "-",
   "programs": [
    "DEN_LS",
@@ -145,7 +145,7 @@
    "1D3"
   ],
   "capacity": 60,
-  "enrolled": 48,
+  "enrolled": 49,
   "reserved": "-",
   "programs": [
    "DEN_LS",
@@ -175,7 +175,7 @@
    "B103"
   ],
   "capacity": 80,
-  "enrolled": 77,
+  "enrolled": 80,
   "reserved": "-",
   "programs": [
    "DEN_LS",
@@ -205,7 +205,7 @@
    "1D10"
   ],
   "capacity": 70,
-  "enrolled": 48,
+  "enrolled": 55,
   "reserved": "-",
   "programs": [
    "DEN_LS",
@@ -235,7 +235,7 @@
    "3D20"
   ],
   "capacity": 90,
-  "enrolled": 88,
+  "enrolled": 90,
   "reserved": "-",
   "programs": [
    "DEN_LS",
@@ -265,7 +265,7 @@
    "1D4"
   ],
   "capacity": 60,
-  "enrolled": 47,
+  "enrolled": 53,
   "reserved": "-",
   "programs": [
    "ALG_YD",
@@ -296,7 +296,7 @@
    "2D13"
   ],
   "capacity": 25,
-  "enrolled": 1,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "DEN_LS",
@@ -326,8 +326,8 @@
   "rooms": [
    "2D16"
   ],
-  "capacity": 25,
-  "enrolled": 25,
+  "capacity": 30,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "DEN_LS",
@@ -357,8 +357,8 @@
   "rooms": [
    "2D12"
   ],
-  "capacity": 25,
-  "enrolled": 25,
+  "capacity": 30,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "DEN_LS",
@@ -389,7 +389,7 @@
    "ZA4"
   ],
   "capacity": 30,
-  "enrolled": 18,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "DEN_LS",
@@ -418,8 +418,8 @@
   "rooms": [
    "1D5"
   ],
-  "capacity": 35,
-  "enrolled": 35,
+  "capacity": 40,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "DEN_LS",
@@ -448,8 +448,8 @@
   "rooms": [
    "ZD1"
   ],
-  "capacity": 85,
-  "enrolled": 85,
+  "capacity": 100,
+  "enrolled": 89,
   "reserved": "-",
   "programs": [
    "DEN_LS",
@@ -668,7 +668,7 @@
    "2D12"
   ],
   "capacity": 20,
-  "enrolled": 10,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "DEN_LS",
@@ -1112,7 +1112,7 @@
    "2D12"
   ],
   "capacity": 20,
-  "enrolled": 1,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "DEN_LS",

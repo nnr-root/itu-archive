@@ -227,7 +227,7 @@
     "BEB 101",
     "Temel Yüzme Becerisi Öğrenimi",
     12,
-    3
+    4
    ],
    [
     "2026-2027-guz",
@@ -255,14 +255,14 @@
     "BEB 101",
     "Temel Yüzme Becerisi Öğrenimi",
     12,
-    3
+    6
    ],
    [
     "2026-2027-guz",
     "BEB 102",
     "Yüzme Teknikleri Becerisi Öğr.",
     12,
-    0
+    1
    ],
    [
     "2021-2022-bahar",
@@ -2265,7 +2265,7 @@
     "GMI 118",
     "Gemi Mak. İşl.Müh.Gir.veEtik",
     60,
-    46
+    47
    ],
    [
     "2026-2027-guz",
@@ -3483,14 +3483,14 @@
     "MTO 311E",
     "Data Analysis",
     50,
-    48
+    50
    ],
    [
     "2026-2027-guz",
     "MTO 455",
     "Hidrometri",
     15,
-    9
+    11
    ],
    [
     "2026-2027-guz",
@@ -3867,7 +3867,7 @@
     "ISL 224E",
     "Cost Accounting",
     80,
-    20
+    42
    ],
    [
     "2026-2027-guz",
@@ -3902,21 +3902,21 @@
     "MMD 101E",
     "Intr.to Maritime Bus.Administ.",
     25,
-    4
+    6
    ],
    [
     "2026-2027-guz",
     "MMD 211E",
     "Accounting\u0026Financial Stat.Anl.",
     30,
-    2
+    3
    ],
    [
     "2026-2027-guz",
     "PAZ 381",
     "Principles of Accounting",
     40,
-    11
+    12
    ],
    [
     "2025-2026-bahar",
@@ -4244,7 +4244,7 @@
     "MAD 362E",
     "Engineering Geology",
     50,
-    34
+    49
    ],
    [
     "2025-2026-bahar",
@@ -4969,14 +4969,14 @@
     "SES 122",
     "Diksiyon",
     30,
-    0
+    6
    ],
    [
     "2026-2027-guz",
     "SES 465",
     "Sahne Psikolojisi",
     20,
-    9
+    12
    ],
    [
     "2026-2027-guz",
@@ -5004,35 +5004,35 @@
     "SES 213",
     "Ses Eğitimi III",
     11,
-    0
+    2
    ],
    [
     "2026-2027-guz",
     "SES 209",
     "Korrepetisyon III",
     5,
-    0
+    1
    ],
    [
     "2026-2027-guz",
     "SES 209",
     "Korrepetisyon III",
     5,
-    0
+    1
    ],
    [
     "2026-2027-guz",
     "SES 313",
     "Dünya Vokal Teknikleri I",
     8,
-    3
+    5
    ],
    [
     "2026-2027-guz",
     "SES 309",
     "Korrepetisyon V",
     5,
-    1
+    3
    ],
    [
     "2026-2027-guz",
@@ -5046,14 +5046,14 @@
     "SES 427",
     "Sahne Bilgisi ve Jest Mimik",
     30,
-    1
+    4
    ],
    [
     "2026-2027-guz",
     "THO 371",
     "Sahne ve Beden Dili I",
     20,
-    1
+    2
    ],
    [
     "2026-2027-guz",
@@ -6147,7 +6147,7 @@
     "ICM 351E",
     "Space And Furniture",
     27,
-    25
+    27
    ],
    [
     "2025-2026-guz",
@@ -6209,14 +6209,7 @@
     "GMI 254E",
     "Marine Auxiliary Machinery I",
     40,
-    0
-   ],
-   [
-    "2026-2027-guz",
-    "GMI 384E",
-    "Engine Room Simulator (ERS) I",
-    20,
-    14
+    15
    ],
    [
     "2026-2027-guz",
@@ -6224,6 +6217,13 @@
     "Engine Room Simulator (ERS) I",
     20,
     16
+   ],
+   [
+    "2026-2027-guz",
+    "GMI 384E",
+    "Engine Room Simulator (ERS) I",
+    20,
+    20
    ],
    [
     "2026-2027-guz",
@@ -6953,7 +6953,7 @@
     "INS 302",
     "Karayolu Mühendisliği",
     40,
-    35
+    36
    ],
    [
     "2026-2027-guz",
@@ -7579,14 +7579,14 @@
     "END 210E",
     "Linear Algebra for Indust.Eng.",
     80,
-    8
+    44
    ],
    [
     "2026-2027-guz",
     "END 312E",
     "Engineering Economics",
     60,
-    58
+    60
    ],
    [
     "2026-2027-guz",
@@ -7607,7 +7607,7 @@
     "IND 210E",
     "Linear Algebra for Indust.Eng.",
     40,
-    4
+    21
    ],
    [
     "2025-2026-bahar",
@@ -8229,21 +8229,21 @@
     "SBP 120E",
     "Intr.to Cmp.Sys.in Urban Std.",
     75,
-    44
+    46
    ],
    [
     "2026-2027-guz",
     "SBP 207E",
     "Project III: Site Plan.\u0026Design",
     8,
-    1
+    8
    ],
    [
     "2026-2027-guz",
     "SBP 4029E",
     "Other Worlds",
     55,
-    14
+    16
    ],
    [
     "2025-2026-bahar",
@@ -8772,7 +8772,7 @@
     "EUT 319E",
     "Industrial Design Studio II",
     20,
-    11
+    13
    ],
    [
     "2025-2026-bahar",
@@ -9127,7 +9127,7 @@
     "MAK 104E",
     "Intr to Comp in Mech. Eng (C)",
     40,
-    27
+    40
    ],
    [
     "2026-2027-guz",
@@ -9671,14 +9671,14 @@
     "CHZ 103",
     "Cevher Haz. Müh. Giriş ve Etik",
     70,
-    21
+    22
    ],
    [
     "2026-2027-guz",
     "CHZ 314",
     "Cevher Haz. Tesis Otomasyonu",
     50,
-    33
+    46
    ],
    [
     "2026-2027-guz",
@@ -10605,21 +10605,21 @@
     "MET 220",
     "Mühendislik Matematiği",
     60,
-    11
+    51
    ],
    [
     "2026-2027-guz",
     "MET 220E",
     "Engineering Mathematics",
     60,
-    14
+    56
    ],
    [
     "2026-2027-guz",
     "MET 339",
     "Malzeme Karakterizasyon Lab.",
     90,
-    58
+    69
    ],
    [
     "2026-2027-guz",
@@ -10758,7 +10758,7 @@
     "JEO 112",
     "Genel Jeoloji",
     45,
-    4
+    28
    ],
    [
     "2026-2027-guz",
@@ -11079,21 +11079,21 @@
     "MAT 210E",
     "Engineering Mathematics",
     90,
-    38
+    81
    ],
    [
     "2026-2027-guz",
     "MAT 210E",
     "Engineering Mathematics",
     90,
-    18
+    79
    ],
    [
     "2026-2027-guz",
     "MAT 210E",
     "Engineering Mathematics",
     50,
-    2
+    20
    ],
    [
     "2025-2026-yaz",

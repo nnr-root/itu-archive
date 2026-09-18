@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-17T22:54:10Z",
+ "scrapedAt": "2026-09-18T07:23:30Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5311,
- "courses": 3778,
+ "sections": 5315,
+ "courses": 3782,
  "branches": [
   {
    "code": "ABM",
@@ -508,7 +508,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 10
+   "sections": 11
   },
   {
    "code": "GDP",
@@ -925,7 +925,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 8
+   "sections": 11
   },
   {
    "code": "MDK",
@@ -1629,11 +1629,11 @@
   }
  ],
  "stats": {
-  "sections": 5311,
-  "courses": 3778,
+  "sections": 5315,
+  "courses": 3782,
   "branches": 228,
-  "instructors": 1800,
-  "capacity": 253313,
-  "enrolled": 73139
+  "instructors": 1801,
+  "capacity": 253974,
+  "enrolled": 91919
  }
 }
