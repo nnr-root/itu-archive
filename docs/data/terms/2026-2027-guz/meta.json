@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-18T07:23:30Z",
+ "scrapedAt": "2026-09-18T13:01:13Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5315,
- "courses": 3782,
+ "sections": 5324,
+ "courses": 3788,
  "branches": [
   {
    "code": "ABM",
@@ -26,7 +26,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 4
+   "sections": 5
   },
   {
    "code": "ALG",
@@ -181,7 +181,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 8
+   "sections": 9
   },
   {
    "code": "CAB",
@@ -202,7 +202,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 14
+   "sections": 15
   },
   {
    "code": "CEV",
@@ -273,7 +273,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 3
+   "sections": 4
   },
   {
    "code": "DCZ",
@@ -666,7 +666,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 199
+   "sections": 200
   },
   {
    "code": "INS",
@@ -737,7 +737,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 58
+   "sections": 59
   },
   {
    "code": "ITY",
@@ -1165,7 +1165,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 39
+   "sections": 40
   },
   {
    "code": "MYZ",
@@ -1300,7 +1300,7 @@
    "levels": [
     "OL"
    ],
-   "sections": 18
+   "sections": 20
   },
   {
    "code": "SAV",
@@ -1629,11 +1629,11 @@
   }
  ],
  "stats": {
-  "sections": 5315,
-  "courses": 3782,
+  "sections": 5324,
+  "courses": 3788,
   "branches": 228,
-  "instructors": 1801,
-  "capacity": 253974,
-  "enrolled": 91919
+  "instructors": 1803,
+  "capacity": 256386,
+  "enrolled": 104104
  }
 }

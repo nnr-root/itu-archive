@@ -20,7 +20,7 @@
    "5102"
   ],
   "capacity": 100,
-  "enrolled": 40,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [
    "EHB_LS"
@@ -49,7 +49,7 @@
    "5104"
   ],
   "capacity": 100,
-  "enrolled": 91,
+  "enrolled": 100,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -79,7 +79,7 @@
    "6309"
   ],
   "capacity": 80,
-  "enrolled": 59,
+  "enrolled": 79,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -111,7 +111,7 @@
    "5307"
   ],
   "capacity": 50,
-  "enrolled": 6,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -149,7 +149,7 @@
    "5304"
   ],
   "capacity": 90,
-  "enrolled": 82,
+  "enrolled": 90,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -248,8 +248,8 @@
    "5102"
   ],
   "capacity": 75,
-  "enrolled": 55,
-  "reserved": "EEE_LS/5/5 | Diğer/70/50",
+  "enrolled": 56,
+  "reserved": "EEE_LS/5/5 | Diğer/70/51",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -434,7 +434,7 @@
    "5302"
   ],
   "capacity": 80,
-  "enrolled": 78,
+  "enrolled": 80,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -477,7 +477,7 @@
    "5202"
   ],
   "capacity": 80,
-  "enrolled": 39,
+  "enrolled": 71,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -558,7 +558,7 @@
    "5204"
   ],
   "capacity": 90,
-  "enrolled": 27,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -938,7 +938,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 28,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1870,7 +1870,7 @@
    "5201"
   ],
   "capacity": 60,
-  "enrolled": 11,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "EHB_LS"
@@ -2277,7 +2277,7 @@
    "2102"
   ],
   "capacity": 70,
-  "enrolled": 35,
+  "enrolled": 49,
   "reserved": "-",
   "programs": [
    "EEE_LS",

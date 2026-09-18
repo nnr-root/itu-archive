@@ -6745,5 +6745,34 @@
   ],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "15612",
+  "code": "ITB 216E",
+  "branch": "ITB",
+  "level": "LS",
+  "name": "Economy and Society",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Murad Kayacan",
+  "buildings": [
+   "Gazimagusa-TAS_2"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "13:30/16:29"
+  ],
+  "rooms": [
+   "Amfi"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "EFN_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
  }
 ]
