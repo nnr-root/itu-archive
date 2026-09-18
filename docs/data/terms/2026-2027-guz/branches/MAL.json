@@ -52,7 +52,7 @@
   "rooms": [
    "3D20"
   ],
-  "capacity": 80,
+  "capacity": 85,
   "enrolled": 78,
   "reserved": "-",
   "programs": [
@@ -117,6 +117,7 @@
   "enrolled": 27,
   "reserved": "-",
   "programs": [
+   "CHZ_LS",
    "CHZE_LS",
    "JEO_LS",
    "JEOE_LS",

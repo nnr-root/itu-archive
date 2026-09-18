@@ -20,7 +20,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 28,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -53,7 +53,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 40,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -116,7 +116,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 40,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -149,7 +149,7 @@
    "ZD1"
   ],
   "capacity": 50,
-  "enrolled": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -577,7 +577,7 @@
   "rooms": [
    "1D6"
   ],
-  "capacity": 40,
+  "capacity": 50,
   "enrolled": 40,
   "reserved": "-",
   "programs": [
@@ -643,7 +643,7 @@
   "rooms": [
    "ZA3"
   ],
-  "capacity": 60,
+  "capacity": 90,
   "enrolled": 60,
   "reserved": "-",
   "programs": [

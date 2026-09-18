@@ -20,7 +20,7 @@
    "3D20"
   ],
   "capacity": 90,
-  "enrolled": 64,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "DEN_LS",
@@ -54,7 +54,7 @@
    "ZA4"
   ],
   "capacity": 90,
-  "enrolled": 80,
+  "enrolled": 81,
   "reserved": "-",
   "programs": [
    "DEN_LS",
@@ -326,7 +326,7 @@
   "rooms": [
    "2D16"
   ],
-  "capacity": 30,
+  "capacity": 35,
   "enrolled": 30,
   "reserved": "-",
   "programs": [
@@ -357,7 +357,7 @@
   "rooms": [
    "2D12"
   ],
-  "capacity": 30,
+  "capacity": 35,
   "enrolled": 30,
   "reserved": "-",
   "programs": [
@@ -418,7 +418,7 @@
   "rooms": [
    "1D5"
   ],
-  "capacity": 40,
+  "capacity": 48,
   "enrolled": 40,
   "reserved": "-",
   "programs": [

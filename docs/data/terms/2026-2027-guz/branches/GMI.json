@@ -280,8 +280,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 70,
-  "enrolled": 70,
+  "capacity": 75,
+  "enrolled": 74,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -338,7 +338,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 40,
+  "capacity": 45,
   "enrolled": 35,
   "reserved": "-",
   "programs": [
@@ -542,7 +542,7 @@
    "--"
   ],
   "capacity": 16,
-  "enrolled": 6,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -687,7 +687,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -716,7 +716,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 31,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -774,7 +774,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 23,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -803,7 +803,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 18,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -831,8 +831,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 50,
-  "enrolled": 50,
+  "capacity": 60,
+  "enrolled": 53,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -1156,7 +1156,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 50,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "GMI_LS"

@@ -78,7 +78,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 10,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -137,7 +137,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "DUI_LS",
@@ -485,8 +485,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 50,
-  "enrolled": 50,
+  "capacity": 55,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "GMI_LS"
