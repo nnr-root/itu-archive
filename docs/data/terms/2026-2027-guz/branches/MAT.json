@@ -24,7 +24,7 @@
    "--"
   ],
   "capacity": 260,
-  "enrolled": 248,
+  "enrolled": 249,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -201,7 +201,7 @@
    "--"
   ],
   "capacity": 260,
-  "enrolled": 138,
+  "enrolled": 139,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -1523,7 +1523,7 @@
    "--"
   ],
   "capacity": 550,
-  "enrolled": 276,
+  "enrolled": 277,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -2564,7 +2564,7 @@
    "A14"
   ],
   "capacity": 140,
-  "enrolled": 136,
+  "enrolled": 139,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2759,7 +2759,7 @@
    "--"
   ],
   "capacity": 580,
-  "enrolled": 564,
+  "enrolled": 566,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -4090,6 +4090,7 @@
   "reserved": "-",
   "programs": [
    "UCK_LS",
+   "UZB_LS",
    "UZBE_LS"
   ],
   "prereq": "Detay",
@@ -4350,7 +4351,7 @@
    "A205"
   ],
   "capacity": 90,
-  "enrolled": 85,
+  "enrolled": 86,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -5506,7 +5507,7 @@
    "D102"
   ],
   "capacity": 50,
-  "enrolled": 46,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "MAT_LS"
@@ -5535,7 +5536,7 @@
    "D204"
   ],
   "capacity": 50,
-  "enrolled": 35,
+  "enrolled": 36,
   "reserved": "-",
   "programs": [
    "MAT_LS"
@@ -5627,7 +5628,7 @@
    "D105"
   ],
   "capacity": 50,
-  "enrolled": 18,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "MAT_LS",
@@ -5913,8 +5914,8 @@
    "A32"
   ],
   "capacity": 60,
-  "enrolled": 47,
-  "reserved": "END_LS/2/1 | ENDE_LS/2/0 | ECNE_LS/5/4 | FIZ_LS/3/3 | Diğer/48/39",
+  "enrolled": 46,
+  "reserved": "END_LS/2/1 | ENDE_LS/2/0 | ECNE_LS/5/4 | FIZ_LS/3/3 | Diğer/48/38",
   "programs": [
    "ECNE_LS",
    "END_LS",
@@ -6078,8 +6079,8 @@
    "D103"
   ],
   "capacity": 65,
-  "enrolled": 59,
-  "reserved": "ECNE_LS/5/1 | Diğer/60/58",
+  "enrolled": 60,
+  "reserved": "ECNE_LS/5/1 | Diğer/60/59",
   "programs": [
    "ECNE_LS",
    "MAT_LS",
@@ -6391,7 +6392,7 @@
    "--"
   ],
   "capacity": 70,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "CEN_LS",
@@ -6487,7 +6488,7 @@
    "2D17"
   ],
   "capacity": 40,
-  "enrolled": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "GEM_LS"

@@ -1794,7 +1794,7 @@
     "2026-2027-guz",
     "SBP 312E",
     "Proj.VI:Spatial Plan.in Act.",
-    25,
+    30,
     25
    ],
    [
@@ -2499,14 +2499,14 @@
     "EHB 4901",
     "Elektronik \u0026 Hab. Müh. Tas .I",
     500,
-    67
+    65
    ],
    [
     "2026-2027-guz",
     "EHB 4901E",
     "Elect.\u0026Comm. Eng. Design I",
     500,
-    152
+    155
    ],
    [
     "2026-2027-guz",
@@ -5457,21 +5457,21 @@
     "2026-2027-guz",
     "MIM 211",
     "Mimari Proje III",
-    15,
+    17,
     15
    ],
    [
     "2026-2027-guz",
     "MIM 212",
     "Mimari Proje IV",
-    3,
+    2,
     1
    ],
    [
     "2026-2027-guz",
     "MIM 4036",
     "Mimarlıkta Temsil ve Sunum",
-    20,
+    23,
     20
    ],
    [
@@ -6197,7 +6197,7 @@
     "2026-2027-guz",
     "MIM 211E",
     "Architectural Design III",
-    16,
+    17,
     16
    ],
    [
@@ -6923,7 +6923,7 @@
     "DFH 201E",
     "Basic Swimming Skills",
     35,
-    35
+    34
    ],
    [
     "2025-2026-bahar",
@@ -9073,7 +9073,7 @@
     "2026-2027-guz",
     "MIM 4053E",
     "Tall Building Structures",
-    30,
+    32,
     30
    ],
    [
@@ -9542,7 +9542,7 @@
     "BIL 100E",
     "Intr.to Prog.Language(PYTHON)",
     70,
-    19
+    20
    ],
    [
     "2025-2026-yaz",
@@ -12255,7 +12255,7 @@
     "2026-2027-guz",
     "MIM 4074E",
     "Stru.Sys.Pro.of Mon.\u0026Hist.Cons",
-    30,
+    32,
     30
    ],
    [
@@ -14977,7 +14977,7 @@
     "TER 201E",
     "Thermodynamics",
     60,
-    59
+    60
    ],
    [
     "2025-2026-bahar",
@@ -15004,7 +15004,7 @@
     "MAD 407",
     "Maden Makinaları",
     65,
-    62
+    63
    ],
    [
     "2026-2027-guz",
@@ -18208,7 +18208,7 @@
     "2026-2027-guz",
     "SBP 411",
     "Proje VII: Kentsel Tasarım",
-    10,
+    12,
     10
    ],
    [
@@ -23656,7 +23656,7 @@
     "TES 113E",
     "Basic Design and Visual Arts",
     45,
-    19
+    20
    ],
    [
     "2025-2026-bahar",
@@ -25690,7 +25690,7 @@
     "GEO 203",
     "Koord. Sist. Ve Jeodezi I",
     50,
-    34
+    33
    ],
    [
     "2025-2026-guz",
@@ -29137,6 +29137,13 @@
   "name": "Hülya Cebeci",
   "rows": [
    [
+    "2026-2027-guz",
+    "UCK 435E",
+    "Design of Aerospace Structures",
+    40,
+    0
+   ],
+   [
     "2025-2026-bahar",
     "UCK 236E",
     "Composite Materials",
@@ -29340,7 +29347,7 @@
     30
    ]
   ],
-  "terms": 15
+  "terms": 16
  },
  "Hülya Kurt": {
   "name": "Hülya Kurt",
@@ -29719,7 +29726,7 @@
     "2026-2027-guz",
     "MIM 203",
     "Mimarlıkta Yapı ve Yapım",
-    115,
+    118,
     115
    ],
    [
@@ -30054,7 +30061,7 @@
     "MAK 305",
     "Sistem Dinamiği ve Kontrol",
     55,
-    41
+    46
    ],
    [
     "2025-2026-bahar",
@@ -30444,7 +30451,7 @@
     "ISL 223E",
     "Fundm.of Production Management",
     80,
-    52
+    54
    ],
    [
     "2026-2027-guz",
@@ -30867,7 +30874,7 @@
     "CHZ 421",
     "Cevher Haz. Proses Tasarımı",
     80,
-    76
+    77
    ],
    [
     "2026-2027-guz",
@@ -33955,7 +33962,7 @@
     "UZB 112E",
     "Computer Aided Drafting",
     40,
-    23
+    22
    ],
    [
     "2026-2027-guz",
@@ -33976,7 +33983,7 @@
     "UZB 112",
     "Bilgisayarla Teknik Resim",
     50,
-    45
+    46
    ],
    [
     "2025-2026-yaz",
@@ -34346,7 +34353,7 @@
     "END 308",
     "Kalite Mühendisliği",
     60,
-    47
+    46
    ],
    [
     "2026-2027-guz",

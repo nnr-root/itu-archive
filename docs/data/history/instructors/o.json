@@ -626,7 +626,7 @@
     "ISL 224E",
     "Cost Accounting",
     80,
-    57
+    56
    ],
    [
     "2026-2027-guz",
@@ -1064,7 +1064,7 @@
     "KON 315E",
     "Electronic Instrumentation",
     50,
-    31
+    30
    ],
    [
     "2026-2027-guz",
@@ -1362,7 +1362,7 @@
     "EHB 420E",
     "Artificial Neural Networks",
     100,
-    95
+    97
    ],
    [
     "2025-2026-bahar",
@@ -1834,7 +1834,7 @@
     "EEF 211E",
     "Basics of Electrical Circuits",
     80,
-    34
+    35
    ],
    [
     "2026-2027-guz",
@@ -2007,14 +2007,14 @@
     "UCK 474E",
     "Aircraft Engine Design",
     40,
-    26
+    25
    ],
    [
     "2026-2027-guz",
     "UCK 4901",
     "Uçak Müh. Tasarımı I",
     200,
-    80
+    81
    ],
    [
     "2026-2027-guz",
@@ -5168,7 +5168,7 @@
     "CHZ 224E",
     "Surface and Colloid Chemistry",
     60,
-    39
+    40
    ],
    [
     "2026-2027-guz",
@@ -7450,7 +7450,7 @@
     "EEF 271E",
     "Probability and Statistics",
     95,
-    72
+    77
    ],
    [
     "2026-2027-guz",
@@ -7477,7 +7477,7 @@
     "EEF 205E",
     "Introduction to Logic Design",
     95,
-    74
+    76
    ],
    [
     "2026-2027-guz",
@@ -9694,14 +9694,14 @@
     "TES 111E",
     "Project I",
     55,
-    53
+    54
    ],
    [
     "2026-2027-guz",
     "TES 112E",
     "Vis.Comm.I:Visualiz.\u0026Tch.Drw.",
     500,
-    356
+    359
    ],
    [
     "2025-2026-bahar",
@@ -10224,7 +10224,7 @@
     "MIM 4069E",
     "Earthquake Resist.Building Dsg",
     25,
-    21
+    23
    ],
    [
     "2025-2026-bahar",
@@ -11662,6 +11662,13 @@
     "HYM 504E",
     "Fracture Mechanics\u0026Fatigue",
     20,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "UCK 435E",
+    "Design of Aerospace Structures",
+    40,
     0
    ],
    [
@@ -14178,7 +14185,7 @@
     "VBA 315E",
     "Machine Learning",
     60,
-    13
+    14
    ],
    [
     "2026-2027-guz",
@@ -15828,7 +15835,7 @@
     "EFN 211E",
     "Statistical Meth. in Economics",
     40,
-    20
+    21
    ],
    [
     "2026-2027-guz",
@@ -18157,7 +18164,7 @@
     "CEN 101E",
     "Intr. to Information Systems",
     80,
-    21
+    22
    ],
    [
     "2025-2026-yaz",
@@ -18870,7 +18877,7 @@
     "JEO 455",
     "Mühendislik Tasarımında Bilgisayar Uygulamaları",
     15,
-    3
+    2
    ],
    [
     "2026-2027-guz",
@@ -20054,7 +20061,7 @@
     "CEV 301E",
     "Chemical Processes",
     45,
-    38
+    39
    ],
    [
     "2025-2026-bahar",
@@ -20116,7 +20123,7 @@
     "DUI 341E",
     "Maritime Practical Studies",
     12,
-    8
+    7
    ],
    [
     "2026-2027-guz",
@@ -22728,13 +22735,6 @@
   "rows": [
    [
     "2026-2027-guz",
-    "DNK 201",
-    "Dinamik",
-    70,
-    70
-   ],
-   [
-    "2026-2027-guz",
     "UCK 459E",
     "Helicopter Theory",
     60,
@@ -23245,8 +23245,8 @@
     "2026-2027-guz",
     "MET 435E",
     "PST Desg.\u0026Prj.Mng. and Innov.",
-    120,
-    120
+    125,
+    125
    ],
    [
     "2026-2027-guz",
@@ -28635,7 +28635,7 @@
     "CEV 433",
     "Tehlikeli Atık Yönetimi",
     30,
-    3
+    5
    ],
    [
     "2026-2027-guz",
@@ -30332,7 +30332,7 @@
     "MAL 201E",
     "Materials Science",
     40,
-    27
+    28
    ],
    [
     "2026-2027-guz",

@@ -20,7 +20,7 @@
    "--"
   ],
   "capacity": 140,
-  "enrolled": 139,
+  "enrolled": 140,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -200,7 +200,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 48,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -230,7 +230,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 57,
+  "enrolled": 58,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -260,7 +260,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 55,
+  "enrolled": 57,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -284,7 +284,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 169,
+  "enrolled": 170,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -1340,7 +1340,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 56,
+  "enrolled": 57,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -1823,7 +1823,7 @@
    "--"
   ],
   "capacity": 120,
-  "enrolled": 97,
+  "enrolled": 96,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -1953,7 +1953,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -2048,7 +2048,7 @@
    "--"
   ],
   "capacity": 70,
-  "enrolled": 58,
+  "enrolled": 59,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -2413,7 +2413,7 @@
    "--"
   ],
   "capacity": 100,
-  "enrolled": 97,
+  "enrolled": 98,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -2629,7 +2629,7 @@
    "--"
   ],
   "capacity": 55,
-  "enrolled": 41,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -2787,7 +2787,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 3,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -2879,7 +2879,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 8,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -2909,7 +2909,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 18,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -3093,7 +3093,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 5,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "MAK_LS"

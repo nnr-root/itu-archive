@@ -536,7 +536,7 @@
    "1D7"
   ],
   "capacity": 15,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -597,7 +597,7 @@
    "1D6"
   ],
   "capacity": 15,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -816,7 +816,7 @@
    "1D7"
   ],
   "capacity": 20,
-  "enrolled": 19,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -1885,5 +1885,29 @@
   "programs": [],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "15622",
+  "code": "MTO 494",
+  "branch": "MTO",
+  "level": "LS",
+  "name": "Araştırma Projesi",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Şeyda Tilev",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 3,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "IBM_LS",
+   "MTO_LS"
+  ],
+  "prereq": "-",
+  "classReq": "Detay"
  }
 ]

@@ -78,7 +78,7 @@
    "D378"
   ],
   "capacity": 50,
-  "enrolled": 19,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "TEK_LS",
@@ -156,7 +156,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Erol Demirkan",
   "buildings": [
-   "MDB"
+   "MED"
   ],
   "days": [
    "Perşembe"
@@ -165,10 +165,10 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "A105"
+   "A33"
   ],
-  "capacity": 120,
-  "enrolled": 120,
+  "capacity": 121,
+  "enrolled": 121,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -202,7 +202,7 @@
    "A501"
   ],
   "capacity": 100,
-  "enrolled": 57,
+  "enrolled": 59,
   "reserved": "-",
   "programs": [
    "CHZ_LS",

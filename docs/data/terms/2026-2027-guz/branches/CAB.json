@@ -109,8 +109,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 15,
-  "enrolled": 15,
+  "capacity": 20,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "MTR_LS",
@@ -142,8 +142,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 15,
-  "enrolled": 15,
+  "capacity": 17,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "MTR_LS",
@@ -208,8 +208,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 16,
-  "enrolled": 16,
+  "capacity": 20,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "MTR_LS",
@@ -1737,8 +1737,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 5,
-  "enrolled": 5,
+  "capacity": 10,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "THO_LS"
@@ -3373,7 +3373,7 @@
    "--"
   ],
   "capacity": 5,
-  "enrolled": 3,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "MUZ_LS",
@@ -3930,7 +3930,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 24,
+  "capacity": 25,
   "enrolled": 24,
   "reserved": "-",
   "programs": [
@@ -3962,7 +3962,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 15,
+  "capacity": 18,
   "enrolled": 15,
   "reserved": "-",
   "programs": [
@@ -4907,8 +4907,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 5,
-  "enrolled": 5,
+  "capacity": 10,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [
    "THO_LS"
@@ -5139,8 +5139,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 15,
-  "enrolled": 15,
+  "capacity": 22,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "MTR_LS",
