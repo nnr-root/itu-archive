@@ -1000,6 +1000,7 @@
   "reserved": "-",
   "programs": [
    "TEK_LS",
+   "TEK_YD",
    "TEKE_LS"
   ],
   "prereq": "Detay",
@@ -1030,6 +1031,7 @@
   "reserved": "-",
   "programs": [
    "TEK_LS",
+   "TEK_YD",
    "TEKE_LS"
   ],
   "prereq": "Detay",

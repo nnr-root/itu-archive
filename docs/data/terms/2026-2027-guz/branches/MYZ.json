@@ -567,5 +567,35 @@
   ],
   "prereq": "Detay",
   "classReq": "-"
+ },
+ {
+  "crn": "15623",
+  "code": "MYZ 301E",
+  "branch": "MYZ",
+  "level": "LS",
+  "name": "Introduction to Artificial Intelligence for Engineering",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Özlem İpek Kalaoğlu Altan",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "08:30/11:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 30,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "TEK_YD",
+   "TEKE_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
  }
 ]

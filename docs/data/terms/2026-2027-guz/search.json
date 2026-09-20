@@ -93104,6 +93104,7 @@
   "Fiziksel (Yüz yüze)",
   [
    "TEK_LS",
+   "TEK_YD",
    "TEKE_LS"
   ]
  ],
@@ -93133,6 +93134,7 @@
   "Fiziksel (Yüz yüze)",
   [
    "TEK_LS",
+   "TEK_YD",
    "TEKE_LS"
   ]
  ],
@@ -93972,7 +93974,7 @@
   "SPA 101",
   "Spanish I",
   "SPA",
-  "-",
+  "Oğuzhan Coşkunlu",
   "Pazartesi 13:30/16:29",
   30,
   29,
@@ -122028,7 +122030,7 @@
   "ENT",
   "Demet Günal Ertaş",
   "Salı 13:30/17:29 | Cuma 14:00/17:59",
-  18,
+  22,
   18,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -122046,7 +122048,7 @@
   "ENT",
   "Pelin Öztürk",
   "Salı 13:30/17:29 | Cuma 14:00/17:59",
-  18,
+  22,
   18,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -122064,7 +122066,7 @@
   "ENT",
   "Yağmur Gizem Çıplak",
   "Salı 13:30/17:29 | Cuma 14:00/17:59",
-  18,
+  22,
   18,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -122462,7 +122464,7 @@
   "EUT",
   "Özge Çelikoğlu",
   "Salı 13:30/17:29 | Cuma 14:00/17:59",
-  25,
+  31,
   25,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -122480,7 +122482,7 @@
   "EUT",
   "Ahmet Hamurcu",
   "Salı 13:30/17:29 | Cuma 14:00/17:59",
-  25,
+  31,
   25,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -136323,6 +136325,22 @@
   [
    "IBM_LS",
    "MTO_LS"
+  ]
+ ],
+ [
+  "15623",
+  "MYZ 301E",
+  "Introduction to Artificial Intelligence for Engineering",
+  "MYZ",
+  "Özlem İpek Kalaoğlu Altan",
+  "Pazartesi 08:30/11:29",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "TEK_YD",
+   "TEKE_LS"
   ]
  ]
 ]

@@ -2675,9 +2675,9 @@
 12867,YIP 513E,YIP,LU,Contract Administration,Fiziksel (Yüz yüze),Gürkan Emre Gürcanlı,undeclared,Perşembe,09:30/12:29,--,20,0,-,,-,-
 12868,TEK 309E,TEK,LS,Machine Elements,Fiziksel (Yüz yüze),İpek Yalçın Eniş,MKB,Perşembe,14:30/17:29,D374,35,14,-,"TEK_YD, TEKE_LS",Detay,-
 12869,YIP 522,YIP,LU,İnşaat Projelerin.Kaynak Yön.,Fiziksel (Yüz yüze),Atilla Damcı,undeclared,Perşembe,13:30/16:29,--,15,0,-,,-,-
-12870,TEK 345E,TEK,LS,Clothing Technology,Fiziksel (Yüz yüze),Aslı Tunçay Atalay,MKB,Salı,08:30/11:29,D359,35,28,-,"TEK_LS, TEKE_LS",Detay,-
+12870,TEK 345E,TEK,LS,Clothing Technology,Fiziksel (Yüz yüze),Aslı Tunçay Atalay,MKB,Salı,08:30/11:29,D359,35,28,-,"TEK_LS, TEK_YD, TEKE_LS",Detay,-
 12871,HBM 596,HBM,LU,"Bilimsel Araş.,Etik ve Seminer",Fiziksel (Yüz yüze),Fethiye Aylin Sungur,BEB,Çarşamba,15:30/17:29,--,15,0,-,,-,-
-12872,TEK 345E,TEK,LS,Clothing Technology,Fiziksel (Yüz yüze),Aslı Tunçay Atalay,MKB,Cuma,14:30/17:29,D357,35,35,-,"TEK_LS, TEKE_LS",Detay,-
+12872,TEK 345E,TEK,LS,Clothing Technology,Fiziksel (Yüz yüze),Aslı Tunçay Atalay,MKB,Cuma,14:30/17:29,D357,35,35,-,"TEK_LS, TEK_YD, TEKE_LS",Detay,-
 12873,HBM 513E,HBM,LU,Parallel&Distributed Comput.,Fiziksel (Yüz yüze),Mustafa Serdar Çelebi,BEB,Pazartesi,13:30/16:29,--,25,0,-,,-,-
 12874,TEK 361E,TEK,LS,Mechanisms,Fiziksel (Yüz yüze),Şule Selçuk,MKB,Pazartesi,08:30/11:29,D376,50,29,-,"IML_LS, TEK_LS, TEKE_LS",Detay,-
 12875,TEK 401E,TEK,LS,Design of Woven Fabrics,Fiziksel (Yüz yüze),Burçak Karagüzel Kayaoğlu,undeclared,Pazartesi,13:00/15:59,--,40,35,-,"TEK_YD, TEKE_LS",Detay,-
@@ -2738,7 +2738,7 @@
 12931,LAT 147,LAT,LS,The Forensics of Fiber Analys.,Fiziksel (Yüz yüze),Hale Karakaş,MKB,Perşembe,13:30/16:29,D380B,30,25,-,SMT_LS,-,-
 12932,KMM 511E,KMM,LU,Engineering Mathematics,Fiziksel (Yüz yüze),Elif Öztürk Er,undeclared,Salı,09:30/12:29,--,60,0,-,,-,-
 12933,KMM 503E,KMM,LU,Advanced Process Control I,Fiziksel (Yüz yüze),Hikmet İskender,undeclared,Salı,13:30/16:29,--,12,0,-,,-,-
-12934,SPA 101,SPA,LS,Spanish I,Fiziksel (Yüz yüze),-,MKB,Pazartesi,13:30/16:29,--,30,29,-,"SMT_LS, STP_LS",-,-
+12934,SPA 101,SPA,LS,Spanish I,Fiziksel (Yüz yüze),Oğuzhan Coşkunlu,MKB,Pazartesi,13:30/16:29,--,30,29,-,"SMT_LS, STP_LS",-,-
 12935,KMM 612E,KMM,LU,Advan.Mass Tran.in Chem.Eng.,Fiziksel (Yüz yüze),Melek Mümine Erol Taygun,undeclared,Çarşamba,09:30/12:29,--,12,0,-,,-,-
 12936,KMM 538E,KMM,LU,Molecular Simulati.Methods,Fiziksel (Yüz yüze),Ayşe Özge Kürkçüoğlu Levitas,undeclared,Çarşamba,09:00/11:59,--,12,0,-,,-,-
 12937,KMM 505E,KMM,LU,Solid Fuel Conversion Tech.,Fiziksel (Yüz yüze),Serdar Yaman,undeclared,Çarşamba,09:30/12:29,--,12,0,-,,-,-
@@ -4460,9 +4460,9 @@
 14722,TES 113E,TES,LS,Basic Design and Visual Arts,Fiziksel (Yüz yüze),Hatice Kübra Yıldız,undeclared,Çarşamba,08:30/12:29,--,45,20,ARC_LS/4/0 | ENTE_LS/4/4 | IAD_LS/4/1 | ICM_LS/4/4 | MIM_LS/7/2 | MIME_LS/6/6 | PEME_LS/5/0 | SBP_LS/5/1 | SBPE_LS/5/2 | SAS_LS/1/0 | Diğer/0/0,"ARC_LS, ENTE_LS, EUTE_LS, IAD_LS, ICM_LS, MIM_LS, MIME_LS, PEM_LS, PEME_LS, SAS_LS, SBP_LS, SBPE_LS",-,-
 14723,EUT 117E,EUT,LS,Int.to Indus.Prod.Dsgn.&Ethics,Fiziksel (Yüz yüze),"Meltem Maralcan Gülmen , Elif Küçüksayraç , Layıka Ney Ece Arıburun Kırca",undeclared,Perşembe,13:30/16:29,--,90,69,-,"ENT_LS, ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
 14724,EUT 204E,EUT,LS,Manufacturing Methods,Fiziksel (Yüz yüze),Demet Günal Ertaş,undeclared,Pazartesi,13:30/17:29,--,10,0,-,"EUT_LS, EUT_YD, EUTE_LS",-,-
-14725,ENT 211E,ENT,LS,Industrial Design Studio,Fiziksel (Yüz yüze),Demet Günal Ertaş,undeclared | undeclared,Salı | Cuma,13:30/17:29 | 14:00/17:59,-- | --,18,18,-,"ENT_LS, ENTE_LS, EUT_LS, EUTE_LS",Detay,-
-14726,ENT 211E,ENT,LS,Industrial Design Studio,Fiziksel (Yüz yüze),Pelin Öztürk,undeclared | undeclared,Salı | Cuma,13:30/17:29 | 14:00/17:59,-- | --,18,18,-,"ENT_LS, ENTE_LS, EUT_LS, EUTE_LS",Detay,-
-14727,ENT 211E,ENT,LS,Industrial Design Studio,Fiziksel (Yüz yüze),Yağmur Gizem Çıplak,undeclared | undeclared,Salı | Cuma,13:30/17:29 | 14:00/17:59,-- | --,18,18,-,"ENT_LS, ENTE_LS, EUT_LS, EUTE_LS",Detay,-
+14725,ENT 211E,ENT,LS,Industrial Design Studio,Fiziksel (Yüz yüze),Demet Günal Ertaş,undeclared | undeclared,Salı | Cuma,13:30/17:29 | 14:00/17:59,-- | --,22,18,-,"ENT_LS, ENTE_LS, EUT_LS, EUTE_LS",Detay,-
+14726,ENT 211E,ENT,LS,Industrial Design Studio,Fiziksel (Yüz yüze),Pelin Öztürk,undeclared | undeclared,Salı | Cuma,13:30/17:29 | 14:00/17:59,-- | --,22,18,-,"ENT_LS, ENTE_LS, EUT_LS, EUTE_LS",Detay,-
+14727,ENT 211E,ENT,LS,Industrial Design Studio,Fiziksel (Yüz yüze),Yağmur Gizem Çıplak,undeclared | undeclared,Salı | Cuma,13:30/17:29 | 14:00/17:59,-- | --,22,18,-,"ENT_LS, ENTE_LS, EUT_LS, EUTE_LS",Detay,-
 14728,ENT 213E,ENT,LS,Design Models and Prototypes,Fiziksel (Yüz yüze),Yağmur Gizem Çıplak,undeclared,Pazartesi,09:30/12:29,--,35,35,-,"ENT_LS, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
 14729,ENT 213E,ENT,LS,Design Models and Prototypes,Fiziksel (Yüz yüze),Pelin Öztürk,undeclared,Pazartesi,13:30/16:29,--,35,33,-,"ENT_LS, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
 14730,EUT 220E,EUT,LS,Industrial Design Studio I,Fiziksel (Yüz yüze),Cemal İrfan Çalışkan,undeclared | undeclared,Salı | Cuma,13:30/17:29 | 14:00/17:59,-- | --,20,9,-,"ENT_LS, ENTE_LS, EUT_LS, EUTE_LS",Detay,-
@@ -4483,8 +4483,8 @@
 14745,EUT 367E,EUT,LS,Intr. to Mechanical Design,Fiziksel (Yüz yüze),Eren Mutlu,undeclared,Perşembe,08:30/12:29,--,90,62,-,"ENT_LS, ENTE_LS, EUT_YD, EUTE_LS",-,-
 14746,ENT 374E,ENT,LS,Graphic Design,Fiziksel (Yüz yüze),Koray Gelmez,undeclared,Pazartesi,13:30/16:29,--,30,30,-,"ENT_LS, ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
 14747,ENT 383E,ENT,LS,Dig.Protot.&Manuf. in Ind.Des.,Fiziksel (Yüz yüze),Cemal İrfan Çalışkan,undeclared,Pazartesi,13:30/16:29,--,30,30,-,"ENT_LS, ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
-14748,EUT 419E,EUT,LS,Industrial Design Studio IV,Fiziksel (Yüz yüze),Özge Çelikoğlu,undeclared | undeclared,Salı | Cuma,13:30/17:29 | 14:00/17:59,-- | --,25,25,-,"ENT_LS, ENTE_LS, EUT_YD, EUTE_LS",Detay,-
-14749,EUT 419E,EUT,LS,Industrial Design Studio IV,Fiziksel (Yüz yüze),Ahmet Hamurcu,undeclared | undeclared,Salı | Cuma,13:30/17:29 | 14:00/17:59,-- | --,25,25,-,"ENT_LS, ENTE_LS, EUT_YD, EUTE_LS",Detay,-
+14748,EUT 419E,EUT,LS,Industrial Design Studio IV,Fiziksel (Yüz yüze),Özge Çelikoğlu,undeclared | undeclared,Salı | Cuma,13:30/17:29 | 14:00/17:59,-- | --,31,25,-,"ENT_LS, ENTE_LS, EUT_YD, EUTE_LS",Detay,-
+14749,EUT 419E,EUT,LS,Industrial Design Studio IV,Fiziksel (Yüz yüze),Ahmet Hamurcu,undeclared | undeclared,Salı | Cuma,13:30/17:29 | 14:00/17:59,-- | --,31,25,-,"ENT_LS, ENTE_LS, EUT_YD, EUTE_LS",Detay,-
 14750,EUT 423E,EUT,LS,Cult.and Com.in Product Design,Fiziksel (Yüz yüze),Özge Çelikoğlu,undeclared,Perşembe,13:30/15:29,--,90,78,-,"ENT_LS, ENTE_LS, EUT_YD, EUTE_LS",-,-
 14751,ENT 429E,ENT,LS,Sustainable Product Design,Fiziksel (Yüz yüze),Elif Küçüksayraç,undeclared,Pazartesi,13:30/16:29,--,30,22,-,"ENT_LS, ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
 14752,ENT 441E,ENT,LS,New Product Development,Fiziksel (Yüz yüze),Ekrem Cem Alppay,undeclared,Pazartesi,09:30/12:29,--,100,96,-,"ENT_LS, ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
@@ -5324,3 +5324,4 @@
 15620,SAO 251,SAO,OL,Kriptolojinin Temelleri,Fiziksel (Yüz yüze),Anıl Suat Terliksiz,BEB,Çarşamba,08:30/11:29,317,10,10,-,SAO_OL,Detay,-
 15621,SAO 258,SAO,OL,İnternet Programlama,Fiziksel (Yüz yüze),Murat Sekmen,BEB,Çarşamba,08:30/11:29,--,10,4,-,SAO_OL,Detay,-
 15622,MTO 494,MTO,LS,Araştırma Projesi,Fiziksel (Yüz yüze),Şeyda Tilev,,,-/-,,3,0,-,"IBM_LS, MTO_LS",-,Detay
+15623,MYZ 301E,MYZ,LS,Introduction to Artificial Intelligence for Engineering,Fiziksel (Yüz yüze),Özlem İpek Kalaoğlu Altan,undeclared,Pazartesi,08:30/11:29,--,30,0,-,"TEK_YD, TEKE_LS",Detay,-
