@@ -1676,7 +1676,7 @@
 11755,MTO 225,MTO,LS,Güneş ve Yer Radyasyonu,Fiziksel (Yüz yüze),-,MEDC,Perşembe,14:30/17:29,2D11,35,35,-,"IBM_LS, MTO_LS, MTO_LS, MTOE_LS",-,-
 11756,MTO 225E,MTO,LS,Solar & Terrestrial Radiation,Fiziksel (Yüz yüze),-,MEDC,Perşembe,14:30/17:29,1D9,35,30,-,"IBM_LS, MTO_LS, MTO_LS, MTOE_LS",-,-
 11757,MTO 227,MTO,LS,Ekosistem Ekolojisi,Fiziksel (Yüz yüze),Barış Çaldağ,MEDC,Pazartesi,14:30/17:29,2D11,18,18,-,"IBM_LS, MTO_LS",-,-
-11758,MTO 229E,MTO,LS,Physics ofClouds&Precipitation,Fiziksel (Yüz yüze),Sevinç Asilhan,MEDC,Salı,14:30/17:29,2D14,63,61,-,"IBM_LS, IBM_YD, MTO_LS, MTO_YD",Detay,-
+11758,MTO 229E,MTO,LS,Physics ofClouds&Precipitation,Fiziksel (Yüz yüze),Sevinç Asilhan,MEDC,Salı,14:30/17:29,2D14,61,61,-,"IBM_LS, IBM_YD, MTO_LS, MTO_YD",Detay,-
 11759,MTO 301,MTO,LS,Meteo.Uzaktan Algılamanın Tem.,Fiziksel (Yüz yüze),Ahmet Öztopal,MEDC,Cuma,10:30/12:29,ZA1,50,50,-,"IBM_LS, MTO_LS",-,-
 11760,MTO 302E,MTO,LS,Wheather Analysis and Prediction I,Fiziksel (Yüz yüze),Emrah Tuncay Özdemir,MEDC | MEDC,Pazartesi | Salı,11:30/13:29 | 09:30/11:29,2D14 | 2D14,65,54,-,"IBM_LS, IBM_YD, MTO_LS, MTO_YD",Detay,-
 11761,MTO 303E,MTO,LS,Comput.Fluid Dyn.in Meteo.Eng.,Fiziksel (Yüz yüze),Elçin Tan,MEDC,Çarşamba,10:30/12:29,1D7,65,56,-,"IBM_LS, MTO_LS",Detay,-
@@ -4908,7 +4908,7 @@
 15185,DFH 113E,DFH,LS,Maritime Safety I,Fiziksel (Yüz yüze),"İsmail Kandemir , Muhammed Fatih Gülen",DZB,Cuma,14:00/17:59,--,30,6,-,"MEN_LS, MTM_LS",-,-
 15186,GMI 114E,GMI,LS,Materials Scie.&Manufact.Mth.,Fiziksel (Yüz yüze),Yasin Arslanoğlu,DZB,Çarşamba,13:30/15:29,--,40,19,-,MEN_LS,-,-
 15187,GMI 118E,GMI,LS,Introduction to Marine Engineering and Ethics,Fiziksel (Yüz yüze),Merve Gül Çıvgın,DZB,Pazartesi,12:30/15:29,--,40,19,-,MEN_LS,-,-
-15188,TUR 121,TUR,LS,Türk Dili I,Fiziksel (Yüz yüze),Sinan Çakır,DZB,Salı,13:30/15:29,--,80,30,-,"MEN_LS, MTM_LS",-,-
+15188,TUR 121,TUR,LS,Türk Dili I,Fiziksel (Yüz yüze),-,DZB,Salı,13:30/15:29,--,80,30,-,"MEN_LS, MTM_LS",-,-
 15189,DUI 231E,DUI,LS,Marine Communication,Fiziksel (Yüz yüze),Alaaddin Yıldıray Ertaş,DZB,Perşembe,15:30/17:29,--,40,24,-,MTM_LS,-,-
 15190,DUI 251E,DUI,LS,Meteorology,Fiziksel (Yüz yüze),Ayşe Nak,DZB,Pazartesi,14:30/17:29,--,40,31,-,MTM_LS,-,-
 15191,DUI 215E,DUI,LS,Terrestrial Navigation,Fiziksel (Yüz yüze),Tuba Keçeci,DZB,Salı,10:30/13:29,--,40,25,-,MTM_LS,-,-
