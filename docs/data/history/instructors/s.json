@@ -11387,6 +11387,13 @@
   "name": "Seden Beyhan",
   "rows": [
    [
+    "2026-2027-guz",
+    "KIM 101EL",
+    "General Chemistry I Lab",
+    40,
+    17
+   ],
+   [
     "2019-2020-guz",
     "KIM 203E",
     "Analytical Chemistry",
@@ -11408,7 +11415,7 @@
     41
    ]
   ],
-  "terms": 3
+  "terms": 4
  },
  "Sefer Baday": {
   "name": "Sefer Baday",
@@ -11680,8 +11687,8 @@
     "2026-2027-guz",
     "MAT 103E",
     "Mathematics I",
-    0,
-    0
+    135,
+    125
    ],
    [
     "2026-2027-guz",
@@ -31215,7 +31222,7 @@
     "2026-2027-guz",
     "MTO 229E",
     "Physics ofClouds\u0026Precipitation",
-    61,
+    63,
     61
    ],
    [

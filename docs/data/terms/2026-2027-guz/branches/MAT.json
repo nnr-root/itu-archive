@@ -23,8 +23,8 @@
    "--",
    "--"
   ],
-  "capacity": 260,
-  "enrolled": 249,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -82,8 +82,8 @@
    "A12",
    "A12"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 125,
+  "enrolled": 124,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -141,8 +141,8 @@
    "A13",
    "A13"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 125,
+  "enrolled": 125,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -200,8 +200,8 @@
    "--",
    "--"
   ],
-  "capacity": 260,
-  "enrolled": 139,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -259,8 +259,8 @@
    "A12",
    "A12"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 70,
+  "enrolled": 69,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -318,8 +318,8 @@
    "A13",
    "A13"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 70,
+  "enrolled": 70,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -377,8 +377,8 @@
    "--",
    "--"
   ],
-  "capacity": 770,
-  "enrolled": 634,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -481,8 +481,8 @@
    "A14",
    "A14"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 90,
+  "enrolled": 90,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -585,8 +585,8 @@
    "A15",
    "A15"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 91,
+  "enrolled": 91,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -689,8 +689,8 @@
    "A16",
    "A16"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 90,
+  "enrolled": 90,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -793,8 +793,8 @@
    "A31",
    "A31"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 91,
+  "enrolled": 91,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -897,8 +897,8 @@
    "A32",
    "A32"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 90,
+  "enrolled": 90,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -1001,8 +1001,8 @@
    "A33",
    "A33"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 91,
+  "enrolled": 91,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -1105,8 +1105,8 @@
    "A34",
    "A34"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 91,
+  "enrolled": 91,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -1210,8 +1210,8 @@
    "--",
    "--"
   ],
-  "capacity": 240,
-  "enrolled": 222,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -1314,8 +1314,8 @@
    "A35",
    "A35"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 115,
+  "enrolled": 111,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -1418,8 +1418,8 @@
    "A36",
    "A36"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 115,
+  "enrolled": 111,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -1522,8 +1522,8 @@
    "--",
    "--"
   ],
-  "capacity": 550,
-  "enrolled": 277,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -1626,8 +1626,8 @@
    "A15",
    "A15"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 95,
+  "enrolled": 92,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -1834,8 +1834,8 @@
    "A31",
    "A31"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 95,
+  "enrolled": 93,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -2042,8 +2042,8 @@
    "A33",
    "A33"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 95,
+  "enrolled": 92,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -2146,8 +2146,8 @@
    "--",
    "--"
   ],
-  "capacity": 270,
-  "enrolled": 270,
+  "capacity": 0,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -2251,8 +2251,8 @@
    "175",
    "175"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 135,
+  "enrolled": 135,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -2355,8 +2355,8 @@
    "176",
    "176"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 135,
+  "enrolled": 125,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -2758,8 +2758,8 @@
    "--",
    "--"
   ],
-  "capacity": 580,
-  "enrolled": 566,
+  "capacity": 81,
+  "enrolled": 81,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -2862,8 +2862,8 @@
    "A31",
    "A31"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 145,
+  "enrolled": 141,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -2966,8 +2966,8 @@
    "174",
    "174"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 115,
+  "enrolled": 115,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -3070,8 +3070,8 @@
    "175",
    "175"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 115,
+  "enrolled": 114,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -3174,8 +3174,8 @@
    "176",
    "176"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 115,
+  "enrolled": 115,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -3318,8 +3318,8 @@
    "--",
    "--"
   ],
-  "capacity": 550,
-  "enrolled": 378,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -3422,8 +3422,8 @@
    "A11",
    "A11"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 80,
+  "enrolled": 72,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -3526,8 +3526,8 @@
    "A16",
    "A16"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 80,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -3630,8 +3630,8 @@
    "A31",
    "A31"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 80,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -3734,8 +3734,8 @@
    "A32",
    "A32"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 80,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -3838,8 +3838,8 @@
    "A33",
    "A33"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 80,
+  "enrolled": 78,
   "reserved": "-",
   "programs": [
    "BIOE_LS",

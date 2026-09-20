@@ -19,8 +19,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 300,
-  "enrolled": 186,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -78,8 +78,8 @@
   "rooms": [
    "A12"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 65,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -137,8 +137,8 @@
   "rooms": [
    "A13"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 55,
+  "enrolled": 55,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -196,8 +196,8 @@
   "rooms": [
    "A14"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 66,
+  "enrolled": 66,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -255,8 +255,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 200,
-  "enrolled": 139,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -314,8 +314,8 @@
   "rooms": [
    "A12"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 70,
+  "enrolled": 69,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -373,8 +373,8 @@
   "rooms": [
    "A13"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 70,
+  "enrolled": 70,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -432,8 +432,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 200,
-  "enrolled": 165,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -491,8 +491,8 @@
   "rooms": [
    "A12"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 85,
+  "enrolled": 83,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -550,8 +550,8 @@
   "rooms": [
    "A13"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 85,
+  "enrolled": 82,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -609,8 +609,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 200,
-  "enrolled": 145,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -668,8 +668,8 @@
   "rooms": [
    "A14"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 74,
+  "enrolled": 73,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -727,8 +727,8 @@
   "rooms": [
    "A15"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 74,
+  "enrolled": 72,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -786,8 +786,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 400,
-  "enrolled": 202,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -884,8 +884,8 @@
   "rooms": [
    "A15"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 52,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -982,8 +982,8 @@
   "rooms": [
    "A16"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 52,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1080,8 +1080,8 @@
   "rooms": [
    "175"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 52,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1178,8 +1178,8 @@
   "rooms": [
    "176"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 52,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1276,8 +1276,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 200,
-  "enrolled": 171,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1373,8 +1373,8 @@
   "rooms": [
    "A14"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 87,
+  "enrolled": 85,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1470,8 +1470,8 @@
   "rooms": [
    "A15"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 87,
+  "enrolled": 86,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1567,8 +1567,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 220,
-  "enrolled": 210,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1665,8 +1665,8 @@
   "rooms": [
    "A14"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 105,
+  "enrolled": 105,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1763,8 +1763,8 @@
   "rooms": [
    "A15"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 105,
+  "enrolled": 105,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1861,8 +1861,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 200,
-  "enrolled": 121,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1959,8 +1959,8 @@
   "rooms": [
    "A34"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 62,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2057,8 +2057,8 @@
   "rooms": [
    "A35"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 62,
+  "enrolled": 61,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2155,8 +2155,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 200,
-  "enrolled": 71,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2351,8 +2351,8 @@
   "rooms": [
    "A14"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 72,
+  "enrolled": 71,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2470,7 +2470,7 @@
   "level": "LS",
   "name": "General Chemistry I Lab",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "-",
+  "instructor": "Seden Beyhan",
   "buildings": [
    "FEB"
   ],
@@ -2576,8 +2576,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 160,
-  "enrolled": 151,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2669,8 +2669,8 @@
   "rooms": [
    "LAB-A"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 40,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2762,8 +2762,8 @@
   "rooms": [
    "LAB-B"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 40,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2855,8 +2855,8 @@
   "rooms": [
    "LAB-C"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 40,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2948,8 +2948,8 @@
   "rooms": [
    "LAB-D"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3134,8 +3134,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 80,
-  "enrolled": 33,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3227,8 +3227,8 @@
   "rooms": [
    "LAB-D"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 25,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3320,8 +3320,8 @@
   "rooms": [
    "LAB-B"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 25,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3413,8 +3413,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 80,
-  "enrolled": 28,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3492,7 +3492,7 @@
   "level": "LS",
   "name": "General Chemistry I Lab",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hande Rezan Pekbelgin Karaoğlu",
+  "instructor": "-",
   "buildings": [
    "FEB"
   ],
@@ -3597,8 +3597,8 @@
   "rooms": [
    "LAB-C"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 30,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3689,8 +3689,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 160,
-  "enrolled": 102,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3781,8 +3781,8 @@
   "rooms": [
    "LAB-A"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 30,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3873,8 +3873,8 @@
   "rooms": [
    "LAB-B"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 30,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3965,8 +3965,8 @@
   "rooms": [
    "LAB-C"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 30,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4057,8 +4057,8 @@
   "rooms": [
    "LAB-D"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 30,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4149,8 +4149,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 80,
-  "enrolled": 40,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4241,8 +4241,8 @@
   "rooms": [
    "LAB-D"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 40,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4425,8 +4425,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 120,
-  "enrolled": 113,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4517,8 +4517,8 @@
   "rooms": [
    "LAB-A"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 40,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4609,8 +4609,8 @@
   "rooms": [
    "LAB-B"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 40,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4701,8 +4701,8 @@
   "rooms": [
    "LAB-E"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 40,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4793,8 +4793,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 80,
-  "enrolled": 50,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4872,7 +4872,7 @@
   "level": "LS",
   "name": "General Chemistry I Lab",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "-",
+  "instructor": "Hande Rezan Pekbelgin Karaoğlu",
   "buildings": [
    "FEB"
   ],
@@ -4885,8 +4885,8 @@
   "rooms": [
    "LAB-C"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 26,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4977,8 +4977,8 @@
   "rooms": [
    "LAB-E"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 26,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -5069,8 +5069,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 80,
-  "enrolled": 58,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -5161,8 +5161,8 @@
   "rooms": [
    "LAB-C"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 30,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -5253,8 +5253,8 @@
   "rooms": [
    "LAB-E"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 30,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -5345,8 +5345,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 80,
-  "enrolled": 78,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -5437,8 +5437,8 @@
   "rooms": [
    "LAB-C"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -5529,8 +5529,8 @@
   "rooms": [
    "LAB-E"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -5805,8 +5805,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 80,
-  "enrolled": 49,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -5897,8 +5897,8 @@
   "rooms": [
    "LAB-E"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 25,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -5989,8 +5989,8 @@
   "rooms": [
    "LAB-B"
   ],
-  "capacity": 0,
-  "enrolled": 0,
+  "capacity": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "BIO_LS",
