@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-20T22:32:10Z",
+ "scrapedAt": "2026-09-21T07:57:01Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5326,
- "courses": 3788,
+ "sections": 5301,
+ "courses": 3795,
  "branches": [
   {
    "code": "ABM",
@@ -188,7 +188,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 178
+   "sections": 183
   },
   {
    "code": "CBM",
@@ -487,7 +487,7 @@
     "LS",
     "LU"
    ],
-   "sections": 212
+   "sections": 202
   },
   {
    "code": "FRA",
@@ -809,7 +809,7 @@
     "LS",
     "LU"
    ],
-   "sections": 178
+   "sections": 156
   },
   {
    "code": "KMM",
@@ -859,7 +859,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 5
+   "sections": 8
   },
   {
    "code": "MAD",
@@ -897,7 +897,7 @@
     "LS",
     "LU"
    ],
-   "sections": 128
+   "sections": 121
   },
   {
    "code": "MBA",
@@ -1109,7 +1109,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 54
+   "sections": 59
   },
   {
    "code": "MTS",
@@ -1144,7 +1144,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 41
+   "sections": 42
   },
   {
    "code": "MUZ",
@@ -1629,11 +1629,11 @@
   }
  ],
  "stats": {
-  "sections": 5326,
-  "courses": 3788,
+  "sections": 5301,
+  "courses": 3795,
   "branches": 228,
-  "instructors": 1806,
-  "capacity": 260254,
+  "instructors": 1967,
+  "capacity": 260601,
   "enrolled": 111640
  }
 }
