@@ -8,7 +8,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Suat Küçükçifçi",
   "buildings": [
-   "undeclared"
+   "ISB"
   ],
   "days": [
    "Çarşamba"
@@ -17,7 +17,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "104"
   ],
   "capacity": 40,
   "enrolled": 0,
@@ -35,7 +35,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Oktay Taş",
   "buildings": [
-   "undeclared"
+   "ISB"
   ],
   "days": [
    "Pazartesi"
@@ -44,7 +44,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "207"
   ],
   "capacity": 40,
   "enrolled": 0,
@@ -62,7 +62,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Fatma Küskü Akdoğan",
   "buildings": [
-   "undeclared"
+   "ISB"
   ],
   "days": [
    "Pazartesi"
@@ -71,7 +71,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "202"
   ],
   "capacity": 40,
   "enrolled": 0,
@@ -89,7 +89,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Huriye Şebnem Burnaz",
   "buildings": [
-   "undeclared"
+   "ISB"
   ],
   "days": [
    "Salı"
@@ -98,7 +98,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "208"
   ],
   "capacity": 50,
   "enrolled": 0,
@@ -118,7 +118,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Elif Karaosmanoğlu",
   "buildings": [
-   "undeclared"
+   "ISB"
   ],
   "days": [
    "Salı"
@@ -127,7 +127,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "206"
   ],
   "capacity": 25,
   "enrolled": 0,
@@ -199,7 +199,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "İpek İlkkaracan Ajas",
   "buildings": [
-   "undeclared"
+   "ISB"
   ],
   "days": [
    "Perşembe"
@@ -208,7 +208,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "206"
   ],
   "capacity": 25,
   "enrolled": 0,
@@ -226,7 +226,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ayşe Aylin Bayar",
   "buildings": [
-   "undeclared"
+   "ISB"
   ],
   "days": [
    "Pazartesi"
@@ -235,7 +235,7 @@
    "14:30/16:29"
   ],
   "rooms": [
-   "--"
+   "209"
   ],
   "capacity": 25,
   "enrolled": 0,
@@ -364,7 +364,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Özgür Öztürk",
   "buildings": [
-   "undeclared"
+   "MSB"
   ],
   "days": [
    "Salı"
@@ -373,7 +373,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "B02"
   ],
   "capacity": 25,
   "enrolled": 0,

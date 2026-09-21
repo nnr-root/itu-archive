@@ -351,33 +351,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13176",
-  "code": "EUT 696E",
-  "branch": "EUT",
-  "level": "LU",
-  "name": "Scien. Research, Ethic&Sem.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Koray Gelmez",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13667",
   "code": "EUT YLT",
   "branch": "EUT",

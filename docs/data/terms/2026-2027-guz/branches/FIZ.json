@@ -13107,33 +13107,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13828",
-  "code": "FIZ 696E",
-  "branch": "FIZ",
-  "level": "LU",
-  "name": "Scien.Rese., Ethic&Seminar",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Sevim İşçi Turutoğlu",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13829",
   "code": "FIZ DRT",
   "branch": "FIZ",
@@ -13216,7 +13189,7 @@
   "rooms": [
    "D202"
   ],
-  "capacity": 75,
+  "capacity": 80,
   "enrolled": 75,
   "reserved": "-",
   "programs": [
@@ -14460,7 +14433,7 @@
    "D205",
    "D205"
   ],
-  "capacity": 30,
+  "capacity": 35,
   "enrolled": 30,
   "reserved": "-",
   "programs": [
@@ -14920,6 +14893,48 @@
    "CEN_LS"
   ],
   "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15649",
+  "code": "FIZ 374",
+  "branch": "FIZ",
+  "level": "LS",
+  "name": "Fizikte Deneysel Yöntemler I",
+  "method": "Ek Sınav",
+  "instructor": "Murat Erdem",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15650",
+  "code": "FIZ 274",
+  "branch": "FIZ",
+  "level": "LS",
+  "name": "Fizikçiler için Termodinamik",
+  "method": "Ek Sınav",
+  "instructor": "Sevim İşçi Turutoğlu",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
   "classReq": "-"
  }
 ]

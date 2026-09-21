@@ -2116,7 +2116,7 @@
    "174",
    "174"
   ],
-  "capacity": 150,
+  "capacity": 130,
   "enrolled": 96,
   "reserved": "-",
   "programs": [
@@ -4145,33 +4145,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13425",
-  "code": "MAT 696E",
-  "branch": "MAT",
-  "level": "LU",
-  "name": "Scien.Rese., Ethic&Seminar",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Aybike Özer",
-  "buildings": [
-   "FEB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "B1_428"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13679",
   "code": "MAT YLT",
   "branch": "MAT",
@@ -5236,9 +5209,9 @@
   "rooms": [
    "A34"
   ],
-  "capacity": 70,
+  "capacity": 75,
   "enrolled": 69,
-  "reserved": "END_LS/4/4 | ENDE_LS/4/4 | ECNE_LS/5/5 | FIZ_LS/3/3 | FIZE_LS/1/0 | Diğer/53/53",
+  "reserved": "END_LS/4/4 | ENDE_LS/4/4 | ECNE_LS/5/5 | FIZ_LS/3/3 | FIZE_LS/1/0 | Diğer/58/53",
   "programs": [
    "ECNE_LS",
    "END_LS",
@@ -5921,6 +5894,99 @@
    "BLGE_LS"
   ],
   "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15641",
+  "code": "MAT 324E",
+  "branch": "MAT",
+  "level": "LS",
+  "name": "Algebra",
+  "method": "Ek Sınav",
+  "instructor": "Sevgi Harman",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15644",
+  "code": "MAT 374",
+  "branch": "MAT",
+  "level": "LS",
+  "name": "Hes. Sürekli Ortamlar Mekaniği",
+  "method": "Ek Sınav",
+  "instructor": "Rahmiye Ergün",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "MAT_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15645",
+  "code": "MAT 342E",
+  "branch": "MAT",
+  "level": "LS",
+  "name": "Differential Geometry",
+  "method": "Ek Sınav",
+  "instructor": "Elif Canfes",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "MAT_LS",
+   "MATE_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15646",
+  "code": "MAT 455E",
+  "branch": "MAT",
+  "level": "LS",
+  "name": "Topology",
+  "method": "Ek Sınav",
+  "instructor": "Atabey Kaygun",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "MAT_LS",
+   "MAT_LS",
+   "MATE_LS"
+  ],
+  "prereq": "Detay",
   "classReq": "-"
  }
 ]

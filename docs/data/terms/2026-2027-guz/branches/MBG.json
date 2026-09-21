@@ -297,33 +297,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13216",
-  "code": "MBG 696E",
-  "branch": "MBG",
-  "level": "LU",
-  "name": "Scien.Rese., Ethic&Seminar",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ayten Karataş , Çiğdem Yılmaz Çolak",
-  "buildings": [
-   "MOBGAM"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "101"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13670",
   "code": "MBG YLT",
   "branch": "MBG",

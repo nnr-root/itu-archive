@@ -1657,7 +1657,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Erkan Işıklı",
   "buildings": [
-   "undeclared"
+   "ISB"
   ],
   "days": [
    "Salı"
@@ -1666,7 +1666,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "107"
   ],
   "capacity": 40,
   "enrolled": 0,
@@ -1684,7 +1684,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Cengiz Kahraman",
   "buildings": [
-   "undeclared"
+   "ISB"
   ],
   "days": [
    "Pazartesi"
@@ -1693,7 +1693,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "208"
   ],
   "capacity": 40,
   "enrolled": 0,
@@ -1711,7 +1711,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Hatice Tekiner Moğulkoç",
   "buildings": [
-   "undeclared"
+   "ISB"
   ],
   "days": [
    "Çarşamba"
@@ -1720,7 +1720,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "202"
   ],
   "capacity": 34,
   "enrolled": 0,
@@ -1738,7 +1738,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Umut Asan",
   "buildings": [
-   "undeclared"
+   "MSB"
   ],
   "days": [
    "Salı"
@@ -1747,7 +1747,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "210"
   ],
   "capacity": 35,
   "enrolled": 0,
@@ -1765,7 +1765,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Seda Yanık Özbay",
   "buildings": [
-   "undeclared"
+   "MSB"
   ],
   "days": [
    "Perşembe"
@@ -1774,7 +1774,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "B12"
   ],
   "capacity": 33,
   "enrolled": 0,
@@ -1792,7 +1792,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Murat Baskak",
   "buildings": [
-   "undeclared"
+   "ISB"
   ],
   "days": [
    "Salı"
@@ -1801,7 +1801,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "209"
   ],
   "capacity": 20,
   "enrolled": 0,
@@ -1819,7 +1819,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ömer Faruk Beyca",
   "buildings": [
-   "undeclared"
+   "ISB"
   ],
   "days": [
    "Pazartesi"
@@ -1828,7 +1828,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "210"
   ],
   "capacity": 39,
   "enrolled": 0,
@@ -1846,7 +1846,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ayberk Soyer",
   "buildings": [
-   "undeclared"
+   "ISB"
   ],
   "days": [
    "Cuma"
@@ -1855,7 +1855,7 @@
    "14:30/16:29"
   ],
   "rooms": [
-   "--"
+   "207"
   ],
   "capacity": 40,
   "enrolled": 0,
@@ -1873,7 +1873,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Esra Baş",
   "buildings": [
-   "undeclared"
+   "MSB"
   ],
   "days": [
    "Pazartesi"
@@ -1882,7 +1882,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "B04"
   ],
   "capacity": 12,
   "enrolled": 0,
@@ -1900,7 +1900,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Özgür Kabak",
   "buildings": [
-   "undeclared"
+   "MSB"
   ],
   "days": [
    "Çarşamba"
@@ -1909,7 +1909,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "B12"
   ],
   "capacity": 12,
   "enrolled": 0,
@@ -1927,7 +1927,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Cengiz Kahraman",
   "buildings": [
-   "undeclared"
+   "ISB"
   ],
   "days": [
    "Pazartesi"
@@ -1936,36 +1936,9 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "206"
   ],
   "capacity": 22,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "12920",
-  "code": "END 696",
-  "branch": "END",
-  "level": "LU",
-  "name": "Bilimsel Araş.,Etik ve Seminer",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Murat Baskak",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
   "enrolled": 0,
   "reserved": "-",
   "programs": [],

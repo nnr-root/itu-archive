@@ -674,33 +674,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13066",
-  "code": "PET 696E",
-  "branch": "PET",
-  "level": "LU",
-  "name": "Scien.Rese., Ethic&Seminar",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "İhsan Burak Kulga",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 16,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13656",
   "code": "PET YLT",
   "branch": "PET",

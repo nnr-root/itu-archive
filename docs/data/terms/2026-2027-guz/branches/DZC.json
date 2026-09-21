@@ -462,33 +462,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12402",
-  "code": "DZC 696",
-  "branch": "DZC",
-  "level": "LU",
-  "name": "Bilimsel Araş.,Etik ve Seminer",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Pelin Bolat",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13366",
   "code": "DZC 502",
   "branch": "DZC",
@@ -496,19 +469,13 @@
   "name": "Denizci.Sektör.Kariyer Plan.",
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Bayram Barış Kızılsaç",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
+  "buildings": [],
+  "days": [],
   "times": [
-   "11:30/14:29"
+   "-/-"
   ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 10,
+  "rooms": [],
+  "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
   "programs": [],

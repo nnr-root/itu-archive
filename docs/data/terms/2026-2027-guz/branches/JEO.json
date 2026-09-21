@@ -873,13 +873,13 @@
    "MDB"
   ],
   "days": [
-   "Çarşamba"
+   "Cuma"
   ],
   "times": [
    "08:30/10:29"
   ],
   "rooms": [
-   "A101"
+   "--"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -1870,33 +1870,6 @@
   ],
   "times": [
    "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13241",
-  "code": "JEO 696E",
-  "branch": "JEO",
-  "level": "LU",
-  "name": "Scien.Rese., Ethic&Seminar",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Şule Gürboğa",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
   ],
   "rooms": [
    "--"

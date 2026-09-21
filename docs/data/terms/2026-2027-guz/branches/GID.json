@@ -205,7 +205,7 @@
   "rooms": [
    "D102"
   ],
-  "capacity": 30,
+  "capacity": 32,
   "enrolled": 30,
   "reserved": "-",
   "programs": [
@@ -236,7 +236,7 @@
   "rooms": [
    "D303"
   ],
-  "capacity": 30,
+  "capacity": 32,
   "enrolled": 30,
   "reserved": "-",
   "programs": [
@@ -1012,33 +1012,6 @@
   ],
   "rooms": [
    "GZ101"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13187",
-  "code": "GID 696",
-  "branch": "GID",
-  "level": "LU",
-  "name": "Bilimsel Araş.,Etik ve Seminer",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Fatma Ebru Fıratlıgil",
-  "buildings": [
-   "KMB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "D305"
   ],
   "capacity": 20,
   "enrolled": 0,

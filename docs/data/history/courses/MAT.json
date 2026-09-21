@@ -355,7 +355,7 @@
    [
     "2026-2027-guz",
     "Celal Umut Yaran",
-    150,
+    130,
     96,
     "Salı, Perşembe"
    ],
@@ -12494,6 +12494,7 @@
   "code": "MAT 324E",
   "name": "Algebra",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -12501,6 +12502,13 @@
    "2021-2022-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Sevgi Harman",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Ergün Yaraneri",
@@ -13233,6 +13241,7 @@
   "code": "MAT 342E",
   "name": "Differential Geometry",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2025-2026-guz",
    "2024-2025-bahar",
@@ -13251,6 +13260,13 @@
    "2016-2017-yaz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Elif Canfes",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Fatma Özdemir",
@@ -13979,6 +13995,7 @@
   "code": "MAT 374",
   "name": "Hes. Sürekli Ortamlar Mekaniği",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -13986,6 +14003,13 @@
    "2021-2022-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Rahmiye Ergün",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Ahmet Kırış",
@@ -15122,11 +15146,19 @@
   "code": "MAT 455E",
   "name": "Topology",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-guz",
    "2024-2025-bahar",
    "2022-2023-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Atabey Kaygun",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-guz",
     "Atabey Kaygun",
@@ -15236,7 +15268,7 @@
    [
     "2026-2027-guz",
     "Ahmet Duran",
-    70,
+    75,
     69,
     "Çarşamba"
    ],
@@ -16441,22 +16473,6 @@
     20,
     0,
     "Pazartesi"
-   ]
-  ]
- },
- "MAT 696E": {
-  "code": "MAT 696E",
-  "name": "Scien.Rese., Ethic&Seminar",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Aybike Özer",
-    20,
-    0,
-    "Çarşamba"
    ]
   ]
  },

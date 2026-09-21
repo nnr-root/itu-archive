@@ -405,33 +405,6 @@
   "classReq": "-"
  },
  {
-  "crn": "14176",
-  "code": "DUM 696E",
-  "branch": "DUM",
-  "level": "LU",
-  "name": "Scien.Rese., Ethic&Seminar",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Burak Zincir",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 10,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "14177",
   "code": "DUM YLT",
   "branch": "DUM",

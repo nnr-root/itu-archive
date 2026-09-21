@@ -621,33 +621,6 @@
   "classReq": "-"
  },
  {
-  "crn": "14058",
-  "code": "EBT 696",
-  "branch": "EBT",
-  "level": "LU",
-  "name": "Bilimsel Araş.,Etik ve Seminer",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Burak Tekin",
-  "buildings": [
-   "ENB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 15,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "14060",
   "code": "EBT 501E",
   "branch": "EBT",

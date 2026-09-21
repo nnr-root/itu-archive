@@ -517,35 +517,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12358",
-  "code": "BLG 696",
-  "branch": "BLG",
-  "level": "LU",
-  "name": "Bilimsel Araş.,Etik ve Seminer",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ayşe Tosun Kühn",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 45,
-  "enrolled": 0,
-  "reserved": "BLG_BG_DR/40/0 | Diğer/5/0",
-  "programs": [
-   "BLG_BG_DR"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12359",
   "code": "BLG 549E",
   "branch": "BLG",

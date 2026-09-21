@@ -8,7 +8,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Mustafa Hatipoğlu",
   "buildings": [
-   "undeclared"
+   "INB"
   ],
   "days": [
    "Salı"
@@ -17,7 +17,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "GEOTEKNİK"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -62,7 +62,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Müge Balkaya",
   "buildings": [
-   "undeclared"
+   "INB"
   ],
   "days": [
    "Pazartesi"
@@ -71,7 +71,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "GEOTEKNİK"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -89,7 +89,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Berrak Teymür",
   "buildings": [
-   "undeclared"
+   "INB"
   ],
   "days": [
    "Çarşamba"
@@ -98,7 +98,7 @@
    "12:30/15:29"
   ],
   "rooms": [
-   "--"
+   "GEOTEKNİK"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -116,7 +116,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Atila Sezen",
   "buildings": [
-   "undeclared"
+   "INB"
   ],
   "days": [
    "Perşembe"
@@ -125,34 +125,7 @@
    "13:30/15:29"
   ],
   "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13953",
-  "code": "ZMG 696E",
-  "branch": "ZMG",
-  "level": "LU",
-  "name": "Scien.Rese., Ethic&Seminar",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Atila Sezen",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
+   "GEOTEKNİK"
   ],
   "capacity": 20,
   "enrolled": 0,
@@ -170,7 +143,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Mehmet Barış Can Ülker",
   "buildings": [
-   "undeclared"
+   "INB"
   ],
   "days": [
    "Çarşamba"
@@ -179,7 +152,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "GEOTEKNİK"
   ],
   "capacity": 30,
   "enrolled": 0,

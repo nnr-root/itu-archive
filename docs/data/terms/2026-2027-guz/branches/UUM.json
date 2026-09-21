@@ -405,33 +405,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13319",
-  "code": "UUM 696E",
-  "branch": "UUM",
-  "level": "LU",
-  "name": "Scien.Rese., Ethic&Seminar",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "İbrahim Özkol",
-  "buildings": [
-   "MEDC"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "1D10"
-  ],
-  "capacity": 60,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13320",
   "code": "UUM 512E",
   "branch": "UUM",

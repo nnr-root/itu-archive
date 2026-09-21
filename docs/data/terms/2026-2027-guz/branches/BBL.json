@@ -27,33 +27,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13496",
-  "code": "BBL 696E",
-  "branch": "BBL",
-  "level": "LU",
-  "name": "Scien.Rese., Ethic&Seminar",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Abdulkerim Çapar",
-  "buildings": [
-   "BEB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 25,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13500",
   "code": "BBL 588E",
   "branch": "BBL",

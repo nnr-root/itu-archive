@@ -554,13 +554,6 @@
    ],
    [
     "2026-2027-guz",
-    "BBL 696E",
-    "Scien.Rese., Ethic\u0026Seminar",
-    25,
-    0
-   ],
-   [
-    "2026-2027-guz",
     "BBL 502E",
     "Software Modeling and Design",
     40,
@@ -605,13 +598,6 @@
     "Comp.Applications in Chemistry",
     30,
     8
-   ],
-   [
-    "2026-2027-guz",
-    "KIM 696",
-    "Bilimsel Araş.,Etik ve Seminer",
-    30,
-    0
    ],
    [
     "2026-2027-guz",
@@ -2830,13 +2816,6 @@
     "Akışkanlar Mekaniği I",
     40,
     34
-   ],
-   [
-    "2026-2027-guz",
-    "MAK 696",
-    "Bilimsel Araş.,Etik ve Seminer",
-    30,
-    0
    ],
    [
     "2026-2027-guz",
@@ -7695,7 +7674,7 @@
     "2026-2027-guz",
     "MAT 471E",
     "Financial Mathematics",
-    70,
+    75,
     69
    ],
    [
@@ -9632,13 +9611,6 @@
     "IMT 504E",
     "Research for Interior Archite.",
     5,
-    0
-   ],
-   [
-    "2026-2027-guz",
-    "MBL 696",
-    "Bilimsel Araş.,Etik ve Seminer",
-    8,
     0
    ],
    [
@@ -11792,13 +11764,6 @@
  "Ahmet Onat": {
   "name": "Ahmet Onat",
   "rows": [
-   [
-    "2026-2027-guz",
-    "KOM 696",
-    "Bilimsel Araş.,Etik ve Seminer",
-    10,
-    0
-   ],
    [
     "2026-2027-guz",
     "KOM DRT",
@@ -24422,13 +24387,6 @@
    ],
    [
     "2026-2027-guz",
-    "DEP 696E",
-    "Scien.Rese., Ethic\u0026Seminar",
-    50,
-    0
-   ],
-   [
-    "2026-2027-guz",
     "DEP 596",
     "Bilimsel Araş.,Etik ve Seminer",
     60,
@@ -32666,6 +32624,13 @@
    ],
    [
     "2026-2027-guz",
+    "BIO 417E",
+    "Molecular Biology",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
     "MBG 521",
     "Advanced Cell Biology",
     30,
@@ -35112,6 +35077,20 @@
    ],
    [
     "2026-2027-guz",
+    "BIO 415EL",
+    "Molecular Biology Lab.",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "BIO 417E",
+    "Molecular Biology",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
     "MBG 521",
     "Advanced Cell Biology",
     30,
@@ -37497,14 +37476,14 @@
     "2026-2027-guz",
     "BIL 113E",
     "Intr.to Sci\u0026 Eng.Comp.(MATLAB)",
-    30,
+    50,
     30
    ],
    [
     "2026-2027-guz",
     "BIL 113E",
     "Intr.to Sci\u0026 Eng.Comp.(MATLAB)",
-    30,
+    50,
     19
    ],
    [
@@ -38518,7 +38497,7 @@
     "2026-2027-guz",
     "MAK 203",
     "Dinamik",
-    80,
+    85,
     80
    ],
    [
@@ -38701,6 +38680,13 @@
     "Abstract Mathematics",
     55,
     55
+   ],
+   [
+    "2026-2027-guz",
+    "MAT 455E",
+    "Topology",
+    0,
+    0
    ],
    [
     "2025-2026-bahar",
@@ -39296,13 +39282,6 @@
    [
     "2026-2027-guz",
     "ZMG 596E",
-    "Scien.Rese., Ethic\u0026Seminar",
-    20,
-    0
-   ],
-   [
-    "2026-2027-guz",
-    "ZMG 696E",
     "Scien.Rese., Ethic\u0026Seminar",
     20,
     0
@@ -40582,13 +40561,6 @@
  "Aybike Özer": {
   "name": "Aybike Özer",
   "rows": [
-   [
-    "2026-2027-guz",
-    "MAT 696E",
-    "Scien.Rese., Ethic\u0026Seminar",
-    20,
-    0
-   ],
    [
     "2026-2027-guz",
     "MAT 186E",
@@ -43110,6 +43082,13 @@
     "KMP 198",
     "Konturpuan-Füg II",
     0,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "KMP 198",
+    "Konturpuan-Füg II",
+    10,
     0
    ],
    [
@@ -46800,13 +46779,6 @@
    ],
    [
     "2026-2027-guz",
-    "BVT 696",
-    "Bilimsel Araş.,Etik ve Seminer",
-    15,
-    0
-   ],
-   [
-    "2026-2027-guz",
     "BVT DRT",
     "Tez çalışması",
     50,
@@ -47312,13 +47284,6 @@
     "2026-2027-guz",
     "MBG 632E",
     "Guided Research",
-    30,
-    0
-   ],
-   [
-    "2026-2027-guz",
-    "MBG 696E",
-    "Scien.Rese., Ethic\u0026Seminar",
     30,
     0
    ],
@@ -50076,13 +50041,6 @@
     "GEO 608",
     "Radar ve Mikrodalga İle Uz.Alg",
     30,
-    0
-   ],
-   [
-    "2026-2027-guz",
-    "GEO 696E",
-    "Scien.Rese., Ethic\u0026Seminar",
-    20,
     0
    ],
    [
@@ -53019,13 +52977,6 @@
  "Ayşe Tosun Kühn": {
   "name": "Ayşe Tosun Kühn",
   "rows": [
-   [
-    "2026-2027-guz",
-    "BLG 696",
-    "Bilimsel Araş.,Etik ve Seminer",
-    45,
-    0
-   ],
    [
     "2026-2027-guz",
     "BLG 411E",

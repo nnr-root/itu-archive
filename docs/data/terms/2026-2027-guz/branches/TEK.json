@@ -517,33 +517,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12686",
-  "code": "TEK 696E",
-  "branch": "TEK",
-  "level": "LU",
-  "name": "Scien.Rese., Ethic&Seminar",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Yeşim Beceren",
-  "buildings": [
-   "MKB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "D450"
-  ],
-  "capacity": 15,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12746",
   "code": "TEK 116E",
   "branch": "TEK",

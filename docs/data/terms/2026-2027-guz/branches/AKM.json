@@ -54,7 +54,8 @@
   "enrolled": 55,
   "reserved": "-",
   "programs": [
-   "CEV_LS"
+   "CEV_LS",
+   "INS_LS"
   ],
   "prereq": "Detay",
   "classReq": "-"
@@ -83,6 +84,7 @@
   "enrolled": 60,
   "reserved": "-",
   "programs": [
+   "CEV_LS",
    "INS_LS"
   ],
   "prereq": "Detay",
@@ -112,7 +114,10 @@
   "enrolled": 37,
   "reserved": "JEF_LS/9/0 | JEFE_LS/1/0 | Diğer/50/37",
   "programs": [
+   "CEV_LS",
    "CEVE_LS",
+   "INS_LS",
+   "INSE_LS",
    "JEF_LS",
    "JEFE_LS"
   ],
@@ -143,7 +148,9 @@
   "enrolled": 6,
   "reserved": "-",
   "programs": [
+   "CEV_LS",
    "CEVE_LS",
+   "INS_LS",
    "INSE_LS"
   ],
   "prereq": "Detay",

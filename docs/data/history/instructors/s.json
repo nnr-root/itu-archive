@@ -7893,13 +7893,6 @@
     0
    ],
    [
-    "2026-2027-guz",
-    "UAH 696",
-    "Bilimsel Araş.,Etik ve Seminer",
-    30,
-    0
-   ],
-   [
     "2022-2023-bahar",
     "EHB 468",
     "Elektroman.Uyum.Ölç. Temelleri",
@@ -29344,14 +29337,14 @@
     "2026-2027-guz",
     "PHY 125",
     "Physics I",
-    35,
+    37,
     35
    ],
    [
     "2026-2027-guz",
     "PHY 125L",
     "Physics I Laboratory",
-    35,
+    37,
     35
    ]
   ],
@@ -29623,6 +29616,13 @@
     "Matematik Müh. Giriş ve Etik",
     90,
     32
+   ],
+   [
+    "2026-2027-guz",
+    "MAT 324E",
+    "Algebra",
+    0,
+    0
    ],
    [
     "2025-2026-bahar",
@@ -31249,13 +31249,6 @@
    ],
    [
     "2026-2027-guz",
-    "FIZ 696E",
-    "Scien.Rese., Ethic\u0026Seminar",
-    30,
-    0
-   ],
-   [
-    "2026-2027-guz",
     "FIZ DRT",
     "Tez Çalışması",
     500,
@@ -31273,6 +31266,13 @@
     "FIZ YLT",
     "Tez Çalışması",
     500,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "FIZ 274",
+    "Fizikçiler için Termodinamik",
+    0,
     0
    ],
    [
@@ -31858,7 +31858,7 @@
     "2026-2027-guz",
     "MAK 118",
     "Statik",
-    100,
+    110,
     100
    ],
    [
@@ -40832,13 +40832,6 @@
    ],
    [
     "2026-2027-guz",
-    "HBM 696",
-    "Bilimsel Araş.,Etik ve Seminer",
-    25,
-    0
-   ],
-   [
-    "2026-2027-guz",
     "VIA 509E",
     "Machine Learningwith Big Data",
     0,
@@ -46267,13 +46260,6 @@
    [
     "2026-2027-guz",
     "GEM 596E",
-    "Scien.Rese., Ethic\u0026Seminar",
-    30,
-    0
-   ],
-   [
-    "2026-2027-guz",
-    "GEM 696E",
     "Scien.Rese., Ethic\u0026Seminar",
     30,
     0
@@ -52701,13 +52687,6 @@
     57
    ],
    [
-    "2026-2027-guz",
-    "JEO 696E",
-    "Scien.Rese., Ethic\u0026Seminar",
-    20,
-    0
-   ],
-   [
     "2025-2026-bahar",
     "CEV 104E",
     "Earth Science",
@@ -53991,19 +53970,6 @@
    ]
   ],
   "terms": 18
- },
- "Şükran Çavdar": {
-  "name": "Şükran Çavdar",
-  "rows": [
-   [
-    "2026-2027-guz",
-    "RBT 596",
-    "Bilimsel Araş.,Etik ve Seminer",
-    10,
-    0
-   ]
-  ],
-  "terms": 1
  },
  "Şükriye Beste Aydın": {
   "name": "Şükriye Beste Aydın",

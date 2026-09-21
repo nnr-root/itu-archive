@@ -81,33 +81,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12274",
-  "code": "ABM 696",
-  "branch": "ABM",
-  "level": "LU",
-  "name": "Bilimsel Araştırma, Etik ve Seminer",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ömer Ekmekcioğlu",
-  "buildings": [
-   "AYB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12275",
   "code": "ABM YET",
   "branch": "ABM",

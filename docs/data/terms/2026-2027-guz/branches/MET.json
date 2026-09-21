@@ -202,7 +202,7 @@
    "D104",
    "D202"
   ],
-  "capacity": 60,
+  "capacity": 65,
   "enrolled": 59,
   "reserved": "-",
   "programs": [
@@ -524,7 +524,7 @@
   "rooms": [
    "D203"
   ],
-  "capacity": 90,
+  "capacity": 95,
   "enrolled": 86,
   "reserved": "-",
   "programs": [
@@ -582,7 +582,7 @@
   "rooms": [
    "D304"
   ],
-  "capacity": 125,
+  "capacity": 140,
   "enrolled": 125,
   "reserved": "-",
   "programs": [
@@ -672,7 +672,7 @@
   "rooms": [
    "D201"
   ],
-  "capacity": 170,
+  "capacity": 180,
   "enrolled": 170,
   "reserved": "-",
   "programs": [
@@ -702,7 +702,7 @@
   "rooms": [
    "D201"
   ],
-  "capacity": 90,
+  "capacity": 100,
   "enrolled": 90,
   "reserved": "-",
   "programs": [
@@ -880,7 +880,7 @@
   "rooms": [
    "D102"
   ],
-  "capacity": 55,
+  "capacity": 60,
   "enrolled": 53,
   "reserved": "-",
   "programs": [
@@ -1277,33 +1277,6 @@
   ],
   "times": [
    "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11973",
-  "code": "MET 696",
-  "branch": "MET",
-  "level": "LU",
-  "name": "Bilimsel Araş.,Etik ve Seminer",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Cevat Fahir Arısoy",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
   ],
   "rooms": [
    "--"

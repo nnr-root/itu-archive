@@ -378,33 +378,6 @@
   "classReq": "-"
  },
  {
-  "crn": "11811",
-  "code": "NUK 696E",
-  "branch": "NUK",
-  "level": "LU",
-  "name": "Scientific Research, Ethic and Seminar",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "İskender Atilla Reyhancan",
-  "buildings": [
-   "ENB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12128",
   "code": "NUK DRT",
   "branch": "NUK",

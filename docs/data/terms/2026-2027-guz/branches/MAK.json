@@ -500,7 +500,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 100,
+  "capacity": 110,
   "enrolled": 100,
   "reserved": "-",
   "programs": [
@@ -625,7 +625,7 @@
    "--",
    "--"
   ],
-  "capacity": 80,
+  "capacity": 85,
   "enrolled": 80,
   "reserved": "-",
   "programs": [
@@ -659,7 +659,7 @@
    "--",
    "--"
   ],
-  "capacity": 80,
+  "capacity": 85,
   "enrolled": 80,
   "reserved": "-",
   "programs": [
@@ -1663,7 +1663,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 60,
+  "capacity": 65,
   "enrolled": 60,
   "reserved": "-",
   "programs": [
@@ -1694,7 +1694,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 60,
+  "capacity": 65,
   "enrolled": 60,
   "reserved": "-",
   "programs": [
@@ -1857,7 +1857,7 @@
    "--",
    "--"
   ],
-  "capacity": 100,
+  "capacity": 110,
   "enrolled": 100,
   "reserved": "-",
   "programs": [
@@ -3627,33 +3627,6 @@
   ],
   "times": [
    "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "15046",
-  "code": "MAK 696",
-  "branch": "MAK",
-  "level": "LU",
-  "name": "Bilimsel Araş.,Etik ve Seminer",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Abdussamet Subaşı",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
   ],
   "rooms": [
    "--"

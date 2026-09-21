@@ -729,60 +729,6 @@
   "classReq": "-"
  },
  {
-  "crn": "11907",
-  "code": "GEO 696",
-  "branch": "GEO",
-  "level": "LU",
-  "name": "Bilimsel Araş.,Etik ve Seminer",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Nebiye Musaoğlu",
-  "buildings": [
-   "INB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "A1"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11908",
-  "code": "GEO 696E",
-  "branch": "GEO",
-  "level": "LU",
-  "name": "Scien.Rese., Ethic&Seminar",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ayşe Filiz Sunar",
-  "buildings": [
-   "INB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "A2"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "11909",
   "code": "GEO DRT",
   "branch": "GEO",
@@ -3379,6 +3325,33 @@
    "HTAE_LS"
   ],
   "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15653",
+  "code": "GEO 615E",
+  "branch": "GEO",
+  "level": "LU",
+  "name": "Curve and Surface Fitting Meth",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Mustafa Fahri Karabulut",
+  "buildings": [
+   "INB"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "13:00/15:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 20,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
   "classReq": "-"
  }
 ]

@@ -1911,7 +1911,7 @@
    [
     "2026-2027-guz",
     "Mehmet Murat Sunar",
-    75,
+    80,
     75,
     "Pazartesi"
    ],
@@ -4187,12 +4187,20 @@
   "code": "FIZ 274",
   "name": "Fizikçiler için Termodinamik",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
    "2022-2023-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Sevim İşçi Turutoğlu",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Sevim İşçi Turutoğlu",
@@ -5604,11 +5612,19 @@
   "code": "FIZ 374",
   "name": "Fizikte Deneysel Yöntemler I",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2021-2022-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Murat Erdem",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Murat Erdem",
@@ -8883,7 +8899,7 @@
    [
     "2026-2027-guz",
     "Berna Morova",
-    30,
+    35,
     30,
     "Pazartesi, Çarşamba"
    ],
@@ -10376,22 +10392,6 @@
     30,
     0,
     "Perşembe"
-   ]
-  ]
- },
- "FIZ 696E": {
-  "code": "FIZ 696E",
-  "name": "Scien.Rese., Ethic&Seminar",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Sevim İşçi Turutoğlu",
-    30,
-    0,
-    "Çarşamba"
    ]
   ]
  },

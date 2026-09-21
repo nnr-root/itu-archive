@@ -351,33 +351,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13053",
-  "code": "ELK 696E",
-  "branch": "ELK",
-  "level": "LU",
-  "name": "Scien.Rese., Ethic&Seminar",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Güven Kömürgöz Kırış",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 10,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13054",
   "code": "ELK 596",
   "branch": "ELK",

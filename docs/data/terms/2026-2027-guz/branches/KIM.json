@@ -5030,6 +5030,7 @@
    "BIOE_LS",
    "KIM_LS",
    "KIM_LS",
+   "KIM_YD",
    "KIME_LS",
    "TEK_LS",
    "TEKE_LS"
@@ -5746,6 +5747,7 @@
   "reserved": "-",
   "programs": [
    "KIM_LS",
+   "KIM_YD",
    "KMM_LS",
    "KMME_LS"
   ],
@@ -6847,33 +6849,6 @@
   "classReq": "-"
  },
  {
-  "crn": "11878",
-  "code": "KIM 696",
-  "branch": "KIM",
-  "level": "LU",
-  "name": "Bilimsel Araş.,Etik ve Seminer",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Abdullah Aydoğan",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "11883",
   "code": "KIM 429",
   "branch": "KIM",
@@ -7269,7 +7244,7 @@
   "branch": "KIM",
   "level": "LS",
   "name": "Organik Reaksiyonlar",
-  "method": "Fiziksel (Yüz yüze)",
+  "method": "Ek Sınav",
   "instructor": "Ufuk Saim Günay",
   "buildings": [],
   "days": [],
@@ -7290,7 +7265,7 @@
   "branch": "KIM",
   "level": "LS",
   "name": "Instrumental Analysis Methods Laboratory",
-  "method": "Fiziksel (Yüz yüze)",
+  "method": "Ek Sınav",
   "instructor": "Aslı Baysal",
   "buildings": [],
   "days": [],
@@ -7311,7 +7286,7 @@
   "branch": "KIM",
   "level": "LS",
   "name": "Koordinasyon Kimyası",
-  "method": "Fiziksel (Yüz yüze)",
+  "method": "Ek Sınav",
   "instructor": "Hacer Yasemin Yenilmez",
   "buildings": [],
   "days": [],
@@ -7332,7 +7307,7 @@
   "branch": "KIM",
   "level": "LS",
   "name": "Cosmetic Chemistry",
-  "method": "Fiziksel (Yüz yüze)",
+  "method": "Ek Sınav",
   "instructor": "Ayşe Özdemir",
   "buildings": [],
   "days": [],
@@ -7353,7 +7328,7 @@
   "branch": "KIM",
   "level": "LS",
   "name": "Enstrumental Analitik Yön.Lab.",
-  "method": "Fiziksel (Yüz yüze)",
+  "method": "Ek Sınav",
   "instructor": "Aslı Baysal",
   "buildings": [],
   "days": [],
@@ -7374,7 +7349,7 @@
   "branch": "KIM",
   "level": "LS",
   "name": "Organik Reaksiyonlar",
-  "method": "Fiziksel (Yüz yüze)",
+  "method": "Ek Sınav",
   "instructor": "Ufuk Saim Günay",
   "buildings": [],
   "days": [],
@@ -7395,7 +7370,7 @@
   "branch": "KIM",
   "level": "LS",
   "name": "Endüstriyel Polimerler",
-  "method": "Fiziksel (Yüz yüze)",
+  "method": "Ek Sınav",
   "instructor": "Demet Çolak",
   "buildings": [],
   "days": [],

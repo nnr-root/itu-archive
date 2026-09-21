@@ -566,7 +566,7 @@
   "rooms": [
    "1D7"
   ],
-  "capacity": 15,
+  "capacity": 20,
   "enrolled": 15,
   "reserved": "-",
   "programs": [
@@ -1658,33 +1658,6 @@
   ],
   "times": [
    "08:30/11:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13909",
-  "code": "MTO 696",
-  "branch": "MTO",
-  "level": "LU",
-  "name": "Bilimsel Araş.,Etik ve Seminer",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Barış Önol",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
   ],
   "rooms": [
    "--"

@@ -872,33 +872,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13071",
-  "code": "PEM 696E",
-  "branch": "PEM",
-  "level": "LU",
-  "name": "Scien.Rese., Ethic&Seminar",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Nilay Özlü Karaca",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 10,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13073",
   "code": "PEM 697",
   "branch": "PEM",

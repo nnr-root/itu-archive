@@ -8,7 +8,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Şerife Genç İleri",
   "buildings": [
-   "undeclared"
+   "MSB"
   ],
   "days": [
    "Salı"
@@ -17,7 +17,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "B04"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -35,7 +35,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Qian Li",
   "buildings": [
-   "undeclared"
+   "ISB"
   ],
   "days": [
    "Pazartesi"
@@ -44,7 +44,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "209"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -62,7 +62,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Osman Doğan",
   "buildings": [
-   "undeclared"
+   "MSB"
   ],
   "days": [
    "Salı"
@@ -71,7 +71,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "B04"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -89,7 +89,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Serdar Altay",
   "buildings": [
-   "undeclared"
+   "MSB"
   ],
   "days": [
    "Çarşamba"
@@ -98,7 +98,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "210"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -116,7 +116,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Sinan Ertemel",
   "buildings": [
-   "undeclared"
+   "MSB"
   ],
   "days": [
    "Pazartesi"
@@ -125,9 +125,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "İlgili",
-   "Bölümce",
-   "Açıklanacak"
+   "B02"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -166,7 +164,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Sinan Ertemel",
   "buildings": [
-   "undeclared"
+   "MSB"
   ],
   "days": [
    "Salı"
@@ -175,7 +173,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "B12"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -193,7 +191,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Bülent Güloğlu",
   "buildings": [
-   "undeclared"
+   "MSB"
   ],
   "days": [
    "Salı"
@@ -202,7 +200,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "B12"
   ],
   "capacity": 30,
   "enrolled": 0,

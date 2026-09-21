@@ -20650,7 +20650,7 @@
   "MAT",
   "Celal Umut Yaran",
   "Salı 14:30/17:29 | Perşembe 13:30/15:29",
-  150,
+  130,
   96,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -59765,7 +59765,7 @@
   "GID",
   "Pervin Başaran Akocak",
   "Perşembe 09:30/12:29",
-  30,
+  32,
   30,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -59782,7 +59782,7 @@
   "GID",
   "Fatih Ortakcı",
   "Perşembe 09:30/12:29",
-  30,
+  32,
   30,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -60891,6 +60891,7 @@
    "BIOE_LS",
    "KIM_LS",
    "KIM_LS",
+   "KIM_YD",
    "KIME_LS",
    "TEK_LS",
    "TEKE_LS"
@@ -61481,6 +61482,7 @@
   "Fiziksel (Yüz yüze)",
   [
    "KIM_LS",
+   "KIM_YD",
    "KMM_LS",
    "KMME_LS"
   ]
@@ -63288,7 +63290,7 @@
   "MET",
   "Kübra Onbaşlı",
   "Cuma 11:00/12:59 | Cuma 14:00/15:59",
-  60,
+  65,
   59,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -63456,7 +63458,7 @@
   "MET",
   "Bihter Zeytuncu Gökoğlu",
   "Cuma 10:30/12:29",
-  90,
+  95,
   86,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -63486,7 +63488,7 @@
   "MET",
   "Özgül Keleş , Billur Deniz Karahan",
   "Perşembe 11:30/13:29",
-  125,
+  140,
   125,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -63534,7 +63536,7 @@
   "MET",
   "Mohammadreza Nofar",
   "Cuma 08:30/10:29",
-  170,
+  180,
   170,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -63550,7 +63552,7 @@
   "MET",
   "Filiz Şahin",
   "Perşembe 09:30/11:29",
-  90,
+  100,
   90,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -63644,7 +63646,7 @@
   "MET",
   "Duygu Ağaoğulları",
   "Perşembe 13:30/15:29",
-  55,
+  60,
   53,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -69758,7 +69760,7 @@
   "Magmatik Petroloji",
   "JEO",
   "Şafak Altunkaynak , Alp Ünal",
-  "Çarşamba 08:30/10:29",
+  "Cuma 08:30/10:29",
   30,
   0,
   "LS",
@@ -70592,7 +70594,7 @@
   "MUZ",
   "Günay Koçhan",
   "Perşembe 08:30/10:29",
-  30,
+  35,
   30,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -71920,7 +71922,7 @@
   "KMP",
   "Recep Gül",
   "Salı 08:30/10:29",
-  35,
+  40,
   35,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -74926,7 +74928,7 @@
   "MTO",
   "Zerefşan Kaymaz , Emine Ceren Eyigüler",
   "Perşembe 14:30/17:29",
-  15,
+  20,
   15,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -75565,19 +75567,6 @@
   []
  ],
  [
-  "11811",
-  "NUK 696E",
-  "Scientific Research, Ethic and Seminar",
-  "NUK",
-  "İskender Atilla Reyhancan",
-  "Çarşamba 15:30/17:29",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "11812",
   "SNT 108",
   "Seramik",
@@ -75668,19 +75657,6 @@
   "Fatih Sütcü",
   "Pazartesi 09:30/12:29",
   30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "11816",
-  "DEP 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "DEP",
-  "Ali Yeşilyurt",
-  "Çarşamba 15:30/17:29",
-  50,
   0,
   "LU",
   "Fiziksel (Yüz yüze)",
@@ -76665,19 +76641,6 @@
   []
  ],
  [
-  "11878",
-  "KIM 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "KIM",
-  "Abdullah Aydoğan",
-  "Çarşamba 15:30/17:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "11879",
   "GEO 503",
   "Uydu Jeodezisi",
@@ -77045,32 +77008,6 @@
   []
  ],
  [
-  "11907",
-  "GEO 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "GEO",
-  "Nebiye Musaoğlu",
-  "Çarşamba 15:30/17:29",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "11908",
-  "GEO 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "GEO",
-  "Ayşe Filiz Sunar",
-  "Çarşamba 15:30/17:29",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "11909",
   "GEO DRT",
   "Tez Çalışması",
@@ -77220,19 +77157,6 @@
   "MKM",
   "Gülay Öke Günel",
   "Cuma 14:30/16:29",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "11921",
-  "MKM 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "MKM",
-  "Zeki Yağız Bayraktaroğlu",
-  "Çarşamba 15:30/17:29",
   20,
   0,
   "LU",
@@ -77923,19 +77847,6 @@
   "MET",
   "Özgül Keleş , Can Akyıl",
   "Pazartesi 13:30/16:29",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "11973",
-  "MET 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "MET",
-  "Cevat Fahir Arısoy",
-  "Çarşamba 15:30/17:29",
   20,
   0,
   "LU",
@@ -80032,19 +79943,6 @@
   []
  ],
  [
-  "12119",
-  "GIT 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "GIT",
-  "Dursun Zafer Şeker",
-  "Çarşamba 15:30/17:29",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "12120",
   "GIT 801E",
   "Introduction to Geomatics",
@@ -80146,7 +80044,7 @@
   "RBT 596",
   "Bilimsel Araş.,Etik ve Seminer",
   "RBT",
-  "Şükran Çavdar",
+  "Recep Bıyık",
   "Cuma 14:00/15:59",
   10,
   0,
@@ -82479,19 +82377,6 @@
   []
  ],
  [
-  "12274",
-  "ABM 696",
-  "Bilimsel Araştırma, Etik ve Seminer",
-  "ABM",
-  "Ömer Ekmekcioğlu",
-  "Çarşamba 15:30/17:29",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "12275",
   "ABM YET",
   "Yeterlik Aşaması",
@@ -83355,19 +83240,6 @@
   ]
  ],
  [
-  "12332",
-  "YAP 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "YAP",
-  "Burcu Güneş",
-  "Çarşamba 15:30/17:29",
-  0,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "12333",
   "YAP 617E",
   "Nonliear Behav.Renf.Conc.Mem.",
@@ -83734,21 +83606,6 @@
   "LU",
   "Fiziksel (Yüz yüze)",
   []
- ],
- [
-  "12358",
-  "BLG 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "BLG",
-  "Ayşe Tosun Kühn",
-  "Çarşamba 15:30/17:29",
-  45,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  [
-   "BLG_BG_DR"
-  ]
  ],
  [
   "12359",
@@ -84258,19 +84115,6 @@
   "LEE",
   "Pelin Bolat , Gizem Kayişoğlu",
   "Perşembe 08:30/11:29",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12402",
-  "DZC 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "DZC",
-  "Pelin Bolat",
-  "Çarşamba 15:30/17:29",
   20,
   0,
   "LU",
@@ -86661,19 +86505,6 @@
   []
  ],
  [
-  "12559",
-  "MDP 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "MDP",
-  "Emine Şirin Özgün Tanır",
-  "Çarşamba 15:30/17:29",
-  200,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "12561",
   "MDP 671E",
   "Contempo.Practic.in Sonic Art",
@@ -86966,6 +86797,7 @@
    "BLG_LS",
    "BLGE_LS",
    "ECNE_LS",
+   "SECE_LS",
    "YZVE_LS"
   ]
  ],
@@ -87460,19 +87292,6 @@
   []
  ],
  [
-  "12611",
-  "GEM 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "GEM",
-  "Şakir Bal",
-  "Çarşamba 15:30/17:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "12612",
   "GEM DRT",
   "Tez Çalışması",
@@ -87807,19 +87626,6 @@
   "MIT",
   "Ahmet Erdem Tozoğlu",
   "Çarşamba 12:30/15:29",
-  15,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12638",
-  "MIT 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "MIT",
-  "Mıyukı Aokı Gırardellı",
-  "Çarşamba 15:30/17:29",
   15,
   0,
   "LU",
@@ -88478,19 +88284,6 @@
    "PEM_LS",
    "PEME_LS"
   ]
- ],
- [
-  "12686",
-  "TEK 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "TEK",
-  "Yeşim Beceren",
-  "Çarşamba 15:30/17:29",
-  15,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
  ],
  [
   "12687",
@@ -89188,19 +88981,6 @@
   []
  ],
  [
-  "12736",
-  "MBL 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "MBL",
-  "Leman Figen Gül , Ahmet Gün",
-  "Çarşamba 15:30/17:29",
-  8,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "12737",
   "MBL 513E",
   "Digital Arch.Design&Modelling",
@@ -89394,19 +89174,6 @@
   "Mine Özkar Kabakçıoğlu , Derya Güleç Özer , Ayşegül Akçay Kavakoğlu",
   "Çarşamba 13:30/15:29",
   15,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12752",
-  "YAB 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "YAB",
-  "Caner Göçer",
-  "Çarşamba 15:30/17:29",
-  50,
   0,
   "LU",
   "Fiziksel (Yüz yüze)",
@@ -89684,19 +89451,6 @@
   []
  ],
  [
-  "12807",
-  "TEL 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "TEL",
-  "Tayfun Akgül",
-  "Çarşamba 15:30/17:29",
-  40,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "12808",
   "TEK 301E",
   "Nonwoven Technology",
@@ -89832,19 +89586,6 @@
   "Halit Özen , Mustafa Can Özkan",
   "Pazartesi 13:00/14:59",
   15,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12854",
-  "ULS 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "ULS",
-  "Halit Özen , Oğuz Tengilimoğlu",
-  "Pazartesi 15:00/16:59",
-  10,
   0,
   "LU",
   "Fiziksel (Yüz yüze)",
@@ -90429,7 +90170,7 @@
   25,
   0,
   "LU",
-  "Fiziksel (Yüz yüze)",
+  "Sanal (Çevrimiçi/Online)",
   []
  ],
  [
@@ -90465,19 +90206,6 @@
   "HBM",
   "Süha Tuna",
   "Çarşamba 09:30/12:29",
-  25,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12900",
-  "HBM 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "HBM",
-  "Süha Tuna",
-  "Çarşamba 15:30/17:29",
   25,
   0,
   "LU",
@@ -90736,19 +90464,6 @@
   "Sefer Baday",
   "Salı 13:30/16:29",
   26,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12920",
-  "END 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "END",
-  "Murat Baskak",
-  "Çarşamba 15:30/17:29",
-  20,
   0,
   "LU",
   "Fiziksel (Yüz yüze)",
@@ -91050,9 +90765,9 @@
   "KMM 696",
   "Bilimsel Araş.,Etik ve Seminer",
   "KMM",
-  "Hanzade Açma",
-  "Çarşamba 15:30/17:29",
-  10,
+  "-",
+  "",
+  0,
   0,
   "LU",
   "Fiziksel (Yüz yüze)",
@@ -91355,19 +91070,6 @@
   "Alper Özkök",
   "Pazartesi 13:30/16:29",
   25,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12965",
-  "KBM 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "KBM",
-  "Cihan Bayındır",
-  "Çarşamba 15:30/17:29",
-  10,
   0,
   "LU",
   "Fiziksel (Yüz yüze)",
@@ -91969,19 +91671,6 @@
   []
  ],
  [
-  "13008",
-  "STR 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "STR",
-  "Deniz Çalışır Pençe",
-  "Çarşamba 15:30/17:29",
-  10,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13009",
   "PAZ 151",
   "Intro. to Physical Sciences",
@@ -92214,19 +91903,6 @@
    "ROS_LS",
    "ROSE_LS"
   ]
- ],
- [
-  "13025",
-  "MTS 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "MTS",
-  "Bihter Almaç",
-  "Çarşamba 15:30/17:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
  ],
  [
   "13026",
@@ -92592,19 +92268,6 @@
   []
  ],
  [
-  "13053",
-  "ELK 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "ELK",
-  "Güven Kömürgöz Kırış",
-  "Çarşamba 15:30/17:29",
-  10,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13054",
   "ELK 596",
   "Bilimsel Araş.,Etik ve Seminer",
@@ -92771,19 +92434,6 @@
   []
  ],
  [
-  "13066",
-  "PET 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "PET",
-  "İhsan Burak Kulga",
-  "Çarşamba 15:30/17:29",
-  16,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13068",
   "MAT 210",
   "Mühendislik Matematiği",
@@ -92819,19 +92469,6 @@
   "PEM",
   "Nilay Özlü Karaca",
   "Salı 13:30/16:29",
-  10,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13071",
-  "PEM 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "PEM",
-  "Nilay Özlü Karaca",
-  "Çarşamba 15:30/17:29",
   10,
   0,
   "LU",
@@ -92950,19 +92587,6 @@
   "İlhami Akkum",
   "Çarşamba 18:00/20:59",
   20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13081",
-  "BLU 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "BLU",
-  "Volkan Müjdat Tiryaki",
-  "Çarşamba 15:30/17:29",
-  25,
   0,
   "LU",
   "Fiziksel (Yüz yüze)",
@@ -93139,19 +92763,6 @@
   "UAH",
   "Sebahattin Eker",
   "Pazartesi 14:30/17:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13095",
-  "UAH 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "UAH",
-  "Sebahattin Eker",
-  "Çarşamba 15:30/17:29",
   30,
   0,
   "LU",
@@ -93831,19 +93442,6 @@
   []
  ],
  [
-  "13127",
-  "SBP 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "SBP",
-  "Kerem Yavuz Arslanlı",
-  "Çarşamba 15:30/17:29",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13128",
   "SBP 606E",
   "Culture and Urban Space",
@@ -94247,19 +93845,6 @@
   []
  ],
  [
-  "13159",
-  "PST 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "PST",
-  "Nesrin Köken",
-  "Çarşamba 15:30/17:29",
-  25,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13160",
   "PST DRT",
   "Tez Çalışması",
@@ -94468,19 +94053,6 @@
   []
  ],
  [
-  "13176",
-  "EUT 696E",
-  "Scien. Research, Ethic&Sem.",
-  "EUT",
-  "Koray Gelmez",
-  "Çarşamba 15:30/17:29",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13177",
   "GID 501E",
   "Food Analysis:Theory&Applica.",
@@ -94604,19 +94176,6 @@
   "GID",
   "Fatma Ebru Fıratlıgil",
   "Çarşamba 13:30/15:29",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13187",
-  "GID 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "GID",
-  "Fatma Ebru Fıratlıgil",
-  "Çarşamba 15:30/17:29",
   20,
   0,
   "LU",
@@ -94786,19 +94345,6 @@
   "JFM",
   "Hülya Kurt",
   "Perşembe 09:30/12:29",
-  10,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13201",
-  "JFM 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "JFM",
-  "Neslihan Ocakoğlu Gökaşan",
-  "Çarşamba 15:30/17:29",
   10,
   0,
   "LU",
@@ -94981,32 +94527,6 @@
   "MBG",
   "Ece Polat",
   "Çarşamba 09:30/12:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13216",
-  "MBG 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "MBG",
-  "Ayten Karataş , Çiğdem Yılmaz Çolak",
-  "Çarşamba 15:30/17:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13217",
-  "MBM 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "MBM",
-  "Erçin Çağan Duran",
-  "Çarşamba 15:30/17:29",
   30,
   0,
   "LU",
@@ -95300,19 +94820,6 @@
   []
  ],
  [
-  "13241",
-  "JEO 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "JEO",
-  "Şule Gürboğa",
-  "Çarşamba 15:30/17:29",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13242",
   "JEO DRT",
   "Tez Çalışması",
@@ -95598,19 +95105,6 @@
   "Fatma Pınar Çakmak",
   "Salı 09:30/12:29",
   20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13264",
-  "PYY 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "PYY",
-  "Emrah Acar",
-  "Çarşamba 15:30/17:29",
-  10,
   0,
   "LU",
   "Fiziksel (Yüz yüze)",
@@ -96280,19 +95774,6 @@
   []
  ],
  [
-  "13319",
-  "UUM 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "UUM",
-  "İbrahim Özkol",
-  "Çarşamba 15:30/17:29",
-  60,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13320",
   "UUM 512E",
   "Unsteady Aerodynamics",
@@ -96696,19 +96177,6 @@
   []
  ],
  [
-  "13352",
-  "MAD 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "MAD",
-  "Türker Hüdaverdi",
-  "Çarşamba 15:30/17:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13353",
   "MAD DRT",
   "Tez Çalışması",
@@ -96870,8 +96338,8 @@
   "Denizci.Sektör.Kariyer Plan.",
   "DZC",
   "Bayram Barış Kızılsaç",
-  "Pazartesi 11:30/14:29",
-  10,
+  "",
+  0,
   0,
   "LU",
   "Fiziksel (Yüz yüze)",
@@ -97110,19 +96578,6 @@
   "STD",
   "Gürcan Koçan",
   "Salı 09:30/12:29",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13386",
-  "STD 696E",
-  "Scientific Research, Ethics and Seminar",
-  "STD",
-  "Görkem Giray",
-  "Çarşamba 15:30/17:29",
   20,
   0,
   "LU",
@@ -97638,19 +97093,6 @@
   "MAT",
   "Atabey Kaygun",
   "Cuma 14:30/17:29",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13425",
-  "MAT 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "MAT",
-  "Aybike Özer",
-  "Çarşamba 15:30/17:29",
   20,
   0,
   "LU",
@@ -98425,19 +97867,6 @@
   []
  ],
  [
-  "13482",
-  "CBM 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "CBM",
-  "Kübra Altuntaş",
-  "Çarşamba 15:30/17:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13484",
   "GEO 213E",
   "Positioning Method and Systems",
@@ -98601,19 +98030,6 @@
   "Seval Sözen",
   "Perşembe 08:30/11:29",
   30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13496",
-  "BBL 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "BBL",
-  "Abdulkerim Çapar",
-  "Çarşamba 15:30/17:29",
-  25,
   0,
   "LU",
   "Fiziksel (Yüz yüze)",
@@ -99483,19 +98899,6 @@
   "Demet Biltekin",
   "Pazartesi 09:30/12:29",
   10,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13554",
-  "YSB 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "YSB",
-  "Hüseyin Özdemir",
-  "Çarşamba 15:30/17:29",
-  25,
   0,
   "LU",
   "Fiziksel (Yüz yüze)",
@@ -101417,19 +100820,6 @@
   []
  ],
  [
-  "13688",
-  "ELE 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "ELE",
-  "Nil Banu Tarım",
-  "Çarşamba 15:30/17:29",
-  8,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13689",
   "ELE 531E",
   "Network Syn.&Passi.Filter Des.",
@@ -101696,19 +101086,6 @@
   "MJT",
   "Sertaç Kakı",
   "Pazartesi 13:30/16:29",
-  10,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13710",
-  "MJT 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "MJT",
-  "Burcu Yıldız Ataş",
-  "Çarşamba 15:30/17:29",
   10,
   0,
   "LU",
@@ -102031,32 +101408,6 @@
   "Birgül Benli",
   "Salı 09:30/12:29",
   20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13734",
-  "CHZ 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "CHZ",
-  "Fırat Burat",
-  "Çarşamba 15:30/17:29",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13735",
-  "CHZ 696E",
-  "Scientific Research, Ethic and Seminar",
-  "CHZ",
-  "Orhan Özdemir",
-  "Çarşamba 15:30/17:29",
-  0,
   0,
   "LU",
   "Fiziksel (Yüz yüze)",
@@ -103068,7 +102419,7 @@
   "MAT",
   "Ahmet Duran",
   "Çarşamba 12:30/15:29",
-  70,
+  75,
   69,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -103437,19 +102788,6 @@
   []
  ],
  [
-  "13828",
-  "FIZ 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "FIZ",
-  "Sevim İşçi Turutoğlu",
-  "Çarşamba 15:30/17:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13829",
   "FIZ DRT",
   "Tez Çalışması",
@@ -103580,19 +102918,6 @@
   []
  ],
  [
-  "13839",
-  "RST 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "RST",
-  "Yegan Kahya Sayar",
-  "Çarşamba 15:30/17:29",
-  10,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13840",
   "RST 609E",
   "Conser.of Modern Achite.Herit.",
@@ -103664,7 +102989,7 @@
   "FIZ",
   "Mehmet Murat Sunar",
   "Pazartesi 14:30/17:29",
-  75,
+  80,
   75,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -104401,7 +103726,7 @@
   "FIZ",
   "Berna Morova",
   "Pazartesi 15:30/17:29 | Çarşamba 13:30/15:29",
-  30,
+  35,
   30,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -104681,19 +104006,6 @@
   "MTO",
   "Zerefşan Kaymaz",
   "Çarşamba 08:30/11:29",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13909",
-  "MTO 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "MTO",
-  "Barış Önol",
-  "Çarşamba 15:30/17:29",
   20,
   0,
   "LU",
@@ -105317,19 +104629,6 @@
   []
  ],
  [
-  "13953",
-  "ZMG 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "ZMG",
-  "Atila Sezen",
-  "Çarşamba 15:30/17:29",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13954",
   "ZMG 513E",
   "Coastal&Offshore Geotec.Eng.",
@@ -105469,19 +104768,6 @@
   30,
   15,
   "LUI",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13965",
-  "HSK 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "HSK",
-  "Tarkan Erdik",
-  "Çarşamba 15:30/17:29",
-  20,
-  0,
-  "LU",
   "Fiziksel (Yüz yüze)",
   []
  ],
@@ -106780,19 +106066,6 @@
    "CEV_LS",
    "CEVE_LS"
   ]
- ],
- [
-  "14058",
-  "EBT 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "EBT",
-  "Burak Tekin",
-  "Çarşamba 15:30/17:29",
-  15,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
  ],
  [
   "14059",
@@ -108455,19 +107728,6 @@
   []
  ],
  [
-  "14176",
-  "DUM 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "DUM",
-  "Burak Zincir",
-  "Çarşamba 15:30/17:29",
-  10,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "14177",
   "DUM YLT",
   "Tez Çalışması",
@@ -108680,19 +107940,6 @@
   "Ramazan Yeniçeri",
   "",
   200,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "14192",
-  "STP 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "STP",
-  "Ramazan Yeniçeri",
-  "Çarşamba 15:30/17:29",
-  20,
   0,
   "LU",
   "Fiziksel (Yüz yüze)",
@@ -111374,7 +110621,7 @@
   "SBP",
   "Özhan Ertekin",
   "Salı 13:30/17:29 | Cuma 14:00/17:59",
-  10,
+  12,
   10,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -115483,6 +114730,7 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "AIN_LS",
    "INS_LS",
    "INSE_LS"
   ]
@@ -115499,6 +114747,7 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "AIN_LS",
    "INS_LS",
    "INSE_LS"
   ]
@@ -115561,6 +114810,7 @@
   "Fiziksel (Yüz yüze)",
   [
    "AIN_LS",
+   "INS_LS",
    "INSE_LS"
   ]
  ],
@@ -115577,6 +114827,7 @@
   "Fiziksel (Yüz yüze)",
   [
    "AIN_LS",
+   "INS_LS",
    "INSE_LS"
   ]
  ],
@@ -115778,6 +115029,7 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "AIN_LS",
    "INS_LS",
    "INSE_LS"
   ]
@@ -115794,6 +115046,7 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "AIN_LS",
    "INS_LS",
    "INSE_LS"
   ]
@@ -115810,6 +115063,7 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "AIN_LS",
    "INS_LS",
    "INSE_LS"
   ]
@@ -115841,6 +115095,7 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "AIN_LS",
    "INS_LS",
    "INSE_LS"
   ]
@@ -115857,6 +115112,7 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "AIN_LS",
    "INS_LS",
    "INSE_LS"
   ]
@@ -115888,6 +115144,7 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "AIN_LS",
    "INS_LS",
    "INSE_LS"
   ]
@@ -115904,6 +115161,7 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "AIN_LS",
    "INS_LS",
    "INSE_LS"
   ]
@@ -116128,6 +115386,7 @@
   "Fiziksel (Yüz yüze)",
   [
    "AIN_LS",
+   "INS_LS",
    "INSE_LS"
   ]
  ],
@@ -116174,6 +115433,7 @@
   "Fiziksel (Yüz yüze)",
   [
    "AIN_LS",
+   "INS_LS",
    "INSE_LS"
   ]
  ],
@@ -116220,6 +115480,7 @@
   "Fiziksel (Yüz yüze)",
   [
    "AIN_LS",
+   "INS_LS",
    "INSE_LS"
   ]
  ],
@@ -116236,6 +115497,7 @@
   "Fiziksel (Yüz yüze)",
   [
    "AIN_LS",
+   "INS_LS",
    "INSE_LS"
   ]
  ],
@@ -116390,6 +115652,7 @@
   "Fiziksel (Yüz yüze)",
   [
    "AIN_LS",
+   "INS_LS",
    "INSE_LS"
   ]
  ],
@@ -116406,6 +115669,7 @@
   "Fiziksel (Yüz yüze)",
   [
    "AIN_LS",
+   "INS_LS",
    "INSE_LS"
   ]
  ],
@@ -116452,6 +115716,7 @@
   "Fiziksel (Yüz yüze)",
   [
    "AIN_LS",
+   "INS_LS",
    "INSE_LS"
   ]
  ],
@@ -116468,6 +115733,7 @@
   "Fiziksel (Yüz yüze)",
   [
    "AIN_LS",
+   "INS_LS",
    "INSE_LS"
   ]
  ],
@@ -119884,19 +119150,6 @@
   []
  ],
  [
-  "14779",
-  "KOM 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "KOM",
-  "Ahmet Onat",
-  "Çarşamba 15:30/17:29",
-  10,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "14780",
   "KOM 501E",
   "Cont.Sist.With Paramet. Uncert",
@@ -120251,19 +119504,6 @@
   "ISL",
   "Osman Taylan",
   "Perşembe 09:30/12:29",
-  15,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "14807",
-  "ISL 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "ISL",
-  "Raziye Selim",
-  "Çarşamba 15:30/17:29",
   15,
   0,
   "LU",
@@ -120654,7 +119894,7 @@
   "MAK",
   "Sevinç Ayşe Zaloğlu",
   "Cuma 14:00/16:59",
-  100,
+  110,
   100,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -120730,7 +119970,7 @@
   "MAK",
   "Ata Muğan",
   "Çarşamba 08:30/10:29 | Cuma 08:30/10:29",
-  80,
+  85,
   80,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -120746,7 +119986,7 @@
   "MAK",
   "Mehmet Salih Dokuz",
   "Çarşamba 08:30/10:29 | Cuma 08:30/10:29",
-  80,
+  85,
   80,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -121386,7 +120626,7 @@
   "MAK",
   "İbrahim Mehmet Palabıyık",
   "Çarşamba 10:30/13:29",
-  60,
+  65,
   60,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -121403,7 +120643,7 @@
   "MAK",
   "Vedat Temiz",
   "Çarşamba 10:30/13:29",
-  60,
+  65,
   60,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -121488,7 +120728,7 @@
   "MAK",
   "Mustafa Bakkal , Turgut Gülmez",
   "Salı 08:30/10:29 | Cuma 08:30/10:29",
-  100,
+  110,
   100,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -122051,19 +121291,6 @@
   []
  ],
  [
-  "14923",
-  "NSE 696E",
-  "Scien.Rese., Ethic&Seminar",
-  "NSE",
-  "Birgül Benli",
-  "Çarşamba 15:30/17:29",
-  50,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "14924",
   "NSE DRT",
   "Tez Çalışması",
@@ -122436,19 +121663,6 @@
   "Aytekin Çökelez",
   "Perşembe 14:30/17:29",
   10,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "14949",
-  "BVT 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "BVT",
-  "Aytekin Çökelez",
-  "Çarşamba 15:30/17:29",
-  15,
   0,
   "LU",
   "Fiziksel (Yüz yüze)",
@@ -123793,19 +123007,6 @@
   []
  ],
  [
-  "15046",
-  "MAK 696",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "MAK",
-  "Abdussamet Subaşı",
-  "Çarşamba 15:30/17:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "15047",
   "MAK YET",
   "Yeterlik Aşaması",
@@ -123938,7 +123139,7 @@
   "PHY",
   "Mehmet Özkan",
   "Salı 14:30/17:29",
-  35,
+  37,
   35,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -123975,7 +123176,7 @@
   "PHY",
   "Mehmet Özkan",
   "Çarşamba 08:30/10:29",
-  35,
+  37,
   35,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -123995,7 +123196,7 @@
   "PHY",
   "Sevda Şahinbay",
   "Salı 14:30/17:29",
-  35,
+  37,
   35,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -124015,7 +123216,7 @@
   "PHY",
   "Sevda Şahinbay",
   "Çarşamba 13:30/15:29",
-  35,
+  37,
   35,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -124225,19 +123426,6 @@
   []
  ],
  [
-  "15078",
-  "MHN 506",
-  "Üretim Yönetimi",
-  "MHN",
-  "-",
-  "",
-  0,
-  1,
-  "LUI",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "15079",
   "MHN 515",
   "İnsan Kaynak.&Perform.Yön.",
@@ -124398,19 +123586,6 @@
   "BYM",
   "Tuba Yılmaz Abdolsaheb",
   "Perşembe 14:00/15:59",
-  20,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "15093",
-  "BYM 696E",
-  "Sci. Research, Ethic & Seminar",
-  "BYM",
-  "-",
-  "Çarşamba 15:30/17:29",
   20,
   0,
   "LU",
@@ -126528,7 +125703,7 @@
   "BIL",
   "Ata Bilgili",
   "Perşembe 11:30/14:29",
-  30,
+  50,
   30,
   "LS",
   "Sanal (Çevrimiçi/Online)",
@@ -126544,7 +125719,7 @@
   "BIL",
   "Ata Bilgili",
   "Çarşamba 09:30/12:29",
-  30,
+  50,
   19,
   "LS",
   "Sanal (Çevrimiçi/Online)",
@@ -127436,7 +126611,8 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "CEV_LS"
+   "CEV_LS",
+   "INS_LS"
   ]
  ],
  [
@@ -129730,7 +128906,7 @@
   0,
   0,
   "LS",
-  "Fiziksel (Yüz yüze)",
+  "Ek Sınav",
   []
  ],
  [
@@ -129745,6 +128921,7 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "CEV_LS",
    "INS_LS"
   ]
  ],
@@ -129758,7 +128935,7 @@
   0,
   0,
   "LS",
-  "Fiziksel (Yüz yüze)",
+  "Ek Sınav",
   []
  ],
  [
@@ -129773,7 +128950,10 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "CEV_LS",
    "CEVE_LS",
+   "INS_LS",
+   "INSE_LS",
    "JEF_LS",
    "JEFE_LS"
   ]
@@ -129788,7 +128968,7 @@
   0,
   0,
   "LS",
-  "Fiziksel (Yüz yüze)",
+  "Ek Sınav",
   []
  ],
  [
@@ -129801,7 +128981,7 @@
   0,
   0,
   "LS",
-  "Fiziksel (Yüz yüze)",
+  "Ek Sınav",
   []
  ],
  [
@@ -129814,7 +128994,7 @@
   0,
   0,
   "LS",
-  "Fiziksel (Yüz yüze)",
+  "Ek Sınav",
   []
  ],
  [
@@ -129827,7 +129007,7 @@
   0,
   0,
   "LS",
-  "Fiziksel (Yüz yüze)",
+  "Ek Sınav",
   []
  ],
  [
@@ -129840,7 +129020,7 @@
   0,
   0,
   "LS",
-  "Fiziksel (Yüz yüze)",
+  "Ek Sınav",
   []
  ],
  [
@@ -131311,7 +130491,7 @@
   "BIL",
   "Ömer Özyıldırım",
   "Çarşamba 17:30/20:29",
-  80,
+  100,
   80,
   "LS",
   "Sanal (Çevrimiçi/Online)",
@@ -131510,8 +130690,8 @@
   "Structural Design of Ships",
   "GEM",
   "İbrahim Tuğrul Ardıç",
-  "",
-  0,
+  "Pazartesi 12:30/14:29 | Perşembe 09:30/10:29",
+  50,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -133024,7 +132204,7 @@
   "PHY",
   "Yağız Morova",
   "Salı 14:30/17:29",
-  30,
+  0,
   2,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -133044,7 +132224,7 @@
   "PHY",
   "Yağız Morova",
   "Çarşamba 13:30/15:29",
-  30,
+  0,
   3,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -133233,7 +132413,9 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "CEV_LS",
    "CEVE_LS",
+   "INS_LS",
    "INSE_LS"
   ]
  ],
@@ -133531,6 +132713,259 @@
   [
    "CAB_LS",
    "CEB_LS"
+  ]
+ ],
+ [
+  "15639",
+  "OSN 421E",
+  "Marine Monitoring Techniques",
+  "OSN",
+  "Oktay Eren Türeyen",
+  "Çarşamba 08:30/11:29",
+  20,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "DEN_LS",
+   "DENE_LS",
+   "OSN_YD"
+  ]
+ ],
+ [
+  "15640",
+  "KMP 198",
+  "Konturpuan-Füg II",
+  "KMP",
+  "Ayhan Gunca",
+  "Çarşamba 13:30/15:29",
+  10,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "CAB_LS",
+   "CEB_LS",
+   "MTR_LS"
+  ]
+ ],
+ [
+  "15641",
+  "MAT 324E",
+  "Algebra",
+  "MAT",
+  "Sevgi Harman",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15642",
+  "BIO 328E",
+  "Biochemistry II",
+  "BIO",
+  "Nevin Gül Karagüler",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15643",
+  "BIO 415EL",
+  "Molecular Biology Lab.",
+  "BIO",
+  "Aslı Kumbasar",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15644",
+  "MAT 374",
+  "Hes. Sürekli Ortamlar Mekaniği",
+  "MAT",
+  "Rahmiye Ergün",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  [
+   "MAT_LS"
+  ]
+ ],
+ [
+  "15645",
+  "MAT 342E",
+  "Differential Geometry",
+  "MAT",
+  "Elif Canfes",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  [
+   "MAT_LS",
+   "MATE_LS"
+  ]
+ ],
+ [
+  "15646",
+  "MAT 455E",
+  "Topology",
+  "MAT",
+  "Atabey Kaygun",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  [
+   "MAT_LS",
+   "MAT_LS",
+   "MATE_LS"
+  ]
+ ],
+ [
+  "15647",
+  "BIO 451E",
+  "Industrial Microbiology",
+  "BIO",
+  "Çiğdem Yılmaz Çolak",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15648",
+  "BIO 417E",
+  "Molecular Biology",
+  "BIO",
+  "Aslı Kumbasar , Arzu Karabay Korkmaz",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15649",
+  "FIZ 374",
+  "Fizikte Deneysel Yöntemler I",
+  "FIZ",
+  "Murat Erdem",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15650",
+  "FIZ 274",
+  "Fizikçiler için Termodinamik",
+  "FIZ",
+  "Sevim İşçi Turutoğlu",
+  "",
+  0,
+  0,
+  "LS",
+  "Ek Sınav",
+  []
+ ],
+ [
+  "15651",
+  "LEE 696E",
+  "Scientific Research, Ethics, and Seminar",
+  "LEE",
+  "Görkem Giray",
+  "Çarşamba 14:30/16:29",
+  200,
+  0,
+  "LU",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15652",
+  "LEE 696",
+  "Bilimsel Araştırma, Etik ve Seminer",
+  "LEE",
+  "Emel Önder Karaoğlu",
+  "Çarşamba 14:30/16:29",
+  200,
+  0,
+  "LU",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15653",
+  "GEO 615E",
+  "Curve and Surface Fitting Meth",
+  "GEO",
+  "Mustafa Fahri Karabulut",
+  "Pazartesi 13:00/15:59",
+  20,
+  0,
+  "LU",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15654",
+  "LEE 905",
+  "İnovas.Teknik.&Patent Süreç.",
+  "LEE",
+  "Tahir Soyugüzel",
+  "Çarşamba 14:00/16:59",
+  20,
+  0,
+  "LU",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15655",
+  "MTS 615E",
+  "Advanced Topics in Architectural Design",
+  "MTS",
+  "-",
+  "Pazartesi 13:30/16:29",
+  10,
+  0,
+  "LU",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15656",
+  "GEM 407E",
+  "Methods of Ship Production",
+  "GEM",
+  "Murat Durmaz",
+  "Pazartesi 14:30/17:29",
+  50,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NAE_LS"
   ]
  ]
 ]

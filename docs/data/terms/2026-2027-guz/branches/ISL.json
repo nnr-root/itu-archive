@@ -1411,7 +1411,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Zeynep Erden Bayazıt",
   "buildings": [
-   "ISB"
+   "MSB"
   ],
   "days": [
    "Pazartesi"
@@ -1420,7 +1420,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "212"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -1438,7 +1438,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ferhan Çebi",
   "buildings": [
-   "ISB"
+   "MSB"
   ],
   "days": [
    "Salı"
@@ -1447,7 +1447,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "B01"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -1474,7 +1474,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "209"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -1492,7 +1492,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Kemal Burç Ülengin",
   "buildings": [
-   "ISB"
+   "MSB"
   ],
   "days": [
    "Pazartesi"
@@ -1501,7 +1501,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "B12"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -1519,7 +1519,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Cumhur Enis Ekinci",
   "buildings": [
-   "ISB"
+   "MSB"
   ],
   "days": [
    "Perşembe"
@@ -1528,7 +1528,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "B02"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -1555,7 +1555,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "207"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -1573,7 +1573,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Tuncay Özcan",
   "buildings": [
-   "ISB"
+   "MSB"
   ],
   "days": [
    "Perşembe"
@@ -1582,7 +1582,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "B11"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -1609,7 +1609,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "206"
   ],
   "capacity": 15,
   "enrolled": 0,
@@ -1627,7 +1627,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Derya Gültekin",
   "buildings": [
-   "ISB"
+   "MSB"
   ],
   "days": [
    "Cuma"
@@ -1636,7 +1636,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "B02"
   ],
   "capacity": 15,
   "enrolled": 0,
@@ -1663,34 +1663,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
-  ],
-  "capacity": 15,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "14807",
-  "code": "ISL 696E",
-  "branch": "ISL",
-  "level": "LU",
-  "name": "Scien.Rese., Ethic&Seminar",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Raziye Selim",
-  "buildings": [
-   "ISB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
+   "209"
   ],
   "capacity": 15,
   "enrolled": 0,
