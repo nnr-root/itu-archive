@@ -1,8 +1,8 @@
 {
- "ITY 511": {
-  "code": "ITY 511",
-  "name": "İstatis.Düşünme&Veri Analiz.",
-  "nameEn": "Statistics for Manag.and Engineer",
+ "ITY 510": {
+  "code": "ITY 510",
+  "name": "Yönetim ve Organizasyon",
+  "nameEn": "Management and Organization",
   "language": "Türkçe/English",
   "credits": {
    "theory": 4,
@@ -11,30 +11,25 @@
    "local": 3,
    "ects": 7.5
   },
-  "description": "Veri Toplama, İşleme, ve Özetleme, Olasılığın Esasları, Olasılık Dağılımları, Örnekleme Kuramı ve İstatistiksel Kestirim, İstatistiksel Karar Verme Esasları, İstatistiksel Düşünme ve Analizin Temelini Oluşturan Kavramlar (Varyans Analizi, Regresyon Analizi, Kümeleme Analizi, Sınıflandırma Analizi, Modelleme Yaklaşımları vb.), Varsayımlar ve Analizler, Yazılım Destekli Uygulamalar Data Collection, Processing, and Summarizing, Basics of Probability, Probability Distributions, Sampling and Estimation Theory, Basicis of Statistical Decision Making, Basic Concepts of Statistical Thinking and Analysis (Variance Analysis, Regression Analysis, Cluster Analysis, Classification Analysis, and Modeling Approaches), Assumptions and Analyses, Applications with Software Packages.",
+  "description": "Yönetim, yöneticilik kavramları, yönetim süreci döngüsü, yönetim düşüncesinin evrimi, plânlama, örgütleme, liderlik, uyumlaştırma ve kontrol işlevleri gibi konuların teknoloji yönelimli örgütlere vurgu yapılarak aktarılması. Management, managerial concepts, management process cycle, evolution of management thinking, planning, organizing, leadership, alignment and control functions, with emphasis on technology-oriented organizations.",
   "outcomes": [
-   "İstatistiksel düşünme ilkelerini uygulama.",
-   "Uygun örneklemi belirleme, veri toplama, işleme, özetleme.",
-   "Olasılığın temel kurallarını, olasılık dağılımlarını ve uygulama alanlarını tanımlama.",
-   "Örnekleme kuramını yorumlama ve istatistiksel kestirim yapma.",
-   "Hipotez geliştirilmesi ve analizi için gerekli istatistiksel kuramı ve işlemsel prosedürleri açıklama.",
-   "Gereksinim duyulan istatistiksel modelleme yaklaşımını belirleme.",
-   "Grup ortalamalarına ilişkin deneyler tasarlama ve anlamlılık testleri ile sınama.",
-   "Bağımsız değişken(ler)deki değişime karşılık gelen bağımlı değişken(ler)deki değişimi modelleyip analiz etme.",
-   "Bireyleri veya nesneleri sahip oldukları özelliklerin benzerliğinden yararlanarak homojen gruplara ayırma."
+   "Yönetim, yönetici ve diğer örgütsel kavramları tanımlayabilme bilgi ve becerisi.",
+   "Örgütlerdeki ve yönetim süreçlerindeki karmaşık durumları analiz edebilme yetkinliği.",
+   "Yönetim ve organizasyon durumlarıyla başa çıkma yolları geliştirme becerisi.",
+   "Kendi bakış açılarının farkına varabilme ve örgütlerdeki başka görüşlere daha hoşgörülü olma becerisi."
   ],
   "weeklyTopics": [
-   "Hafta 1 · İstatistiksel Düşünme ve Temel Kavramlar",
-   "Hafta 2 · Veri Toplama ve Verilerin Gözden Geçirilmesi",
-   "Hafta 3 · Verilerin Özetlenip Yorumlanması",
-   "Hafta 4 · Olasılığın Esasları",
-   "Hafta 5 · Örnekleme Kuramı ve İstatistiksel Kestirim",
-   "Hafta 6 · İstatistiksel Karar Vermenin Esasları",
-   "Hafta 7 · İstatistikte Modelleme Yaklaşımları",
-   "Hafta 8 · Varyans Analizi ve Bilgisayar Destekli Uygulamalar",
-   "Hafta 9 · Regresyon Analizi ve Bilgisayar Destekli Uygulamalar",
-   "Hafta 10 · Kümeleme Analizi ve Bilgisayar Destekli Uygulamalar",
-   "Hafta 11 · Sınıflandırma Analizi ve Bilgisayar Destekli Uygulamalar",
+   "Hafta 1 · Çalışma yaşamının anlamı ve önemi, Yönetim bilgisi edinme nedenleri",
+   "Hafta 2 · Temel kavramların güncel anlamları üzerinde düşünme: Dönüşüme yol açan unsurlar",
+   "Hafta 3 · Temel kavramların güncel anlamları üzerinde düşünme: Dönüşüme yol açan unsurlar",
+   "Hafta 4 · Temel kavramların güncel anlamları üzerinde düşünme: Organizasyon, davranış, kültür",
+   "Hafta 5 · Yönetim çevresi",
+   "Hafta 6 · Yönetim düşünüşünün evrimi",
+   "Hafta 7 · Yönetim işlevleri üzerinde düşünme: Planlama, karar verme",
+   "Hafta 8 · Yönetim işlevleri üzerinde düşünme: Örgüt yapısı ve tasarımı",
+   "Hafta 9 · Yönetim işlevleri üzerinde düşünme: Yürütme, kontrol",
+   "Hafta 10 · Davranışsal konulardan bazıları üzerinde düşünme: Liderlik, motivasyon, iletişim",
+   "Hafta 11 · Yönetim ve organizasyonda yeni yönelimler",
    "Hafta 12 · -",
    "Hafta 13 · -",
    "Hafta 14 · -"
@@ -42,180 +37,68 @@
   "weeklyPlan": [
    {
     "week": 1,
-    "topic": "İstatistiksel Düşünme ve Temel Kavramlar",
+    "topic": "Çalışma yaşamının anlamı ve önemi, Yönetim bilgisi edinme nedenleri",
     "outcomes": "1"
    },
    {
     "week": 2,
-    "topic": "Veri Toplama ve Verilerin Gözden Geçirilmesi",
-    "outcomes": "2"
-   },
-   {
-    "week": 3,
-    "topic": "Verilerin Özetlenip Yorumlanması",
-    "outcomes": "2"
-   },
-   {
-    "week": 4,
-    "topic": "Olasılığın Esasları",
-    "outcomes": "3"
-   },
-   {
-    "week": 5,
-    "topic": "Örnekleme Kuramı ve İstatistiksel Kestirim",
-    "outcomes": "4"
-   },
-   {
-    "week": 6,
-    "topic": "İstatistiksel Karar Vermenin Esasları",
-    "outcomes": "5"
-   },
-   {
-    "week": 7,
-    "topic": "İstatistikte Modelleme Yaklaşımları",
-    "outcomes": "6"
-   },
-   {
-    "week": 8,
-    "topic": "Varyans Analizi ve Bilgisayar Destekli Uygulamalar",
-    "outcomes": "7"
-   },
-   {
-    "week": 9,
-    "topic": "Regresyon Analizi ve Bilgisayar Destekli Uygulamalar",
-    "outcomes": "8"
-   },
-   {
-    "week": 10,
-    "topic": "Kümeleme Analizi ve Bilgisayar Destekli Uygulamalar",
-    "outcomes": "9"
-   },
-   {
-    "week": 11,
-    "topic": "Sınıflandırma Analizi ve Bilgisayar Destekli Uygulamalar",
-    "outcomes": "9"
-   },
-   {
-    "week": 12,
-    "topic": "-"
-   },
-   {
-    "week": 13,
-    "topic": "-"
-   },
-   {
-    "week": 14,
-    "topic": "-"
-   }
-  ],
-  "textbooks": [
-   "Levine D.M., Stephan D.F., Szabat K.A. (2017), Statistics for Managers using Microsoft Excel, 8th Global Edition, New Jersey: Pearson Education, Inc.",
-   "Hoerl, R., Snee, R. D. (2012), Statistical Thinking: Improving Business Performance, John Wiley & Sons.",
-   "Alpar R. (2017), Uygulamalı Çok Değişkenli İstatistiksel Yöntemler, 5. Baskı, Detay Yayıncılık, İstanbul.",
-   "Newbold, P., Carlson, W.L., Thorne, B.M. (2013), Statistics for Business and Economics, 8th Edition, New Jersey: Pearson Education, Inc.",
-   "Montgomery D.C., Runger G.C., Hubele N.F. (2017), Çeviri Editörü: C. Özkan, Mühendislik İstatistiği, Palme Yayıncılık."
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITY&dersNo=511"
- },
- "ITY 512": {
-  "code": "ITY 512",
-  "name": "İşletmelerde Optimizasyon",
-  "nameEn": "Operations Research",
-  "language": "Türkçe/English",
-  "credits": {
-   "theory": 4,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "İşletme Süreçleri ve Bu Süreçlerde Verilen Kararlar, Sayısal Karar Verme, Optimizasyon, Optimizasyon Modeli Kurma ve Modelleme Felsefesi, Doğrusal Programlama, Grafik Çözüm, Tamsayılı Programlama Modelleme ve Çözüm Yöntemleri; Gerçek İşletme Problemlerinin Modellenmesi ve Çözümü; Solver, Open Solver ve GAMS yazılımları Introduction to Business Processes and Decision Making in Business Processes, Quantitative Decision Making, Optimization, Formulating Optimization Models and Modeling Philosophy, Linear Programming, Graphical Solution, Integer Programming Modeling and Solving Methods, Modeling and Solution of Real-Life Business Problems, Solver, Open Solver, and GAMS Software.",
-  "outcomes": [
-   "Farklı optimizasyon tekniklerini kullanabilme yetkinliği.",
-   "Doğrusal programlama ile modellenen bir problemi çözebilme ve çözümü yorumlayabilme becerisi.",
-   "Tamsayılı programlama problemlerini modelleme ve çözme yetkinliği.",
-   "Tüm bunları Solver, Open Solver ve GAMS yazılımlarını kullanarak yapabilme yetkinliği",
-   "Gerçek işletme problemlerini modelleme ve çözme yetkinliği."
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Optimizasyon, Temel Kavramlar",
-   "Hafta 2 · Modelleme (DP’de Formülasyon) – Solver ile Çözüm",
-   "Hafta 3 · Grafik Çözüm",
-   "Hafta 4 · Tamsayılı Programlama (Temel Formülasyon)",
-   "Hafta 5 · Vaka Analizi 1 –İşletme Problemlerinde Doğrusal Programlama Modelleme ve Çözümü",
-   "Hafta 6 · Matematiksel Modellerin Çözümünde Kullanılabilecek Yazılımlar",
-   "Hafta 7 · Tamsayılı Programlama (Kapsamlı Koşulların Formülasyonu)",
-   "Hafta 8 · Vaka Analizi 2 –İşletme Problemlerinde Tam Sayılı Programlama Modelleme ve Çözümü",
-   "Hafta 9 · Çok amaçlı modellerin çözümü – Hedef Programlama",
-   "Hafta 10 · Ağ Akış modelleri",
-   "Hafta 11 · Vaka Analizi 3 –İşletme Problemlerinde Hedef Programlama Modelleme ve Çözümü",
-   "Hafta 12 · -",
-   "Hafta 13 · -",
-   "Hafta 14 · -"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Optimizasyon, Temel Kavramlar",
-    "outcomes": "1"
-   },
-   {
-    "week": 2,
-    "topic": "Modelleme (DP’de Formülasyon) – Solver ile Çözüm",
+    "topic": "Temel kavramların güncel anlamları üzerinde düşünme: Dönüşüme yol açan unsurlar",
     "outcomes": "1-2"
    },
    {
     "week": 3,
-    "topic": "Grafik Çözüm",
-    "outcomes": "2"
+    "topic": "Temel kavramların güncel anlamları üzerinde düşünme: Dönüşüme yol açan unsurlar",
+    "outcomes": "1-2"
    },
    {
     "week": 4,
-    "topic": "Tamsayılı Programlama (Temel Formülasyon)",
-    "outcomes": "3"
+    "topic": "Temel kavramların güncel anlamları üzerinde düşünme: Organizasyon, davranış, kültür",
+    "outcomes": "1-2"
    },
    {
     "week": 5,
-    "topic": "Vaka Analizi 1 –İşletme Problemlerinde Doğrusal Programlama Modelleme ve Çözümü",
-    "outcomes": "2-4-5"
+    "topic": "Yönetim çevresi",
+    "outcomes": "1-2-3"
    },
    {
     "week": 6,
-    "topic": "Matematiksel Modellerin Çözümünde Kullanılabilecek Yazılımlar",
-    "outcomes": "4"
+    "topic": "Yönetim düşünüşünün evrimi",
+    "outcomes": "1-4"
    },
    {
     "week": 7,
-    "topic": "Tamsayılı Programlama (Kapsamlı Koşulların Formülasyonu)",
-    "outcomes": "3"
+    "topic": "Yönetim işlevleri üzerinde düşünme: Planlama, karar verme",
+    "outcomes": "1-2-3"
    },
    {
     "week": 8,
-    "topic": "Vaka Analizi 2 –İşletme Problemlerinde Tam Sayılı Programlama Modelleme ve Çözümü",
-    "outcomes": "3-4-5"
+    "topic": "Yönetim işlevleri üzerinde düşünme: Örgüt yapısı ve tasarımı",
+    "outcomes": "1-2-3"
    },
    {
     "week": 9,
-    "topic": "Çok amaçlı modellerin çözümü – Hedef Programlama",
-    "outcomes": "2-3-4"
+    "topic": "Yönetim işlevleri üzerinde düşünme: Yürütme, kontrol",
+    "outcomes": "1-2-3"
    },
    {
     "week": 10,
-    "topic": "Ağ Akış modelleri",
-    "outcomes": "2-4"
+    "topic": "Davranışsal konulardan bazıları üzerinde düşünme: Liderlik, motivasyon, iletişim",
+    "outcomes": "4"
    },
    {
     "week": 11,
-    "topic": "Vaka Analizi 3 –İşletme Problemlerinde Hedef Programlama Modelleme ve Çözümü",
-    "outcomes": "2-3-4-5"
+    "topic": "Yönetim ve organizasyonda yeni yönelimler",
+    "outcomes": "4"
    },
    {
     "week": 12,
-    "topic": "-"
+    "topic": "-",
+    "outcomes": "1"
    },
    {
     "week": 13,
-    "topic": "-"
+    "topic": "-",
+    "outcomes": "1"
    },
    {
     "week": 14,
@@ -223,125 +106,11 @@
    }
   ],
   "textbooks": [
-   "I. Fox, W. P., & Burks, R. E. (2024). Modeling Operations Research and Business Analytics. CRC Press.",
-   "Anderson, D. R., Sweeney, D. J., Williams, T. A., Camm, J. D., & Cochran, J. J. (2018), An Introduction to Management Science: Quantitative Approach, Cengage Learning.",
-   "Winston, W.L. (2004), Operations Research: Applications and Algorithms, Brooks/Cole – Thomson Learning",
-   "Taha, H.A. (2010), Yöneylem Araştırması, Literatür Yayıncılık, Çevirmen: Ş. Alp Baray.",
-   "Hiller, F.S., Lieberman, G.J. (2019), Yöneylem Araştırmasına Giriş, Nobel Akademik Yayıncılık, Çeviri Editörleri: Ferhan Çebi, İpek Deveci Kocakoç"
+   "Koçel, T. (2023), İşletme Yöneticiliği, Beta Basım Yayım, İstanbul.",
+   "Daft, R.L. (2016), Management, 20th Edition, Cengage Learning, USA. (ISBN-978-1-285-86198-2)",
+   "Robbins, S.P.; Coulter, M. and Decenzo, D.A, (2013), Fundamentals of Management: Essential Concepts&Applications, Pearson, ISBN-13: 978-0134238289 (Yönetimin Esasları: Temel Kavramlar ve Uygulamalar, Translation editor: Adem Öğüt; Nobel Akademik Yayıncılık, 2013)"
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITY&dersNo=512"
- },
- "ITY 513": {
-  "code": "ITY 513",
-  "name": "İşletme Ekonomisi",
-  "nameEn": "Business Economics",
-  "language": "Türkçe/English",
-  "credits": {
-   "theory": 4,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "Yönetim Ekonomisinin Temelleri, Piyasa Gücü: Talep ve Arz, Kantitatif Talep Analizi, Tüketici Davranışı Kuramı, Üretim Süreci ve Mâliyetler, Tam Rekabet ve Tekel Piyasalarının Yönetimi, Tekel ve Tekelci Rekabet Piyasalarının Yönetimi, Temel Oligopol Modelleri, Oyun Kuramı: İçsel Oligopol, Piyasa Gücü Olan Firmalar için Fiyat Stratejileri, Makroekonomiye Giriş, Türkiye Ekonomisi. The Fundamentals of Managerial Economics, Market Forces: Demand and Supply, Quantitative Demand Analysis, The Theory of Individual Behavior, The Production Process and Costs, Managing in Competitive and Monopolistic Markets, Managing in Monopolistic, and Monopolistically Competitive Markets, Basic Oligopoly Models, Game Theory: Inside Oligopoly, Pricing Strategies for Firms with Market Power, Introductory Macroeconomics, Turkish Economy.",
-  "outcomes": [
-   "Fiyatların piyasalarda nasıl belirlendiğini nasıl piyasa katılımcılarının, tüketici artığı ve üretici artığı şeklinde yararlandığını ve devlet müdahalesinin sonuçlarının neler olduğunun anlaşılabilmesi becerisinin kazandırılması.",
-   "Mal ve hizmetlerdeki ve/veya diğer mal ve hizmetlerdeki fiyat değişimlerine ve gelirdeki değişimlere tüketicilerin verdiği tepkilerin ölçülebilmesi becerisinin kazandırılması.",
-   "Farklı üretim mâliyetlerinin ve kısa/uzun dönem kararlarına bu mâliyetlerin ne şekilde etki ettiğinin anlaşılabilmesinin sağlanması.",
-   "Mâliyet enküçüklemesi ve kâr enbüyüklemesi için gerekli denge koşullarının oluşturulması becerisinin kazandırılması.",
-   "Ölçek ekonomilerinin, olumsuz ölçek ekonomilerinin ve kapsam ekonomilerinin anlaşılmasının sağlanması ve bunların üretim mâliyetlerini ne şekilde etkilediğini belirleyebilmesinin sağlanması."
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Yönetim Ekonomisinin Temelleri",
-   "Hafta 2 · Piyasa Gücü: Talep ve Arz",
-   "Hafta 3 · Kantitatif Talep Analizi",
-   "Hafta 4 · Tüketici Davranışı Kuramı",
-   "Hafta 5 · Üretim Süreci ve Mâliyetler",
-   "Hafta 6 · Tam Rekabet ve Tekel Piyasalarının Yönetimi",
-   "Hafta 7 · Tekel ve Tekelci Rekabet Piyasalarının Yönetimi",
-   "Hafta 8 · Temel Oligopol Modelleri, Oyun Kuramı: İçsel Oligopol",
-   "Hafta 9 · Piyasa Gücü olan Firmalar için Fiyat Stratejileri",
-   "Hafta 10 · Makroekonomiye Giriş",
-   "Hafta 11 · Türkiye Ekonomisi",
-   "Hafta 12 · -",
-   "Hafta 13 · -",
-   "Hafta 14 · -"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Yönetim Ekonomisinin Temelleri",
-    "outcomes": "4"
-   },
-   {
-    "week": 2,
-    "topic": "Piyasa Gücü: Talep ve Arz",
-    "outcomes": "1-2-4"
-   },
-   {
-    "week": 3,
-    "topic": "Kantitatif Talep Analizi",
-    "outcomes": "1-2-5"
-   },
-   {
-    "week": 4,
-    "topic": "Tüketici Davranışı Kuramı",
-    "outcomes": "1-2-5"
-   },
-   {
-    "week": 5,
-    "topic": "Üretim Süreci ve Mâliyetler",
-    "outcomes": "1-2-4-5"
-   },
-   {
-    "week": 6,
-    "topic": "Tam Rekabet ve Tekel Piyasalarının Yönetimi",
-    "outcomes": "3-4-5"
-   },
-   {
-    "week": 7,
-    "topic": "Tekel ve Tekelci Rekabet Piyasalarının Yönetimi",
-    "outcomes": "3-4-5"
-   },
-   {
-    "week": 8,
-    "topic": "Temel Oligopol Modelleri, Oyun Kuramı: İçsel Oligopol",
-    "outcomes": "3-4-5"
-   },
-   {
-    "week": 9,
-    "topic": "Piyasa Gücü olan Firmalar için Fiyat Stratejileri",
-    "outcomes": "1-2-3-4-5"
-   },
-   {
-    "week": 10,
-    "topic": "Makroekonomiye Giriş",
-    "outcomes": "5"
-   },
-   {
-    "week": 11,
-    "topic": "Türkiye Ekonomisi",
-    "outcomes": "5"
-   },
-   {
-    "week": 12,
-    "topic": "-"
-   },
-   {
-    "week": 13,
-    "topic": "-"
-   },
-   {
-    "week": 14,
-    "topic": "-"
-   }
-  ],
-  "textbooks": [
-   "Baye, Michael & Jeff Prince (2022), Managerial Economics and Business Strategy. 10th Edition, Boston: McGraw-Hill",
-   "Moyer, R.C., Harris, F.H., McGuigan, J.R. (2017), Managerial Economics: Applications, Strategy, and Tactics, 14th ed., Cengage, ISBN-10: 1305506383, ISBN-13: 9781305506381 (MMH)",
-   "Thomas, C.R. and Maurice, S.C. (2024), Managerial Economics: Foundations of Business Analysis and Strategy, McGraw-Hill Education, 14th Edition"
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITY&dersNo=513"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITY&dersNo=510"
  },
  "ITY 516": {
   "code": "ITY 516",
@@ -457,10 +226,10 @@
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITY&dersNo=516"
  },
- "ITY 518": {
-  "code": "ITY 518",
-  "name": "Tedârik Zinciri Yönetimi",
-  "nameEn": "Logistics&Supply Chain Manag.",
+ "ITY 521": {
+  "code": "ITY 521",
+  "name": "Teknoloji, Yenilik&Ar-Ge Yön.",
+  "nameEn": "Management of Tech.&Innov.",
   "language": "Türkçe/English",
   "credits": {
    "theory": 4,
@@ -469,25 +238,25 @@
    "local": 3,
    "ects": 7.5
   },
-  "description": "Tedârik Zincirini Anlamak ve Tedârik Zinciri Yönetimi Stratejileri, Lojistik Yönetimi, Tedârik Zinciri Performans Yönetimi, Tedârik Zincirinde Talep Yönetimi, Tedârik Zincirinde Envanter Yönetimi (ESM, Tek Dönemli Stok Modelleri, Çok Dönemli Stok Modelleri, Çoklu Ürün Modelleri vb.), Tedârik Zincirinde Taşımacılık Yönetimi, Tedârik Zincirinde Depo Yönetimi, Tedârik Zincirinde Dağıtım Yönetimi ve Tedârik Zinciri Ağ Tasarımı Modelleri, Tedârik Zincirinde Karmaşıklık, İşbirliği ve Kamçı Etkisi, Tedârik Zincirinde Rekabetçi Uygulamalar, Tedârik Zincirinde Bilişim Teknolojileri ve Yeni Teknolojiler. Understanding the Supply Chain, Supply Chain Management Strategies, Logistics Management, Supply Chain Performance Management, Demand Management in the Supply Chain, Inventory Management in the Supply Chain, Transportation Management in the Supply Chain, Warehouse Management in the Supply Chain, Distribution Management and Supply Chain Network Design, Coordination in the SC, Bullwhip Effect, Competitive Supply Chain Management Approaches, Supply Chain IT Systems and Technologies.",
+  "description": "Teknoloji, Ar-Ge ve Yenilik Kavramlarının Tanımı, Ar-Ge Yönetimi ve Yeni Teknoloji Geliştirme İlişkisi, Yenilik Türleri ve Amaçları, Ürün Geliştirme Süreci ve Ürün Mimarisi Tasarımı, Teknoloji Ömrü ve Ürün Ömrü İlişkisi, Yenilik Modelleri, Yenilikçi Ar-Ge Organizasyonunun Tasarım Etmenlerini Tanımlamak, Oluşturmak ve Yönetmek, Yenilik Süreci, Teknoloji Transfer Yöntemleri ve Uygun Yöntemin Seçimi, Bir Organizasyon İçin Teknoloji Stratejisinin Hazırlanması. Introduction to Technology, Innovation and R&D Concepts, The Association of R&D Management and New Technology Development, Innovation Types and Objectives, Product Development and Architecture Design, Technology and Product Life Cycle, Innovation Process and Management of Innovation Ideas; Innovation Models, Innovative R&D Organization Design, Technology Transfer Techniques and Selection, Preparation of Technology Strategy for an Organization.",
   "outcomes": [
-   "Tedârik zinciri ve lojistik kavramlarını tanımlamak ve açıklamak.",
-   "Tedârik zinciri yönetim stratejilerini tanımlamak ve açıklamak.",
-   "Uygun tedârik zinciri stratejisini başarabilmek için dikkate alınması gereken karar alanlarını tanımlamak, uygulamaları analiz etmek.",
-   "Tedârik zinciri yönetimi yaklaşımı ve sistemlerini ve bunların işletme ve tüm tedârik zinciri performansı üzerindeki etkilerini yorumlayabilmek."
+   "Yenilik geliştirme yoluyla pazardaki fırsatlardan yararlanıp tehditlerden korunma becerisi.",
+   "Etkin bir Ar-Ge yönetimi için gereken araç ve teknikleri kullanma becerisi.",
+   "Teknoloji, Ar-Ge ve yenilik yönetimiyle ilgili temel problemleri anlama ve uygun şekilde çözme becerisi.",
+   "Yenilikçi bir Ar-Ge organizasyonu geliştirme ve yönetme yetkinliği."
   ],
   "weeklyTopics": [
-   "Hafta 1 · Tedârik Zincirini Anlamak ve Tedârik Zinciri Yönetimi Stratejileri",
-   "Hafta 2 · Lojistik Yönetimi",
-   "Hafta 3 · Tedârik Zinciri Performans Yönetimi",
-   "Hafta 4 · Tedârik Zincirinde Talep Yönetimi",
-   "Hafta 5 · Tedârik Zincirinde Envanter Yönetimi (ESM, Tek Dönemli Stok Modelleri, Çok Dönemli Stok Modelleri, Çoklu Ürün Modelleri vb.)",
-   "Hafta 6 · Tedârik Zincirinde Taşımacılık Yönetimi",
-   "Hafta 7 · Tedârik Zincirinde Depo Yönetimi",
-   "Hafta 8 · Tedârik Zincirinde Dağıtım Yönetimi ve Tedârik Zinciri Ağ Tasarımı Modelleri",
-   "Hafta 9 · Tedârik Zincirinde Karmaşıklık, İşbirliği ve Kamçı Etkisi",
-   "Hafta 10 · Tedârik Zincirinde Rekabetçi Uygulamalar",
-   "Hafta 11 · Tedârik Zincirinde Bilişim Teknolojileri ve Yeni Teknolojiler",
+   "Hafta 1 · Teknoloji, Yenilik ve Ar-Ge Kavramları",
+   "Hafta 2 · Ar-Ge Yönetimi ve Yeni Teknoloji Geliştirme",
+   "Hafta 3 · Yenilik Türleri",
+   "Hafta 4 · Ürün Mimarîsi ve Ürün Geliştirme",
+   "Hafta 5 · Teknoloji Ömrü ve Ürün Ömrü İlişkisi",
+   "Hafta 6 · Yenilik Süreci",
+   "Hafta 7 · Yeni Ürün Geliştirmede Fikir Kaynaklarının Yönetimi",
+   "Hafta 8 · Yenilik Modelleri",
+   "Hafta 9 · Yenilikçi Ar-Ge Organizasyonu Tasarımı",
+   "Hafta 10 · Teknoloji Transfer Yöntemleri",
+   "Hafta 11 · Yenilik Stratejisinin Hazırlanması",
    "Hafta 12 · -",
    "Hafta 13 · -",
    "Hafta 14 · -"
@@ -495,633 +264,58 @@
   "weeklyPlan": [
    {
     "week": 1,
-    "topic": "Tedârik Zincirini Anlamak ve Tedârik Zinciri Yönetimi Stratejileri",
-    "outcomes": "1-2"
+    "topic": "Teknoloji, Yenilik ve Ar-Ge Kavramları",
+    "outcomes": "1"
    },
    {
     "week": 2,
-    "topic": "Lojistik Yönetimi",
+    "topic": "Ar-Ge Yönetimi ve Yeni Teknoloji Geliştirme",
     "outcomes": "1-2"
    },
    {
     "week": 3,
-    "topic": "Tedârik Zinciri Performans Yönetimi",
-    "outcomes": "4"
+    "topic": "Yenilik Türleri",
+    "outcomes": "1-2"
    },
    {
     "week": 4,
-    "topic": "Tedârik Zincirinde Talep Yönetimi",
-    "outcomes": "1-3"
+    "topic": "Ürün Mimarîsi ve Ürün Geliştirme",
+    "outcomes": "2-3"
    },
    {
     "week": 5,
-    "topic": "Tedârik Zincirinde Envanter Yönetimi (ESM, Tek Dönemli Stok Modelleri, Çok Dönemli Stok Modelleri, Çoklu Ürün Modelleri vb.)",
-    "outcomes": "1-3"
+    "topic": "Teknoloji Ömrü ve Ürün Ömrü İlişkisi",
+    "outcomes": "2-3"
    },
    {
     "week": 6,
-    "topic": "Tedârik Zincirinde Taşımacılık Yönetimi",
-    "outcomes": "1-3"
+    "topic": "Yenilik Süreci",
+    "outcomes": "3-4"
    },
    {
     "week": 7,
-    "topic": "Tedârik Zincirinde Depo Yönetimi",
-    "outcomes": "1-3"
-   },
-   {
-    "week": 8,
-    "topic": "Tedârik Zincirinde Dağıtım Yönetimi ve Tedârik Zinciri Ağ Tasarımı Modelleri",
-    "outcomes": "1-3"
-   },
-   {
-    "week": 9,
-    "topic": "Tedârik Zincirinde Karmaşıklık, İşbirliği ve Kamçı Etkisi",
-    "outcomes": "1-4"
-   },
-   {
-    "week": 10,
-    "topic": "Tedârik Zincirinde Rekabetçi Uygulamalar",
-    "outcomes": "2-4"
-   },
-   {
-    "week": 11,
-    "topic": "Tedârik Zincirinde Bilişim Teknolojileri ve Yeni Teknolojiler",
+    "topic": "Yeni Ürün Geliştirmede Fikir Kaynaklarının Yönetimi",
     "outcomes": "3"
    },
    {
-    "week": 12,
-    "topic": "-"
-   },
-   {
-    "week": 13,
-    "topic": "-"
-   },
-   {
-    "week": 14,
-    "topic": "-"
-   }
-  ],
-  "textbooks": [
-   "Chopra, S. (2019), Supply Chain Management: Strategy, Planning, and Operation, Prentice Hall., Global Edition (7e), Prentice Hall",
-   "Simchi-Levi, D., Kaminsky, P. (2007), Designing and Managing The Supply Chain, McGraw-Hill (3e)",
-   "Langley, C., Gibson, N.B. (2013), Managing Supply Chains A Logistics Approach, Cengage Learning",
-   "Erturgut, R. (2019), Lojistik ve Tedarik Zinciri Yönetimi, ISBN: 978-605-320-376-6, 2. Baskı, NOBEL Akademik Yayıncılık",
-   "Keskin, M.H. (2018), Lojistik ve Tedarik Zinciri Yönetimi, ISBN: 978-605-5426-35-4, 7. Baskı, NOBEL Akademik Yayıncılık"
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITY&dersNo=518"
- },
- "ITY 529": {
-  "code": "ITY 529",
-  "name": "İşletme&Teknol.Yön.Karar Ver.",
-  "nameEn": "Decis.Maki.in Bus.&Tech.Man.",
-  "language": "Türkçe/English",
-  "credits": {
-   "theory": 4,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "Karar Vermeye Giriş, Belirsizlik ve Risk Altında Karar Verme, Karar Ağaçları, Çok Ölçütlü Karar Verme, Sorunu Yapılandırma, Karar Modelini Kurma, Sorunun Analizi, Temel Yöntemler, Analitik Hiyerarşi Süreci, Grup Karar Verme: Takımlar için Teknikler, Grup Karar Verme: Sosyal Seçim Fonksiyonu Introduction to Decision Making, Decision Making under Uncertainty & Under Risk, Decision Trees, Multi Criteria Decision Making, Structuring the Problem, Constructing the Decision Model, Analyzing the Problem, Elementary Method, Analytic Hierarchy Process, Group Decision Making: Techniques for Teams, Group Decision Making: Social Choice Function.",
-  "outcomes": [
-   "Kendilerini etkin karar vermeden uzaklaştırabilecek hataları ve tuzakları tanımlamak.",
-   "Karar verme sürecinin nasıl işlediğini anlayabilmak.",
-   "Karar verme etkinliğini geliştirecek çok sayıda karar verme tekniğini kullanabilmek.",
-   "Karar verebilmek için uzlaşık seçeneği bulabilmek (seçim, sıralama veya sınıflandırma)."
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Karar Verme",
-   "Hafta 2 · Belirsizlik ve Risk Altında Karar Verme",
-   "Hafta 3 · Karar Ağaçları",
-   "Hafta 4 · Çok Ölçütlü Karar Verme",
-   "Hafta 5 · Sorunu Yapılandırma",
-   "Hafta 6 · Karar Modelini Kurma",
-   "Hafta 7 · Sorunun Analizi",
-   "Hafta 8 · Temel Yöntemler",
-   "Hafta 9 · Analitik Hiyerarşi Süreci",
-   "Hafta 10 · Grup Karar Verme: Takımlar İçin Teknikler",
-   "Hafta 11 · Grup Karar Verme: Sosyal Seçim Fonksiyonu",
-   "Hafta 12 · -",
-   "Hafta 13 · -",
-   "Hafta 14 · -"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Karar Verme",
-    "outcomes": "1-2-3-4"
-   },
-   {
-    "week": 2,
-    "topic": "Belirsizlik ve Risk Altında Karar Verme",
-    "outcomes": "3-4"
-   },
-   {
-    "week": 3,
-    "topic": "Karar Ağaçları",
-    "outcomes": "3-4"
-   },
-   {
-    "week": 4,
-    "topic": "Çok Ölçütlü Karar Verme",
-    "outcomes": "1-2"
-   },
-   {
-    "week": 5,
-    "topic": "Sorunu Yapılandırma",
-    "outcomes": "1-2"
-   },
-   {
-    "week": 6,
-    "topic": "Karar Modelini Kurma",
-    "outcomes": "1-2"
-   },
-   {
-    "week": 7,
-    "topic": "Sorunun Analizi",
-    "outcomes": "1-2"
-   },
-   {
     "week": 8,
-    "topic": "Temel Yöntemler",
-    "outcomes": "3-4"
-   },
-   {
-    "week": 9,
-    "topic": "Analitik Hiyerarşi Süreci",
-    "outcomes": "3-4"
-   },
-   {
-    "week": 10,
-    "topic": "Grup Karar Verme: Takımlar İçin Teknikler",
-    "outcomes": "1-2-3"
-   },
-   {
-    "week": 11,
-    "topic": "Grup Karar Verme: Sosyal Seçim Fonksiyonu",
-    "outcomes": "1-2-3-4"
-   },
-   {
-    "week": 12,
-    "topic": "-"
-   },
-   {
-    "week": 13,
-    "topic": "-"
-   },
-   {
-    "week": 14,
-    "topic": "-"
-   }
-  ],
-  "textbooks": [
-   "Thakkar J.J. 2021. Multi-Criteria Decision Making. Springer, Singapore.",
-   "Topcu Y.I., Özaydin Ö., Kabak Ö., Önsel Ekici Ş. 2021. Multiple Criteria Decision Making - Beyond the Information Age. Springer, Cham.",
-   "Bozorg-Haddad O., Zolghadr-Asli B., Loáiciga H.A. 2021. A handbook on multi-attribute decision-making methods. John Wiley & Sons, New Jersey.",
-   "Taylor B.W. 2019. Introduction to Management Science. 13th edition, Pearson Education Inc., New Jersey.",
-   "Render B., Stair Jr R.M., and Hanna M.E. 2018. Quantitative Analysis for Management. 13th edition, Pearson Education Inc., New Jersey"
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITY&dersNo=529"
- },
- "ITY 531": {
-  "code": "ITY 531",
-  "name": "Yapay Zekâ ve Bilgi Yönetimi",
-  "nameEn": "Knowledge Management",
-  "language": "Türkçe/English",
-  "credits": {
-   "theory": 4,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "Veri ve Veri Bilimi, Makine Öğrenmesi, Modelleme Yaklaşımları, Makine Öğrenmesi Algoritmaları, Yapay Zeka Kavramı, Bilgi Yönetimi ve Yapay Zeka, Yapay Zeka Demokratikleşmesi, Açıklanabilir Yapay Zeka, Karar Destek Sistemleri, Yapay Zeka Etiği, Sorumlu Yapay Zeka, Bilgi Güvenliği, Veri Gizliliği Data and Data Science, Machine Learning, Modeling Approaches, Machine Learning Algorithms, Artificial Intelligence Concept, Knowledge Management and Artificial Intelligence, Democratization of Artificial Intelligence, Explainable Artificial Intelligence, Decision Support Systems, Artificial Intelligence Ethics, Responsible Artificial Intelligence, Information Security, Data Privacy",
-  "outcomes": [
-   "Veri bilimi, makine öğrenmesi ve Yapay Zeka kavramlarını anlamak",
-   "Yapay Zeka’nın bilgi yönetimi ve karar destek sistemlerindeki etkisini değerlendirmek",
-   "Yapay Zeka demokratikleşmesi, açıklanabilir ve sorumlu Yapay Zeka konularını açıklamak",
-   "Yapay Zeka etiği ve veri güvenliği sorunlarını analiz edebilmek.",
-   "Yapay Zeka’nın kuruluşlarda bilgi yönetimi süreçlerini nasıl geliştirdiğini anlamak.",
-   "AI tabanlı sistemlerin şeffaflığını ve karar süreçlerini yorumlamak."
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Veri ve Veri Bilimi",
-   "Hafta 2 · Makine Öğrenmesine Giriş ve Modelleme Yaklaşımları",
-   "Hafta 3 · Makine Öğrenmesi Algoritmaları ve Gerçek Hayat Uygulamaları",
-   "Hafta 4 · Yapay Zeka Kavramı ve Tarihçesi",
-   "Hafta 5 · Makine Öğrenmesi ve Yapay Zeka Arasındaki Farklar",
-   "Hafta 6 · Bilgi Yönetimi ve Yapay Zeka",
-   "Hafta 7 · Yapay Zeka Demokratikleşmesi: Yapay Zekanın Yaygınlaşması",
-   "Hafta 8 · Açıklanabilir Yapay Zeka ve Karar Destek Sistemleri",
-   "Hafta 9 · Yapay Zeka Etiği & Sorumlu Yapay Zeka",
-   "Hafta 10 · Yapay Zeka ve Bilgi Güvenliği, Veri Gizliliği",
-   "Hafta 11 · Yapay Zeka Geleceği, Etik Sorunlar ve İş Dünyasına Etkileri",
-   "Hafta 12 · -",
-   "Hafta 13 · -",
-   "Hafta 14 · -"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Veri ve Veri Bilimi",
-    "outcomes": "1"
-   },
-   {
-    "week": 2,
-    "topic": "Makine Öğrenmesine Giriş ve Modelleme Yaklaşımları",
-    "outcomes": "1"
-   },
-   {
-    "week": 3,
-    "topic": "Makine Öğrenmesi Algoritmaları ve Gerçek Hayat Uygulamaları",
-    "outcomes": "1-2"
-   },
-   {
-    "week": 4,
-    "topic": "Yapay Zeka Kavramı ve Tarihçesi",
-    "outcomes": "1-2"
-   },
-   {
-    "week": 5,
-    "topic": "Makine Öğrenmesi ve Yapay Zeka Arasındaki Farklar",
-    "outcomes": "1-2"
-   },
-   {
-    "week": 6,
-    "topic": "Bilgi Yönetimi ve Yapay Zeka",
-    "outcomes": "2-3"
-   },
-   {
-    "week": 7,
-    "topic": "Yapay Zeka Demokratikleşmesi: Yapay Zekanın Yaygınlaşması",
-    "outcomes": "3-4"
-   },
-   {
-    "week": 8,
-    "topic": "Açıklanabilir Yapay Zeka ve Karar Destek Sistemleri",
-    "outcomes": "2-5"
-   },
-   {
-    "week": 9,
-    "topic": "Yapay Zeka Etiği & Sorumlu Yapay Zeka",
-    "outcomes": "4-5-6"
-   },
-   {
-    "week": 10,
-    "topic": "Yapay Zeka ve Bilgi Güvenliği, Veri Gizliliği",
-    "outcomes": "4-5-6"
-   },
-   {
-    "week": 11,
-    "topic": "Yapay Zeka Geleceği, Etik Sorunlar ve İş Dünyasına Etkileri",
-    "outcomes": "4-5-6"
-   },
-   {
-    "week": 12,
-    "topic": "-",
-    "outcomes": "1"
-   },
-   {
-    "week": 13,
-    "topic": "-",
-    "outcomes": "1"
-   },
-   {
-    "week": 14,
-    "topic": "-"
-   }
-  ],
-  "textbooks": [
-   "Ertel, W. (2024). Introduction to artificial intelligence. Springer Nature.",
-   "Molnar, C. (2022). Interpretable Machine Learning. Leanpub.",
-   "Russell, S., & Norvig, P. (2021). Artificial Intelligence: A Modern Approach (4th Edition). Pearson",
-   "Alpaydın, E. (2021). Yapay Öğrenme. Boğaziçi Üniversitesi Yayınları.",
-   "Dignum, V. (2019). Responsible Artificial Intelligence: How to Develop and Use AI in a Responsible Way, Springer."
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITY&dersNo=531"
- },
- "ITY 538": {
-  "code": "ITY 538",
-  "name": "Stratejik Yönetim",
-  "nameEn": "Strategic Management",
-  "language": "Türkçe/English",
-  "credits": {
-   "theory": 4,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "Stratejik Yönetim, Misyon, Vizyon, Değerler, Yetkinlikler, SWOT analizi, Deneyim Eğrisi, Çevre Analizi Rekabet Analizi, Strateji, Büyüme Stratejileri, Liderlik, Stratejik Değişim, STEEPLE analizi, Farklılaşma, Odaklanma, Müşteri değeri, Senaryo analizi Strategic Management, Mission, Vision, Values, Competencies, SWOT Analysis, Experience Curve, Environmental Analysis, Competitive Analysis, Strategy, Growth Strategies, Leadership, Strategic Change, STEEPLE Analysis, Differentiation, Focus, Customer Value, Scenario Analysis",
-  "outcomes": [
-   "Stratejik Yönetimin felsefesini, ilgili terim ve kavramlarını anlama.",
-   "Stratejik Yönetim sürecini ve unsurlarını kavrama.",
-   "Bir işletmenin uygulayabileceği temel stratejileri kavrama.",
-   "Organizasyonun iç ve dış çevresini analiz ederek SWOT yöntemiyle strateji üretmeyi öğrenme.",
-   "Bir örgütün izleyebileceği (Kurumsal, Rekabet, Fonksiyonel) stratejileri ve belirlemeye yardımcı olan teknikleri öğrenme."
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Stratejik Yönetimin Çerçevesi, Stratejik Yönetim Süreci",
-   "Hafta 2 · Misyon, Vizyon. Değerler, Yetkinlikler",
-   "Hafta 3 · Dış Çevre Analizi: Fırsatlar, Tehditler, Rekâbet ve Rekâbet Analizi, SWOT Analizi",
-   "Hafta 4 · İç Çevre Analizi: Güçlü ve Zayıf yanlar, Kaynaklar, Beceriler ve Yetkinlikler, SWOT Analizi",
-   "Hafta 5 · Stratejiler, Deneyim Eğrisi Modeli",
-   "Hafta 6 · Kurumsal Düzey Stratejileri (Büyüme Stratejileri), Ürün Yaşam Çevrimi",
-   "Hafta 7 · Kurumsal Stratejiler: Savunma, Denge, Kaçma Stratejileri, STEEP(LE) Analizi",
-   "Hafta 8 · İş Stratejileri (Ürün Farklılaştırma, Pazar Bölümleme Stratejileri, Ayırıcı Yetkinlikler), Değer Zinciri Analizi",
-   "Hafta 9 · İş Stratejileri (Mâliyet Liderliği, Farklılaşma, Odaklanma), Stratejik Gruplar",
-   "Hafta 10 · Stratejik Yönetimde İşletme Yapıları ve Sistemler",
-   "Hafta 11 · Senaryo Analizi, Müşteri Değeri Analizi",
-   "Hafta 12 · -",
-   "Hafta 13 · -",
-   "Hafta 14 · -"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Stratejik Yönetimin Çerçevesi, Stratejik Yönetim Süreci",
-    "outcomes": "1"
-   },
-   {
-    "week": 2,
-    "topic": "Misyon, Vizyon. Değerler, Yetkinlikler",
-    "outcomes": "2-3"
-   },
-   {
-    "week": 3,
-    "topic": "Dış Çevre Analizi: Fırsatlar, Tehditler, Rekâbet ve Rekâbet Analizi, SWOT Analizi",
+    "topic": "Yenilik Modelleri",
     "outcomes": "3"
    },
    {
-    "week": 4,
-    "topic": "İç Çevre Analizi: Güçlü ve Zayıf yanlar, Kaynaklar, Beceriler ve Yetkinlikler, SWOT Analizi",
-    "outcomes": "2-4"
-   },
-   {
-    "week": 5,
-    "topic": "Stratejiler, Deneyim Eğrisi Modeli",
-    "outcomes": "2-4"
-   },
-   {
-    "week": 6,
-    "topic": "Kurumsal Düzey Stratejileri (Büyüme Stratejileri), Ürün Yaşam Çevrimi",
-    "outcomes": "3-4"
-   },
-   {
-    "week": 7,
-    "topic": "Kurumsal Stratejiler: Savunma, Denge, Kaçma Stratejileri, STEEP(LE) Analizi",
-    "outcomes": "3-4"
-   },
-   {
-    "week": 8,
-    "topic": "İş Stratejileri (Ürün Farklılaştırma, Pazar Bölümleme Stratejileri, Ayırıcı Yetkinlikler), Değer Zinciri Analizi",
-    "outcomes": "3-4"
-   },
-   {
     "week": 9,
-    "topic": "İş Stratejileri (Mâliyet Liderliği, Farklılaşma, Odaklanma), Stratejik Gruplar",
-    "outcomes": "3-4-5"
-   },
-   {
-    "week": 10,
-    "topic": "Stratejik Yönetimde İşletme Yapıları ve Sistemler",
-    "outcomes": "3-4-5"
-   },
-   {
-    "week": 11,
-    "topic": "Senaryo Analizi, Müşteri Değeri Analizi",
-    "outcomes": "4-5"
-   },
-   {
-    "week": 12,
-    "topic": "-",
-    "outcomes": "1"
-   },
-   {
-    "week": 13,
-    "topic": "-",
-    "outcomes": "1"
-   },
-   {
-    "week": 14,
-    "topic": "-"
-   }
-  ],
-  "textbooks": [
-   "Erol, E. (2019), Stratejik Yönetim ve İşletme Politikası, Genişletilmiş 10. Baskı. İstanbul: Beta Basım Yayım Dağıtım",
-   "Ülgen, H., & Mirze, S. K. (2020). İşletmelerde Stratejik Yönetim (3. Baskı). Beta Yayınları.",
-   "Pearce, J. A., & Robinson, R. B. (2021). Stratejik Yönetim: Geliştirme, Uygulama ve Kontrol (12. Baskı). Nobel Yayıncılık.",
-   "Pearce, J. A. II., & Robinson, R. B. (2023). Stratejik Yönetim. Nobel Akademik Yayıncılık.",
-   "Karatop, B. (2025). Yeni Nesil Stratejik Yönetim ve Yapay Zeka. Nobel Bilimsel Eserler."
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITY&dersNo=538"
- },
- "ITY 542": {
-  "code": "ITY 542",
-  "name": "Satınalma Yönetimi",
-  "nameEn": "Purchasing Management",
-  "language": "Türkçe",
-  "credits": {
-   "theory": 4,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "Strateji, Stratejik Yönetim ve Mâliyet İlişkisi, Klasik (Geleneksel) ve Stratejik Satınalmada Temel Mâliyet Düşürme Teknikleri, Emtia Yönetimi, Eskalasyonlar ve Varyasyonlar, Dijital Satınalma; Satınalma 4.0, Kriz Döneminde Mâliyet Düşürme, Kârlılık Analizleri, Risk Yönetimi, Dalgalı Kurda Kârlılık Arttırma Relationship Between Strategy, Strategic Management and Cost, Basic Cost Reduction Techniques in Classical (Traditional) and Strategic Procurement, Commodity Management, Escalations and Variations, Digital Purchasing; Purchasing 4.0, Reduce Costs During the Crisis, Profitability Analysis, Risk Management, Increase Profitability in Floating Exchange Rate",
-  "outcomes": [
-   "Strateji kurgulama",
-   "Şirket kârlılıklarını sağlamanın en temel etmeninin mâliyeti yönetme ile doğru orantılı olduğu",
-   "Değişen/dijitalleşen satınalma ve yararlarının ne olduğu",
-   "Emtia yönetiminin yararları ve kârlılığa etkilerini algılama",
-   "Risk yönetiminin önemini anlama",
-   "Teknik satınalma ile elde edilen kârları anlama"
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Strateji ,Stratejik Yönetim, Mâliyet Düşürmede Temel Teknikler",
-   "Hafta 2 · Klasik (Geleneksel) ve Stratejik (Çağdaş) Satınalmada Mâliyet Düşürme Farklılıkları",
-   "Hafta 3 · Farklı Satınalma Stratejileri",
-   "Hafta 4 · Emtia Yönetimi, Eskalasyonlar, Varyasyonlar, Satınalmada Varyasyonun Çalıştırılması",
-   "Hafta 5 · Dijital Satınalma: Satınalma 4.0, Yeni Dönem Satın Almada Mâliyet Düşürme Uygulamaları",
-   "Hafta 6 · Mâliyet Düşürmede Satınalma 4.0 Uygulamaları",
-   "Hafta 7 · Satınalmayı Şekillendiren Temel Yapı Taşları ve Satınalma Kârlılık Analizleri",
-   "Hafta 8 · Kriz Döneminde Satınalma Bölümlerinde Mâliyet Düşürme Yöntemleri",
-   "Hafta 9 · Dalgalı Kurda Satınalma Kârlılığının Korunması",
-   "Hafta 10 · Tedârikçi Fiyatınin Belirlenmesi Yaklaşımları",
-   "Hafta 11 · Risk Yönetimi",
-   "Hafta 12 · -",
-   "Hafta 13 · -",
-   "Hafta 14 · -"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Strateji ,Stratejik Yönetim, Mâliyet Düşürmede Temel Teknikler",
-    "outcomes": "1-2-3-4-6"
-   },
-   {
-    "week": 2,
-    "topic": "Klasik (Geleneksel) ve Stratejik (Çağdaş) Satınalmada Mâliyet Düşürme Farklılıkları",
-    "outcomes": "2-4"
-   },
-   {
-    "week": 3,
-    "topic": "Farklı Satınalma Stratejileri",
-    "outcomes": "1"
-   },
-   {
-    "week": 4,
-    "topic": "Emtia Yönetimi, Eskalasyonlar, Varyasyonlar, Satınalmada Varyasyonun Çalıştırılması",
-    "outcomes": "2-4-5"
-   },
-   {
-    "week": 5,
-    "topic": "Dijital Satınalma: Satınalma 4.0, Yeni Dönem Satın Almada Mâliyet Düşürme Uygulamaları",
-    "outcomes": "3-4-6"
-   },
-   {
-    "week": 6,
-    "topic": "Mâliyet Düşürmede Satınalma 4.0 Uygulamaları",
-    "outcomes": "3-4-5-6"
-   },
-   {
-    "week": 7,
-    "topic": "Satınalmayı Şekillendiren Temel Yapı Taşları ve Satınalma Kârlılık Analizleri",
-    "outcomes": "1-2-6"
-   },
-   {
-    "week": 8,
-    "topic": "Kriz Döneminde Satınalma Bölümlerinde Mâliyet Düşürme Yöntemleri",
-    "outcomes": "1-2-5-6"
-   },
-   {
-    "week": 9,
-    "topic": "Dalgalı Kurda Satınalma Kârlılığının Korunması",
-    "outcomes": "1-5"
-   },
-   {
-    "week": 10,
-    "topic": "Tedârikçi Fiyatınin Belirlenmesi Yaklaşımları",
-    "outcomes": "1-2-6"
-   },
-   {
-    "week": 11,
-    "topic": "Risk Yönetimi",
-    "outcomes": "5"
-   },
-   {
-    "week": 12,
-    "topic": "-"
-   },
-   {
-    "week": 13,
-    "topic": "-"
-   },
-   {
-    "week": 14,
-    "topic": "-"
-   }
-  ],
-  "textbooks": [
-   "Yurdakul, H. (2025), Satınalma Yönetimi: Süreçler ve Uygulamalar, Nobel Yayınları,3. Baskı, ISBN: 978-605-320-158-8, Ankara.",
-   "Kreps, D.M. (2019), Microeconomics for Managers, 2nd Edition, Princeton University Press",
-   "Tanyaş, M., Düzgün, M. (2016), Uluslararası Lojistik: Küresel Tedarik Zinciri Yönetimi, Nobel Yayınları, Çeviri, 2. Baskı, ISBN: 978-605-133-210-9, Ankara.",
-   "Heifetz, A. (2012), Game Theory: Interactive Strategies in Economics and Management, Cambridge University Press",
-   "Dominick, C. (2012), The Procurement Game Plan: Winning Strategies and Techniques for Supply Management Professionals, J. Ross Publishing"
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITY&dersNo=542"
- },
- "ITY 544": {
-  "code": "ITY 544",
-  "name": "Endüstri 4.0&Ekleme.İmal.Tek.",
-  "nameEn": "Industry 4.0 and Additive Manufactruing Technologies",
-  "language": "Türkçe",
-  "credits": {
-   "theory": 4,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "Endüstri 4.0 ve Bileşenleri (Nesnelerin Interneti, Yapay Zekâ, Robotik ve 3 Boyutlu Baskı), Endüstri 4.0’ın Dinamikleri ve Etkileri, İleri İmalat İşletmeleri: Akıllı Fabrika, Akıllı Robotlar, Dijital İşletmeler: Dijital İş Dönüşümü ve Nesnelerin İnterneti, Tedârik Zinciri Yönetimi 4.0, 3 Boyutlu Baskı, Eklemeli İmalat ve Uygulamaları. Industry 4.0 and Its Components (Internet of Things, Artificial Intelligence, Robotics and 3D Printing), Dynamics and Implications of Industry 4.0, Advanced Manufacturing Enterprise: Smart Factory, Intelligent Robots, Digital Enterprise: Digital Business Transformation and Internet of Things, Supply Chain Management 4.0, 3D Printing, Additive Manufacturing and Applications.",
-  "outcomes": [
-   "Dördüncü Sanayi Devrimi'ne yönelik iş stratejileri ve taktikleri.",
-   "Endüstri 4.0’ın üreticiler ve üretim ekipman tedârikçileri için potansiyel teknik ve ekonomik yararları.",
-   "Endüstride dijital dönüşüm için sürecin tasarımı, değerlendirilmesi ve plânlanması ile personel gereksinimleri.",
-   "Teknolojik gelişmenin dokuz ayağı ve geleceği nasıl şekillendireceği.",
-   "Eklemeli îmalatın, tüm ürün yaşam döngüsü boyunca nasıl, ne zaman ve nerede değer yaratabileceği."
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Endüstri 4.0",
-   "Hafta 2 · Endüstri 4.0’ın Dinamikleri ve Etkileri",
-   "Hafta 3 · Endüstri 4.0: Dijital Kurumlar",
-   "Hafta 4 · Gelişmiş Üretim Şirketi: Akıllı Fabrika, Akıllı Robotlar",
-   "Hafta 5 · Dijital Kurumsal: Dijital İş Dönüşümü ve Nesnelerin Interneti",
-   "Hafta 6 · Örnek Olaylar",
-   "Hafta 7 · Tedârik Zinciri Yönetimi 4.0",
-   "Hafta 8 · Konuk Konuşmacı: Endüstri 4.0 Uygulamaları",
-   "Hafta 9 · Eklemeli Üretim, 3 Boyutlu Baskı ve Uygulamaları",
-   "Hafta 10 · Eklemeli Üretim Laboratuvarı Ziyareti",
-   "Hafta 11 · Eklemeli Üretim Laboratuvarı Ziyareti",
-   "Hafta 12 · -",
-   "Hafta 13 · -",
-   "Hafta 14 · -"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Endüstri 4.0",
-    "outcomes": "1"
-   },
-   {
-    "week": 2,
-    "topic": "Endüstri 4.0’ın Dinamikleri ve Etkileri",
-    "outcomes": "1-2"
-   },
-   {
-    "week": 3,
-    "topic": "Endüstri 4.0: Dijital Kurumlar",
-    "outcomes": "2-3"
-   },
-   {
-    "week": 4,
-    "topic": "Gelişmiş Üretim Şirketi: Akıllı Fabrika, Akıllı Robotlar",
-    "outcomes": "2-3"
-   },
-   {
-    "week": 5,
-    "topic": "Dijital Kurumsal: Dijital İş Dönüşümü ve Nesnelerin Interneti",
+    "topic": "Yenilikçi Ar-Ge Organizasyonu Tasarımı",
     "outcomes": "4"
    },
    {
-    "week": 6,
-    "topic": "Örnek Olaylar",
-    "outcomes": "1-4"
-   },
-   {
-    "week": 7,
-    "topic": "Tedârik Zinciri Yönetimi 4.0",
-    "outcomes": "1-4"
-   },
-   {
-    "week": 8,
-    "topic": "Konuk Konuşmacı: Endüstri 4.0 Uygulamaları",
-    "outcomes": "1-4"
-   },
-   {
-    "week": 9,
-    "topic": "Eklemeli Üretim, 3 Boyutlu Baskı ve Uygulamaları",
-    "outcomes": "5"
-   },
-   {
     "week": 10,
-    "topic": "Eklemeli Üretim Laboratuvarı Ziyareti",
-    "outcomes": "5"
+    "topic": "Teknoloji Transfer Yöntemleri",
+    "outcomes": "4"
    },
    {
     "week": 11,
-    "topic": "Eklemeli Üretim Laboratuvarı Ziyareti",
-    "outcomes": "5"
+    "topic": "Yenilik Stratejisinin Hazırlanması",
+    "outcomes": "2"
    },
    {
     "week": 12,
@@ -1137,19 +331,17 @@
    }
   ],
   "textbooks": [
-   "Gilchrist, A. (2016), Industry 4.0: The Industrial Internet of Things, Apress.",
-   "Ustundag, A., Cevikcan, E. (2017), Industry 4.0: Managing the Digital Transformation, Springer.",
-   "Gibson, I., Rosen, D.W., Stucker, B. (2014), Additive Manufacturing Technologies (Vol. 17), New York: Springer.",
-   "Özdoğan , O. (2017), Endüstri 4.0: Dördüncü Sanayi Devrimi ve Endüstriyel Dönüşümün Anahtarları, Pusula.",
-   "Kabaklarlı, E. (2019), Endüstri 4.0 ve Dijital Ekonomisi & Dünya ve Türkiye Ekonomisi İçin Fırsatlar, Etkiler ve Tehditler, Nobel Yayın Dağıtım."
+   "Trott, P. (2016), Innovation Management and New Product Development, Pearson.",
+   "Galasso, A. (2024) The Management of Innovation: Managing and Creating Technology Capital, Rotman-UTP Publishing",
+   "Çakır S., Yeloğlu H.O., Yıldırım, N. (2022). Teknoloji Yönetimi: Geleceği Yönetmede Teknolojinin Rolü. Arkadaş Yayınevi"
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITY&dersNo=544"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITY&dersNo=521"
  },
- "ITY 545": {
-  "code": "ITY 545",
-  "name": "Büyük Veri Teknolojileri&Uyg.",
-  "nameEn": "Big Data Technologies and Applications",
-  "language": "Türkçe",
+ "ITY 522": {
+  "code": "ITY 522",
+  "name": "Teknoloji ve Hukuk",
+  "nameEn": "Law in Business&Tech.Manag.",
+  "language": "Türkçe/English",
   "credits": {
    "theory": 4,
    "practice": 0,
@@ -1157,26 +349,28 @@
    "local": 3,
    "ects": 7.5
   },
-  "description": "Büyük Veri Teknolojisinin Temelleri, Küçük Veri ve Uygulamaları, İlişkisel Veritabanları, Sorgu ve Raporlar, İlişkisel Olmayan Veritabanlarına Girişi, Anahtar-Değer Veritabanları, Büyük Sütun Veritabanları, Doküman Tabanlı Veritabanları, Çizge Veritabanları, Paralel Veri İşleme Teknolojileri, Açık Kaynak Kodlu Veri İşleme Teknolojileri (Hadoop, Spark, Kafka). Essentials of Big Data Technologies, Small Data and Applications, Relational Databases, Queries and Reports, No-SQL Databases, Key-Value Databases, Wide Column Databases, Document Based Databases, Graph Databases, Parallel Data Processing Technologies, Open Source Big Data Technologies (Hadoop, Spark, Kafka).",
+  "description": "Fikrî Mülkiyet Hakları, Telif Hakları, Marka, Patent, Patent Stratejileri, Internette Fikrî Mülkiyet Hakları ve Kişisel Verilerin Korunması, İşletmelerin Entelektüel Varlıklarının Korunması ve Ticarileştirilmesi, Rekabet Kuralları Karşısında Fikrî Mülkiyet Haklarının Durumu. Intellectual Property Rights: Copyrights, Trademarks and Patents in Particular, Patent Strategies, Protection of Intellectual Property Rights and Personal Freedoms on the Internet, Protection and Commercialization of Intellectual Assets of the Business, Competition Rules and Intellectual Property Rights.",
   "outcomes": [
-   "Klasik veri işleme ve veritabanı sistemlerinin anlaşılması.",
-   "Bir sistemdeki veri saklama ve işleme gereksinimlerini tanımlayabilmek.",
-   "Büyük veri teknolojilerini tanımak.",
-   "Bir sistemdeki gereksinimleri varolan büyük veri teknolojileri ile eşleştirebilmek.",
-   "Bir sistemin gereksinim duyduğu noSQL veritabanını önerebilmek."
+   "Fikrî mülkiyet haklarının türlerini ve temel felsefesini anlayıp tartışma becerisi.",
+   "Farklı fikrî mülkiyet haklarının koruma şartlarını ve tanıdığı hakları anlama bilgi ve becerisi.",
+   "İnternetin fikri mülkiyet hakları üzerindeki etkilerini anlama bilgi ve becerisi.",
+   "Yeni teknolojilerin kişisel özgürlükler üzerindeki etkilerini anlama becerisi.",
+   "Girişimlerde amaca uygun hukukî organizasyon yapılarını tanımlayabilme ve değerlendirebilme becerisi.",
+   "Fikrî mülkiyet haklarının ticarîleştirilmesinde kullanılacak hukukî araçları anlama becerisi.",
+   "Fikrî mülkiyet hakları ile rekabet kuralları arasındaki ilişkiyi anlama bilgi ve becerisi."
   ],
   "weeklyTopics": [
-   "Hafta 1 · Büyük Veri Teknolojileri",
-   "Hafta 2 · Büyük Veri Teknolojinin Temelleri",
-   "Hafta 3 · Küçük Veri ve Uygulamaları",
-   "Hafta 4 · İlişkisel Veritabanları, Sorgu ve Raporlar",
-   "Hafta 5 · İlişkisel Olmayan Veritabanlarına Girişi",
-   "Hafta 6 · Anahtar Değer, Veritabanları",
-   "Hafta 7 · Büyük Tablo Veritabanları",
-   "Hafta 8 · Doküman Tabanlı Veritabanları",
-   "Hafta 9 · Çizge Veritabanları",
-   "Hafta 10 · Paralel Veri İşleme Teknolojileri",
-   "Hafta 11 · Açık Kaynak Kodlu Veri İşleme Teknolojileri (Hadoop, Spark, Kafka)",
+   "Hafta 1 · Fikrî Mülkiyet Hakları; Temel Felsefe",
+   "Hafta 2 · Telif Hakları; Bilgisayar Programlarının Korunması",
+   "Hafta 3 · Marka Hakkı; Markanın Tescili, Markanın Korunması",
+   "Hafta 4 · Patent Hakkı; Ulusal ve Uluslararası Patent Sistemi; Patentin Tescili; Patent Stratejileri",
+   "Hafta 5 · Patent Verilebilirlik Koşulları",
+   "Hafta 6 · Patent Hakkına Tecavüz",
+   "Hafta 7 · İnternet ve Fikrî Mülkiyet Hakları",
+   "Hafta 8 · Kişisel Verilerin Korunması",
+   "Hafta 9 · Teşebbüs Modelleri; Ticari İşletme; Şahıs Firması; Şirketler",
+   "Hafta 10 · Lisans Sözleşmeleri; Teknoloji Transferi Sözleşmeleri",
+   "Hafta 11 · Fikrî Mülkiyet Hakları-Rekabet İlişkisi",
    "Hafta 12 · -",
    "Hafta 13 · -",
    "Hafta 14 · -"
@@ -1184,184 +378,85 @@
   "weeklyPlan": [
    {
     "week": 1,
-    "topic": "Büyük Veri Teknolojileri",
-    "outcomes": "1-3"
+    "topic": "Fikrî Mülkiyet Hakları; Temel Felsefe",
+    "outcomes": "1"
    },
    {
     "week": 2,
-    "topic": "Büyük Veri Teknolojinin Temelleri",
-    "outcomes": "1-3"
-   },
-   {
-    "week": 3,
-    "topic": "Küçük Veri ve Uygulamaları",
-    "outcomes": "1-2"
-   },
-   {
-    "week": 4,
-    "topic": "İlişkisel Veritabanları, Sorgu ve Raporlar",
-    "outcomes": "1-2-3"
-   },
-   {
-    "week": 5,
-    "topic": "İlişkisel Olmayan Veritabanlarına Girişi",
-    "outcomes": "3-5"
-   },
-   {
-    "week": 6,
-    "topic": "Anahtar Değer, Veritabanları",
-    "outcomes": "3-4"
-   },
-   {
-    "week": 7,
-    "topic": "Büyük Tablo Veritabanları",
-    "outcomes": "3-4"
-   },
-   {
-    "week": 8,
-    "topic": "Doküman Tabanlı Veritabanları",
-    "outcomes": "3-5"
-   },
-   {
-    "week": 9,
-    "topic": "Çizge Veritabanları",
-    "outcomes": "3-5"
-   },
-   {
-    "week": 10,
-    "topic": "Paralel Veri İşleme Teknolojileri",
-    "outcomes": "4-5"
-   },
-   {
-    "week": 11,
-    "topic": "Açık Kaynak Kodlu Veri İşleme Teknolojileri (Hadoop, Spark, Kafka)",
-    "outcomes": "4-5"
-   },
-   {
-    "week": 12,
-    "topic": "-"
-   },
-   {
-    "week": 13,
-    "topic": "-"
-   },
-   {
-    "week": 14,
-    "topic": "-"
-   }
-  ],
-  "textbooks": [
-   "Çakır, A. (2022), Big Data Management and Technologies (Business Analytics for Professionals), Springer",
-   "Kleppman, M. (2025), Designing Data-Intensive Applications, O’Reilly",
-   "Fuhrt, B., Villanustre, F. (2016), Big Data Technologies and Applications, Springer.",
-   "Davenport, T.H. (2014), Big Data at Work: Dispelling the Myths, Uncovering the Opportunities, Harvard Business Review Press"
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITY&dersNo=545"
- },
- "ITY 549": {
-  "code": "ITY 549",
-  "name": "Risk ve Belirsizlik Altında Yatırım Kararları",
-  "nameEn": "Investment Decisions Under Risk & Uncertainty",
-  "language": "Türkçe",
-  "credits": {
-   "theory": 4,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "Karar verme ve karar verme ortamları, risk ve belirsizlik kavramı, temel yatırım analizi Riskli yatırımların değerlendirilmesi, duyarlılık analizi ve gürbüz kararlar, benzetim tekniği ile yatırım kararları, karar ağaçları ile yatırım değerlendirme, riske dayalı belirsizlik, olabilirliğe dayalı belirsizlik, bulanık karar ortamı, bulanık ortamda şimdiki eşdeğer, yıllık eşdeğer ve karar verme, belirsizlik altında çok kriterli karar verme Decision making and decision-making environments, concept of risk and uncertainty, basic investment analysis, evaluation of risky investments, sensitivity analysis and robust decisions, investment decisions with simulation technique, investment evaluation with decision trees, risk-based uncertainty, possibility-based uncertainty, fuzzy decision environment, present equivalent, annual equivalent, and decision making in a fuzzy environment, multi-criteria decision making under uncertainty",
-  "outcomes": [
-   "Temel zaman değerli eşitlikleri, yatırım çeşitlerini kullanabilme ve tanımlama becerisi",
-   "Risk ve belirsizlik kavramlarını ve farklarını tanımlayabilme becerisi",
-   "Risk analizi teorik bilgileri pratikte kullanma becerisi.",
-   "Bulanık küme kavramını anlama ve pratikte kullanabilme becerisi",
-   "Uygun yatırım analizi tekniğini kullanabilme becerisi",
-   "Bulanık sayılarla modelleme becerisi"
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Karar Verme ve Karar Verme Ortamları",
-   "Hafta 2 · Risk ve Belirsizlik Kavramı",
-   "Hafta 3 · Temel Yatırım Analizi",
-   "Hafta 4 · Riskli Yatırımların Değerlendirilmesi",
-   "Hafta 5 · Duyarlılık Analizi ve Gürbüz Kararlar",
-   "Hafta 6 · Benzetim Tekniği ile Yatırım Kararları",
-   "Hafta 7 · Karar Ağaçları ile Yatırım Değerlendirme",
-   "Hafta 8 · Riske Dayalı Belirsizlik, Olabilirliğe Dayalı Belirsizlik",
-   "Hafta 9 · Bulanık Karar Ortamı",
-   "Hafta 10 · Bulanık Ortamda Şimdiki Eşdeğer, Yıllık Eşdeğer ve Karar Verme",
-   "Hafta 11 · Belirsizlik Altında Çok Kriterli Karar Verme"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Karar Verme ve Karar Verme Ortamları",
-    "outcomes": "1-2"
-   },
-   {
-    "week": 2,
-    "topic": "Risk ve Belirsizlik Kavramı",
+    "topic": "Telif Hakları; Bilgisayar Programlarının Korunması",
     "outcomes": "2"
    },
    {
     "week": 3,
-    "topic": "Temel Yatırım Analizi",
-    "outcomes": "1-3"
+    "topic": "Marka Hakkı; Markanın Tescili, Markanın Korunması",
+    "outcomes": "2"
    },
    {
     "week": 4,
-    "topic": "Riskli Yatırımların Değerlendirilmesi",
-    "outcomes": "2-3"
+    "topic": "Patent Hakkı; Ulusal ve Uluslararası Patent Sistemi; Patentin Tescili; Patent Stratejileri",
+    "outcomes": "2"
    },
    {
     "week": 5,
-    "topic": "Duyarlılık Analizi ve Gürbüz Kararlar",
-    "outcomes": "3"
+    "topic": "Patent Verilebilirlik Koşulları",
+    "outcomes": "2"
    },
    {
     "week": 6,
-    "topic": "Benzetim Tekniği ile Yatırım Kararları",
-    "outcomes": "3"
+    "topic": "Patent Hakkına Tecavüz",
+    "outcomes": "2"
    },
    {
     "week": 7,
-    "topic": "Karar Ağaçları ile Yatırım Değerlendirme",
+    "topic": "İnternet ve Fikrî Mülkiyet Hakları",
     "outcomes": "3"
    },
    {
     "week": 8,
-    "topic": "Riske Dayalı Belirsizlik, Olabilirliğe Dayalı Belirsizlik",
-    "outcomes": "3-4"
-   },
-   {
-    "week": 9,
-    "topic": "Bulanık Karar Ortamı",
+    "topic": "Kişisel Verilerin Korunması",
     "outcomes": "4"
    },
    {
+    "week": 9,
+    "topic": "Teşebbüs Modelleri; Ticari İşletme; Şahıs Firması; Şirketler",
+    "outcomes": "5"
+   },
+   {
     "week": 10,
-    "topic": "Bulanık Ortamda Şimdiki Eşdeğer, Yıllık Eşdeğer ve Karar Verme",
-    "outcomes": "4-6"
+    "topic": "Lisans Sözleşmeleri; Teknoloji Transferi Sözleşmeleri",
+    "outcomes": "6"
    },
    {
     "week": 11,
-    "topic": "Belirsizlik Altında Çok Kriterli Karar Verme",
-    "outcomes": "5-6"
+    "topic": "Fikrî Mülkiyet Hakları-Rekabet İlişkisi",
+    "outcomes": "7"
+   },
+   {
+    "week": 12,
+    "topic": "-"
+   },
+   {
+    "week": 13,
+    "topic": "-"
+   },
+   {
+    "week": 14,
+    "topic": "-"
    }
   ],
   "textbooks": [
-   "Swedroe, L. E. (2024). Enrich your future: The keys to successful investing. John Wiley & Sons.",
-   "Dayananda, D. (2002). Capital budgeting: financial appraisal of investment projects. Cambridge University Press.",
-   "Kahraman C., Oztaysi B., Çevik Onar S. (2024) , Bulanık Küme ve Uzantıları, İTÜ Yayın Evi.",
-   "Sullivan, W. G. (1989). Economic and multiattribute evaluation of advanced manufacturing systems. Prentice Hall.",
-   "Park, C. S. (2002). ContemporaryEngineeringEconomics, PrenticeHall. Inc., NewJersey."
+   "Suluk, C.; Karasu, R.; Nal, T. (2018). Fikri Mülkiyet Hukuku, Seçkin Yayınları",
+   "Tatar, D.P. (2014), Mülkiyet ve Fikri Mülkiyetin Felsefi Temelleri, Astana Yayınları, Tez Serisi-I",
+   "WIPO: Intellectual Property Handbook: Policy, Law and Use, Geneva, 2004",
+   "WIPO: Inventing the Future An Introduction to Patents for Small and Medium-sized Enterprises, Geneva 2018",
+   "WIPO: Successful Technology Licensing, Geneva 2015"
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITY&dersNo=549"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITY&dersNo=522"
  },
- "ITY 550": {
-  "code": "ITY 550",
-  "name": "Küresel Makroekonomik Analiz: Kalkınma ve Teknoloji",
-  "nameEn": "Global Macroeconomic Analysis: Development and Technology",
+ "ITY 523": {
+  "code": "ITY 523",
+  "name": "Finansal Yönetim",
+  "nameEn": "Financial Management",
   "language": "Türkçe",
   "credits": {
    "theory": 4,
@@ -1370,114 +465,106 @@
    "local": 3,
    "ects": 7.5
   },
-  "description": "Makroekonomik Temeller ve Göstergeler, Ekonomik Büyüme, Kalkınma ve Yapısal Dönüşüm, Enflasyon, İşsizlik ve İş Döngüsü Dinamikleri, Para Politikası, Maliye Politikası ve Makroekonomik Denge, Uluslararası Ticaret Teorileri ve Küresel Değer Zincirleri, Döviz Kurları, Sermaye Akımları ve Finansal Piyasalar, Küresel Krizler, Belirsizlikler ve Ekonomik Politikalar, Dijitalleşme, Teknoloji ve Makroekonomik Yansımaları, Türkiye ve Dünya Ekonomisinde Güncel Eğilimler ve Politika Tartışmaları Macroeconomic Foundations and Indicators, Economic Growth, Development, and Structural Transformation, Inflation, Unemployment, and Business Cycle Dynamics, Monetary Policy, Fiscal Policy, and Macroeconomic Balance, International Trade Theories and Global Value Chains, Exchange Rates, Capital Flows, and Financial Markets, Global Crises, Uncertainties, and Economic Policies, Digitalization, Technology, and Macroeconomic Implications, Current Macroeconomic Trends and Policy Debates in Turkey and the Global Economy",
+  "description": "Finansal Yönetim, Muhasebe İlkeleri, Finansal Tablolar ve Analizi, Finansal Plânlama, İşletme Sermayesi ve Finansman Kararları, Finansal Araçlar ve Piyasalar, Paranın Zaman Değeri, Tahvil ve Hisse Senetlerinin Değerlemesi, Faaliyet Kaldıracı ve Finansal Kaldıraç, İşletme Sermayesi Yönetimi, Risk-Getiri İlişkisi, Sermaye Bütçelemesi, Sermaye Mâliyeti. Financial Management, Accounting Concepts, Financial Statements and Their Analysis, Financial Planning, Working Capital and Financing Decision, Financial Markets and Instruments, Time Value of Money, Stock and Bond Valuation, Operational and Financial Leverage, Management of Working Capital, Risk and Return, Capital Budgeting, Cost of Capital.",
   "outcomes": [
-   "Küresel makroekonomik göstergeleri analiz etme ve bu göstergelerin ekonomik kalkınma süreçleri üzerindeki etkilerini değerlendirme becerisi kazanırlar.",
-   "Dijitalleşme ve teknolojik dönüşümün makroekonomik değişkenler üzerindeki etkilerini (örneğin; büyüme, istihdam ve gelir dağılımı) anlayarak, bu etkileri ekonomik modellerde kullanabilirler.",
-   "Para ve maliye politikalarının kalkınma hedefleriyle uyumunu sorgulayarak, makroekonomik dengeyi sağlamak için politika önerileri geliştirebilirler.",
-   "Küresel ekonomik krizlerin ve belirsizliklerin ekonomi politikaları üzerindeki etkilerini analiz etme ve krizlere karşı etkili politika çözümleri önerebilme yetkinliği kazanırlar.",
-   "Türkiye ve gelişmekte olan ülkeler bağlamında, kalkınma ve teknoloji ilişkisini eleştirel bir bakış açısıyla inceleyerek, makroekonomik istikrarı güçlendirecek stratejiler geliştirebilirler."
+   "Finansal yönetimin ilkelerini ve araçlarını kavrama becerisi.",
+   "Muhasebe raporlarını oluşturma ve analiz etme becerisi.",
+   "Finansal piyasaların işleyişini kavrama becerisi.",
+   "Finansal varlıkları fiyatlayabilme becerisi.",
+   "Portföy optimizasyonu yapabilme becerisi.",
+   "Sermaye bulmanın mâliyetini hesaplayabilme becerisi.",
+   "Yatırımların ve projelerin uygunluğuna karar verebilme becerisi."
   ],
   "weeklyTopics": [
-   "Hafta 1 · Makroekonomik Göstergeler",
-   "Hafta 2 · Ekonomik Büyüme ve Kalkınma Teorileri",
-   "Hafta 3 · Enflasyon, İşsizlik ve İş Döngüsü Dinamikleri",
-   "Hafta 4 · Para Politikası ve Ekonomik Denge",
-   "Hafta 5 · Maliye Politikası ve Kamu Dengesi",
-   "Hafta 6 · Uluslararası Ticaret Teorileri ve Küresel Değer Zincirleri",
-   "Hafta 7 · Döviz Kurları ve Küresel Finansal Piyasalar",
-   "Hafta 8 · Dijitalleşme ve Teknolojinin Ekonomik Etkileri",
-   "Hafta 9 · Küresel Krizler ve Ekonomi Politikaları",
-   "Hafta 10 · Teknoloji ve Kalkınma: Gelişmekte Olan Ülkeler Perspektifi",
-   "Hafta 11 · Türkiye ve Dünya Ekonomisinde Güncel Makroekonomik Eğilimler"
+   "Hafta 1 · Finansal Yönetim ve Muhasebeyle İlgili Kavramlar",
+   "Hafta 2 · Finansal Oranlar ve Analizi",
+   "Hafta 3 · Finansal Piyasalar ve Ürünler",
+   "Hafta 4 · Paranın Zaman Değeri",
+   "Hafta 5 · Tahvil Değerlemesi 1",
+   "Hafta 6 · Tahvil Değerlemesi II",
+   "Hafta 7 · Hisse Senedi Değerlemesi",
+   "Hafta 8 · Risk ve Getiri",
+   "Hafta 9 · Sermaye Mâliyeti",
+   "Hafta 10 · Sermaye Bütçelemesi I",
+   "Hafta 11 · Sermaye Bütçelemesi II",
+   "Hafta 12 · -",
+   "Hafta 13 · -",
+   "Hafta 14 · -"
   ],
   "weeklyPlan": [
    {
     "week": 1,
-    "topic": "Makroekonomik Göstergeler",
-    "outcomes": "1-4"
+    "topic": "Finansal Yönetim ve Muhasebeyle İlgili Kavramlar",
+    "outcomes": "1"
    },
    {
     "week": 2,
-    "topic": "Ekonomik Büyüme ve Kalkınma Teorileri",
-    "outcomes": "1-2-3"
+    "topic": "Finansal Oranlar ve Analizi",
+    "outcomes": "2"
    },
    {
     "week": 3,
-    "topic": "Enflasyon, İşsizlik ve İş Döngüsü Dinamikleri",
-    "outcomes": "1-3"
+    "topic": "Finansal Piyasalar ve Ürünler",
+    "outcomes": "3"
    },
    {
     "week": 4,
-    "topic": "Para Politikası ve Ekonomik Denge",
-    "outcomes": "2-3"
+    "topic": "Paranın Zaman Değeri",
+    "outcomes": "3-4"
    },
    {
     "week": 5,
-    "topic": "Maliye Politikası ve Kamu Dengesi",
-    "outcomes": "1-4"
+    "topic": "Tahvil Değerlemesi 1",
+    "outcomes": "3-4"
    },
    {
     "week": 6,
-    "topic": "Uluslararası Ticaret Teorileri ve Küresel Değer Zincirleri",
-    "outcomes": "2-4"
+    "topic": "Tahvil Değerlemesi II",
+    "outcomes": "3-4"
    },
    {
     "week": 7,
-    "topic": "Döviz Kurları ve Küresel Finansal Piyasalar",
-    "outcomes": "2-4"
+    "topic": "Hisse Senedi Değerlemesi",
+    "outcomes": "3-4"
    },
    {
     "week": 8,
-    "topic": "Dijitalleşme ve Teknolojinin Ekonomik Etkileri",
-    "outcomes": "2-4"
+    "topic": "Risk ve Getiri",
+    "outcomes": "5"
    },
    {
     "week": 9,
-    "topic": "Küresel Krizler ve Ekonomi Politikaları",
-    "outcomes": "4-5"
+    "topic": "Sermaye Mâliyeti",
+    "outcomes": "6"
    },
    {
     "week": 10,
-    "topic": "Teknoloji ve Kalkınma: Gelişmekte Olan Ülkeler Perspektifi",
-    "outcomes": "4-5"
+    "topic": "Sermaye Bütçelemesi I",
+    "outcomes": "7"
    },
    {
     "week": 11,
-    "topic": "Türkiye ve Dünya Ekonomisinde Güncel Makroekonomik Eğilimler",
-    "outcomes": "4-5"
+    "topic": "Sermaye Bütçelemesi II"
+   },
+   {
+    "week": 12,
+    "topic": "-"
+   },
+   {
+    "week": 13,
+    "topic": "-"
+   },
+   {
+    "week": 14,
+    "topic": "-"
    }
   ],
   "textbooks": [
-   "Mankiw, N. G. (2021), Macroeconomics, 11th Edition, Worth Publishers.",
-   "Goodwin, N., H., J., Nelson, JA, Rajkarnikar, PJ, Roach, B, Torras, M. (2022), Macroeconomics in Context. Available from: VitalSource Bookshelf, (4th Edition). Taylor & Francis,",
-   "Blanchard, O. (2021), Macroeconomics, 8th Edition, Pearson.",
-   "Dornbusch, R., Fischer, S., Startz, R. (2018), Macroeconomics, 13th Edition, Mcgraw-Hill Education."
+   "Sayıner, M.A., (2024), Finansal Yönetim, Gazi Kitabevi, Ankara.",
+   "Ceylan, A., Korkmaz, T. (2021), İşletmelerde Finansal Yönetim, 17. Basım, Ekin Basım Yayın, Ankara.",
+   "Ercan, M.K., Ban, Ü. (2021), Finansal Yönetim, 10. Baskı, Gazi Kitabevi, Ankara.",
+   "Aksoy, E.E. (2017), Finansal Yönetim, Gazi Kitabevi, Ankara."
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITY&dersNo=550"
- },
- "ITY 599": {
-  "code": "ITY 599",
-  "name": "Proje",
-  "nameEn": "Project",
-  "language": "Türkçe",
-  "credits": {
-   "theory": 3,
-   "practice": 0,
-   "lab": 0,
-   "local": 0,
-   "ects": 30
-  },
-  "description": "İşletme ve Teknoloji yönetimi uzmanlık alanında bir konunun akademik danışman yönetiminde yazılı olarak incelenmesidir. A subject related to business and technology management is studied under supervision of a faculty member.",
-  "outcomes": [
-   "İşletme ve teknoloji yönetimi alanında edindiği uzmanlık düzeyindeki kuramsal ve uygulamalı bilgiyi kullanabilme",
-   "Problemleri ve fırsatları doğru teşhis edebilme",
-   "Problem için uygun yöntemleri seçebilme",
-   "Çözüm için gerekli yöntemi doğru biçimde uygulayabilme"
-  ],
-  "textbooks": [
-   "-"
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITY&dersNo=599"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITY&dersNo=523"
  }
 }

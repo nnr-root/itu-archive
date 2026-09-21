@@ -307,5 +307,692 @@
    "NoSQL for Dummies, 2015, Adam Fowler"
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=VIA&dersNo=505"
+ },
+ "VIA 506E": {
+  "code": "VIA 506E",
+  "name": "Optimization&Decision Modell.",
+  "nameEn": "Optimization&Decision Modell.",
+  "language": "English",
+  "credits": {
+   "theory": 3,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 7.5
+  },
+  "description": "Bu ders, karar verme teorisindeki temel kavramlar, karar verme problemlerinin uygulamalarla modellenmesi ve çözüm yöntemleri,işletme, üretim, yönetim, yönetici ve sayısal karar vermeyi; model kurma ve modelleme felsefesini öğretmeyi, doğrusal programlama ve Simplex algoritması, dualite ve ekonomik yorumlar ile duyarlılık analizlerini ulaştırma modelleri ve çözüm yöntemlerini kavratmayı, proje yönetimine giriş yapmayı, excel çözücüleri kullandırmayı hedeflemektedir. This course aims to teach basic concepts of decision theory, modeling and solution methods of decision making problems with applications, the production and management concepts, quantitative decision making, modeling philosophy and model building, linear programming and Simplex algorithm, Big M and Two Phase Simplex Methods, Duality and economic analysis, transportation models and solving methods, and the use of Lindo and Excel Solver programs.",
+  "outcomes": [
+   "Karar teorisindeki temel terimleri ve kavramları öğrenmek",
+   "Farklı matematiksel modelleme teknikleri kullanmak",
+   "Bir doğrusal programlama modelini çözmek ve çözümünü yorumlamak",
+   "Çözümün, problemin bazı parametrelerinin değişmesine karşı hassasiyetini belirlemek",
+   "Bir doğrusal programlama modeli kurmak, çözmek ve analiz etmek için bazı bilgisayar yazılımlarını kullanmak",
+   "Bir çözümün en iyi çözüm olup olmadığını anlamak,",
+   "Ulaştırma ve Atama problemlerini, bu problemlere has bir yöntemle çözmek ve analiz etmek",
+   "Proje yönetimi modelini ve çözümünü başarmak",
+   "Çok ölçütlü karar verme yöntemlerini ve uygulama alanlarını öğrenmek becerileri",
+   "Fayda Teorisini uygulamak"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · YA'ya Giriş, Temel Kavramlar, Doğrusal Programlamaya (DP) Giriş",
+   "Hafta 2 · Modelleme",
+   "Hafta 3 · Grafik Çözüm, Simpleks Algoritması",
+   "Hafta 4 · Karar verme ile ilgili temel kavramlar",
+   "Hafta 5 · OPL yazılım paketi",
+   "Hafta 6 · Çok ölçütlü karar verme yöntemleri-temel kavramlar, uygulama alanları",
+   "Hafta 7 · Karar Ağacı",
+   "Hafta 8 · Fayda Teorisi",
+   "Hafta 9 · Duyarlılık Analizi",
+   "Hafta 10 · Ulaştırma Sorunlarının Formülasyonu, Temel Olurlu Çözümün Bulunması",
+   "Hafta 11 · Ulaştırma problemlerinin Çözümü, Atama Sorunları, Geçici Konaklama Sorunları"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "YA'ya Giriş, Temel Kavramlar, Doğrusal Programlamaya (DP) Giriş",
+    "outcomes": "2"
+   },
+   {
+    "week": 2,
+    "topic": "Modelleme",
+    "outcomes": "2"
+   },
+   {
+    "week": 3,
+    "topic": "Grafik Çözüm, Simpleks Algoritması",
+    "outcomes": "4-5"
+   },
+   {
+    "week": 4,
+    "topic": "Karar verme ile ilgili temel kavramlar",
+    "outcomes": "1"
+   },
+   {
+    "week": 5,
+    "topic": "OPL yazılım paketi",
+    "outcomes": "5"
+   },
+   {
+    "week": 6,
+    "topic": "Çok ölçütlü karar verme yöntemleri-temel kavramlar, uygulama alanları",
+    "outcomes": "5-9"
+   },
+   {
+    "week": 7,
+    "topic": "Karar Ağacı",
+    "outcomes": "1-5"
+   },
+   {
+    "week": 8,
+    "topic": "Fayda Teorisi",
+    "outcomes": "1-5-10"
+   },
+   {
+    "week": 9,
+    "topic": "Duyarlılık Analizi",
+    "outcomes": "3-4-5"
+   },
+   {
+    "week": 10,
+    "topic": "Ulaştırma Sorunlarının Formülasyonu, Temel Olurlu Çözümün Bulunması",
+    "outcomes": "3-4-5"
+   },
+   {
+    "week": 11,
+    "topic": "Ulaştırma problemlerinin Çözümü, Atama Sorunları, Geçici Konaklama Sorunları",
+    "outcomes": "7"
+   }
+  ],
+  "textbooks": [
+   "Winston W.L. (2004) “Operations Research: Applications and Algorithms”,Brooks/Cole – Thomson Learning",
+   "French, S, “Decision Theory:An Introduction to the Mathematics of Rationality”, John Wiley &Sons, NewYork: 1988",
+   "Taha H.A. (2003) \"Operations Research: An Introduction\", Pearson Education Inc",
+   "Taha H.A. (2000) \"Yoneylem Arastirmasi\", Literatur Yayincilik (cev. Alp Baray ve Sakir Esnaf)",
+   "Winston W.L., Albright S.C. (2001) \"Practical Management Science\", Duxbury Press, Wadsworth Inc",
+   "Render B., Stair R.M. Jr., Hanna M.E. (2003) \"Quantitative Analysis for Management\", Pearson Education Inc.",
+   "Taylor B.W. III (2002) \"Introduction to Management Science\", Pearson Education Inc",
+   "Rardin R.L. (1998) \"Optimization in Operations Research\", Prentice Hall Inc",
+   "Walker R.C. (1999) \"Introduction to Mathematical Programming\", Prentice Hall Inc."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=VIA&dersNo=506"
+ },
+ "VIA 507E": {
+  "code": "VIA 507E",
+  "name": "Business Analytics for Manager",
+  "nameEn": "Business Analytics for Manager",
+  "language": "English",
+  "credits": {
+   "theory": 3,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 7.5
+  },
+  "description": "İş analitiği konusu genellikle analitik yöntemler, kullanılan veriler ve araçlar açısından incelenmektedir. Bu kavramın istenen değeri ortaya koyabilmesi için yöneticilerin konuyu ve çevreleyen yapıtaşlarını tanıması ve değerlendirmesi gerekmektedir. Bu derste iş analitiği firmaların çeşitli yönetim seviyelerine etkileri ve alınması gereken kararlar açısından incelenmektedir. Ayrıca doğru projelerin seçilmesi verilebilmesi için temel kavramlar tanıtılmakta ve çeşitli proje değerlendirme yaklaşımları ortaya konulmaktadır. The topic of business analytics is usually analyzed in terms of analytical methods, data and tools used. In order for this concept to reveal the desired value, it is necessary for the managers to identify and evaluate the building and surrounding building blocks. In this course, business analytics is examined in terms of the effects of various management levels and the decisions to be taken. In addition, basic concepts are introduced for the selection of the right projects and various project evaluation approaches are presented.",
+  "outcomes": [
+   "Potansiyel iş analitiği uygulamalarının kurumlara katacağı değerleri belirleyebilmek.",
+   "Farklı iş problemleri için uygun iş analitiği yaklaşımları ve modelleri önerebilmek",
+   "Kurum içinde iş analitiğinin farklı seviyelerde nasıl ele alındığını anlamak",
+   "Kurum içindeki veri kaynaklarını değerlendirmek ve belirlenen veriler ile iş analitiği modelleri kurabilmek",
+   "Alternatif iş analitiği projelerini değerlendirebilmek"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · İş analitiğine giriş ve temel tanımlar",
+   "Hafta 2 · Stratejik seviyede iş analitiği",
+   "Hafta 3 · Fonksiyonel seviyede bilgi oluşturma",
+   "Hafta 4 · Analitik seviyede iş analitiği",
+   "Hafta 5 · Tanımlayıcı analitikler ve uygulamaları",
+   "Hafta 6 · Kestirimci analitikler ve uygulamaları",
+   "Hafta 7 · Çözümleyici analitikler ve uygulamaları",
+   "Hafta 8 · Veri Ambarı seviyesinde iş analitiği",
+   "Hafta 9 · Şirketlerdeki veri kaynakları ve veri kalitesi",
+   "Hafta 10 · İş analitiği projelerinin önceliklendirilmesi",
+   "Hafta 11 · Proje sunumları"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "İş analitiğine giriş ve temel tanımlar",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "Stratejik seviyede iş analitiği",
+    "outcomes": "1-3"
+   },
+   {
+    "week": 3,
+    "topic": "Fonksiyonel seviyede bilgi oluşturma",
+    "outcomes": "1-3"
+   },
+   {
+    "week": 4,
+    "topic": "Analitik seviyede iş analitiği",
+    "outcomes": "1-3"
+   },
+   {
+    "week": 5,
+    "topic": "Tanımlayıcı analitikler ve uygulamaları",
+    "outcomes": "2-4"
+   },
+   {
+    "week": 6,
+    "topic": "Kestirimci analitikler ve uygulamaları",
+    "outcomes": "2-4"
+   },
+   {
+    "week": 7,
+    "topic": "Çözümleyici analitikler ve uygulamaları",
+    "outcomes": "2-4"
+   },
+   {
+    "week": 8,
+    "topic": "Veri Ambarı seviyesinde iş analitiği",
+    "outcomes": "4-5"
+   },
+   {
+    "week": 9,
+    "topic": "Şirketlerdeki veri kaynakları ve veri kalitesi",
+    "outcomes": "4-5"
+   },
+   {
+    "week": 10,
+    "topic": "İş analitiği projelerinin önceliklendirilmesi",
+    "outcomes": "5"
+   },
+   {
+    "week": 11,
+    "topic": "Proje sunumları",
+    "outcomes": "1-2-5"
+   }
+  ],
+  "textbooks": [
+   "Laursen G.H.N. ve Thorlund J (2017) Business Analytics for Managers, Wiley",
+   "Evans J.R. (2017) Business Analytics: Methods, Models, Decisions, Pearson",
+   "Smith J. (2016) Data Analytics: What Every Business Must Know About Big Data And Data Science, Pinnacle Publishers"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=VIA&dersNo=507"
+ },
+ "VIA 509E": {
+  "code": "VIA 509E",
+  "name": "Machine Learningwith Big Data",
+  "nameEn": "Machine Learningwith Big Data",
+  "language": "English",
+  "credits": {
+   "theory": 3,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 7.5
+  },
+  "description": "Veri toplama ve saklama teknolojilerinin gelişmesiyle beraber çok büyük miktarda veri kolaylıkla toplanabilmekte ve saklanabilmektedir. Bu kadar büyük veri içinden işe yarar bilgi çıkarmak rekabetci ortam içinde çok büyük önem arz etmektedir. Bu derste büyük veriden değerli bilgiler elde etmek için gözetimli öğrenme (regrasyon ve sınıflandırma) ve gözetimsiz öğrenme (kümeleme) metotları öğretilecektir. Increase in data acquiring and storing technology enables us to collect and store enormous amount of data. Extracting useful information from huge amount of data is crucial to become successful business in competitive industry. In this course, supervised models (regression and classification) and unsupervised models (clustering) will be introduced to extract valuable information from big data.",
+  "outcomes": [
+   "Tahminleme modellerinde temel kavramları anlama becerisi",
+   "Regrasyon ve sınıflandırma problemleri için gözetimli öğrenme metodlarını uygulama",
+   "Kümeleme problemleri için gözetimsiz öğrenme metodlarını uygulama",
+   "Tahminleme metodlarının sonuclarını analiz edebilme ve performanslarını ölçebilme",
+   "Basit makine öğrenmesi algoritmalarını kodlayabilme"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Makine öğrenmesine giriş",
+   "Hafta 2 · Gözetimli ve gözetimsiz öğrenme",
+   "Hafta 3 · Lineer regresyon, Lojistik regresyon",
+   "Hafta 4 · Naïve Bayes, K en yakın komşu algoritması",
+   "Hafta 5 · K-means, Hiyerarşik kümeleme",
+   "Hafta 6 · Yapay Sinir Ağları",
+   "Hafta 7 · Destek Vektör Makineleri",
+   "Hafta 8 · Regresyon problemleri için büyük veri örnekleri",
+   "Hafta 9 · Sınıflandırma problemleri için büyük veri örnekleri",
+   "Hafta 10 · Kümeleme problemleri için büyük veri örnekleri",
+   "Hafta 11 · Performans ölçme"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Makine öğrenmesine giriş",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "Gözetimli ve gözetimsiz öğrenme",
+    "outcomes": "1-2-3"
+   },
+   {
+    "week": 3,
+    "topic": "Lineer regresyon, Lojistik regresyon",
+    "outcomes": "1-2-5"
+   },
+   {
+    "week": 4,
+    "topic": "Naïve Bayes, K en yakın komşu algoritması",
+    "outcomes": "1-2-5"
+   },
+   {
+    "week": 5,
+    "topic": "K-means, Hiyerarşik kümeleme",
+    "outcomes": "1-2-5"
+   },
+   {
+    "week": 6,
+    "topic": "Yapay Sinir Ağları",
+    "outcomes": "1-3-5"
+   },
+   {
+    "week": 7,
+    "topic": "Destek Vektör Makineleri",
+    "outcomes": "1-2-5"
+   },
+   {
+    "week": 8,
+    "topic": "Regresyon problemleri için büyük veri örnekleri",
+    "outcomes": "2-5"
+   },
+   {
+    "week": 9,
+    "topic": "Sınıflandırma problemleri için büyük veri örnekleri",
+    "outcomes": "2-5"
+   },
+   {
+    "week": 10,
+    "topic": "Kümeleme problemleri için büyük veri örnekleri",
+    "outcomes": "2-5"
+   },
+   {
+    "week": 11,
+    "topic": "Performans ölçme",
+    "outcomes": "4"
+   }
+  ],
+  "textbooks": [
+   "Mü ller, Andreas C., and Sarah Guido. Introduction to machine learning with Python.",
+   "O'Reilly Media, 2017..Raschka, Sebastian. Python machine learning. Packt Publishing Ltd, 2015.",
+   "Grus, Joel. Data Science from Scratch: First Principles with Python. \" O'Reilly Media, Inc.\", 2015."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=VIA&dersNo=509"
+ },
+ "VIA 511E": {
+  "code": "VIA 511E",
+  "name": "Time Series and Forecasting",
+  "nameEn": "Time Series and Forecasting",
+  "language": "English",
+  "credits": {
+   "theory": 3,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 7.5
+  },
+  "description": "Bu ders modern zaman serisi tekniklerine ve ileri öngörü metodlarına yoğunlaşmaktadır. Ders kapsamında zaman serilerinin özellikleriyle, zaman serisi tekniklerinin klasik ekonometrik yöntemlerden farklılıkları ele alınmaktadır. Ders kapsamında R ekonometrik paket programıyla uygulamalar yapılacaktır. This course focuses on modern time series techniqued and advanced forecast methods. The course also covers the concepts such as time series properties, the diferences between traditional econometric methods and time series methods. The scope of the course included empiricial applications using R software",
+  "outcomes": [
+   "Zaman Serileri özelliklerini analiz edebilme becerisi",
+   "Zaman Serisi Ekonometrisi yöntemlerini uygulayabilme becerisi",
+   "Ortalama için Öngörü yapabilme becerisi",
+   "Varyans için Öngörü yapabilme becerisi"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Zaman Serilerinin grafiksel gösterimi, Korelogram",
+   "Hafta 2 · Durağanlık, Ergodisite,",
+   "Hafta 3 · Tek değişkenli Durağan Süreçler :AR, MA, ARMA",
+   "Hafta 4 · Üstel Düzleme",
+   "Hafta 5 · Öngörü",
+   "Hafta 6 · Birim Kök testleri",
+   "Hafta 7 · Vektör Otoregresif Süreçler",
+   "Hafta 8 · Eşbütünleşme",
+   "Hafta 9 · Eşbütünleşme vektör tahmincileri",
+   "Hafta 10 · Otoregresif Koşullu Değişen Varyans",
+   "Hafta 11 · Doğrusal Olmayan Zaman Serisi Modelleri"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Zaman Serilerinin grafiksel gösterimi, Korelogram",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "Durağanlık, Ergodisite,",
+    "outcomes": "1"
+   },
+   {
+    "week": 3,
+    "topic": "Tek değişkenli Durağan Süreçler :AR, MA, ARMA",
+    "outcomes": "1"
+   },
+   {
+    "week": 4,
+    "topic": "Üstel Düzleme",
+    "outcomes": "2"
+   },
+   {
+    "week": 5,
+    "topic": "Öngörü",
+    "outcomes": "4"
+   },
+   {
+    "week": 6,
+    "topic": "Birim Kök testleri",
+    "outcomes": "3"
+   },
+   {
+    "week": 7,
+    "topic": "Vektör Otoregresif Süreçler",
+    "outcomes": "2"
+   },
+   {
+    "week": 8,
+    "topic": "Eşbütünleşme",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 9,
+    "topic": "Eşbütünleşme vektör tahmincileri",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 10,
+    "topic": "Otoregresif Koşullu Değişen Varyans",
+    "outcomes": "1-3"
+   },
+   {
+    "week": 11,
+    "topic": "Doğrusal Olmayan Zaman Serisi Modelleri",
+    "outcomes": "1-2"
+   }
+  ],
+  "textbooks": [
+   "Introduction to Modern Time Series Kirchgässner G. · Wolters J springer 2007 Analysis of Financial Time Series Ruey TSay , Wiley 2010",
+   "Analysis of Financial Time Series Ruey TSay , Wiley 2010"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=VIA&dersNo=511"
+ },
+ "VIA 516E": {
+  "code": "VIA 516E",
+  "name": "Customer Analytics",
+  "nameEn": "Customer Analytics",
+  "language": "English",
+  "credits": {
+   "theory": 3,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 7.5
+  },
+  "description": "Günümüzde veri analitiğinin etkin olarak kullanıldığı en önemli alanlardan bir tanesi de müşterilerdir. Özellikle ağ, mobil ve konum tabanlı hizmetler sayesinde kasada gerçekleşen satış verisi dışında pek çok veri de toplanabilmekte ve analize konu olabilmektedir. Bu ders kapsamında müşteri tanıma, müşteri hedefleme, müşteri geliştirme ve müşteri elde tutma konularının temelinde farklı veri analitiği uygulamaları anlatılmaktadır. One of the most critical areas where data analysis is used effectively is the customers. Besides transaction data, new types of data from networks, mobile phones and location-based services can be collected. In this course, different data analysis applications are explained based on customer identification, customer targeting, customer development and customer retention",
+  "outcomes": [
+   "Firma içinde tutulan ve tutulabilecek olan verilerin tanımlanabilmesi",
+   "İstenen analizleri gerçekleştirmek üzere toplanması gereken verilerin tespit etme becerisi",
+   "Gerçek veriler ile müşteri analitiği uygulamaları yapabilme becerisi",
+   "Gerçekleştirilen uygulamaların sonuçlarını yorumlama ve aksiyona çevirebilme becerisi"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Müşteri analitiğine giriş",
+   "Hafta 2 · Müşteri tanıma: müşteri hayat boyu değeri",
+   "Hafta 3 · Müşteri tanıma: müşteri bölümlendirme",
+   "Hafta 4 · Müşteri hedefleme: RFM (güncellik, frekans, tutar) analizi ile müşteri dönüşü tahmini",
+   "Hafta 5 · Müşteri hedefleme: lojistik regresyon ile müşteri dönüşü tahmini",
+   "Hafta 6 · Müşteri hedefleme: karar ağaçları ile müşteri dönüşü tahmini",
+   "Hafta 7 · Müşteri geliştirme: birliktelik analizleri",
+   "Hafta 8 · Müşteri geliştirme: bir sonra alınacak ürün modelleri ve çapraz satış",
+   "Hafta 9 · Müşteri geliştirme: öneri sistemleri",
+   "Hafta 10 · Müşteri elde tutma: müşteri kayıp analizi",
+   "Hafta 11 · Dönem projesi sunumları"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Müşteri analitiğine giriş",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 2,
+    "topic": "Müşteri tanıma: müşteri hayat boyu değeri",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 3,
+    "topic": "Müşteri tanıma: müşteri bölümlendirme",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 4,
+    "topic": "Müşteri hedefleme: RFM (güncellik, frekans, tutar) analizi ile müşteri dönüşü tahmini",
+    "outcomes": "1-2-3"
+   },
+   {
+    "week": 5,
+    "topic": "Müşteri hedefleme: lojistik regresyon ile müşteri dönüşü tahmini",
+    "outcomes": "1-3"
+   },
+   {
+    "week": 6,
+    "topic": "Müşteri hedefleme: karar ağaçları ile müşteri dönüşü tahmini",
+    "outcomes": "1-3"
+   },
+   {
+    "week": 7,
+    "topic": "Müşteri geliştirme: birliktelik analizleri",
+    "outcomes": "2"
+   },
+   {
+    "week": 8,
+    "topic": "Müşteri geliştirme: bir sonra alınacak ürün modelleri ve çapraz satış",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 9,
+    "topic": "Müşteri geliştirme: öneri sistemleri",
+    "outcomes": "1-2-3"
+   },
+   {
+    "week": 10,
+    "topic": "Müşteri elde tutma: müşteri kayıp analizi",
+    "outcomes": "1-3"
+   },
+   {
+    "week": 11,
+    "topic": "Dönem projesi sunumları",
+    "outcomes": "3-4"
+   }
+  ],
+  "textbooks": [
+   "Tsiptsis K.K, Chorianopoulos A. (2010) Data Mining Techniques in CRM: Inside Customer Segmentation, Wiley",
+   "Linoff G.S., Berr M.J. (2011) Data Mining Techniques for Marketing, Sales and Customer Relationship Management",
+   "Sauro J. (2015) Customer analytics for Dummies, Wiley"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=VIA&dersNo=516"
+ },
+ "VIA 527E": {
+  "code": "VIA 527E",
+  "name": "Mathematics for Machine Lear.",
+  "nameEn": "Mathematics for Machine Lear.",
+  "language": "English",
+  "credits": {
+   "theory": 3,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 7.5
+  },
+  "description": "Cebir, olasılık, istatistik, bilgi teorisi, optimizasyon, çok değişkenli diferansiyel hesaplama ve olabilirlik fonksiyonları Algebra, probability, statistics, information theory, optimization, multivariate differential calculus, and likelihood functions",
+  "outcomes": [
+   "Olasılık ve istatistik konularında bilgi sahibi olur",
+   "Makine öğrenmesi algoritmalarını optimize edebilir",
+   "Bilgi teorisi hakkında bilgi sahibi olur",
+   "Makine öğrenmesi algoritmalarını kodlayabilir"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Makine öğrenmesinde matematiğin önemi",
+   "Hafta 2 · Linear cebir",
+   "Hafta 3 · Özvektör ve özdeğer",
+   "Hafta 4 · Matris ayrışımı",
+   "Hafta 5 · Vektörler",
+   "Hafta 6 · Olasılık ve dağılımlar",
+   "Hafta 7 · Optimizayon",
+   "Hafta 8 · Optimizasyon ile linear regresyon parametrelerini hesaplama",
+   "Hafta 9 · Temel bileşim analizi ile değişken indirgeme",
+   "Hafta 10 · Gaussian karışım analizi ile dağılım tahmin etme",
+   "Hafta 11 · Destek vektör makineleri ile sınıflandırma"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Makine öğrenmesinde matematiğin önemi",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 2,
+    "topic": "Linear cebir",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 3,
+    "topic": "Özvektör ve özdeğer",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 4,
+    "topic": "Matris ayrışımı",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 5,
+    "topic": "Vektörler",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 6,
+    "topic": "Olasılık ve dağılımlar",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 7,
+    "topic": "Optimizayon",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 8,
+    "topic": "Optimizasyon ile linear regresyon parametrelerini hesaplama",
+    "outcomes": "2-3-4"
+   },
+   {
+    "week": 9,
+    "topic": "Temel bileşim analizi ile değişken indirgeme",
+    "outcomes": "2-3-4"
+   },
+   {
+    "week": 10,
+    "topic": "Gaussian karışım analizi ile dağılım tahmin etme",
+    "outcomes": "2-3-4"
+   },
+   {
+    "week": 11,
+    "topic": "Destek vektör makineleri ile sınıflandırma",
+    "outcomes": "2-3-4"
+   }
+  ],
+  "textbooks": [
+   "Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning. Cambridge University Press, 2020.",
+   "Bishop, Christopher M. Pattern recognition and machine learning. springer, 2006.",
+   "Class notes and handouts"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=VIA&dersNo=527"
+ },
+ "VIA 529E": {
+  "code": "VIA 529E",
+  "name": "Reinforce.Lear.for Busi.App.",
+  "nameEn": "Reinforce.Lear.for Busi.App.",
+  "language": "English",
+  "credits": {
+   "theory": 3,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 7.5
+  },
+  "description": "Bu ders pekiştirilmiş öğrenme yöntemlerinin dayandığı; Markov karar süreçleri, değer fonksiyonları, Monte Carlo tahmini, dinamik programlama, zamansal fark öğrenme, uygunluk izleri ve fonksiyon yakınlaştırma gibi temel konularını içerir. Bununla birlikte, derin pekiştirilmiş öğrenme yöntemlerine de bir giriş yapar. Programlama ödevleri ve projeleri, çeşitli problemler için bu tekniklerin uygulanmasını ve test edilmesini sağlayacaktır. This course provides an introduction to some of the foundational ideas of reinforcement learning, including Markov decision processes, value functions, Monte Carlo estimation, dynamic programming, temporal difference learning, eligibility traces, and function approximation. However, we will also cover additional material drawn from the latest Deep Reinforcement Learning literature. Programming assignments and projects will require implementing and testing these techniques for various business problems.",
+  "outcomes": [
+   "Temel ve ileri pekiştirilmiş öğrenme yöntemleri konusunda bilgi",
+   "Pekiştirilmiş öğrenme yöntemlerinin dayandığı teorinin kavranması",
+   "Uygun yöntemlerin belirlenmesi",
+   "Karar problemlerinin formüle edilmesi, deneysel hesaplamaların yapılıp, sonuçların değerlendirilebilmesi yetkinliği",
+   "Güncel derin pekiştirilmiş öğrenme yöntemlerinin öğrenilmesi ve uygulanması"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Pekiştirilmiş Öğrenme Temelleri",
+   "Hafta 2 · Çok Kollu Haydut Problemi",
+   "Hafta 3 · Markov Karar Süreçleri",
+   "Hafta 4 · Değer Yineleme ve Politika Yineleme Yöntemleri",
+   "Hafta 5 · Monte Carlo Yöntemleri",
+   "Hafta 6 · Q-Öğrenme ve SARSA",
+   "Hafta 7 · Uygunluk İzsürümü",
+   "Hafta 8 · Keşif ve Kıymetlendirme Yöntemleri",
+   "Hafta 9 · Fonksiyon Yakınlaştırma: Stokastik gradyan, Yarı gradyan TD Güncellemesi, En küçük kareler TD",
+   "Hafta 10 · İş Uygulamalarında Değer Temelli Derin Pekiştirilmiş Öğrenme: Q-network",
+   "Hafta 11 · Politika Temelli Derin Pekiştirilmiş Öğrenme : REINFORCE"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Pekiştirilmiş Öğrenme Temelleri",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "Çok Kollu Haydut Problemi",
+    "outcomes": "2"
+   },
+   {
+    "week": 3,
+    "topic": "Markov Karar Süreçleri",
+    "outcomes": "2"
+   },
+   {
+    "week": 4,
+    "topic": "Değer Yineleme ve Politika Yineleme Yöntemleri",
+    "outcomes": "1-2-4"
+   },
+   {
+    "week": 5,
+    "topic": "Monte Carlo Yöntemleri",
+    "outcomes": "1-2-3"
+   },
+   {
+    "week": 6,
+    "topic": "Q-Öğrenme ve SARSA",
+    "outcomes": "1-3-4"
+   },
+   {
+    "week": 7,
+    "topic": "Uygunluk İzsürümü",
+    "outcomes": "1-3-4"
+   },
+   {
+    "week": 8,
+    "topic": "Keşif ve Kıymetlendirme Yöntemleri",
+    "outcomes": "1-2-3-4"
+   },
+   {
+    "week": 9,
+    "topic": "Fonksiyon Yakınlaştırma: Stokastik gradyan, Yarı gradyan TD Güncellemesi, En küçük kareler TD",
+    "outcomes": "1-3-4"
+   },
+   {
+    "week": 10,
+    "topic": "İş Uygulamalarında Değer Temelli Derin Pekiştirilmiş Öğrenme: Q-network",
+    "outcomes": "1-3-5"
+   },
+   {
+    "week": 11,
+    "topic": "Politika Temelli Derin Pekiştirilmiş Öğrenme : REINFORCE",
+    "outcomes": "1-3-5"
+   }
+  ],
+  "textbooks": [
+   "Reinforcement Learning: An Introduction (second edition). R. Sutton and A. Barto. MIT Press, 2018.",
+   "Bertsekas, Dimitri P. Approximate dynamic programming. Belmont: Athena scientific, 2012.",
+   "Powell, Warren B. Approximate Dynamic Programming: Solving the curses of dimensionality. Vol. 703. John Wiley & Sons, 2007.",
+   "Graesser, Laura, and Wah Loon Keng. Foundations of Deep Reinforcement Learning: Theory and Practice in Python. Addison-Wesley Professional, 2019."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=VIA&dersNo=529"
  }
 }

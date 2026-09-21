@@ -321,10 +321,10 @@
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CSP&dersNo=531"
  },
- "CSP 537": {
-  "code": "CSP 537",
-  "name": "Çalgıda İleri İcra 3",
-  "nameEn": "Advanced Performance in Instrument 3",
+ "CSP 543": {
+  "code": "CSP 543",
+  "name": "Seste İleri İcra (TSM) III",
+  "nameEn": "Advanced Vocal Performance (Turkish Art Music) III",
   "language": "Türkçe",
   "credits": {
    "theory": 3,
@@ -333,112 +333,107 @@
    "local": 3,
    "ects": 7.5
   },
-  "description": "Virtüoziteye yönelik ilgili çalgının dağarcığında yer alan eser ya da eserlerin seçilmesi. Seçilen eserlerin yapısal, teknik ve müzikal analizlerinin yapılması. Önde gelen yorumculardan esere ait görsel ve işitsel kayıtların incelenmesi ve eserlerin öğrenci tarafından yorumlanması. Öğrencinin, virtüoziteye yönelik seçilen bir eseri yorumlaması için hazırlık çalışmaları. Choosing of the piece(s) from the corresponding instrument’s repertoire, that are intended for the virtuosity. Structural, technical and musical analysis of the chosen pieces. Studying the visual and audial recordings of the chosen pieces by leading interpreters and interpretation of the pieces by the student. Preparatory work for the interpretation of a piece, chosen by the student from the virtuosity oriented repertoire.",
+  "description": "Basit makamlarda ağır semai formunda bestelenmiş eser örneklerinde ileri icra, basit makamlarda beste formunda bestelenmiş eser örneklerini inceleme, basit makamlarda beste formunda bestelenmiş eser örneklerinde ileri icra, birleşik makamlarla ağır semai formundaki örneklerde ileri icra, birleşik makamlarda beste formunda bestelenmiş eser örneklerini inceleme, şed makamlarda ağır semai formunda bestelenmiş eser örneklerinde ileri icra, şed makamlarda beste formunda bestelenmiş eser örneklerini inceleme, şed makamlarda beste formunda bestelenmiş eser örneklerinde ileri icra, eser aralarındaki serbest ritimli bölümlerde ileri icra, gazel formunda ileri icra 1-2-3. To advanced performance in the compositions which are in ağır semai form and simple makams, to examine the compositions which are in composition form and simple makams, to advanced performance in the compositions which are in composition form and simple makams, to advanced performance in the compositions which are in ağır semai form and compound makams, to examine the compositions which are in composition form and compound makams, to advanced performance in the compositions which are in composition form and compound makams, to advanced performance in the compositions which are in composition form and compound makams, to advanced performance in the compositions which are in ağır semai form and şed makams, to examine the compositions which are in composition form and compound makams, to advanced performance in the compositions which are in composition form and şed makams, the advanced composition in the sections with free rhythm between compositions, the advanced composition in gazel form 1-2-3.",
   "outcomes": [
-   "Virtüoziteye yönelik üçüncü seviye eserlerinden icra edilecek eser belirleyebilme.",
-   "Görsel ve işitsel kayıtlar vasıtasıyla etkileyici icracılar, kendine özgülük, tarihsel icra pratikleri gibi kendi çalgıları hakkında bilgi.",
-   "Virtüoziteye yönelik üçüncü seviye eserlerini analiz edebilme yetisi.",
-   "Virtüoziteye yönelik üçüncü seviye eserlerini deşifre edebilme",
-   "Virtüoziteye yönelik üçüncü seviye eserlerine hazırlık niteliğindeki egzersiz ve etütleri çalabilme.",
-   "Kendi başına bir icra altyapısı edinme.",
-   "Kendi başına eser yorumlama yetisi kazanma"
+   "1. İleri icrada tavır ve üslup hakkında bilgi.",
+   "2. İleri icra kapsamında ileri icra öğelerini kullanabilme becerisi.",
+   "3. İleri icra kapsamında bireysel uzmanlık alanı ve solist niteliği gelişimi.",
+   "4. İleri icra kapsamında repertuar."
   ],
   "weeklyTopics": [
-   "Hafta 1 · Virtüoziteye yönelik üçüncü seviye için ilgili çalgının dağarcığında yer alan bir eserin seçilmesi.",
-   "Hafta 2 · Seçilen eserin yapısal ve teknik analizinin yapılması. Deşifresi.",
-   "Hafta 3 · Seçilen eserin müzikal analizinin yapılması. Belli başlı yorumculardan esere ait görsel ve işitsel kayıtların incelenmesi.",
-   "Hafta 4 · Seçilen esere hazırlayıcı nitelikte egzersiz ve etüt çalışmaları 1",
-   "Hafta 5 · Seçilen esere hazırlayıcı nitelikte egzersiz ve etüt çalışmaları 2",
-   "Hafta 6 · Çalışılan eserin ileri düzeyde icrası ve ilgili çalgının dağarcığında yer alan ikinci eserin seçilmesi",
-   "Hafta 7 · Seçilen eserin yapısal ve teknik analizinin yapılması. Deşifresi.",
-   "Hafta 8 · Seçilen eserin müzikal analizinin yapılması. Belli başlı yorumculardan esere ait görsel ve işitsel kayıtların incelenmesi.",
-   "Hafta 9 · Seçilen esere hazırlayıcı nitelikte egzersiz ve etüt çalışmaları 1",
-   "Hafta 10 · Seçilen esere hazırlayıcı nitelikte egzersiz ve etüt çalışmaları 2",
-   "Hafta 11 · Çalışılan eserin ileri düzeyde icrası ve virtüoziteye yönelik üçüncü seviye repertuardan öğrencinin final sınavında çalacağı eserin belirlenmesi.",
-   "Hafta 12 · Öğrencinin final için seçtiği eserin yapısal ve teknik analizi ile ilgili ödev.",
-   "Hafta 13 · Öğrencinin final için seçtiği eserin öğrenci tarafından müzikal analizinin yapılması. Belli başlı yorumculardan esere ait görsel ve işitsel kayıtların incelenmesi.",
-   "Hafta 14 · Öğrencinin final için seçtiği eserin icrası ile ilgili çalışmalar."
+   "Hafta 1 · Basit Makamlarda Ağır Semai formunda bestelenmiş eser örneklerinde ileri icra.",
+   "Hafta 2 · Basit Makamlarda Beste formunda bestelenmiş eser örneklerini inceleme.",
+   "Hafta 3 · Basit Makamlarda Beste formunda bestelenmiş eser örneklerinde ileri icra.",
+   "Hafta 4 · Birleşik Makamlarla Ağır Semai formundaki örneklerde ileri icra.",
+   "Hafta 5 · Birleşik Makamlarda Beste formunda bestelenmiş eser örneklerini inceleme.",
+   "Hafta 6 · Birleşik Makamlarda Beste formunda bestelenmiş eser örneklerinde ileri icra.",
+   "Hafta 7 · Birleşik Makamlarda Beste formunda bestelenmiş eser örneklerinde ileri icra.",
+   "Hafta 8 · Şed Makamlarda Ağır Semai formunda bestelenmiş eser örneklerinde ileri icra.",
+   "Hafta 9 · Şed Makamlarda Beste formunda bestelenmiş eser örneklerini inceleme.",
+   "Hafta 10 · Şed Makamlarda Beste formunda bestelenmiş eser örneklerinde ileri icra.",
+   "Hafta 11 · Eser aralarındaki serbest ritimli bölümlerde ileri icra.",
+   "Hafta 12 · Gazel formunda ileri icra. 1",
+   "Hafta 13 · Gazel formunda ileri icra. 2",
+   "Hafta 14 · Gazel formunda ileri icra. 3"
   ],
   "weeklyPlan": [
    {
     "week": 1,
-    "topic": "Virtüoziteye yönelik üçüncü seviye için ilgili çalgının dağarcığında yer alan bir eserin seçilmesi.",
-    "outcomes": "1"
-   },
-   {
-    "week": 2,
-    "topic": "Seçilen eserin yapısal ve teknik analizinin yapılması. Deşifresi.",
+    "topic": "Basit Makamlarda Ağır Semai formunda bestelenmiş eser örneklerinde ileri icra.",
     "outcomes": "2-4"
    },
    {
+    "week": 2,
+    "topic": "Basit Makamlarda Beste formunda bestelenmiş eser örneklerini inceleme.",
+    "outcomes": "1"
+   },
+   {
     "week": 3,
-    "topic": "Seçilen eserin müzikal analizinin yapılması. Belli başlı yorumculardan esere ait görsel ve işitsel kayıtların incelenmesi.",
-    "outcomes": "2-3"
+    "topic": "Basit Makamlarda Beste formunda bestelenmiş eser örneklerinde ileri icra.",
+    "outcomes": "2-4"
    },
    {
     "week": 4,
-    "topic": "Seçilen esere hazırlayıcı nitelikte egzersiz ve etüt çalışmaları 1",
-    "outcomes": "5"
+    "topic": "Birleşik Makamlarla Ağır Semai formundaki örneklerde ileri icra.",
+    "outcomes": "2-4"
    },
    {
     "week": 5,
-    "topic": "Seçilen esere hazırlayıcı nitelikte egzersiz ve etüt çalışmaları 2",
-    "outcomes": "5"
+    "topic": "Birleşik Makamlarda Beste formunda bestelenmiş eser örneklerini inceleme.",
+    "outcomes": "1"
    },
    {
     "week": 6,
-    "topic": "Çalışılan eserin ileri düzeyde icrası ve ilgili çalgının dağarcığında yer alan ikinci eserin seçilmesi",
-    "outcomes": "6"
+    "topic": "Birleşik Makamlarda Beste formunda bestelenmiş eser örneklerinde ileri icra.",
+    "outcomes": "2-4"
    },
    {
     "week": 7,
-    "topic": "Seçilen eserin yapısal ve teknik analizinin yapılması. Deşifresi.",
+    "topic": "Birleşik Makamlarda Beste formunda bestelenmiş eser örneklerinde ileri icra.",
     "outcomes": "2-4"
    },
    {
     "week": 8,
-    "topic": "Seçilen eserin müzikal analizinin yapılması. Belli başlı yorumculardan esere ait görsel ve işitsel kayıtların incelenmesi.",
-    "outcomes": "2-3"
+    "topic": "Şed Makamlarda Ağır Semai formunda bestelenmiş eser örneklerinde ileri icra.",
+    "outcomes": "2-4"
    },
    {
     "week": 9,
-    "topic": "Seçilen esere hazırlayıcı nitelikte egzersiz ve etüt çalışmaları 1",
-    "outcomes": "5"
+    "topic": "Şed Makamlarda Beste formunda bestelenmiş eser örneklerini inceleme.",
+    "outcomes": "1"
    },
    {
     "week": 10,
-    "topic": "Seçilen esere hazırlayıcı nitelikte egzersiz ve etüt çalışmaları 2",
-    "outcomes": "5"
+    "topic": "Şed Makamlarda Beste formunda bestelenmiş eser örneklerinde ileri icra.",
+    "outcomes": "2-4"
    },
    {
     "week": 11,
-    "topic": "Çalışılan eserin ileri düzeyde icrası ve virtüoziteye yönelik üçüncü seviye repertuardan öğrencinin final sınavında çalacağı eserin belirlenmesi.",
-    "outcomes": "6"
+    "topic": "Eser aralarındaki serbest ritimli bölümlerde ileri icra.",
+    "outcomes": "2-4"
    },
    {
     "week": 12,
-    "topic": "Öğrencinin final için seçtiği eserin yapısal ve teknik analizi ile ilgili ödev.",
+    "topic": "Gazel formunda ileri icra. 1",
     "outcomes": "2-4"
    },
    {
     "week": 13,
-    "topic": "Öğrencinin final için seçtiği eserin öğrenci tarafından müzikal analizinin yapılması. Belli başlı yorumculardan esere ait görsel ve işitsel kayıtların incelenmesi.",
-    "outcomes": "2"
+    "topic": "Gazel formunda ileri icra. 2",
+    "outcomes": "1-4"
    },
    {
     "week": 14,
-    "topic": "Öğrencinin final için seçtiği eserin icrası ile ilgili çalışmalar.",
-    "outcomes": "7"
+    "topic": "Gazel formunda ileri icra. 3",
+    "outcomes": "2-4"
    }
   ],
   "textbooks": [
-   "Kutluğ, Fikret. 2001. Türk Musıkisinde Makamlar, İstanbul: Yapı Kredi Yayınları",
-   "Tura, Yalçın. 2001. Kantemiroğlu, İstanbul: Yapı Kredi Yayınları",
-   "Liszt, Franz. Exercises for piano, Edition Budapest",
-   "Brahms, Johannes. Exercises for piano, Edition Budapest",
-   "Klein, Franz . 1977. Staccato-Etuden, Edition Peters, Frankfurt."
+   "Atlığ, Nevzat-Salgar Fatih. (2003). Türk Müziği Klasikleri Türk Müziği Nota Dergisi 1-50, Bakırköy Konservatuarı Musiki Vakfı, İstanbul: Üstün Eserler Basım Sanayi A.Ş.",
+   "İstanbul Belediye Konservatuarı Arşivi. (1943). Türk Musikisi Klasikleri.",
+   "İTÜ TMDK Prof. Ercüment Berker Kütüphanesi, Arşiv, Dokümantasyon Birimi Ses Arşivi."
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CSP&dersNo=537"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CSP&dersNo=543"
  },
  "CSP 596": {
   "code": "CSP 596",

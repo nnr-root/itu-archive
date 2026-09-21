@@ -1,8 +1,8 @@
 {
- "SSI 510": {
-  "code": "SSI 510",
-  "name": "İş Geliştirme ve Girişimcilik",
-  "nameEn": "Business Development and Entrepreneurship",
+ "SSI 501": {
+  "code": "SSI 501",
+  "name": "Etik (Uyum) ve Uluslararası İlişkiler",
+  "nameEn": "Eth. (Compliance) and Intern.Relat. in the Defen. Indust.",
   "language": "Türkçe",
   "credits": {
    "theory": 3,
@@ -16,12 +16,12 @@
   "textbooks": [
    "-"
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=SSI&dersNo=510"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=SSI&dersNo=501"
  },
- "SSI 511": {
-  "code": "SSI 511",
-  "name": "Pazarlama Analitiği ve Müşteri İlişkileri Yönetimi",
-  "nameEn": "Marketing Analytics and CRM",
+ "SSI 503": {
+  "code": "SSI 503",
+  "name": "Savunma Ekonomisi",
+  "nameEn": "Defense Economics",
   "language": "Türkçe",
   "credits": {
    "theory": 3,
@@ -35,12 +35,12 @@
   "textbooks": [
    "-"
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=SSI&dersNo=511"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=SSI&dersNo=503"
  },
- "SSI 512": {
-  "code": "SSI 512",
-  "name": "Tedarik Zinciri Yönetimi",
-  "nameEn": "Supply Chain Management",
+ "SSI 504": {
+  "code": "SSI 504",
+  "name": "Yönetim ve Organizasyon",
+  "nameEn": "Management and Organization",
   "language": "Türkçe",
   "credits": {
    "theory": 3,
@@ -54,12 +54,12 @@
   "textbooks": [
    "-"
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=SSI&dersNo=512"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=SSI&dersNo=504"
  },
- "SSI 518": {
-  "code": "SSI 518",
-  "name": "Pazarlama Yönetimi",
-  "nameEn": "Marketing Management",
+ "SSI 521": {
+  "code": "SSI 521",
+  "name": "Finansal Muhasebe",
+  "nameEn": "Financial Accounting",
   "language": "Türkçe",
   "credits": {
    "theory": 3,
@@ -73,25 +73,6 @@
   "textbooks": [
    "-"
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=SSI&dersNo=518"
- },
- "SSI 599": {
-  "code": "SSI 599",
-  "name": "Proje",
-  "nameEn": "Project",
-  "language": "Türkçe",
-  "credits": {
-   "theory": 3,
-   "practice": 0,
-   "lab": 0,
-   "local": 0,
-   "ects": 30
-  },
-  "description": "- -",
-  "outcomes": null,
-  "textbooks": [
-   "-"
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=SSI&dersNo=599"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=SSI&dersNo=521"
  }
 }

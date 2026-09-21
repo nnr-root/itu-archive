@@ -249,11 +249,11 @@
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=DTM&dersNo=507"
  },
- "DTM 511": {
-  "code": "DTM 511",
-  "name": "Açık Deniz Yapılarına Etkileyen Hidrodinamik Dalga Kuvvetleri",
-  "nameEn": "Hydrodynamic Forces on Offshore Floating Structures",
-  "language": "Türkçe",
+ "DTM 516E": {
+  "code": "DTM 516E",
+  "name": "Deniz Teknolojisi İçin Derin Öğrenme",
+  "nameEn": "Deep Learning for Marine Technology",
+  "language": "English/Türkçe",
   "credits": {
    "theory": 3,
    "practice": 0,
@@ -261,111 +261,12 @@
    "local": 3,
    "ects": 7.5
   },
-  "description": "Giriş ve kabuller. Koordinat sistemleri ve geometri. Problemin sınır şartları (sınır değer probleminin tanıtımı). Gelen dalganın potansiyeli (lineer dalga teorisi) ve Difraksiyon. Green Teoremi ve problemin Green Fonksiyonları. Fredholm Entegral Denklemleri ve irregüler frekanslar (iç potansiyel problemi). Nümerik çözüm metotları. Potansiyeller yardımıyla fiziksel büyüklüklerin (basınç, kuvvet, ek su kütlesi ve sönüm) bulunması ve Hareket Denklemleri. Haskind Bağıntıları. Pertürbasyon Teorisi ve Sürüklenme Kuvveti (drift force) hesabı. Bazı örnekler. Introduction and assumptions. Coordinate systems and geometry. Boundary conditions of the problem (description of the boundary-value problem). Potential of the incident wave (linear wave theory) and diffraction. Green Theorem and the Green Functions of the problem. Fredholm Integral Equations and irregular frequencies (inner potential problem). Numerical solutions. Computation of physical quantities as pressure, force, added mass and potential damping by using velocity potentials. Six degrees of freedom equation of the rijid-body motions. Haskind’s relations. Perturbation Theory and drift force-calculations. Some examples",
-  "outcomes": [
-   "Kompakt Yapı ve Difraksiyon kavramlarına aşina olmak",
-   "Green Teoremini probleme uygulayabilmek ve Green Fonksiyonları hakkında bilgi sahibi olmak,",
-   "Fredholm İntegral Denklemini nümerik olarak çözebilmek (Panel Metodu)",
-   "Basınç, kuvvet, ek su kütlesi ve sönüm gibi büyüklükleri potansiyeller yardımıyla hesaplayabilmek,",
-   "Haskind Bağıntıları hakkında bilgi sahibi olmak",
-   "Lineer olmayan Sürüklenme Kuvvetinin hesabını yapabilmek,",
-   "Gemi ve açık deniz yapılarının hidrodinamiği üzerine araştırma yapabilir ve yol gösterici olmak"
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Giriş ve kabuller. Koordinat sistemleri ve geometri",
-   "Hafta 2 · Problemin sınır şartları (sınır değer probleminin tanıtımı)",
-   "Hafta 3 · Gelen dalganın hız potansiyeli (lineer dalga teorisi) ve Difraksiyon.",
-   "Hafta 4 · Green Teoremi ve problemin Green Fonksiyonları.",
-   "Hafta 5 · Fredholm Entegral Denklemi ve irregüler frekanslar (iç potansiyel problemi).",
-   "Hafta 6 · Nümerik çözüm metotları; Panel Metodu.",
-   "Hafta 7 · Potansiyeller yardımıyla fiziksel büyüklüklerin (basınç, kuvvet, ek su kütlesi ve sönüm) bulunması.",
-   "Hafta 8 · Hareket Denklemleri ve bunların kompleks çözümleri.",
-   "Hafta 9 · Haskind Bağıntıları.",
-   "Hafta 10 · Haskind Bağıntılarının irregüler frekansların yerinin tespitinde kullanılması.",
-   "Hafta 11 · Nonlineer problem ve Pertürbasyon Teorisi.",
-   "Hafta 12 · Sürüklenme Kuvveti (drift force) hesabı; kuvvet alt bileşenlerinin irdelenmesi.",
-   "Hafta 13 · Nümerik hesaba ait bazı uygulamalar.",
-   "Hafta 14 · Genel özet ve örnekler."
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Giriş ve kabuller. Koordinat sistemleri ve geometri",
-    "outcomes": "1"
-   },
-   {
-    "week": 2,
-    "topic": "Problemin sınır şartları (sınır değer probleminin tanıtımı)",
-    "outcomes": "1"
-   },
-   {
-    "week": 3,
-    "topic": "Gelen dalganın hız potansiyeli (lineer dalga teorisi) ve Difraksiyon.",
-    "outcomes": "1"
-   },
-   {
-    "week": 4,
-    "topic": "Green Teoremi ve problemin Green Fonksiyonları.",
-    "outcomes": "2"
-   },
-   {
-    "week": 5,
-    "topic": "Fredholm Entegral Denklemi ve irregüler frekanslar (iç potansiyel problemi).",
-    "outcomes": "2"
-   },
-   {
-    "week": 6,
-    "topic": "Nümerik çözüm metotları; Panel Metodu.",
-    "outcomes": "3"
-   },
-   {
-    "week": 7,
-    "topic": "Potansiyeller yardımıyla fiziksel büyüklüklerin (basınç, kuvvet, ek su kütlesi ve sönüm) bulunması.",
-    "outcomes": "4"
-   },
-   {
-    "week": 8,
-    "topic": "Hareket Denklemleri ve bunların kompleks çözümleri.",
-    "outcomes": "4"
-   },
-   {
-    "week": 9,
-    "topic": "Haskind Bağıntıları.",
-    "outcomes": "5"
-   },
-   {
-    "week": 10,
-    "topic": "Haskind Bağıntılarının irregüler frekansların yerinin tespitinde kullanılması.",
-    "outcomes": "5"
-   },
-   {
-    "week": 11,
-    "topic": "Nonlineer problem ve Pertürbasyon Teorisi.",
-    "outcomes": "6"
-   },
-   {
-    "week": 12,
-    "topic": "Sürüklenme Kuvveti (drift force) hesabı; kuvvet alt bileşenlerinin irdelenmesi.",
-    "outcomes": "6"
-   },
-   {
-    "week": 13,
-    "topic": "Nümerik hesaba ait bazı uygulamalar.",
-    "outcomes": "7"
-   },
-   {
-    "week": 14,
-    "topic": "Genel özet ve örnekler."
-   }
-  ],
+  "description": "- -",
+  "outcomes": null,
   "textbooks": [
-   "Clauss, G., Lehmann, E. and Östergaard, C., 1992. Offshore Structures, Volume I, Springer Verlag, Berlin.",
-   "Chakrabarti, S. K., 1987. Hydrodynamics of Offshore Structures, Computational Mechanics Publications Southampton and Springer Verlag Berlin.",
-   "Faltinsen, O. M., 1993. Sea loads on Ships and Offshore Structures, Cambridge University Press, U.K.",
-   "Chakrabarti, S. K., 1990. Nonlinear Methods in Offshore Engineering, Elsevier Science Publishers B.V. Amsterdam.",
-   "Dean, R. G. and Dalrymple, R. A., 1991. Water Wave Mechanics for Engineers and Scientists, World Scientific Publishing Co. Pte. Ltd. Singapore."
+   "-"
   ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=DTM&dersNo=511"
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=DTM&dersNo=516"
  },
  "DTM 532E": {
   "code": "DTM 532E",
