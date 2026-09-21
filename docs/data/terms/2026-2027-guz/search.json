@@ -63864,7 +63864,7 @@
   "SAO",
   "Murat Sekmen",
   "Pazartesi 10:30/13:29",
-  30,
+  1,
   1,
   "OL",
   "Fiziksel (Yüz yüze)",
@@ -119631,7 +119631,7 @@
   "MAK",
   "İsmail Yalçın Uralcan",
   "Çarşamba 13:30/15:29",
-  140,
+  160,
   140,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -120082,7 +120082,7 @@
   "MAK",
   "Metin Kayıtmazbatır",
   "Çarşamba 10:30/13:29",
-  150,
+  160,
   150,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -120423,7 +120423,7 @@
   "MAK 226",
   "Termodinamik II",
   "MAK",
-  "Turgut Yılmaz",
+  "Yakup Erhan Böke",
   "Perşembe 13:30/16:29",
   60,
   44,
@@ -120531,7 +120531,7 @@
   "Akışkanlar Mekaniği I",
   "MAK",
   "Sertaç Çadırcı , Hasan Güneş",
-  "Çarşamba 12:30/15:29",
+  "Pazartesi 10:30/13:29",
   0,
   0,
   "LS",
@@ -120577,8 +120577,8 @@
   "MAK 232",
   "Termodinamik II",
   "MAK",
-  "Yakup Erhan Böke",
-  "Perşembe 13:30/16:29",
+  "Turgut Yılmaz",
+  "Perşembe 14:30/17:29",
   0,
   0,
   "LS",
@@ -120694,7 +120694,7 @@
   "MAK",
   "Bayram Şahin",
   "Pazartesi 15:30/17:29 | Perşembe 08:30/10:29",
-  90,
+  95,
   90,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -120742,7 +120742,7 @@
   "MAK 353",
   "İmal Usulleri",
   "MAK",
-  "Şafak Yılmaz , Murat Vural",
+  "Şafak Yılmaz , Murat Vural , Murat Tosun",
   "Salı 08:30/10:29 | Cuma 08:30/10:29",
   70,
   46,
@@ -120760,7 +120760,7 @@
   "MAK",
   "Haluk Erol",
   "Salı 10:30/13:29",
-  75,
+  80,
   75,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -120777,7 +120777,7 @@
   "MAK",
   "Vahit Mermertaş",
   "Salı 10:30/13:29",
-  75,
+  80,
   75,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -120860,7 +120860,7 @@
   "Makine Mühendisleri İçin Mühendislik Ekonomisi",
   "MAK",
   "Ali İhsan Koca",
-  "Perşembe 13:30/15:29",
+  "Perşembe 12:30/14:29",
   0,
   0,
   "LS",
@@ -120876,7 +120876,7 @@
   "MAK",
   "Murat Çakan",
   "Pazartesi 10:30/13:29",
-  100,
+  110,
   100,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -120891,7 +120891,7 @@
   "MAK",
   "Atakan Altınkaynak",
   "",
-  160,
+  170,
   160,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -121805,7 +121805,8 @@
   "Fiziksel (Yüz yüze)",
   [
    "MAK_LS",
-   "MAKE_LS"
+   "MAKE_LS",
+   "MSS_LS"
   ]
  ],
  [
@@ -121856,7 +121857,8 @@
   "Fiziksel (Yüz yüze)",
   [
    "IML_LS",
-   "MAK_LS"
+   "MAK_LS",
+   "MSS_LS"
   ]
  ],
  [
@@ -121914,7 +121916,7 @@
   "MAK 4034",
   "Kaynaklı Tasarım ve İmalat",
   "MAK",
-  "Murat Vural",
+  "Murat Tosun",
   "Salı 14:30/17:29",
   30,
   19,
@@ -121940,7 +121942,8 @@
   "Fiziksel (Yüz yüze)",
   [
    "MAK_LS",
-   "MAKE_LS"
+   "MAKE_LS",
+   "MSS_LS"
   ]
  ],
  [
@@ -122135,7 +122138,8 @@
   "Fiziksel (Yüz yüze)",
   [
    "MAK_LS",
-   "MAKE_LS"
+   "MAKE_LS",
+   "MSS_LS"
   ]
  ],
  [
@@ -122168,7 +122172,8 @@
    "IML_LS",
    "IMLE_LS",
    "MAK_LS",
-   "MAKE_LS"
+   "MAKE_LS",
+   "MSS_LS"
   ]
  ],
  [
@@ -131204,7 +131209,7 @@
   "Fluid Mechanics II",
   "MAK",
   "Hasan Güneş , Sertaç Çadırcı",
-  "Çarşamba 09:30/12:29",
+  "Çarşamba 12:30/15:29",
   0,
   0,
   "LS",
@@ -131280,7 +131285,7 @@
   "MAK",
   "Ali İmre Aydeniz",
   "Pazartesi 13:30/15:29 | Perşembe 15:30/17:29",
-  15,
+  0,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -131327,7 +131332,7 @@
   "MAK",
   "İsmail Yalçın Uralcan",
   "Pazartesi 15:30/17:29 | Perşembe 13:30/15:29",
-  15,
+  0,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -132966,6 +132971,112 @@
   "Fiziksel (Yüz yüze)",
   [
    "NAE_LS"
+  ]
+ ],
+ [
+  "15657",
+  "NUM 201E",
+  "Fundamentals of Nuclear Engineering I",
+  "NUM",
+  "Üner Çolak",
+  "Salı 17:00/19:59",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NUM_YD"
+  ]
+ ],
+ [
+  "15658",
+  "NUM 411E",
+  "Nuclear Reactor Theory",
+  "NUM",
+  "Üner Çolak",
+  "Perşembe 17:00/19:59",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NUM_YD"
+  ]
+ ],
+ [
+  "15659",
+  "NUM 241E",
+  "Nuclear Fuel and Materials",
+  "NUM",
+  "Üner Çolak",
+  "Çarşamba 17:30/20:29",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NUM_YD"
+  ]
+ ],
+ [
+  "15660",
+  "NUM 341E",
+  "Nuclear Fuel Cycle",
+  "NUM",
+  "Sema Erentürk",
+  "Çarşamba 09:30/12:29",
+  30,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "NUM_YD"
+  ]
+ ],
+ [
+  "15661",
+  "IML 404E",
+  "Comp.Simulations in Manuf.Eng.",
+  "IML",
+  "Canan Gamze Güleryüz Parasız",
+  "Pazartesi 10:30/12:29",
+  10,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "IML_LS"
+  ]
+ ],
+ [
+  "15662",
+  "IML 402",
+  "İmalat Lab II",
+  "IML",
+  "Canan Gamze Güleryüz Parasız",
+  "Salı 10:30/12:29",
+  10,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "IML_LS",
+   "IMLE_LS"
+  ]
+ ],
+ [
+  "15663",
+  "MAK 223",
+  "Malzeme Bilimi",
+  "MAK",
+  "Raşid Ahmed Yıldız",
+  "Pazartesi 13:30/15:29 | Perşembe 10:30/12:29",
+  70,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  [
+   "MAK_LS"
   ]
  ]
 ]

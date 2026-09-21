@@ -950,7 +950,7 @@
 11015,MET 492E,MET,LS,Design Project,Fiziksel (Yüz yüze),Murat Baydoğan,,,-/-,,50,0,-,"MET_LS, METE_LS",-,Detay
 11016,SAO 106,SAO,OL,Güvenli Ağ Tasarımı ve Cihaz Yönetimi,Fiziksel (Yüz yüze),Engin Baysal,undeclared,Pazartesi,08:30/13:29,--,30,5,-,SAO_OL,Detay,-
 11017,SAO 207E,SAO,OL,Secure Software Development,Fiziksel (Yüz yüze),Gonca Özmen,undeclared,Pazartesi,13:30/18:29,--,30,20,-,SAO_OL,Detay,-
-11018,SAO 202E,SAO,OL,Cyber Incident Management,Fiziksel (Yüz yüze),Murat Sekmen,undeclared,Pazartesi,10:30/13:29,--,30,1,-,SAO_OL,Detay,-
+11018,SAO 202E,SAO,OL,Cyber Incident Management,Fiziksel (Yüz yüze),Murat Sekmen,undeclared,Pazartesi,10:30/13:29,--,1,1,-,SAO_OL,Detay,-
 11019,SAO 201,SAO,OL,Sızma Testi,Fiziksel (Yüz yüze),Umur Kuriş,undeclared | undeclared,Pazartesi | Cuma,11:30/13:29 | 08:30/11:29,-- | --,30,15,-,SAO_OL,Detay,-
 11020,SAO 204,SAO,OL,Girişimcilik ve Kariyer Planlama,Fiziksel (Yüz yüze),Umur Kuriş,undeclared,Pazartesi,08:30/10:29,--,30,8,-,SAO_OL,-,-
 11021,SAO 107E,SAO,OL,Mathematics and Logic,Fiziksel (Yüz yüze),Emre Parlak,undeclared,Salı,08:30/11:29,--,30,5,-,SAO_OL,-,-
@@ -4448,7 +4448,7 @@
 14812,ENT 354E,ENT,LS,Emotional Design,Fiziksel (Yüz yüze),Pelin Efilti,MMB,Pazartesi,13:30/16:29,--,30,30,IAD_LS/2/0 | ARC_LS/2/0 | Diğer/26/30,"ARC_LS, ENT_LS, ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS, IAD_LS",-,-
 14813,ENT 446E,ENT,LS,Multimedia Design Studio,Fiziksel (Yüz yüze),Ahmet Hamurcu,MMB,Salı,09:30/12:29,BIM2,30,26,IAD_LS/5/0 | Diğer/25/26,"ENT_LS, ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS, IAD_LS",-,-
 14814,MTR 101,MTR,LS,Makam Teorisi I,Fiziksel (Yüz yüze),Eren Özek,undeclared | undeclared | undeclared,Salı | Çarşamba | Perşembe,10:30/12:29 | 10:30/12:29 | 13:30/15:29,-- | -- | --,40,36,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",-,-
-14815,MAK 101,MAK,LS,Makina Müh. Giriş ve Etik,Fiziksel (Yüz yüze),İsmail Yalçın Uralcan,undeclared,Çarşamba,13:30/15:29,--,140,140,-,"MAK_LS, MAK_YD",-,-
+14815,MAK 101,MAK,LS,Makina Müh. Giriş ve Etik,Fiziksel (Yüz yüze),İsmail Yalçın Uralcan,undeclared,Çarşamba,13:30/15:29,--,160,140,-,"MAK_LS, MAK_YD",-,-
 14816,MAK 104E,MAK,LS,Intr to Comp in Mech. Eng (C),Fiziksel (Yüz yüze),Kubilay Yay,undeclared,Pazartesi,14:30/17:29,--,45,45,-,"IML_LS, MAK_LS",-,-
 14817,MAK 104E,MAK,LS,Intr to Comp in Mech. Eng (C),Fiziksel (Yüz yüze),Bülent Bölat,undeclared,Perşembe,14:30/17:29,--,45,13,-,"IML_LS, MAK_LS",-,-
 14818,MAK 104E,MAK,LS,Intr to Comp in Mech. Eng (C),Fiziksel (Yüz yüze),Kubilay Yay,undeclared,Salı,14:30/17:29,--,45,45,-,"IML_LS, MAK_LS",-,-
@@ -4476,7 +4476,7 @@
 14840,MAK 205,MAK,LS,Mukavemet I,Fiziksel (Yüz yüze),Ekrem Tüfekci,undeclared,Salı,08:30/11:29,--,40,40,-,"MAK_LS, MKN_YD_MK",Detay,-
 14841,MAK 206,MAK,LS,Mukavemet II,Fiziksel (Yüz yüze),Adil Yücel,undeclared,Salı,13:30/16:29,--,40,40,-,"MAK_LS, MKN_YD_MK",Detay,-
 14842,MAK 206,MAK,LS,Mukavemet II,Fiziksel (Yüz yüze),Uğurcan Eroğlu,undeclared,Salı,13:30/16:29,--,40,20,-,"MAK_LS, MKN_YD_MK",Detay,-
-14843,MAK 209E,MAK,LS,Probability and Statistics,Fiziksel (Yüz yüze),Metin Kayıtmazbatır,undeclared,Çarşamba,10:30/13:29,--,150,150,-,"IML_LS, MAK_LS",-,-
+14843,MAK 209E,MAK,LS,Probability and Statistics,Fiziksel (Yüz yüze),Metin Kayıtmazbatır,undeclared,Çarşamba,10:30/13:29,--,160,150,-,"IML_LS, MAK_LS",-,-
 14844,MAK 209E,MAK,LS,Probability and Statistics,Fiziksel (Yüz yüze),Hakan Öksüzoğlu,undeclared,Çarşamba,10:30/13:29,--,0,0,-,"IML_LS, MAK_LS",-,-
 14845,MAK 210E,MAK,LS,Engineering Mathematics,Fiziksel (Yüz yüze),Umut Şahin,undeclared | undeclared,Pazartesi | Perşembe,08:30/10:29 | 08:30/10:29,-- | --,40,13,-,"IML_LS, MAK_LS",Detay,-
 14846,MAK 211E,MAK,LS,Probability and Statistics,Fiziksel (Yüz yüze),Metin Kayıtmazbatır,undeclared,Çarşamba,10:30/13:29,--,20,1,-,"IML_LS, MAK_LS",-,-
@@ -4498,36 +4498,36 @@
 14862,MAK 223,MAK,LS,Malzeme Bilimi,Fiziksel (Yüz yüze),Ramazan Murat Tabanlı,undeclared | undeclared,Pazartesi | Perşembe,10:30/12:29 | 10:30/12:29,-- | --,70,70,-,"IML_LS, MAK_LS",Detay,-
 14863,MAK 224E,MAK,LS,Engineering Materials,Fiziksel (Yüz yüze),Ali Gökşenli,undeclared,Cuma,15:30/17:29,--,60,28,-,"IML_LS, MAK_LS",Detay,-
 14864,MAK 224E,MAK,LS,Engineering Materials,Fiziksel (Yüz yüze),Ersan Üstündağ,undeclared,Cuma,15:30/17:29,--,60,59,-,"IML_LS, MAK_LS",Detay,-
-14865,MAK 226,MAK,LS,Termodinamik II,Fiziksel (Yüz yüze),Turgut Yılmaz,undeclared,Perşembe,13:30/16:29,--,60,44,-,MAK_LS,Detay,-
+14865,MAK 226,MAK,LS,Termodinamik II,Fiziksel (Yüz yüze),Yakup Erhan Böke,undeclared,Perşembe,13:30/16:29,--,60,44,-,MAK_LS,Detay,-
 14866,MAK 228,MAK,LS,Akışkanlar Mekaniği I,Fiziksel (Yüz yüze),Abdussamet Subaşı,undeclared,Çarşamba,12:30/15:29,--,40,34,-,"MAK_LS, MAK_YD",Detay,-
 14867,MAK 229,MAK,LS,Akışkanlar Mekaniği II,Fiziksel (Yüz yüze),Levent Ali Kavurmacıoğlu,undeclared,Pazartesi,10:30/13:29,--,60,57,-,MAK_LS,Detay,-
 14868,MAK 230E,MAK,LS,Alg.Dev.& Comp.App.with Python,Fiziksel (Yüz yüze),Barış Doğru,undeclared,Cuma,14:00/16:59,--,10,1,-,"IML_LS, MAK_LS",Detay,-
 14869,MAK 231,MAK,LS,Termodinamik I,Fiziksel (Yüz yüze),Ersin Sayar,undeclared,Cuma,14:00/16:59,--,60,60,-,MAK_LS,Detay,-
 14870,MAK 231,MAK,LS,Termodinamik I,Fiziksel (Yüz yüze),Mustafa Özdemir,undeclared,Cuma,14:00/16:59,--,60,60,-,MAK_LS,Detay,-
 14871,MAK 231,MAK,LS,Termodinamik I,Fiziksel (Yüz yüze),Adnan Midilli,undeclared,Cuma,14:00/16:59,--,60,39,-,MAK_LS,Detay,-
-14872,MAK 234,MAK,LS,Akışkanlar Mekaniği I,Fiziksel (Yüz yüze),"Sertaç Çadırcı , Hasan Güneş",undeclared,Çarşamba,12:30/15:29,--,0,0,-,"MAK_LS, MAK_YD",Detay,-
+14872,MAK 234,MAK,LS,Akışkanlar Mekaniği I,Fiziksel (Yüz yüze),"Sertaç Çadırcı , Hasan Güneş",undeclared,Pazartesi,10:30/13:29,--,0,0,-,"MAK_LS, MAK_YD",Detay,-
 14873,MAK 234,MAK,LS,Akışkanlar Mekaniği I,Fiziksel (Yüz yüze),Tahsin Engin,undeclared,Çarşamba,12:30/15:29,--,60,41,-,"MAK_LS, MAK_YD",Detay,-
 14874,MAK 298,MAK,LS,Atölye: Malzemeler ve İmalat Yöntemleri,Fiziksel (Yüz yüze),Canan Gamze Güleryüz Parasız,undeclared,Salı,13:30/15:29,--,130,121,-,MAK_LS,Detay,-
-14875,MAK 232,MAK,LS,Termodinamik II,Fiziksel (Yüz yüze),Yakup Erhan Böke,undeclared,Perşembe,13:30/16:29,--,0,0,-,MAK_LS,Detay,-
+14875,MAK 232,MAK,LS,Termodinamik II,Fiziksel (Yüz yüze),Turgut Yılmaz,undeclared,Perşembe,14:30/17:29,--,0,0,-,MAK_LS,Detay,-
 14876,MAK 202E,MAK,LS,Numerical Meth.for Mech. Eng.,Fiziksel (Yüz yüze),Hakan Öksüzoğlu,undeclared,Pazartesi,13:30/16:29,--,70,70,-,"IML_LS, MAK_LS",Detay,-
 14877,MAK 202E,MAK,LS,Numerical Meth.for Mech. Eng.,Fiziksel (Yüz yüze),Alper Tolga Çalık,undeclared,Pazartesi,13:30/16:29,--,70,61,-,"IML_LS, MAK_LS",Detay,-
 14878,MAK 301,MAK,LS,Makina Elemanları I,Fiziksel (Yüz yüze),İbrahim Mehmet Palabıyık,undeclared,Çarşamba,10:30/13:29,--,65,60,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detay,-
 14879,MAK 301,MAK,LS,Makina Elemanları I,Fiziksel (Yüz yüze),Vedat Temiz,undeclared,Çarşamba,10:30/13:29,--,65,60,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detay,-
 14880,MAK 302,MAK,LS,Makina Elemanları II,Fiziksel (Yüz yüze),Hikmet Kocabaş,undeclared,Pazartesi,13:30/16:29,--,40,6,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detay,-
 14881,MAK 302,MAK,LS,Makina Elemanları II,Fiziksel (Yüz yüze),Cemal Baykara,undeclared,Pazartesi,13:30/16:29,--,40,36,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detay,-
-14882,MAK 303,MAK,LS,Isı Geçişi,Fiziksel (Yüz yüze),Bayram Şahin,undeclared | undeclared,Pazartesi | Perşembe,15:30/17:29 | 08:30/10:29,-- | --,90,90,-,"MAK_LS, MAK_YD, YAN_YD",Detay,-
+14882,MAK 303,MAK,LS,Isı Geçişi,Fiziksel (Yüz yüze),Bayram Şahin,undeclared | undeclared,Pazartesi | Perşembe,15:30/17:29 | 08:30/10:29,-- | --,95,90,-,"MAK_LS, MAK_YD, YAN_YD",Detay,-
 14883,MAK 304E,MAK,LS,Meaurement Laboratory,Fiziksel (Yüz yüze),İsmail Yalçın Uralcan,undeclared,Perşembe,15:30/17:29,--,120,96,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detay,-
 14884,MAK 307,MAK,LS,İmal Usulleri,Fiziksel (Yüz yüze),"Mustafa Bakkal , Turgut Gülmez",undeclared | undeclared,Salı | Cuma,08:30/10:29 | 08:30/10:29,-- | --,110,100,-,"MAK_LS, MAK_YD",Detay,-
-14885,MAK 353,MAK,LS,İmal Usulleri,Fiziksel (Yüz yüze),"Şafak Yılmaz , Murat Vural",undeclared | undeclared,Salı | Cuma,08:30/10:29 | 08:30/10:29,-- | --,70,46,-,"MAK_LS, MAK_YD",Detay,-
-14886,MAK 309,MAK,LS,Mekanik Titreşimler,Fiziksel (Yüz yüze),Haluk Erol,undeclared,Salı,10:30/13:29,--,75,75,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detay,-
-14887,MAK 309,MAK,LS,Mekanik Titreşimler,Fiziksel (Yüz yüze),Vahit Mermertaş,undeclared,Salı,10:30/13:29,--,75,75,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detay,-
+14885,MAK 353,MAK,LS,İmal Usulleri,Fiziksel (Yüz yüze),"Şafak Yılmaz , Murat Vural , Murat Tosun",undeclared | undeclared,Salı | Cuma,08:30/10:29 | 08:30/10:29,-- | --,70,46,-,"MAK_LS, MAK_YD",Detay,-
+14886,MAK 309,MAK,LS,Mekanik Titreşimler,Fiziksel (Yüz yüze),Haluk Erol,undeclared,Salı,10:30/13:29,--,80,75,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detay,-
+14887,MAK 309,MAK,LS,Mekanik Titreşimler,Fiziksel (Yüz yüze),Vahit Mermertaş,undeclared,Salı,10:30/13:29,--,80,75,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detay,-
 14888,MAK 310,MAK,LS,Makina Teorisi,Fiziksel (Yüz yüze),Osman Taha Şen,undeclared,Salı,13:30/16:29,--,80,73,-,"MAK_LS, MKN_YD_MK",Detay,-
 14889,MAK 324,MAK,LS,Makina Teorisi,Fiziksel (Yüz yüze),Akif Yavuz,undeclared,Salı,13:30/16:29,--,50,44,-,"MAK_LS, MKN_YD_MK",Detay,-
 14890,MAK 313,MAK,LS,Isı Geçişi,Fiziksel (Yüz yüze),Ali İhsan Koca,undeclared | undeclared,Pazartesi | Perşembe,15:30/17:29 | 08:30/10:29,-- | --,70,59,-,"MAK_LS, MAK_YD",Detay,-
 14891,MAK 312,MAK,LS,Ölçme Değerlendirme,Fiziksel (Yüz yüze),Ayhan Kural,undeclared | undeclared,Pazartesi | Perşembe,15:30/17:29 | 15:30/17:29,-- | --,10,3,-,"IML_LS, IMLE_LS, MAK_LS, MAK_YD, MAKE_LS",Detay,-
-14892,MAK 317,MAK,LS,Makine Mühendisleri İçin Mühendislik Ekonomisi,Fiziksel (Yüz yüze),Ali İhsan Koca,undeclared,Perşembe,13:30/15:29,--,0,0,-,MAK_LS,Detay,-
-14893,MAK 335,MAK,LS,Akışkanlar Mekaniği II,Fiziksel (Yüz yüze),Murat Çakan,undeclared,Pazartesi,10:30/13:29,--,100,100,-,MAK_LS,Detay,-
-14894,MAK 398,MAK,LS,Atölye: Kavramsal Tasarım,Fiziksel (Yüz yüze),Atakan Altınkaynak,,,-/-,,160,160,-,MAK_LS,Detay,-
+14892,MAK 317,MAK,LS,Makine Mühendisleri İçin Mühendislik Ekonomisi,Fiziksel (Yüz yüze),Ali İhsan Koca,undeclared,Perşembe,12:30/14:29,--,0,0,-,MAK_LS,Detay,-
+14893,MAK 335,MAK,LS,Akışkanlar Mekaniği II,Fiziksel (Yüz yüze),Murat Çakan,undeclared,Pazartesi,10:30/13:29,--,110,100,-,MAK_LS,Detay,-
+14894,MAK 398,MAK,LS,Atölye: Kavramsal Tasarım,Fiziksel (Yüz yüze),Atakan Altınkaynak,,,-/-,,170,160,-,MAK_LS,Detay,-
 14895,MAK 315,MAK,LS,Mekanik Titreşimler,Fiziksel (Yüz yüze),Erdinç Altuğ,undeclared,Salı,10:30/13:29,--,70,63,-,"MAK_LS, MAK_YD, MAKE_LS, MKN_YD_MK",Detay,-
 14896,MAK 339,MAK,LS,Makina Elemanları I,Fiziksel (Yüz yüze),Zeynep Parlar,undeclared | undeclared,Çarşamba | Cuma,10:30/13:29 | 10:30/12:29,-- | --,40,5,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detay,-
 14897,MAK 339,MAK,LS,Makina Elemanları I,Fiziksel (Yüz yüze),Atakan Altınkaynak,undeclared | undeclared,Çarşamba | Cuma,10:30/13:29 | 10:30/12:29,-- | --,40,19,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detay,-
@@ -4587,15 +4587,15 @@
 14955,MAK 305,MAK,LS,Sistem Dinamiği ve Kontrol,Fiziksel (Yüz yüze),Merve Acer Kalafat,undeclared | undeclared,Çarşamba | Perşembe,08:30/10:29 | 10:30/12:29,-- | --,55,55,-,"MAK_LS, MAK_YD",Detay,-
 14956,MAK 305,MAK,LS,Sistem Dinamiği ve Kontrol,Fiziksel (Yüz yüze),Hülya Yalçın,undeclared | undeclared,Çarşamba | Perşembe,08:30/10:29 | 10:30/12:29,-- | --,55,46,-,"MAK_LS, MAK_YD",Detay,-
 14957,MAK 333,MAK,LS,Sistem Dinamiği ve Kontrol,Fiziksel (Yüz yüze),Senem Kurşun,undeclared | undeclared,Perşembe | Perşembe,10:30/12:29 | 13:30/15:29,-- | --,40,15,-,"IML_LS, MAK_LS, MAK_YD",Detay,-
-14958,MAK 4027E,MAK,LS,Turbomachinery,Fiziksel (Yüz yüze),Murat Çakan,undeclared,Pazartesi,14:30/17:29,--,30,30,-,"MAK_LS, MAKE_LS",Detay,Detay
+14958,MAK 4027E,MAK,LS,Turbomachinery,Fiziksel (Yüz yüze),Murat Çakan,undeclared,Pazartesi,14:30/17:29,--,30,30,-,"MAK_LS, MAKE_LS, MSS_LS",Detay,Detay
 14959,MAK 4032E,MAK,LS,Metal Forming,Fiziksel (Yüz yüze),Canan Gamze Güleryüz Parasız,undeclared,Pazartesi,14:30/17:29,--,30,5,-,"IML_LS, IML_MTM_LS, IMLE_LS, MAK_LS, MAKE_LS",Detay,Detay
 14960,MAK 4051,MAK,LS,Taşıtlarda Titreşim ve Gürültü,Fiziksel (Yüz yüze),Akif Yavuz,undeclared,Pazartesi,14:30/17:29,--,30,30,-,"MAK_LS, MAKE_LS",Detay,Detay
-14961,MAK 4007E,MAK,LS,Microsystem-MEMS Design,Fiziksel (Yüz yüze),Levent Trabzon,undeclared,Pazartesi,14:30/17:29,--,30,1,-,"IML_LS, MAK_LS",Detay,Detay
+14961,MAK 4007E,MAK,LS,Microsystem-MEMS Design,Fiziksel (Yüz yüze),Levent Trabzon,undeclared,Pazartesi,14:30/17:29,--,30,1,-,"IML_LS, MAK_LS, MSS_LS",Detay,Detay
 14962,MAK 4056,MAK,LS,Kontrol Sistemleri Tasarımı,Fiziksel (Yüz yüze),Merve Acer Kalafat,undeclared,Salı,09:30/12:29,--,30,30,-,"IML_LS, IMLE_LS, MAK_LS, MAKE_LS",Detay,Detay
 14963,MAK 4047E,MAK,LS,Dynamic Systms Modelling & Sim,Fiziksel (Yüz yüze),Zeki Yağız Bayraktaroğlu,undeclared,Perşembe,09:30/12:29,--,30,7,-,"MAK_LS, MAKE_LS",Detay,Detay
 14964,MAK 4067E,MAK,LS,Renewable Energy Systems,Fiziksel (Yüz yüze),Seyhan Onbaşıoğlu,undeclared,Salı,14:30/17:29,--,30,7,-,"MAK_LS, MSS_LS",Detay,Detay
-14965,MAK 4034,MAK,LS,Kaynaklı Tasarım ve İmalat,Fiziksel (Yüz yüze),Murat Vural,undeclared,Salı,14:30/17:29,--,30,19,-,"IML_LS, IMLE_LS, MAK_LS, MAKE_LS",Detay,Detay
-14966,MAK 4006E,MAK,LS,Alternative Fuels for IC Eng.,Fiziksel (Yüz yüze),Alper Tolga Çalık,undeclared,Salı,14:30/17:29,--,30,30,-,"MAK_LS, MAKE_LS",Detay,Detay
+14965,MAK 4034,MAK,LS,Kaynaklı Tasarım ve İmalat,Fiziksel (Yüz yüze),Murat Tosun,undeclared,Salı,14:30/17:29,--,30,19,-,"IML_LS, IMLE_LS, MAK_LS, MAKE_LS",Detay,Detay
+14966,MAK 4006E,MAK,LS,Alternative Fuels for IC Eng.,Fiziksel (Yüz yüze),Alper Tolga Çalık,undeclared,Salı,14:30/17:29,--,30,30,-,"MAK_LS, MAKE_LS, MSS_LS",Detay,Detay
 14967,MAK 4044E,MAK,LS,Energy Management,Fiziksel (Yüz yüze),Ayşegül Abuşoğlu,undeclared,Cuma,14:30/17:29,--,30,13,-,"MAK_LS, MAKE_LS",Detay,Detay
 14968,MAK 4066,MAK,LS,Şasi ve Karoseri Tasarımı,Fiziksel (Yüz yüze),Kubilay Yay,undeclared,Perşembe,09:30/12:29,--,30,30,-,"MAK_LS, MAKE_LS",Detay,Detay
 14969,MAK 4021,MAK,LS,Talaşlı İmalat,Fiziksel (Yüz yüze),Mustafa Bakkal,undeclared,Salı,14:30/17:29,--,30,20,-,"IML_LS, IMLE_LS, MAK_LS, MAKE_LS",Detay,Detay
@@ -4607,9 +4607,9 @@
 14975,MAK 4055E,MAK,LS,Fuel Economy in Road Vehicles,Fiziksel (Yüz yüze),"Osman Akın Kutlar , Hikmet Arslan",undeclared,Perşembe,14:30/17:29,--,30,30,-,"MAK_LS, MAKE_LS",Detay,-
 14976,MAK 4018E,MAK,LS,Quality Control in Manufacturi,Fiziksel (Yüz yüze),Ali Gökşenli,undeclared,Pazartesi,09:30/12:29,--,30,30,-,"IML_LS, IML_MTM_LS, IMLE_LS, MAK_LS, MAKE_LS",Detay,-
 14977,MAK 4078,MAK,LS,Makina Konstrüksiyonları Esas.,Fiziksel (Yüz yüze),Zeynep Parlar,undeclared,Cuma,14:30/17:29,--,30,24,-,MAK_LS,Detay,-
-14978,MAK 4005E,MAK,LS,Mech.Model. in Nanoscale Sys.,Fiziksel (Yüz yüze),Mesut Kırca,undeclared,Cuma,14:30/17:29,--,30,5,-,"MAK_LS, MAKE_LS",Detay,Detay
+14978,MAK 4005E,MAK,LS,Mech.Model. in Nanoscale Sys.,Fiziksel (Yüz yüze),Mesut Kırca,undeclared,Cuma,14:30/17:29,--,30,5,-,"MAK_LS, MAKE_LS, MSS_LS",Detay,Detay
 14979,MAK 4053E,MAK,LS,Vehicle Technology,Fiziksel (Yüz yüze),Özgen Akalın,undeclared,Cuma,14:30/17:29,--,30,30,-,MAK_LS,Detay,Detay
-14980,MAK 4015E,MAK,LS,Materials Sel.in Dsgn and Mnfc,Fiziksel (Yüz yüze),Alaeddin Burak İrez,undeclared,Cuma,14:30/17:29,--,30,30,-,"IML_LS, IMLE_LS, MAK_LS, MAKE_LS",Detay,-
+14980,MAK 4015E,MAK,LS,Materials Sel.in Dsgn and Mnfc,Fiziksel (Yüz yüze),Alaeddin Burak İrez,undeclared,Cuma,14:30/17:29,--,30,30,-,"IML_LS, IMLE_LS, MAK_LS, MAKE_LS, MSS_LS",Detay,-
 14981,ULS 505E,ULS,LU,Transportation Sys. Analysis,Fiziksel (Yüz yüze),Hüseyin Onur Tezcan,undeclared,Perşembe,09:30/12:29,--,20,0,-,,-,-
 14982,BIL 100E,BIL,LS,Intr.to Prog.Language(PYTHON),Sanal (Çevrimiçi/Online),Onur Yılmaz Özcan,INB,Pazartesi,14:30/17:29,--,60,17,-,"CEV_LS, CEVE_LS",-,-
 14983,BIL 100E,BIL,LS,Intr.to Prog.Language(PYTHON),Sanal (Çevrimiçi/Online),Onur Yılmaz Özcan,INB,Perşembe,14:30/17:29,--,60,15,-,"CEV_LS, CEVE_LS",-,-
@@ -5136,15 +5136,15 @@
 15534,GMI 462,GMI,LS,Buhar & Gaz Türbinleri Operas.,Fiziksel (Yüz yüze),Merve Gül Çıvgın,FEB,Pazartesi,10:30/12:29,--,30,19,-,GMI_LS,Detay,-
 15535,GMI 484E,GMI,LS,Engine Room Simulator (ERS) II,Fiziksel (Yüz yüze),İsmail Çiçek,DZB,Çarşamba,12:30/15:29,--,14,14,-,GMI_LS,Detay,-
 15536,ETK 101E,ETK,LS,Engineering Ethics,Fiziksel (Yüz yüze),Handan Palak Erginsoy,MKB,Pazartesi,12:30/13:29,D450,30,1,-,TEKE_LS,-,-
-15537,MAK 229E,MAK,LS,Fluid Mechanics II,Fiziksel (Yüz yüze),"Hasan Güneş , Sertaç Çadırcı",undeclared,Çarşamba,09:30/12:29,--,0,0,-,MSS_LS,Detay,-
+15537,MAK 229E,MAK,LS,Fluid Mechanics II,Fiziksel (Yüz yüze),"Hasan Güneş , Sertaç Çadırcı",undeclared,Çarşamba,12:30/15:29,--,0,0,-,MSS_LS,Detay,-
 15538,MAK 313E,MAK,LS,Heat Transfer,Fiziksel (Yüz yüze),İsmail Yalçın Uralcan,undeclared,Perşembe,09:30/13:29,--,15,0,-,MSS_LS,Detay,-
 15539,MAK 339E,MAK,LS,Machine Design I,Fiziksel (Yüz yüze),Ali İmre Aydeniz,undeclared | undeclared,Çarşamba | Cuma,10:30/13:29 | 10:30/12:29,-- | --,15,0,-,MSS_LS,Detay,-
 15540,MAK 333E,MAK,LS,System Dynamics and Control,Fiziksel (Yüz yüze),Senem Kurşun,undeclared,Salı,10:30/14:29,--,15,0,-,MSS_LS,Detay,-
 15541,MAK 353E,MAK,LS,Manufacturing Processes,Fiziksel (Yüz yüze),Ali Gökşenli,undeclared,Perşembe,13:30/17:29,--,15,0,-,MSS_LS,Detay,-
-15542,MAK 342E,MAK,LS,Machine Design II,Fiziksel (Yüz yüze),Ali İmre Aydeniz,undeclared | undeclared,Pazartesi | Perşembe,13:30/15:29 | 15:30/17:29,-- | --,15,0,-,MSS_LS,Detay,-
+15542,MAK 342E,MAK,LS,Machine Design II,Fiziksel (Yüz yüze),Ali İmre Aydeniz,undeclared | undeclared,Pazartesi | Perşembe,13:30/15:29 | 15:30/17:29,-- | --,0,0,-,MSS_LS,Detay,-
 15543,MAK 324E,MAK,LS,Theory of Machines,Fiziksel (Yüz yüze),Osman Taha Şen,undeclared,Çarşamba,12:30/15:29,--,15,0,-,MSS_LS,Detay,-
 15544,DAN 102,DAN,LS,Girişimcilik & Kariyer Danış.,Fiziksel (Yüz yüze),Yakup Erhan Böke,MKB,Çarşamba,15:30/17:29,--,100,39,-,"IML_LS, MAK_LS, MSS_LS",-,-
-15545,MAK 312E,MAK,LS,Measurement Systems,Fiziksel (Yüz yüze),İsmail Yalçın Uralcan,undeclared | undeclared,Pazartesi | Perşembe,15:30/17:29 | 13:30/15:29,-- | --,15,0,-,MSS_LS,Detay,-
+15545,MAK 312E,MAK,LS,Measurement Systems,Fiziksel (Yüz yüze),İsmail Yalçın Uralcan,undeclared | undeclared,Pazartesi | Perşembe,15:30/17:29 | 13:30/15:29,-- | --,0,0,-,MSS_LS,Detay,-
 15546,MAK 405E,MAK,LS,Innovative Design Methods in Mechanical Engineering,Fiziksel (Yüz yüze),Zeynep Parlar,undeclared,Salı,09:30/12:29,--,15,0,-,MSS_LS,Detay,-
 15547,DAN 102,DAN,LS,Girişimcilik & Kariyer Danış.,Fiziksel (Yüz yüze),Nizam Onur Sönmez,MMB,Çarşamba,15:30/17:29,--,100,14,-,"MIM_LS, MIME_LS",-,-
 15548,MAT 271,MAT,LS,Olasılık ve İstatistik,Fiziksel (Yüz yüze),Fuzuli Ağrı Akçay,MEDC,Çarşamba,12:30/15:29,2D17,40,39,-,GEM_LS,-,-
@@ -5253,3 +5253,10 @@
 15654,LEE 905,LEE,LU,İnovas.Teknik.&Patent Süreç.,Fiziksel (Yüz yüze),Tahir Soyugüzel,undeclared,Çarşamba,14:00/16:59,--,20,0,-,,-,-
 15655,MTS 615E,MTS,LU,Advanced Topics in Architectural Design,Fiziksel (Yüz yüze),-,undeclared,Pazartesi,13:30/16:29,--,10,0,-,,-,-
 15656,GEM 407E,GEM,LS,Methods of Ship Production,Fiziksel (Yüz yüze),Murat Durmaz,MEDC,Pazartesi,14:30/17:29,--,50,0,-,NAE_LS,Detay,-
+15657,NUM 201E,NUM,LS,Fundamentals of Nuclear Engineering I,Fiziksel (Yüz yüze),Üner Çolak,undeclared,Salı,17:00/19:59,--,30,0,-,NUM_YD,-,-
+15658,NUM 411E,NUM,LS,Nuclear Reactor Theory,Fiziksel (Yüz yüze),Üner Çolak,undeclared,Perşembe,17:00/19:59,--,30,0,-,NUM_YD,Detay,-
+15659,NUM 241E,NUM,LS,Nuclear Fuel and Materials,Fiziksel (Yüz yüze),Üner Çolak,undeclared,Çarşamba,17:30/20:29,--,30,0,-,NUM_YD,-,-
+15660,NUM 341E,NUM,LS,Nuclear Fuel Cycle,Fiziksel (Yüz yüze),Sema Erentürk,undeclared,Çarşamba,09:30/12:29,--,30,0,-,NUM_YD,Detay,-
+15661,IML 404E,IML,LS,Comp.Simulations in Manuf.Eng.,Fiziksel (Yüz yüze),Canan Gamze Güleryüz Parasız,undeclared,Pazartesi,10:30/12:29,--,10,0,-,IML_LS,-,Detay
+15662,IML 402,IML,LS,İmalat Lab II,Fiziksel (Yüz yüze),Canan Gamze Güleryüz Parasız,undeclared,Salı,10:30/12:29,--,10,0,-,"IML_LS, IMLE_LS",-,Detay
+15663,MAK 223,MAK,LS,Malzeme Bilimi,Fiziksel (Yüz yüze),Raşid Ahmed Yıldız,undeclared | undeclared,Pazartesi | Perşembe,13:30/15:29 | 10:30/12:29,-- | --,70,0,-,MAK_LS,Detay,-

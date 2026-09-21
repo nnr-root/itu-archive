@@ -19299,7 +19299,7 @@
   "IML 402",
   "İmalat Lab II",
   "IML",
-  9
+  10
  ],
  [
   "IML 402E",
@@ -19311,7 +19311,7 @@
   "IML 404E",
   "Comp.Simulations in Manuf.Eng.",
   "IML",
-  5
+  6
  ],
  [
   "IML 405",
@@ -38214,8 +38214,20 @@
   1
  ],
  [
+  "NUM 201E",
+  "Fundamentals of Nuclear Engineering I",
+  "NUM",
+  1
+ ],
+ [
   "NUM 202E",
   "Fundamentals of Nuclear Engineering II",
+  "NUM",
+  1
+ ],
+ [
+  "NUM 241E",
+  "Nuclear Fuel and Materials",
   "NUM",
   1
  ],
@@ -38228,6 +38240,18 @@
  [
   "NUM 314E",
   "Engineering of Nuclear Power Systems",
+  "NUM",
+  1
+ ],
+ [
+  "NUM 341E",
+  "Nuclear Fuel Cycle",
+  "NUM",
+  1
+ ],
+ [
+  "NUM 411E",
+  "Nuclear Reactor Theory",
   "NUM",
   1
  ],
