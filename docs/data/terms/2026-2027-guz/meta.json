@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-22T07:41:52Z",
+ "scrapedAt": "2026-09-22T13:28:51Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5255,
- "courses": 3748,
+ "sections": 5269,
+ "courses": 3753,
  "branches": [
   {
    "code": "ABM",
@@ -167,7 +167,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 3
+   "sections": 4
   },
   {
    "code": "BVT",
@@ -294,7 +294,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 14
+   "sections": 15
   },
   {
    "code": "DFH",
@@ -673,7 +673,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 132
+   "sections": 133
   },
   {
    "code": "IPY",
@@ -730,14 +730,14 @@
    "levels": [
     "LS"
    ],
-   "sections": 10
+   "sections": 14
   },
   {
    "code": "ITB",
    "levels": [
     "LS"
    ],
-   "sections": 54
+   "sections": 56
   },
   {
    "code": "ITY",
@@ -839,6 +839,13 @@
     "LS"
    ],
    "sections": 45
+  },
+  {
+   "code": "KOR",
+   "levels": [
+    "LS"
+   ],
+   "sections": 4
   },
   {
    "code": "KTB",
@@ -1350,7 +1357,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 68
+   "sections": 69
   },
   {
    "code": "SGI",
@@ -1643,11 +1650,11 @@
   }
  ],
  "stats": {
-  "sections": 5255,
-  "courses": 3748,
-  "branches": 230,
-  "instructors": 1970,
-  "capacity": 259984,
-  "enrolled": 115302
+  "sections": 5269,
+  "courses": 3753,
+  "branches": 231,
+  "instructors": 1977,
+  "capacity": 261052,
+  "enrolled": 119751
  }
 }

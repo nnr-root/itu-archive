@@ -376,7 +376,7 @@
     "GEM 509",
     "Mühendislikte Matem.Yöntemler",
     30,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -598,7 +598,7 @@
     "2026-2027-guz",
     "INS 337E",
     "Mechanics of Inelastic Materia",
-    40,
+    45,
     40
    ],
    [
@@ -1210,14 +1210,14 @@
     "KIM 526",
     "Kimyasal Kinetik",
     20,
-    2
+    4
    ],
    [
     "2026-2027-guz",
     "PST 603E",
     "Modification of Polymers",
     25,
-    0
+    5
    ],
    [
     "2025-2026-bahar",
@@ -2025,7 +2025,7 @@
     "JEO 580",
     "Kil Minerolojisi",
     20,
-    0
+    1
    ],
    [
     "2025-2026-bahar",
@@ -2712,21 +2712,21 @@
     "YAP YLT",
     "Tez Çalışması",
     200,
-    5
+    20
    ],
    [
     "2026-2027-guz",
     "YAP DRT",
     "Tez Çalışması",
     200,
-    5
+    30
    ],
    [
     "2026-2027-guz",
     "YAP YET",
     "Yeterlik Aşaması",
     200,
-    1
+    4
    ],
    [
     "2025-2026-bahar",
@@ -3772,6 +3772,13 @@
   "name": "Barış Erkuş",
   "rows": [
    [
+    "2026-2027-guz",
+    "DEP 521E",
+    "Special Topics in Earthqu.Eng.",
+    20,
+    0
+   ],
+   [
     "2019-2020-guz",
     "INS 312E",
     "Theory of Structures II",
@@ -3821,7 +3828,7 @@
     22
    ]
   ],
-  "terms": 5
+  "terms": 6
  },
  "Barış Ertem": {
   "name": "Barış Ertem",
@@ -4878,22 +4885,22 @@
     "2026-2027-guz",
     "KIM 533",
     "Spektroskopi I",
-    30,
-    23
+    35,
+    35
    ],
    [
     "2026-2027-guz",
     "KIM YLT",
     "Tez Çalışması",
     200,
-    8
+    19
    ],
    [
     "2026-2027-guz",
     "KIM DRT",
     "Tez Çalışması",
     200,
-    9
+    21
    ],
    [
     "2026-2027-guz",
@@ -5541,7 +5548,7 @@
     "MTO 596",
     "Bilimsel Araş.,Etik ve Seminer",
     20,
-    4
+    8
    ],
    [
     "2026-2027-guz",
@@ -5792,14 +5799,14 @@
     "DUM 501E",
     "Engineering Mathematics",
     20,
-    1
+    9
    ],
    [
     "2026-2027-guz",
     "DZC 502",
     "Denizci.Sektör.Kariyer Plan.",
     20,
-    0
+    3
    ],
    [
     "2026-2027-guz",
@@ -6022,7 +6029,7 @@
     "UZM 504E",
     "High Speed Flows",
     40,
-    2
+    5
    ],
    [
     "2025-2026-bahar",
@@ -6168,7 +6175,7 @@
     "MIA 509",
     "Isı-Akış Olaylarında Den. Yönt",
     30,
-    1
+    4
    ],
    [
     "2025-2026-bahar",
@@ -6334,7 +6341,7 @@
     "SPL 511E",
     "Planning Theory and Policy",
     15,
-    1
+    14
    ],
    [
     "2025-2026-bahar",
@@ -6718,21 +6725,21 @@
     "END YLT",
     "Tez Çalışması",
     200,
-    1
+    7
    ],
    [
     "2026-2027-guz",
     "END DRT",
     "Tez Çalışması",
     200,
-    4
+    14
    ],
    [
     "2026-2027-guz",
     "END YET",
     "Yeterlik Aşaması",
     200,
-    1
+    4
    ],
    [
     "2025-2026-guz",
@@ -6947,14 +6954,14 @@
     "IMT 515E",
     "Methodo\u0026Techni.in Digit.Desig.",
     20,
-    1
+    2
    ],
    [
     "2026-2027-guz",
     "MBL 517E",
     "Digit.Fabr.\u0026Proto.in Arch.Des.",
     20,
-    3
+    12
    ],
    [
     "2026-2027-guz",
@@ -7336,14 +7343,14 @@
     "BLG 601E",
     "Pattern Recognition",
     20,
-    7
+    13
    ],
    [
     "2026-2027-guz",
     "BLU YLT",
     "Tez Çalışması",
     200,
-    6
+    7
    ],
    [
     "2026-2027-guz",
@@ -7357,7 +7364,7 @@
     "BLU YET",
     "Yeterlik Aşaması",
     200,
-    0
+    1
    ],
    [
     "2025-2026-bahar",
@@ -9247,7 +9254,7 @@
     "MTS 502E",
     "Architecture Design Theory",
     40,
-    9
+    26
    ],
    [
     "2023-2024-bahar",
@@ -10144,7 +10151,7 @@
     "TEK 503E",
     "Textile Printing",
     30,
-    2
+    5
    ],
    [
     "2026-2027-guz",
@@ -10172,14 +10179,14 @@
     "YTT 509E",
     "Textile Technologies",
     30,
-    2
+    3
    ],
    [
     "2026-2027-guz",
     "YTT 511E",
     "Coloration of Techn.Textiles",
     30,
-    0
+    1
    ],
    [
     "2025-2026-bahar",
@@ -11605,7 +11612,7 @@
     "BLG 545E",
     "Discrete Optimization",
     25,
-    23
+    25
    ],
    [
     "2026-2027-guz",
@@ -11792,7 +11799,7 @@
     "RSM 508E",
     "Plan.\u0026Project Manag.Rail.Inve.",
     20,
-    2
+    5
    ]
   ],
   "terms": 1
@@ -11824,7 +11831,7 @@
     "2026-2027-guz",
     "INS 303",
     "Zemin Mekaniği I",
-    30,
+    35,
     30
    ],
    [
@@ -12410,7 +12417,7 @@
     "MTS 531E",
     "Special Topics in Arch.Design",
     15,
-    3
+    6
    ],
    [
     "2025-2026-bahar",
@@ -12598,7 +12605,7 @@
     "GEO 626E",
     "Advanced Physical Geodesy",
     30,
-    0
+    3
    ],
    [
     "2026-2027-guz",
@@ -12640,7 +12647,7 @@
     "GIT 801E",
     "Introduction to Geomatics",
     20,
-    1
+    5
    ],
    [
     "2025-2026-yaz",
@@ -13324,49 +13331,49 @@
     "NSE 517E",
     "Environmental Nanotechnology",
     20,
-    2
+    4
    ],
    [
     "2026-2027-guz",
     "NSE 596E",
     "Scien.Rese., Ethic\u0026Seminar",
     20,
-    1
+    4
    ],
    [
     "2026-2027-guz",
     "NSE DRT",
     "Tez Çalışması",
     100,
-    2
+    5
    ],
    [
     "2026-2027-guz",
     "NSE YET",
     "Yeterlik Aşaması",
     100,
-    1
+    2
    ],
    [
     "2026-2027-guz",
     "NSE YLT",
     "Tez Çalışması",
     100,
-    2
+    11
    ],
    [
     "2026-2027-guz",
     "UMT 596",
     "Bilimsel Araş.,Etik ve Seminer",
     50,
-    0
+    1
    ],
    [
     "2026-2027-guz",
     "UMT YLT",
     "Tez Çalışması",
     200,
-    0
+    2
    ],
    [
     "2025-2026-bahar",
@@ -13531,14 +13538,14 @@
     "MIT 523E",
     "Special Topics in Archit.Hist.",
     15,
-    0
+    1
    ],
    [
     "2026-2027-guz",
     "MIT 596",
     "Bilimsel Araş.,Etik ve Seminer",
     15,
-    0
+    2
    ],
    [
     "2025-2026-bahar",
@@ -13754,7 +13761,7 @@
     "TEL 502E",
     "Detection and Estimation Theo.",
     40,
-    16
+    21
    ],
    [
     "2025-2026-bahar",
@@ -13990,7 +13997,7 @@
     "KTB 501E",
     "Polar Meteorology and Climate",
     20,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -14436,14 +14443,14 @@
     "LEE 903E",
     "Project Cycle Management",
     30,
-    12
+    30
    ],
    [
     "2026-2027-guz",
     "MAM YLT",
     "Tez Çalışması",
     200,
-    4
+    17
    ],
    [
     "2026-2027-guz",
@@ -15302,7 +15309,7 @@
     "NSE 523E",
     "Surfaces\u0026Interfaces",
     20,
-    1
+    4
    ],
    [
     "2026-2027-guz",
@@ -17329,42 +17336,42 @@
     "EBT 527E",
     "Wind Energy\u0026Conversion Tech.",
     30,
-    11
+    17
    ],
    [
     "2026-2027-guz",
     "EBT 507E",
     "Fundamentals of Power Generat.",
     20,
-    8
+    11
    ],
    [
     "2026-2027-guz",
     "EBT DRT",
     "Tez Çalışması",
     200,
-    3
+    11
    ],
    [
     "2026-2027-guz",
     "EBT YET",
     "Yeterlik Aşaması",
     200,
-    2
+    3
    ],
    [
     "2026-2027-guz",
     "EBT YLT",
     "Tez Çalışması",
     200,
-    9
+    19
    ],
    [
     "2026-2027-guz",
     "SUS 509E",
     "Philosophy of Scie.for Susta.",
     20,
-    9
+    16
    ]
   ],
   "terms": 1
@@ -17377,14 +17384,14 @@
     "BLG 643E",
     "Neuromorphic Computing",
     20,
-    5
+    8
    ],
    [
     "2026-2027-guz",
     "BLG 563E",
     "Guided Research",
     40,
-    8
+    10
    ],
    [
     "2026-2027-guz",
@@ -17773,7 +17780,7 @@
     "DTM 507E",
     "Numerical Techn.Eng.Problems",
     20,
-    6
+    12
    ],
    [
     "2026-2027-guz",
@@ -18316,21 +18323,21 @@
     "EBT 616E",
     "Energy Storage Technolog.",
     20,
-    1
+    2
    ],
    [
     "2026-2027-guz",
     "EBT 596",
     "Bilimsel Araş.,Etik ve Seminer",
     30,
-    7
+    11
    ],
    [
     "2026-2027-guz",
     "NSE 612E",
     "2-Dimensional Advanced Materials",
     20,
-    2
+    3
    ]
   ],
   "terms": 1
@@ -19634,7 +19641,7 @@
     "MBG 627E",
     "Human Genetics",
     30,
-    3
+    7
    ],
    [
     "2025-2026-bahar",
@@ -19738,7 +19745,7 @@
     "DTM 501E",
     "Advanced Marine Hydrodynamics",
     20,
-    6
+    10
    ],
    [
     "2025-2026-bahar",
@@ -21021,7 +21028,7 @@
     "KMM 615E",
     "Surface Science in Catalysis",
     12,
-    4
+    5
    ]
   ],
   "terms": 1
@@ -21375,21 +21382,21 @@
     "MJT 621E",
     "Music in Digital Culture",
     10,
-    0
+    1
    ],
    [
     "2026-2027-guz",
     "MJT DRT",
     "Tez Çalışması",
     200,
-    0
+    9
    ],
    [
     "2026-2027-guz",
     "MJT YET",
     "Yeterlik Aşaması",
     200,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -23593,7 +23600,7 @@
     "ZER 501E",
     "Zero Waste Technologies and Upcycling",
     20,
-    4
+    7
    ],
    [
     "2025-2026-bahar",
@@ -23718,7 +23725,7 @@
     "FIZ 651E",
     "Speci.Topic.in Conden.Mat.Ph.I",
     30,
-    0
+    1
    ]
   ],
   "terms": 1
@@ -23863,7 +23870,7 @@
     "ANT 501E",
     "Ecology, Society\u0026Susta.Deve.",
     20,
-    9
+    12
    ],
    [
     "2026-2027-guz",
@@ -23884,14 +23891,14 @@
     "ANT YLT",
     "Tez Çalışması",
     200,
-    0
+    1
    ],
    [
     "2026-2027-guz",
     "GAM 596E",
     "Scien.Rese., Ethic\u0026Seminar",
     30,
-    2
+    4
    ],
    [
     "2026-2027-guz",
@@ -24868,7 +24875,7 @@
     "DTM 516E",
     "Deep Learning for Marine Technology",
     30,
-    0
+    2
    ]
   ],
   "terms": 1
@@ -24888,14 +24895,14 @@
     "IKE YLT",
     "Tez Çalışması",
     200,
-    1
+    3
    ],
    [
     "2026-2027-guz",
     "IKE 603E",
     "Advanced Research Methods",
     30,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -24909,7 +24916,7 @@
     "IKE YET",
     "Yeterlik Aşaması",
     200,
-    0
+    1
    ],
    [
     "2026-2027-guz",

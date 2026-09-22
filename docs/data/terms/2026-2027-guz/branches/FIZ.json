@@ -3838,7 +3838,7 @@
   "level": "LS",
   "name": "Physics I Laboratory",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Mehmet Özkan",
+  "instructor": "Hakan Özgür Özer",
   "buildings": [
    "FEB"
   ],
@@ -6938,7 +6938,7 @@
   "level": "LS",
   "name": "Physics I Laboratory",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Mehmet Özkan",
+  "instructor": "Hakan Özgür Özer",
   "buildings": [
    "FEB"
   ],
@@ -7051,7 +7051,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 25,
+  "capacity": 30,
   "enrolled": 25,
   "reserved": "-",
   "programs": [
@@ -9615,7 +9615,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 25,
+  "capacity": 30,
   "enrolled": 25,
   "reserved": "-",
   "programs": [
@@ -10034,7 +10034,7 @@
   "level": "LS",
   "name": "Physics I Laboratory",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hakan Özgür Özer",
+  "instructor": "Mehmet Özkan",
   "buildings": [
    "FEB"
   ],
@@ -10734,7 +10734,7 @@
   "level": "LS",
   "name": "Physics I Laboratory",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hakan Özgür Özer",
+  "instructor": "Mehmet Özkan",
   "buildings": [
    "FEB"
   ],
@@ -12247,7 +12247,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 25,
+  "capacity": 30,
   "enrolled": 25,
   "reserved": "-",
   "programs": [
@@ -12907,7 +12907,7 @@
    "B4_Z05"
   ],
   "capacity": 30,
-  "enrolled": 3,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -12938,7 +12938,7 @@
    "B4_Z05"
   ],
   "capacity": 30,
-  "enrolled": 2,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -12965,7 +12965,7 @@
    "B4_Z05"
   ],
   "capacity": 30,
-  "enrolled": 2,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -12992,7 +12992,7 @@
    "B4_Z05"
   ],
   "capacity": 30,
-  "enrolled": 2,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -13046,7 +13046,7 @@
    "B4_Z05"
   ],
   "capacity": 30,
-  "enrolled": 1,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -13073,7 +13073,7 @@
    "B4_Z05"
   ],
   "capacity": 30,
-  "enrolled": 1,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -13100,7 +13100,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 2,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -13121,7 +13121,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 2,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -13142,7 +13142,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 0,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -13163,7 +13163,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 5,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -13577,7 +13577,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
+  "capacity": 26,
   "enrolled": 20,
   "reserved": "-",
   "programs": [
@@ -13607,7 +13607,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
+  "capacity": 26,
   "enrolled": 20,
   "reserved": "-",
   "programs": [
@@ -13732,7 +13732,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
+  "capacity": 24,
   "enrolled": 20,
   "reserved": "-",
   "programs": [
@@ -13791,7 +13791,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
+  "capacity": 22,
   "enrolled": 20,
   "reserved": "-",
   "programs": [
@@ -13851,7 +13851,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
+  "capacity": 22,
   "enrolled": 20,
   "reserved": "-",
   "programs": [
@@ -13881,7 +13881,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
+  "capacity": 22,
   "enrolled": 20,
   "reserved": "-",
   "programs": [
@@ -14650,7 +14650,7 @@
   "rooms": [
    "A34"
   ],
-  "capacity": 120,
+  "capacity": 125,
   "enrolled": 120,
   "reserved": "-",
   "programs": [
@@ -14683,7 +14683,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

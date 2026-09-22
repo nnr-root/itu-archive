@@ -8,7 +8,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Mehmet Salih Dokuz",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Cuma"
@@ -17,10 +17,10 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "D353"
   ],
   "capacity": 30,
-  "enrolled": 3,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -35,7 +35,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Uğurcan Eroğlu",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Perşembe"
@@ -44,10 +44,10 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "D368B"
   ],
   "capacity": 30,
-  "enrolled": 3,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -62,7 +62,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Süreyya Ergün Bozdağ",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Çarşamba"
@@ -71,10 +71,10 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "D361B"
   ],
   "capacity": 30,
-  "enrolled": 0,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -95,7 +95,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 3,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

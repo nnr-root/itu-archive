@@ -5622,7 +5622,7 @@
   "rooms": [
    "D106"
   ],
-  "capacity": 40,
+  "capacity": 70,
   "enrolled": 40,
   "reserved": "-",
   "programs": [
@@ -6302,7 +6302,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 12,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6329,7 +6329,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 4,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6356,7 +6356,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 1,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6383,7 +6383,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 2,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6410,7 +6410,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 10,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6437,7 +6437,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 0,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6464,7 +6464,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 1,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6491,7 +6491,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 5,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6517,8 +6517,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 30,
-  "enrolled": 23,
+  "capacity": 35,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6571,8 +6571,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
-  "enrolled": 16,
+  "capacity": 25,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6626,7 +6626,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 3,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6680,7 +6680,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 3,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6788,7 +6788,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 1,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6815,7 +6815,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 7,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -7073,7 +7073,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 8,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -7094,7 +7094,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 9,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -7142,7 +7142,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 2,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

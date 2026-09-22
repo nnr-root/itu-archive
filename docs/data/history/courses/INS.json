@@ -1116,28 +1116,28 @@
    [
     "2026-2027-guz",
     "Fırat Doğu Akın , Merve Akbaş",
-    50,
+    55,
     50,
     "Pazartesi"
    ],
    [
     "2026-2027-guz",
     "Merve Akbaş",
-    50,
+    55,
     50,
     "Salı"
    ],
    [
     "2026-2027-guz",
     "Harun Türkoğlu",
-    50,
+    55,
     50,
     "Perşembe"
    ],
    [
     "2026-2027-guz",
     "Neziha Yılmaz",
-    50,
+    55,
     50,
     "Cuma"
    ],
@@ -5168,21 +5168,21 @@
    [
     "2026-2027-guz",
     "Berrak Teymür , Ayşegül Bayın Sarıahmetoğlu",
-    30,
+    35,
     30,
     "Salı, Çarşamba"
    ],
    [
     "2026-2027-guz",
     "Recep İyisan",
-    30,
+    35,
     30,
     "Salı, Perşembe"
    ],
    [
     "2026-2027-guz",
     "Mustafa Hatipoğlu",
-    30,
+    35,
     30,
     "Salı, Cuma"
    ],
@@ -5266,14 +5266,14 @@
    [
     "2026-2027-guz",
     "Müge Balkaya",
-    30,
+    35,
     30,
     "Salı, Perşembe"
    ],
    [
     "2026-2027-guz",
     "Aslı Yalçın Dayıoğlu",
-    30,
+    35,
     30,
     "Salı, Cuma"
    ],
@@ -8281,7 +8281,7 @@
    [
     "2026-2027-guz",
     "Gökhan Çevikbilen",
-    35,
+    38,
     35,
     "Çarşamba"
    ],
@@ -8492,7 +8492,7 @@
    [
     "2026-2027-guz",
     "Gürkan Özden",
-    35,
+    38,
     35,
     "Çarşamba"
    ],
@@ -9440,7 +9440,7 @@
    [
     "2026-2027-guz",
     "Bahar Ayhan",
-    40,
+    45,
     40,
     "Cuma"
    ],
@@ -13466,6 +13466,22 @@
    ]
   ]
  },
+ "INS 4037E": {
+  "code": "INS 4037E",
+  "name": "Timber Structures",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "-",
+    29,
+    0,
+    "Cuma"
+   ]
+  ]
+ },
  "INS 4039": {
   "code": "INS 4039",
   "name": "Yapısal Yangın Güvenliği",
@@ -13777,7 +13793,7 @@
    [
     "2026-2027-guz",
     "Atila Sezen",
-    40,
+    45,
     40,
     "Salı"
    ],
@@ -14589,7 +14605,7 @@
    [
     "2026-2027-guz",
     "Veysel Şadan Özgür Kırca",
-    40,
+    45,
     40,
     "Perşembe"
    ],

@@ -38,7 +38,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Kubilay Yay",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Pazartesi"
@@ -47,7 +47,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "409"
   ],
   "capacity": 45,
   "enrolled": 45,
@@ -68,7 +68,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Bülent Bölat",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Perşembe"
@@ -77,7 +77,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "409"
   ],
   "capacity": 45,
   "enrolled": 13,
@@ -98,7 +98,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Kubilay Yay",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Salı"
@@ -107,7 +107,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "406"
   ],
   "capacity": 45,
   "enrolled": 45,
@@ -128,7 +128,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Bülent Bölat",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Cuma"
@@ -137,7 +137,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "409"
   ],
   "capacity": 45,
   "enrolled": 9,
@@ -301,7 +301,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ali İmre Aydeniz",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Pazartesi"
@@ -310,7 +310,7 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "--"
+   "409"
   ],
   "capacity": 40,
   "enrolled": 17,
@@ -333,7 +333,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Fırat Mehmet Günkan",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Salı"
@@ -342,7 +342,7 @@
    "13:30/17:29"
   ],
   "rooms": [
-   "--"
+   "402"
   ],
   "capacity": 40,
   "enrolled": 32,
@@ -365,7 +365,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Fırat Mehmet Günkan",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Cuma"
@@ -374,7 +374,7 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "--"
+   "409"
   ],
   "capacity": 40,
   "enrolled": 27,
@@ -397,7 +397,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Erkan Günpınar",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Çarşamba"
@@ -406,7 +406,7 @@
    "09:30/13:29"
   ],
   "rooms": [
-   "--"
+   "409"
   ],
   "capacity": 40,
   "enrolled": 7,
@@ -1485,7 +1485,7 @@
   "rooms": [
    "D361B"
   ],
-  "capacity": 0,
+  "capacity": 30,
   "enrolled": 0,
   "reserved": "-",
   "programs": [
@@ -1574,7 +1574,7 @@
   "rooms": [
    "D381B"
   ],
-  "capacity": 0,
+  "capacity": 30,
   "enrolled": 0,
   "reserved": "-",
   "programs": [
@@ -2114,7 +2114,7 @@
   "rooms": [
    "A101"
   ],
-  "capacity": 0,
+  "capacity": 70,
   "enrolled": 0,
   "reserved": "-",
   "programs": [
@@ -3388,7 +3388,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Seyhan Onbaşıoğlu",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Perşembe"
@@ -3397,7 +3397,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "D380B"
   ],
   "capacity": 30,
   "enrolled": 2,
@@ -3415,7 +3415,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Seyhan Onbaşıoğlu",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Salı"
@@ -3424,7 +3424,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "D368A"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -3463,7 +3463,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Süreyya Ergün Bozdağ",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Cuma"
@@ -3472,7 +3472,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "D380B"
   ],
   "capacity": 30,
   "enrolled": 1,
@@ -3490,7 +3490,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ata Muğan",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Perşembe"
@@ -3499,10 +3499,10 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "D368B"
   ],
   "capacity": 30,
-  "enrolled": 4,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3517,7 +3517,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ekrem Tüfekci",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Perşembe"
@@ -3526,10 +3526,10 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "D381B"
   ],
   "capacity": 30,
-  "enrolled": 0,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3544,7 +3544,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Emin Sünbüloğlu",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Salı"
@@ -3553,7 +3553,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "D331"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -3571,7 +3571,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Osman Taha Şen",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Salı"
@@ -3580,10 +3580,10 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "D331"
   ],
   "capacity": 30,
-  "enrolled": 0,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3598,7 +3598,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Oğuz Altay",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Pazartesi"
@@ -3607,7 +3607,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "D359"
   ],
   "capacity": 30,
   "enrolled": 0,
@@ -3625,7 +3625,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "İlyas Bedii Özdemir",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Perşembe"
@@ -3634,10 +3634,10 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "D368A"
   ],
   "capacity": 30,
-  "enrolled": 2,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3658,7 +3658,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 2,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3679,7 +3679,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 5,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3764,7 +3764,7 @@
   "rooms": [
    "D360"
   ],
-  "capacity": 0,
+  "capacity": 15,
   "enrolled": 0,
   "reserved": "-",
   "programs": [
