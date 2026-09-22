@@ -771,7 +771,7 @@
    "GZ103"
   ],
   "capacity": 20,
-  "enrolled": 0,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -798,7 +798,7 @@
    "D101"
   ],
   "capacity": 10,
-  "enrolled": 0,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -825,7 +825,7 @@
    "D305"
   ],
   "capacity": 10,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -852,7 +852,7 @@
    "D304"
   ],
   "capacity": 10,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -879,7 +879,7 @@
    "GZ102"
   ],
   "capacity": 20,
-  "enrolled": 0,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -933,7 +933,7 @@
    "D202"
   ],
   "capacity": 10,
-  "enrolled": 0,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -960,7 +960,7 @@
    "D205"
   ],
   "capacity": 10,
-  "enrolled": 0,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1014,7 +1014,7 @@
    "GZ101"
   ],
   "capacity": 20,
-  "enrolled": 0,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1056,7 +1056,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 0,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1104,7 +1104,7 @@
    "D205"
   ],
   "capacity": 10,
-  "enrolled": 0,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1131,7 +1131,7 @@
    "D303"
   ],
   "capacity": 10,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

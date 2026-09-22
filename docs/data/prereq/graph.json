@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21T07:58:31Z",
+ "generatedAt": "2026-09-22T07:43:23Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -27604,7 +27604,7 @@
   },
   {
    "code": "NUM 201E",
-   "name": "",
+   "name": "Fundamentals of Nuclear Engineering I",
    "branch": "NUM"
   },
   {
@@ -27638,13 +27638,13 @@
   },
   {
    "code": "NUM 341E",
-   "name": "Nükleer Yakıt Çevrimi",
+   "name": "Nuclear Fuel Cycle",
    "branch": "NUM",
    "requirement": "NUM 201E MIN. DD"
   },
   {
    "code": "NUM 411E",
-   "name": "Nükleer Reaktör Teorisi",
+   "name": "Nuclear Reactor Theory",
    "branch": "NUM",
    "requirement": "NUM 201E MIN. DD"
   },

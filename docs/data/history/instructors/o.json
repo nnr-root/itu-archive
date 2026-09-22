@@ -647,7 +647,7 @@
     "ISS 503E",
     "Financial Accounting",
     40,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -1307,7 +1307,7 @@
     "YIP 501E",
     "Management Mathematics",
     15,
-    0
+    15
    ],
    [
     "2025-2026-bahar",
@@ -1480,7 +1480,7 @@
     "BYM 508E",
     "Biomechanics and Tissue Biomechanics",
     20,
-    0
+    3
    ],
    [
     "2026-2027-guz",
@@ -2781,7 +2781,7 @@
     "MET 603E",
     "Production of Refractory Metal",
     20,
-    0
+    3
    ],
    [
     "2025-2026-bahar",
@@ -3500,14 +3500,14 @@
     "GEO 513",
     "Matematik İsta.\u0026Hipotez Testlr",
     50,
-    0
+    2
    ],
    [
     "2026-2027-guz",
     "GEO 609",
     "Geomatik Müh.Yapay Sinir Ağlar",
     30,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -5210,7 +5210,7 @@
     "CHZ 596E",
     "Scien.Rese., Ethic\u0026Seminar",
     20,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -6315,7 +6315,7 @@
     "GEM 515",
     "Gem.Mak.Sist.Tas.\u0026Optimizasyon",
     30,
-    0
+    4
    ],
    [
     "2026-2027-guz",
@@ -6727,7 +6727,7 @@
     "YAP 532",
     "Deneysel Mekanik",
     15,
-    0
+    1
    ],
    [
     "2025-2026-bahar",
@@ -7256,7 +7256,7 @@
     "IKE 505E",
     "Research Meth.in Economics I",
     30,
-    0
+    4
    ],
    [
     "2025-2026-bahar",
@@ -8019,7 +8019,7 @@
     "MOT YLT",
     "Tez Çalışması",
     100,
-    0
+    1
    ],
    [
     "2025-2026-bahar",
@@ -9129,7 +9129,7 @@
     "KIM 552E",
     "Group Theory\u0026Its Chemical Appl",
     20,
-    0
+    3
    ],
    [
     "2025-2026-bahar",
@@ -9701,7 +9701,7 @@
     "KET YLT",
     "Tez Çalışması",
     200,
-    0
+    5
    ],
    [
     "2026-2027-guz",
@@ -11170,7 +11170,7 @@
     "GAM 516E",
     "Serious Games",
     30,
-    0
+    1
    ]
   ],
   "terms": 1
@@ -11469,7 +11469,7 @@
     "RSM 503",
     "Raylı Sistemlerin Mühendisliği",
     20,
-    0
+    2
    ],
    [
     "2026-2027-guz",
@@ -11483,7 +11483,7 @@
     "ULS 501E",
     "Mathe.\u0026Sta.Meth.in Tran.Eng.",
     15,
-    0
+    1
    ],
    [
     "2025-2026-bahar",
@@ -11607,7 +11607,7 @@
     "MYL 803E",
     "Studio Practices",
     40,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -13233,7 +13233,7 @@
     "FIZ 531E",
     "Scanning Probe Techniques",
     30,
-    0
+    2
    ],
    [
     "2026-2027-guz",
@@ -13432,6 +13432,19 @@
    ]
   ],
   "terms": 2
+ },
+ "Ömer Akbal": {
+  "name": "Ömer Akbal",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "UUM 632",
+    "Uçaklarda Buzlanma",
+    40,
+    1
+   ]
+  ],
+  "terms": 1
  },
  "Ömer Berk Berkalp": {
   "name": "Ömer Berk Berkalp",
@@ -14152,14 +14165,14 @@
     "ABM 604E",
     "Hydro-Meteorological Disasters: Floods and Droughts",
     20,
-    0
+    1
    ],
    [
     "2026-2027-guz",
     "ABM YET",
     "Yeterlik Aşaması",
     200,
-    0
+    2
    ],
    [
     "2026-2027-guz",
@@ -14187,7 +14200,7 @@
     "AFY YLT",
     "Tez Çalışması",
     200,
-    0
+    2
    ]
   ],
   "terms": 1
@@ -14233,7 +14246,7 @@
     "END 574E",
     "Business Intell.\u0026Mac.Lear.App.",
     39,
-    0
+    5
    ],
    [
     "2026-2027-guz",
@@ -15430,7 +15443,7 @@
     "JDM 604E",
     "Selected Topics in Geomorph.",
     20,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -15938,7 +15951,7 @@
     "YSB 572E",
     "Clim.Chan.: Sci., Impa.\u0026Mitig.",
     25,
-    0
+    6
    ],
    [
     "2017-2018-guz",
@@ -15965,7 +15978,7 @@
     "TEL 510E",
     "Telecom.Net.Plan.\u0026Manag.",
     20,
-    0
+    8
    ],
    [
     "2025-2026-bahar",
@@ -18149,7 +18162,7 @@
     "YSB 569E",
     "Earth System",
     25,
-    0
+    3
    ],
    [
     "2026-2027-guz",
@@ -18177,7 +18190,7 @@
     "YSB DRT",
     "Tez Çalışması",
     200,
-    0
+    9
    ],
    [
     "2026-2027-guz",
@@ -20074,14 +20087,14 @@
     "EBT 537",
     "Enerji Kalitesi",
     30,
-    0
+    1
    ],
    [
     "2026-2027-guz",
     "EBT 535",
     "Endüstride Enerji Yönetimi",
     20,
-    0
+    5
    ],
    [
     "2021-2022-guz",
@@ -20175,6 +20188,19 @@
    ]
   ],
   "terms": 4
+ },
+ "Öykü İrigül Sönmez": {
+  "name": "Öykü İrigül Sönmez",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "MBG 523E",
+    "Advanced Molecular Biology",
+    30,
+    3
+   ]
+  ],
+  "terms": 1
  },
  "Özcan Arslan": {
   "name": "Özcan Arslan",
@@ -20952,7 +20978,7 @@
     "ELK 505",
     "Yüksek Gerilim Yeraltı Kabl.",
     10,
-    0
+    9
    ],
    [
     "2026-2027-guz",
@@ -23176,7 +23202,7 @@
     "MOT 575E",
     "Vehicle Dynamics",
     30,
-    0
+    1
    ],
    [
     "2025-2026-bahar",
@@ -23349,7 +23375,7 @@
     "LEE 903E",
     "Project Cycle Management",
     30,
-    0
+    12
    ],
    [
     "2026-2027-guz",
@@ -23391,7 +23417,7 @@
     "MET 618",
     "Alümin.(Al),Alaş.\u0026Üretim Tekn.",
     20,
-    0
+    3
    ],
    [
     "2025-2026-bahar",
@@ -24179,7 +24205,7 @@
     "FIZ 637E",
     "Cosmology I",
     30,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -24234,7 +24260,7 @@
     "TEK 539E",
     "E-Textiles\u0026Werable Compu.Sys.",
     30,
-    0
+    1
    ],
    [
     "2025-2026-bahar",
@@ -24506,7 +24532,7 @@
     "YAP 503E",
     "Composite Materials",
     20,
-    0
+    5
    ],
    [
     "2025-2026-bahar",
@@ -24736,7 +24762,7 @@
     "END 604E",
     "G.Decision Making Under M.Crit",
     12,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -25795,7 +25821,7 @@
     "ISS 552",
     "Fikri-Sanayi Mülkiyet Hukuku",
     25,
-    0
+    2
    ],
    [
     "2026-2027-guz",
@@ -25809,7 +25835,7 @@
     "LEE 908E",
     "Protecting and Commercializing Research Results",
     20,
-    0
+    4
    ],
    [
     "2025-2026-bahar",
@@ -26119,6 +26145,13 @@
   "name": "Özgür Üstün",
   "rows": [
    [
+    "2026-2027-guz",
+    "BVT 609",
+    "Elektrik Tarihi",
+    10,
+    1
+   ],
+   [
     "2022-2023-bahar",
     "DEN 446",
     "Gemi Elektr.\u0026 Kontrol Sist.",
@@ -26413,7 +26446,7 @@
     40
    ]
   ],
-  "terms": 17
+  "terms": 18
  },
  "Özhan Ertekin": {
   "name": "Özhan Ertekin",
@@ -26917,7 +26950,7 @@
     "YSB 524E",
     "Climate Data Analys.Methods",
     25,
-    0
+    1
    ]
   ],
   "terms": 1
@@ -26937,7 +26970,7 @@
     "YAP 561",
     "Beton Katkı Malzemeleri",
     20,
-    0
+    6
    ],
    [
     "2025-2026-bahar",
@@ -27537,7 +27570,7 @@
     "MTS 511",
     "Proje I",
     40,
-    0
+    7
    ],
    [
     "2026-2027-guz",
@@ -30631,7 +30664,7 @@
     "YTT 519E",
     "Military Textiles",
     30,
-    0
+    1
    ],
    [
     "2023-2024-bahar",

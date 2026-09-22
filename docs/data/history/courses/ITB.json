@@ -355,7 +355,6 @@
   "code": "ITB 037E",
   "name": "Knowledge, Language & Logic",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2025-2026-guz",
    "2024-2025-bahar",
@@ -374,13 +373,6 @@
    "2016-2017-yaz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Giovanni Filippo Mion",
-    0,
-    0,
-    "Cuma"
-   ],
    [
     "2025-2026-bahar",
     "Giovanni Filippo Mion",
@@ -6087,13 +6079,6 @@
    ],
    [
     "2026-2027-guz",
-    "-",
-    0,
-    0,
-    "Salı"
-   ],
-   [
-    "2026-2027-guz",
     "Tuncay Zorlu",
     35,
     35,
@@ -7315,13 +7300,6 @@
    "2017-2018-guz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Aslıhan Erkmen Birkandan",
-    0,
-    0,
-    "Cuma"
-   ],
    [
     "2026-2027-guz",
     "Bülent Arıkan",
@@ -9411,39 +9389,15 @@
    ]
   ]
  },
- "ITB 234": {
-  "code": "ITB 234",
-  "name": "Medeniyetlerin Doğuşu",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Hasan Karataş",
-    0,
-    0,
-    "Pazartesi"
-   ]
-  ]
- },
  "ITB 234E": {
   "code": "ITB 234E",
   "name": "The Rise of Civilizations",
   "terms": [
-   "2026-2027-guz",
    "2019-2020-guz",
    "2018-2019-bahar",
    "2017-2018-guz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Hasan Karataş",
-    0,
-    0,
-    "Pazartesi"
-   ],
    [
     "2019-2020-guz",
     "Bülent Arıkan",

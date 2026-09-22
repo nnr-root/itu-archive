@@ -20,7 +20,7 @@
    "1D4"
   ],
   "capacity": 20,
-  "enrolled": 0,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -47,7 +47,7 @@
    "B36"
   ],
   "capacity": 20,
-  "enrolled": 0,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -68,7 +68,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 0,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
