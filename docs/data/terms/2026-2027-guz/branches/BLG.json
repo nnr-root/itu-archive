@@ -80,8 +80,8 @@
    "--"
   ],
   "capacity": 55,
-  "enrolled": 20,
-  "reserved": "BLG_BG_YL/50/20 | Diğer/5/0",
+  "enrolled": 21,
+  "reserved": "BLG_BG_YL/50/21 | Diğer/5/0",
   "programs": [
    "BLG_BG_YL"
   ],
@@ -196,7 +196,7 @@
   ],
   "capacity": 20,
   "enrolled": 8,
-  "reserved": "BLG_BG_YL/12/4 | BLG_BG_DR/3/1 | Diğer/5/3",
+  "reserved": "BLG_BG_YL/12/3 | BLG_BG_DR/3/1 | Diğer/5/4",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -339,8 +339,8 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 9,
-  "reserved": "BLG_BG_DR/2/0 | BLG_BG_YL/23/9 | Diğer/0/0",
+  "enrolled": 8,
+  "reserved": "BLG_BG_DR/2/0 | BLG_BG_YL/23/8 | Diğer/0/0",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -426,7 +426,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 5,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -679,7 +679,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -736,7 +736,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -763,7 +763,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 24,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1271,6 +1271,7 @@
    "BLG_LS",
    "BLG_LS",
    "BLGE_LS",
+   "CEN_LS",
    "SECE_LS"
   ],
   "prereq": "-",
@@ -1302,6 +1303,7 @@
   "programs": [
    "BLG_LS",
    "BLGE_LS",
+   "CEN_LS",
    "CES_LS",
    "SECE_LS"
   ],
@@ -1334,6 +1336,7 @@
   "programs": [
    "BLG_LS",
    "BLGE_LS",
+   "CEN_LS",
    "CES_LS",
    "SECE_LS"
   ],
@@ -1380,7 +1383,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Tolga Ovatman",
   "buildings": [
-   "BBB"
+   "undeclared"
   ],
   "days": [
    "Pazartesi"
@@ -1389,7 +1392,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "Z-19"
+   "--"
   ],
   "capacity": 80,
   "enrolled": 80,
@@ -1457,7 +1460,8 @@
   "reserved": "-",
   "programs": [
    "BLG_LS",
-   "BLGE_LS"
+   "BLGE_LS",
+   "CEN_LS"
   ],
   "prereq": "-",
   "classReq": "-"
@@ -1487,7 +1491,8 @@
   "reserved": "-",
   "programs": [
    "BLG_LS",
-   "BLGE_LS"
+   "BLGE_LS",
+   "CEN_LS"
   ],
   "prereq": "-",
   "classReq": "-"
@@ -1518,6 +1523,7 @@
   "programs": [
    "BLG_LS",
    "BLGE_LS",
+   "CEN_LS",
    "CES_LS",
    "YZVE_LS"
   ],
@@ -1550,6 +1556,7 @@
   "programs": [
    "BLG_LS",
    "BLGE_LS",
+   "CEN_LS",
    "CES_LS",
    "YZVE_LS"
   ],
@@ -1582,6 +1589,7 @@
   "programs": [
    "BLG_LS",
    "BLGE_LS",
+   "CEN_LS",
    "YZVE_LS"
   ],
   "prereq": "-",
@@ -1606,7 +1614,8 @@
   "reserved": "-",
   "programs": [
    "BLG_LS",
-   "BLGE_LS"
+   "BLGE_LS",
+   "CEN_LS"
   ],
   "prereq": "Detay",
   "classReq": "Detay"
@@ -1630,7 +1639,8 @@
   "reserved": "-",
   "programs": [
    "BLG_LS",
-   "BLGE_LS"
+   "BLGE_LS",
+   "CEN_LS"
   ],
   "prereq": "Detay",
   "classReq": "Detay"
@@ -1654,7 +1664,8 @@
   "reserved": "-",
   "programs": [
    "BLG_LS",
-   "BLGE_LS"
+   "BLGE_LS",
+   "CEN_LS"
   ],
   "prereq": "Detay",
   "classReq": "-"
@@ -1678,7 +1689,8 @@
   "reserved": "-",
   "programs": [
    "BLG_LS",
-   "BLGE_LS"
+   "BLGE_LS",
+   "CEN_LS"
   ],
   "prereq": "Detay",
   "classReq": "-"
@@ -1703,7 +1715,8 @@
   "programs": [
    "BLG_LS",
    "BLG_LS",
-   "BLGE_LS"
+   "BLGE_LS",
+   "CEN_LS"
   ],
   "prereq": "-",
   "classReq": "Detay"
@@ -1728,7 +1741,8 @@
   "programs": [
    "BLG_LS",
    "BLG_LS",
-   "BLGE_LS"
+   "BLGE_LS",
+   "CEN_LS"
   ],
   "prereq": "-",
   "classReq": "Detay"
@@ -1759,6 +1773,7 @@
   "programs": [
    "BLG_LS",
    "BLGE_LS",
+   "CEN_LS",
    "CES_LS"
   ],
   "prereq": "-",
