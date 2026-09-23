@@ -647,7 +647,7 @@
     "ISS 503E",
     "Financial Accounting",
     40,
-    25
+    28
    ],
    [
     "2026-2027-guz",
@@ -1307,7 +1307,7 @@
     "YIP 501E",
     "Management Mathematics",
     15,
-    14
+    15
    ],
    [
     "2025-2026-bahar",
@@ -1480,7 +1480,7 @@
     "BYM 508E",
     "Biomechanics and Tissue Biomechanics",
     20,
-    8
+    7
    ],
    [
     "2026-2027-guz",
@@ -1709,7 +1709,7 @@
     "2026-2027-guz",
     "CEV 401",
     "Atıksu Arıtma Tesisi Tas.",
-    60,
+    70,
     60
    ],
    [
@@ -2321,13 +2321,13 @@
     "CBM 533",
     "Çevresel Sistem.Matem.Ana.",
     30,
-    23
+    25
    ],
    [
     "2026-2027-guz",
     "CEV 210E",
     "Engineering Mathematics",
-    60,
+    65,
     60
    ],
    [
@@ -5196,7 +5196,7 @@
     "CHZ 523E",
     "Cevher Hazır.Müh.Özel Kon.",
     20,
-    3
+    4
    ],
    [
     "2026-2027-guz",
@@ -6049,7 +6049,7 @@
     "2026-2027-guz",
     "CEV 439E",
     "Landfill Design and Operation",
-    30,
+    35,
     30
    ],
    [
@@ -6057,7 +6057,7 @@
     "ENB 509E",
     "Bio.Processing of Solid Wastes",
     30,
-    1
+    2
    ],
    [
     "2025-2026-bahar",
@@ -6315,7 +6315,7 @@
     "GEM 515",
     "Gem.Mak.Sist.Tas.\u0026Optimizasyon",
     30,
-    14
+    15
    ],
    [
     "2026-2027-guz",
@@ -7256,7 +7256,7 @@
     "IKE 505E",
     "Research Meth.in Economics I",
     30,
-    7
+    11
    ],
    [
     "2025-2026-bahar",
@@ -8002,15 +8002,22 @@
    ],
    [
     "2026-2027-guz",
-    "MAK 633",
-    "Lineer Olmayan Titreşiler",
-    30,
-    3
+    "MAK 324",
+    "Makina Teorisi",
+    50,
+    44
    ],
    [
     "2026-2027-guz",
-    "MAK 324E",
-    "Theory of Machines",
+    "MAK 633",
+    "Lineer Olmayan Titreşiler",
+    30,
+    5
+   ],
+   [
+    "2026-2027-guz",
+    "MAK 315E",
+    "Mechanical Vibrations",
     15,
     0
    ],
@@ -8020,6 +8027,13 @@
     "Tez Çalışması",
     100,
     3
+   ],
+   [
+    "2026-2027-guz",
+    "MTA 556E",
+    "Modal Testing",
+    0,
+    0
    ],
    [
     "2025-2026-bahar",
@@ -8326,7 +8340,7 @@
     "ISL 612E",
     "Applied Artificial Intelligence",
     15,
-    6
+    8
    ],
    [
     "2025-2026-bahar",
@@ -9129,7 +9143,7 @@
     "KIM 552E",
     "Group Theory\u0026Its Chemical Appl",
     20,
-    8
+    10
    ],
    [
     "2025-2026-bahar",
@@ -9694,14 +9708,14 @@
     "KET 511",
     "Kentsel Tasarım Projesi I",
     25,
-    1
+    2
    ],
    [
     "2026-2027-guz",
     "KET YLT",
     "Tez Çalışması",
     200,
-    15
+    16
    ],
    [
     "2026-2027-guz",
@@ -11170,7 +11184,7 @@
     "GAM 516E",
     "Serious Games",
     30,
-    3
+    4
    ]
   ],
   "terms": 1
@@ -11483,7 +11497,7 @@
     "ULS 501E",
     "Mathe.\u0026Sta.Meth.in Tran.Eng.",
     15,
-    8
+    10
    ],
    [
     "2025-2026-bahar",
@@ -13233,7 +13247,7 @@
     "FIZ 531E",
     "Scanning Probe Techniques",
     30,
-    10
+    11
    ],
    [
     "2026-2027-guz",
@@ -15436,7 +15450,7 @@
     "JDM 596",
     "Bilimsel Araş.,Etik ve Seminer",
     20,
-    1
+    2
    ],
    [
     "2026-2027-guz",
@@ -18162,14 +18176,14 @@
     "YSB 569E",
     "Earth System",
     25,
-    7
+    8
    ],
    [
     "2026-2027-guz",
     "YSB 606E",
     "Ecosystem Ecology",
     25,
-    4
+    5
    ],
    [
     "2026-2027-guz",
@@ -18183,14 +18197,14 @@
     "YSB YLT",
     "Tez Çalışması",
     200,
-    3
+    5
    ],
    [
     "2026-2027-guz",
     "YSB DRT",
     "Tez Çalışması",
     200,
-    15
+    16
    ],
    [
     "2026-2027-guz",
@@ -20196,8 +20210,8 @@
     "2026-2027-guz",
     "MBG 523E",
     "Advanced Molecular Biology",
-    30,
-    22
+    35,
+    32
    ]
   ],
   "terms": 1
@@ -23202,7 +23216,7 @@
     "MOT 575E",
     "Vehicle Dynamics",
     30,
-    6
+    7
    ],
    [
     "2025-2026-bahar",
@@ -24532,7 +24546,7 @@
     "YAP 503E",
     "Composite Materials",
     20,
-    12
+    13
    ],
    [
     "2025-2026-bahar",
@@ -25159,6 +25173,13 @@
     "Elektromanyetik Teori-II",
     75,
     45
+   ],
+   [
+    "2026-2027-guz",
+    "TEL 518E",
+    "Theory of Functions of Complex Variables",
+    0,
+    0
    ],
    [
     "2025-2026-bahar",
@@ -25821,7 +25842,7 @@
     "ISS 552",
     "Fikri-Sanayi Mülkiyet Hukuku",
     25,
-    4
+    3
    ],
    [
     "2026-2027-guz",
@@ -25835,7 +25856,7 @@
     "LEE 908E",
     "Protecting and Commercializing Research Results",
     20,
-    9
+    8
    ],
    [
     "2025-2026-bahar",
@@ -26950,7 +26971,7 @@
     "YSB 524E",
     "Climate Data Analys.Methods",
     25,
-    2
+    3
    ]
   ],
   "terms": 1
@@ -27570,7 +27591,7 @@
     "MTS 511",
     "Proje I",
     40,
-    22
+    24
    ],
    [
     "2026-2027-guz",

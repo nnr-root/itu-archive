@@ -819,7 +819,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 3,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -846,7 +846,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 1,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -927,7 +927,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 3,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1035,7 +1035,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 4,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1179,7 +1179,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 5,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1213,6 +1213,29 @@
    "MADE_LS"
   ],
   "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15735",
+  "code": "MAD 302E",
+  "branch": "MAD",
+  "level": "LS",
+  "name": "Mining and Environment",
+  "method": "Sınırsız Sınav",
+  "instructor": "Türker Hüdaverdi",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "MAD_LS"
+  ],
+  "prereq": "-",
   "classReq": "-"
  }
 ]

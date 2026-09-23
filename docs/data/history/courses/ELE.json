@@ -257,8 +257,24 @@
     "2026-2027-guz",
     "Anıl Özdemirli",
     40,
-    19,
+    23,
     "Perşembe"
+   ]
+  ]
+ },
+ "ELE 505E": {
+  "code": "ELE 505E",
+  "name": "L-volt. Anal. Integ.Cir.Desig",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Hacer Atar Yıldız",
+    0,
+    0,
+    "Cuma"
    ]
   ]
  },
@@ -291,6 +307,13 @@
     30,
     30,
     "Salı"
+   ],
+   [
+    "2026-2027-guz",
+    "Müştak Erhan Yalçın",
+    0,
+    0,
+    "Salı"
    ]
   ]
  },
@@ -305,8 +328,24 @@
     "2026-2027-guz",
     "Metin Hüner",
     30,
-    24,
+    26,
     "Salı"
+   ]
+  ]
+ },
+ "ELE 523E": {
+  "code": "ELE 523E",
+  "name": "Computational Nanoelectronics",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Mustafa Altun",
+    0,
+    0,
+    "Perşembe"
    ]
   ]
  },
@@ -321,7 +360,7 @@
     "2026-2027-guz",
     "Tamer Ölmez",
     20,
-    6,
+    7,
     "Çarşamba"
    ]
   ]
@@ -337,7 +376,7 @@
     "2026-2027-guz",
     "Kemal Ozanoğlu",
     30,
-    10,
+    11,
     "Pazartesi"
    ]
   ]
@@ -371,6 +410,13 @@
     30,
     30,
     "Çarşamba"
+   ],
+   [
+    "2026-2027-guz",
+    "İsmail Serdar Özoğuz",
+    0,
+    0,
+    "Pazartesi"
    ]
   ]
  },
@@ -385,7 +431,14 @@
     "2026-2027-guz",
     "Müştak Erhan Yalçın",
     30,
-    24,
+    27,
+    "Çarşamba"
+   ],
+   [
+    "2026-2027-guz",
+    "Mustafa Berke Yelten",
+    0,
+    0,
     "Çarşamba"
    ]
   ]
@@ -401,8 +454,40 @@
     "2026-2027-guz",
     "Sıddıka Berna Örs Yalçın",
     40,
-    11,
+    14,
     "Cuma"
+   ]
+  ]
+ },
+ "ELE 615E": {
+  "code": "ELE 615E",
+  "name": "Modelling Of Semicon.Com.&Dev.",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Mustafa Berke Yelten",
+    0,
+    0,
+    "Salı"
+   ]
+  ]
+ },
+ "ELE 696": {
+  "code": "ELE 696",
+  "name": "Bilimsel Araş.,Etik ve Seminer",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Hakan Ali Çırpan",
+    0,
+    0,
+    ""
    ]
   ]
  },
@@ -417,7 +502,7 @@
     "2026-2027-guz",
     "Müştak Erhan Yalçın",
     200,
-    16,
+    19,
     ""
    ]
   ]
@@ -433,7 +518,7 @@
     "2026-2027-guz",
     "Müştak Erhan Yalçın",
     200,
-    2,
+    3,
     ""
    ]
   ]
@@ -449,7 +534,7 @@
     "2026-2027-guz",
     "Müştak Erhan Yalçın",
     200,
-    37,
+    50,
     ""
    ]
   ]

@@ -25,5 +25,26 @@
   "programs": [],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "15734",
+  "code": "RBT YLT",
+  "branch": "RBT",
+  "level": "LU",
+  "name": "Tez Çalışması",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "İskender Atilla Reyhancan",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 200,
+  "enrolled": 2,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
  }
 ]

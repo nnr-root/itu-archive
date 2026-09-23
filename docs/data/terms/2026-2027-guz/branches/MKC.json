@@ -47,7 +47,7 @@
    "D368B"
   ],
   "capacity": 40,
-  "enrolled": 23,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -95,7 +95,88 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 20,
+  "enrolled": 29,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15724",
+  "code": "MKC 501E",
+  "branch": "MKC",
+  "level": "LU",
+  "name": "Engineering Mathematics",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Hacı Abdullah Taşdemir",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Perşembe"
+  ],
+  "times": [
+   "09:00/11:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15726",
+  "code": "MKC 517E",
+  "branch": "MKC",
+  "level": "LU",
+  "name": "Special Topi.in Solid Mechan.",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Alaeddin Burak İrez",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "09:00/11:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15727",
+  "code": "MKC 521",
+  "branch": "MKC",
+  "level": "LU",
+  "name": "Elastisite Teorisi",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Uğurcan Eroğlu",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "09:00/11:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

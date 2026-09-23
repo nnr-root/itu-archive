@@ -17,7 +17,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "3BİL1"
+   "1D9"
   ],
   "capacity": 20,
   "enrolled": 2,
@@ -807,7 +807,7 @@
    "15:30/17:29"
   ],
   "rooms": [
-   "3BİL1"
+   "--"
   ],
   "capacity": 30,
   "enrolled": 17,
@@ -1411,7 +1411,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1492,7 +1492,7 @@
    "1D4"
   ],
   "capacity": 30,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1573,7 +1573,7 @@
    "2D17"
   ],
   "capacity": 30,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1600,7 +1600,7 @@
    "ZD2"
   ],
   "capacity": 30,
-  "enrolled": 5,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1744,7 +1744,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 5,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

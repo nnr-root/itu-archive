@@ -1,4 +1,36 @@
 {
+ "MKC 501E": {
+  "code": "MKC 501E",
+  "name": "Engineering Mathematics",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Hacı Abdullah Taşdemir",
+    0,
+    0,
+    "Perşembe"
+   ]
+  ]
+ },
+ "MKC 517E": {
+  "code": "MKC 517E",
+  "name": "Special Topi.in Solid Mechan.",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Alaeddin Burak İrez",
+    0,
+    0,
+    "Salı"
+   ]
+  ]
+ },
  "MKC 521": {
   "code": "MKC 521",
   "name": "Elastisite Teorisi",
@@ -11,6 +43,13 @@
     "Mehmet Salih Dokuz",
     40,
     21,
+    "Cuma"
+   ],
+   [
+    "2026-2027-guz",
+    "Uğurcan Eroğlu",
+    0,
+    0,
     "Cuma"
    ]
   ]
@@ -42,7 +81,7 @@
     "2026-2027-guz",
     "Uğurcan Eroğlu",
     40,
-    23,
+    24,
     "Perşembe"
    ]
   ]
@@ -58,7 +97,7 @@
     "2026-2027-guz",
     "Emin Sünbüloğlu",
     100,
-    20,
+    29,
     ""
    ]
   ]

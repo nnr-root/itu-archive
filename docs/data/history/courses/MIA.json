@@ -15,6 +15,22 @@
    ]
   ]
  },
+ "MIA 502E": {
+  "code": "MIA 502E",
+  "name": "Num.Meth.In Fluid Flow&Heat T",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Hasan Güneş",
+    0,
+    0,
+    "Salı"
+   ]
+  ]
+ },
  "MIA 503E": {
   "code": "MIA 503E",
   "name": "Advanced Fluid Dynamics",
@@ -26,7 +42,7 @@
     "2026-2027-guz",
     "Hasan Güneş , Sertaç Çadırcı",
     50,
-    32,
+    35,
     "Cuma"
    ]
   ]
@@ -42,7 +58,7 @@
     "2026-2027-guz",
     "Turgut Yılmaz",
     30,
-    9,
+    10,
     "Perşembe"
    ]
   ]
@@ -63,6 +79,22 @@
    ]
   ]
  },
+ "MIA 511": {
+  "code": "MIA 511",
+  "name": "Hidrodinamik",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Sertaç Çadırcı",
+    0,
+    0,
+    "Perşembe"
+   ]
+  ]
+ },
  "MIA 515": {
   "code": "MIA 515",
   "name": "Isı İletimi",
@@ -74,7 +106,7 @@
     "2026-2027-guz",
     "Ersin Sayar",
     30,
-    14,
+    15,
     "Perşembe"
    ]
   ]
@@ -106,8 +138,24 @@
     "2026-2027-guz",
     "Metin Kayıtmazbatır",
     30,
-    18,
+    20,
     "Çarşamba"
+   ]
+  ]
+ },
+ "MIA 596E": {
+  "code": "MIA 596E",
+  "name": "Scien.Research, Ethic&Seminar",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Abdussamet Subaşı",
+    0,
+    0,
+    "Pazartesi"
    ]
   ]
  },
@@ -122,7 +170,7 @@
     "2026-2027-guz",
     "Abdussamet Subaşı",
     100,
-    33,
+    35,
     ""
    ]
   ]

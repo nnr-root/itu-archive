@@ -2000,7 +2000,7 @@
   "level": "LS",
   "name": "Makina Teorisi",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Akif Yavuz",
+  "instructor": "Osman Taha Şen",
   "buildings": [
    "MKB"
   ],
@@ -2066,19 +2066,15 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ayhan Kural",
   "buildings": [
-   "MKB",
    "MKB"
   ],
   "days": [
-   "Pazartesi",
    "Perşembe"
   ],
   "times": [
-   "15:30/17:29",
    "15:30/17:29"
   ],
   "rooms": [
-   "D361B",
    "D361B"
   ],
   "capacity": 10,
@@ -3400,7 +3396,7 @@
    "D380B"
   ],
   "capacity": 30,
-  "enrolled": 2,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3556,7 +3552,7 @@
    "D331"
   ],
   "capacity": 30,
-  "enrolled": 1,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3583,7 +3579,7 @@
    "D331"
   ],
   "capacity": 30,
-  "enrolled": 3,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3679,7 +3675,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 33,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3811,7 +3807,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ali İmre Aydeniz",
   "buildings": [
-   "MKB",
+   "undeclared",
    "MKB"
   ],
   "days": [
@@ -3819,11 +3815,11 @@
    "Cuma"
   ],
   "times": [
-   "10:30/13:29",
+   "09:30/12:29",
    "10:30/12:29"
   ],
   "rooms": [
-   "D380B",
+   "--",
    "D380B"
   ],
   "capacity": 15,
@@ -3933,20 +3929,14 @@
   "level": "LS",
   "name": "Theory of Machines",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Osman Taha Şen",
-  "buildings": [
-   "MKB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
+  "instructor": "-",
+  "buildings": [],
+  "days": [],
   "times": [
-   "12:30/15:29"
+   "-/-"
   ],
-  "rooms": [
-   "D381B"
-  ],
-  "capacity": 15,
+  "rooms": [],
+  "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
   "programs": [
@@ -3964,19 +3954,15 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "İsmail Yalçın Uralcan",
   "buildings": [
-   "undeclared",
    "undeclared"
   ],
   "days": [
-   "Pazartesi",
    "Perşembe"
   ],
   "times": [
-   "15:30/17:29",
    "13:30/15:29"
   ],
   "rooms": [
-   "--",
    "--"
   ],
   "capacity": 0,
@@ -4048,6 +4034,143 @@
    "MAK_LS"
   ],
   "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15721",
+  "code": "MAK 315E",
+  "branch": "MAK",
+  "level": "LS",
+  "name": "Mechanical Vibrations",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Osman Taha Şen",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "14:00/16:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 15,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "MSS_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15729",
+  "code": "MAK 602E",
+  "branch": "MAK",
+  "level": "LU",
+  "name": "Micro Scale Heat Transfer",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Bayram Şahin",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "13:00/15:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15731",
+  "code": "MAK 633",
+  "branch": "MAK",
+  "level": "LU",
+  "name": "Lineer Olmayan Titreşiler",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Akif Yavuz",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "14:00/16:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15732",
+  "code": "MAK 696E",
+  "branch": "MAK",
+  "level": "LU",
+  "name": "Scien.Rese., Ethic&Seminar",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Abdussamet Subaşı",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "09:00/11:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15739",
+  "code": "MAK 647",
+  "branch": "MAK",
+  "level": "LU",
+  "name": "Imalatta Malzeme Modelleme",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Şafak Yılmaz",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "13:00/15:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
   "classReq": "-"
  }
 ]

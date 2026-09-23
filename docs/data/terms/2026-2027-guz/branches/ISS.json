@@ -47,7 +47,7 @@
    "207"
   ],
   "capacity": 40,
-  "enrolled": 25,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -74,7 +74,7 @@
    "202"
   ],
   "capacity": 40,
-  "enrolled": 22,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -101,8 +101,8 @@
    "208"
   ],
   "capacity": 50,
-  "enrolled": 24,
-  "reserved": "GGP_GG_YL/5/0 | Diğer/45/24",
+  "enrolled": 26,
+  "reserved": "GGP_GG_YL/5/0 | Diğer/45/26",
   "programs": [
    "GGP_GG_YL"
   ],
@@ -130,7 +130,7 @@
    "206"
   ],
   "capacity": 25,
-  "enrolled": 12,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -184,7 +184,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 6,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -280,7 +280,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 15,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -307,7 +307,7 @@
    "--"
   ],
   "capacity": 10,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -328,7 +328,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 18,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -361,10 +361,10 @@
   "branch": "ISS",
   "level": "LU",
   "name": "Fikri-Sanayi Mülkiyet Hukuku",
-  "method": "Fiziksel (Yüz yüze)",
+  "method": "Sanal (Çevrimiçi/Online)",
   "instructor": "Özgür Öztürk",
   "buildings": [
-   "MSB"
+   "Online/Çevrimiçi"
   ],
   "days": [
    "Salı"
@@ -373,10 +373,10 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "B02"
+   "--"
   ],
   "capacity": 25,
-  "enrolled": 4,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

@@ -722,6 +722,7 @@
    "BLG_LS",
    "BLGE_LS",
    "CEN_LS",
+   "EEE_LS",
    "EHB_LS",
    "EHBE_LS",
    "KOM_LS",
@@ -759,6 +760,7 @@
    "BLG_LS",
    "BLGE_LS",
    "CEN_LS",
+   "EEE_LS",
    "EHB_LS",
    "EHBE_LS",
    "KOM_LS",
@@ -907,6 +909,7 @@
    "BLG_LS",
    "BLGE_LS",
    "CEN_LS",
+   "EEE_LS",
    "EHB_LS",
    "EHBE_LS",
    "KOM_LS",
@@ -2350,6 +2353,7 @@
   "programs": [
    "BLG_LS",
    "BLGE_LS",
+   "EEE_LS",
    "EHB_LS",
    "EHB_LS",
    "EHBE_LS",
@@ -2449,6 +2453,7 @@
   "enrolled": 45,
   "reserved": "-",
   "programs": [
+   "EEE_LS",
    "EHB_LS",
    "EHBE_LS",
    "ELE_LS"
@@ -2480,6 +2485,7 @@
   "enrolled": 21,
   "reserved": "-",
   "programs": [
+   "EEE_LS",
    "EHB_LS",
    "EHBE_LS"
   ],
@@ -2514,6 +2520,69 @@
    "EHBE_LS"
   ],
   "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15752",
+  "code": "EHB 420",
+  "branch": "EHB",
+  "level": "LS",
+  "name": "Yapay Sinir Ağları",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Neslihan Serap Şengör",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "14:00/16:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 40,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "EHB_LS",
+   "EHS_LS",
+   "ELE_LS",
+   "TEL_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15753",
+  "code": "EHB 222E",
+  "branch": "EHB",
+  "level": "LS",
+  "name": "Introduction to Electronics",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Nizamettin Aydın",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "12:30/15:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 50,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "BLG_LS",
+   "BLGE_LS",
+   "CEN_LS"
+  ],
+  "prereq": "-",
   "classReq": "-"
  }
 ]

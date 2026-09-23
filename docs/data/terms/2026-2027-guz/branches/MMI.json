@@ -20,7 +20,7 @@
    "D368A"
   ],
   "capacity": 30,
-  "enrolled": 14,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -74,7 +74,7 @@
    "D331"
   ],
   "capacity": 30,
-  "enrolled": 10,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -101,7 +101,7 @@
    "D318"
   ],
   "capacity": 30,
-  "enrolled": 1,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -123,6 +123,33 @@
   "rooms": [],
   "capacity": 100,
   "enrolled": 3,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15740",
+  "code": "MMI 565",
+  "branch": "MMI",
+  "level": "LU",
+  "name": "Malzemelerin Mekanik Davranışı",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Turgut Gülmez",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "13:00/15:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

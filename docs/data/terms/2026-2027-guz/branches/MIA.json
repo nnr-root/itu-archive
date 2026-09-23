@@ -47,7 +47,7 @@
    "D331"
   ],
   "capacity": 50,
-  "enrolled": 32,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -74,7 +74,7 @@
    "D331"
   ],
   "capacity": 30,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -128,7 +128,7 @@
    "D353"
   ],
   "capacity": 30,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -182,7 +182,7 @@
    "D380B"
   ],
   "capacity": 30,
-  "enrolled": 18,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -203,7 +203,88 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 33,
+  "enrolled": 35,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15722",
+  "code": "MIA 502E",
+  "branch": "MIA",
+  "level": "LU",
+  "name": "Num.Meth.In Fluid Flow&Heat T",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Hasan Güneş",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "09:00/11:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15723",
+  "code": "MIA 596E",
+  "branch": "MIA",
+  "level": "LU",
+  "name": "Scien.Research, Ethic&Seminar",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Abdussamet Subaşı",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "13:00/15:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15733",
+  "code": "MIA 511",
+  "branch": "MIA",
+  "level": "LU",
+  "name": "Hidrodinamik",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Sertaç Çadırcı",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Perşembe"
+  ],
+  "times": [
+   "09:00/11:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

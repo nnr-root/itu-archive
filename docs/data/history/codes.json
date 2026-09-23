@@ -6,6 +6,12 @@
   1
  ],
  [
+  "AAR 631",
+  "Savunma Sanayinde İleri Elektrik-Elektronik Mühendisliği Uygulamaları",
+  "AAR",
+  1
+ ],
+ [
   "ABM 604E",
   "Hydro-Meteorological Disasters: Floods and Droughts",
   "ABM",
@@ -410,6 +416,12 @@
  [
   "BBF 302E",
   "Database Systems",
+  "BBF",
+  1
+ ],
+ [
+  "BBF 303E",
+  "Analysis of Algorithms II",
   "BBF",
   1
  ],
@@ -3903,7 +3915,7 @@
   "CAB 280",
   "Koltuk Davul II",
   "CAB",
-  9
+  10
  ],
  [
   "CAB 281",
@@ -4203,7 +4215,7 @@
   "CAB 332",
   "Keman VI",
   "CAB",
-  8
+  9
  ],
  [
   "CAB 333",
@@ -4755,7 +4767,7 @@
   "CAB 431",
   "Keman VII",
   "CAB",
-  7
+  8
  ],
  [
   "CAB 4312",
@@ -4767,7 +4779,7 @@
   "CAB 432",
   "Keman VIII",
   "CAB",
-  8
+  9
  ],
  [
   "CAB 433",
@@ -4851,7 +4863,7 @@
   "CAB 444",
   "Yrd.Çalgı Piyano VIII",
   "CAB",
-  18
+  19
  ],
  [
   "CAB 445",
@@ -5169,7 +5181,7 @@
   "CAB 724",
   "Oda Müziği IV",
   "CAB",
-  7
+  8
  ],
  [
   "CAB 729",
@@ -5253,7 +5265,7 @@
   "CAB 746",
   "Toplu Uygulama IV (TSM)",
   "CAB",
-  9
+  10
  ],
  [
   "CAB 751",
@@ -5289,7 +5301,7 @@
   "CAB 756",
   "Toplu Uygulama VI (TSM)",
   "CAB",
-  9
+  10
  ],
  [
   "CAB 758",
@@ -5331,7 +5343,7 @@
   "CAB 766",
   "Toplu Uygulama VIII (TSM)",
   "CAB",
-  9
+  10
  ],
  [
   "CAB 767",
@@ -10977,7 +10989,7 @@
   "EHB 420",
   "Yapay Sinir Ağları",
   "EHB",
-  4
+  5
  ],
  [
   "EHB 420E",
@@ -11448,6 +11460,12 @@
   1
  ],
  [
+  "ELE 505E",
+  "L-volt. Anal. Integ.Cir.Desig",
+  "ELE",
+  1
+ ],
+ [
   "ELE 508E",
   "RF Microelectronics",
   "ELE",
@@ -11462,6 +11480,12 @@
  [
   "ELE 519",
   "Elekt.Müh.Matematiksel Yönt.",
+  "ELE",
+  1
+ ],
+ [
+  "ELE 523E",
+  "Computational Nanoelectronics",
   "ELE",
   1
  ],
@@ -11498,6 +11522,18 @@
  [
   "ELE 609E",
   "Low-Power Electron.Sys.Design",
+  "ELE",
+  1
+ ],
+ [
+  "ELE 615E",
+  "Modelling Of Semicon.Com.&Dev.",
+  "ELE",
+  1
+ ],
+ [
+  "ELE 696",
+  "Bilimsel Araş.,Etik ve Seminer",
   "ELE",
   1
  ],
@@ -14714,6 +14750,12 @@
  [
   "FIZ 531E",
   "Scanning Probe Techniques",
+  "FIZ",
+  1
+ ],
+ [
+  "FIZ 532E",
+  "Lasers and Photonics",
   "FIZ",
   1
  ],
@@ -26151,7 +26193,7 @@
   "KMP 196",
   "Form Bilgisi II",
   "KMP",
-  9
+  10
  ],
  [
   "KMP 197",
@@ -26600,6 +26642,12 @@
  [
   "KOM 509E",
   "Design of Discrete Cont.Sys.",
+  "KOM",
+  1
+ ],
+ [
+  "KOM 510",
+  "Optimal Kontrol Kuramı",
   "KOM",
   1
  ],
@@ -27264,6 +27312,12 @@
   1
  ],
  [
+  "LEE 903",
+  "Proje Döngüsü Yönetimi",
+  "LEE",
+  1
+ ],
+ [
   "LEE 903E",
   "Project Cycle Management",
   "LEE",
@@ -27393,7 +27447,7 @@
   "MAD 302E",
   "Mining and Environment",
   "MAD",
-  3
+  4
  ],
  [
   "MAD 304E",
@@ -28293,7 +28347,7 @@
   "MAK 315E",
   "Mechanical Vibrations",
   "MAK",
-  8
+  9
  ],
  [
   "MAK 317",
@@ -28974,6 +29028,12 @@
   14
  ],
  [
+  "MAK 602E",
+  "Micro Scale Heat Transfer",
+  "MAK",
+  1
+ ],
+ [
   "MAK 605",
   "Türbomak.Aero-Termodinamiği",
   "MAK",
@@ -29016,6 +29076,12 @@
   1
  ],
  [
+  "MAK 647",
+  "Imalatta Malzeme Modelleme",
+  "MAK",
+  1
+ ],
+ [
   "MAK 682",
   "Plak ve Kabuklar Teorisi",
   "MAK",
@@ -29030,6 +29096,12 @@
  [
   "MAK 692E",
   "Statis.Thermodyn.of Ther.Sys.",
+  "MAK",
+  1
+ ],
+ [
+  "MAK 696E",
+  "Scien.Rese., Ethic&Seminar",
   "MAK",
   1
  ],
@@ -30246,8 +30318,26 @@
   1
  ],
  [
+  "MBM 515E",
+  "Modern Surface Modif.Tech.",
+  "MBM",
+  1
+ ],
+ [
+  "MBM 516E",
+  "Principles of Tribology",
+  "MBM",
+  1
+ ],
+ [
   "MBM 518",
   "Paslanmaz Çeliklerin Temelleri ve Teknolojileri",
+  "MBM",
+  1
+ ],
+ [
+  "MBM 596",
+  "Bilimsel Araş.,Etik ve Seminer",
   "MBM",
   1
  ],
@@ -30266,6 +30356,12 @@
  [
   "MBM 603",
   "Malzeme.Kimyasal&Elektro.Davr.",
+  "MBM",
+  1
+ ],
+ [
+  "MBM 613",
+  "İnce Filmlerin Optik Davranışı",
   "MBM",
   1
  ],
@@ -30314,6 +30410,12 @@
  [
   "MDK 591E",
   "Dynamical Sys.Model.&Simu.",
+  "MDK",
+  1
+ ],
+ [
+  "MDK 592",
+  "Mekanik Sist.Bilgis.Kontrolu",
   "MDK",
   1
  ],
@@ -30429,7 +30531,7 @@
   "MEK 207",
   "Mühendislik Mekaniği",
   "MEK",
-  12
+  13
  ],
  [
   "MEN 201",
@@ -31206,6 +31308,12 @@
   1
  ],
  [
+  "MIA 502E",
+  "Num.Meth.In Fluid Flow&Heat T",
+  "MIA",
+  1
+ ],
+ [
   "MIA 503E",
   "Advanced Fluid Dynamics",
   "MIA",
@@ -31224,6 +31332,12 @@
   1
  ],
  [
+  "MIA 511",
+  "Hidrodinamik",
+  "MIA",
+  1
+ ],
+ [
   "MIA 515",
   "Isı İletimi",
   "MIA",
@@ -31238,6 +31352,12 @@
  [
   "MIA 596",
   "Bilimsel Araş.,Etik ve Seminer",
+  "MIA",
+  1
+ ],
+ [
+  "MIA 596E",
+  "Scien.Research, Ethic&Seminar",
   "MIA",
   1
  ],
@@ -32892,6 +33012,18 @@
   1
  ],
  [
+  "MKC 501E",
+  "Engineering Mathematics",
+  "MKC",
+  1
+ ],
+ [
+  "MKC 517E",
+  "Special Topi.in Solid Mechan.",
+  "MKC",
+  1
+ ],
+ [
   "MKC 521",
   "Elastisite Teorisi",
   "MKC",
@@ -34052,6 +34184,12 @@
  [
   "MTA 555",
   "Gürültü Ve Titreşim Kontrolü",
+  "MTA",
+  1
+ ],
+ [
+  "MTA 556E",
+  "Modal Testing",
   "MTA",
   1
  ],
@@ -35361,7 +35499,7 @@
   "MTR 142",
   "Makam Teorisi II",
   "MTR",
-  11
+  12
  ],
  [
   "MTR 143",
@@ -35445,7 +35583,7 @@
   "MTR 208",
   "Teori Uygulama II",
   "MTR",
-  11
+  12
  ],
  [
   "MTR 221",
@@ -35505,7 +35643,7 @@
   "MTR 242",
   "Makam Teorisi IV",
   "MTR",
-  11
+  12
  ],
  [
   "MTR 243",
@@ -35685,7 +35823,7 @@
   "MTR 434",
   "Eser Çözümleme II",
   "MTR",
-  11
+  12
  ],
  [
   "MTR 435",
@@ -39572,6 +39710,12 @@
  [
   "RBT 596",
   "Bilimsel Araş.,Etik ve Seminer",
+  "RBT",
+  1
+ ],
+ [
+  "RBT YLT",
+  "Tez Çalışması",
   "RBT",
   1
  ],
@@ -43872,6 +44016,12 @@
   1
  ],
  [
+  "TEL 503E",
+  "Applied EM Theory",
+  "TEL",
+  1
+ ],
+ [
   "TEL 505E",
   "Mobile Commun.Systems",
   "TEL",
@@ -43914,6 +44064,12 @@
   1
  ],
  [
+  "TEL 518E",
+  "Theory of Functions of Complex Variables",
+  "TEL",
+  1
+ ],
+ [
   "TEL 519E",
   "Image Processing",
   "TEL",
@@ -43934,6 +44090,12 @@
  [
   "TEL 611E",
   "Electromag.wave prop.&Sca.",
+  "TEL",
+  1
+ ],
+ [
+  "TEL 612",
+  "Radar Kesit Ala.Kest.&Düşür.Te",
   "TEL",
   1
  ],

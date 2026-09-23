@@ -20,7 +20,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -47,7 +47,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 10,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -73,8 +73,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 40,
-  "enrolled": 40,
+  "capacity": 50,
+  "enrolled": 49,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -128,7 +128,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -209,7 +209,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 12,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -236,7 +236,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 27,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -263,7 +263,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 7,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -344,7 +344,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 5,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -371,7 +371,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 33,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -434,7 +434,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 43,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -2273,7 +2273,7 @@
    "Salı"
   ],
   "times": [
-   "13:00/15:59"
+   "13:00/14:59"
   ],
   "rooms": [
    "--"

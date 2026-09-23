@@ -31,6 +31,13 @@
     5
    ],
    [
+    "2026-2027-guz",
+    "CAB 332",
+    "Keman VI",
+    0,
+    0
+   ],
+   [
     "2025-2026-bahar",
     "CAB 232",
     "Keman IV",
@@ -491,7 +498,7 @@
     "KOM 596",
     "Bilimsel Araş.,Etik ve Seminer",
     40,
-    14
+    15
    ]
   ],
   "terms": 1
@@ -755,7 +762,14 @@
     "TEL 515",
     "Istatistiksel Işaret Işleme",
     40,
-    27
+    28
+   ],
+   [
+    "2026-2027-guz",
+    "TEL 515",
+    "Istatistiksel Işaret Işleme",
+    0,
+    0
    ],
    [
     "2025-2026-bahar",
@@ -1885,7 +1899,7 @@
     "TEL 517",
     "Bilgi Kuramı",
     40,
-    30
+    31
    ],
    [
     "2025-2026-bahar",
@@ -3022,7 +3036,7 @@
     "PST 511E",
     "Fun. of Polymer Chemistry",
     25,
-    12
+    13
    ],
    [
     "2025-2026-bahar",
@@ -4418,7 +4432,7 @@
     "KIM 539",
     "Organik Reak.Mekanizma. I",
     30,
-    28
+    30
    ],
    [
     "2025-2026-bahar",
@@ -5637,8 +5651,8 @@
     "2026-2027-guz",
     "KIM 519",
     "Makrosiklik Bileşikler Kimyası",
-    20,
-    20
+    25,
+    24
    ],
    [
     "2025-2026-bahar",
@@ -7620,7 +7634,7 @@
     "GGP 503",
     "Gayrimenkul Projel.Strat.Planl",
     20,
-    12
+    15
    ]
   ],
   "terms": 1
@@ -7640,7 +7654,7 @@
     "MKM 505E",
     "Advanced Cont.Meth.Mechatronic",
     50,
-    45
+    48
    ],
    [
     "2025-2026-bahar",
@@ -7792,14 +7806,14 @@
     "BLG 513E",
     "Image Processing",
     25,
-    25
+    24
    ],
    [
     "2026-2027-guz",
     "BLG DRT",
     "Tez Çalışması",
     200,
-    34
+    36
    ],
    [
     "2026-2027-guz",
@@ -7813,7 +7827,7 @@
     "BLG YLT",
     "Tez Çalışması",
     200,
-    61
+    62
    ],
    [
     "2025-2026-bahar",
@@ -8450,6 +8464,20 @@
   "name": "İlker Murat Koç",
   "rows": [
    [
+    "2026-2027-guz",
+    "MDK 591E",
+    "Dynamical Sys.Model.\u0026Simu.",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "MDK 592",
+    "Mekanik Sist.Bilgis.Kontrolu",
+    0,
+    0
+   ],
+   [
     "2022-2023-guz",
     "MAK 403",
     "Uygulamalı Makina Projesi",
@@ -8625,11 +8653,18 @@
     33
    ]
   ],
-  "terms": 11
+  "terms": 12
  },
  "İlker Üstoğlu": {
   "name": "İlker Üstoğlu",
   "rows": [
+   [
+    "2026-2027-guz",
+    "KOM 510",
+    "Optimal Kontrol Kuramı",
+    0,
+    0
+   ],
    [
     "2026-2027-guz",
     "KON 405E",
@@ -8907,7 +8942,7 @@
     "GDP YLT",
     "Tez Çalışması",
     200,
-    2
+    4
    ],
    [
     "2026-2027-guz",
@@ -12314,7 +12349,7 @@
     "YTT 517E",
     "Medical Textiles",
     30,
-    3
+    4
    ],
    [
     "2025-2026-bahar",
@@ -13576,7 +13611,7 @@
     "JEO 555",
     "Yeraltı Sularının Değerlendir.",
     20,
-    2
+    3
    ],
    [
     "2026-2027-guz",
@@ -14028,7 +14063,7 @@
     "NUK 517E",
     "Fundamentals of Plasma Physics",
     20,
-    2
+    3
    ],
    [
     "2026-2027-guz",
@@ -14043,6 +14078,13 @@
     "Nükleer Enerji Politika\u0026Hukuku",
     20,
     0
+   ],
+   [
+    "2026-2027-guz",
+    "RBT YLT",
+    "Tez Çalışması",
+    200,
+    2
    ],
    [
     "2021-2022-bahar",
@@ -14069,14 +14111,14 @@
     "BTT 511E",
     "Energy, Transport and Society",
     12,
-    8
+    10
    ],
    [
     "2026-2027-guz",
     "UUM 543E",
     "Spec.Top.in Aeron.\u0026Astron.Eng.",
     40,
-    7
+    8
    ],
    [
     "2023-2024-bahar",
@@ -14715,7 +14757,7 @@
     "UUM 534E",
     "Aircraft Flight Control Systems",
     40,
-    29
+    30
    ],
    [
     "2023-2024-guz",
@@ -16995,7 +17037,7 @@
     "2026-2027-guz",
     "CEV 401",
     "Atıksu Arıtma Tesisi Tas.",
-    60,
+    70,
     60
    ],
    [
@@ -17177,6 +17219,13 @@
     "Network Syn.\u0026Passi.Filter Des.",
     30,
     30
+   ],
+   [
+    "2026-2027-guz",
+    "ELE 531E",
+    "Network Syn.\u0026Passi.Filter Des.",
+    0,
+    0
    ],
    [
     "2025-2026-bahar",

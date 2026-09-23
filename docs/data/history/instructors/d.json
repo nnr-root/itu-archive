@@ -2698,7 +2698,7 @@
     "YIP 515E",
     "Sustainable Construction",
     20,
-    14
+    15
    ],
    [
     "2025-2026-bahar",
@@ -6031,7 +6031,7 @@
     "BBL 540E",
     "Quantum Data Structures and Algorithms",
     15,
-    5
+    6
    ],
    [
     "2026-2027-guz",
@@ -6233,7 +6233,7 @@
     "ELK 506E",
     "A.Design of Swit M.Power Suppl",
     15,
-    9
+    10
    ],
    [
     "2026-2027-guz",
@@ -6435,7 +6435,7 @@
     "ICM 506E",
     "Research Methods for Interior Architecture",
     15,
-    3
+    5
    ],
    [
     "2026-2027-guz",
@@ -7410,14 +7410,14 @@
     "ELK 507",
     "Elektrik Makinalarında Harm.",
     15,
-    10
+    12
    ],
    [
     "2026-2027-guz",
     "ELK 503E",
     "Power Electronic Systems",
-    40,
-    40
+    50,
+    49
    ],
    [
     "2026-2027-guz",
@@ -8038,14 +8038,14 @@
     "MBL 555E",
     "Digital.of Archite.Heritage",
     20,
-    3
+    4
    ],
    [
     "2026-2027-guz",
     "MBL 596",
     "Bilimsel Araş.,Etik ve Seminer",
     15,
-    14
+    15
    ],
    [
     "2026-2027-guz",
@@ -8296,7 +8296,7 @@
     "ISL 603",
     "Teknoloji,Kürese.\u0026İktis.Perfo.",
     15,
-    7
+    8
    ],
    [
     "2026-2027-guz",
@@ -8463,7 +8463,7 @@
     "GID 526E",
     "Valoriza.of Indust.Food Waste",
     10,
-    4
+    5
    ],
    [
     "2025-2026-bahar",
@@ -9488,6 +9488,13 @@
     "CAB 278",
     "Piyano IV",
     15,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "CAB 444",
+    "Yrd.Çalgı Piyano VIII",
+    0,
     0
    ],
    [
@@ -13142,14 +13149,14 @@
     "GIT 503E",
     "Princip.of Geo-Informat.Syste.",
     25,
-    4
+    5
    ],
    [
     "2026-2027-guz",
     "GIT 524E",
     "Environmental GIS",
     20,
-    4
+    5
    ],
    [
     "2026-2027-guz",
@@ -13163,7 +13170,7 @@
     "GIT DRT",
     "Tez Çalışması",
     200,
-    3
+    4
    ],
    [
     "2026-2027-guz",
@@ -13477,14 +13484,14 @@
     "MAM 503E",
     "Structure\u0026Crystallography",
     60,
-    50
+    53
    ],
    [
     "2026-2027-guz",
     "MBM DRT",
     "Tez Çalışması",
     200,
-    8
+    10
    ],
    [
     "2026-2027-guz",
@@ -13498,7 +13505,7 @@
     "MBM YLT",
     "Tez Çalışması",
     200,
-    16
+    17
    ],
    [
     "2026-2027-guz",
@@ -14188,7 +14195,7 @@
     "UUM 511",
     "Viskoz Akışı",
     60,
-    13
+    14
    ],
    [
     "2026-2027-guz",
@@ -14445,7 +14452,7 @@
     "EBT 557E",
     "Energy Systems for Buildings",
     20,
-    2
+    3
    ]
   ],
   "terms": 1

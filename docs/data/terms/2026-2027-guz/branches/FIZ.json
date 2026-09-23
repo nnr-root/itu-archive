@@ -12907,7 +12907,7 @@
    "B4_Z05"
   ],
   "capacity": 30,
-  "enrolled": 9,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -12938,7 +12938,7 @@
    "B4_Z05"
   ],
   "capacity": 30,
-  "enrolled": 4,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -12965,7 +12965,7 @@
    "B4_Z05"
   ],
   "capacity": 30,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -12992,7 +12992,7 @@
    "B4_Z05"
   ],
   "capacity": 30,
-  "enrolled": 10,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -13019,7 +13019,7 @@
    "B4_Z05"
   ],
   "capacity": 30,
-  "enrolled": 3,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -13073,7 +13073,7 @@
    "B4_Z05"
   ],
   "capacity": 30,
-  "enrolled": 7,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -13121,7 +13121,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 11,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -13142,7 +13142,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 4,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -13163,7 +13163,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 12,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -14683,7 +14683,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 2,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -14935,6 +14935,33 @@
   "reserved": "-",
   "programs": [],
   "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15741",
+  "code": "FIZ 532E",
+  "branch": "FIZ",
+  "level": "LU",
+  "name": "Lasers and Photonics",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Yağız Morova",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Perşembe"
+  ],
+  "times": [
+   "09:00/11:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
   "classReq": "-"
  }
 ]

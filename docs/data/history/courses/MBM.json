@@ -10,7 +10,7 @@
     "2026-2027-guz",
     "Nuri Solak",
     40,
-    17,
+    19,
     "Perşembe"
    ]
   ]
@@ -47,6 +47,38 @@
    ]
   ]
  },
+ "MBM 515E": {
+  "code": "MBM 515E",
+  "name": "Modern Surface Modif.Tech.",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Muhammet Kürşat Kazmanlı",
+    0,
+    0,
+    "Çarşamba"
+   ]
+  ]
+ },
+ "MBM 516E": {
+  "code": "MBM 516E",
+  "name": "Principles of Tribology",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Hüseyin Çimenoğlu",
+    0,
+    0,
+    "Salı"
+   ]
+  ]
+ },
  "MBM 518": {
   "code": "MBM 518",
   "name": "Paslanmaz Çeliklerin Temelleri ve Teknolojileri",
@@ -58,8 +90,24 @@
     "2026-2027-guz",
     "Cevat Fahir Arısoy",
     30,
-    2,
+    3,
     "Perşembe"
+   ]
+  ]
+ },
+ "MBM 596": {
+  "code": "MBM 596",
+  "name": "Bilimsel Araş.,Etik ve Seminer",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Nuri Solak",
+    0,
+    0,
+    "Pazartesi"
    ]
   ]
  },
@@ -74,7 +122,7 @@
     "2026-2027-guz",
     "Yonca Alkan Göksu",
     30,
-    9,
+    10,
     "Çarşamba"
    ]
   ]
@@ -90,8 +138,15 @@
     "2026-2027-guz",
     "Erçin Çağan Duran",
     40,
-    6,
+    7,
     "Salı"
+   ],
+   [
+    "2026-2027-guz",
+    "Erçin Çağan Duran",
+    0,
+    0,
+    "Cuma"
    ]
   ]
  },
@@ -111,6 +166,22 @@
    ]
   ]
  },
+ "MBM 613": {
+  "code": "MBM 613",
+  "name": "İnce Filmlerin Optik Davranışı",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Berna Morova",
+    0,
+    0,
+    "Perşembe"
+   ]
+  ]
+ },
  "MBM DRT": {
   "code": "MBM DRT",
   "name": "Tez Çalışması",
@@ -122,7 +193,7 @@
     "2026-2027-guz",
     "Duygu Ağaoğulları",
     200,
-    8,
+    10,
     ""
    ]
   ]
@@ -154,7 +225,7 @@
     "2026-2027-guz",
     "Duygu Ağaoğulları",
     200,
-    16,
+    17,
     ""
    ]
   ]

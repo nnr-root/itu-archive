@@ -1872,5 +1872,104 @@
   ],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "15763",
+  "code": "MTR 434",
+  "branch": "MTR",
+  "level": "LS",
+  "name": "Eser Çözümleme II",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Neşe Yeşim Altınel Çoban",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CAB_LS",
+   "CEB_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15765",
+  "code": "MTR 142",
+  "branch": "MTR",
+  "level": "LS",
+  "name": "Makam Teorisi II",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Ali İhsan Alemli",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "BST_LS",
+   "CAB_LS",
+   "CEB_LS",
+   "KMP_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15766",
+  "code": "MTR 242",
+  "branch": "MTR",
+  "level": "LS",
+  "name": "Makam Teorisi IV",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Ali İhsan Alemli",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "BST_LS",
+   "CAB_LS",
+   "CEB_LS",
+   "KMP_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15768",
+  "code": "MTR 208",
+  "branch": "MTR",
+  "level": "LS",
+  "name": "Teori Uygulama II",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Süleyman Şenel",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "MTR_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
  }
 ]

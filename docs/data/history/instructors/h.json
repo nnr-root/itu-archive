@@ -133,6 +133,13 @@
     11
    ],
    [
+    "2026-2027-guz",
+    "ELE 505E",
+    "L-volt. Anal. Integ.Cir.Desig",
+    0,
+    0
+   ],
+   [
     "2025-2026-yaz",
     "EEF 262E",
     "Fundamentals of Electronics",
@@ -234,7 +241,7 @@
     "PST 511E",
     "Fun. of Polymer Chemistry",
     25,
-    12
+    13
    ],
    [
     "2025-2026-bahar",
@@ -1110,10 +1117,17 @@
    ],
    [
     "2026-2027-guz",
+    "MKC 501E",
+    "Engineering Mathematics",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
     "MKS 596",
     "Bilimsel Araş.,Etik ve Seminer",
     30,
-    25
+    28
    ],
    [
     "2025-2026-yaz",
@@ -1822,7 +1836,7 @@
     "HSK 505",
     "Su Hukuku ve Politikası",
     20,
-    3
+    5
    ],
    [
     "2026-2027-guz",
@@ -2549,6 +2563,20 @@
     "Communication Tech. and Syst.",
     50,
     16
+   ],
+   [
+    "2026-2027-guz",
+    "ELE 696",
+    "Bilimsel Araş.,Etik ve Seminer",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "TEL 502E",
+    "Detection and Estimation Theo.",
+    0,
+    0
    ],
    [
     "2025-2026-bahar",
@@ -3565,7 +3593,7 @@
     "MYE 502E",
     "Music Business\u0026Management",
     40,
-    2
+    3
    ],
    [
     "2026-2027-guz",
@@ -5479,14 +5507,14 @@
     "MBL 533E",
     "Computer Aided Arch.Design",
     20,
-    9
+    10
    ],
    [
     "2026-2027-guz",
     "MBL 538",
     "Sanal Mimari Tasar.Stüdyosu",
     12,
-    7
+    9
    ],
    [
     "2026-2027-guz",
@@ -6601,6 +6629,19 @@
    ]
   ],
   "terms": 17
+ },
+ "Hakan TİRYAKİ": {
+  "name": "Hakan TİRYAKİ",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "DEN 351",
+    "Sörvey ve Sertifikasyon Süreçlerine Giriş",
+    30,
+    20
+   ]
+  ],
+  "terms": 1
  },
  "Hakan Yaman": {
   "name": "Hakan Yaman",
@@ -7941,6 +7982,19 @@
   ],
   "terms": 14
  },
+ "Hakkı Celalettin Asım Şengör": {
+  "name": "Hakkı Celalettin Asım Şengör",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "DTM 610E",
+    "Spec.Top.in Shipbu.\u0026Oce.Eng.",
+    20,
+    1
+   ]
+  ],
+  "terms": 1
+ },
  "Hakkı Tonguç Tokol": {
   "name": "Hakkı Tonguç Tokol",
   "rows": [
@@ -7990,7 +8044,7 @@
     "FIZ 503E",
     "Mathematical Methods in Phy",
     30,
-    4
+    6
    ],
    [
     "2020-2021-bahar",
@@ -9054,7 +9108,7 @@
     "CBM 551E",
     "Energy Effi.in Wastewat.Treat.",
     30,
-    4
+    6
    ],
    [
     "2026-2027-guz",
@@ -9067,7 +9121,7 @@
     "2026-2027-guz",
     "CEV 401",
     "Atıksu Arıtma Tesisi Tas.",
-    60,
+    70,
     60
    ],
    [
@@ -9130,7 +9184,7 @@
     "CKY 533",
     "Proje I",
     30,
-    9
+    10
    ],
    [
     "2026-2027-guz",
@@ -11561,21 +11615,21 @@
     "UUM YLT",
     "Tez Çalışması",
     200,
-    53
+    57
    ],
    [
     "2026-2027-guz",
     "UUM DRT",
     "Tez Çalışması",
     200,
-    44
+    47
    ],
    [
     "2026-2027-guz",
     "UUM YET",
     "Yeterlik Aşaması",
     200,
-    15
+    16
    ],
    [
     "2025-2026-yaz",
@@ -15201,7 +15255,7 @@
     "EBT 503E",
     "Advanced Thermodynamics",
     20,
-    8
+    9
    ],
    [
     "2026-2027-guz",
@@ -15263,7 +15317,7 @@
     "MAD YLT",
     "Tez Çalışması",
     200,
-    5
+    7
    ],
    [
     "2025-2026-bahar",
@@ -15689,7 +15743,7 @@
     "EBT 509",
     "Kömür Bilimi ve Teknolojisi",
     10,
-    7
+    8
    ],
    [
     "2026-2027-guz",
@@ -15710,7 +15764,7 @@
     "KMM 596",
     "Bilimsel Araş.,Etik ve Seminer",
     40,
-    14
+    15
    ],
    [
     "2026-2027-guz",
@@ -17046,7 +17100,7 @@
     "MAD 557E",
     "Cement Raw Materials\u0026Prepar.",
     30,
-    1
+    2
    ],
    [
     "2026-2027-guz",
@@ -17240,7 +17294,14 @@
     "MIA 503E",
     "Advanced Fluid Dynamics",
     50,
-    32
+    35
+   ],
+   [
+    "2026-2027-guz",
+    "MIA 502E",
+    "Num.Meth.In Fluid Flow\u0026Heat T",
+    0,
+    0
    ],
    [
     "2025-2026-yaz",
@@ -17761,7 +17822,7 @@
     "BVT 502E",
     "Historiogr.for History of Sci.",
     10,
-    2
+    4
    ],
    [
     "2026-2027-guz",
@@ -18448,7 +18509,7 @@
     "MIT 513",
     "Avrupa Mimarlığı",
     15,
-    0
+    2
    ]
   ],
   "terms": 1
@@ -24465,7 +24526,7 @@
     "EBT 551E",
     "Zero Energy Buildings",
     20,
-    10
+    11
    ],
    [
     "2026-2027-guz",
@@ -24479,7 +24540,7 @@
     "EBT 557E",
     "Energy Systems for Buildings",
     20,
-    2
+    3
    ]
   ],
   "terms": 1
@@ -24582,7 +24643,7 @@
     "MTS 531E",
     "Special Topics in Arch.Design",
     15,
-    6
+    7
    ],
    [
     "2026-2027-guz",
@@ -25320,7 +25381,7 @@
     "CBM 502E",
     "S.Analy.for Exp.Design\u0026Data PR",
     30,
-    14
+    16
    ],
    [
     "2026-2027-guz",
@@ -27126,7 +27187,7 @@
     "BLG 609E",
     "Advanced Topics in Comp. Eng.",
     20,
-    2
+    4
    ],
    [
     "2026-2027-guz",
@@ -27397,6 +27458,27 @@
     "2026-2027-guz",
     "CAB 452",
     "Kanun VIII",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "CAB 746",
+    "Toplu Uygulama IV (TSM)",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "CAB 756",
+    "Toplu Uygulama VI (TSM)",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "CAB 766",
+    "Toplu Uygulama VIII (TSM)",
     0,
     0
    ]
@@ -29463,7 +29545,7 @@
     "ISS 509E",
     "Marketing Management",
     50,
-    24
+    26
    ],
    [
     "2026-2027-guz",
@@ -30181,7 +30263,7 @@
     "CKY 537E",
     "Research Methods in Architectural Technology",
     18,
-    14
+    15
    ],
    [
     "2026-2027-guz",
@@ -31356,7 +31438,7 @@
     "CHZ 509",
     "Değerli Metallerin Zenginleşt.",
     20,
-    2
+    3
    ],
    [
     "2025-2026-bahar",
@@ -31744,7 +31826,7 @@
     "ENB 509E",
     "Bio.Processing of Solid Wastes",
     30,
-    1
+    2
    ],
    [
     "2025-2026-bahar",
@@ -32050,14 +32132,14 @@
     "GAM 501E",
     "Introd.to Game Design\u0026Devel.",
     30,
-    17
+    23
    ],
    [
     "2026-2027-guz",
     "GAM 506EC",
     "Spec.Topics in Game Des.\u0026Dev.",
     30,
-    8
+    10
    ]
   ],
   "terms": 1
@@ -33831,14 +33913,21 @@
     "MAM 505",
     "Hasar Analizi",
     60,
-    44
+    48
+   ],
+   [
+    "2026-2027-guz",
+    "MBM 516E",
+    "Principles of Tribology",
+    0,
+    0
    ],
    [
     "2026-2027-guz",
     "MET 610E",
     "Principles of Tribology",
     20,
-    6
+    7
    ],
    [
     "2025-2026-bahar",
@@ -34341,14 +34430,14 @@
     "YSB 571E",
     "Physics\u0026Chem.of Clim.Sys.",
     25,
-    6
+    7
    ],
    [
     "2026-2027-guz",
     "YSB 596E",
     "Scien.Rese., Ethic\u0026Seminar",
     25,
-    0
+    2
    ]
   ],
   "terms": 1

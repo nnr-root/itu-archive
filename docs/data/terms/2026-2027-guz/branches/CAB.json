@@ -5293,5 +5293,250 @@
   ],
   "prereq": "Detay",
   "classReq": "-"
+ },
+ {
+  "crn": "15754",
+  "code": "CAB 332",
+  "branch": "CAB",
+  "level": "LS",
+  "name": "Keman VI",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Ibragım Orazov",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CAB_LS",
+   "CEB_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15755",
+  "code": "CAB 344",
+  "branch": "CAB",
+  "level": "LS",
+  "name": "Yrd.Çalgı Piyano VI",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Sıtkı Kandemir Basmacıoğlu",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "BST_LS",
+   "CAB_LS",
+   "CEB_LS",
+   "KMP_LS",
+   "SES_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15756",
+  "code": "CAB 431",
+  "branch": "CAB",
+  "level": "LS",
+  "name": "Keman VII",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Ahmet Hakan Şensoy",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CAB_LS",
+   "CEB_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15757",
+  "code": "CAB 432",
+  "branch": "CAB",
+  "level": "LS",
+  "name": "Keman VIII",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Ahmet Hakan Şensoy",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CAB_LS",
+   "CEB_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15758",
+  "code": "CAB 444",
+  "branch": "CAB",
+  "level": "LS",
+  "name": "Yrd.Çalgı Piyano VIII",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Devlet Devrim Öztaş",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "BST_LS",
+   "CAB_LS",
+   "CEB_LS",
+   "KMP_LS",
+   "SES_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15759",
+  "code": "CAB 724",
+  "branch": "CAB",
+  "level": "LS",
+  "name": "Oda Müziği IV",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Barış Kerem Bahar",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CAB_LS",
+   "CEB_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15760",
+  "code": "CAB 746",
+  "branch": "CAB",
+  "level": "LS",
+  "name": "Toplu Uygulama IV (TSM)",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Hidayet Timur Sarıca",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CAB_LS",
+   "CEB_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15761",
+  "code": "CAB 756",
+  "branch": "CAB",
+  "level": "LS",
+  "name": "Toplu Uygulama VI (TSM)",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Hidayet Timur Sarıca",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CAB_LS",
+   "CEB_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15762",
+  "code": "CAB 766",
+  "branch": "CAB",
+  "level": "LS",
+  "name": "Toplu Uygulama VIII (TSM)",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Hidayet Timur Sarıca",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CAB_LS",
+   "CEB_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15764",
+  "code": "CAB 280",
+  "branch": "CAB",
+  "level": "LS",
+  "name": "Koltuk Davul II",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Salim Sınar",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "THO_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
  }
 ]

@@ -1,18 +1,18 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-23T07:44:50Z",
+ "scrapedAt": "2026-09-23T13:42:59Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5294,
- "courses": 3762,
+ "sections": 5359,
+ "courses": 3807,
  "branches": [
   {
    "code": "AAR",
    "levels": [
     "LU"
    ],
-   "sections": 1
+   "sections": 2
   },
   {
    "code": "ABM",
@@ -75,7 +75,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 13
+   "sections": 15
   },
   {
    "code": "BBL",
@@ -195,7 +195,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 183
+   "sections": 193
   },
   {
    "code": "CBM",
@@ -406,7 +406,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 77
+   "sections": 79
   },
   {
    "code": "EHN",
@@ -427,7 +427,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 13
+   "sections": 20
   },
   {
    "code": "ELK",
@@ -494,7 +494,7 @@
     "LS",
     "LU"
    ],
-   "sections": 203
+   "sections": 204
   },
   {
    "code": "FRA",
@@ -831,14 +831,14 @@
    "levels": [
     "LS"
    ],
-   "sections": 38
+   "sections": 39
   },
   {
    "code": "KOM",
    "levels": [
     "LU"
    ],
-   "sections": 15
+   "sections": 18
   },
   {
    "code": "KON",
@@ -873,7 +873,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 11
+   "sections": 12
   },
   {
    "code": "MAD",
@@ -881,7 +881,7 @@
     "LS",
     "LU"
    ],
-   "sections": 44
+   "sections": 45
   },
   {
    "code": "MAK",
@@ -889,7 +889,7 @@
     "LS",
     "LU"
    ],
-   "sections": 135
+   "sections": 140
   },
   {
    "code": "MAL",
@@ -939,14 +939,14 @@
    "levels": [
     "LU"
    ],
-   "sections": 10
+   "sections": 15
   },
   {
    "code": "MDK",
    "levels": [
     "LU"
    ],
-   "sections": 4
+   "sections": 7
   },
   {
    "code": "MDN",
@@ -967,7 +967,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 7
+   "sections": 8
   },
   {
    "code": "MEN",
@@ -1003,7 +1003,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 8
+   "sections": 11
   },
   {
    "code": "MIM",
@@ -1031,7 +1031,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 4
+   "sections": 7
   },
   {
    "code": "MKM",
@@ -1059,7 +1059,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 5
+   "sections": 6
   },
   {
    "code": "MOD",
@@ -1094,7 +1094,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 5
+   "sections": 8
   },
   {
    "code": "MTH",
@@ -1123,7 +1123,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 59
+   "sections": 63
   },
   {
    "code": "MTS",
@@ -1207,7 +1207,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 12
+   "sections": 13
   },
   {
    "code": "NUK",
@@ -1279,7 +1279,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 1
+   "sections": 2
   },
   {
    "code": "RES",
@@ -1478,7 +1478,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 16
+   "sections": 22
   },
   {
    "code": "TER",
@@ -1657,11 +1657,11 @@
   }
  ],
  "stats": {
-  "sections": 5294,
-  "courses": 3762,
+  "sections": 5359,
+  "courses": 3807,
   "branches": 232,
-  "instructors": 1975,
-  "capacity": 261342,
-  "enrolled": 121290
+  "instructors": 1981,
+  "capacity": 261995,
+  "enrolled": 122283
  }
 }

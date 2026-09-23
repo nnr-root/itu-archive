@@ -441,5 +441,71 @@
   ],
   "prereq": "Detay",
   "classReq": "-"
+ },
+ {
+  "crn": "15730",
+  "code": "BBF 303E",
+  "branch": "BBF",
+  "level": "LS",
+  "name": "Analysis of Algorithms II",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Mehmet Ali Ertürk",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Perşembe"
+  ],
+  "times": [
+   "08:30/11:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 100,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "BLG_LS",
+   "BLGE_LS",
+   "CES_LS",
+   "SECE_LS",
+   "YZVE_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15742",
+  "code": "BBF 302E",
+  "branch": "BBF",
+  "level": "LS",
+  "name": "Database Systems",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Abdullah Cihan Ak",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "08:30/11:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 80,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "BLG_LS",
+   "BLGE_LS",
+   "CES_LS",
+   "SECE_LS",
+   "YZVE_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
  }
 ]

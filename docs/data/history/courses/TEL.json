@@ -417,8 +417,15 @@
     "2026-2027-guz",
     "Bilge Günsel",
     40,
-    21,
+    22,
     "Salı"
+   ],
+   [
+    "2026-2027-guz",
+    "Hakan Ali Çırpan",
+    0,
+    0,
+    "Cuma"
    ]
   ]
  },
@@ -435,6 +442,22 @@
     40,
     19,
     "Salı"
+   ]
+  ]
+ },
+ "TEL 503E": {
+  "code": "TEL 503E",
+  "name": "Applied EM Theory",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Ali Yapar",
+    0,
+    0,
+    "Cuma"
    ]
   ]
  },
@@ -467,6 +490,13 @@
     20,
     20,
     "Cuma"
+   ],
+   [
+    "2026-2027-guz",
+    "Mesut Kartal",
+    0,
+    0,
+    "Salı"
    ]
   ]
  },
@@ -513,8 +543,15 @@
     "2026-2027-guz",
     "Işın Erer",
     40,
-    27,
+    28,
     "Çarşamba"
+   ],
+   [
+    "2026-2027-guz",
+    "Işın Erer",
+    0,
+    0,
+    "Pazartesi"
    ]
   ]
  },
@@ -545,8 +582,24 @@
     "2026-2027-guz",
     "İbrahim Altunbaş",
     40,
-    30,
+    31,
     "Çarşamba"
+   ]
+  ]
+ },
+ "TEL 518E": {
+  "code": "TEL 518E",
+  "name": "Theory of Functions of Complex Variables",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Özgür Özdemir",
+    0,
+    0,
+    "Cuma"
    ]
   ]
  },
@@ -561,7 +614,7 @@
     "2026-2027-guz",
     "Ender Mete Ekşioğlu",
     20,
-    9,
+    12,
     "Perşembe"
    ]
   ]
@@ -614,6 +667,22 @@
    ]
   ]
  },
+ "TEL 612": {
+  "code": "TEL 612",
+  "name": "Radar Kesit Ala.Kest.&Düşür.Te",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Funda Akleman Yapar",
+    0,
+    0,
+    "Cuma"
+   ]
+  ]
+ },
  "TEL DRT": {
   "code": "TEL DRT",
   "name": "Tez Çalışması",
@@ -625,7 +694,7 @@
     "2026-2027-guz",
     "Ender Mete Ekşioğlu",
     200,
-    5,
+    6,
     ""
    ]
   ]
@@ -657,7 +726,7 @@
     "2026-2027-guz",
     "Ender Mete Ekşioğlu",
     200,
-    26,
+    29,
     ""
    ]
   ]

@@ -207,7 +207,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "2D14"
+   "ZA1"
   ],
   "capacity": 61,
   "enrolled": 61,
@@ -1663,7 +1663,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 1,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1759,7 +1759,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 6,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1780,7 +1780,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 1,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
