@@ -19,7 +19,7 @@
   "rooms": [
    "D353"
   ],
-  "capacity": 30,
+  "capacity": 40,
   "enrolled": 21,
   "reserved": "-",
   "programs": [],
@@ -46,8 +46,8 @@
   "rooms": [
    "D368B"
   ],
-  "capacity": 30,
-  "enrolled": 21,
+  "capacity": 40,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -95,7 +95,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 16,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

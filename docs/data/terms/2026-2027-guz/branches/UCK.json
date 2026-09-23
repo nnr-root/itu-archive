@@ -50,7 +50,7 @@
   "rooms": [
    "1D9"
   ],
-  "capacity": 80,
+  "capacity": 70,
   "enrolled": 69,
   "reserved": "-",
   "programs": [
@@ -366,7 +366,8 @@
   "enrolled": 34,
   "reserved": "-",
   "programs": [
-   "UCK_LS"
+   "UCK_LS",
+   "UCK_YD"
   ],
   "prereq": "-",
   "classReq": "-"
@@ -395,7 +396,8 @@
   "enrolled": 30,
   "reserved": "-",
   "programs": [
-   "UCK_LS"
+   "UCK_LS",
+   "UCK_YD"
   ],
   "prereq": "-",
   "classReq": "-"

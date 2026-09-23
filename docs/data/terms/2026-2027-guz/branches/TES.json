@@ -1485,5 +1485,40 @@
   ],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "15682",
+  "code": "TES 111E",
+  "branch": "TES",
+  "level": "LS",
+  "name": "Project I",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Meltem Maralcan Gülmen",
+  "buildings": [
+   "undeclared",
+   "undeclared"
+  ],
+  "days": [
+   "Pazartesi",
+   "Perşembe"
+  ],
+  "times": [
+   "08:30/12:29",
+   "08:30/12:29"
+  ],
+  "rooms": [
+   "--",
+   "--"
+  ],
+  "capacity": 20,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "ENTE_LS",
+   "EUT_LS",
+   "EUTE_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
  }
 ]

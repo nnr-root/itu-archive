@@ -19,8 +19,8 @@
   "rooms": [
    "D380A"
   ],
-  "capacity": 30,
-  "enrolled": 30,
+  "capacity": 60,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -74,7 +74,7 @@
    "D355"
   ],
   "capacity": 30,
-  "enrolled": 1,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -182,7 +182,7 @@
    "D381A"
   ],
   "capacity": 30,
-  "enrolled": 22,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -203,7 +203,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 3,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -229,7 +229,7 @@
   "rooms": [
    "D353"
   ],
-  "capacity": 0,
+  "capacity": 30,
   "enrolled": 0,
   "reserved": "-",
   "programs": [],

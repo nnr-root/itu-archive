@@ -4253,7 +4253,7 @@
    "D205",
    "D205"
   ],
-  "capacity": 40,
+  "capacity": 47,
   "enrolled": 39,
   "reserved": "-",
   "programs": [
@@ -4288,7 +4288,7 @@
    "D206",
    "D206"
   ],
-  "capacity": 40,
+  "capacity": 0,
   "enrolled": 6,
   "reserved": "-",
   "programs": [
@@ -4801,7 +4801,7 @@
   "level": "LS",
   "name": "Organic Chemistry",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Nesrin Köken",
+  "instructor": "Hakan Durmaz",
   "buildings": [
    "MED"
   ],
@@ -4854,7 +4854,7 @@
   "level": "LS",
   "name": "Organic Chemistry",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hakan Durmaz",
+  "instructor": "Nesrin Köken",
   "buildings": [
    "MED"
   ],
@@ -4867,7 +4867,7 @@
   "rooms": [
    "B35"
   ],
-  "capacity": 25,
+  "capacity": 0,
   "enrolled": 3,
   "reserved": "-",
   "programs": [
@@ -5503,7 +5503,7 @@
   "rooms": [
    "D103"
   ],
-  "capacity": 28,
+  "capacity": 70,
   "enrolled": 28,
   "reserved": "-",
   "programs": [
@@ -5533,7 +5533,7 @@
   "rooms": [
    "D201"
   ],
-  "capacity": 28,
+  "capacity": 0,
   "enrolled": 26,
   "reserved": "-",
   "programs": [
@@ -5592,7 +5592,7 @@
   "rooms": [
    "D101"
   ],
-  "capacity": 40,
+  "capacity": 0,
   "enrolled": 22,
   "reserved": "-",
   "programs": [
@@ -6302,7 +6302,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 16,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6383,7 +6383,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 9,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6491,7 +6491,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6518,7 +6518,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 37,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6572,7 +6572,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 26,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6761,7 +6761,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 1,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6815,7 +6815,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 6,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6842,7 +6842,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 2,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

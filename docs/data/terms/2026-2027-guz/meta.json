@@ -1,12 +1,19 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-22T23:01:23Z",
+ "scrapedAt": "2026-09-23T07:44:50Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5270,
- "courses": 3754,
+ "sections": 5294,
+ "courses": 3762,
  "branches": [
+  {
+   "code": "AAR",
+   "levels": [
+    "LU"
+   ],
+   "sections": 1
+  },
   {
    "code": "ABM",
    "levels": [
@@ -125,7 +132,7 @@
     "LS",
     "LU"
    ],
-   "sections": 77
+   "sections": 90
   },
   {
    "code": "BLU",
@@ -273,7 +280,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 4
+   "sections": 5
   },
   {
    "code": "DCZ",
@@ -428,7 +435,7 @@
     "LS",
     "LU"
    ],
-   "sections": 69
+   "sections": 78
   },
   {
    "code": "ENB",
@@ -523,7 +530,7 @@
     "LS",
     "LU"
    ],
-   "sections": 87
+   "sections": 86
   },
   {
    "code": "GEO",
@@ -1485,7 +1492,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 43
+   "sections": 44
   },
   {
    "code": "THO",
@@ -1650,11 +1657,11 @@
   }
  ],
  "stats": {
-  "sections": 5270,
-  "courses": 3754,
-  "branches": 231,
-  "instructors": 1978,
-  "capacity": 261211,
-  "enrolled": 120761
+  "sections": 5294,
+  "courses": 3762,
+  "branches": 232,
+  "instructors": 1975,
+  "capacity": 261342,
+  "enrolled": 121290
  }
 }

@@ -1559,7 +1559,7 @@
     "TEK YLT",
     "Tez Çalışması",
     200,
-    5
+    6
    ],
    [
     "2026-2027-guz",
@@ -2135,14 +2135,14 @@
     "YSB 565E",
     "Marine Geochemistry",
     25,
-    0
+    1
    ],
    [
     "2026-2027-guz",
     "YSB 569E",
     "Earth System",
     25,
-    6
+    7
    ]
   ],
   "terms": 1
@@ -6415,7 +6415,7 @@
     "EBT 519E",
     "Nuclear Engineering Materials",
     10,
-    2
+    3
    ],
    [
     "2026-2027-guz",
@@ -6429,7 +6429,7 @@
     "NUK 525",
     "Endüstri ve Tıpta Radyoizotop Uygulamaları",
     20,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -6448,8 +6448,8 @@
     "2026-2027-guz",
     "KIM 205E",
     "Organic Chemistry",
-    25,
-    18
+    0,
+    3
    ],
    [
     "2026-2027-guz",
@@ -7203,7 +7203,7 @@
     "MBG 621E",
     "Nucleic Acids\u0026Protein Biochemi",
     30,
-    4
+    6
    ],
    [
     "2025-2026-bahar",
@@ -11268,7 +11268,7 @@
     "ISL 517E",
     "Management of Technology",
     30,
-    24
+    25
    ],
    [
     "2026-2027-guz",
@@ -12367,7 +12367,7 @@
     "EBT 519E",
     "Nuclear Engineering Materials",
     10,
-    2
+    3
    ],
    [
     "2026-2027-guz",
@@ -12381,7 +12381,7 @@
     "NUK 529E",
     "Radiological Materials",
     20,
-    0
+    1
    ]
   ],
   "terms": 1
@@ -13475,7 +13475,7 @@
     "EBT 553",
     "Güneş Enerjisi\u0026Dönüşüm Tekno.",
     20,
-    4
+    5
    ],
    [
     "2026-2027-guz",
@@ -13489,7 +13489,7 @@
     "NSE 803E",
     "Intro.to NanoScie.\u0026Nano Eng.",
     30,
-    13
+    14
    ]
   ],
   "terms": 1
@@ -14036,6 +14036,13 @@
     "Introduction to Information Systems",
     80,
     80
+   ],
+   [
+    "2026-2027-guz",
+    "BLG 603E",
+    "Enhanced Processor Architec.",
+    0,
+    0
    ],
    [
     "2026-2027-guz",
@@ -15423,7 +15430,7 @@
     "2026-2027-guz",
     "KIM 262E",
     "Int. Quantum Chemistry",
-    28,
+    70,
     28
    ],
    [
@@ -16675,7 +16682,7 @@
     "MBM 503",
     "Malzeme Termod.\u0026Kinetiği",
     40,
-    16
+    17
    ],
    [
     "2026-2027-guz",

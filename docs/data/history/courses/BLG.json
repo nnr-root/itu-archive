@@ -4352,7 +4352,7 @@
    [
     "2026-2027-guz",
     "Muhammet Alkan",
-    60,
+    70,
     56,
     "Cuma"
    ],
@@ -7734,6 +7734,13 @@
     20,
     19,
     "Cuma"
+   ],
+   [
+    "2026-2027-guz",
+    "İbrahim Özkol",
+    0,
+    0,
+    "Salı"
    ]
   ]
  },
@@ -7766,6 +7773,13 @@
     25,
     19,
     "Pazartesi"
+   ],
+   [
+    "2026-2027-guz",
+    "Yusuf Hüseyin Şahin",
+    0,
+    0,
+    "Çarşamba"
    ]
   ]
  },
@@ -7782,6 +7796,13 @@
     25,
     13,
     "Salı"
+   ],
+   [
+    "2026-2027-guz",
+    "Deniz Turgay Altılar",
+    0,
+    0,
+    "Çarşamba"
    ]
   ]
  },
@@ -7830,6 +7851,29 @@
     20,
     15,
     "Çarşamba"
+   ],
+   [
+    "2026-2027-guz",
+    "Abdül Halim Zaim",
+    0,
+    0,
+    "Salı"
+   ]
+  ]
+ },
+ "BLG 519E": {
+  "code": "BLG 519E",
+  "name": "Wireless Network Protocols",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Gökhan Seçinti",
+    0,
+    0,
+    "Salı"
    ]
   ]
  },
@@ -7862,6 +7906,13 @@
     25,
     25,
     "Perşembe"
+   ],
+   [
+    "2026-2027-guz",
+    "Mehmet Keskinöz",
+    0,
+    0,
+    "Perşembe"
    ]
   ]
  },
@@ -7878,6 +7929,22 @@
     20,
     3,
     "Perşembe"
+   ]
+  ]
+ },
+ "BLG 542E": {
+  "code": "BLG 542E",
+  "name": "Safety Critical.Compu.Systems",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Mehmet Tahir Sandıkkaya",
+    0,
+    0,
+    "Pazartesi"
    ]
   ]
  },
@@ -7910,6 +7977,13 @@
     25,
     25,
     "Perşembe"
+   ],
+   [
+    "2026-2027-guz",
+    "Mehmet Akif Yazıcı",
+    0,
+    0,
+    "Cuma"
    ]
   ]
  },
@@ -8041,6 +8115,22 @@
    ]
   ]
  },
+ "BLG 596E": {
+  "code": "BLG 596E",
+  "name": "Scien.Rese., Ethic&Seminar",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Mehmet Keskinöz",
+    0,
+    0,
+    "Perşembe"
+   ]
+  ]
+ },
  "BLG 601E": {
   "code": "BLG 601E",
   "name": "Pattern Recognition",
@@ -8054,6 +8144,13 @@
     20,
     15,
     "Cuma"
+   ],
+   [
+    "2026-2027-guz",
+    "Behçet Uğur Töreyin",
+    0,
+    0,
+    "Salı"
    ]
   ]
  },
@@ -8070,6 +8167,13 @@
     20,
     7,
     "Çarşamba"
+   ],
+   [
+    "2026-2027-guz",
+    "Nizamettin Aydın",
+    0,
+    0,
+    "Cuma"
    ]
   ]
  },
@@ -8102,6 +8206,13 @@
     20,
     2,
     "Salı"
+   ],
+   [
+    "2026-2027-guz",
+    "Hazım Kemal Ekenel",
+    0,
+    0,
+    "Perşembe"
    ]
   ]
  },
@@ -8132,7 +8243,7 @@
     "2026-2027-guz",
     "Feza Buzluca",
     20,
-    7,
+    8,
     "Çarşamba"
    ]
   ]
@@ -8150,6 +8261,22 @@
     40,
     4,
     "Pazartesi"
+   ]
+  ]
+ },
+ "BLG 634E": {
+  "code": "BLG 634E",
+  "name": "3D Vision",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Yusuf Hüseyin Şahin",
+    0,
+    0,
+    "Çarşamba"
    ]
   ]
  },

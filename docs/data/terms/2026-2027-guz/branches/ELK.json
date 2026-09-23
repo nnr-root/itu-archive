@@ -155,7 +155,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 3,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -392,7 +392,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 21,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -434,7 +434,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 42,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -2039,6 +2039,249 @@
   "programs": [
    "ELK_LS"
   ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15693",
+  "code": "ELK 503E",
+  "branch": "ELK",
+  "level": "LU",
+  "name": "Power Electronic Systems",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Deniz Yıldırım",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "13:00/15:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15694",
+  "code": "ELK 506E",
+  "branch": "ELK",
+  "level": "LU",
+  "name": "A.Design of Swit M.Power Suppl",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Deniz Yıldırım",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "13:00/15:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15695",
+  "code": "ELK 509E",
+  "branch": "ELK",
+  "level": "LU",
+  "name": "High Voltage Measurement Technique",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Suat İlhan",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "09:00/11:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15696",
+  "code": "ELK 514",
+  "branch": "ELK",
+  "level": "LU",
+  "name": "Güç Sistemlerinde Optimizasyon",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Belgin Türkay",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "09:00/11:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15697",
+  "code": "ELK 518E",
+  "branch": "ELK",
+  "level": "LU",
+  "name": "Power System Stability",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Veysel Murat İstemihan Genç",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "09:00/11:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15699",
+  "code": "ELK 596",
+  "branch": "ELK",
+  "level": "LU",
+  "name": "Bilimsel Araş.,Etik ve Seminer",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Mustafa Bağrıyanık",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "09:00/11:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15700",
+  "code": "ELK 605E",
+  "branch": "ELK",
+  "level": "LU",
+  "name": "Vector Control of A.C Machines",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Salih Barış Öztürk",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Perşembe"
+  ],
+  "times": [
+   "13:00/15:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15701",
+  "code": "ELK 613E",
+  "branch": "ELK",
+  "level": "LU",
+  "name": "Applied Superconductivity",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Ahmet Cansız",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "14:00/16:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15702",
+  "code": "ELK 696",
+  "branch": "ELK",
+  "level": "LU",
+  "name": "Bilimsel Araş.,Etik ve Seminer",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Güven Kömürgöz Kırış",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "13:00/15:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
   "prereq": "-",
   "classReq": "-"
  }
