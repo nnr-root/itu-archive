@@ -1639,7 +1639,7 @@
 11762,MTO 304,MTO,LS,Havacılık Meteorolojisi,Fiziksel (Yüz yüze),Emrah Tuncay Özdemir,MEDC,Pazartesi,14:30/16:29,2D14,25,25,-,"IBM_LS, MTO_LS",-,-
 11763,MTO 311E,MTO,LS,Data Analysis,Fiziksel (Yüz yüze),Kasım Koçak,MEDC | MEDC,Çarşamba | Perşembe,13:30/15:29 | 08:30/11:29,ZD1 | ZD1,65,50,-,"IBM_LS, MTO_LS",-,-
 11764,MTO 323,MTO,LS,Atmosfer Kimyası,Fiziksel (Yüz yüze),Ceyhan Kahya,MEDC,Perşembe,11:30/14:29,1D6,20,15,-,"IBM_LS, MTO_LS, MTO_LS, MTOE_LS",-,-
-11765,MTO 337,MTO,LS,Atmosfer Dinamiği I,Fiziksel (Yüz yüze),"Ali Deniz , Bahtiyar Efe",MEDC | MEDC,Salı | Perşembe,11:30/13:29 | 12:30/14:29,2D11 | 2D11,25,25,-,"IBM_LS, IBM_YD, MTO_LS, MTO_YD",-,-
+11765,MTO 337,MTO,LS,Atmosfer Dinamiği I,Fiziksel (Yüz yüze),"Ali Deniz , Bahtiyar Efe",MEDC | MEDC,Salı | Perşembe,11:30/13:29 | 12:30/14:29,2D11 | 2D11,30,25,-,"IBM_LS, IBM_YD, MTO_LS, MTO_YD",-,-
 11766,MTO 337E,MTO,LS,Atmospheric Dynamics I,Fiziksel (Yüz yüze),Yurdanur Ünal,MEDC | MEDC,Salı | Perşembe,11:30/13:29 | 12:30/14:29,2D14 | 2D14,28,25,-,"IBM_LS, IBM_YD, MTO_LS, MTO_YD",-,-
 11767,MTO 350E,MTO,LS,Air Pollution Fundamentals,Fiziksel (Yüz yüze),Ceyhan Kahya,MEDC,Pazartesi,11:30/14:29,1D9,15,12,-,"IBM_LS, MTO_LS",-,-
 11768,MTO 353,MTO,LS,Tarım ve Orman Meteorolojisi I,Fiziksel (Yüz yüze),Levent Şaylan,MEDC,Pazartesi,08:30/11:29,1D7,15,15,-,"IBM_LS, MTO_LS, MTO_LS",-,-
@@ -1715,11 +1715,11 @@
 11842,GMI 342E,GMI,LS,Maritime Rules & Regulations,Fiziksel (Yüz yüze),Fırat Bolat,DZB,Pazartesi,10:30/12:29,--,60,51,-,GMI_LS,-,-
 11843,DFH 361,DFH,LS,Gemi Tedarik Zinciri Yönetimi,Fiziksel (Yüz yüze),Cenk Ay,DZB,Perşembe,12:30/14:29,--,45,41,-,"DUI_LS, DUIE_LS",-,-
 11844,IKE 503E,IKE,LU,Macroeconomics I,Fiziksel (Yüz yüze),Şerife Genç İleri,MSB,Salı,09:30/12:29,B04,30,11,-,,-,-
-11845,IKE 501E,IKE,LU,Microeconomics I,Fiziksel (Yüz yüze),Qian Li,ISB,Pazartesi,09:30/12:29,209,30,11,-,,-,-
+11845,IKE 501E,IKE,LU,Microeconomics I,Fiziksel (Yüz yüze),Qian Li,ISB,Pazartesi,09:30/12:29,209,30,12,-,,-,-
 11846,IKE 505E,IKE,LU,Research Meth.in Economics I,Fiziksel (Yüz yüze),Osman Doğan,MSB,Salı,14:30/17:29,B04,30,11,-,,-,-
 11847,IKE 507E,IKE,LU,International Economics,Fiziksel (Yüz yüze),Serdar Altay,MSB,Çarşamba,09:30/12:29,210,30,6,-,,-,-
 11848,UZB 386E,UZB,LS,Boundary Layer Theory,Fiziksel (Yüz yüze),Ayşe Gül Güngör,MEDC,Salı,14:30/17:29,3D19,20,20,-,"UCK_LS, UZB_LS, UZBE_LS",Detay,-
-11849,IKE 508E,IKE,LU,Game Theory,Fiziksel (Yüz yüze),Sinan Ertemel,MSB,Pazartesi,14:30/17:29,B02,30,7,-,,-,-
+11849,IKE 508E,IKE,LU,Game Theory,Fiziksel (Yüz yüze),Sinan Ertemel,MSB,Pazartesi,14:30/17:29,B02,30,8,-,,-,-
 11850,IKE YLT,IKE,LU,Tez Çalışması,Fiziksel (Yüz yüze),Bülent Güloğlu,,,-/-,,200,3,-,,-,-
 11851,IKE 601E,IKE,LU,Advanced Microeconomics,Fiziksel (Yüz yüze),Sinan Ertemel,MSB,Salı,09:30/12:29,B12,30,2,-,,-,-
 11852,IKE 603E,IKE,LU,Advanced Research Methods,Fiziksel (Yüz yüze),Bülent Güloğlu,MSB,Salı,14:30/17:29,B12,30,2,-,,-,-
@@ -1740,7 +1740,7 @@
 11867,KIM 539,KIM,LU,Organik Reak.Mekanizma. I,Fiziksel (Yüz yüze),İbrahim Volkan Kumbaracı,undeclared,Pazartesi,09:30/12:29,--,30,30,-,,-,-
 11868,KIM 541E,KIM,LU,Applic.of Liq.Chr./Mass Spectr,Fiziksel (Yüz yüze),Mustafa Özcan,undeclared,Pazartesi,09:30/12:29,--,20,1,-,,-,-
 11869,KIM 552E,KIM,LU,Group Theory&Its Chemical Appl,Fiziksel (Yüz yüze),Ozan Sanlı Şentürk,undeclared,Çarşamba,09:30/12:29,--,20,10,-,,-,-
-11870,KIM 596,KIM,LU,"Bilimsel Araş.,Etik ve Seminer",Fiziksel (Yüz yüze),Hacer Yasemin Yenilmez,undeclared,Cuma,08:30/10:29,--,30,3,-,,-,-
+11870,KIM 596,KIM,LU,"Bilimsel Araş.,Etik ve Seminer",Fiziksel (Yüz yüze),Hacer Yasemin Yenilmez,undeclared,Cuma,08:30/10:29,--,30,4,-,,-,-
 11871,KIM 606E,KIM,LU,Design in Organic Synthesis,Fiziksel (Yüz yüze),Ufuk Saim Günay,undeclared,Pazartesi,13:30/16:29,--,20,12,-,,-,-
 11872,KIM 608,KIM,LU,Ftalosiyaninler ve Uygulam.,Fiziksel (Yüz yüze),Mukaddes Özçeşmeci,undeclared,Perşembe,13:30/16:29,--,20,2,-,,-,-
 11873,KIM 615E,KIM,LU,Cyclization Reac.with Metals,Fiziksel (Yüz yüze),Barış Yücel,undeclared,Cuma,14:00/16:59,--,20,0,-,,-,-
@@ -2091,7 +2091,7 @@
 12237,ISL 333E,ISL,LS,Finance,Fiziksel (Yüz yüze),"Oktay Taş , Cumhur Enis Ekinci",ISB,Perşembe,14:30/17:29,102,80,73,EFN_LS/10/10 | END_LS/5/2 | ENDE_LS/5/1 | ECNE_LS/5/5 | Diğer/55/55,"ECNE_LS, EFN_LS, END_LS, ENDE_LS, ISL_LS, ISLE_LS",Detay,-
 12238,AFY 511E,AFY,LU,Principles of Disaster and Emergency Management,Fiziksel (Yüz yüze),Hikmet İskender,AYB,Salı,09:30/12:29,--,20,2,-,,-,-
 12239,ATA 101,ATA,LS,Atatürk İlk & İnkılap Trh I,Sanal (Çevrimiçi/Online),Ebubekir Ceylan,undeclared,Pazartesi,11:30/13:29,--,70,70,-,"AIN_LS, EHN_LS, MBI_LS, SBL_LS, SDU_LS, SED_LS, SGM_LS, SIN_LS, SIS_LS, SMT_LS, STP_LS",-,-
-12240,AFY 512,AFY,LU,Zarar Azaltmanın Esasları ve Uygulamaları,Fiziksel (Yüz yüze),Ömer Ekmekcioğlu,AYB,Pazartesi,14:30/17:29,--,20,8,-,,-,-
+12240,AFY 512,AFY,LU,Zarar Azaltmanın Esasları ve Uygulamaları,Fiziksel (Yüz yüze),Ömer Ekmekcioğlu,AYB,Pazartesi,14:30/17:29,--,20,9,-,,-,-
 12241,ICM 119E,ICM,LS,Int.to Interior Archit.&Ethics,Fiziksel (Yüz yüze),Emine Görgül,undeclared,Çarşamba,13:30/15:29,--,55,54,-,"IAD_LS, ICM_LS",-,-
 12242,AFY 521,AFY,LU,"Kriz Yönetimi, İyileştirme ve İş Sürekliliği",Fiziksel (Yüz yüze),Didem Saloğlu Dertli,AYB,Salı,13:30/16:29,--,20,3,-,,-,-
 12243,ISL 334E,ISL,LS,Quality for Engineers,Fiziksel (Yüz yüze),Hatice Camgöz Akdağ,MSB,Çarşamba,09:30/12:29,216,80,71,ECNE_LS/5/5 | Diğer/75/66,"ECNE_LS, ISL_LS, ISLE_LS",Detay,-
@@ -2112,7 +2112,7 @@
 12258,AFY 583E,AFY,LU,Spe.Top.in Disas.&Emerg.Manag.,Fiziksel (Yüz yüze),"Didem Saloğlu Dertli , İsmail Ahmet Odabaş",AYB,Pazartesi,11:30/14:29,--,20,5,-,,-,-
 12259,ATA 102,ATA,LS,Atatürk İlk & İnkılap Trh II,Sanal (Çevrimiçi/Online),İsmail Kandil,undeclared,Perşembe,11:30/13:29,--,0,5,-,"AIN_LS, EHN_LS, MBI_LS, SBL_LS, SDU_LS, SED_LS, SGI_LS, SGM_LS, SIN_LS, SIS_LS, SMT_LS, STP_LS",-,-
 12260,MAL 201E,MAL,LS,Materials Science,Fiziksel (Yüz yüze),Burçak Avcı,MEDC,Çarşamba,09:30/12:29,3D20,85,78,-,"DEN_LS, DENE_LS, OSN_YD",-,-
-12261,AFY 567E,AFY,LU,Ear.War.Rap.Res.Sys.inDis.Mng.,Fiziksel (Yüz yüze),Abdullah Can Zülfikar,AYB,Çarşamba,12:30/15:29,--,20,2,-,,-,-
+12261,AFY 567E,AFY,LU,Ear.War.Rap.Res.Sys.inDis.Mng.,Fiziksel (Yüz yüze),Abdullah Can Zülfikar,AYB,Çarşamba,12:30/15:29,--,20,3,-,,-,-
 12262,AFY 564,AFY,LU,Endüstri ve Kritik Altyapı Tesislerinde Natech Risk Yönetimi,Fiziksel (Yüz yüze),Didem Saloğlu Dertli,AYB,Cuma,14:30/17:29,--,20,0,-,,-,-
 12263,MAT 202,MAT,LS,Sayısal Yöntemler,Fiziksel (Yüz yüze),Burak Karacık,MEDC,Salı,08:30/11:29,2D18,90,84,-,DEN_LS,Detay,-
 12264,AFY 596,AFY,LU,"Bilimsel Araş.,Etik ve Seminer",Fiziksel (Yüz yüze),Ömer Ekmekcioğlu,AYB,Çarşamba,13:30/15:29,--,20,2,-,,-,-
@@ -2157,7 +2157,7 @@
 12306,YAP 501E,YAP,LU,Engineering Mathematics,Fiziksel (Yüz yüze),Arcan Yanık,undeclared,Salı,09:30/12:29,--,30,30,-,,-,-
 12307,YAP 535,YAP,LU,Elastisite Teorisi,Fiziksel (Yüz yüze),Teoman Özer,undeclared,Pazartesi,09:30/12:29,--,15,7,-,,-,-
 12308,ISL 492,ISL,LS,İşletme Müh. Tasarım Prj.,Fiziksel (Yüz yüze),Osman Taylan,,,-/-,,500,0,-,ISL_LS,-,Detay
-12309,YAP 527E,YAP,LU,Concrete Bridge Design,Fiziksel (Yüz yüze),Ahmet Abdullah Dönmez,undeclared,Çarşamba,13:30/16:29,--,25,4,-,,-,-
+12309,YAP 527E,YAP,LU,Concrete Bridge Design,Fiziksel (Yüz yüze),Ahmet Abdullah Dönmez,undeclared,Çarşamba,13:30/16:29,--,25,3,-,,-,-
 12310,ISL 492E,ISL,LS,Management Eng. Design Project,Fiziksel (Yüz yüze),Osman Taylan,,,-/-,,500,1,-,"ISL_LS, ISLE_LS",-,Detay
 12311,YAP 603E,YAP,LU,Partial Differential Equations,Fiziksel (Yüz yüze),Reha Artan,undeclared,Pazartesi,09:30/12:29,--,20,9,-,,-,-
 12312,YAP 517,YAP,LU,İleri Yapı Statiği,Fiziksel (Yüz yüze),Engin Orakdöğen,undeclared,Çarşamba,09:30/12:29,--,30,11,-,,-,-
@@ -2215,16 +2215,16 @@
 12368,BLG 501E,BLG,LU,Discrete Mathematics,Fiziksel (Yüz yüze),Gökhan Seçinti,undeclared,Cuma,09:30/12:29,--,20,19,BLG_BG_DR/2/1 | BLG_BG_YL/18/18 | Diğer/0/0,"BLG_BG_DR, BLG_BG_YL",-,-
 12369,BLG 601E,BLG,LU,Pattern Recognition,Fiziksel (Yüz yüze),Behçet Uğur Töreyin,undeclared,Cuma,09:30/12:29,--,20,17,-,,-,-
 12370,BLG 513E,BLG,LU,Image Processing,Fiziksel (Yüz yüze),İlkay Öksüz,undeclared,Cuma,09:30/12:29,--,25,24,-,,-,-
-12371,BLG 563E,BLG,LU,Guided Research,Fiziksel (Yüz yüze),Burak Berk Üstündağ,undeclared,Cuma,14:30/17:29,--,40,10,BLG_BG_YL/35/6 | Diğer/5/4,BLG_BG_YL,-,-
+12371,BLG 563E,BLG,LU,Guided Research,Fiziksel (Yüz yüze),Burak Berk Üstündağ,undeclared,Cuma,14:30/17:29,--,40,11,BLG_BG_YL/35/7 | Diğer/5/4,BLG_BG_YL,-,-
 12372,BLG DRT,BLG,LU,Tez Çalışması,Fiziksel (Yüz yüze),İlkay Öksüz,,,-/-,,200,39,-,,-,-
 12373,BLG YET,BLG,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),İlkay Öksüz,,,-/-,,200,13,-,,-,-
-12374,BLG YLT,BLG,LU,Tez Çalışması,Fiziksel (Yüz yüze),İlkay Öksüz,,,-/-,,200,63,-,,-,-
-12375,MDP 603E,MDP,LU,Composition Project 1,Fiziksel (Yüz yüze),Emmanouıl Ekmektsoglou,undeclared,Pazartesi,11:30/14:29,--,40,0,-,,-,-
+12374,BLG YLT,BLG,LU,Tez Çalışması,Fiziksel (Yüz yüze),İlkay Öksüz,,,-/-,,200,64,-,,-,-
+12375,MDP 603E,MDP,LU,Composition Project 1,Fiziksel (Yüz yüze),Emmanouıl Ekmektsoglou,undeclared,Pazartesi,11:30/14:29,--,40,1,-,,-,-
 12376,MDP 605E,MDP,LU,Composition Project 3,Fiziksel (Yüz yüze),Emmanouıl Ekmektsoglou,undeclared,Pazartesi,14:30/17:29,--,40,0,-,,-,-
 12377,MDP 605E,MDP,LU,Composition Project 3,Fiziksel (Yüz yüze),Reuben De Lautour,undeclared,Pazartesi,14:30/17:29,--,40,0,-,,-,-
 12378,MOD 113,MOD,LS,Visual Design Concepts I,Fiziksel (Yüz yüze),Serna Uçar Hatipoğlu,MKB,Cuma,08:30/12:29,451,30,12,-,SMT_LS,-,-
-12379,DZC YLT,DZC,LU,Tez çalışması,Fiziksel (Yüz yüze),Gizem Kayişoğlu,,,-/-,,200,4,-,,-,-
-12380,DZC 596,DZC,LU,"Bilimsel Araş.,Etik ve Seminer",Fiziksel (Yüz yüze),Gizem Kayişoğlu,undeclared,Perşembe,14:30/16:29,--,20,7,-,,-,-
+12379,DZC YLT,DZC,LU,Tez çalışması,Fiziksel (Yüz yüze),Gizem Kayişoğlu,,,-/-,,200,7,-,,-,-
+12380,DZC 596,DZC,LU,"Bilimsel Araş.,Etik ve Seminer",Fiziksel (Yüz yüze),Gizem Kayişoğlu,undeclared,Perşembe,14:30/16:29,--,20,9,-,,-,-
 12381,DZC 504,DZC,LU,Denizcilik.Kalite Sist.&Stan.,Fiziksel (Yüz yüze),Metin Çelik,undeclared,Pazartesi,11:30/14:29,--,20,9,-,,-,-
 12382,DZC 508,DZC,LU,Bilim ve Denizcilik Tarihi,Fiziksel (Yüz yüze),Tuncay Zorlu,undeclared,Perşembe,14:30/17:29,--,20,12,-,,-,-
 12383,DZC 509,DZC,LU,Denizcilik Çalışma.Araş.Yön.,Fiziksel (Yüz yüze),Pelin Bolat,undeclared,Çarşamba,10:30/13:29,--,20,5,-,,-,-
@@ -2233,7 +2233,7 @@
 12386,DZC 519,DZC,LU,Denizel Alanda Siber Güvenlik,Fiziksel (Yüz yüze),-,,,-/-,,0,0,-,,-,-
 12387,DZC 522,DZC,LU,Denizcilikte Güvenlik Yönetimi,Fiziksel (Yüz yüze),Ejbel Çıra Duruer,undeclared,Cuma,08:30/11:29,--,20,8,-,,-,-
 12388,DZC 516,DZC,LU,Marina Yönetimi,Fiziksel (Yüz yüze),Arda Özkan,undeclared,Salı,08:30/11:29,--,20,16,-,,-,-
-12389,DZC 512,DZC,LU,Denizcilik Ekonomisi,Fiziksel (Yüz yüze),Levent Kırval,undeclared,Perşembe,11:30/14:29,--,20,13,-,,-,-
+12389,DZC 512,DZC,LU,Denizcilik Ekonomisi,Fiziksel (Yüz yüze),Levent Kırval,undeclared,Perşembe,11:30/14:29,--,20,15,-,,-,-
 12391,DZC 623E,DZC,LU,Maritime Psychology,Fiziksel (Yüz yüze),Leyla Tavacıoğlu,undeclared,Perşembe,11:30/14:29,--,10,4,-,,-,-
 12392,DZC 601E,DZC,LU,Euro.Uni.&Its Tran.-Marit.Pol.,Fiziksel (Yüz yüze),Levent Kırval,undeclared,Çarşamba,09:30/12:29,--,10,3,-,,-,-
 12396,DZC YET,DZC,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Gizem Kayişoğlu,,,-/-,,200,3,-,,-,-
@@ -2288,10 +2288,10 @@
 12449,MYL 599E,MYL,LU,Term Project,Fiziksel (Yüz yüze),Jerfi Aji,,,-/-,,40,1,-,,-,-
 12450,ICM 349E,ICM,LS,Interior Arch.Design Studio II,Fiziksel (Yüz yüze),Ahmet Erdem Tozoğlu,undeclared | undeclared,Pazartesi | Perşembe,13:30/17:29 | 13:30/17:29,-- | --,15,7,ICM_LS/13/6 | IAD_LS/2/1 | Diğer/0/0,"IAD_LS, ICM_LS",Detay,-
 12451,MYL 803E,MYL,LU,Studio Practices,Fiziksel (Yüz yüze),Oğuz Öz,undeclared,Çarşamba,18:00/20:59,--,40,8,-,,-,-
-12452,MYL 807E,MYL,LU,Introduction to Music Theory,Fiziksel (Yüz yüze),Jerfi Aji,undeclared,Pazartesi,18:00/20:59,--,50,27,-,,-,-
+12452,MYL 807E,MYL,LU,Introduction to Music Theory,Fiziksel (Yüz yüze),Jerfi Aji,undeclared,Pazartesi,18:00/20:59,--,50,28,-,,-,-
 12453,KON 103E,KON,LS,Intr.toCont.& Auto.Eng.&Ethics,Fiziksel (Yüz yüze),Mustafa Doğan,EEB,Çarşamba,12:30/14:29,4102,70,57,-,"KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
 12454,ICM 349E,ICM,LS,Interior Arch.Design Studio II,Fiziksel (Yüz yüze),Yasemin Başuslu,undeclared | undeclared,Pazartesi | Perşembe,13:30/17:29 | 13:30/17:29,-- | --,15,15,ICM_LS/12/12 | IAD_LS/3/3 | Diğer/0/0,"IAD_LS, ICM_LS",Detay,-
-12455,MYL 813E,MYL,LU,Bibliography,Fiziksel (Yüz yüze),"Robert Olıver Beahrs , Sair Sinan Kestelli , Paul Alister Whitehead",undeclared,Salı,18:00/20:59,--,50,27,-,,-,-
+12455,MYL 813E,MYL,LU,Bibliography,Fiziksel (Yüz yüze),"Robert Olıver Beahrs , Sair Sinan Kestelli , Paul Alister Whitehead",undeclared,Salı,18:00/20:59,--,50,28,-,,-,-
 12456,BBF 101E,BBF,LS,Introduction to Information Systems,Fiziksel (Yüz yüze),Nizamettin Aydın,BBB | BBB,Perşembe | Perşembe,08:30/10:29 | 10:30/11:29,Z-19 | Z-19,80,80,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
 12457,BBF 101E,BBF,LS,Introduction to Information Systems,Fiziksel (Yüz yüze),Muhammet Alkan,BBB | undeclared,Perşembe | Perşembe,08:30/10:29 | 10:30/11:29,Z-17 | --,80,80,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
 12458,MYL 817E,MYL,LU,Preparation for Compos.Studies,Fiziksel (Yüz yüze),"Reuben De Lautour , Emmanouıl Ekmektsoglou",undeclared,Cuma,18:00/20:59,--,40,4,-,,-,-
@@ -2302,8 +2302,8 @@
 12463,MYL 819E,MYL,LU,Preparation for Instrumen.Stud,Fiziksel (Yüz yüze),Jerfi Aji,undeclared,Çarşamba,18:00/20:59,--,40,3,-,,-,-
 12464,MYL 819E,MYL,LU,Preparation for Instrumen.Stud,Fiziksel (Yüz yüze),Cem Önertürk,undeclared,Çarşamba,18:00/20:59,--,40,0,-,,-,-
 12465,BBF 102E,BBF,LS,Linear Algebra and Applications,Fiziksel (Yüz yüze),Uluğ Bayazıt,BBB,Cuma,08:30/11:29,Z-17,70,70,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
-12466,MYL 839E,MYL,LU,Ear Training and Sight Singing,Fiziksel (Yüz yüze),Eray Altınbüken,undeclared,Perşembe,18:00/20:59,--,50,27,-,,-,-
-12467,MYL 843E,MYL,LU,Preparat.Studi. in Sonic Arts,Fiziksel (Yüz yüze),"Sair Sinan Kestelli , Mehmet Cevdet Erek , Reuben De Lautour",undeclared,Çarşamba,18:00/20:59,--,40,8,-,,-,-
+12466,MYL 839E,MYL,LU,Ear Training and Sight Singing,Fiziksel (Yüz yüze),Eray Altınbüken,undeclared,Perşembe,18:00/20:59,--,50,28,-,,-,-
+12467,MYL 843E,MYL,LU,Preparat.Studi. in Sonic Arts,Fiziksel (Yüz yüze),"Sair Sinan Kestelli , Mehmet Cevdet Erek , Reuben De Lautour",undeclared,Çarşamba,18:00/20:59,--,40,9,-,,-,-
 12468,BBF 102E,BBF,LS,Linear Algebra and Applications,Fiziksel (Yüz yüze),Yusuf Yaslan,BBB,Cuma,08:30/11:29,104,70,70,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
 12469,BLG 223E,BLG,LS,Data Structures,Fiziksel (Yüz yüze),Yusuf Hüseyin Şahin,BBB | BBB,Salı | Perşembe,08:30/10:29 | 14:30/16:29,Z-19 | Z-19,80,80,-,"BLG_LS, BLGE_LS, SECE_LS",Detay,-
 12470,ICM 366E,ICM,LS,Interior Arch.Desgn Studio III,Fiziksel (Yüz yüze),Yasin Altıpat,undeclared | undeclared,Pazartesi | Perşembe,13:30/17:29 | 13:30/17:29,-- | --,1,0,ICM_LS/1/0 | Diğer/0/0,"IAD_LS, ICM_LS",Detay,-
@@ -2331,9 +2331,9 @@
 12495,BBF 302E,BBF,LS,Database Systems,Fiziksel (Yüz yüze),Ahmet Cüneyd Tantuğ,BBB,Çarşamba,08:30/11:29,Z-19,80,80,-,"BLG_LS, BLGE_LS, CES_LS, SECE_LS, YZVE_LS",Detay,-
 12496,ICM 4902E,ICM,LS,Graduation Project,Fiziksel (Yüz yüze),"Demet Arslan Dinçay , Seniye Banu Garip , Shahryar Habıbı",,,-/-,,500,10,-,"IAD_LS, ICM_LS",Detay,-
 12497,BBF 301E,BBF,LS,Analysis of Algorithms I,Fiziksel (Yüz yüze),İlkay Öksüz,BBB,Perşembe,08:30/11:29,Z-20,75,70,-,"BLG_LS, BLGE_LS, CES_LS, SECE_LS, YZVE_LS",Detay,-
-12498,MYE 5096E,MYE,LU,"Scien.Rese., Ethic&Seminar",Fiziksel (Yüz yüze),Emine Şirin Özgün Tanır,undeclared,Çarşamba,11:00/12:59,--,40,4,-,,-,-
+12498,MYE 5096E,MYE,LU,"Scien.Rese., Ethic&Seminar",Fiziksel (Yüz yüze),Emine Şirin Özgün Tanır,undeclared,Çarşamba,11:00/12:59,--,40,5,-,,-,-
 12499,ICM 492,ICM,LS,Bitirme Çalışması,Fiziksel (Yüz yüze),"Demet Arslan Dinçay , Seniye Banu Garip , Shahryar Habıbı",,,-/-,,5,0,-,ICM_LS,Detay,Detay
-12500,MYE 511E,MYE,LU,Field Work,Fiziksel (Yüz yüze),Robert Olıver Beahrs,undeclared,Salı,14:30/17:29,--,40,1,-,,-,-
+12500,MYE 511E,MYE,LU,Field Work,Fiziksel (Yüz yüze),Robert Olıver Beahrs,undeclared,Salı,14:30/17:29,--,40,2,-,,-,-
 12501,MYE 521E,MYE,LU,Music and Gender,Fiziksel (Yüz yüze),Emine Şirin Özgün Tanır,undeclared,Pazartesi,14:30/17:29,--,40,0,-,,-,-
 12502,BBF 301E,BBF,LS,Analysis of Algorithms I,Fiziksel (Yüz yüze),Mehmet Baysan,BBB,Perşembe,08:30/11:29,Z-16,75,36,-,"BLG_LS, BLGE_LS, CES_LS, SECE_LS, YZVE_LS",Detay,-
 12503,MYE 522E,MYE,LU,Compos.-Individual Instr. 2,Fiziksel (Yüz yüze),Emmanouıl Ekmektsoglou,undeclared,Salı,08:30/11:29,--,40,0,-,,-,-
@@ -2349,7 +2349,7 @@
 12513,BLG 351E,BLG,LS,Microcomputer Lab.,Fiziksel (Yüz yüze),Mustafa Ersel Kamaşak,BBB,Pazartesi,14:30/16:29,--,60,39,CEN_LS/8/8 | CES_LS/8/0 | BLG_LS/3/0 | Diğer/41/31,"BLGE_LS, CEN_LS, CES_LS",Detay,-
 12514,MYE 544E,MYE,LU,Independent Study 2,Fiziksel (Yüz yüze),Eray Altınbüken,undeclared,Salı,11:30/14:29,--,40,0,-,,-,-
 12515,MYE 544E,MYE,LU,Independent Study 2,Fiziksel (Yüz yüze),Ozan Sarıer,undeclared,Perşembe,08:30/11:29,--,40,0,-,,-,-
-12517,MYE 544E,MYE,LU,Independent Study 2,Fiziksel (Yüz yüze),Reuben De Lautour,undeclared,Perşembe,08:30/11:29,--,40,0,-,,-,-
+12517,MYE 544E,MYE,LU,Independent Study 2,Fiziksel (Yüz yüze),Reuben De Lautour,undeclared,Perşembe,08:30/11:29,--,40,1,-,,-,-
 12518,MYE 575E,MYE,LU,Advanced Mixing&Remixing,Fiziksel (Yüz yüze),Taylan Özdemir,undeclared,Pazartesi,08:30/11:29,--,40,1,-,,-,-
 12519,MYE 581E,MYE,LU,Location Recording,Fiziksel (Yüz yüze),Gökhan Deneç,undeclared,Cuma,14:30/17:29,--,40,0,-,,-,-
 12520,MYE 594E,MYE,LU,Contemporary Music.Practices,Fiziksel (Yüz yüze),Emmanouıl Ekmektsoglou,undeclared,Salı,14:30/17:29,--,40,2,-,,-,-
@@ -2436,7 +2436,7 @@
 12608,GEM 612E,GEM,LU,Advanced Topics in Naval Architecture and Marine Engineering,Fiziksel (Yüz yüze),"Uğur Oral Ünal , Selma Ergin",MEDC,Pazartesi,13:30/16:29,--,30,1,-,,-,-
 12609,GEM 615,GEM,LU,Yüzen Yapıların Titreşimi,Fiziksel (Yüz yüze),Bahadır Uğurlu,MEDC,Cuma,09:00/11:59,1D7,30,0,-,,-,-
 12610,GEM 536,GEM,LU,Yapısal Anal.için Sayıs.Yönt.,Fiziksel (Yüz yüze),Mustafa Erden Yıldızdağ,MEDC,Perşembe,13:30/16:29,1D4,30,5,-,,-,-
-12612,GEM DRT,GEM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Şakir Bal,,,-/-,,200,10,-,,-,-
+12612,GEM DRT,GEM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Şakir Bal,,,-/-,,200,11,-,,-,-
 12613,GEM YET,GEM,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Şakir Bal,,,-/-,,200,1,-,,-,-
 12614,GEM YLT,GEM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Şakir Bal,,,-/-,,200,7,-,,-,-
 12615,IMT 501E,IMT,LU,Interior Architecture Project I,Fiziksel (Yüz yüze),Özge Cordan,undeclared | undeclared,Pazartesi | Cuma,08:30/12:29 | 08:30/12:29,-- | --,5,0,-,,-,-
@@ -2589,7 +2589,7 @@
 12809,ULS 520E,ULS,LU,Traffic Management,Fiziksel (Yüz yüze),Kemal Selçuk Öğüt,undeclared,Perşembe,14:00/16:59,--,15,2,-,,-,-
 12811,TEK 301E,TEK,LS,Nonwoven Technology,Fiziksel (Yüz yüze),İlkay Özsev Yüksek,MKB,Perşembe,13:30/16:29,D378,40,35,-,"TEK_LS, TEK_YD, TEKE_LS",Detay,-
 12847,ULS 517E,ULS,LU,Ulaştırma.Yönelik Yöneylem Ar.,Fiziksel (Yüz yüze),Mustafa Can Özkan,undeclared,Çarşamba,12:30/15:29,--,10,5,-,,-,-
-12848,ULS 605E,ULS,LU,Pavement Management System,Fiziksel (Yüz yüze),Halit Özen,undeclared,Pazartesi,09:00/11:59,--,10,1,-,,-,-
+12848,ULS 605E,ULS,LU,Pavement Management System,Fiziksel (Yüz yüze),Halit Özen,undeclared,Pazartesi,09:00/11:59,--,10,2,-,,-,-
 12849,ULS 515,ULS,LU,Trafik Tekniği Etüdleri,Fiziksel (Yüz yüze),Hilmi Berk Çelikoğlu,undeclared,Salı,10:30/13:29,--,15,3,-,,-,-
 12850,ULS 607E,ULS,LU,Intelligent Transport.Syst.,Fiziksel (Yüz yüze),Hilmi Berk Çelikoğlu,undeclared,Salı,13:30/16:29,--,15,4,-,,-,-
 12851,ULS 501E,ULS,LU,Mathe.&Sta.Meth.in Tran.Eng.,Fiziksel (Yüz yüze),Oğuz Tengilimoğlu,undeclared,Çarşamba,09:30/12:29,--,15,12,-,,-,-
@@ -2636,11 +2636,11 @@
 12894,TEK 462E,TEK,LS,Ecological Textiles,Fiziksel (Yüz yüze),Berdan Kalav,MKB,Salı,13:30/15:29,D361B,30,29,-,TEKE_LS,Detay,-
 12895,MOD 117,MOD,LS,Design Studio I - Int.Draping,Fiziksel (Yüz yüze),Şükriye Yüksel Filiz,MKB,Perşembe,13:30/17:29,453,30,11,-,SMT_LS,-,-
 12896,HBM 621E,HBM,LU,Chemoinformatics,Sanal (Çevrimiçi/Online),Adem Tekin,Online/Çevrimiçi,Salı,09:30/12:29,--,25,9,-,,-,-
-12897,END 500E,END,LU,Engineering Mathematics,Fiziksel (Yüz yüze),Erkan Işıklı,ISB,Salı,14:30/17:29,107,40,34,-,,-,-
+12897,END 500E,END,LU,Engineering Mathematics,Fiziksel (Yüz yüze),Erkan Işıklı,ISB,Salı,14:30/17:29,107,40,35,-,,-,-
 12898,HBM 511,HBM,LU,Bilimsel Hesaplama I,Fiziksel (Yüz yüze),Süha Tuna,BEB,Pazartesi,09:30/12:29,--,25,14,-,,-,-
-12899,HBM 538E,HBM,LU,Mat.Met.in Data Ana.&Mac.Lear.,Fiziksel (Yüz yüze),Süha Tuna,BEB,Çarşamba,09:30/12:29,--,30,27,-,,-,-
+12899,HBM 538E,HBM,LU,Mat.Met.in Data Ana.&Mac.Lear.,Fiziksel (Yüz yüze),Süha Tuna,BEB,Çarşamba,09:30/12:29,--,30,28,-,,-,-
 12901,TEK 463E,TEK,LS,Text.&Appa.Product.Mng.&Cont.,Fiziksel (Yüz yüze),Canan Sarıçam,MKB,Çarşamba,11:30/13:29,D368B,30,22,-,TEKE_LS,Detay,-
-12902,END 506E,END,LU,Advanced Engineering Economics,Fiziksel (Yüz yüze),Cengiz Kahraman,ISB,Pazartesi,09:30/12:29,208,40,28,-,,-,-
+12902,END 506E,END,LU,Advanced Engineering Economics,Fiziksel (Yüz yüze),Cengiz Kahraman,ISB,Pazartesi,09:30/12:29,208,40,30,-,,-,-
 12903,END 508E,END,LU,Mathematical Programming,Fiziksel (Yüz yüze),Hatice Tekiner Moğulkoç,ISB,Çarşamba,09:30/12:29,202,34,10,-,,-,-
 12904,TEK 465E,TEK,LS,Knitting Technology II,Fiziksel (Yüz yüze),Levent Önal,MKB,Çarşamba,08:30/10:29,D380A,30,2,-,TEKE_LS,Detay,-
 12905,END 513,END,LU,İleri Istatistiksel Analiz,Fiziksel (Yüz yüze),Umut Asan,MSB,Salı,09:30/12:29,210,35,33,-,,-,-
@@ -2649,7 +2649,7 @@
 12908,HBM YET,HBM,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Adem Tekin,,,-/-,,200,3,-,,-,-
 12909,TEK 467E,TEK,LS,Synthetic &Textured Yarn Prod.,Fiziksel (Yüz yüze),"Levent Önal , Ali Demir",MKB,Salı,08:30/10:29,D376,30,11,-,TEKE_LS,Detay,-
 12910,END 574E,END,LU,Business Intell.&Mac.Lear.App.,Fiziksel (Yüz yüze),Ömer Faruk Beyca,ISB,Pazartesi,14:30/17:29,210,39,39,-,,-,-
-12911,END 596,END,LU,"Bilimsel Araş.,Etik ve Seminer",Fiziksel (Yüz yüze),Ayberk Soyer,ISB,Cuma,14:30/16:29,207,40,17,-,,-,-
+12911,END 596,END,LU,"Bilimsel Araş.,Etik ve Seminer",Fiziksel (Yüz yüze),Ayberk Soyer,ISB,Cuma,14:30/16:29,207,40,18,-,,-,-
 12912,HBM DRT,HBM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Adem Tekin,,,-/-,,200,9,-,,-,-
 12913,END 601E,END,LU,Stochastic Models in Op.Res.,Fiziksel (Yüz yüze),Esra Baş,MSB,Pazartesi,09:30/12:29,B04,12,11,-,,-,-
 12914,TEK 468E,TEK,LS,Textile Finishing Auxiliaries,Fiziksel (Yüz yüze),Umut Kıvanç Şahin,MKB,Salı,10:30/12:29,D368B,30,27,-,TEKE_LS,Detay,-
@@ -2753,7 +2753,7 @@
 13018,PAZ 302,PAZ,LS,Hi Tech Textiles,Fiziksel (Yüz yüze),"Burçak Karagüzel Kayaoğlu , Özgür Atalay",MKB,Cuma,09:30/12:29,D374,40,15,-,STP_LS,-,-
 13019,KON 443E,KON,LS,Vector-Based Modeling of Robotic Systems,Fiziksel (Yüz yüze),Sıddık Murat Yeşiloğlu,EEB,Çarşamba,08:30/11:29,5207,50,30,-,"KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
 13020,MTS 531E,MTS,LU,Special Topics in Arch.Design,Fiziksel (Yüz yüze),"Bihter Almaç , Hatice İpek Avanoğlu",undeclared,Cuma,14:00/16:59,--,15,8,-,,-,-
-13021,MTS 506,MTS,LU,Kent Mimarlığı,Fiziksel (Yüz yüze),Tan Kamil Gürer,undeclared,Cuma,09:30/12:29,--,15,9,-,,-,-
+13021,MTS 506,MTS,LU,Kent Mimarlığı,Fiziksel (Yüz yüze),Tan Kamil Gürer,undeclared,Cuma,09:30/12:29,--,15,10,-,,-,-
 13022,PAZ 217,PAZ,LS,Public Speaking,Fiziksel (Yüz yüze),Halime Ceren Göktaş,MKB,Perşembe,08:30/11:29,D376,40,16,-,"SMT_LS, STP_LS",-,-
 13023,MTS 523,MTS,LU,Mimari Tasarım ve Teknoloji,Fiziksel (Yüz yüze),Tülay Karakaş,undeclared,Salı,09:30/12:29,--,15,5,-,,-,-
 13024,KON 445E,KON,LS,Integrated Software Solutions for Control and Visualization,Sanal (Çevrimiçi/Online),Emre Dincel,undeclared,Pazartesi,12:30/16:29,--,30,30,-,"KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
@@ -2762,7 +2762,7 @@
 13028,MTS 623,MTS,LU,Mimarlıkta Psikoloji,Fiziksel (Yüz yüze),"Fatma Ahsen Özsoy , Elmira Ayşe Gür",undeclared,Perşembe,09:30/12:29,--,10,8,-,,-,-
 13029,PAZ 381,PAZ,LS,Principles of Accounting,Fiziksel (Yüz yüze),Kaya Tokmakçıoğlu,MKB,Pazartesi,13:30/16:29,D380A,40,15,-,STP_LS,-,-
 13030,MTS 606,MTS,LU,Mimarlıkta Estetik Olgusu,Fiziksel (Yüz yüze),Ayşe Şentürer,undeclared,Perşembe,13:30/16:29,--,10,8,-,,-,-
-13031,MTS DRT,MTS,LU,Tez Çalışması,Fiziksel (Yüz yüze),Sıdıka Aslıhan Şenel,,,-/-,,200,60,-,,-,-
+13031,MTS DRT,MTS,LU,Tez Çalışması,Fiziksel (Yüz yüze),Sıdıka Aslıhan Şenel,,,-/-,,200,61,-,,-,-
 13032,MTS YET,MTS,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Sıdıka Aslıhan Şenel,,,-/-,,200,8,-,,-,-
 13033,MTS YLT,MTS,LU,Tez Çalışması,Fiziksel (Yüz yüze),Sıdıka Aslıhan Şenel,,,-/-,,200,35,-,,-,-
 13034,MTZ 501E,MTZ,LU,Architectural Design I,Fiziksel (Yüz yüze),"Dilek Yıldız Özkan , Cem Okan Erözü",undeclared | undeclared,Çarşamba | Çarşamba,09:30/12:29 | 13:30/16:29,-- | --,15,4,-,,-,-
@@ -2803,10 +2803,10 @@
 13073,PEM 697,PEM,LU,Uzmanlık Alan Dersi,Fiziksel (Yüz yüze),Elif Lutfiye Kutay Karaçor,undeclared,Çarşamba,13:30/17:29,--,40,0,-,,-,-
 13074,BLU 539E,BLU,LU,Spec.Topics in Applied Infor.,Fiziksel (Yüz yüze),Rıza Babaei,BEB,Cuma,14:00/16:59,--,25,4,-,,-,-
 13076,BLU 596E,BLU,LU,"Scien.Rese., Ethic&Seminar",Fiziksel (Yüz yüze),Volkan Müjdat Tiryaki,BEB,Çarşamba,13:30/15:29,--,25,4,-,,-,-
-13077,GGP 505E,GGP,LU,Real Estate Finance&Investment,Fiziksel (Yüz yüze),Emre Çelik,undeclared,Pazartesi,18:00/20:59,--,20,7,-,,-,-
+13077,GGP 505E,GGP,LU,Real Estate Finance&Investment,Fiziksel (Yüz yüze),Emre Çelik,undeclared,Pazartesi,18:00/20:59,--,20,8,-,,-,-
 13078,MYZ 307E,MYZ,LS,Machine Learning for Electrical and Electronics Engineering,Fiziksel (Yüz yüze),Tufan Kumbasar,EEB,Cuma,14:00/16:59,5101,50,50,EEE_LS/5/5 | Diğer/45/45,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detay,-
-13079,GGP 513,GGP,LU,Kent.Dönüş.&Gayri.Sekt.İliş.,Fiziksel (Yüz yüze),Evren Özus,undeclared,Salı,18:00/20:59,--,20,1,-,,-,-
-13080,GGP 503,GGP,LU,Gayrimenkul Projel.Strat.Planl,Fiziksel (Yüz yüze),İlhami Akkum,undeclared,Çarşamba,18:00/20:59,--,20,16,-,,-,-
+13079,GGP 513,GGP,LU,Kent.Dönüş.&Gayri.Sekt.İliş.,Fiziksel (Yüz yüze),Evren Özus,undeclared,Salı,18:00/20:59,--,20,2,-,,-,-
+13080,GGP 503,GGP,LU,Gayrimenkul Projel.Strat.Planl,Fiziksel (Yüz yüze),İlhami Akkum,undeclared,Çarşamba,18:00/20:59,--,20,17,-,,-,-
 13082,GGP 512E,GGP,LU,Real Estate Modeling&Forecast.,Fiziksel (Yüz yüze),Kerem Yavuz Arslanlı,undeclared,Perşembe,18:00/20:59,--,20,5,-,,-,-
 13083,GGP 596E,GGP,LU,"Scien.Rese., Ethic&Seminar",Fiziksel (Yüz yüze),Kerem Yavuz Arslanlı,undeclared,Perşembe,16:00/17:59,--,20,4,-,,-,-
 13084,KON 403,KON,LS,Kontrol Lab.,Fiziksel (Yüz yüze),Ahmet Onat,undeclared,Salı,14:30/16:29,--,20,20,-,"KOM_LS, ROS_LS",Detay,-
@@ -2850,7 +2850,7 @@
 13124,SBP 625,SBP,LU,Şehir ve Bölge Plan.Öz.Kon.,Fiziksel (Yüz yüze),Yasin Bektaş,MMB,Salı,09:30/12:29,--,15,6,-,,-,-
 13125,SBP 603,SBP,LU,Şehirsel Büyüme,Fiziksel (Yüz yüze),Ebru Kerimoğlu,MMB,Salı,09:30/12:29,--,15,0,-,,-,-
 13126,SBP 609E,SBP,LU,Advanced Planning Techniques,Fiziksel (Yüz yüze),Hasan Serdar Kaya,MMB,Pazartesi,09:30/12:29,--,15,2,-,,-,-
-13128,SBP 606E,SBP,LU,Culture and Urban Space,Fiziksel (Yüz yüze),Eda Yücesoy,MMB,Çarşamba,09:30/12:29,--,15,14,-,,-,-
+13128,SBP 606E,SBP,LU,Culture and Urban Space,Fiziksel (Yüz yüze),Eda Yücesoy,MMB,Çarşamba,09:30/12:29,--,15,15,-,,-,-
 13129,SBP 613E,SBP,LU,Urban Systems,Fiziksel (Yüz yüze),Tüzin Baycan,MMB,Salı,13:30/16:29,--,15,8,-,,-,-
 13130,SBP 635E,SBP,LU,Research Design and Validity,Fiziksel (Yüz yüze),İmge Akçakaya Waıte Jr,MMB,Salı,09:30/12:29,--,15,5,-,,-,-
 13131,SBP 604E,SBP,LU,Development Planning,Fiziksel (Yüz yüze),Emine Ferhan Gezici Korten,MMB,Perşembe,13:30/16:29,--,15,2,-,,-,-
@@ -2858,7 +2858,7 @@
 13133,SBP 628,SBP,LU,Yerel Eko.Geli.Polit.&Plan.,Fiziksel (Yüz yüze),Elif Alkay,MMB,Salı,09:30/12:29,--,15,0,-,,-,-
 13134,SBP DRT,SBP,LU,Tez Çalışması,Fiziksel (Yüz yüze),Fatih Terzi,,,-/-,,200,43,-,,-,-
 13135,SBP YET,SBP,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Fatih Terzi,,,-/-,,200,8,-,,-,-
-13136,SPL 502E,SPL,LU,Advanced GIS in Urban Planning,Fiziksel (Yüz yüze),Fatih Terzi,MMB,Cuma,09:30/12:29,--,15,4,-,,-,-
+13136,SPL 502E,SPL,LU,Advanced GIS in Urban Planning,Fiziksel (Yüz yüze),Fatih Terzi,MMB,Cuma,09:30/12:29,--,15,5,-,,-,-
 13137,SPL 503E,SPL,LU,Urban Planning Project I,Fiziksel (Yüz yüze),"Zeynep Günay , Eda Yücesoy",MMB,Perşembe,13:30/16:29,--,25,20,-,,-,-
 13138,SPL 506E,SPL,LU,Applied Statistics,Fiziksel (Yüz yüze),Turgay Kerem Koramaz,MMB,Salı,09:30/12:29,--,25,18,-,,-,-
 13139,SPL 504,SPL,LU,Konut Politikası,Fiziksel (Yüz yüze),Elif Alkay,MMB,Çarşamba,13:30/16:29,--,15,1,-,,-,-
@@ -2866,7 +2866,7 @@
 13141,SPL 511E,SPL,LU,Planning Theory and Policy,Fiziksel (Yüz yüze),Başak Demireş Özkul,MMB,Cuma,09:30/12:29,--,25,23,-,,-,-
 13142,SPL 596E,SPL,LU,"Scien.Rese., Ethic&Seminar",Fiziksel (Yüz yüze),Rumeysa Ceylan Çalışkan,MMB,Perşembe,10:30/12:29,--,15,9,-,,-,-
 13143,BPL 531,BPL,LU,Çevre Politikaları ve Bölge,Fiziksel (Yüz yüze),Gamze Kazancı,MMB,Pazartesi,13:30/16:29,--,15,0,-,,-,-
-13144,BPL 596,BPL,LU,"Bilimsel Araş.,Etik ve Seminer",Fiziksel (Yüz yüze),Özhan Ertekin,MMB,Perşembe,10:30/12:29,--,10,0,-,,-,-
+13144,BPL 596,BPL,LU,"Bilimsel Araş.,Etik ve Seminer",Fiziksel (Yüz yüze),Özhan Ertekin,MMB,Perşembe,10:30/12:29,--,10,1,-,,-,-
 13145,BPL 503,BPL,LU,Metropoliten Yönetimler,Fiziksel (Yüz yüze),Numan Kılınç,MMB,Çarşamba,13:30/16:29,--,15,1,-,,-,-
 13146,BPL 513,BPL,LU,Bölgesel Kalkınma Kuram&Pol.,Fiziksel (Yüz yüze),"Emine Ferhan Gezici Korten , Ebru Kerimoğlu",MMB,Salı,13:30/16:29,--,15,1,-,,-,-
 13147,BPL 525E,BPL,LU,Rese.Meth.&Socio-Eco.Anal.,Fiziksel (Yüz yüze),"Kerem Yavuz Arslanlı , Seda Kundak",MMB,Salı,09:30/12:29,--,15,2,-,,-,-
@@ -2896,20 +2896,20 @@
 13172,EUT 559,EUT,LU,Endüstri.Tasa.Kullanılabil.,Fiziksel (Yüz yüze),Ekrem Cem Alppay,undeclared,Perşembe,09:30/12:29,--,20,7,-,,-,-
 13173,EUT 596,EUT,LU,"Bilimsel Araş.,Etik ve Seminer",Fiziksel (Yüz yüze),Layıka Ney Ece Arıburun Kırca,undeclared,Çarşamba,15:30/17:29,--,20,14,-,,-,-
 13174,EUT 611E,EUT,LU,Technology-Driven Design Research,Fiziksel (Yüz yüze),Ahmet Hamurcu,undeclared,Perşembe,13:30/16:29,--,10,3,-,,-,-
-13175,EUT 613E,EUT,LU,Cultural Approaches To Design,Fiziksel (Yüz yüze),Meltem Maralcan Gülmen,undeclared,Pazartesi,13:30/16:29,--,15,3,-,,-,-
-13177,GID 501E,GID,LU,Food Analysis:Theory&Applica.,Fiziksel (Yüz yüze),"Esra Çapanoğlu Güven , Gülay Özkan",KMB,Çarşamba,09:30/12:29,GZ103,20,20,-,,-,-
+13175,EUT 613E,EUT,LU,Cultural Approaches To Design,Fiziksel (Yüz yüze),Meltem Maralcan Gülmen,undeclared,Pazartesi,13:30/16:29,--,15,4,-,,-,-
+13177,GID 501E,GID,LU,Food Analysis:Theory&Applica.,Fiziksel (Yüz yüze),"Esra Çapanoğlu Güven , Gülay Özkan",KMB,Çarşamba,09:30/12:29,GZ103,30,20,-,,-,-
 13178,GID 504,GID,LU,Gıda Fermantasyon Prosesleri,Fiziksel (Yüz yüze),Enes Dertli,KMB,Cuma,14:00/16:59,D101,10,10,-,,-,-
 13179,GID 512E,GID,LU,Fudament.of Baking&Pasta Proc.,Fiziksel (Yüz yüze),Zeynep Tacer Caba,KMB,Pazartesi,13:30/16:29,D305,10,1,-,,-,-
 13180,GID 513,GID,LU,İleri Gıda Mikrobiyolojisi,Fiziksel (Yüz yüze),Pervin Başaran Akocak,KMB,Pazartesi,09:30/12:29,D304,10,4,-,,-,-
-13181,GID 514E,GID,LU,Novel Food Processing Techn.,Fiziksel (Yüz yüze),Gürbüz Güneş,KMB,Salı,09:30/12:29,GZ102,20,15,-,,-,-
+13181,GID 514E,GID,LU,Novel Food Processing Techn.,Fiziksel (Yüz yüze),Gürbüz Güneş,KMB,Salı,09:30/12:29,GZ102,20,16,-,,-,-
 13182,GID 523E,GID,LU,Advanced Techn.in Dairy Proces,Fiziksel (Yüz yüze),Meral Kılıç Akyılmaz,KMB,Perşembe,09:30/12:29,GZ102,10,1,-,,-,-
 13183,GID 526E,GID,LU,Valoriza.of Indust.Food Waste,Fiziksel (Yüz yüze),Derya Kahveci Karıncaoğlu,KMB,Salı,12:30/15:29,D202,10,5,-,,-,-
 13184,GID 528E,GID,LU,Encapsu.Appli.in the Food Ind.,Fiziksel (Yüz yüze),Aslı Can Karaça,KMB,Perşembe,12:30/15:29,D205,10,6,-,,-,-
 13185,GID 529E,GID,LU,Geneti.of Lactic Acid Bacteria,Fiziksel (Yüz yüze),Fatih Ortakcı,KMB,Cuma,09:30/12:29,D305,10,2,-,,-,-
 13186,GID 596,GID,LU,"Bilimsel Araş.,Etik ve Seminer",Fiziksel (Yüz yüze),Fatma Ebru Fıratlıgil,KMB,Çarşamba,13:30/15:29,GZ101,20,11,-,,-,-
-13188,GID YET,GID,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Fatma Ebru Fıratlıgil,,,-/-,,200,2,-,,-,-
-13189,GID DRT,GID,LU,Tez Çalışması,Fiziksel (Yüz yüze),Fatma Ebru Fıratlıgil,,,-/-,,200,19,-,,-,-
-13190,GID YLT,GID,LU,Tez Çalışması,Fiziksel (Yüz yüze),Fatma Ebru Fıratlıgil,,,-/-,,200,10,-,,-,-
+13188,GID YET,GID,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Fatma Ebru Fıratlıgil,,,-/-,,200,3,-,,-,-
+13189,GID DRT,GID,LU,Tez Çalışması,Fiziksel (Yüz yüze),Fatma Ebru Fıratlıgil,,,-/-,,200,22,-,,-,-
+13190,GID YLT,GID,LU,Tez Çalışması,Fiziksel (Yüz yüze),Fatma Ebru Fıratlıgil,,,-/-,,200,11,-,,-,-
 13191,JFM 501,JFM,LU,Mühendislik Matematiği,Fiziksel (Yüz yüze),Mustafa Emin Demirbağ,MDB,Salı,09:30/12:29,D106,25,20,-,,-,-
 13192,JFM 503E,JFM,LU,Signal Analysis in Geophysics,Fiziksel (Yüz yüze),Gonca Örgülü,MDB,Pazartesi,09:30/12:29,D106,10,4,-,,-,-
 13193,JFM 505E,JFM,LU,Physics&Strc.of the EarthCrust,Fiziksel (Yüz yüze),Tuna Eken,MDB,Perşembe,13:30/16:29,D106,10,0,-,,-,-
@@ -2920,7 +2920,7 @@
 13198,JFM 603E,JFM,LU,Hydro-geophysics,Fiziksel (Yüz yüze),Doğa Doğan,MDB,Çarşamba,09:30/12:29,D106,10,1,-,,-,-
 13199,JFM 605,JFM,LU,Elek.Man.Prosp.Özel Konular,Fiziksel (Yüz yüze),İsmail Kaplanvural,MDB,Cuma,09:30/12:29,--,10,1,-,,-,-
 13200,JFM 609,JFM,LU,Sismik Nitelik Analizi,Fiziksel (Yüz yüze),Hülya Kurt,MDB,Perşembe,09:30/12:29,D106,10,0,-,,-,-
-13202,JFM DRT,JFM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Neslihan Ocakoğlu Gökaşan,,,-/-,,200,2,-,,-,-
+13202,JFM DRT,JFM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Neslihan Ocakoğlu Gökaşan,,,-/-,,200,5,-,,-,-
 13203,JFM YET,JFM,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Neslihan Ocakoğlu Gökaşan,,,-/-,,200,0,-,,-,-
 13204,JFM YLT,JFM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Neslihan Ocakoğlu Gökaşan,,,-/-,,200,0,-,,-,-
 13205,MBG 511E,MBG,LU,Fermentation Technology,Fiziksel (Yüz yüze),Mustafa Türker,MOBGAM,Pazartesi,09:30/12:29,107,30,22,-,,-,-
@@ -3014,7 +3014,7 @@
 13301,JDM 631E,JDM,LU,Provenance Analysis,Fiziksel (Yüz yüze),-,,,-/-,,20,0,-,,-,-
 13302,UUM 511,UUM,LU,Viskoz Akışı,Fiziksel (Yüz yüze),Duygu Erdem,MEDC,Salı,14:30/17:29,2D11,60,15,-,,-,-
 13303,JDM 631E,JDM,LU,Provenance Analysis,Fiziksel (Yüz yüze),Alı Mohammadı,AYBE,Çarşamba,13:30/16:29,--,20,0,-,,-,-
-13304,JDM DRT,JDM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Ömer Kamacı,,,-/-,,200,3,-,,-,-
+13304,JDM DRT,JDM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Ömer Kamacı,,,-/-,,200,5,-,,-,-
 13305,JDM YET,JDM,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Ömer Kamacı,,,-/-,,200,2,-,,-,-
 13306,JDM YLT,JDM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Ömer Kamacı,,,-/-,,200,2,-,,-,-
 13307,UUM 521E,UUM,LU,Advanced Dynamics,Fiziksel (Yüz yüze),İbrahim Özkol,MEDC,Pazartesi,08:30/11:29,1D8,40,34,-,,-,-
@@ -3072,7 +3072,7 @@
 13363,IYB 501E,IYB,LUI,Building Information Modeling,Fiziksel (Yüz yüze),Esin Ergen Pehlevan,BEB,Çarşamba,19:00/21:59,201,25,14,-,,-,-
 13364,IYB 551E,IYB,LUI,Managerial&Engineering Economi,Fiziksel (Yüz yüze),Esra Baş,BEB,Cumartesi,09:00/11:59,201,25,12,-,,-,-
 13365,IYB 505E,IYB,LUI,Strategic Management in Const.,Fiziksel (Yüz yüze),Gaye Karaçay Aydın,BEB,Cumartesi,14:30/17:29,201,25,12,-,,-,-
-13366,DZC 502,DZC,LU,Denizci.Sektör.Kariyer Plan.,Fiziksel (Yüz yüze),Bayram Barış Kızılsaç,DZB,Pazartesi,08:30/11:29,--,20,10,-,,-,-
+13366,DZC 502,DZC,LU,Denizci.Sektör.Kariyer Plan.,Fiziksel (Yüz yüze),Bayram Barış Kızılsaç,DZB,Pazartesi,08:30/11:29,--,20,11,-,,-,-
 13367,ANT 501E,ANT,LU,"Ecology, Society&Susta.Deve.",Fiziksel (Yüz yüze),Bülent Arıkan,AYBE,Pazartesi,10:30/13:29,--,20,12,-,,-,-
 13368,DCZ 508,DCZ,LUI,Denizci.Kalite Sist.&Stan.,Fiziksel (Yüz yüze),Metin Çelik,DZB,Pazartesi,17:30/20:29,--,10,10,-,,-,-
 13369,ANT 504E,ANT,LU,Science in Anthropology,Fiziksel (Yüz yüze),Bülent Arıkan,AYBE,Pazartesi,14:30/17:29,--,10,0,-,,-,-
@@ -3130,17 +3130,17 @@
 13423,MAT 644E,MAT,LU,Finite Volume Methods I,Fiziksel (Yüz yüze),Samet Yücel Kadıoğlu,FEB,Pazartesi,09:30/12:29,B1_428,20,2,-,,-,-
 13424,MAT 606E,MAT,LU,Algebraic Topology,Fiziksel (Yüz yüze),Atabey Kaygun,FEB,Cuma,14:30/17:29,B1_428,20,2,-,,-,-
 13426,GEO 103E,GEO,LS,Fundamentals of Surveying,Fiziksel (Yüz yüze),Adalet Dervişoğlu,INB,Pazartesi,13:30/17:29,B306,40,25,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
-13427,CKY 537E,CKY,LU,Research Methods in Architectural Technology,Fiziksel (Yüz yüze),"Hülya Kuş , Gülten Manioğlu",undeclared,Perşembe,09:30/12:29,--,18,16,-,,-,-
+13427,CKY 537E,CKY,LU,Research Methods in Architectural Technology,Fiziksel (Yüz yüze),"Hülya Kuş , Gülten Manioğlu",undeclared,Perşembe,09:30/12:29,--,18,17,-,,-,-
 13428,CKY 596,CKY,LU,"Bilimsel Araş.,Etik ve Seminer",Fiziksel (Yüz yüze),"Halet Almıla Büyüktaşkın , Seden Acun Özgünler",undeclared,Çarşamba,15:30/17:29,--,25,4,-,,-,-
 13429,GEO 105E,GEO,LS,Intro. to Geomat. Engineering,Fiziksel (Yüz yüze),Çiğdem Göksel,INB,Pazartesi,10:30/12:29,A2,20,0,-,"GEO_LS, GEOE_LS",-,-
-13431,CKY 547,CKY,LU,Cephe Malzeme ve Bileşenleri,Fiziksel (Yüz yüze),Mehmet Serkan Yatağan,undeclared,Perşembe,13:30/16:29,--,25,12,-,,-,-
+13431,CKY 547,CKY,LU,Cephe Malzeme ve Bileşenleri,Fiziksel (Yüz yüze),Mehmet Serkan Yatağan,undeclared,Perşembe,13:30/16:29,--,25,13,-,,-,-
 13432,CKY 553,CKY,LU,Depreme Dayanıklı Mimari Tasarım Uygulama İlkeleri,Fiziksel (Yüz yüze),Ferhat Pakdamar,undeclared,Çarşamba,09:30/12:29,--,15,4,-,,-,-
 13433,CKY 549,CKY,LU,Taşıyıcı Sistem Tasarımı,Fiziksel (Yüz yüze),Necdet Torunbalcı,undeclared,Çarşamba,09:30/12:29,--,10,6,-,,-,-
 13434,GEO 109,GEO,LS,Analitik Geometri&Vektör Hesab,Fiziksel (Yüz yüze),Büşra Kartal,INB,Perşembe,13:30/16:29,B201,65,63,-,"GEO_LS, HTA_LS",-,-
 13435,CKY 543,CKY,LU,Bina Tasarımında Yangın.Korun.,Fiziksel (Yüz yüze),Nuri Serteser,undeclared,Perşembe,13:30/16:29,--,16,5,-,,-,-
 13436,CKY 510,CKY,LU,Gürültü Kont.Yapı Elem.Tasrm,Fiziksel (Yüz yüze),Tarık Serhat Bozkurt,undeclared,Cuma,14:00/16:59,--,15,5,-,,-,-
 13437,GEO 109E,GEO,LS,Analy. Geom. and Vect. Algeb.,Fiziksel (Yüz yüze),Caner Güney,INB,Salı,08:30/11:29,A202,65,65,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
-13438,CKY 529,CKY,LU,Proje II,Fiziksel (Yüz yüze),Halet Almıla Büyüktaşkın,undeclared,Pazartesi,09:30/12:29,--,30,5,-,,-,-
+13438,CKY 529,CKY,LU,Proje II,Fiziksel (Yüz yüze),Halet Almıla Büyüktaşkın,undeclared,Pazartesi,09:30/12:29,--,30,6,-,,-,-
 13439,CKY 533,CKY,LU,Proje I,Fiziksel (Yüz yüze),Halet Almıla Büyüktaşkın,undeclared,Pazartesi,13:30/16:29,--,30,10,-,,-,-
 13440,CKY YLT,CKY,LU,Tez Çalışması,Fiziksel (Yüz yüze),Halet Almıla Büyüktaşkın,,,-/-,,200,22,-,,-,-
 13441,GEO 111,GEO,LS,Geomatik Müh. Giriş ve Etik,Fiziksel (Yüz yüze),Çiğdem Göksel,INB,Salı,08:30/10:29,A203,60,49,-,"GEO_LS, HTA_LS",-,-
@@ -3159,13 +3159,13 @@
 13456,CBM 502E,CBM,LU,S.Analy.for Exp.Design&Data PR,Fiziksel (Yüz yüze),"Hayrettin Güçlü İnsel , Alpaslan Ekdal",undeclared,Perşembe,13:30/16:29,--,30,16,-,,-,-
 13457,CBM 514,CBM,LU,Çevre Sis.Koku ve Emisyon Kont,Fiziksel (Yüz yüze),Kadir Alp,undeclared,Pazartesi,09:30/12:29,--,30,0,-,,-,-
 13458,GEO 208,GEO,LS,Uzaktan Algılama I,Fiziksel (Yüz yüze),Şinasi Kaya,INB,Salı,09:30/11:29,A1,30,11,-,"GEO_LS, HTA_LS",-,-
-13459,CBM 517E,CBM,LU,Wastewater Reclamation&Reuse,Fiziksel (Yüz yüze),"Hüseyin Erdem Görgün , Fatma Fatoş Babuna",undeclared,Cuma,09:30/12:29,--,30,9,-,,-,-
+13459,CBM 517E,CBM,LU,Wastewater Reclamation&Reuse,Fiziksel (Yüz yüze),"Hüseyin Erdem Görgün , Fatma Fatoş Babuna",undeclared,Cuma,09:30/12:29,--,30,10,-,,-,-
 13460,CBM 533,CBM,LU,Çevresel Sistem.Matem.Ana.,Fiziksel (Yüz yüze),"Onur Yılmaz Özcan , Mehmet Sadık Akca",undeclared,Salı,14:30/17:29,--,30,26,-,,-,-
 13461,GEO 208E,GEO,LS,Remote Sensing I,Fiziksel (Yüz yüze),Ayşe Filiz Sunar,INB,Salı,09:30/11:29,A3,30,8,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
 13462,CBM 535,CBM,LU,Çevre Bil.&Müh.Özel Konu.,Fiziksel (Yüz yüze),Ali Fuat Aydın,undeclared,Salı,08:30/11:29,--,30,17,-,,-,-
 13463,CBM 539,CBM,LU,Hava Kirlenmesi,Fiziksel (Yüz yüze),"Sadullah Levent Kuzu , Burçak Kaynak Tezel",undeclared,Cuma,14:30/17:29,--,30,0,-,,-,-
 13464,GEO 209,GEO,LS,Taşınmaz Hukuku,Fiziksel (Yüz yüze),"Mustafa Yanalak , Mehmet İşiler",INB,Çarşamba,13:30/15:29,A101,80,60,-,"GEO_LS, HTA_LS",-,-
-13465,CBM 546E,CBM,LU,Integrated Watershed Manag.,Fiziksel (Yüz yüze),"Alpaslan Ekdal , Melike Gürel",undeclared,Salı,08:30/11:29,--,30,9,-,,-,-
+13465,CBM 546E,CBM,LU,Integrated Watershed Manag.,Fiziksel (Yüz yüze),"Alpaslan Ekdal , Melike Gürel",undeclared,Salı,08:30/11:29,--,30,10,-,,-,-
 13466,CBM 551E,CBM,LU,Energy Effi.in Wastewat.Treat.,Fiziksel (Yüz yüze),"Mustafa Evren Erşahin , Hale Özgün Erşahin",undeclared,Çarşamba,09:30/12:29,--,30,6,-,,-,-
 13467,CBM 553,CBM,LU,Atık&Biyokütle.Enerji Üretimi,Fiziksel (Yüz yüze),"Hasan Can Okutan , Bülent İnanç , Kadir Alp",undeclared,Perşembe,08:30/11:29,--,30,3,-,,-,-
 13468,BLU 537E,BLU,LU,Data Analysis&Visualization,Fiziksel (Yüz yüze),Muhammet Sebul Beratoğlu,BEB,Salı,09:30/12:29,413,30,30,-,,-,-
@@ -3188,7 +3188,7 @@
 13487,CBM YLT,CBM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Kübra Altuntaş,,,-/-,,200,14,-,,-,-
 13488,BLU DRT,BLU,LU,Tez Çalışması,Fiziksel (Yüz yüze),Behçet Uğur Töreyin,,,-/-,,200,2,-,,-,-
 13489,GEO 220,GEO,LS,Geomatik Müh.İçin Müh. Mat.,Fiziksel (Yüz yüze),Mehmet Ufuk Özerman,INB,Salı,08:30/11:29,D202,55,52,-,"GEO_LS, HTA_LS",Detay,-
-13490,BBL 596E,BBL,LU,"Scien.Rese., Ethic&Seminar",Fiziksel (Yüz yüze),Abdulkerim Çapar,BEB,Çarşamba,13:30/15:29,--,25,22,-,,-,-
+13490,BBL 596E,BBL,LU,"Scien.Rese., Ethic&Seminar",Fiziksel (Yüz yüze),Abdulkerim Çapar,BEB,Çarşamba,13:30/15:29,--,25,23,-,,-,-
 13491,ENB 501E,ENB,LU,Fundamentals of Env.Biotech. I,Fiziksel (Yüz yüze),Gülsüm Emel Zengin Balcı,undeclared,Cuma,08:30/11:29,--,30,2,-,,-,-
 13492,BLU YET,BLU,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Behçet Uğur Töreyin,,,-/-,,200,1,-,,-,-
 13493,GEO 220E,GEO,LS,Mathematics for Geomatics Eng.,Fiziksel (Yüz yüze),Hasan Tonbul,INB,Pazartesi,13:30/16:29,A105,60,50,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detay,-
@@ -3201,12 +3201,12 @@
 13501,ENB 510E,ENB,LU,Biodegradation of Indust.Waste,Fiziksel (Yüz yüze),"Fatma Fatoş Babuna , Fatma Gülen İskender , Serdar Doğruel",undeclared,Salı,13:30/16:29,--,30,1,-,,-,-
 13502,GEO 4901E,GEO,LS,Geomatics Eng. Design I,Fiziksel (Yüz yüze),Mehmet Ufuk Özerman,,,-/-,,500,40,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detay,Detay
 13503,ENB DRT,ENB,LU,Tez Çalışması,Fiziksel (Yüz yüze),Mahmut Altınbaş,,,-/-,,200,3,-,,-,-
-13504,BBL 539E,BBL,LU,Quantum Communication,Fiziksel (Yüz yüze),Deniz Türkpençe,BEB,Perşembe,14:30/17:29,--,15,8,-,,-,-
+13504,BBL 539E,BBL,LU,Quantum Communication,Fiziksel (Yüz yüze),Deniz Türkpençe,BEB,Perşembe,14:30/17:29,--,15,9,-,,-,-
 13505,ENB YET,ENB,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Mahmut Altınbaş,,,-/-,,200,0,-,,-,-
 13506,GEO 4902,GEO,LS,Geomatik Müh. Tasarımı II,Fiziksel (Yüz yüze),Mustafa Yanalak,,,-/-,,500,13,-,"GEO_LS, HTA_LS",Detay,-
 13507,ENB YLT,ENB,LU,Tez Çalışması,Fiziksel (Yüz yüze),Mahmut Altınbaş,,,-/-,,200,3,-,,-,-
 13508,GEO 4902E,GEO,LS,Geomatics Eng. Design II,Fiziksel (Yüz yüze),Mustafa Yanalak,,,-/-,,500,24,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detay,-
-13509,BBL 540E,BBL,LU,Quantum Data Structures and Algorithms,Sanal (Çevrimiçi/Online),Deniz Türkpençe,Online/Çevrimiçi,Perşembe,08:30/11:29,--,15,6,-,,-,-
+13509,BBL 540E,BBL,LU,Quantum Data Structures and Algorithms,Sanal (Çevrimiçi/Online),Deniz Türkpençe,Online/Çevrimiçi,Perşembe,08:30/11:29,--,15,7,-,,-,-
 13510,BBL 606,BBL,LU,Veri Madenciliği,Fiziksel (Yüz yüze),Nisa Özge Önal Tuğrul,BEB,Salı,13:30/16:29,--,25,25,-,,-,-
 13511,GEO 221E,GEO,LS,Num. Meth. for Geomatics Eng.,Fiziksel (Yüz yüze),Mustafa Fahri Karabulut,INB,Cuma,14:30/17:29,A101,60,55,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
 13512,BBL 541E,BBL,LU,Modeling and Analysis of Markovian Systems,Fiziksel (Yüz yüze),Evren Dağlarlı,BEB,Salı,09:30/12:29,--,25,4,-,,-,-
@@ -3231,7 +3231,7 @@
 13532,YSB 579E,YSB,LU,Special Top.in Earth Sys.Sci.,Fiziksel (Yüz yüze),"Alper Ünal , Yusuf Aydın",AYBE,Perşembe,09:30/12:29,--,25,2,-,,-,-
 13533,YSB 581E,YSB,LU,Evolution,Fiziksel (Yüz yüze),Emrah Çoraman,AYBE,Salı,14:30/17:29,--,25,1,-,,-,-
 13534,YSB 596E,YSB,LU,"Scien.Rese., Ethic&Seminar",Fiziksel (Yüz yüze),Hüseyin Özdemir,AYBE,Çarşamba,13:30/15:29,--,25,2,-,,-,-
-13535,KIM YLT,KIM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Barış Kışkan,,,-/-,,200,20,-,,-,-
+13535,KIM YLT,KIM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Barış Kışkan,,,-/-,,200,21,-,,-,-
 13536,KIM DRT,KIM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Barış Kışkan,,,-/-,,200,22,-,,-,-
 13537,KIM YET,KIM,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Barış Kışkan,,,-/-,,200,2,-,,-,-
 13538,MAM YLT,MAM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Billur Deniz Karahan,,,-/-,,200,21,-,,-,-
@@ -3263,26 +3263,26 @@
 13565,MIT DRT,MIT,LU,Tez Çalışması,Fiziksel (Yüz yüze),Vesile Gül Cephanecigil,,,-/-,,200,15,-,,-,-
 13566,MIT YET,MIT,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Vesile Gül Cephanecigil,,,-/-,,200,0,-,,-,-
 13567,MIM 114E,MIM,LS,Accessibility,Fiziksel (Yüz yüze),Göksenin İnalhan,undeclared,Salı,12:30/14:29,--,40,0,-,"MIM_LS, MIME_LS",-,-
-13568,DTM YLT,DTM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Serdar Aytekin Köroğlu,,,-/-,,200,10,-,,-,-
+13568,DTM YLT,DTM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Serdar Aytekin Köroğlu,,,-/-,,200,11,-,,-,-
 13569,DTM DRT,DTM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Serdar Aytekin Köroğlu,,,-/-,,200,10,-,,-,-
 13570,DTM YET,DTM,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Serdar Aytekin Köroğlu,,,-/-,,200,2,-,,-,-
 13571,MZJ YLT,MZJ,LU,Tez Çalışması,Fiziksel (Yüz yüze),Eray Cömert,,,-/-,,200,2,-,,-,-
 13572,MBL YLT,MBL,LU,Tez Çalışması,Fiziksel (Yüz yüze),Leman Figen Gül,,,-/-,,200,27,-,,-,-
 13573,MBL DRT,MBL,LU,Tez Çalışması,Fiziksel (Yüz yüze),Leman Figen Gül,,,-/-,,200,44,-,,-,-
 13574,MBL YET,MBL,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Leman Figen Gül,,,-/-,,200,5,-,,-,-
-13575,YAB DRT,YAB,LU,Tez Çalışması,Fiziksel (Yüz yüze),Şule Filiz Akşit,,,-/-,,200,40,-,,-,-
+13575,YAB DRT,YAB,LU,Tez Çalışması,Fiziksel (Yüz yüze),Şule Filiz Akşit,,,-/-,,200,41,-,,-,-
 13577,YAB YET,YAB,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Şule Filiz Akşit,,,-/-,,200,3,-,,-,-
 13578,TEL YLT,TEL,LU,Tez Çalışması,Fiziksel (Yüz yüze),Ender Mete Ekşioğlu,,,-/-,,200,30,-,,-,-
 13579,TEL DRT,TEL,LU,Tez Çalışması,Fiziksel (Yüz yüze),Ender Mete Ekşioğlu,,,-/-,,200,6,-,,-,-
 13580,TEL YET,TEL,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Ender Mete Ekşioğlu,,,-/-,,200,3,-,,-,-
 13581,ULS YLT,ULS,LU,Tez Çalışması,Fiziksel (Yüz yüze),Halit Özen,,,-/-,,200,4,-,,-,-
-13582,ULS DRT,ULS,LU,Tez Çalışması,Fiziksel (Yüz yüze),Halit Özen,,,-/-,,200,14,-,,-,-
+13582,ULS DRT,ULS,LU,Tez Çalışması,Fiziksel (Yüz yüze),Halit Özen,,,-/-,,200,15,-,,-,-
 13583,ULS YET,ULS,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Halit Özen,,,-/-,,200,2,-,,-,-
 13584,YIP YLT,YIP,LU,Tez Çalışması,Fiziksel (Yüz yüze),Atilla Damcı,,,-/-,,200,13,-,,-,-
 13585,GEO 309,GEO,LS,Fotogrametri I,Fiziksel (Yüz yüze),Zaide Duran,INB,Çarşamba,13:30/15:29,B204,25,25,-,"GEO_LS, HTA_LS",-,-
 13586,MHY YLT,MHY,LU,Tez Çalışması,Fiziksel (Yüz yüze),Ayberk Soyer,,,-/-,,200,9,-,,-,-
 13587,GEO 309,GEO,LS,Fotogrametri I,Fiziksel (Yüz yüze),Muhammed Enes Atik,INB,Çarşamba,13:30/15:29,B206,25,16,-,"GEO_LS, HTA_LS",-,-
-13588,END YLT,END,LU,Tez Çalışması,Fiziksel (Yüz yüze),Başar Öztayşi,,,-/-,,200,15,-,,-,-
+13588,END YLT,END,LU,Tez Çalışması,Fiziksel (Yüz yüze),Başar Öztayşi,,,-/-,,200,16,-,,-,-
 13589,GEO 309E,GEO,LS,Photogrammetry I,Fiziksel (Yüz yüze),Dursun Zafer Şeker,INB,Perşembe,08:30/10:29,A103,48,45,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
 13590,END DRT,END,LU,Tez Çalışması,Fiziksel (Yüz yüze),Başar Öztayşi,,,-/-,,200,20,-,,-,-
 13591,END YET,END,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Başar Öztayşi,,,-/-,,200,6,-,,-,-
@@ -3354,7 +3354,7 @@
 13660,MIM 211,MIM,LS,Mimari Proje III,Fiziksel (Yüz yüze),Hakan Tong,undeclared | undeclared,Pazartesi | Perşembe,13:30/17:29 | 13:30/17:29,-- | --,17,15,-,MIM_LS,Detay,-
 13661,GGP YLT,GGP,LU,Tez Çalışması,Fiziksel (Yüz yüze),Kerem Yavuz Arslanlı,,,-/-,,200,8,-,,-,-
 13662,MIM 211,MIM,LS,Mimari Proje III,Fiziksel (Yüz yüze),Ayşe Meltem Baslo,undeclared | undeclared,Pazartesi | Perşembe,13:30/17:29 | 13:30/17:29,-- | --,15,15,-,MIM_LS,Detay,-
-13663,SPL YLT,SPL,LU,Tez Çalışması,Fiziksel (Yüz yüze),Turgay Kerem Koramaz,,,-/-,,200,8,-,,-,-
+13663,SPL YLT,SPL,LU,Tez Çalışması,Fiziksel (Yüz yüze),Turgay Kerem Koramaz,,,-/-,,200,9,-,,-,-
 13664,MIM 211E,MIM,LS,Architectural Design III,Fiziksel (Yüz yüze),Pelin Dursun Çebi,undeclared | undeclared,Pazartesi | Perşembe,13:30/17:29 | 13:30/17:29,-- | --,20,18,-,"ARC_LS, MIM_LS, MIME_LS",Detay,-
 13665,MIM 211E,MIM,LS,Architectural Design III,Fiziksel (Yüz yüze),Fatma Erkök,undeclared | undeclared,Pazartesi | Perşembe,13:30/17:29 | 13:30/17:29,-- | --,20,18,-,"ARC_LS, MIM_LS, MIME_LS",Detay,-
 13666,BPL YLT,BPL,LU,Tez Çalışması,Fiziksel (Yüz yüze),Ebru Kerimoğlu,,,-/-,,200,2,-,,-,-
@@ -3362,7 +3362,7 @@
 13668,EUT DRT,EUT,LU,Tez Çalışması,Fiziksel (Yüz yüze),Koray Gelmez,,,-/-,,200,14,-,,-,-
 13669,EUT YET,EUT,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Koray Gelmez,,,-/-,,200,2,-,,-,-
 13670,MBG YLT,MBG,LU,Tez Çalışması,Fiziksel (Yüz yüze),Çiğdem Yılmaz Çolak,,,-/-,,200,30,-,,-,-
-13671,MBG DRT,MBG,LU,Tez Çalışması,Fiziksel (Yüz yüze),Çiğdem Yılmaz Çolak,,,-/-,,200,8,-,,-,-
+13671,MBG DRT,MBG,LU,Tez Çalışması,Fiziksel (Yüz yüze),Çiğdem Yılmaz Çolak,,,-/-,,200,9,-,,-,-
 13672,MBG YET,MBG,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Çiğdem Yılmaz Çolak,,,-/-,,200,3,-,,-,-
 13673,MYE YLT,MYE,LU,Tez Çalışması,Fiziksel (Yüz yüze),Jerfi Aji,,,-/-,,200,7,-,,-,-
 13674,UUM YLT,UUM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Halit Süleyman Türkmen,,,-/-,,200,61,-,,-,-
@@ -3393,7 +3393,7 @@
 13700,MJT 601E,MJT,LU,Systematic Musicology Studies,Fiziksel (Yüz yüze),Fatma Belma Oğul,undeclared,Salı,09:30/12:29,--,10,3,-,,-,-
 13701,MJT 603,MJT,LU,İleri Müzik Paleografyası,Fiziksel (Yüz yüze),Nilgün Doğrusöz Dişiaçık,undeclared,Perşembe,09:30/12:29,--,10,4,-,,-,-
 13702,MJT 607,MJT,LU,16.&17.YY. Türk Müziği Çalışm.,Fiziksel (Yüz yüze),Nilgün Doğrusöz Dişiaçık,undeclared,Çarşamba,09:30/12:29,--,10,3,-,,-,-
-13703,MJT 614E,MJT,LU,Theoritica.Persp.Ethnomusicol.,Fiziksel (Yüz yüze),Songül Karahasanoğlu,undeclared,Çarşamba,13:30/16:29,--,10,1,-,,-,-
+13703,MJT 614E,MJT,LU,Theoritica.Persp.Ethnomusicol.,Fiziksel (Yüz yüze),Songül Karahasanoğlu,undeclared,Çarşamba,13:30/16:29,--,10,2,-,,-,-
 13704,MJT 609,MJT,LU,Türk Dünyasında Aşık Sanatı,Fiziksel (Yüz yüze),Süleyman Şenel,undeclared,Salı,13:30/16:29,--,10,1,-,,-,-
 13705,MJT 611E,MJT,LU,Comm.&Mass Media Music,Fiziksel (Yüz yüze),Songül Karahasanoğlu,undeclared,Çarşamba,09:30/12:29,--,10,2,-,,-,-
 13706,MJT 613,MJT,LU,Müziğin Toplumbilim.Bileşen.,Fiziksel (Yüz yüze),Ali Ergur,undeclared,Cuma,09:30/12:29,--,10,4,-,,-,-
@@ -3491,7 +3491,7 @@
 13806,MTT 102E,MTT,LS,Advanced Linear Algebra,Fiziksel (Yüz yüze),Nurettin Cenk Turgay,FEB,Çarşamba,17:30/21:29,D104,40,22,-,"MAT_LS, MTT_LS",Detay,-
 13808,MTT 305E,MTT,LS,Number Theory,Fiziksel (Yüz yüze),Ergün Yaraneri,FEB,Pazartesi,17:30/20:29,D102,40,14,-,"MAT_LS, MTT_LS",-,-
 13810,SUS 503E,SUS,LU,Sustainability Develop.Funda.,Fiziksel (Yüz yüze),"Ebru Acuner Türet , Kadriye Elif Maçin",MEDC,Çarşamba,09:30/12:29,1D4,20,20,-,,-,-
-13811,SUS 509E,SUS,LU,Philosophy of Scie.for Susta.,Fiziksel (Yüz yüze),Burak Barutçu,MED,Perşembe,13:30/16:29,B36,20,19,-,,-,-
+13811,SUS 509E,SUS,LU,Philosophy of Scie.for Susta.,Fiziksel (Yüz yüze),Burak Barutçu,MED,Perşembe,13:30/16:29,B36,20,20,-,,-,-
 13812,SUS YLT,SUS,LU,Thesis,Fiziksel (Yüz yüze),Ebru Acuner Türet,,,-/-,,100,42,-,,-,-
 13813,EBT 543E,EBT,LU,Energy&Natural Resources Law,Fiziksel (Yüz yüze),Ebru Acuner Türet,MEDC,Çarşamba,13:30/16:29,1D4,20,20,-,,-,-
 13814,EBT 551E,EBT,LU,Zero Energy Buildings,Fiziksel (Yüz yüze),Hatice Sözer,ENB,Salı,09:30/12:29,--,20,11,-,,-,-
@@ -3585,7 +3585,7 @@
 13908,MTO 607E,MTO,LU,Inst.&Data Pro.Tec.in Sp.Weat.,Fiziksel (Yüz yüze),Zerefşan Kaymaz,undeclared,Çarşamba,08:30/11:29,--,20,2,-,,-,-
 13910,MTO 610E,MTO,LU,Geophysical Fluid Dynamics,Fiziksel (Yüz yüze),Elçin Tan,undeclared,Perşembe,08:30/11:29,--,20,0,-,,-,-
 13911,MTO 605E,MTO,LU,Atmospheric Turb.Air Poll.Modl,Fiziksel (Yüz yüze),"Hüseyin Toros , Salahattin İncecik",undeclared,Cuma,08:30/11:29,--,20,3,-,,-,-
-13912,MTO DRT,MTO,LU,Tez Çalışması,Fiziksel (Yüz yüze),Yurdanur Ünal,,,-/-,,200,14,-,,-,-
+13912,MTO DRT,MTO,LU,Tez Çalışması,Fiziksel (Yüz yüze),Yurdanur Ünal,,,-/-,,200,15,-,,-,-
 13913,MTO YLT,MTO,LU,Tez Çalışması,Fiziksel (Yüz yüze),Yurdanur Ünal,,,-/-,,200,8,-,,-,-
 13914,MTO YET,MTO,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Yurdanur Ünal,,,-/-,,200,2,-,,-,-
 13915,TES 111E,TES,LS,Project I,Fiziksel (Yüz yüze),Sezen Tarakçı,undeclared | undeclared,Pazartesi | Perşembe,08:30/12:29 | 08:30/12:29,-- | --,20,14,-,"SBP_LS, SBPE_LS",-,-
@@ -3678,7 +3678,7 @@
 14009,EBT 601E,EBT,LU,Multi-Phase Flows,Fiziksel (Yüz yüze),Ahmet Durmayaz,ENB,Pazartesi,13:30/16:29,--,20,2,-,,-,-
 14010,MIM 312E,MIM,LS,Architectural Design VI,Fiziksel (Yüz yüze),Sıdıka Aslıhan Şenel,undeclared | undeclared,Pazartesi | Perşembe,13:30/17:29 | 13:30/17:29,-- | --,3,3,-,"ARC_LS, MIM_LS, MIME_LS",Detay,-
 14011,EBT 503E,EBT,LU,Advanced Thermodynamics,Fiziksel (Yüz yüze),"Hanife Tuba Okutucu Özyurt , Adnan Midilli , Sevan Karabetoğlu",ENB,Salı,09:30/12:29,--,20,9,-,,-,-
-14012,EBT 535,EBT,LU,Endüstride Enerji Yönetimi,Fiziksel (Yüz yüze),"Önder Güler , Sermin Onaygil",ENB,Salı,09:30/12:29,--,20,12,-,,-,-
+14012,EBT 535,EBT,LU,Endüstride Enerji Yönetimi,Fiziksel (Yüz yüze),"Önder Güler , Sermin Onaygil",ENB,Salı,09:30/12:29,--,20,13,-,,-,-
 14013,MIM 312E,MIM,LS,Architectural Design VI,Fiziksel (Yüz yüze),Mehmet Emin Şalgamcıoğlu,undeclared | undeclared,Pazartesi | Perşembe,13:30/17:29 | 13:30/17:29,-- | --,3,3,-,"ARC_LS, MIM_LS, MIME_LS",Detay,-
 14014,MAT 272E,MAT,LS,Advanced Mathematics,Fiziksel (Yüz yüze),Ergün Yaraneri,FEB,Perşembe,14:30/17:29,D103,65,60,ECNE_LS/5/1 | Diğer/60/59,"ECNE_LS, MAT_LS, MAT_YD, MAT_YD_TE, MTT_LS",Detay,-
 14015,HSK 613E,HSK,LU,Flood Control,Fiziksel (Yüz yüze),Mehmet Özger,undeclared,Salı,12:30/15:29,--,20,4,-,,-,-
@@ -3691,7 +3691,7 @@
 14022,HSK 514,HSK,LU,Baraj Planlama ve Tasarımı,Fiziksel (Yüz yüze),Şevket Çokgör,undeclared,Perşembe,09:30/12:29,--,20,0,-,,-,-
 14024,HSK 529,HSK,LU,Kentsel Altyapı Hidroliği,Fiziksel (Yüz yüze),Erdal Kesgin,undeclared,Salı,09:30/12:29,--,20,4,-,,-,-
 14025,HSK 531E,HSK,LU,Hydrologic Mod.With Remote Sen,Fiziksel (Yüz yüze),Mehmet Cüneyd Demirel,undeclared,Perşembe,09:30/12:29,--,20,4,-,,-,-
-14026,BVA 501E,BVA,LU,Advances in Data Science,Fiziksel (Yüz yüze),Sefer Baday,ISB,Perşembe,14:30/17:29,210,40,36,-,,-,-
+14026,BVA 501E,BVA,LU,Advances in Data Science,Fiziksel (Yüz yüze),Sefer Baday,ISB,Perşembe,14:30/17:29,210,40,39,-,,-,-
 14027,BVA 507E,BVA,LU,Business Analytics for Managers,Fiziksel (Yüz yüze),Alp Üstündağ,undeclared,Perşembe,09:30/12:29,--,25,7,-,,-,-
 14028,BVA 528E,BVA,LU,Deep Learning App in Business,Fiziksel (Yüz yüze),Mehmet Güray Güler,MSB,Salı,09:30/12:29,113,25,25,-,,-,-
 14029,GAM 501E,GAM,LU,Introd.to Game Design&Devel.,Fiziksel (Yüz yüze),Hüseyin Kutay Tinç,undeclared,Cuma,09:30/12:29,--,30,25,-,,-,-
@@ -3707,7 +3707,7 @@
 14039,EBT 561E,EBT,LU,Hydrogen Ener.Techn.&Analysis,Fiziksel (Yüz yüze),"Mehmet Suha Yazıcı , Anıl Erdoğan",ENB,Salı,09:30/12:29,--,25,5,-,,-,-
 14040,EBT 605E,EBT,LU,Nucle.Fuel Cycle:Analy.&Manag.,Fiziksel (Yüz yüze),Nilgün Baydoğan,ENB,Salı,09:30/12:29,--,15,1,-,,-,-
 14041,EBT 617,EBT,LU,Enerji Bilim&Tek.İleri Konular,Fiziksel (Yüz yüze),"Mehmet Özgür Kayalıca , Denizhan Güven",ENB,Salı,09:30/12:29,--,10,3,-,,-,-
-14042,EBT 527E,EBT,LU,Wind Energy&Conversion Tech.,Fiziksel (Yüz yüze),"Burak Barutçu , Mustafa Kemal Kaymak",ENB,Salı,13:30/16:29,--,30,18,-,,-,-
+14042,EBT 527E,EBT,LU,Wind Energy&Conversion Tech.,Fiziksel (Yüz yüze),"Burak Barutçu , Mustafa Kemal Kaymak",ENB,Salı,13:30/16:29,--,30,19,-,,-,-
 14043,EBT 506,EBT,LU,Isı Değiştiricileri,Fiziksel (Yüz yüze),Adnan Midilli,ENB,Salı,13:30/16:29,--,20,3,-,,-,-
 14044,EBT 515,EBT,LU,Nükleer Mühendisliğin Esasları,Fiziksel (Yüz yüze),Ahmet Durmayaz,ENB,Salı,13:30/16:29,--,30,4,-,,-,-
 14045,EBT 546,EBT,LU,Enerji Bilim&Teknol.Özel Konu.,Fiziksel (Yüz yüze),Anıl Erdoğan,ENB,Salı,13:30/16:29,--,20,0,-,,-,-
@@ -3724,7 +3724,7 @@
 14056,EBT 627,EBT,LU,Radyoaktif İzleme Teknikleri,Fiziksel (Yüz yüze),Nesrin Altınsoy,ENB,Çarşamba,13:30/16:29,--,10,0,-,,-,-
 14057,CEV 242E,CEV,LS,Hydrlgy.for Environmental Eng.,Fiziksel (Yüz yüze),Çiğdem Gömeç,INB,Cuma,08:30/11:29,B103,80,73,-,"CEV_LS, CEVE_LS",Detay,-
 14059,CEV 301,CEV,LS,Kimyasal Prosesler,Fiziksel (Yüz yüze),"Nuray Işık Kabdaşlı , Serdar Doğruel",INB,Perşembe,12:30/15:29,A204,60,45,-,CEV_LS,Detay,-
-14060,EBT 501E,EBT,LU,Engineering Mathematics,Fiziksel (Yüz yüze),Coşkun Fırat,ENB,Perşembe,09:30/12:29,--,40,30,-,,-,-
+14060,EBT 501E,EBT,LU,Engineering Mathematics,Fiziksel (Yüz yüze),Coşkun Fırat,ENB,Perşembe,09:30/12:29,--,40,31,-,,-,-
 14061,EBT 554E,EBT,LU,Energy Market Management,Fiziksel (Yüz yüze),Mehmet Özgür Kayalıca,ENB,Perşembe,09:30/12:29,--,25,24,-,,-,-
 14062,CEV 301E,CEV,LS,Chemical Processes,Fiziksel (Yüz yüze),"İdil Arslan Alaton , Vahıd Vatanpour Sargheın",INB,Perşembe,12:30/15:29,B101,45,45,-,"CEV_LS, CEVE_LS",Detay,-
 14063,EBT 557E,EBT,LU,Energy Systems for Buildings,Fiziksel (Yüz yüze),"Duygu Utkucu , Hatice Sözer",ENB,Perşembe,09:30/12:29,--,20,3,-,,-,-
@@ -3819,7 +3819,7 @@
 14155,TEL 603E,TEL,LU,Adv. Topics in Telecommunicati,Fiziksel (Yüz yüze),Emre Arslan,undeclared,Cuma,14:00/16:59,--,20,11,-,,-,-
 14156,DUM 501E,DUM,LU,Engineering Mathematics,Fiziksel (Yüz yüze),Bayram Barış Kızılsaç,undeclared,Salı,08:30/11:29,--,20,9,-,,-,-
 14157,DUM 505E,DUM,LU,Maritime Organizations,Fiziksel (Yüz yüze),Fırat Bolat,undeclared,Çarşamba,15:30/18:29,--,20,5,-,,-,-
-14158,DUM 518,DUM,LU,Denizcilikte Risk Yönetimi,Fiziksel (Yüz yüze),Tuba Keçeci,undeclared,Pazartesi,14:30/17:29,--,20,7,-,,-,-
+14158,DUM 518,DUM,LU,Denizcilikte Risk Yönetimi,Fiziksel (Yüz yüze),Tuba Keçeci,undeclared,Pazartesi,14:30/17:29,--,20,8,-,,-,-
 14159,DUM 521E,DUM,LU,Maritime Safety Engineering,Fiziksel (Yüz yüze),"Özcan Arslan , Esma Uflaz",undeclared,Pazartesi,08:30/11:29,--,20,2,-,,-,-
 14160,DUM 525E,DUM,LU,Rese.Metho.in Marit.Trans.Eng.,Fiziksel (Yüz yüze),Esma Uflaz,undeclared,Çarşamba,08:30/11:29,--,20,5,-,,-,-
 14162,DUM 531E,DUM,LU,Chartering and Brokering,Fiziksel (Yüz yüze),Hasan Bora Usluer,undeclared,Çarşamba,08:30/11:29,--,20,4,-,,-,-
@@ -3838,7 +3838,7 @@
 14175,DUM 628E,DUM,LU,Maritime Organization Manage.,Fiziksel (Yüz yüze),Leyla Tavacıoğlu,undeclared,Çarşamba,11:30/14:29,--,10,1,-,,-,-
 14177,DUM YLT,DUM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Tayfun Uyanık,,,-/-,,30,3,-,,-,-
 14178,DUM YET,DUM,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Tayfun Uyanık,,,-/-,,30,2,-,,-,-
-14179,DUM DRT,DUM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Tayfun Uyanık,,,-/-,,30,24,-,,-,-
+14179,DUM DRT,DUM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Tayfun Uyanık,,,-/-,,30,25,-,,-,-
 14180,MIM 4024,MIM,LS,Taşıyıcı Sistem Tasarımı,Fiziksel (Yüz yüze),Necdet Torunbalcı,undeclared,Çarşamba,13:30/15:29,--,25,8,-,MIM_LS,Detay,-
 14181,MIM 4028,MIM,LS,Mimari Tasarım & Yapımda Ahşap,Fiziksel (Yüz yüze),"Hülya Kuş , Gülfer Oraz",undeclared,Cuma,14:00/16:59,--,15,9,-,MIM_LS,Detay,-
 14182,MIM 4032,MIM,LS,Tarihte Bahçe Tasarımları&Mim.,Fiziksel (Yüz yüze),Aygül Ağır,undeclared,Cuma,14:30/16:29,--,20,4,-,"ICM_LS, MIM_LS, SBP_LS",Detay,-
@@ -4256,14 +4256,14 @@
 14617,SEC 113E,SEC,LS,Intr. to Cyber Sec. Eng & Ethics,Fiziksel (Yüz yüze),Abdül Halim Zaim,BBB,Çarşamba,13:30/15:29,Z-20,60,29,-,SECE_LS,-,-
 14618,SEC 211E,SEC,LS,Essentials of Cyber Security,Fiziksel (Yüz yüze),Burcu Sönmez Sarıkaya,BBB,Çarşamba,08:30/11:29,Z-20,60,34,-,SECE_LS,-,-
 14619,SEC 311E,SEC,LS,Computer Security,Fiziksel (Yüz yüze),Hacı Hakan Kılınç,BBB,Pazartesi,14:30/17:29,Z-23,30,3,-,SECE_LS,Detay,-
-14620,RSM 596,RSM,LU,"Bilimsel Araş.,Etik ve Seminer",Fiziksel (Yüz yüze),Serhat Boynukalın,undeclared,Çarşamba,09:30/11:29,--,20,4,-,,-,-
-14621,RSM 503,RSM,LU,Raylı Sistemlerin Mühendisliği,Fiziksel (Yüz yüze),"Oğuz Tengilimoğlu , Serhat Boynukalın , Süreyya Ergün Bozdağ",undeclared,Çarşamba,14:30/17:29,--,20,8,-,,-,-
+14620,RSM 596,RSM,LU,"Bilimsel Araş.,Etik ve Seminer",Fiziksel (Yüz yüze),Serhat Boynukalın,undeclared,Çarşamba,09:30/11:29,--,20,5,-,,-,-
+14621,RSM 503,RSM,LU,Raylı Sistemlerin Mühendisliği,Fiziksel (Yüz yüze),"Oğuz Tengilimoğlu , Serhat Boynukalın , Süreyya Ergün Bozdağ",undeclared,Çarşamba,14:30/17:29,--,20,9,-,,-,-
 14622,SEC 312E,SEC,LS,Applied Cryptography,Fiziksel (Yüz yüze),Mehmet Ali Ertürk,BBB,Pazartesi,08:30/11:29,Z-23,30,4,-,SECE_LS,Detay,-
 14623,SEC 437E,SEC,LS,Forensic Techniques and Law,Fiziksel (Yüz yüze),İbrahim Gülataş,BBB,Çarşamba,08:30/11:29,Z-23,30,2,-,SECE_LS,-,-
-14626,RSM 507,RSM,LU,Demiryolu Güvenliği,Fiziksel (Yüz yüze),Abdülkadir Ünal,undeclared,Salı,13:30/16:29,--,20,2,-,,-,-
+14626,RSM 507,RSM,LU,Demiryolu Güvenliği,Fiziksel (Yüz yüze),Abdülkadir Ünal,undeclared,Salı,13:30/16:29,--,20,3,-,,-,-
 14627,ISE 302,ISE,LS,Operating Systems,Fiziksel (Yüz yüze),Nizamettin Aydın,BBB,Perşembe,13:30/16:29,Z-17,45,23,-,SBL_LS,-,-
 14628,RSM 508E,RSM,LU,Plan.&Project Manag.Rail.Inve.,Fiziksel (Yüz yüze),Berna Çalışkan,undeclared,Cuma,09:30/12:29,--,20,6,-,,-,-
-14629,RSM 511E,RSM,LU,Railway Signalling Systems,Fiziksel (Yüz yüze),"Mehmet Turan Söylemez , Serhat Boynukalın",undeclared,Salı,09:30/12:29,--,20,4,-,,-,-
+14629,RSM 511E,RSM,LU,Railway Signalling Systems,Fiziksel (Yüz yüze),"Mehmet Turan Söylemez , Serhat Boynukalın",undeclared,Salı,09:30/12:29,--,20,5,-,,-,-
 14630,ISE 308,ISE,LS,Artifical Intell. & Expert Sys,Fiziksel (Yüz yüze),Mehmet Keskinöz,BBB,Salı,09:30/12:29,Z-21,45,17,-,SBL_LS,-,-
 14631,ISE 315,ISE,LS,Analysis of Algorithms,Fiziksel (Yüz yüze),Ali Çakmak,BBB | BBB,Pazartesi | Pazartesi,13:30/15:29 | 08:30/11:29,104 | 104,45,23,-,SBL_LS,-,-
 14632,RSM YLT,RSM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Oğuz Tengilimoğlu,,,-/-,,20,3,-,,-,-
@@ -4316,7 +4316,7 @@
 14683,LEE 901E,LEE,LU,Academic Entrepreneurship,Fiziksel (Yüz yüze),Zeynep Erden Bayazıt,undeclared,Salı,09:30/12:29,--,40,40,-,,-,-
 14684,ELK 421,ELK,LS,Elektrik Enerjisi Üretimi,Fiziksel (Yüz yüze),Mustafa Bağrıyanık,EEB,Salı,08:30/11:29,5301,55,50,-,ELK_LS,-,-
 14685,ELK 421,ELK,LS,Elektrik Enerjisi Üretimi,Fiziksel (Yüz yüze),Belgin Türkay,EEB,Salı,08:30/11:29,5303,55,50,-,ELK_LS,-,-
-14686,LEE 904,LEE,LU,Yönlendirilmiş Çalışmalar,Fiziksel (Yüz yüze),Emrah Tuncay Özdemir,undeclared,Perşembe,13:00/15:59,--,20,20,-,,-,-
+14686,LEE 904,LEE,LU,Yönlendirilmiş Çalışmalar,Fiziksel (Yüz yüze),Emrah Tuncay Özdemir,undeclared,Perşembe,13:00/15:59,--,21,20,-,,-,-
 14687,ELK 421E,ELK,LS,Generat. of Electrical Energy,Fiziksel (Yüz yüze),Veysel Murat İstemihan Genç,EEB,Salı,08:30/11:29,5307,60,55,-,"ELK_LS, ELKE_LS",-,-
 14688,ELK 423,ELK,LS,Özel Elektrik Makinaları,Fiziksel (Yüz yüze),Murat İmeryüz,EEB,Cuma,08:30/11:29,5303,50,30,-,ELK_LS,Detay,-
 14689,KON 218E,KON,LS,Measurement and Sensors,Fiziksel (Yüz yüze),Yücel Aydın,EEB,Perşembe,08:30/12:29,4102,55,55,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",-,-
@@ -4409,7 +4409,7 @@
 14778,KOM 613E,KOM,LU,Probabilistics Methods in Robo,Fiziksel (Yüz yüze),Hakan Temeltaş,undeclared,Pazartesi,12:30/15:29,--,30,4,-,,-,-
 14780,KOM 501E,KOM,LU,Cont.Sist.With Paramet. Uncert,Fiziksel (Yüz yüze),Mehmet Turan Söylemez,undeclared,Pazartesi,09:30/12:29,--,24,24,-,,-,-
 14781,KOM 505,KOM,LU,Olasılık Kuramı&Rastlan.Süreçl,Fiziksel (Yüz yüze),Müjde Güzelkaya,undeclared,Salı,12:30/15:29,--,60,60,-,,-,-
-14782,KOM 505E,KOM,LU,Probability Theory&Stochast.Pr,Fiziksel (Yüz yüze),Mehmet Akif Yazıcı,undeclared,Salı,12:30/15:29,--,40,39,-,,-,-
+14782,KOM 505E,KOM,LU,Probability Theory&Stochast.Pr,Fiziksel (Yüz yüze),Mehmet Akif Yazıcı,undeclared,Salı,12:30/15:29,--,40,40,-,,-,-
 14783,KOM 505E,KOM,LU,Probability Theory&Stochast.Pr,Fiziksel (Yüz yüze),Mustafa Doğan,undeclared,Cuma,14:00/16:59,--,75,75,-,,-,-
 14784,KOM 509E,KOM,LU,Design of Discrete Cont.Sys.,Fiziksel (Yüz yüze),Farzad Hashemzadeh,undeclared,Çarşamba,09:30/12:29,--,50,19,-,,-,-
 14785,KOM 507E,KOM,LU,Numerical Methods in Optimiz.,Fiziksel (Yüz yüze),Tufan Kumbasar,undeclared,Perşembe,08:30/11:29,--,15,11,KOM_KO_YL/10/10 | Diğer/5/1,KOM_KO_YL,-,-
@@ -4436,7 +4436,7 @@
 14806,ISL 612E,ISL,LU,Applied Artificial Intelligence,Fiziksel (Yüz yüze),Osman Taylan,ISB,Perşembe,09:30/12:29,209,15,9,-,,-,-
 14808,ISL YET,ISL,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Tuncay Özcan,,,-/-,,200,2,-,,-,-
 14809,ISL DRT,ISL,LU,Tez Çalışması,Fiziksel (Yüz yüze),Tuncay Özcan,,,-/-,,200,20,-,,-,-
-14810,ISL YLT,ISL,LU,Tez Çalışması,Fiziksel (Yüz yüze),Tuncay Özcan,,,-/-,,200,16,-,,-,-
+14810,ISL YLT,ISL,LU,Tez Çalışması,Fiziksel (Yüz yüze),Tuncay Özcan,,,-/-,,200,17,-,,-,-
 14811,ISS 552,ISS,LU,Fikri-Sanayi Mülkiyet Hukuku,Sanal (Çevrimiçi/Online),Özgür Öztürk,Online/Çevrimiçi,Salı,09:30/12:29,--,25,3,-,,-,-
 14812,ENT 354E,ENT,LS,Emotional Design,Fiziksel (Yüz yüze),Pelin Efilti,MMB,Pazartesi,13:30/16:29,--,30,30,IAD_LS/2/0 | ARC_LS/2/0 | Diğer/26/30,"ARC_LS, ENT_LS, ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS, IAD_LS",-,-
 14813,ENT 446E,ENT,LS,Multimedia Design Studio,Fiziksel (Yüz yüze),Ahmet Hamurcu,MMB,Salı,09:30/12:29,BIM2,30,26,IAD_LS/5/0 | Diğer/25/26,"ENT_LS, ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS, IAD_LS",-,-
@@ -4616,7 +4616,7 @@
 14991,JEF 448,JEF,LS,Yer Radarı,Fiziksel (Yüz yüze),İsmail Kaplanvural,MDB,Salı,10:30/12:29,B206,20,17,-,"JEF_LS, JEF_YD",Detay,-
 14992,MYE 5016E,MYE,LU,Project Management,Fiziksel (Yüz yüze),Berna Özbilen,undeclared,Salı,13:30/16:29,--,40,0,-,,-,-
 14993,MIA 501E,MIA,LU,Engineering Mathematics,Fiziksel (Yüz yüze),Hakan Öksüzoğlu,MKB,Cuma,09:30/12:29,D381B,60,60,-,,-,-
-14994,MIA 503E,MIA,LU,Advanced Fluid Dynamics,Fiziksel (Yüz yüze),"Hasan Güneş , Sertaç Çadırcı",MKB,Cuma,14:30/17:29,D331,50,36,-,,-,-
+14994,MIA 503E,MIA,LU,Advanced Fluid Dynamics,Fiziksel (Yüz yüze),"Hasan Güneş , Sertaç Çadırcı",MKB,Cuma,14:30/17:29,D331,50,37,-,,-,-
 14995,MIA 505E,MIA,LU,Design of Thermal Systems,Fiziksel (Yüz yüze),Turgut Yılmaz,MKB,Perşembe,09:30/12:29,D331,30,10,-,,-,-
 14996,MIA 509,MIA,LU,Isı-Akış Olaylarında Den. Yönt,Fiziksel (Yüz yüze),Bayram Şahin,MKB,Pazartesi,12:30/15:29,D317,30,8,-,,-,-
 14997,MIA 515,MIA,LU,Isı İletimi,Fiziksel (Yüz yüze),Ersin Sayar,MKB,Perşembe,13:30/16:29,D353,30,15,-,,-,-
@@ -4628,7 +4628,7 @@
 15003,MTA 558,MTA,LU,Optimizasyon Yöntemleri,Fiziksel (Yüz yüze),Akif Yavuz,MKB,Pazartesi,09:30/12:29,D317,30,13,-,,-,-
 15004,MTA 555,MTA,LU,Gürültü Ve Titreşim Kontrolü,Fiziksel (Yüz yüze),Haluk Erol,MKB,Çarşamba,09:30/12:29,D368A,30,4,-,,-,-
 15005,MTA YLT,MTA,LU,Tez Çalışması,Fiziksel (Yüz yüze),Vahit Mermertaş,,,-/-,,100,19,-,,-,-
-15006,MKS 501E,MKS,LU,Engineering Mathematics,Fiziksel (Yüz yüze),Umut Şahin,MKB,Cuma,09:30/12:29,D380A,60,55,-,,-,-
+15006,MKS 501E,MKS,LU,Engineering Mathematics,Fiziksel (Yüz yüze),Umut Şahin,MKB,Cuma,09:30/12:29,D380A,60,56,-,,-,-
 15007,MKS 530E,MKS,LU,Viscoelasticity,Fiziksel (Yüz yüze),Özgen Ümit Çolak Çakır,MKB,Salı,09:30/12:29,R362,30,1,-,,-,-
 15008,MKS 533,MKS,LU,Transport Tekn. İleri Konular,Fiziksel (Yüz yüze),Eren Kalay,MKB,Pazartesi,13:30/16:29,D355,30,0,-,,-,-
 15009,MKS 535,MKS,LU,Konstrüksiyon Sistematiği,Fiziksel (Yüz yüze),Vedat Temiz,MKB,Cuma,14:30/17:29,D355,30,16,-,,-,-
@@ -4636,12 +4636,12 @@
 15011,MKS 541,MKS,LU,Güç İletimi,Fiziksel (Yüz yüze),Cemal Baykara,MKB,Çarşamba,09:30/12:29,D351,30,8,-,,-,-
 15012,MKS 596,MKS,LU,"Bilimsel Araş.,Etik ve Seminer",Fiziksel (Yüz yüze),Hacı Abdullah Taşdemir,MKB,Çarşamba,13:30/15:29,D381A,30,28,-,,-,-
 15013,MKS YLT,MKS,LU,Tez Çalışması,Fiziksel (Yüz yüze),Atakan Altınkaynak,,,-/-,,100,7,-,,-,-
-15014,MOT 575E,MOT,LU,Vehicle Dynamics,Fiziksel (Yüz yüze),Özgen Akalın,undeclared,Perşembe,09:30/12:29,--,30,7,-,,-,-
+15014,MOT 575E,MOT,LU,Vehicle Dynamics,Fiziksel (Yüz yüze),Özgen Akalın,undeclared,Perşembe,09:30/12:29,--,30,8,-,,-,-
 15015,MOT 579,MOT,LU,Içten Yanmalı Mot.Hes.&Geliş.,Fiziksel (Yüz yüze),"Hikmet Arslan , Barış Doğru",undeclared,Pazartesi,13:30/16:29,--,30,3,-,,-,-
 15016,EEE 311E,EEE,LS,Numerical Analysis with Python,Sanal (Çevrimiçi/Online),Vasil Tabatadze,EEB,Cuma,14:00/16:59,5202,80,18,-,EEE_LS,Detay,-
 15017,MOT 581,MOT,LU,Taşıt Mot.Araş.&denay Teknikl.,Fiziksel (Yüz yüze),"Hikmet Arslan , Osman Akın Kutlar",undeclared,Pazartesi,09:30/12:29,--,30,6,-,,-,-
-15018,MOT 582,MOT,LU,Taşıtlarda Ömür Testleri,Fiziksel (Yüz yüze),Kubilay Yay,undeclared,Cuma,14:30/17:29,--,30,2,-,,-,-
-15019,MOT YLT,MOT,LU,Tez Çalışması,Fiziksel (Yüz yüze),Osman Taha Şen,,,-/-,,100,3,-,,-,-
+15018,MOT 582,MOT,LU,Taşıtlarda Ömür Testleri,Fiziksel (Yüz yüze),Kubilay Yay,undeclared,Cuma,14:30/17:29,--,30,3,-,,-,-
+15019,MOT YLT,MOT,LU,Tez Çalışması,Fiziksel (Yüz yüze),Osman Taha Şen,,,-/-,,100,4,-,,-,-
 15020,MDK 506E,MDK,LU,Intelligent Systems&Soft Comp.,Fiziksel (Yüz yüze),Senem Kurşun,MKB,Çarşamba,09:30/12:29,D331,30,8,-,,-,-
 15021,MDK 588E,MDK,LU,Sensors and Actuators,Fiziksel (Yüz yüze),Korhan Şahin,MKB,Cuma,14:30/17:29,D317,30,25,-,,-,-
 15022,MDK 591E,MDK,LU,Dynamical Sys.Model.&Simu.,Fiziksel (Yüz yüze),Ayhan Kural,MKB,Pazartesi,12:30/15:29,D331,30,11,-,,-,-
@@ -4649,20 +4649,20 @@
 15024,MKC 521,MKC,LU,Elastisite Teorisi,Fiziksel (Yüz yüze),Mehmet Salih Dokuz,MKB,Cuma,14:30/17:29,D353,40,22,-,,-,-
 15025,MKC 527E,MKC,LU,Vibration of Structures,Fiziksel (Yüz yüze),Uğurcan Eroğlu,MKB,Perşembe,09:30/12:29,D368B,40,24,-,,-,-
 15026,MKC 526,MKC,LU,Biyomekanik,Fiziksel (Yüz yüze),Süreyya Ergün Bozdağ,MKB,Çarşamba,09:30/12:29,D361B,30,5,-,,-,-
-15027,MKC YLT,MKC,LU,Tez Çalışması,Fiziksel (Yüz yüze),Emin Sünbüloğlu,,,-/-,,100,28,-,,-,-
-15028,MMI 565,MMI,LU,Malzemelerin Mekanik Davranışı,Fiziksel (Yüz yüze),Turgut Gülmez,MKB,Cuma,14:30/17:29,D368A,30,16,-,,-,-
+15027,MKC YLT,MKC,LU,Tez Çalışması,Fiziksel (Yüz yüze),Emin Sünbüloğlu,,,-/-,,100,29,-,,-,-
+15028,MMI 565,MMI,LU,Malzemelerin Mekanik Davranışı,Fiziksel (Yüz yüze),Turgut Gülmez,MKB,Cuma,14:30/17:29,D368A,30,17,-,,-,-
 15030,MMI 569,MMI,LU,Malzeme ve Yapılarda Yorulma,Fiziksel (Yüz yüze),Ramazan Murat Tabanlı,MKB,Salı,09:30/12:29,R358,30,13,-,,-,-
 15031,MMI 576E,MMI,LU,Finite Eleme.Analy.in Manufac.,Fiziksel (Yüz yüze),Raşid Ahmed Yıldız,MKB,Pazartesi,09:30/12:29,D331,30,11,-,,-,-
 15032,MMI 579E,MMI,LU,Micro Electro-Mech. Sensors,Fiziksel (Yüz yüze),Levent Trabzon,MKB,Çarşamba,09:30/12:29,D318,30,2,-,,-,-
-15034,MMI YLT,MMI,LU,Tez Çalışması,Fiziksel (Yüz yüze),Ali Gökşenli,,,-/-,,100,3,-,,-,-
+15034,MMI YLT,MMI,LU,Tez Çalışması,Fiziksel (Yüz yüze),Ali Gökşenli,,,-/-,,100,5,-,,-,-
 15035,MAK 608E,MAK,LU,Modelling of Turbulance,Fiziksel (Yüz yüze),Seyhan Onbaşıoğlu,MKB,Perşembe,09:30/12:29,D380B,30,3,-,,-,-
 15036,MAK 692E,MAK,LU,Statis.Thermodyn.of Ther.Sys.,Fiziksel (Yüz yüze),Seyhan Onbaşıoğlu,MKB,Salı,08:30/11:29,D368A,30,0,-,,-,-
 15037,MAK 605,MAK,LU,Türbomak.Aero-Termodinamiği,Fiziksel (Yüz yüze),-,,,-/-,,0,0,-,,-,-
 15038,MAK 611,MAK,LU,Deneysel Mekanik,Fiziksel (Yüz yüze),Süreyya Ergün Bozdağ,MKB,Cuma,14:30/17:29,D380B,30,4,-,,-,-
-15039,MAK 612E,MAK,LU,Adv.Finite Elem. Analy.in S.M.,Fiziksel (Yüz yüze),Ata Muğan,MKB,Perşembe,13:30/16:29,D368B,30,19,-,,-,-
+15039,MAK 612E,MAK,LU,Adv.Finite Elem. Analy.in S.M.,Fiziksel (Yüz yüze),Ata Muğan,MKB,Perşembe,13:30/16:29,D368B,30,20,-,,-,-
 15040,MAK 613,MAK,LU,Elastik Stabilite Teorisi,Fiziksel (Yüz yüze),Ekrem Tüfekci,MKB,Perşembe,09:30/12:29,D381B,30,8,-,,-,-
 15041,MAK 618E,MAK,LU,Nonlinear Solid Mechanics,Fiziksel (Yüz yüze),Emin Sünbüloğlu,MKB,Salı,13:30/16:29,D331,30,2,-,,-,-
-15042,MAK 633,MAK,LU,Lineer Olmayan Titreşiler,Fiziksel (Yüz yüze),Osman Taha Şen,MKB,Salı,09:30/12:29,D331,30,5,-,,-,-
+15042,MAK 633,MAK,LU,Lineer Olmayan Titreşiler,Fiziksel (Yüz yüze),Osman Taha Şen,MKB,Salı,09:30/12:29,D331,30,6,-,,-,-
 15044,MAK 682,MAK,LU,Plak ve Kabuklar Teorisi,Fiziksel (Yüz yüze),Oğuz Altay,MKB,Pazartesi,09:30/12:29,D359,30,1,-,,-,-
 15045,MAK 691E,MAK,LU,Mechanics of Turbulence,Fiziksel (Yüz yüze),İlyas Bedii Özdemir,MKB,Perşembe,09:30/12:29,D368A,30,7,-,,-,-
 15047,MAK YET,MAK,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Vahit Mermertaş,,,-/-,,100,8,-,,-,-
@@ -4701,9 +4701,9 @@
 15087,DTM 501E,DTM,LU,Advanced Marine Hydrodynamics,Fiziksel (Yüz yüze),Burcu Erbaş,MEDC,Çarşamba,10:30/13:29,1D5,20,19,-,,-,-
 15088,MAK 4050E,MAK,LS,Optimization of Thermal Syst.,Fiziksel (Yüz yüze),Seyhan Onbaşıoğlu,MKB,Pazartesi,09:30/12:29,D378,30,11,-,"MAK_LS, MAKE_LS",Detay,Detay
 15089,BYM 501E,BYM,LU,Biomedical Instrumentation,Fiziksel (Yüz yüze),Fatma İnci Çilesiz,undeclared,Pazartesi,13:30/16:29,--,20,5,-,,-,-
-15090,BYM 515,BYM,LU,Biyomalzemeler,Fiziksel (Yüz yüze),"Duygu Ağaoğulları , Kübra Onbaşlı",undeclared,Perşembe,10:30/13:29,--,20,2,-,,-,-
-15091,BYM 506E,BYM,LU,Electromag. Waves in Medicine,Fiziksel (Yüz yüze),Tuba Yılmaz Abdolsaheb,undeclared,Çarşamba,10:00/12:59,--,20,5,-,,-,-
-15092,BYM 596E,BYM,LU,"Scien.Rese., Ethic&Seminar",Fiziksel (Yüz yüze),Tuba Yılmaz Abdolsaheb,undeclared,Perşembe,14:00/15:59,--,20,6,-,,-,-
+15090,BYM 515,BYM,LU,Biyomalzemeler,Fiziksel (Yüz yüze),"Duygu Ağaoğulları , Kübra Onbaşlı",undeclared,Perşembe,10:30/13:29,--,20,3,-,,-,-
+15091,BYM 506E,BYM,LU,Electromag. Waves in Medicine,Fiziksel (Yüz yüze),Tuba Yılmaz Abdolsaheb,undeclared,Çarşamba,10:00/12:59,--,20,6,-,,-,-
+15092,BYM 596E,BYM,LU,"Scien.Rese., Ethic&Seminar",Fiziksel (Yüz yüze),Tuba Yılmaz Abdolsaheb,undeclared,Perşembe,14:00/15:59,--,20,7,-,,-,-
 15094,BYM YLT,BYM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Tuba Yılmaz Abdolsaheb,,,-/-,,50,2,-,,-,-
 15095,BYM DRT,BYM,LU,Tez Çalışması,Fiziksel (Yüz yüze),Tuba Yılmaz Abdolsaheb,,,-/-,,50,3,-,,-,-
 15096,BYM YET,BYM,LU,Yeterlik Aşaması,Fiziksel (Yüz yüze),Tuba Yılmaz Abdolsaheb,,,-/-,,50,6,-,,-,-
@@ -4715,14 +4715,14 @@
 15103,UZB 103E,UZB,LS,Introduction to Astronautical Engineering and Ethics,Fiziksel (Yüz yüze),"Nuriye Leman Okşan Çetiner Yıldırım , Alim Rüstem Aslan",MEDC,Çarşamba,14:30/15:29,1D10,50,24,-,UZBE_LS,-,-
 15104,EHB 472E,EHB,LS,Image Processing Fundamentals,Fiziksel (Yüz yüze),Navid Ghorashian,EEB,Salı,08:30/11:29,5107,50,38,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS",Detay,-
 15105,BBL YLT,BBL,LU,Tez Çalışması,Fiziksel (Yüz yüze),Sefer Baday,,,-/-,,200,25,-,,-,-
-15106,BBL 502E,BBL,LU,Software Modeling and Design,Fiziksel (Yüz yüze),Abdulkerim Çapar,BBB,Çarşamba,09:30/12:29,--,40,10,-,,-,-
+15106,BBL 502E,BBL,LU,Software Modeling and Design,Fiziksel (Yüz yüze),Abdulkerim Çapar,BBB,Çarşamba,09:30/12:29,--,40,11,-,,-,-
 15107,SBP 207,SBP,LS,Proje III: Yöre Plan.&Tas.,Fiziksel (Yüz yüze),Fatih Terzi,undeclared | undeclared,Salı | Cuma,13:30/17:29 | 14:00/17:59,-- | --,10,10,-,SBP_LS,Detay,-
 15108,MAD 439E,MAD,LS,Cement Technology,Fiziksel (Yüz yüze),Hasan Ergin,MDB,Salı,08:30/10:29,B204,30,11,-,"MAD_LS, MADE_LS",Detay,-
 15109,IEB 210E,IEB,LS,Linear Algebra for Indust.Eng.,Fiziksel (Yüz yüze),Kenan Mengüç,undeclared,Perşembe,09:00/11:59,--,30,0,-,IEBE_LS,-,-
 15110,IEB 213E,IEB,LS,Data Manag.in Industrial Syst.,Fiziksel (Yüz yüze),Hatice Tekiner Moğulkoç,undeclared,Pazartesi,09:00/11:59,--,30,0,-,IEBE_LS,-,-
 15111,IEB 252E,IEB,LS,Theory of Probability,Fiziksel (Yüz yüze),Mehmet Güray Güler,undeclared,Perşembe,13:00/15:59,--,30,0,-,IEBE_LS,Detay,-
 15112,EKO 201E,EKO,LS,Economics,Fiziksel (Yüz yüze),Şerife Genç İleri,undeclared,Pazartesi,13:00/15:59,--,30,0,-,IEBE_LS,-,-
-15113,DZC 519,DZC,LU,Denizel Alanda Siber Güvenlik,Fiziksel (Yüz yüze),Gizem Kayişoğlu,undeclared,Cuma,14:00/16:59,--,20,12,-,,-,-
+15113,DZC 519,DZC,LU,Denizel Alanda Siber Güvenlik,Fiziksel (Yüz yüze),Gizem Kayişoğlu,undeclared,Cuma,14:00/16:59,--,20,13,-,,-,-
 15114,FZT 302E,FZT,LS,Solid State Physics I,Fiziksel (Yüz yüze),Hakan Özgür Özer,undeclared | undeclared,Salı | Çarşamba,14:30/17:29 | 11:30/13:29,-- | --,30,1,-,"FIZ_LS, FIZ_YD, FIZE_LS, FZT_LS",Detay,-
 15115,EGC 301E,EGC,LS,Introduction to Earth System Science,Fiziksel (Yüz yüze),Cengiz Yıldırım,AYBE,Cuma,14:30/17:29,--,50,4,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EGC_YD, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENT_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, ICM_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MAT_LS, MATE_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MTO_LS, MTOE_LS, PEM_LS, PEME_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",-,-
 15116,EGC 302E,EGC,LS,"Earth Data: Tools for Observation, Analysis and Visualization",Fiziksel (Yüz yüze),Abdullah Akbaş,AYBE,Pazartesi,14:30/17:29,--,50,9,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EGC_YD, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENT_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, ICM_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MAT_LS, MATE_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MTO_LS, MTOE_LS, PEM_LS, PEME_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",-,-
@@ -5213,7 +5213,7 @@
 15621,SAO 258,SAO,OL,İnternet Programlama,Fiziksel (Yüz yüze),Murat Sekmen,BEB,Çarşamba,08:30/11:29,--,10,4,-,SAO_OL,Detay,-
 15622,MTO 494,MTO,LS,Araştırma Projesi,Fiziksel (Yüz yüze),Şeyda Tilev,,,-/-,,3,0,-,"IBM_LS, MTO_LS",-,Detay
 15623,MYZ 301E,MYZ,LS,Introduction to Artificial Intelligence for Engineering,Fiziksel (Yüz yüze),Özlem İpek Kalaoğlu Altan,MKB,Pazartesi,08:30/11:29,D360,30,0,-,"TEK_YD, TEKE_LS",Detay,-
-15624,LEE 908E,LEE,LU,Protecting and Commercializing Research Results,Fiziksel (Yüz yüze),Özgür Öztürk,ISB,Salı,14:30/17:29,--,20,9,-,,-,-
+15624,LEE 908E,LEE,LU,Protecting and Commercializing Research Results,Fiziksel (Yüz yüze),Özgür Öztürk,ISB,Salı,14:30/17:29,--,20,10,-,,-,-
 15625,LEE 909,LEE,LU,Yükseköğretimde Öğrenme Tasarımı ve Ölçme-Değerlendirme,Sanal (Çevrimiçi/Online),-,Online/Çevrimiçi,Salı,09:30/12:29,--,20,11,-,,-,-
 15626,LEE 903E,LEE,LU,Project Cycle Management,Fiziksel (Yüz yüze),"Özgül Keleş , Billur Deniz Karahan",KMB,Çarşamba,09:30/12:29,--,35,35,-,,-,-
 15627,CAB 452,CAB,LS,Kanun VIII,Fiziksel (Yüz yüze),Serkan Mesut Halili,undeclared,Çarşamba,13:30/15:29,--,5,0,-,"MTR_LS, SES_LS",Detay,-
@@ -5240,10 +5240,10 @@
 15648,BIO 417E,BIO,LS,Molecular Biology,Ek Sınav,"Aslı Kumbasar , Arzu Karabay Korkmaz",,,-/-,,0,0,-,,Detay,-
 15649,FIZ 374,FIZ,LS,Fizikte Deneysel Yöntemler I,Ek Sınav,Murat Erdem,,,-/-,,0,0,-,,-,-
 15650,FIZ 274,FIZ,LS,Fizikçiler için Termodinamik,Ek Sınav,Sevim İşçi Turutoğlu,,,-/-,,0,0,-,,Detay,-
-15651,LEE 696E,LEE,LU,"Scientific Research, Ethics, and Seminar",Fiziksel (Yüz yüze),Görkem Giray,undeclared,Çarşamba,14:30/16:29,İlgili | Bölümce | Açıklanacak,200,64,-,,-,-
-15652,LEE 696,LEE,LU,"Bilimsel Araştırma, Etik ve Seminer",Fiziksel (Yüz yüze),Emel Önder Karaoğlu,undeclared,Çarşamba,14:30/16:29,İlgili | Bölümce | Açıklanacak,200,92,-,,-,-
+15651,LEE 696E,LEE,LU,"Scientific Research, Ethics, and Seminar",Fiziksel (Yüz yüze),Görkem Giray,undeclared,Çarşamba,14:30/16:29,İlgili | Bölümce | Açıklanacak,200,65,-,,-,-
+15652,LEE 696,LEE,LU,"Bilimsel Araştırma, Etik ve Seminer",Fiziksel (Yüz yüze),Emel Önder Karaoğlu,undeclared,Çarşamba,14:30/16:29,İlgili | Bölümce | Açıklanacak,200,93,-,,-,-
 15653,GEO 615E,GEO,LU,Curve and Surface Fitting Meth,Fiziksel (Yüz yüze),Mustafa Fahri Karabulut,INB,Pazartesi,13:00/15:59,--,20,0,-,,-,-
-15654,LEE 905,LEE,LU,İnovas.Teknik.&Patent Süreç.,Fiziksel (Yüz yüze),Tahir Soyugüzel,undeclared,Çarşamba,14:00/16:59,--,20,11,-,,-,-
+15654,LEE 905,LEE,LU,İnovas.Teknik.&Patent Süreç.,Fiziksel (Yüz yüze),Tahir Soyugüzel,undeclared,Çarşamba,14:00/16:59,--,20,12,-,,-,-
 15655,MTS 615E,MTS,LU,Advanced Topics in Architectural Design,Fiziksel (Yüz yüze),-,undeclared,Pazartesi,13:30/16:29,--,10,0,-,,-,-
 15656,GEM 407E,GEM,LS,Methods of Ship Production,Fiziksel (Yüz yüze),Murat Durmaz,MEDC,Pazartesi,14:30/17:29,--,50,0,-,NAE_LS,Detay,-
 15657,NUM 201E,NUM,LS,Fundamentals of Nuclear Engineering I,Fiziksel (Yüz yüze),Üner Çolak,undeclared,Salı,17:00/19:59,--,30,0,-,NUM_YD,-,-
