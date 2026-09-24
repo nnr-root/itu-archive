@@ -5988,5 +5988,34 @@
   ],
   "prereq": "Detay",
   "classReq": "-"
+ },
+ {
+  "crn": "15802",
+  "code": "MAT 451E",
+  "branch": "MAT",
+  "level": "LS",
+  "name": "Mathematical Foundations of Large Language Models",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "-",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "14:00/16:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 24,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "MAT_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
  }
 ]

@@ -19,8 +19,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
-  "enrolled": 20,
+  "capacity": 25,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -155,7 +155,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 12,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -182,7 +182,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 16,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -208,8 +208,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 35,
-  "enrolled": 35,
+  "capacity": 40,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -238,7 +238,7 @@
    "Açıklanacak"
   ],
   "capacity": 200,
-  "enrolled": 71,
+  "enrolled": 72,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -267,7 +267,7 @@
    "Açıklanacak"
   ],
   "capacity": 200,
-  "enrolled": 100,
+  "enrolled": 101,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
