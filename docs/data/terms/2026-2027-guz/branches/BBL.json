@@ -86,10 +86,10 @@
   "branch": "BBL",
   "level": "LU",
   "name": "Quantum Data Structures and Algorithms",
-  "method": "Sanal (Çevrimiçi/Online)",
+  "method": "Fiziksel (Yüz yüze)",
   "instructor": "Deniz Türkpençe",
   "buildings": [
-   "Online/Çevrimiçi"
+   "BBB"
   ],
   "days": [
    "Perşembe"
@@ -218,7 +218,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

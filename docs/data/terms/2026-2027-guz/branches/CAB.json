@@ -5538,5 +5538,111 @@
   ],
   "prereq": "Detay",
   "classReq": "-"
+ },
+ {
+  "crn": "15769",
+  "code": "CAB 188",
+  "branch": "CAB",
+  "level": "LS",
+  "name": "Gitar II",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Tolgahan Çoğulu",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "MTR_LS",
+   "MUT_LS",
+   "MUZ_LS",
+   "MZT_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15770",
+  "code": "CAB 288",
+  "branch": "CAB",
+  "level": "LS",
+  "name": "Gitar IV",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Tolgahan Çoğulu",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "MTR_LS",
+   "MUT_LS",
+   "MUZ_LS",
+   "MZT_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15771",
+  "code": "CAB 254",
+  "branch": "CAB",
+  "level": "LS",
+  "name": "Tanbur IV",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Göknil Bişak Özdemir",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "MTR_LS",
+   "MUT_LS",
+   "MUZ_LS",
+   "MZT_LS",
+   "SES_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15774",
+  "code": "CAB 260",
+  "branch": "CAB",
+  "level": "LS",
+  "name": "Ud IV",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Buse Sever",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "MTR_LS",
+   "MUT_LS",
+   "MUZ_LS",
+   "MZT_LS",
+   "SES_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
  }
 ]

@@ -7062,7 +7062,9 @@
    "DUI_LS",
    "DUIE_LS",
    "GMI_LS",
-   "GMIE_LS"
+   "GMIE_LS",
+   "MEN_LS",
+   "MTM_LS"
   ],
   "prereq": "-",
   "classReq": "-"
@@ -7094,7 +7096,9 @@
    "DUI_LS",
    "DUIE_LS",
    "GMI_LS",
-   "GMIE_LS"
+   "GMIE_LS",
+   "MEN_LS",
+   "MTM_LS"
   ],
   "prereq": "-",
   "classReq": "-"
@@ -7123,6 +7127,10 @@
   "enrolled": 30,
   "reserved": "-",
   "programs": [
+   "DUI_LS",
+   "DUIE_LS",
+   "GMI_LS",
+   "GMIE_LS",
    "MEN_LS",
    "MTM_LS"
   ],

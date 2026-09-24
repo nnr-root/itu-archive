@@ -9798,6 +9798,20 @@
     0
    ],
    [
+    "2026-2027-guz",
+    "MUT 376",
+    "Tar Yapımı",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "MUT 388",
+    "Müzik Tek.Tasarım \u0026 Geliştirme",
+    0,
+    0
+   ],
+   [
     "2025-2026-bahar",
     "MUT 102",
     "Kemençe Yapımı II",
@@ -10204,7 +10218,7 @@
     "FIZ 519E",
     "Quantum Mechanics I",
     30,
-    11
+    12
    ],
    [
     "2026-2027-guz",
@@ -13251,7 +13265,7 @@
     "MKC 521",
     "Elastisite Teorisi",
     40,
-    22
+    23
    ],
    [
     "2025-2026-bahar",
@@ -13500,7 +13514,7 @@
     "CKY 547",
     "Cephe Malzeme ve Bileşenleri",
     25,
-    13
+    14
    ],
    [
     "2026-2027-guz",
@@ -14237,7 +14251,7 @@
     "GAM 505E",
     "Programming for Games",
     30,
-    15
+    16
    ],
    [
     "2025-2026-bahar",
@@ -14475,6 +14489,20 @@
     "Ağaç Teknolojisi",
     15,
     4
+   ],
+   [
+    "2026-2027-guz",
+    "MUT 386",
+    "Serbest Proje Çalışması II",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "MUT 486",
+    "Serbest Proje Çalışması IV",
+    0,
+    0
    ],
    [
     "2025-2026-bahar",
@@ -14891,8 +14919,8 @@
     "2026-2027-guz",
     "KOM 501E",
     "Cont.Sist.With Paramet. Uncert",
-    24,
-    24
+    40,
+    37
    ],
    [
     "2026-2027-guz",
@@ -16441,7 +16469,7 @@
     "EBT 554E",
     "Energy Market Management",
     25,
-    24
+    25
    ],
    [
     "2026-2027-guz",
@@ -17437,7 +17465,7 @@
     "UMT 509E",
     "The Basic Diag.in Extra.Metal.",
     25,
-    2
+    3
    ],
    [
     "2025-2026-bahar",
@@ -28358,7 +28386,7 @@
     "MIA 596",
     "Bilimsel Araş.,Etik ve Seminer",
     30,
-    19
+    21
    ],
    [
     "2025-2026-bahar",
@@ -28412,7 +28440,7 @@
     "UUM 618E",
     "Dynamics of Nonlinear Systems",
     40,
-    4
+    6
    ],
    [
     "2026-2027-guz",
@@ -29400,7 +29428,7 @@
     "DZC 504",
     "Denizcilik.Kalite Sist.\u0026Stan.",
     20,
-    9
+    10
    ],
    [
     "2026-2027-guz",
@@ -34623,7 +34651,7 @@
     "MAD 512E",
     "Economic Analysis in Mining",
     30,
-    8
+    9
    ],
    [
     "2025-2026-bahar",
@@ -35162,6 +35190,13 @@
     "Ekonomik Coğrafya",
     30,
     2
+   ],
+   [
+    "2026-2027-guz",
+    "DUM 535E",
+    "Maritime Policy",
+    20,
+    0
    ],
    [
     "2026-2027-guz",
@@ -36106,7 +36141,7 @@
     "MAM 511",
     "Metallerde Deformas.\u0026Kırılma",
     60,
-    21
+    20
    ],
    [
     "2026-2027-guz",
@@ -39478,7 +39513,7 @@
     "CHZ 521E",
     "Ultrafine Grinding Technologie",
     20,
-    7
+    8
    ],
    [
     "2026-2027-guz",
@@ -40230,6 +40265,13 @@
     "Stüdyo Akustiği",
     20,
     17
+   ],
+   [
+    "2026-2027-guz",
+    "MUT 132",
+    "Akustik II",
+    0,
+    0
    ],
    [
     "2025-2026-bahar",
@@ -42880,14 +42922,14 @@
     "ZMG DRT",
     "Tez Çalışması",
     200,
-    4
+    5
    ],
    [
     "2026-2027-guz",
     "ZMG YLT",
     "Tez Çalışması",
     200,
-    5
+    7
    ],
    [
     "2025-2026-bahar",
@@ -44079,7 +44121,7 @@
     "ELK 596",
     "Bilimsel Araş.,Etik ve Seminer",
     40,
-    34
+    35
    ],
    [
     "2026-2027-guz",
@@ -44886,14 +44928,14 @@
     "KOM 610E",
     "Nonlinear Control Systems",
     30,
-    15
+    17
    ],
    [
     "2026-2027-guz",
     "KOM 505E",
     "Probability Theory\u0026Stochast.Pr",
-    75,
-    75
+    90,
+    77
    ],
    [
     "2026-2027-guz",
@@ -45207,7 +45249,7 @@
     "JFM 501",
     "Mühendislik Matematiği",
     25,
-    20
+    21
    ],
    [
     "2026-2027-guz",
@@ -47877,6 +47919,13 @@
     36
    ],
    [
+    "2026-2027-guz",
+    "JEO 408",
+    "Jeoloji Mühendisliğinde Seçmeli Konular",
+    0,
+    0
+   ],
+   [
     "2025-2026-bahar",
     "JEO 330",
     "Maden Yatakları",
@@ -49601,7 +49650,7 @@
     "HBM 513E",
     "Parallel\u0026Distributed Comput.",
     25,
-    16
+    17
    ],
    [
     "2026-2027-guz",
@@ -52533,7 +52582,7 @@
     "ZMG 505",
     "Zeminlerin İyileştirilmesi",
     30,
-    7
+    9
    ],
    [
     "2025-2026-bahar",
@@ -54633,7 +54682,7 @@
     "ELE YLT",
     "Tez Çalışması",
     200,
-    50
+    51
    ],
    [
     "2026-2027-guz",

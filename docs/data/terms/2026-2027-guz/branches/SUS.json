@@ -94,7 +94,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
+  "capacity": 30,
   "enrolled": 20,
   "reserved": "-",
   "programs": [
@@ -182,9 +182,9 @@
   "rooms": [
    "B11"
   ],
-  "capacity": 25,
+  "capacity": 30,
   "enrolled": 21,
-  "reserved": "SUS_YD/20/16 | Diğer/5/5",
+  "reserved": "SUS_YD/20/16 | Diğer/10/5",
   "programs": [
    "ISL_LS",
    "ISLE_LS",

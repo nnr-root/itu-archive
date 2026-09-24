@@ -209,7 +209,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -371,7 +371,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -392,7 +392,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 22,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -434,7 +434,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 46,
+  "enrolled": 49,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -2278,6 +2278,27 @@
   "rooms": [
    "--"
   ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15784",
+  "code": "ELK 506E",
+  "branch": "ELK",
+  "level": "LU",
+  "name": "A.Design of Swit M.Power Suppl",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Deniz Yıldırım",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
   "capacity": 0,
   "enrolled": 0,
   "reserved": "-",

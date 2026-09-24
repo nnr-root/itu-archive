@@ -1274,5 +1274,28 @@
   ],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "15772",
+  "code": "MUZ 222",
+  "branch": "MUZ",
+  "level": "LS",
+  "name": "Müzik Paleografyası",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Serhan Dilhan Yavuz",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "MUZ_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
  }
 ]

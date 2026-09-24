@@ -2323,5 +2323,32 @@
   ],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "15783",
+  "code": "JEO 408",
+  "branch": "JEO",
+  "level": "LS",
+  "name": "Jeoloji Mühendisliğinde Seçmeli Konular",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Mustafa Kaya",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "08:30/14:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
  }
 ]

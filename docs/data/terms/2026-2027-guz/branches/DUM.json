@@ -601,5 +601,32 @@
   "programs": [],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "15782",
+  "code": "DUM 535E",
+  "branch": "DUM",
+  "level": "LU",
+  "name": "Maritime Policy",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Muhsin Kadıoğlu",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "09:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 20,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
  }
 ]

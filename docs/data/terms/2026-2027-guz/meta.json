@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-23T23:00:15Z",
+ "scrapedAt": "2026-09-24T07:35:18Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5359,
- "courses": 3807,
+ "sections": 5374,
+ "courses": 3821,
  "branches": [
   {
    "code": "AAR",
@@ -195,7 +195,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 193
+   "sections": 197
   },
   {
    "code": "CBM",
@@ -336,7 +336,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 23
+   "sections": 24
   },
   {
    "code": "DUY",
@@ -435,7 +435,7 @@
     "LS",
     "LU"
    ],
-   "sections": 78
+   "sections": 79
   },
   {
    "code": "ENB",
@@ -780,7 +780,7 @@
     "LS",
     "LU"
    ],
-   "sections": 83
+   "sections": 84
   },
   {
    "code": "JFM",
@@ -1123,7 +1123,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 63
+   "sections": 64
   },
   {
    "code": "MTS",
@@ -1158,14 +1158,14 @@
    "levels": [
     "LS"
    ],
-   "sections": 42
+   "sections": 47
   },
   {
    "code": "MUZ",
    "levels": [
     "LS"
    ],
-   "sections": 43
+   "sections": 44
   },
   {
    "code": "MYE",
@@ -1364,7 +1364,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 69
+   "sections": 70
   },
   {
    "code": "SGI",
@@ -1657,11 +1657,11 @@
   }
  ],
  "stats": {
-  "sections": 5359,
-  "courses": 3807,
+  "sections": 5374,
+  "courses": 3821,
   "branches": 232,
-  "instructors": 1981,
-  "capacity": 262011,
-  "enrolled": 122678
+  "instructors": 1984,
+  "capacity": 262140,
+  "enrolled": 122939
  }
 }
