@@ -1341,7 +1341,7 @@
     "IMT YLT",
     "Tez Çalışması",
     200,
-    13
+    14
    ],
    [
     "2025-2026-bahar",
@@ -1676,7 +1676,7 @@
     "SRM 596",
     "Bilimsel Araş.,Etik ve Seminer",
     10,
-    2
+    3
    ],
    [
     "2025-2026-bahar",
@@ -1702,7 +1702,7 @@
     "2026-2027-guz",
     "MUK 211E",
     "Strength of Materials",
-    60,
+    65,
     57
    ],
    [
@@ -6031,7 +6031,14 @@
     "BBL 540E",
     "Quantum Data Structures and Algorithms",
     15,
-    7
+    6
+   ],
+   [
+    "2026-2027-guz",
+    "BBL 540E",
+    "Quantum Data Structures and Algorithms",
+    0,
+    0
    ],
    [
     "2026-2027-guz",
@@ -7397,7 +7404,7 @@
     "EBT 617",
     "Enerji Bilim\u0026Tek.İleri Konular",
     10,
-    3
+    4
    ],
    [
     "2026-2027-guz",
@@ -7417,7 +7424,7 @@
     "ELK 507",
     "Elektrik Makinalarında Harm.",
     15,
-    12
+    13
    ],
    [
     "2026-2027-guz",
@@ -7446,6 +7453,27 @@
     "Elektrik Makinaları Lab.",
     35,
     33
+   ],
+   [
+    "2026-2027-guz",
+    "ELK 507",
+    "Elektrik Makinalarında Harm.",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "ELK 503E",
+    "Power Electronic Systems",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "ELK 507",
+    "Elektrik Makinalarında Harm.",
+    0,
+    0
    ],
    [
     "2025-2026-yaz",
@@ -10166,7 +10194,7 @@
     "KMM YLT",
     "Tez Çalışması",
     200,
-    35
+    36
    ],
    [
     "2026-2027-guz",
@@ -11604,13 +11632,6 @@
   "name": "Dilcu Salihoğlu",
   "rows": [
    [
-    "2026-2027-guz",
-    "ENT 357E",
-    "Mech.\u0026Mnfctrabl. in Prod. Dsgn",
-    30,
-    30
-   ],
-   [
     "2023-2024-bahar",
     "ENT 357E",
     "Mech.\u0026Mnfctrabl. in Prod. Dsgn",
@@ -11618,7 +11639,7 @@
     30
    ]
   ],
-  "terms": 2
+  "terms": 1
  },
  "Dilek Alpan": {
   "name": "Dilek Alpan",
@@ -12357,7 +12378,7 @@
     "JFM 603E",
     "Hydro-geophysics",
     10,
-    1
+    2
    ],
    [
     "2025-2026-bahar",
@@ -13163,7 +13184,7 @@
     "GIT 524E",
     "Environmental GIS",
     20,
-    5
+    6
    ],
    [
     "2026-2027-guz",
@@ -13491,7 +13512,7 @@
     "MAM 503E",
     "Structure\u0026Crystallography",
     60,
-    56
+    58
    ],
    [
     "2026-2027-guz",

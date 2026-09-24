@@ -865,7 +865,7 @@
    "--"
   ],
   "capacity": 10,
-  "enrolled": 5,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1211,7 +1211,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 18,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1235,6 +1235,213 @@
   "enrolled": 0,
   "reserved": "-",
   "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15793",
+  "code": "PEM 4015E",
+  "branch": "PEM",
+  "level": "LS",
+  "name": "Experim.Studies on Place&Desg",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Gülşen Aytaç",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "13:30/15:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 25,
+  "enrolled": 0,
+  "reserved": "PEME_LS/15/0 | Diğer/10/0",
+  "programs": [
+   "ENTE_LS",
+   "ICM_LS",
+   "MIME_LS",
+   "PEME_LS",
+   "SBPE_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15795",
+  "code": "PEM 316E",
+  "branch": "PEM",
+  "level": "LS",
+  "name": "Urban Land. Pln& Design",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Gülşen Aytaç",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "09:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "PEME_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15796",
+  "code": "PEM 356E",
+  "branch": "PEM",
+  "level": "LS",
+  "name": "Rural Landscape Plan.&Design",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Meltem Erdem Kaya",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "08:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "PEME_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15797",
+  "code": "PEM 422E",
+  "branch": "PEM",
+  "level": "LS",
+  "name": "Professional Practice & Ethics",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Ebru Erbaş Gürler",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "10:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "PEME_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15798",
+  "code": "PEM 324E",
+  "branch": "PEM",
+  "level": "LS",
+  "name": "Landscape Management",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Fatma Ayçim Türer Başkaya",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "10:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "PEME_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15799",
+  "code": "PEM 256E",
+  "branch": "PEM",
+  "level": "LS",
+  "name": "Planting Design Studio",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Fatma Ayçim Türer Başkaya",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Perşembe"
+  ],
+  "times": [
+   "08:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "PEME_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15800",
+  "code": "PEM 214E",
+  "branch": "PEM",
+  "level": "LS",
+  "name": "Resilient Urban Design",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Melih Bozkurt",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "08:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "PEME_LS"
+  ],
   "prereq": "-",
   "classReq": "-"
  }

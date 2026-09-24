@@ -3498,7 +3498,7 @@
    "D368B"
   ],
   "capacity": 30,
-  "enrolled": 20,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3525,7 +3525,7 @@
    "D381B"
   ],
   "capacity": 30,
-  "enrolled": 8,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3606,7 +3606,7 @@
    "D359"
   ],
   "capacity": 30,
-  "enrolled": 1,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3675,7 +3675,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 40,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -4134,7 +4134,7 @@
    "Çarşamba"
   ],
   "times": [
-   "09:00/11:59"
+   "09:00/10:59"
   ],
   "rooms": [
    "--"

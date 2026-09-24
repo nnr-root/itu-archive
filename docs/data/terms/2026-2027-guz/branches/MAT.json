@@ -3922,7 +3922,7 @@
    "B1_226"
   ],
   "capacity": 20,
-  "enrolled": 11,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3976,7 +3976,7 @@
    "B1_428"
   ],
   "capacity": 20,
-  "enrolled": 14,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -4003,7 +4003,7 @@
    "B1_226"
   ],
   "capacity": 20,
-  "enrolled": 4,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -4138,7 +4138,7 @@
    "B1_428"
   ],
   "capacity": 20,
-  "enrolled": 2,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -4422,8 +4422,8 @@
    "14:30/16:29"
   ],
   "rooms": [
-   "D304",
-   "D304"
+   "--",
+   "--"
   ],
   "capacity": 50,
   "enrolled": 35,
@@ -5113,7 +5113,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "D306"
+   "--"
   ],
   "capacity": 30,
   "enrolled": 30,

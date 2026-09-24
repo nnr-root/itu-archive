@@ -4470,7 +4470,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "D306"
+   "--"
   ],
   "capacity": 30,
   "enrolled": 14,
@@ -4689,7 +4689,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "D304"
+   "--"
   ],
   "capacity": 55,
   "enrolled": 40,
@@ -5195,8 +5195,8 @@
    "11:30/13:29"
   ],
   "rooms": [
-   "D306",
-   "D306"
+   "--",
+   "--"
   ],
   "capacity": 30,
   "enrolled": 18,
@@ -6290,7 +6290,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Armağan Atsay",
   "buildings": [
-   "undeclared"
+   "FEB"
   ],
   "days": [
    "Pazartesi"
@@ -6299,7 +6299,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "L300"
   ],
   "capacity": 20,
   "enrolled": 19,
@@ -6329,7 +6329,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 8,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6398,7 +6398,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "İbrahim Özçeşmeci",
   "buildings": [
-   "undeclared"
+   "FEB"
   ],
   "days": [
    "Cuma"
@@ -6407,7 +6407,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "B3_Z01-Z03"
   ],
   "capacity": 25,
   "enrolled": 24,
@@ -6491,7 +6491,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 15,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6506,7 +6506,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Barış Kışkan",
   "buildings": [
-   "undeclared"
+   "FEB"
   ],
   "days": [
    "Cuma"
@@ -6515,10 +6515,10 @@
    "14:00/16:59"
   ],
   "rooms": [
-   "--"
+   "D205"
   ],
   "capacity": 45,
-  "enrolled": 42,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6560,7 +6560,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "İbrahim Volkan Kumbaracı",
   "buildings": [
-   "undeclared"
+   "FEB"
   ],
   "days": [
    "Pazartesi"
@@ -6569,7 +6569,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "L400"
   ],
   "capacity": 30,
   "enrolled": 30,
@@ -6626,7 +6626,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 10,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6774,7 +6774,7 @@
   "level": "LU",
   "name": "Stereochemis.&Confor.Anal.",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Cüneyt Hüseyin Ünlü",
+  "instructor": "Abdullah Aydoğan",
   "buildings": [
    "undeclared"
   ],
@@ -7073,7 +7073,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 22,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -7384,5 +7384,26 @@
   "programs": [],
   "prereq": "-",
   "classReq": "Detay"
+ },
+ {
+  "crn": "15790",
+  "code": "KIM 303E",
+  "branch": "KIM",
+  "level": "LS",
+  "name": "Organic Chemistry I",
+  "method": "Ek Sınav",
+  "instructor": "Hacer Ayşen Önen",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
  }
 ]

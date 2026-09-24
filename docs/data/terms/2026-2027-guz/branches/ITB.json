@@ -865,7 +865,7 @@
    "11:30/14:29"
   ],
   "rooms": [
-   "D306"
+   "--"
   ],
   "capacity": 30,
   "enrolled": 13,
@@ -943,7 +943,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "D306"
+   "--"
   ],
   "capacity": 30,
   "enrolled": 27,
@@ -1797,7 +1797,7 @@
    "11:30/14:29"
   ],
   "rooms": [
-   "D304"
+   "--"
   ],
   "capacity": 35,
   "enrolled": 35,
@@ -2096,7 +2096,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ulaş Duygu Aysal Cin",
   "buildings": [
-   "INB"
+   "FEB"
   ],
   "days": [
    "Salı"
@@ -2105,7 +2105,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "B303"
+   "OBL1"
   ],
   "capacity": 30,
   "enrolled": 30,
@@ -2328,7 +2328,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ulaş Duygu Aysal Cin",
   "buildings": [
-   "MED"
+   "FEB"
   ],
   "days": [
    "Perşembe"
@@ -2337,7 +2337,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "B34"
+   "D105"
   ],
   "capacity": 30,
   "enrolled": 30,
@@ -3800,7 +3800,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ulaş Duygu Aysal Cin",
   "buildings": [
-   "MED"
+   "FEB"
   ],
   "days": [
    "Salı"
@@ -3809,7 +3809,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "B35"
+   "OBL1"
   ],
   "capacity": 30,
   "enrolled": 30,
@@ -4275,7 +4275,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "D304"
+   "--"
   ],
   "capacity": 35,
   "enrolled": 35,
@@ -5045,7 +5045,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "D304"
+   "--"
   ],
   "capacity": 35,
   "enrolled": 35,
@@ -5199,7 +5199,7 @@
    "11:30/14:29"
   ],
   "rooms": [
-   "D304"
+   "--"
   ],
   "capacity": 35,
   "enrolled": 35,
@@ -7270,6 +7270,160 @@
    "YRI_OL",
    "YTB_OL",
    "YTI_OL",
+   "YZVE_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15791",
+  "code": "ITB 207E",
+  "branch": "ITB",
+  "level": "LS",
+  "name": "Ottoman History",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Hasan Karataş",
+  "buildings": [
+   "FEB"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "14:30/17:29"
+  ],
+  "rooms": [
+   "OBL1"
+  ],
+  "capacity": 30,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "ARC_LS",
+   "BES_LS",
+   "BIO_LS",
+   "BIOE_LS",
+   "BLG_LS",
+   "BLGE_LS",
+   "BST_LS",
+   "CAB_LS",
+   "CEB_LS",
+   "CEN_LS",
+   "CES_LS",
+   "CEV_LS",
+   "CEVE_LS",
+   "CHZ_LS",
+   "CHZE_LS",
+   "DEN_LS",
+   "DENE_LS",
+   "DUI_LS",
+   "DUIE_LS",
+   "ECNE_LS",
+   "EEE_LS",
+   "EFN_LS",
+   "EHB_LS",
+   "EHBE_LS",
+   "EHN_LS",
+   "EHS_LS",
+   "ELE_LS",
+   "ELK_LS",
+   "ELKE_LS",
+   "END_LS",
+   "ENDE_LS",
+   "ENT_LS",
+   "ENTE_LS",
+   "ESS_LS",
+   "EUT_LS",
+   "EUTE_LS",
+   "FIZ_LS",
+   "FIZE_LS",
+   "GEM_LS",
+   "GEME_LS",
+   "GEO_LS",
+   "GEOE_LS",
+   "GID_LS",
+   "GIDE_LS",
+   "GMI_LS",
+   "GMIE_LS",
+   "HTA_LS",
+   "HTAE_LS",
+   "IAD_LS",
+   "IBM_LS",
+   "ICM_LS",
+   "IEBE_LS",
+   "IML_LS",
+   "IMLE_LS",
+   "IND_LS",
+   "INS_LS",
+   "INSE_LS",
+   "ISL_LS",
+   "ISLE_LS",
+   "JEF_LS",
+   "JEFE_LS",
+   "JEO_LS",
+   "JEOE_LS",
+   "KIM_LS",
+   "KIME_LS",
+   "KMM_LS",
+   "KMME_LS",
+   "KMP_LS",
+   "KOM_LS",
+   "KOME_LS",
+   "MAD_LS",
+   "MADE_LS",
+   "MAK_LS",
+   "MAKE_LS",
+   "MAT_LS",
+   "MATE_LS",
+   "MBI_LS",
+   "MEN_LS",
+   "MET_LS",
+   "METE_LS",
+   "MIM_LS",
+   "MIME_LS",
+   "MMD_LS",
+   "MSS_LS",
+   "MTM_LS",
+   "MTO_LS",
+   "MTOE_LS",
+   "MTR_LS",
+   "MUT_LS",
+   "MUZ_LS",
+   "MZT_LS",
+   "NAE_LS",
+   "PEM_LS",
+   "PEME_LS",
+   "PET_LS",
+   "PETE_LS",
+   "ROS_LS",
+   "ROSE_LS",
+   "SAO_OL",
+   "SAS_LS",
+   "SBL_LS",
+   "SBP_LS",
+   "SBPE_LS",
+   "SDU_LS",
+   "SECE_LS",
+   "SED_LS",
+   "SEK_LS",
+   "SEN_LS",
+   "SES_LS",
+   "SES_TH_LS",
+   "SES_TS_LS",
+   "SGI_LS",
+   "SGM_LS",
+   "SIN_LS",
+   "SIS_LS",
+   "SMT_LS",
+   "STP_LS",
+   "TEK_LS",
+   "TEKE_LS",
+   "TEL_LS",
+   "THO_LS",
+   "UCK_LS",
+   "UZB_LS",
+   "UZBE_LS",
+   "VBAE_LS",
    "YZVE_LS"
   ],
   "prereq": "-",

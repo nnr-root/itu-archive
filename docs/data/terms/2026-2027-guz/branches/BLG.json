@@ -19,9 +19,9 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
-  "enrolled": 17,
-  "reserved": "BLG_BG_DR/5/2 | BLG_BG_YL/12/12 | Diğer/3/3",
+  "capacity": 32,
+  "enrolled": 28,
+  "reserved": "BLG_BG_DR/5/2 | BLG_BG_YL/22/21 | Diğer/5/5",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -49,9 +49,9 @@
   "rooms": [
    "--"
   ],
-  "capacity": 25,
-  "enrolled": 20,
-  "reserved": "BLG_BG_DR/5/3 | BLG_BG_YL/15/12 | Diğer/5/5",
+  "capacity": 30,
+  "enrolled": 22,
+  "reserved": "BLG_BG_DR/5/3 | BLG_BG_YL/17/12 | Diğer/8/7",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -80,8 +80,8 @@
    "--"
   ],
   "capacity": 55,
-  "enrolled": 23,
-  "reserved": "BLG_BG_YL/50/23 | Diğer/5/0",
+  "enrolled": 24,
+  "reserved": "BLG_BG_YL/50/24 | Diğer/5/0",
   "programs": [
    "BLG_BG_YL"
   ],
@@ -164,9 +164,9 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
-  "enrolled": 18,
-  "reserved": "BLG_BG_YL/12/12 | BLG_BG_DR/3/1 | Diğer/5/5",
+  "capacity": 31,
+  "enrolled": 22,
+  "reserved": "BLG_BG_YL/22/16 | BLG_BG_DR/3/1 | Diğer/6/5",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -195,8 +195,8 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 8,
-  "reserved": "BLG_BG_YL/12/3 | BLG_BG_DR/3/1 | Diğer/5/4",
+  "enrolled": 9,
+  "reserved": "BLG_BG_YL/12/3 | BLG_BG_DR/3/1 | Diğer/5/5",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -225,7 +225,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 4,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -252,7 +252,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 7,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -278,9 +278,9 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
-  "enrolled": 3,
-  "reserved": "BLG_BG_YL/12/0 | BLG_BG_DR/5/0 | Diğer/3/3",
+  "capacity": 24,
+  "enrolled": 2,
+  "reserved": "BLG_BG_YL/12/0 | BLG_BG_DR/5/0 | Diğer/7/2",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -308,9 +308,9 @@
   "rooms": [
    "--"
   ],
-  "capacity": 25,
-  "enrolled": 25,
-  "reserved": "BLG_BG_YL/23/23 | BLG_BG_DR/2/2 | Diğer/0/0",
+  "capacity": 35,
+  "enrolled": 29,
+  "reserved": "BLG_BG_YL/33/27 | BLG_BG_DR/2/2 | Diğer/0/0",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -338,9 +338,9 @@
   "rooms": [
    "--"
   ],
-  "capacity": 25,
-  "enrolled": 9,
-  "reserved": "BLG_BG_DR/2/0 | BLG_BG_YL/23/9 | Diğer/0/0",
+  "capacity": 35,
+  "enrolled": 16,
+  "reserved": "BLG_BG_DR/2/0 | BLG_BG_YL/23/10 | Diğer/10/6",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -368,9 +368,9 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
-  "enrolled": 11,
-  "reserved": "BLG_BG_DR/12/3 | BLG_BG_YL/5/5 | Diğer/3/3",
+  "capacity": 28,
+  "enrolled": 13,
+  "reserved": "BLG_BG_DR/12/3 | BLG_BG_YL/12/7 | Diğer/4/3",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -453,8 +453,8 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 18,
-  "reserved": "BLG_BG_DR/3/2 | BLG_BG_YL/17/12 | Diğer/5/4",
+  "enrolled": 17,
+  "reserved": "BLG_BG_DR/3/2 | BLG_BG_YL/17/11 | Diğer/5/4",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -510,7 +510,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 16,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -536,9 +536,9 @@
   "rooms": [
    "--"
   ],
-  "capacity": 25,
-  "enrolled": 25,
-  "reserved": "BLG_BG_YL/20/20 | Diğer/5/5",
+  "capacity": 35,
+  "enrolled": 33,
+  "reserved": "BLG_BG_YL/25/23 | Diğer/10/10",
   "programs": [
    "BLG_BG_YL"
   ],
@@ -565,9 +565,9 @@
   "rooms": [
    "--"
   ],
-  "capacity": 25,
-  "enrolled": 25,
-  "reserved": "BLG_BG_DR/2/2 | BLG_BG_YL/23/23 | Diğer/0/0",
+  "capacity": 50,
+  "enrolled": 50,
+  "reserved": "BLG_BG_DR/2/2 | BLG_BG_YL/43/43 | Diğer/5/5",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -596,7 +596,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 3,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -649,9 +649,9 @@
   "rooms": [
    "--"
   ],
-  "capacity": 25,
-  "enrolled": 25,
-  "reserved": "BLG_BG_YL/20/20 | Diğer/5/5",
+  "capacity": 34,
+  "enrolled": 34,
+  "reserved": "BLG_BG_YL/25/25 | Diğer/9/9",
   "programs": [
    "BLG_BG_YL"
   ],
@@ -679,7 +679,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 18,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -705,9 +705,9 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
-  "enrolled": 19,
-  "reserved": "BLG_BG_DR/2/1 | BLG_BG_YL/18/18 | Diğer/0/0",
+  "capacity": 31,
+  "enrolled": 29,
+  "reserved": "BLG_BG_DR/2/1 | BLG_BG_YL/27/26 | Diğer/2/2",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -736,7 +736,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 17,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -762,7 +762,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 25,
+  "capacity": 30,
   "enrolled": 24,
   "reserved": "-",
   "programs": [],
@@ -813,7 +813,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 39,
+  "enrolled": 41,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -855,7 +855,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 64,
+  "enrolled": 66,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1594,6 +1594,7 @@
    "BLG_LS",
    "BLGE_LS",
    "CEN_LS",
+   "SECE_LS",
    "YZVE_LS"
   ],
   "prereq": "-",
@@ -1894,8 +1895,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
-  "enrolled": 19,
+  "capacity": 23,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -2513,6 +2514,35 @@
   "reserved": "-",
   "programs": [],
   "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15794",
+  "code": "BLG 454E",
+  "branch": "BLG",
+  "level": "LS",
+  "name": "Learning From Data",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "İbrahim Papila",
+  "buildings": [
+   "BBB"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "14:30/17:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 60,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEN_LS"
+  ],
+  "prereq": "Detay",
   "classReq": "-"
  }
 ]

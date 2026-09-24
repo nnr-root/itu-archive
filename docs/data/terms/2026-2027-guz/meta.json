@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-24T07:35:18Z",
+ "scrapedAt": "2026-09-24T13:37:12Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5374,
- "courses": 3821,
+ "sections": 5391,
+ "courses": 3832,
  "branches": [
   {
    "code": "AAR",
@@ -82,7 +82,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 10
+   "sections": 11
   },
   {
    "code": "BEB",
@@ -132,7 +132,7 @@
     "LS",
     "LU"
    ],
-   "sections": 90
+   "sections": 91
   },
   {
    "code": "BLU",
@@ -435,7 +435,7 @@
     "LS",
     "LU"
    ],
-   "sections": 79
+   "sections": 83
   },
   {
    "code": "ENB",
@@ -744,7 +744,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 56
+   "sections": 57
   },
   {
    "code": "ITY",
@@ -816,7 +816,7 @@
     "LS",
     "LU"
    ],
-   "sections": 155
+   "sections": 156
   },
   {
    "code": "KMM",
@@ -845,7 +845,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 45
+   "sections": 46
   },
   {
    "code": "KOR",
@@ -1158,7 +1158,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 47
+   "sections": 48
   },
   {
    "code": "MUZ",
@@ -1243,7 +1243,7 @@
     "LS",
     "LU"
    ],
-   "sections": 41
+   "sections": 48
   },
   {
    "code": "PET",
@@ -1657,11 +1657,11 @@
   }
  ],
  "stats": {
-  "sections": 5374,
-  "courses": 3821,
+  "sections": 5391,
+  "courses": 3832,
   "branches": 232,
   "instructors": 1984,
-  "capacity": 262140,
-  "enrolled": 122939
+  "capacity": 262531,
+  "enrolled": 123666
  }
 }

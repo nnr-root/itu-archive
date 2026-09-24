@@ -762,7 +762,7 @@
     "TEL 515",
     "Istatistiksel Işaret Işleme",
     40,
-    29
+    31
    ],
    [
     "2026-2027-guz",
@@ -1899,7 +1899,7 @@
     "TEL 517",
     "Bilgi Kuramı",
     40,
-    32
+    33
    ],
    [
     "2025-2026-bahar",
@@ -3972,6 +3972,13 @@
   "rows": [
    [
     "2026-2027-guz",
+    "BLG 454E",
+    "Learning From Data",
+    60,
+    0
+   ],
+   [
+    "2026-2027-guz",
     "MAT 271E",
     "Probability and Statistics",
     70,
@@ -5464,7 +5471,7 @@
     "UUM 521E",
     "Advanced Dynamics",
     40,
-    34
+    37
    ],
    [
     "2026-2027-guz",
@@ -7634,7 +7641,7 @@
     "GGP 503",
     "Gayrimenkul Projel.Strat.Planl",
     20,
-    18
+    20
    ]
   ],
   "terms": 1
@@ -7654,7 +7661,7 @@
     "MKM 505E",
     "Advanced Cont.Meth.Mechatronic",
     50,
-    49
+    50
    ],
    [
     "2025-2026-bahar",
@@ -7805,7 +7812,7 @@
     "2026-2027-guz",
     "BLG 513E",
     "Image Processing",
-    25,
+    30,
     24
    ],
    [
@@ -7813,7 +7820,7 @@
     "BLG DRT",
     "Tez Çalışması",
     200,
-    39
+    41
    ],
    [
     "2026-2027-guz",
@@ -7827,7 +7834,7 @@
     "BLG YLT",
     "Tez Çalışması",
     200,
-    64
+    66
    ],
    [
     "2025-2026-bahar",
@@ -8678,6 +8685,13 @@
     "Control System Design",
     60,
     40
+   ],
+   [
+    "2026-2027-guz",
+    "KON 417E",
+    "Servo Motors",
+    10,
+    0
    ],
    [
     "2026-2027-guz",
@@ -9910,7 +9924,7 @@
     "MBL 537E",
     "Architectural Design Futures",
     15,
-    2
+    1
    ],
    [
     "2026-2027-guz",
@@ -14118,7 +14132,7 @@
     "UUM 543E",
     "Spec.Top.in Aeron.\u0026Astron.Eng.",
     40,
-    11
+    13
    ],
    [
     "2023-2024-bahar",
@@ -14757,7 +14771,7 @@
     "UUM 534E",
     "Aircraft Flight Control Systems",
     40,
-    31
+    33
    ],
    [
     "2023-2024-guz",
@@ -16984,7 +16998,7 @@
     "JFM 605",
     "Elek.Man.Prosp.Özel Konular",
     10,
-    1
+    2
    ],
    [
     "2025-2026-bahar",
@@ -17217,8 +17231,8 @@
     "2026-2027-guz",
     "ELE 531E",
     "Network Syn.\u0026Passi.Filter Des.",
-    30,
-    30
+    40,
+    32
    ],
    [
     "2026-2027-guz",
