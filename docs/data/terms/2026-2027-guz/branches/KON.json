@@ -464,8 +464,10 @@
   ],
   "capacity": 50,
   "enrolled": 45,
-  "reserved": "-",
+  "reserved": "EHB_LS/2/0 | EHBE_LS/3/0 | Diğer/45/45",
   "programs": [
+   "EHB_LS",
+   "EHBE_LS",
    "KOM_LS",
    "KOME_LS"
   ],
@@ -707,12 +709,13 @@
   ],
   "capacity": 50,
   "enrolled": 30,
-  "reserved": "-",
+  "reserved": "UCK_LS/5/0 | Diğer/45/30",
   "programs": [
    "KOM_LS",
    "KOME_LS",
    "ROS_LS",
-   "ROSE_LS"
+   "ROSE_LS",
+   "UCK_LS"
   ],
   "prereq": "-",
   "classReq": "-"
@@ -1287,8 +1290,9 @@
   ],
   "capacity": 70,
   "enrolled": 55,
-  "reserved": "-",
+  "reserved": "EEE_LS/5/0 | Diğer/65/55",
   "programs": [
+   "EEE_LS",
    "EHB_LS",
    "EHBE_LS",
    "ELK_LS",

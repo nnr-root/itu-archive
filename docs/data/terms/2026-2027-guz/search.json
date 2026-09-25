@@ -87928,6 +87928,8 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "EHB_LS",
+   "EHBE_LS",
    "KOM_LS",
    "KOME_LS"
   ]
@@ -91069,7 +91071,8 @@
    "KOM_LS",
    "KOME_LS",
    "ROS_LS",
-   "ROSE_LS"
+   "ROSE_LS",
+   "UCK_LS"
   ]
  ],
  [
@@ -106488,7 +106491,7 @@
   "MIM",
   "Meltem Aksoy",
   "Pazartesi 13:30/17:29 | Perşembe 13:30/17:29",
-  14,
+  15,
   14,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -106523,7 +106526,7 @@
   "MIM",
   "Funda Uz",
   "Pazartesi 13:30/17:29 | Perşembe 13:30/17:29",
-  16,
+  17,
   15,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -107773,6 +107776,7 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "EEE_LS",
    "EHB_LS",
    "EHB_LS",
    "EHBE_LS",
@@ -111704,7 +111708,7 @@
   "MIM",
   "Mine Özkar Kabakçıoğlu",
   "Pazartesi 13:30/17:29 | Perşembe 13:30/17:29",
-  16,
+  17,
   15,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -116892,6 +116896,7 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
+   "EEE_LS",
    "EHB_LS",
    "EHBE_LS",
    "ELK_LS",
@@ -126210,7 +126215,7 @@
   "DNK 201E",
   "Dynamics",
   "DNK",
-  "Tuğba Kuru",
+  "Arcan Yanık",
   "Salı 12:30/15:29",
   50,
   50,
@@ -126684,7 +126689,7 @@
   "STA 204E",
   "Statics&Strength of Materials",
   "STA",
-  "Arcan Yanık",
+  "Tuğba Kuru",
   "Pazartesi 08:30/11:29",
   60,
   60,
@@ -129450,7 +129455,6 @@
   "LS",
   "Fiziksel (Yüz yüze)",
   [
-   "EEE_LS",
    "EHB_LS",
    "EHBE_LS",
    "ELK_LS",
