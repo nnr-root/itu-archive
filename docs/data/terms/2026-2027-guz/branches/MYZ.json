@@ -140,9 +140,9 @@
   "rooms": [
    "5101"
   ],
-  "capacity": 50,
+  "capacity": 55,
   "enrolled": 50,
-  "reserved": "EEE_LS/5/5 | Diğer/45/45",
+  "reserved": "EEE_LS/5/5 | Diğer/50/45",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -392,9 +392,9 @@
   "rooms": [
    "2104"
   ],
-  "capacity": 50,
+  "capacity": 55,
   "enrolled": 50,
-  "reserved": "EEE_LS/5/5 | Diğer/45/45",
+  "reserved": "EEE_LS/5/5 | Diğer/50/45",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -429,9 +429,9 @@
   "rooms": [
    "2106"
   ],
-  "capacity": 50,
+  "capacity": 55,
   "enrolled": 47,
-  "reserved": "EEE_LS/5/2 | Diğer/45/45",
+  "reserved": "EEE_LS/5/2 | Diğer/50/45",
   "programs": [
    "EEE_LS",
    "EHB_LS",
