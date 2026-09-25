@@ -1297,21 +1297,21 @@
    [
     "2026-2027-guz",
     "Cevat Erdem İmrak",
-    60,
+    62,
     46,
     "Pazartesi"
    ],
    [
     "2026-2027-guz",
     "Adem Candaş",
-    60,
+    62,
     58,
     "Perşembe"
    ],
    [
     "2026-2027-guz",
     "Serpil Kurt Habiboğlu , Eren Kalay",
-    60,
+    62,
     57,
     "Cuma"
    ],
@@ -5732,21 +5732,21 @@
    [
     "2026-2027-guz",
     "Levent Trabzon",
-    70,
+    75,
     70,
     "Pazartesi, Perşembe"
    ],
    [
     "2026-2027-guz",
     "Ramazan Murat Tabanlı",
-    70,
+    75,
     70,
     "Pazartesi, Perşembe"
    ],
    [
     "2026-2027-guz",
     "Raşid Ahmed Yıldız",
-    70,
+    0,
     0,
     "Pazartesi, Perşembe"
    ],
@@ -12097,6 +12097,22 @@
    ]
   ]
  },
+ "MAK 388": {
+  "code": "MAK 388",
+  "name": "Mekatronik Sistem Tasarımı",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Onur Keskin",
+    30,
+    0,
+    "Cuma"
+   ]
+  ]
+ },
  "MAK 390": {
   "code": "MAK 390",
   "name": "Uygulamalı Isı Geçişi",
@@ -18075,7 +18091,7 @@
     "2026-2027-guz",
     "Seyhan Onbaşıoğlu",
     30,
-    3,
+    4,
     "Perşembe"
    ]
   ]
@@ -18107,7 +18123,7 @@
     "2026-2027-guz",
     "Ata Muğan",
     30,
-    23,
+    24,
     "Perşembe"
    ]
   ]
@@ -18155,7 +18171,7 @@
     "2026-2027-guz",
     "Osman Taha Şen",
     30,
-    6,
+    8,
     "Salı"
    ],
    [
@@ -18194,7 +18210,7 @@
     "2026-2027-guz",
     "Oğuz Altay",
     30,
-    2,
+    3,
     "Pazartesi"
    ]
   ]
@@ -18210,7 +18226,7 @@
     "2026-2027-guz",
     "İlyas Bedii Özdemir",
     30,
-    7,
+    8,
     "Perşembe"
    ]
   ]
@@ -18226,7 +18242,7 @@
     "2026-2027-guz",
     "Seyhan Onbaşıoğlu",
     30,
-    0,
+    1,
     "Salı"
    ]
   ]
@@ -18258,7 +18274,7 @@
     "2026-2027-guz",
     "Vahit Mermertaş",
     100,
-    43,
+    44,
     ""
    ]
   ]

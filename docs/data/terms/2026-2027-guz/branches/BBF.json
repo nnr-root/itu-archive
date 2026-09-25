@@ -45,7 +45,7 @@
   "instructor": "Muhammet Alkan",
   "buildings": [
    "BBB",
-   "undeclared"
+   "BBB"
   ],
   "days": [
    "Perşembe",
@@ -57,7 +57,7 @@
   ],
   "rooms": [
    "Z-17",
-   "--"
+   "Z-17"
   ],
   "capacity": 80,
   "enrolled": 80,
@@ -217,7 +217,7 @@
   "instructor": "Behçet Uğur Töreyin",
   "buildings": [
    "BBB",
-   "undeclared"
+   "BBB"
   ],
   "days": [
    "Çarşamba",
@@ -229,7 +229,7 @@
   ],
   "rooms": [
    "Z-17",
-   "--"
+   "Z-17"
   ],
   "capacity": 70,
   "enrolled": 70,
@@ -450,7 +450,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Mehmet Ali Ertürk",
   "buildings": [
-   "undeclared"
+   "BBB"
   ],
   "days": [
    "Perşembe"
@@ -459,7 +459,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "101"
   ],
   "capacity": 100,
   "enrolled": 0,
@@ -483,7 +483,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Abdullah Cihan Ak",
   "buildings": [
-   "undeclared"
+   "BBB"
   ],
   "days": [
    "Çarşamba"
@@ -492,7 +492,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "Z-18"
   ],
   "capacity": 80,
   "enrolled": 0,

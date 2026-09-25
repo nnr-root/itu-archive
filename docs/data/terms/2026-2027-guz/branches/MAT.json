@@ -1277,110 +1277,6 @@
   "classReq": "-"
  },
  {
-  "crn": "10201",
-  "code": "MAT 103E",
-  "branch": "MAT",
-  "level": "LS",
-  "name": "Mathematics I",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "-",
-  "buildings": [
-   "MED",
-   "MED"
-  ],
-  "days": [
-   "Salı",
-   "Çarşamba"
-  ],
-  "times": [
-   "14:30/17:29",
-   "11:30/13:29"
-  ],
-  "rooms": [
-   "A16",
-   "A16"
-  ],
-  "capacity": 0,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "BIOE_LS",
-   "BLG_LS",
-   "BLGE_LS",
-   "CEV_LS",
-   "CEVE_LS",
-   "CHZ_LS",
-   "DEN_LS",
-   "DENE_LS",
-   "DUI_LS",
-   "DUIE_LS",
-   "ECNE_LS",
-   "EHB_LS",
-   "EHB_MTM_LS",
-   "EHBE_LS",
-   "ELK_LS",
-   "ELK_MTM_LS",
-   "ELKE_LS",
-   "END_LS",
-   "ENDE_LS",
-   "ENTE_LS",
-   "EUT_LS",
-   "EUTE_LS",
-   "FIZ_LS",
-   "GEM_LS",
-   "GEME_LS",
-   "GEO_LS",
-   "GEOE_LS",
-   "GID_LS",
-   "GIDE_LS",
-   "GMI_LS",
-   "GMIE_LS",
-   "HTA_LS",
-   "HTAE_LS",
-   "IBM_LS",
-   "ICM_LS",
-   "IML_LS",
-   "IMLE_LS",
-   "INS_LS",
-   "INSE_LS",
-   "ISL_LS",
-   "ISLE_LS",
-   "JEF_LS",
-   "JEO_LS",
-   "KIM_LS",
-   "KIME_LS",
-   "KMM_LS",
-   "KMME_LS",
-   "KOM_LS",
-   "KOME_LS",
-   "MAD_LS",
-   "MAK_LS",
-   "MAKE_LS",
-   "MET_LS",
-   "METE_LS",
-   "MIM_LS",
-   "MIME_LS",
-   "MTO_LS",
-   "PEM_LS",
-   "PEME_LS",
-   "PETE_LS",
-   "ROS_LS",
-   "ROSE_LS",
-   "SBP_LS",
-   "SBPE_LS",
-   "SECE_LS",
-   "TEK_LS",
-   "TEKE_LS",
-   "UCK_LS",
-   "UZB_LS",
-   "UZBE_LS",
-   "VBAE_LS",
-   "YZVE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "10202",
   "code": "MAT 103E",
   "branch": "MAT",
@@ -1406,110 +1302,6 @@
   ],
   "capacity": 95,
   "enrolled": 93,
-  "reserved": "-",
-  "programs": [
-   "BIOE_LS",
-   "BLG_LS",
-   "BLGE_LS",
-   "CEV_LS",
-   "CEVE_LS",
-   "CHZ_LS",
-   "DEN_LS",
-   "DENE_LS",
-   "DUI_LS",
-   "DUIE_LS",
-   "ECNE_LS",
-   "EHB_LS",
-   "EHB_MTM_LS",
-   "EHBE_LS",
-   "ELK_LS",
-   "ELK_MTM_LS",
-   "ELKE_LS",
-   "END_LS",
-   "ENDE_LS",
-   "ENTE_LS",
-   "EUT_LS",
-   "EUTE_LS",
-   "FIZ_LS",
-   "GEM_LS",
-   "GEME_LS",
-   "GEO_LS",
-   "GEOE_LS",
-   "GID_LS",
-   "GIDE_LS",
-   "GMI_LS",
-   "GMIE_LS",
-   "HTA_LS",
-   "HTAE_LS",
-   "IBM_LS",
-   "ICM_LS",
-   "IML_LS",
-   "IMLE_LS",
-   "INS_LS",
-   "INSE_LS",
-   "ISL_LS",
-   "ISLE_LS",
-   "JEF_LS",
-   "JEO_LS",
-   "KIM_LS",
-   "KIME_LS",
-   "KMM_LS",
-   "KMME_LS",
-   "KOM_LS",
-   "KOME_LS",
-   "MAD_LS",
-   "MAK_LS",
-   "MAKE_LS",
-   "MET_LS",
-   "METE_LS",
-   "MIM_LS",
-   "MIME_LS",
-   "MTO_LS",
-   "PEM_LS",
-   "PEME_LS",
-   "PETE_LS",
-   "ROS_LS",
-   "ROSE_LS",
-   "SBP_LS",
-   "SBPE_LS",
-   "SECE_LS",
-   "TEK_LS",
-   "TEKE_LS",
-   "UCK_LS",
-   "UZB_LS",
-   "UZBE_LS",
-   "VBAE_LS",
-   "YZVE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "10203",
-  "code": "MAT 103E",
-  "branch": "MAT",
-  "level": "LS",
-  "name": "Mathematics I",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Fatma Zürnacı Yetiş",
-  "buildings": [
-   "MED",
-   "MED"
-  ],
-  "days": [
-   "Salı",
-   "Çarşamba"
-  ],
-  "times": [
-   "14:30/17:29",
-   "11:30/13:29"
-  ],
-  "rooms": [
-   "A32",
-   "A32"
-  ],
-  "capacity": 0,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -2209,8 +2001,8 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ömer Volkan Cüran",
   "buildings": [
-   "MED",
-   "undeclared"
+   "INB",
+   "INB"
   ],
   "days": [
    "Çarşamba",
@@ -2221,8 +2013,8 @@
    "11:30/13:29"
   ],
   "rooms": [
-   "--",
-   "--"
+   "B103",
+   "B103"
   ],
   "capacity": 81,
   "enrolled": 81,
@@ -3922,7 +3714,7 @@
    "B1_226"
   ],
   "capacity": 20,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3949,7 +3741,7 @@
    "B1_226"
   ],
   "capacity": 20,
-  "enrolled": 6,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3976,7 +3768,7 @@
    "B1_428"
   ],
   "capacity": 20,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -4111,7 +3903,7 @@
    "B1_428"
   ],
   "capacity": 20,
-  "enrolled": 2,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -4180,7 +3972,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -5635,7 +5427,7 @@
    "09:00/11:59"
   ],
   "rooms": [
-   "--"
+   "2D13"
   ],
   "capacity": 50,
   "enrolled": 24,
@@ -5757,8 +5549,8 @@
    "14:30/16:29"
   ],
   "rooms": [
-   "--",
-   "--"
+   "A205",
+   "B205"
   ],
   "capacity": 50,
   "enrolled": 28,
@@ -5996,9 +5788,9 @@
   "level": "LS",
   "name": "Mathematical Foundations of Large Language Models",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "-",
+  "instructor": "Bahri Uzunoğlu",
   "buildings": [
-   "undeclared"
+   "FEB"
   ],
   "days": [
    "Cuma"
@@ -6007,7 +5799,7 @@
    "14:00/16:59"
   ],
   "rooms": [
-   "--"
+   "D101"
   ],
   "capacity": 24,
   "enrolled": 0,

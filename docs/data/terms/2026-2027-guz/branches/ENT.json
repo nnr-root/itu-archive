@@ -8,8 +8,8 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Demet Günal Ertaş",
   "buildings": [
-   "undeclared",
-   "undeclared"
+   "MMB",
+   "MMB"
   ],
   "days": [
    "Salı",
@@ -20,8 +20,8 @@
    "14:00/17:59"
   ],
   "rooms": [
-   "--",
-   "--"
+   "217D",
+   "217D"
   ],
   "capacity": 22,
   "enrolled": 18,
@@ -44,8 +44,8 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Pelin Öztürk",
   "buildings": [
-   "undeclared",
-   "undeclared"
+   "MMB",
+   "MMB"
   ],
   "days": [
    "Salı",
@@ -80,8 +80,8 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Yağmur Gizem Çıplak",
   "buildings": [
-   "undeclared",
-   "undeclared"
+   "MMB",
+   "MMB"
   ],
   "days": [
    "Salı",
@@ -116,7 +116,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Yağmur Gizem Çıplak",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Pazartesi"
@@ -125,7 +125,8 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "EUT",
+   "STÜDYO"
   ],
   "capacity": 35,
   "enrolled": 35,
@@ -149,7 +150,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Pelin Öztürk",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Pazartesi"
@@ -158,7 +159,8 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "EUT",
+   "STÜDYO"
   ],
   "capacity": 35,
   "enrolled": 33,
@@ -182,7 +184,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Seçil Şatır",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Cuma"
@@ -191,7 +193,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "303"
   ],
   "capacity": 30,
   "enrolled": 30,
@@ -216,7 +218,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Aysun Ateş Akdeniz",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Perşembe"
@@ -225,7 +227,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "303"
   ],
   "capacity": 30,
   "enrolled": 30,
@@ -250,7 +252,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Layıka Ney Ece Arıburun Kırca",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Cuma"
@@ -259,7 +261,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "217D"
   ],
   "capacity": 40,
   "enrolled": 40,
@@ -284,7 +286,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Demet Günal Ertaş",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Perşembe"
@@ -293,7 +295,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "307"
   ],
   "capacity": 30,
   "enrolled": 22,
@@ -318,7 +320,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Naz Gürpınar",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Cuma"
@@ -327,7 +329,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "305"
   ],
   "capacity": 30,
   "enrolled": 30,
@@ -352,7 +354,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Pelin Öztürk",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Salı"
@@ -361,7 +363,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "303"
   ],
   "capacity": 30,
   "enrolled": 30,
@@ -386,7 +388,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Koray Gelmez",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Pazartesi"
@@ -395,7 +397,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "307"
   ],
   "capacity": 30,
   "enrolled": 30,
@@ -420,7 +422,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Cemal İrfan Çalışkan",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Pazartesi"
@@ -429,7 +431,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "BIM2"
   ],
   "capacity": 30,
   "enrolled": 30,
@@ -454,7 +456,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Elif Küçüksayraç",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Pazartesi"
@@ -463,7 +465,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "311"
   ],
   "capacity": 30,
   "enrolled": 22,
@@ -488,7 +490,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ekrem Cem Alppay",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Pazartesi"
@@ -497,7 +499,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "230"
   ],
   "capacity": 100,
   "enrolled": 96,
@@ -522,7 +524,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Erdem Demir",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Perşembe"
@@ -531,7 +533,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "305"
   ],
   "capacity": 30,
   "enrolled": 30,
@@ -556,7 +558,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ekrem Cem Alppay",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Cuma"
@@ -565,7 +567,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "CATI5"
   ],
   "capacity": 30,
   "enrolled": 10,
@@ -599,7 +601,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "305"
   ],
   "capacity": 30,
   "enrolled": 30,

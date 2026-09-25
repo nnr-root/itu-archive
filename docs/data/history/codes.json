@@ -8529,7 +8529,7 @@
   "DFH 282",
   "Akışkanlar Mekaniği",
   "DFH",
-  9
+  10
  ],
  [
   "DFH 292E",
@@ -8901,7 +8901,7 @@
   "DUI 208E",
   "Cargo&Crew Safety",
   "DUI",
-  12
+  13
  ],
  [
   "DUI 211E",
@@ -13269,7 +13269,7 @@
   "ENR 321",
   "Otomatic Control Systems",
   "ENR",
-  11
+  12
  ],
  [
   "ENR 351",
@@ -18471,7 +18471,7 @@
   "HUK 203E",
   "IT Law",
   "HUK",
-  7
+  8
  ],
  [
   "HUK 211",
@@ -28536,6 +28536,12 @@
   1
  ],
  [
+  "MAK 388",
+  "Mekatronik Sistem Tasarımı",
+  "MAK",
+  1
+ ],
+ [
   "MAK 390",
   "Uygulamalı Isı Geçişi",
   "MAK",
@@ -31479,7 +31485,7 @@
   "MIM 120E",
   "Int.toCmp.Ds.Tools&Mth.inArch.",
   "MIM",
-  9
+  10
  ],
  [
   "MIM 122",
@@ -31491,7 +31497,7 @@
   "MIM 122E",
   "Ancient&Byzantine Architecture",
   "MIM",
-  10
+  11
  ],
  [
   "MIM 125",
@@ -31635,7 +31641,7 @@
   "MIM 221E",
   "Hstry of Turkish Architecture",
   "MIM",
-  10
+  11
  ],
  [
   "MIM 222",
@@ -31647,7 +31653,7 @@
   "MIM 222E",
   "Histry of Europn Architecture",
   "MIM",
-  12
+  13
  ],
  [
   "MIM 223E",
@@ -31689,7 +31695,7 @@
   "MIM 234E",
   "Reinforced Concrete Structures",
   "MIM",
-  5
+  6
  ],
  [
   "MIM 242",
@@ -38223,7 +38229,7 @@
   "NAE 341",
   "Structural Design of Ships",
   "NAE",
-  10
+  11
  ],
  [
   "NAE 401",
@@ -45774,8 +45780,8 @@
   1
  ],
  [
-  "UUM 555",
-  "Eklemeli İmalat&3B Yazıcı Tek.",
+  "UUM 555E",
+  "Additi.Manuf.&3D Printer Tec.",
   "UUM",
   1
  ],

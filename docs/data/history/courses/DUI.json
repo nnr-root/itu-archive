@@ -1115,6 +1115,7 @@
   "code": "DUI 208E",
   "name": "Cargo&Crew Safety",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-yaz",
@@ -1129,6 +1130,13 @@
    "2018-2019-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Esma Uflaz",
+    30,
+    0,
+    "Cuma"
+   ],
    [
     "2025-2026-bahar",
     "Tanzer Satır",
@@ -5694,7 +5702,7 @@
    [
     "2026-2027-guz",
     "Fırat Bolat",
-    65,
+    70,
     61,
     "Çarşamba"
    ],

@@ -1150,7 +1150,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 65,
+  "capacity": 70,
   "enrolled": 61,
   "reserved": "-",
   "programs": [
@@ -1955,6 +1955,35 @@
   "reserved": "-",
   "programs": [
    "MMD_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15812",
+  "code": "DUI 208E",
+  "branch": "DUI",
+  "level": "LS",
+  "name": "Cargo&Crew Safety",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Esma Uflaz",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "14:30/16:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 30,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "DUI_LS"
   ],
   "prereq": "-",
   "classReq": "-"

@@ -19,8 +19,8 @@
   "rooms": [
    "ZA1"
   ],
-  "capacity": 30,
-  "enrolled": 30,
+  "capacity": 35,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -101,7 +101,7 @@
    "1D7"
   ],
   "capacity": 40,
-  "enrolled": 6,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -128,7 +128,7 @@
    "ZA1"
   ],
   "capacity": 40,
-  "enrolled": 22,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

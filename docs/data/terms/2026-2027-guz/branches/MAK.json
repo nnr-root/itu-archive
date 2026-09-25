@@ -199,7 +199,7 @@
   "rooms": [
    "R354"
   ],
-  "capacity": 60,
+  "capacity": 62,
   "enrolled": 46,
   "reserved": "-",
   "programs": [
@@ -229,7 +229,7 @@
   "rooms": [
    "R354"
   ],
-  "capacity": 60,
+  "capacity": 62,
   "enrolled": 58,
   "reserved": "-",
   "programs": [
@@ -259,7 +259,7 @@
   "rooms": [
    "R362"
   ],
-  "capacity": 60,
+  "capacity": 62,
   "enrolled": 57,
   "reserved": "-",
   "programs": [
@@ -1156,7 +1156,7 @@
    "A201",
    "A201"
   ],
-  "capacity": 70,
+  "capacity": 75,
   "enrolled": 70,
   "reserved": "-",
   "programs": [
@@ -1190,7 +1190,7 @@
    "A363",
    "A363"
   ],
-  "capacity": 70,
+  "capacity": 75,
   "enrolled": 70,
   "reserved": "-",
   "programs": [
@@ -3396,7 +3396,7 @@
    "D380B"
   ],
   "capacity": 30,
-  "enrolled": 3,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3423,7 +3423,7 @@
    "D368A"
   ],
   "capacity": 30,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3498,7 +3498,7 @@
    "D368B"
   ],
   "capacity": 30,
-  "enrolled": 23,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3579,7 +3579,7 @@
    "D331"
   ],
   "capacity": 30,
-  "enrolled": 6,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3606,7 +3606,7 @@
    "D359"
   ],
   "capacity": 30,
-  "enrolled": 2,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3633,7 +3633,7 @@
    "D368A"
   ],
   "capacity": 30,
-  "enrolled": 7,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3675,7 +3675,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 43,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -4027,7 +4027,7 @@
    "D361B",
    "D361B"
   ],
-  "capacity": 70,
+  "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
   "programs": [
@@ -4170,6 +4170,35 @@
   "enrolled": 0,
   "reserved": "-",
   "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15817",
+  "code": "MAK 388",
+  "branch": "MAK",
+  "level": "LS",
+  "name": "Mekatronik Sistem Tasarımı",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Onur Keskin",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "14:00/16:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 30,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "MAK_LS"
+  ],
   "prereq": "-",
   "classReq": "-"
  }

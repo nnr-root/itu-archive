@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-25T07:45:05Z",
+ "scrapedAt": "2026-09-25T13:55:49Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5401,
- "courses": 3841,
+ "sections": 5411,
+ "courses": 3852,
  "branches": [
   {
    "code": "AAR",
@@ -132,7 +132,7 @@
     "LS",
     "LU"
    ],
-   "sections": 91
+   "sections": 92
   },
   {
    "code": "BLU",
@@ -308,7 +308,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 34
+   "sections": 35
   },
   {
    "code": "DNK",
@@ -329,7 +329,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 69
+   "sections": 70
   },
   {
    "code": "DUM",
@@ -457,7 +457,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 1
+   "sections": 2
   },
   {
    "code": "ENT",
@@ -602,7 +602,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 13
+   "sections": 14
   },
   {
    "code": "HYM",
@@ -889,7 +889,7 @@
     "LS",
     "LU"
    ],
-   "sections": 140
+   "sections": 141
   },
   {
    "code": "MAL",
@@ -911,7 +911,7 @@
     "LS",
     "LU"
    ],
-   "sections": 125
+   "sections": 123
   },
   {
    "code": "MBA",
@@ -1010,7 +1010,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 152
+   "sections": 157
   },
   {
    "code": "MIT",
@@ -1200,7 +1200,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 7
+   "sections": 8
   },
   {
    "code": "NSE",
@@ -1657,11 +1657,11 @@
   }
  ],
  "stats": {
-  "sections": 5401,
-  "courses": 3841,
+  "sections": 5411,
+  "courses": 3852,
   "branches": 232,
   "instructors": 1984,
-  "capacity": 262759,
-  "enrolled": 124088
+  "capacity": 262860,
+  "enrolled": 124667
  }
 }

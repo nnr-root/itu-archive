@@ -2589,7 +2589,7 @@
    "LAB-B"
   ],
   "capacity": 30,
-  "enrolled": 26,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -5366,7 +5366,7 @@
   "level": "LS",
   "name": "Organik Kimya Lab. II",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ayşe Özdemir , Cüneyt Hüseyin Ünlü",
+  "instructor": "Ayşe Özdemir",
   "buildings": [
    "FEB",
    "FEB"
@@ -5834,7 +5834,7 @@
   "rooms": [
    "B3_Z01-Z03"
   ],
-  "capacity": 20,
+  "capacity": 0,
   "enrolled": 7,
   "reserved": "-",
   "programs": [
@@ -6329,7 +6329,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6626,7 +6626,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 11,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -7073,7 +7073,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 23,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -7094,7 +7094,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

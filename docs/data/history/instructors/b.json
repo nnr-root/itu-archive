@@ -376,7 +376,7 @@
     "GEM 509",
     "Mühendislikte Matem.Yöntemler",
     30,
-    2
+    3
    ],
    [
     "2026-2027-guz",
@@ -1788,6 +1788,19 @@
   ],
   "terms": 16
  },
+ "Bahri Uzunoğlu": {
+  "name": "Bahri Uzunoğlu",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "MAT 451E",
+    "Mathematical Foundations of Large Language Models",
+    24,
+    0
+   ]
+  ],
+  "terms": 1
+ },
  "Bahriye İlhan": {
   "name": "Bahriye İlhan",
   "rows": [
@@ -2712,21 +2725,21 @@
     "YAP YLT",
     "Tez Çalışması",
     200,
-    25
+    26
    ],
    [
     "2026-2027-guz",
     "YAP DRT",
     "Tez Çalışması",
     200,
-    36
+    37
    ],
    [
     "2026-2027-guz",
     "YAP YET",
     "Yeterlik Aşaması",
     200,
-    5
+    6
    ],
    [
     "2025-2026-bahar",
@@ -3776,7 +3789,7 @@
     "DEP 521E",
     "Special Topics in Earthqu.Eng.",
     20,
-    0
+    1
    ],
    [
     "2019-2020-guz",
@@ -4900,14 +4913,14 @@
     "KIM YLT",
     "Tez Çalışması",
     200,
-    23
+    24
    ],
    [
     "2026-2027-guz",
     "KIM DRT",
     "Tez Çalışması",
     200,
-    27
+    28
    ],
    [
     "2026-2027-guz",
@@ -5555,7 +5568,7 @@
     "MTO 596",
     "Bilimsel Araş.,Etik ve Seminer",
     20,
-    12
+    13
    ],
    [
     "2026-2027-guz",
@@ -5813,7 +5826,7 @@
     "DZC 502",
     "Denizci.Sektör.Kariyer Plan.",
     20,
-    12
+    14
    ],
    [
     "2026-2027-guz",
@@ -6036,7 +6049,7 @@
     "UZM 504E",
     "High Speed Flows",
     40,
-    6
+    7
    ],
    [
     "2025-2026-bahar",
@@ -6189,7 +6202,7 @@
     "MIA 509",
     "Isı-Akış Olaylarında Den. Yönt",
     30,
-    9
+    11
    ],
    [
     "2025-2026-bahar",
@@ -6725,7 +6738,7 @@
     "END 213E",
     "Data Manag.in Industrial Syst.",
     80,
-    63
+    62
    ],
    [
     "2026-2027-guz",
@@ -6746,7 +6759,7 @@
     "END DRT",
     "Tez Çalışması",
     200,
-    23
+    24
    ],
    [
     "2026-2027-guz",
@@ -7357,7 +7370,7 @@
     "BLG 601E",
     "Pattern Recognition",
     20,
-    15
+    16
    ],
    [
     "2026-2027-guz",
@@ -7371,7 +7384,7 @@
     "BLU YLT",
     "Tez Çalışması",
     200,
-    9
+    10
    ],
    [
     "2026-2027-guz",
@@ -7481,7 +7494,7 @@
     "2026-2027-guz",
     "EHB 433E",
     "Digital Filters and Systems",
-    65,
+    75,
     55
    ],
    [
@@ -10207,7 +10220,7 @@
     "YTT 509E",
     "Textile Technologies",
     30,
-    4
+    5
    ],
    [
     "2026-2027-guz",
@@ -11847,7 +11860,7 @@
     "MYE 5016E",
     "Project Management",
     40,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -11874,7 +11887,7 @@
     "ZMG 601",
     "Teorik Zem. Mek. ve Zem. Mod.",
     30,
-    3
+    5
    ],
    [
     "2025-2026-bahar",
@@ -13366,7 +13379,7 @@
     "NSE 517E",
     "Environmental Nanotechnology",
     20,
-    6
+    7
    ],
    [
     "2026-2027-guz",
@@ -13394,7 +13407,7 @@
     "NSE YLT",
     "Tez Çalışması",
     100,
-    15
+    16
    ],
    [
     "2026-2027-guz",
@@ -13408,7 +13421,7 @@
     "UMT YLT",
     "Tez Çalışması",
     200,
-    5
+    6
    ],
    [
     "2025-2026-bahar",
@@ -13519,7 +13532,7 @@
     "EBT 567",
     "Elektromanyetik Enerji Hasatlama",
     10,
-    0
+    1
    ]
   ],
   "terms": 1
@@ -13567,6 +13580,13 @@
     "Byzantine Heritage in İstanbul",
     23,
     20
+   ],
+   [
+    "2026-2027-guz",
+    "MIM 222E",
+    "Histry of Europn Architecture",
+    0,
+    0
    ],
    [
     "2026-2027-guz",
@@ -13796,7 +13816,7 @@
     "TEL 502E",
     "Detection and Estimation Theo.",
     40,
-    23
+    24
    ],
    [
     "2025-2026-bahar",
@@ -14492,7 +14512,7 @@
     "MAM YLT",
     "Tez Çalışması",
     200,
-    23
+    25
    ],
    [
     "2026-2027-guz",
@@ -15351,7 +15371,7 @@
     "NSE 523E",
     "Surfaces\u0026Interfaces",
     20,
-    10
+    12
    ],
    [
     "2026-2027-guz",
@@ -17378,14 +17398,14 @@
     "EBT 527E",
     "Wind Energy\u0026Conversion Tech.",
     30,
-    20
+    21
    ],
    [
     "2026-2027-guz",
     "EBT 507E",
     "Fundamentals of Power Generat.",
     20,
-    18
+    19
    ],
    [
     "2026-2027-guz",
@@ -17406,13 +17426,13 @@
     "EBT YLT",
     "Tez Çalışması",
     200,
-    29
+    31
    ],
    [
     "2026-2027-guz",
     "SUS 509E",
     "Philosophy of Scie.for Susta.",
-    20,
+    25,
     20
    ]
   ],
@@ -17822,7 +17842,7 @@
     "DTM 507E",
     "Numerical Techn.Eng.Problems",
     30,
-    19
+    21
    ],
    [
     "2026-2027-guz",
@@ -18685,7 +18705,7 @@
     "DUM 539E",
     "Alterna.Fuels in Mariti.Trans.",
     20,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -19787,7 +19807,7 @@
     "DTM 501E",
     "Advanced Marine Hydrodynamics",
     30,
-    20
+    24
    ],
    [
     "2025-2026-bahar",
@@ -21424,14 +21444,14 @@
     "MJT 621E",
     "Music in Digital Culture",
     10,
-    1
+    2
    ],
    [
     "2026-2027-guz",
     "MJT DRT",
     "Tez Çalışması",
     200,
-    18
+    19
    ],
    [
     "2026-2027-guz",
@@ -23919,7 +23939,7 @@
     "ANT 501E",
     "Ecology, Society\u0026Susta.Deve.",
     20,
-    13
+    14
    ],
    [
     "2026-2027-guz",

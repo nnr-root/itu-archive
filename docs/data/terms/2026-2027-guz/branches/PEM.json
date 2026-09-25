@@ -47,7 +47,7 @@
    "--"
   ],
   "capacity": 10,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1279,24 +1279,16 @@
   "name": "Urban Land. Pln& Design",
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Gülşen Aytaç",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
+  "buildings": [],
+  "days": [],
   "times": [
-   "09:30/12:29"
+   "-/-"
   ],
-  "rooms": [
-   "--"
-  ],
+  "rooms": [],
   "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
-  "programs": [
-   "PEME_LS"
-  ],
+  "programs": [],
   "prereq": "-",
   "classReq": "-"
  },
@@ -1308,24 +1300,16 @@
   "name": "Rural Landscape Plan.&Design",
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Meltem Erdem Kaya",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Cuma"
-  ],
+  "buildings": [],
+  "days": [],
   "times": [
-   "08:30/12:29"
+   "-/-"
   ],
-  "rooms": [
-   "--"
-  ],
+  "rooms": [],
   "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
-  "programs": [
-   "PEME_LS"
-  ],
+  "programs": [],
   "prereq": "-",
   "classReq": "-"
  },
@@ -1337,24 +1321,16 @@
   "name": "Professional Practice & Ethics",
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ebru Erbaş Gürler",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
+  "buildings": [],
+  "days": [],
   "times": [
-   "10:30/12:29"
+   "-/-"
   ],
-  "rooms": [
-   "--"
-  ],
+  "rooms": [],
   "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
-  "programs": [
-   "PEME_LS"
-  ],
+  "programs": [],
   "prereq": "-",
   "classReq": "-"
  },
@@ -1366,24 +1342,16 @@
   "name": "Landscape Management",
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Fatma Ayçim Türer Başkaya",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
+  "buildings": [],
+  "days": [],
   "times": [
-   "10:30/12:29"
+   "-/-"
   ],
-  "rooms": [
-   "--"
-  ],
+  "rooms": [],
   "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
-  "programs": [
-   "PEME_LS"
-  ],
+  "programs": [],
   "prereq": "-",
   "classReq": "-"
  },
@@ -1395,24 +1363,16 @@
   "name": "Planting Design Studio",
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Fatma Ayçim Türer Başkaya",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Perşembe"
-  ],
+  "buildings": [],
+  "days": [],
   "times": [
-   "08:30/12:29"
+   "-/-"
   ],
-  "rooms": [
-   "--"
-  ],
+  "rooms": [],
   "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
-  "programs": [
-   "PEME_LS"
-  ],
+  "programs": [],
   "prereq": "Detay",
   "classReq": "-"
  },
@@ -1424,24 +1384,16 @@
   "name": "Resilient Urban Design",
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Melih Bozkurt",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Salı"
-  ],
+  "buildings": [],
+  "days": [],
   "times": [
-   "08:30/12:29"
+   "-/-"
   ],
-  "rooms": [
-   "--"
-  ],
+  "rooms": [],
   "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
-  "programs": [
-   "PEME_LS"
-  ],
+  "programs": [],
   "prereq": "-",
   "classReq": "-"
  }
