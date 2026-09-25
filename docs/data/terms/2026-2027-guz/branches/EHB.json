@@ -245,7 +245,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "5102"
+   "4104"
   ],
   "capacity": 75,
   "enrolled": 58,
@@ -1202,7 +1202,7 @@
    "12:30/15:29"
   ],
   "rooms": [
-   "4102"
+   "5202"
   ],
   "capacity": 90,
   "enrolled": 85,
@@ -1391,7 +1391,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "5302"
+   "4102"
   ],
   "capacity": 75,
   "enrolled": 56,
@@ -1804,7 +1804,7 @@
    "12:30/15:29"
   ],
   "rooms": [
-   "5203"
+   "5102"
   ],
   "capacity": 80,
   "enrolled": 75,
@@ -1992,7 +1992,7 @@
    "12:30/15:29"
   ],
   "rooms": [
-   "5101"
+   "6309"
   ],
   "capacity": 85,
   "enrolled": 80,
@@ -2345,7 +2345,7 @@
    "12:30/15:29"
   ],
   "rooms": [
-   "5101"
+   "5202"
   ],
   "capacity": 90,
   "enrolled": 75,
@@ -2438,7 +2438,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Oğuzhan Kızılbey",
   "buildings": [
-   "undeclared"
+   "EEB"
   ],
   "days": [
    "Perşembe"
@@ -2447,7 +2447,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "5301"
   ],
   "capacity": 60,
   "enrolled": 45,
@@ -2470,7 +2470,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Hakan Ali Çırpan",
   "buildings": [
-   "undeclared"
+   "EEB"
   ],
   "days": [
    "Pazartesi"
@@ -2479,7 +2479,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "Z4"
   ],
   "capacity": 50,
   "enrolled": 21,
@@ -2531,7 +2531,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Neslihan Serap Şengör",
   "buildings": [
-   "undeclared"
+   "EEB"
   ],
   "days": [
    "Cuma"
@@ -2540,7 +2540,7 @@
    "14:00/16:59"
   ],
   "rooms": [
-   "--"
+   "4102"
   ],
   "capacity": 40,
   "enrolled": 0,
@@ -2583,6 +2583,39 @@
    "CEN_LS"
   ],
   "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15811",
+  "code": "EHB 324E",
+  "branch": "EHB",
+  "level": "LS",
+  "name": "Logic Design Lab.",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Bilgi Görkem Yazgaç",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "14:30/16:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 30,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "EEE_LS",
+   "EHB_LS",
+   "EHBE_LS",
+   "EHS_LS",
+   "TEL_LS"
+  ],
+  "prereq": "Detay",
   "classReq": "-"
  }
 ]

@@ -449,8 +449,8 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Cenk Andiç",
   "buildings": [
-   "undeclared",
-   "undeclared"
+   "EEB",
+   "EEB"
   ],
   "days": [
    "Perşembe",
@@ -461,8 +461,8 @@
    "10:30/12:29"
   ],
   "rooms": [
-   "--",
-   "--"
+   "6307",
+   "6307"
   ],
   "capacity": 45,
   "enrolled": 44,
@@ -936,7 +936,7 @@
    "12:30/15:29"
   ],
   "rooms": [
-   "5307"
+   "4104"
   ],
   "capacity": 60,
   "enrolled": 60,
@@ -969,7 +969,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "2102"
+   "5205"
   ],
   "capacity": 50,
   "enrolled": 36,
@@ -1315,8 +1315,8 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ali Sinan Çabuk",
   "buildings": [
-   "undeclared",
-   "undeclared"
+   "EEB",
+   "EEB"
   ],
   "days": [
    "Çarşamba",
@@ -1327,8 +1327,8 @@
    "10:30/12:29"
   ],
   "rooms": [
-   "--",
-   "--"
+   "6307",
+   "6307"
   ],
   "capacity": 50,
   "enrolled": 50,

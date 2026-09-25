@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24T07:36:49Z",
+ "generatedAt": "2026-09-25T07:46:32Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -23545,6 +23545,30 @@
    "name": "Lorentzian Geometry",
    "branch": "MAT",
    "requirement": "( MAT 342 MIN. DD Veya MAT 342E MIN. DD )"
+  },
+  {
+   "code": "MAT 450",
+   "name": "Matematiksel Kriptolojiye Giriş",
+   "branch": "MAT",
+   "requirement": "( MAT 143 MIN. DD Veya MAT 143E MIN. DD )"
+  },
+  {
+   "code": "MAT 450E",
+   "name": "Matematiksel Kriptolojiye Giriş",
+   "branch": "MAT",
+   "requirement": "( MAT 143 MIN. DD Veya MAT 143E MIN. DD )"
+  },
+  {
+   "code": "MAT 451",
+   "name": "Büyük Dil Modellerinin Matematiksel Temelleri",
+   "branch": "MAT",
+   "requirement": "( MAT 263 MIN. DD Veya MAT 263E MIN. DD )"
+  },
+  {
+   "code": "MAT 451E",
+   "name": "Mathematical Foundations of Large Language Models",
+   "branch": "MAT",
+   "requirement": "( MAT 263 MIN. DD Veya MAT 263E MIN. DD )"
   },
   {
    "code": "MAT 453",
@@ -81702,6 +81726,14 @@
   },
   {
    "from": "MAT 143",
+   "to": "MAT 450"
+  },
+  {
+   "from": "MAT 143",
+   "to": "MAT 450E"
+  },
+  {
+   "from": "MAT 143",
    "to": "MTT 102"
   },
   {
@@ -81767,6 +81799,14 @@
   {
    "from": "MAT 143E",
    "to": "MAT 263E"
+  },
+  {
+   "from": "MAT 143E",
+   "to": "MAT 450"
+  },
+  {
+   "from": "MAT 143E",
+   "to": "MAT 450E"
   },
   {
    "from": "MAT 143E",
@@ -85649,12 +85689,28 @@
    "to": "MAT 339E"
   },
   {
+   "from": "MAT 263",
+   "to": "MAT 451"
+  },
+  {
+   "from": "MAT 263",
+   "to": "MAT 451E"
+  },
+  {
    "from": "MAT 263E",
    "to": "MAT 339"
   },
   {
    "from": "MAT 263E",
    "to": "MAT 339E"
+  },
+  {
+   "from": "MAT 263E",
+   "to": "MAT 451"
+  },
+  {
+   "from": "MAT 263E",
+   "to": "MAT 451E"
   },
   {
    "from": "MAT 271",

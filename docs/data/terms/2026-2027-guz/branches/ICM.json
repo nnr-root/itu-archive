@@ -1398,5 +1398,74 @@
   "programs": [],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "15803",
+  "code": "ICM 206E",
+  "branch": "ICM",
+  "level": "LS",
+  "name": "Surv andRepr.Tch.in Intr.Arch.",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "-",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15804",
+  "code": "ICM 368E",
+  "branch": "ICM",
+  "level": "LS",
+  "name": "Dsgn Prins of Intr. Fins. Sys",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "-",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Perşembe"
+  ],
+  "times": [
+   "13:30/18:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15805",
+  "code": "ICM 408E",
+  "branch": "ICM",
+  "level": "LS",
+  "name": "Comm Design In Interior Arch.",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "-",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
  }
 ]

@@ -20,7 +20,7 @@
    "1303"
   ],
   "capacity": 30,
-  "enrolled": 20,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -73,8 +73,8 @@
   "rooms": [
    "5105"
   ],
-  "capacity": 40,
-  "enrolled": 40,
+  "capacity": 50,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -128,7 +128,7 @@
    "5107"
   ],
   "capacity": 45,
-  "enrolled": 37,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -155,7 +155,7 @@
    "5201"
   ],
   "capacity": 90,
-  "enrolled": 89,
+  "enrolled": 90,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -182,7 +182,7 @@
    "5103"
   ],
   "capacity": 50,
-  "enrolled": 22,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -209,8 +209,8 @@
    "5206"
   ],
   "capacity": 20,
-  "enrolled": 11,
-  "reserved": "KOM_KO_YL/10/10 | Diğer/10/1",
+  "enrolled": 12,
+  "reserved": "KOM_KO_YL/10/10 | Diğer/10/2",
   "programs": [
    "KOM_KO_YL"
   ],
@@ -238,7 +238,7 @@
    "5206"
   ],
   "capacity": 50,
-  "enrolled": 7,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -265,7 +265,7 @@
    "1301"
   ],
   "capacity": 50,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -291,8 +291,8 @@
   "rooms": [
    "5201"
   ],
-  "capacity": 55,
-  "enrolled": 55,
+  "capacity": 60,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -340,7 +340,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 12,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -382,7 +382,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 28,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
