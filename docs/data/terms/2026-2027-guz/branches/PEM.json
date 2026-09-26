@@ -170,7 +170,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Arzu Türk",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Salı"
@@ -179,7 +179,7 @@
    "10:30/12:29"
   ],
   "rooms": [
-   "--"
+   "212"
   ],
   "capacity": 100,
   "enrolled": 42,
@@ -200,8 +200,8 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Meltem Erdem Kaya",
   "buildings": [
-   "undeclared",
-   "undeclared"
+   "MMB",
+   "MMB"
   ],
   "days": [
    "Pazartesi",
@@ -212,8 +212,8 @@
    "13:30/17:29"
   ],
   "rooms": [
-   "--",
-   "--"
+   "217E",
+   "217E"
   ],
   "capacity": 15,
   "enrolled": 15,
@@ -234,8 +234,8 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Nilay Özlü Karaca",
   "buildings": [
-   "undeclared",
-   "undeclared"
+   "MMB",
+   "MMB"
   ],
   "days": [
    "Pazartesi",
@@ -246,8 +246,8 @@
    "13:30/17:29"
   ],
   "rooms": [
-   "--",
-   "--"
+   "217D",
+   "217D"
   ],
   "capacity": 15,
   "enrolled": 15,
@@ -268,8 +268,8 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Arzu Türk",
   "buildings": [
-   "undeclared",
-   "undeclared"
+   "MMB",
+   "MMB"
   ],
   "days": [
    "Pazartesi",
@@ -302,8 +302,8 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Melih Bozkurt",
   "buildings": [
-   "undeclared",
-   "undeclared"
+   "MMB",
+   "MMB"
   ],
   "days": [
    "Pazartesi",
@@ -314,8 +314,8 @@
    "13:30/17:29"
   ],
   "rooms": [
-   "--",
-   "--"
+   "212",
+   "212"
   ],
   "capacity": 10,
   "enrolled": 5,
@@ -336,8 +336,8 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Melih Bozkurt",
   "buildings": [
-   "undeclared",
-   "undeclared"
+   "MMB",
+   "MMB"
   ],
   "days": [
    "Pazartesi",
@@ -370,8 +370,8 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ebru Erbaş Gürler",
   "buildings": [
-   "undeclared",
-   "undeclared"
+   "MMB",
+   "MMB"
   ],
   "days": [
    "Pazartesi",
@@ -404,8 +404,8 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Çisem Demirel Koyun",
   "buildings": [
-   "undeclared",
-   "undeclared"
+   "MMB",
+   "MMB"
   ],
   "days": [
    "Pazartesi",
@@ -540,8 +540,8 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ikhwan Kım",
   "buildings": [
-   "undeclared",
-   "undeclared"
+   "MMB",
+   "MMB"
   ],
   "days": [
    "Pazartesi",
@@ -552,8 +552,8 @@
    "13:30/17:29"
   ],
   "rooms": [
-   "--",
-   "--"
+   "217C",
+   "217C"
   ],
   "capacity": 9,
   "enrolled": 9,
@@ -574,8 +574,8 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Didem Dizdaroğlu",
   "buildings": [
-   "undeclared",
-   "undeclared"
+   "MMB",
+   "MMB"
   ],
   "days": [
    "Pazartesi",
@@ -676,7 +676,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Didem Dizdaroğlu",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Salı"
@@ -685,7 +685,7 @@
    "13:30/17:29"
   ],
   "rooms": [
-   "--"
+   "333"
   ],
   "capacity": 35,
   "enrolled": 25,
@@ -706,7 +706,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Didem Dizdaroğlu",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Pazartesi"
@@ -715,7 +715,7 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "--"
+   "217C"
   ],
   "capacity": 35,
   "enrolled": 24,
@@ -736,7 +736,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ebru Erbaş Gürler , Çisem Demirel Koyun",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Perşembe"
@@ -745,7 +745,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "106"
   ],
   "capacity": 80,
   "enrolled": 42,
@@ -766,7 +766,7 @@
   "method": "Sanal (Çevrimiçi/Online)",
   "instructor": "Safiye Elif Serdar Yakut",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Cuma"
@@ -796,7 +796,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Meltem Erdem Kaya , Safiye Elif Serdar Yakut",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Salı"
@@ -805,7 +805,7 @@
    "09:00/10:59"
   ],
   "rooms": [
-   "--"
+   "107"
   ],
   "capacity": 85,
   "enrolled": 43,
@@ -907,7 +907,7 @@
   "method": "Sanal (Çevrimiçi/Online)",
   "instructor": "Elif Kısar Koramaz , Arzu Türk",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Salı"
@@ -937,7 +937,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Sezen Tarakçı , Mehmet Ronael",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Salı"
@@ -946,7 +946,7 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "--"
+   "106"
   ],
   "capacity": 70,
   "enrolled": 67,
@@ -967,7 +967,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Uluç Algan",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Cuma"
@@ -976,7 +976,7 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "--"
+   "203A"
   ],
   "capacity": 75,
   "enrolled": 48,
