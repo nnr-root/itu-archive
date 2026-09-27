@@ -629,6 +629,7 @@
   "reserved": "ECNE_LS/5/5 | MMD_LS/12/12 | Diğer/63/63",
   "programs": [
    "ECNE_LS",
+   "ENT_LS",
    "ENTE_LS",
    "EUTE_LS",
    "ISL_LS",
@@ -663,6 +664,7 @@
   "reserved": "ECNE_LS/5/5 | MMD_LS/12/3 | Diğer/63/63",
   "programs": [
    "ECNE_LS",
+   "ENT_LS",
    "ENTE_LS",
    "EUTE_LS",
    "ISL_LS",
