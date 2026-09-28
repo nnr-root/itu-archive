@@ -17,7 +17,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "307"
   ],
   "capacity": 25,
   "enrolled": 3,
@@ -47,8 +47,8 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--",
-   "--"
+   "3501",
+   "3501"
   ],
   "capacity": 25,
   "enrolled": 3,
@@ -64,7 +64,7 @@
   "level": "LU",
   "name": "Research Meth.for Urban Design",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Elif Kısar Koramaz , Mehmet Ronael",
+  "instructor": "Mehmet Ronael",
   "buildings": [
    "MMB"
   ],
@@ -183,7 +183,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "119B"
   ],
   "capacity": 15,
   "enrolled": 2,
@@ -234,7 +234,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 17,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

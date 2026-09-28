@@ -799,7 +799,7 @@
   "rows": [
    [
     "2026-2027-guz",
-    "Yücel Aydın",
+    "Yücel Aydın , Ali Fuat Ergenç",
     70,
     55,
     "Perşembe"
@@ -1100,7 +1100,7 @@
     "2026-2027-guz",
     "Onur Akbatı",
     70,
-    24,
+    23,
     "Çarşamba"
    ]
   ]
@@ -1412,7 +1412,7 @@
     "2026-2027-guz",
     "Ahmet Onat",
     78,
-    78,
+    75,
     "Salı"
    ],
    [
@@ -2014,7 +2014,7 @@
     "2026-2027-guz",
     "İlker Üstoğlu",
     60,
-    40,
+    39,
     "Pazartesi, Perşembe"
    ],
    [
@@ -2294,8 +2294,15 @@
     "2026-2027-guz",
     "Onur Akbatı",
     50,
-    30,
+    29,
     "Pazartesi"
+   ],
+   [
+    "2026-2027-guz",
+    "Yücel Aydın",
+    20,
+    0,
+    "Çarşamba"
    ],
    [
     "2023-2024-bahar",
@@ -2740,7 +2747,7 @@
     "2026-2027-guz",
     "Osman Ervan",
     50,
-    45,
+    43,
     "Çarşamba"
    ],
    [
@@ -3113,7 +3120,7 @@
     "2026-2027-guz",
     "Yaprak Yalçın",
     60,
-    54,
+    51,
     "Perşembe"
    ],
    [
@@ -3408,7 +3415,7 @@
     "2026-2027-guz",
     "Fikret Çalışkan",
     75,
-    70,
+    67,
     "Pazartesi"
    ],
    [
@@ -5206,7 +5213,7 @@
     "2026-2027-guz",
     "Mahdi Baradarannia",
     50,
-    48,
+    47,
     "Perşembe"
    ],
    [
@@ -5319,7 +5326,7 @@
     "2026-2027-guz",
     "Onur Akbatı",
     60,
-    57,
+    56,
     "Pazartesi"
    ],
    [
@@ -5530,7 +5537,7 @@
     "2026-2027-guz",
     "Ali Fuat Ergenç",
     50,
-    34,
+    33,
     "Salı, Salı"
    ],
    [
@@ -5620,7 +5627,7 @@
     "2026-2027-guz",
     "Sıddık Murat Yeşiloğlu",
     50,
-    30,
+    29,
     "Çarşamba"
    ]
   ]

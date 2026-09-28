@@ -8,7 +8,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Hülya Kuş , Gülten Manioğlu",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Perşembe"
@@ -17,10 +17,10 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "123B"
   ],
   "capacity": 25,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -35,7 +35,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Halet Almıla Büyüktaşkın , Seden Acun Özgünler",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Çarşamba"
@@ -44,7 +44,7 @@
    "15:30/17:29"
   ],
   "rooms": [
-   "--"
+   "319"
   ],
   "capacity": 25,
   "enrolled": 6,
@@ -62,7 +62,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Mehmet Serkan Yatağan",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Perşembe"
@@ -71,7 +71,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "320"
   ],
   "capacity": 25,
   "enrolled": 19,
@@ -89,7 +89,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ferhat Pakdamar",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Çarşamba"
@@ -98,7 +98,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "136A"
   ],
   "capacity": 15,
   "enrolled": 5,
@@ -143,7 +143,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Nuri Serteser",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Perşembe"
@@ -152,7 +152,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "313"
   ],
   "capacity": 16,
   "enrolled": 8,
@@ -170,7 +170,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Tarık Serhat Bozkurt",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Cuma"
@@ -179,7 +179,7 @@
    "14:00/16:59"
   ],
   "rooms": [
-   "--"
+   "134"
   ],
   "capacity": 15,
   "enrolled": 6,
@@ -197,7 +197,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Halet Almıla Büyüktaşkın",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Pazartesi"
@@ -206,10 +206,10 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "3506"
   ],
   "capacity": 30,
-  "enrolled": 7,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -224,7 +224,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Halet Almıla Büyüktaşkın",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Pazartesi"
@@ -233,7 +233,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "3506"
   ],
   "capacity": 30,
   "enrolled": 11,
@@ -257,7 +257,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 24,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

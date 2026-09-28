@@ -240,7 +240,7 @@
    "L400"
   ],
   "capacity": 32,
-  "enrolled": 31,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "MAT_LS"
@@ -269,7 +269,7 @@
    "D102"
   ],
   "capacity": 24,
-  "enrolled": 24,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "FIZ_LS",
@@ -430,8 +430,8 @@
    "2106"
   ],
   "capacity": 55,
-  "enrolled": 47,
-  "reserved": "EEE_LS/5/2 | Diğer/50/45",
+  "enrolled": 42,
+  "reserved": "EEE_LS/5/1 | Diğer/50/41",
   "programs": [
    "EEE_LS",
    "EHB_LS",

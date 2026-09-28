@@ -115,7 +115,7 @@
    "2104"
   ],
   "capacity": 70,
-  "enrolled": 24,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "KOM_LS",
@@ -147,7 +147,7 @@
    "5304"
   ],
   "capacity": 78,
-  "enrolled": 78,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "KOM_LS",
@@ -431,7 +431,7 @@
    "5207"
   ],
   "capacity": 50,
-  "enrolled": 30,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "KOM_LS",
@@ -463,8 +463,8 @@
    "5207"
   ],
   "capacity": 50,
-  "enrolled": 45,
-  "reserved": "EHB_LS/2/0 | EHBE_LS/3/0 | Diğer/45/45",
+  "enrolled": 43,
+  "reserved": "EHB_LS/2/0 | EHBE_LS/3/0 | Diğer/45/43",
   "programs": [
    "EHB_LS",
    "EHBE_LS",
@@ -708,8 +708,8 @@
    "5207"
   ],
   "capacity": 50,
-  "enrolled": 30,
-  "reserved": "UCK_LS/5/0 | Diğer/45/30",
+  "enrolled": 29,
+  "reserved": "UCK_LS/5/0 | Diğer/45/29",
   "programs": [
    "KOM_LS",
    "KOME_LS",
@@ -805,7 +805,7 @@
    "5201"
   ],
   "capacity": 60,
-  "enrolled": 54,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "KOM_LS",
@@ -1122,7 +1122,7 @@
    "2102"
   ],
   "capacity": 75,
-  "enrolled": 70,
+  "enrolled": 67,
   "reserved": "-",
   "programs": [
    "KOM_LS",
@@ -1184,8 +1184,8 @@
    "5105"
   ],
   "capacity": 50,
-  "enrolled": 48,
-  "reserved": "EEE_LS/5/3 | Diğer/45/45",
+  "enrolled": 47,
+  "reserved": "EEE_LS/5/3 | Diğer/45/44",
   "programs": [
    "EEE_LS",
    "KOM_LS",
@@ -1216,8 +1216,8 @@
    "5103"
   ],
   "capacity": 60,
-  "enrolled": 57,
-  "reserved": "EEE_LS/5/5 | Diğer/55/52",
+  "enrolled": 56,
+  "reserved": "EEE_LS/5/5 | Diğer/55/51",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -1256,8 +1256,8 @@
    "5103"
   ],
   "capacity": 50,
-  "enrolled": 34,
-  "reserved": "EEE_LS/5/3 | Diğer/45/31",
+  "enrolled": 33,
+  "reserved": "EEE_LS/5/3 | Diğer/45/30",
   "programs": [
    "EEE_LS",
    "KOM_LS",
@@ -1275,7 +1275,7 @@
   "level": "LS",
   "name": "Measurement and Sensors",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Yücel Aydın",
+  "instructor": "Yücel Aydın , Ali Fuat Ergenç",
   "buildings": [
    "EEB"
   ],
@@ -1390,7 +1390,7 @@
    "5102"
   ],
   "capacity": 60,
-  "enrolled": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1460,6 +1460,38 @@
   "programs": [
    "KOM_LS",
    "KOME_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15824",
+  "code": "KON 315E",
+  "branch": "KON",
+  "level": "LS",
+  "name": "Electronic Instrumentation",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Yücel Aydın",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "08:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 20,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "KOM_LS",
+   "KOME_LS",
+   "ROS_LS",
+   "ROSE_LS"
   ],
   "prereq": "Detay",
   "classReq": "-"

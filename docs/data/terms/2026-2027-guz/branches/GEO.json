@@ -101,7 +101,7 @@
    "B302"
   ],
   "capacity": 50,
-  "enrolled": 17,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -128,7 +128,7 @@
    "B308"
   ],
   "capacity": 50,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -236,7 +236,7 @@
    "B302"
   ],
   "capacity": 50,
-  "enrolled": 22,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -743,7 +743,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 26,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -785,7 +785,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 27,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1248,7 +1248,7 @@
    "B305"
   ],
   "capacity": 48,
-  "enrolled": 45,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -1844,7 +1844,7 @@
    "A101"
   ],
   "capacity": 60,
-  "enrolled": 55,
+  "enrolled": 49,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -2064,7 +2064,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 57,
+  "enrolled": 56,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -2374,7 +2374,7 @@
    "A205"
   ],
   "capacity": 60,
-  "enrolled": 52,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -2626,7 +2626,7 @@
    "A201"
   ],
   "capacity": 70,
-  "enrolled": 70,
+  "enrolled": 69,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -2910,7 +2910,7 @@
    "A103"
   ],
   "capacity": 30,
-  "enrolled": 12,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -3036,7 +3036,7 @@
    "A1"
   ],
   "capacity": 30,
-  "enrolled": 5,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -3254,7 +3254,7 @@
    "A303"
   ],
   "capacity": 30,
-  "enrolled": 7,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -3316,7 +3316,7 @@
    "B304"
   ],
   "capacity": 25,
-  "enrolled": 20,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "GEO_LS",

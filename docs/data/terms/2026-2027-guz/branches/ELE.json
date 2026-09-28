@@ -17,7 +17,7 @@
    "14:00/16:59"
   ],
   "rooms": [
-   "Z4"
+   "5203"
   ],
   "capacity": 30,
   "enrolled": 14,
@@ -47,7 +47,7 @@
    "5203"
   ],
   "capacity": 40,
-  "enrolled": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -101,7 +101,7 @@
    "Z1"
   ],
   "capacity": 30,
-  "enrolled": 26,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -155,7 +155,7 @@
    "5103"
   ],
   "capacity": 30,
-  "enrolled": 28,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -182,7 +182,7 @@
    "5205"
   ],
   "capacity": 40,
-  "enrolled": 36,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -284,7 +284,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 57,
+  "enrolled": 62,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

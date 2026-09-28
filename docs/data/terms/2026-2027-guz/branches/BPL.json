@@ -44,7 +44,7 @@
    "10:30/12:29"
   ],
   "rooms": [
-   "--"
+   "3506"
   ],
   "capacity": 10,
   "enrolled": 0,
@@ -71,7 +71,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "311"
   ],
   "capacity": 15,
   "enrolled": 1,
@@ -98,10 +98,10 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "134"
   ],
   "capacity": 15,
-  "enrolled": 1,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

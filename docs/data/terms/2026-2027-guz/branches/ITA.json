@@ -17,7 +17,7 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "--"
+   "429"
   ],
   "capacity": 25,
   "enrolled": 25,
@@ -155,10 +155,10 @@
    "13:00/16:59"
   ],
   "rooms": [
-   "--"
+   "429"
   ],
   "capacity": 25,
-  "enrolled": 25,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -293,7 +293,7 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "--"
+   "171"
   ],
   "capacity": 25,
   "enrolled": 25,
@@ -431,10 +431,10 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "--"
+   "435"
   ],
   "capacity": 25,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -569,7 +569,7 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "--"
+   "429"
   ],
   "capacity": 25,
   "enrolled": 25,
@@ -707,10 +707,10 @@
    "13:00/16:59"
   ],
   "rooms": [
-   "--"
+   "423"
   ],
   "capacity": 20,
-  "enrolled": 20,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -845,7 +845,7 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "--"
+   "436"
   ],
   "capacity": 20,
   "enrolled": 20,
@@ -983,10 +983,10 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "--"
+   "436"
   ],
   "capacity": 20,
-  "enrolled": 20,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -1121,7 +1121,7 @@
    "13:00/16:59"
   ],
   "rooms": [
-   "--"
+   "423"
   ],
   "capacity": 20,
   "enrolled": 5,
@@ -1259,10 +1259,10 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "--"
+   "434"
   ],
   "capacity": 20,
-  "enrolled": 2,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -1397,7 +1397,7 @@
    "13:00/16:59"
   ],
   "rooms": [
-   "--"
+   "430"
   ],
   "capacity": 25,
   "enrolled": 0,
@@ -1535,7 +1535,7 @@
    "13:00/16:59"
   ],
   "rooms": [
-   "--"
+   "269"
   ],
   "capacity": 25,
   "enrolled": 0,
@@ -1673,7 +1673,7 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "--"
+   "435"
   ],
   "capacity": 25,
   "enrolled": 0,
@@ -1811,7 +1811,7 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "--"
+   "430"
   ],
   "capacity": 20,
   "enrolled": 0,

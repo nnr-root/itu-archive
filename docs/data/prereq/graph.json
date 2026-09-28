@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-27T08:07:44Z",
+ "generatedAt": "2026-09-28T08:42:17Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -21567,13 +21567,13 @@
    "code": "MAK 372",
    "name": "Sonlu Elemanlar Yönetimine Giriş",
    "branch": "MAK",
-   "requirement": "( ( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( MAK 201E MIN. DD Veya MAK 201 MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD ) ) Ve ( ( MAT 202 MIN. DD Veya MAT 202E MIN. DD ) Veya ( MAK 202 MIN. DD Veya MAK 202E MIN. DD ) ) Ve ( ( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 106 MIN. DD Veya BIL 106E MIN. DD ) Veya ( BIL 108 MIN. DD Veya BIL 108E MIN. DD ) Veya ( MAK 104 MIN. DD Veya MAK 104E MIN. DD ) ) Ve ( ( MUK 210 MIN. DD Veya MUK 210E MIN. DD ) Veya ( MUK 205 MIN. DD Veya MUK 205E MIN. DD ) Veya ( MUK 207 MIN. DD Veya MUK 207E MIN. DD ) Veya ( MAK 206 MIN. DD Veya MAK 206E MIN. DD ) Veya ( MAK 220 MIN. DD Veya MAK 220E MIN. DD ) )"
+   "requirement": "( ( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( MAK 201E MIN. DD Veya MAK 201 MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD ) ) Ve ( ( MAT 202 MIN. DD Veya MAT 202E MIN. DD ) Veya ( MAK 202 MIN. DD Veya MAK 202E MIN. DD ) ) Ve ( ( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 110 MIN. DD Veya BIL 110E MIN. DD ) Veya ( BIL 106 MIN. DD Veya BIL 106E MIN. DD ) Veya ( BIL 108 MIN. DD Veya BIL 108E MIN. DD ) Veya ( MAK 104 MIN. DD Veya MAK 104E MIN. DD ) ) Ve ( ( MUK 210 MIN. DD Veya MUK 210E MIN. DD ) Veya ( MUK 211 MIN. DD Veya MUK 211E MIN. DD ) Veya ( MUK 205 MIN. DD Veya MUK 205E MIN. DD ) Veya ( MUK 207 MIN. DD Veya MUK 207E MIN. DD ) Veya ( MAK 206 MIN. DD Veya MAK 206E MIN. DD ) Veya ( MAK 220 MIN. DD Veya MAK 220E MIN. DD ) )"
   },
   {
    "code": "MAK 372E",
    "name": "Intr.to Finite Element Methods",
    "branch": "MAK",
-   "requirement": "( ( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( MAK 201E MIN. DD Veya MAK 201 MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD ) ) Ve ( ( MAT 202 MIN. DD Veya MAT 202E MIN. DD ) Veya ( MAK 202 MIN. DD Veya MAK 202E MIN. DD ) ) Ve ( ( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 106 MIN. DD Veya BIL 106E MIN. DD ) Veya ( BIL 108 MIN. DD Veya BIL 108E MIN. DD ) Veya ( MAK 104 MIN. DD Veya MAK 104E MIN. DD ) ) Ve ( ( MUK 210 MIN. DD Veya MUK 210E MIN. DD ) Veya ( MUK 205 MIN. DD Veya MUK 205E MIN. DD ) Veya ( MUK 207 MIN. DD Veya MUK 207E MIN. DD ) Veya ( MAK 206 MIN. DD Veya MAK 206E MIN. DD ) Veya ( MAK 220 MIN. DD Veya MAK 220E MIN. DD ) )"
+   "requirement": "( ( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( MAK 201E MIN. DD Veya MAK 201 MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD ) ) Ve ( ( MAT 202 MIN. DD Veya MAT 202E MIN. DD ) Veya ( MAK 202 MIN. DD Veya MAK 202E MIN. DD ) ) Ve ( ( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 110 MIN. DD Veya BIL 110E MIN. DD ) Veya ( BIL 106 MIN. DD Veya BIL 106E MIN. DD ) Veya ( BIL 108 MIN. DD Veya BIL 108E MIN. DD ) Veya ( MAK 104 MIN. DD Veya MAK 104E MIN. DD ) ) Ve ( ( MUK 210 MIN. DD Veya MUK 210E MIN. DD ) Veya ( MUK 211 MIN. DD Veya MUK 211E MIN. DD ) Veya ( MUK 205 MIN. DD Veya MUK 205E MIN. DD ) Veya ( MUK 207 MIN. DD Veya MUK 207E MIN. DD ) Veya ( MAK 206 MIN. DD Veya MAK 206E MIN. DD ) Veya ( MAK 220 MIN. DD Veya MAK 220E MIN. DD ) )"
   },
   {
    "code": "MAK 373",
@@ -21611,7 +21611,7 @@
    "code": "MAK 376E",
    "name": "Computational Fluid Dynamics",
    "branch": "MAK",
-   "requirement": "( ( AKM 209 MIN. DD Veya AKM 209E MIN. DD ) Veya ( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( AKM 204 MIN. DD Veya AKM 204E MIN. DD ) Veya ( MAK 335 MIN. DD Veya MAK 335E MIN. DD ) Veya ( MAK 229 MIN. DD Veya MAK 229E MIN. DD ) ) Ve ( ( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( MAK 201E MIN. DD Veya MAK 201 MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD ) ) Ve ( ( MAT 202 MIN. DD Veya MAT 202E MIN. DD ) Veya ( MAK 202 MIN. DD Veya MAK 202E MIN. DD ) ) Ve ( ( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 106 MIN. DD Veya BIL 106E MIN. DD ) Veya ( BIL 108 MIN. DD Veya BIL 108E MIN. DD ) Veya ( MAK 104 MIN. DD Veya MAK 104E MIN. DD ) )"
+   "requirement": "( ( AKM 209 MIN. DD Veya AKM 209E MIN. DD ) Veya ( AKM 219 MIN. DD Veya AKM 219E MIN. DD ) Veya ( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( AKM 204 MIN. DD Veya AKM 204E MIN. DD ) Veya ( MAK 335 MIN. DD Veya MAK 335E MIN. DD ) Veya ( MAK 229 MIN. DD Veya MAK 229E MIN. DD ) ) Ve ( ( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( MAK 201E MIN. DD Veya MAK 201 MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD ) ) Ve ( ( MAT 202 MIN. DD Veya MAT 202E MIN. DD ) Veya ( MAK 202 MIN. DD Veya MAK 202E MIN. DD ) ) Ve ( ( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 106 MIN. DD Veya BIL 106E MIN. DD ) Veya ( BIL 108 MIN. DD Veya BIL 108E MIN. DD ) Veya ( MAK 104 MIN. DD Veya MAK 104E MIN. DD ) )"
   },
   {
    "code": "MAK 377",
@@ -34050,6 +34050,10 @@
   },
   {
    "from": "AKM 219",
+   "to": "MAK 376E"
+  },
+  {
+   "from": "AKM 219",
    "to": "UCK 305"
   },
   {
@@ -34075,6 +34079,10 @@
   {
    "from": "AKM 219",
    "to": "UZB 386E"
+  },
+  {
+   "from": "AKM 219E",
+   "to": "MAK 376E"
   },
   {
    "from": "AKM 219E",
@@ -36030,6 +36038,14 @@
   },
   {
    "from": "BIL 110",
+   "to": "MAK 372"
+  },
+  {
+   "from": "BIL 110",
+   "to": "MAK 372E"
+  },
+  {
+   "from": "BIL 110",
    "to": "MAT 116"
   },
   {
@@ -36143,6 +36159,14 @@
   {
    "from": "BIL 110E",
    "to": "IND 201E"
+  },
+  {
+   "from": "BIL 110E",
+   "to": "MAK 372"
+  },
+  {
+   "from": "BIL 110E",
+   "to": "MAK 372E"
   },
   {
    "from": "BIL 110E",
@@ -94790,6 +94814,14 @@
   },
   {
    "from": "MUK 211",
+   "to": "MAK 372"
+  },
+  {
+   "from": "MUK 211",
+   "to": "MAK 372E"
+  },
+  {
+   "from": "MUK 211",
    "to": "UCK 328"
   },
   {
@@ -94823,6 +94855,14 @@
   {
    "from": "MUK 211",
    "to": "UZB 337E"
+  },
+  {
+   "from": "MUK 211E",
+   "to": "MAK 372"
+  },
+  {
+   "from": "MUK 211E",
+   "to": "MAK 372E"
   },
   {
    "from": "MUK 211E",

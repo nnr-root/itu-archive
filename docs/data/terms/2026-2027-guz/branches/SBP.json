@@ -189,7 +189,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 4,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -318,7 +318,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 62,
+  "enrolled": 63,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -382,7 +382,7 @@
   "branch": "SBP",
   "level": "LS",
   "name": "Intr.to Cmp.Sys.in Urban Std.",
-  "method": "Fiziksel (Yüz yüze)",
+  "method": "Sanal (Çevrimiçi/Online)",
   "instructor": "Kerem Yavuz Arslanlı",
   "buildings": [
    "MMB"
@@ -962,7 +962,7 @@
    "--"
   ],
   "capacity": 10,
-  "enrolled": 10,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "SBP_LS"
@@ -995,7 +995,7 @@
    "--"
   ],
   "capacity": 10,
-  "enrolled": 10,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "SBP_LS"
@@ -1157,7 +1157,7 @@
    "D380"
   ],
   "capacity": 45,
-  "enrolled": 11,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1188,7 +1188,7 @@
    "215"
   ],
   "capacity": 65,
-  "enrolled": 41,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1212,7 +1212,7 @@
   ],
   "rooms": [],
   "capacity": 0,
-  "enrolled": 49,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "SBP_YD",
@@ -1473,7 +1473,7 @@
    "230"
   ],
   "capacity": 75,
-  "enrolled": 62,
+  "enrolled": 61,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1571,7 +1571,7 @@
    "217A"
   ],
   "capacity": 45,
-  "enrolled": 31,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1666,8 +1666,8 @@
    "230"
   ],
   "capacity": 65,
-  "enrolled": 56,
-  "reserved": "ARC_LS/3/1 | ENTE_LS/3/2 | MIM_LS/5/4 | MIME_LS/5/0 | Diğer/49/49",
+  "enrolled": 50,
+  "reserved": "ARC_LS/3/1 | ENTE_LS/3/2 | MIM_LS/5/4 | MIME_LS/5/0 | Diğer/49/43",
   "programs": [
    "ARC_LS",
    "ENTE_LS",
@@ -1830,10 +1830,10 @@
    "15:30/17:29"
   ],
   "rooms": [
-   "--"
+   "B307"
   ],
   "capacity": 35,
-  "enrolled": 12,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "SBP_LS",

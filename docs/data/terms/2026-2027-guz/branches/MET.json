@@ -108,7 +108,7 @@
    "D103"
   ],
   "capacity": 95,
-  "enrolled": 79,
+  "enrolled": 78,
   "reserved": "-",
   "programs": [
    "MET_LS"
@@ -379,7 +379,7 @@
    "D104"
   ],
   "capacity": 100,
-  "enrolled": 76,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "ALG_YD",
@@ -822,7 +822,7 @@
    "D204"
   ],
   "capacity": 90,
-  "enrolled": 90,
+  "enrolled": 89,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -852,7 +852,7 @@
    "D203"
   ],
   "capacity": 35,
-  "enrolled": 11,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "MET_LS"
@@ -1000,7 +1000,7 @@
    "D102"
   ],
   "capacity": 45,
-  "enrolled": 41,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -1030,7 +1030,7 @@
    "D303"
   ],
   "capacity": 70,
-  "enrolled": 48,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -1255,7 +1255,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 22,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
