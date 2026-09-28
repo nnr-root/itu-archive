@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-09-28T08:40:47Z",
+ "scrapedAt": "2026-09-28T16:49:37Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5412,
- "courses": 3852,
+ "sections": 5419,
+ "courses": 3855,
  "branches": [
   {
    "code": "AAR",
@@ -308,7 +308,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 35
+   "sections": 36
   },
   {
    "code": "DNK",
@@ -329,7 +329,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 70
+   "sections": 71
   },
   {
    "code": "DUM",
@@ -515,7 +515,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 11
+   "sections": 12
   },
   {
    "code": "GDP",
@@ -881,7 +881,7 @@
     "LS",
     "LU"
    ],
-   "sections": 45
+   "sections": 47
   },
   {
    "code": "MAK",
@@ -911,7 +911,7 @@
     "LS",
     "LU"
    ],
-   "sections": 123
+   "sections": 124
   },
   {
    "code": "MBA",
@@ -1343,7 +1343,7 @@
     "LS",
     "LU"
    ],
-   "sections": 66
+   "sections": 67
   },
   {
    "code": "SEC",
@@ -1657,11 +1657,11 @@
   }
  ],
  "stats": {
-  "sections": 5412,
-  "courses": 3852,
+  "sections": 5419,
+  "courses": 3855,
   "branches": 232,
-  "instructors": 1986,
-  "capacity": 263132,
-  "enrolled": 123109
+  "instructors": 1988,
+  "capacity": 263644,
+  "enrolled": 128840
  }
 }

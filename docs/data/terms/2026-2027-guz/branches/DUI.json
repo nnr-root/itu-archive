@@ -20,7 +20,7 @@
    "--"
   ],
   "capacity": 45,
-  "enrolled": 38,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -107,7 +107,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 8,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -165,7 +165,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -397,7 +397,7 @@
    "--"
   ],
   "capacity": 45,
-  "enrolled": 7,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -455,7 +455,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 19,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -484,7 +484,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 36,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -513,7 +513,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -832,7 +832,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 26,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -919,7 +919,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 23,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -948,7 +948,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 24,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -977,7 +977,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 37,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1006,7 +1006,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1035,7 +1035,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 39,
+  "enrolled": 41,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1064,7 +1064,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 10,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1093,7 +1093,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 24,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1151,7 +1151,7 @@
    "--"
   ],
   "capacity": 70,
-  "enrolled": 61,
+  "enrolled": 63,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1197,7 +1197,7 @@
   ],
   "rooms": [],
   "capacity": 150,
-  "enrolled": 42,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1301,7 +1301,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 36,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1330,7 +1330,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 35,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1359,7 +1359,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 24,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -1388,7 +1388,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 31,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -1475,7 +1475,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -1591,7 +1591,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 37,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -1678,7 +1678,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -1707,7 +1707,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -1817,7 +1817,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 52,
+  "enrolled": 53,
   "reserved": "-",
   "programs": [
    "MEN_LS",
@@ -1876,7 +1876,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -1899,7 +1899,7 @@
   ],
   "rooms": [],
   "capacity": 60,
-  "enrolled": 28,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -1922,7 +1922,7 @@
   ],
   "rooms": [],
   "capacity": 60,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -1951,7 +1951,7 @@
    "902"
   ],
   "capacity": 30,
-  "enrolled": 0,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "MMD_LS"
@@ -1980,6 +1980,35 @@
    "--"
   ],
   "capacity": 30,
+  "enrolled": 2,
+  "reserved": "-",
+  "programs": [
+   "DUI_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15829",
+  "code": "DUI 461E",
+  "branch": "DUI",
+  "level": "LS",
+  "name": "Ship Surveying Procedures",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Gizem Çevik",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "09:30/11:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 35,
   "enrolled": 0,
   "reserved": "-",
   "programs": [

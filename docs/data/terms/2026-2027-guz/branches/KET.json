@@ -51,7 +51,7 @@
    "3501"
   ],
   "capacity": 25,
-  "enrolled": 3,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -75,7 +75,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "3501"
   ],
   "capacity": 25,
   "enrolled": 3,
@@ -102,7 +102,7 @@
    "09:30/11:29"
   ],
   "rooms": [
-   "--"
+   "320"
   ],
   "capacity": 25,
   "enrolled": 1,
@@ -129,7 +129,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "313"
   ],
   "capacity": 20,
   "enrolled": 0,
@@ -156,7 +156,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "3505"
   ],
   "capacity": 20,
   "enrolled": 4,
@@ -210,10 +210,10 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "303"
   ],
   "capacity": 20,
-  "enrolled": 12,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -234,7 +234,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 18,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

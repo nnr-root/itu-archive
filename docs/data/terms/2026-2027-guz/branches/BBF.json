@@ -24,7 +24,7 @@
    "Z-19"
   ],
   "capacity": 80,
-  "enrolled": 79,
+  "enrolled": 82,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -60,7 +60,7 @@
    "Z-17"
   ],
   "capacity": 80,
-  "enrolled": 79,
+  "enrolled": 81,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -96,7 +96,7 @@
    "Z-18"
   ],
   "capacity": 80,
-  "enrolled": 28,
+  "enrolled": 36,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -128,7 +128,7 @@
    "Z-17"
   ],
   "capacity": 70,
-  "enrolled": 69,
+  "enrolled": 74,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -160,7 +160,7 @@
    "104"
   ],
   "capacity": 70,
-  "enrolled": 70,
+  "enrolled": 72,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -195,8 +195,8 @@
    "Z-19",
    "Z-19"
   ],
-  "capacity": 70,
-  "enrolled": 69,
+  "capacity": 95,
+  "enrolled": 70,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -231,8 +231,8 @@
    "Z-17",
    "Z-17"
   ],
-  "capacity": 70,
-  "enrolled": 70,
+  "capacity": 95,
+  "enrolled": 71,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -264,7 +264,7 @@
    "Z-17"
   ],
   "capacity": 80,
-  "enrolled": 80,
+  "enrolled": 84,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -297,7 +297,7 @@
    "Z-19"
   ],
   "capacity": 80,
-  "enrolled": 76,
+  "enrolled": 78,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -330,7 +330,7 @@
    "Z-20"
   ],
   "capacity": 75,
-  "enrolled": 69,
+  "enrolled": 71,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -396,7 +396,7 @@
    "104"
   ],
   "capacity": 75,
-  "enrolled": 75,
+  "enrolled": 78,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -429,8 +429,8 @@
    "Z-19"
   ],
   "capacity": 90,
-  "enrolled": 75,
-  "reserved": "ECNE_LS/10/2 | YZVE_LS/20/16 | Diğer/60/57",
+  "enrolled": 84,
+  "reserved": "ECNE_LS/10/2 | YZVE_LS/20/19 | Diğer/60/63",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -462,7 +462,7 @@
    "101"
   ],
   "capacity": 100,
-  "enrolled": 0,
+  "enrolled": 53,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -495,7 +495,7 @@
    "Z-18"
   ],
   "capacity": 80,
-  "enrolled": 0,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [
    "BLG_LS",

@@ -20,7 +20,7 @@
    "D205"
   ],
   "capacity": 45,
-  "enrolled": 7,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "GID_LS"
@@ -139,8 +139,8 @@
    "D203"
   ],
   "capacity": 45,
-  "enrolled": 34,
-  "reserved": "GID_LS/15/15 | Diğer/30/19",
+  "enrolled": 33,
+  "reserved": "GID_LS/15/15 | Diğer/30/18",
   "programs": [
    "CEV_LS",
    "CEVE_LS",
@@ -177,8 +177,8 @@
    "D106"
   ],
   "capacity": 50,
-  "enrolled": 9,
-  "reserved": "GID_LS/40/9 | Diğer/10/0",
+  "enrolled": 8,
+  "reserved": "GID_LS/40/8 | Diğer/10/0",
   "programs": [
    "CEV_LS",
    "CEVE_LS",
@@ -211,7 +211,7 @@
    "D204"
   ],
   "capacity": 100,
-  "enrolled": 51,
+  "enrolled": 52,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -272,7 +272,7 @@
    "174"
   ],
   "capacity": 100,
-  "enrolled": 74,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -333,7 +333,7 @@
    "D202"
   ],
   "capacity": 80,
-  "enrolled": 70,
+  "enrolled": 71,
   "reserved": "-",
   "programs": [
    "BIOE_LS"
@@ -362,7 +362,7 @@
    "177"
   ],
   "capacity": 90,
-  "enrolled": 84,
+  "enrolled": 88,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -543,7 +543,7 @@
    "D102"
   ],
   "capacity": 100,
-  "enrolled": 58,
+  "enrolled": 59,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -714,7 +714,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Zeynep Petek Çakar , Alican Topaloğlu",
   "buildings": [
-   "FEB"
+   "MED"
   ],
   "days": [
    "Salı"
@@ -723,7 +723,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "B34"
   ],
   "capacity": 40,
   "enrolled": 27,
@@ -788,7 +788,7 @@
    "D101"
   ],
   "capacity": 45,
-  "enrolled": 31,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -819,7 +819,7 @@
    "D205"
   ],
   "capacity": 40,
-  "enrolled": 5,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "BIO_LS",

@@ -97,7 +97,7 @@
    "A205"
   ],
   "capacity": 25,
-  "enrolled": 21,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "PET_LS",
@@ -190,7 +190,7 @@
    "A202"
   ],
   "capacity": 70,
-  "enrolled": 63,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "PET_LS",
@@ -220,7 +220,7 @@
    "A102"
   ],
   "capacity": 70,
-  "enrolled": 63,
+  "enrolled": 64,
   "reserved": "-",
   "programs": [
    "PET_LS",
@@ -313,7 +313,7 @@
    "B205"
   ],
   "capacity": 70,
-  "enrolled": 50,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "PET_LS",
@@ -344,7 +344,7 @@
    "A102"
   ],
   "capacity": 70,
-  "enrolled": 48,
+  "enrolled": 49,
   "reserved": "-",
   "programs": [
    "PET_LS",
@@ -499,7 +499,7 @@
    "A105"
   ],
   "capacity": 70,
-  "enrolled": 66,
+  "enrolled": 67,
   "reserved": "-",
   "programs": [
    "PET_LS",
@@ -530,7 +530,7 @@
    "A105"
   ],
   "capacity": 70,
-  "enrolled": 50,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "PET_LS",
@@ -614,7 +614,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 1,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -641,7 +641,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 4,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -668,7 +668,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 1,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

@@ -20,7 +20,7 @@
    "202"
   ],
   "capacity": 35,
-  "enrolled": 28,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "SIS_LS"
@@ -49,7 +49,7 @@
    "113"
   ],
   "capacity": 35,
-  "enrolled": 34,
+  "enrolled": 36,
   "reserved": "-",
   "programs": [
    "SIS_LS"
@@ -78,7 +78,7 @@
    "107"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "SIS_LS"
@@ -107,7 +107,7 @@
    "B01"
   ],
   "capacity": 35,
-  "enrolled": 31,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "SIS_LS"
@@ -136,7 +136,7 @@
    "210"
   ],
   "capacity": 35,
-  "enrolled": 30,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "SIS_LS"
@@ -165,7 +165,7 @@
    "B01"
   ],
   "capacity": 35,
-  "enrolled": 29,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "SIS_LS"
@@ -222,8 +222,8 @@
   "rooms": [
    "B02"
   ],
-  "capacity": 10,
-  "enrolled": 10,
+  "capacity": 15,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "SIS_LS"
@@ -309,8 +309,8 @@
   "rooms": [
    "B02"
   ],
-  "capacity": 10,
-  "enrolled": 9,
+  "capacity": 15,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "SIS_LS"
@@ -339,7 +339,7 @@
    "B11"
   ],
   "capacity": 10,
-  "enrolled": 8,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "SIS_LS"
@@ -367,7 +367,7 @@
   "rooms": [
    "209"
   ],
-  "capacity": 10,
+  "capacity": 15,
   "enrolled": 7,
   "reserved": "-",
   "programs": [

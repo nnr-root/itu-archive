@@ -155,7 +155,7 @@
    "320"
   ],
   "capacity": 5,
-  "enrolled": 2,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -365,7 +365,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -503,7 +503,7 @@
    "217E"
   ],
   "capacity": 20,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -535,7 +535,7 @@
    "217D"
   ],
   "capacity": 34,
-  "enrolled": 30,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -567,7 +567,7 @@
    "BIM2"
   ],
   "capacity": 34,
-  "enrolled": 27,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -635,7 +635,7 @@
    "3502"
   ],
   "capacity": 20,
-  "enrolled": 12,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -743,7 +743,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 3,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -775,7 +775,7 @@
    "213"
   ],
   "capacity": 90,
-  "enrolled": 65,
+  "enrolled": 68,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -845,7 +845,7 @@
    "217B"
   ],
   "capacity": 31,
-  "enrolled": 20,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -881,7 +881,7 @@
    "217A"
   ],
   "capacity": 31,
-  "enrolled": 24,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -913,7 +913,7 @@
    "231"
   ],
   "capacity": 90,
-  "enrolled": 78,
+  "enrolled": 79,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -962,7 +962,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 0,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "ENT_LS",

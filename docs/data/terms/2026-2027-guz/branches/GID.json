@@ -20,7 +20,7 @@
    "D105"
   ],
   "capacity": 75,
-  "enrolled": 56,
+  "enrolled": 57,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -70,7 +70,7 @@
   "level": "LS",
   "name": "Mass and Energy Balances",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Celale Kırkın Gözükırmızı",
+  "instructor": "-",
   "buildings": [
    "KMB"
   ],
@@ -83,7 +83,7 @@
   "rooms": [
    "D104"
   ],
-  "capacity": 15,
+  "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
   "programs": [
@@ -100,7 +100,7 @@
   "level": "LS",
   "name": "Mass and Energy Balances",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Meral Kılıç Akyılmaz",
+  "instructor": "Meral Kılıç Akyılmaz , Celale Kırkın Gözükırmızı",
   "buildings": [
    "KMB"
   ],
@@ -144,7 +144,7 @@
    "D202"
   ],
   "capacity": 60,
-  "enrolled": 54,
+  "enrolled": 56,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -206,7 +206,7 @@
    "D102"
   ],
   "capacity": 32,
-  "enrolled": 30,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -237,7 +237,7 @@
    "D303"
   ],
   "capacity": 32,
-  "enrolled": 30,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -386,7 +386,7 @@
    "D201"
   ],
   "capacity": 80,
-  "enrolled": 66,
+  "enrolled": 67,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -420,7 +420,7 @@
    "D201"
   ],
   "capacity": 20,
-  "enrolled": 3,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -569,8 +569,8 @@
   "rooms": [
    "D202"
   ],
-  "capacity": 25,
-  "enrolled": 25,
+  "capacity": 32,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "GID_LS"
@@ -623,7 +623,7 @@
   ],
   "rooms": [],
   "capacity": 50,
-  "enrolled": 7,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [
    "GID_LS"
@@ -652,7 +652,7 @@
    "D101"
   ],
   "capacity": 25,
-  "enrolled": 23,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -682,7 +682,7 @@
    "D302"
   ],
   "capacity": 25,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -933,7 +933,7 @@
    "D202"
   ],
   "capacity": 10,
-  "enrolled": 5,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1056,7 +1056,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 24,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1077,7 +1077,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 12,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

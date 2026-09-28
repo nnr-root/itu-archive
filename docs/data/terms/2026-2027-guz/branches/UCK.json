@@ -20,7 +20,7 @@
    "ZA4"
   ],
   "capacity": 70,
-  "enrolled": 62,
+  "enrolled": 70,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -51,7 +51,7 @@
    "ZA3"
   ],
   "capacity": 70,
-  "enrolled": 69,
+  "enrolled": 70,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -82,7 +82,7 @@
    "ZA2"
   ],
   "capacity": 70,
-  "enrolled": 51,
+  "enrolled": 53,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -113,8 +113,8 @@
    "ZA3"
   ],
   "capacity": 90,
-  "enrolled": 60,
-  "reserved": "ALG_YD/5/5 | Diğer/85/55",
+  "enrolled": 66,
+  "reserved": "ALG_YD/5/5 | Diğer/85/61",
   "programs": [
    "ALG_YD",
    "UCK_LS",
@@ -145,7 +145,7 @@
    "3D20"
   ],
   "capacity": 75,
-  "enrolled": 70,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -176,7 +176,7 @@
    "ZA3"
   ],
   "capacity": 75,
-  "enrolled": 58,
+  "enrolled": 62,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -207,7 +207,7 @@
    "ZA2"
   ],
   "capacity": 90,
-  "enrolled": 62,
+  "enrolled": 57,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -238,7 +238,7 @@
    "ZA3"
   ],
   "capacity": 80,
-  "enrolled": 78,
+  "enrolled": 80,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -299,7 +299,7 @@
    "2D14"
   ],
   "capacity": 45,
-  "enrolled": 29,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -331,7 +331,7 @@
    "ZA1"
   ],
   "capacity": 45,
-  "enrolled": 42,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -363,7 +363,7 @@
    "2D18"
   ],
   "capacity": 40,
-  "enrolled": 32,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -487,7 +487,7 @@
    "1D10"
   ],
   "capacity": 70,
-  "enrolled": 60,
+  "enrolled": 70,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -518,7 +518,7 @@
    "3D20"
   ],
   "capacity": 70,
-  "enrolled": 64,
+  "enrolled": 70,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -549,7 +549,7 @@
    "ZA4"
   ],
   "capacity": 85,
-  "enrolled": 69,
+  "enrolled": 74,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -610,7 +610,7 @@
    "2D18"
   ],
   "capacity": 70,
-  "enrolled": 55,
+  "enrolled": 70,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -642,7 +642,7 @@
    "1D6"
   ],
   "capacity": 40,
-  "enrolled": 25,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "UCK_LS"
@@ -671,7 +671,7 @@
    "2D17"
   ],
   "capacity": 40,
-  "enrolled": 11,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -726,7 +726,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 81,
+  "enrolled": 82,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -982,8 +982,8 @@
   "rooms": [
    "2D15"
   ],
-  "capacity": 40,
-  "enrolled": 0,
+  "capacity": 2,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "UCK_LS",

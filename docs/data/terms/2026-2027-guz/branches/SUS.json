@@ -47,7 +47,7 @@
    "B36"
   ],
   "capacity": 25,
-  "enrolled": 21,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -68,7 +68,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 44,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -95,7 +95,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 20,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "SUS_YD"
@@ -124,8 +124,8 @@
    "B35"
   ],
   "capacity": 25,
-  "enrolled": 15,
-  "reserved": "EGC_YD/10/4 | Diğer/15/11",
+  "enrolled": 14,
+  "reserved": "EGC_YD/10/4 | Diğer/15/10",
   "programs": [
    "EGC_YD",
    "SUS_YD"
@@ -154,7 +154,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 12,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "SUS_YD"
@@ -183,8 +183,8 @@
    "B11"
   ],
   "capacity": 30,
-  "enrolled": 21,
-  "reserved": "SUS_YD/20/16 | Diğer/10/5",
+  "enrolled": 25,
+  "reserved": "SUS_YD/20/15 | Diğer/10/10",
   "programs": [
    "ISL_LS",
    "ISLE_LS",

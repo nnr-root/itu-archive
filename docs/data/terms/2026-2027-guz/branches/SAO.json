@@ -35,7 +35,7 @@
   "level": "OL",
   "name": "Secure Software Development",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Gonca Özmen",
+  "instructor": "Hanife Kübra KAYA",
   "buildings": [
    "undeclared"
   ],
@@ -140,7 +140,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 8,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "SAO_OL"
@@ -169,7 +169,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 5,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "SAO_OL"
@@ -198,7 +198,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 30,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "SAO_OL"
@@ -227,7 +227,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 31,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "SAO_OL"
@@ -343,7 +343,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "SAO_OL"
@@ -372,7 +372,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 28,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "SAO_OL"
@@ -400,8 +400,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 10,
-  "enrolled": 10,
+  "capacity": 11,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "SAO_OL"
@@ -532,7 +532,7 @@
   "level": "OL",
   "name": "Kriptolojinin Temelleri",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Anıl Suat Terliksiz",
+  "instructor": "Hanife Kübra KAYA",
   "buildings": [
    "BEB"
   ],
@@ -561,7 +561,7 @@
   "level": "OL",
   "name": "İnternet Programlama",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Murat Sekmen",
+  "instructor": "Furkan Emre Işık",
   "buildings": [
    "BEB"
   ],

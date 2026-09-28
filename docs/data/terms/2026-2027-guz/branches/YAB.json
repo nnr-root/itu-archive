@@ -35,7 +35,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Hülya Kuş , Fethiye Ecem Edis",
   "buildings": [
-   "undeclared"
+   "MMB"
   ],
   "days": [
    "Salı"
@@ -44,7 +44,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "3501"
   ],
   "capacity": 8,
   "enrolled": 3,
@@ -68,7 +68,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 44,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

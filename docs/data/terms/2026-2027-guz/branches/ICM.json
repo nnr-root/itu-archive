@@ -78,7 +78,7 @@
    "MZLB"
   ],
   "capacity": 60,
-  "enrolled": 48,
+  "enrolled": 49,
   "reserved": "-",
   "programs": [
    "ICM_LS"
@@ -196,7 +196,7 @@
    "3404"
   ],
   "capacity": 27,
-  "enrolled": 26,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "IAD_LS",
@@ -226,7 +226,7 @@
    "3405"
   ],
   "capacity": 27,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "IAD_LS",
@@ -314,7 +314,7 @@
    "213"
   ],
   "capacity": 70,
-  "enrolled": 68,
+  "enrolled": 69,
   "reserved": "-",
   "programs": [
    "IAD_LS",
@@ -344,7 +344,7 @@
    "213"
   ],
   "capacity": 55,
-  "enrolled": 53,
+  "enrolled": 57,
   "reserved": "-",
   "programs": [
    "IAD_LS",
@@ -403,7 +403,7 @@
    "303"
   ],
   "capacity": 20,
-  "enrolled": 15,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "IAD_LS",
@@ -492,7 +492,7 @@
    "302"
   ],
   "capacity": 17,
-  "enrolled": 15,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "IAD_LS",
@@ -522,7 +522,7 @@
    "307"
   ],
   "capacity": 15,
-  "enrolled": 15,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "ICM_LS"
@@ -551,7 +551,7 @@
    "315"
   ],
   "capacity": 15,
-  "enrolled": 15,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "ICM_LS"
@@ -613,8 +613,8 @@
    "203A"
   ],
   "capacity": 15,
-  "enrolled": 13,
-  "reserved": "ICM_LS/11/11 | IAD_LS/4/2 | Diğer/0/0",
+  "enrolled": 14,
+  "reserved": "ICM_LS/11/12 | IAD_LS/4/2 | Diğer/0/0",
   "programs": [
    "IAD_LS",
    "ICM_LS"
@@ -881,7 +881,7 @@
    "13:30/17:29"
   ],
   "rooms": [
-   "--",
+   "3501",
    "--"
   ],
   "capacity": 15,
@@ -1055,8 +1055,8 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 10,
-  "reserved": "ICM_LS/12/7 | IAD_LS/3/3 | Diğer/0/0",
+  "enrolled": 11,
+  "reserved": "ICM_LS/12/8 | IAD_LS/3/3 | Diğer/0/0",
   "programs": [
    "IAD_LS",
    "ICM_LS"
@@ -1372,7 +1372,7 @@
    "131"
   ],
   "capacity": 15,
-  "enrolled": 9,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

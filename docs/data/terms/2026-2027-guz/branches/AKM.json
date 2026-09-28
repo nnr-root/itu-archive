@@ -19,8 +19,8 @@
   "rooms": [
    "2D11"
   ],
-  "capacity": 30,
-  "enrolled": 30,
+  "capacity": 40,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -51,7 +51,7 @@
    "A305"
   ],
   "capacity": 60,
-  "enrolled": 54,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -81,7 +81,7 @@
    "A201"
   ],
   "capacity": 60,
-  "enrolled": 56,
+  "enrolled": 55,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -111,8 +111,8 @@
    "B203"
   ],
   "capacity": 60,
-  "enrolled": 37,
-  "reserved": "JEF_LS/9/0 | JEFE_LS/1/0 | Diğer/50/37",
+  "enrolled": 51,
+  "reserved": "JEF_LS/9/1 | JEFE_LS/1/0 | Diğer/50/50",
   "programs": [
    "CEV_LS",
    "CEVE_LS",
@@ -145,7 +145,7 @@
    "A302"
   ],
   "capacity": 60,
-  "enrolled": 4,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "CEV_LS",

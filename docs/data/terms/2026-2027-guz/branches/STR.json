@@ -125,7 +125,7 @@
    "12:30/15:29"
   ],
   "rooms": [
-   "123A"
+   "309"
   ],
   "capacity": 20,
   "enrolled": 3,
@@ -206,10 +206,10 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "123B"
+   "320"
   ],
   "capacity": 15,
-  "enrolled": 8,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -251,7 +251,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 6,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
