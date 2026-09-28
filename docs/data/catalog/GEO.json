@@ -18329,6 +18329,122 @@
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=GEO&dersNo=614"
  },
+ "GEO 615E": {
+  "code": "GEO 615E",
+  "name": "Curve and Surface Fitting Meth",
+  "nameEn": "Curve and Surface Fitting Meth",
+  "language": "English",
+  "credits": {
+   "theory": 3,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 7.5
+  },
+  "description": "Giriş, Geomatikte eğri ve yüzey yerleştirme tekniklerinin uygulama alanları, Global enterpolasyon, Lokal enterpolasyon, nokta kümesinde global eğri enterpolasyonu, kübik spline eğri enterpolasyonu, en küçük karelerle eğri uydurma, yüzey enterpolasyonu, polinom yüzeyleri, spline yüzeyleri, en küçük karelerle yüzey uydurma, Kriging, Minimum eğrilikli yüzeyler, Sonlu elemanlar yaklaşımları, Programlama uygulamaları. Introduction, application fields of curve and surface fitting techniques in geomatics, global interpolation, local interpolation, global curve interpolation to point data, cubic spline curve interpolation, least squares curve fitting, surface interpolation, polynomial surfaces, spline surfaces, Kriging, Minimum curvature surfaces, Least squares surface fitting ,Finite element approaches, Programming Applications.",
+  "outcomes": [
+   "i) Geomatik mühendisliğinde konuma ilişkin koordinat bilgilerinin her türlü sistem dönüşümü veya transformasyonu yöntem ve çözümlerinde gelişmiş ustalık ve beceriyi kanıtlayabilme",
+   "ii) Eğri ve yüzey uydurma problemlerinin formüle edilmesi ve çözümü için mevcut yöntem ve modelleri karşılaştırabilme, yeni metodlar tasarımlayabilme, geliştirebilme ve uygulama becerisi",
+   "iii) Analitik, modele dayalı ve deneysel araştırma ve sorgulamaları yönetme ve tasarımlama, eleştirel yorumlayabilme ve geçerli yargılara varabilme becerisi",
+   "iv) Farklı disiplinlerden ve seviyelerden oluşmuş bir ekibin üyeliğini ve liderliğini yapabilecek etkin bir işlevselliğe, ulusal ve uluslararası bağlamda etkin yazılı, sözlü, grafik iletişim ve çalışma becerisini kanıtlayabilme"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Giriş, tanışma",
+   "Hafta 2 · Eğri ve yüzey uydurma tekniklerinin geomatik mühendisliğindeki uygulama alanları",
+   "Hafta 3 · Yüzey oluşturma teknikleri kontrol noktalarıi enterpolasyon ve kestirme",
+   "Hafta 4 · Polinom yüzeyleri ile eğiri uydurma sayısal arazi modeli",
+   "Hafta 5 · Eş yükseklik eğrilerinin otomatik çizimi, karayolu mühendisliği ve geçki tasarımı",
+   "Hafta 6 · Radyal temelli fonksiyonlar",
+   "Hafta 7 · Kriging yönteminin prensiplerimethod",
+   "Hafta 8 · Splayn fonksiyonları, B-splayn ve kübik splayn",
+   "Hafta 9 · Sonlu elemanlar yaklaşımı ile lokal yüzey enterpolasyonu, damlacık yöntemi ile eğri ve yüzey modelleme",
+   "Hafta 10 · Eğri ve yüzey uydurma problemlerinde kullanılan yazılımlar",
+   "Hafta 11 · Yıliçi Sınavı",
+   "Hafta 12 · Dönem ödevlerinin sunumu",
+   "Hafta 13 · Dönem ödevlerinin sunumu",
+   "Hafta 14 · Dönem ödevlerinin sunumu"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Giriş, tanışma",
+    "outcomes": "2"
+   },
+   {
+    "week": 2,
+    "topic": "Eğri ve yüzey uydurma tekniklerinin geomatik mühendisliğindeki uygulama alanları",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 3,
+    "topic": "Yüzey oluşturma teknikleri kontrol noktalarıi enterpolasyon ve kestirme",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 4,
+    "topic": "Polinom yüzeyleri ile eğiri uydurma sayısal arazi modeli",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 5,
+    "topic": "Eş yükseklik eğrilerinin otomatik çizimi, karayolu mühendisliği ve geçki tasarımı",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 6,
+    "topic": "Radyal temelli fonksiyonlar",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 7,
+    "topic": "Kriging yönteminin prensiplerimethod",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 8,
+    "topic": "Splayn fonksiyonları, B-splayn ve kübik splayn",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 9,
+    "topic": "Sonlu elemanlar yaklaşımı ile lokal yüzey enterpolasyonu, damlacık yöntemi ile eğri ve yüzey modelleme",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 10,
+    "topic": "Eğri ve yüzey uydurma problemlerinde kullanılan yazılımlar",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 11,
+    "topic": "Yıliçi Sınavı",
+    "outcomes": "1-3"
+   },
+   {
+    "week": 12,
+    "topic": "Dönem ödevlerinin sunumu",
+    "outcomes": "1-3-4"
+   },
+   {
+    "week": 13,
+    "topic": "Dönem ödevlerinin sunumu",
+    "outcomes": "1-3-4"
+   },
+   {
+    "week": 14,
+    "topic": "Dönem ödevlerinin sunumu"
+   }
+  ],
+  "textbooks": [
+   "Gallier, Jean; Curves and Surfaces in Geometric Modelling: Theory and Algorithms, San Francisco California, Morgan Kaufmann Publishers, 2000",
+   "Le Mehaute, Alain; Rabut, Christophe; Schumaker, Larry; Curves and Surfaces with Applications in CAGD, Nashville, Vanderbilt University Press, 1997",
+   "Yamaguchi, Fujio; Curves and Surfaces in Computer Aided Geometric Design, Berlin, NewYork, Springer Verlag, 1988",
+   "Davies, Alan; Samuels Philip; An Introduction to Computational Geometry for Curves and Surfaces, Clarendon Press, Oxford, 1996",
+   "Hagen, Hans; Curve and Surface Design, Philadelphia, Society for Industrial and Applied Mathematics, 1992",
+   "Cohen, Albert; Rabut, Christophe; Schumaker, Larry; Curve and Surface Design/Curve and Surface Fitting, Saint Malo, 1999"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=GEO&dersNo=615"
+ },
  "GEO 616E": {
   "code": "GEO 616E",
   "name": "State Mod.Kalman Filt.&Smooth.",
@@ -18901,269 +19017,5 @@
    "Sanches L (ed) (2000) Vertical Datum and Height Systems, IAG Symposia Series Springer-Verlag"
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=GEO&dersNo=626"
- },
- "GEO 696": {
-  "code": "GEO 696",
-  "name": "Bilimsel Araş.,Etik ve Seminer",
-  "nameEn": "Scien.Rese., Ethic&Seminar",
-  "language": "Türkçe/English",
-  "credits": {
-   "theory": 2,
-   "practice": 0,
-   "lab": 0,
-   "local": 0,
-   "ects": 7.5
-  },
-  "description": "Bilim tanımı ve gelişimi, bilimsel araştırma yaklaşımı, literatür analizi, araştırma tasarımı, nicel ve nitel araştırma yöntemleri, veri toplanması, tez, proje, ve bilimsel makale yazım teknikleri, araştırma yapılırken izlenmesi gereken etik ilkeler, yayın yapılırken izlenmesi gereken etik ilkeler, atıfta etik ilkeler, başarılı sunum yapabilmek için dikkat edilmesi gereken hususlar, tez konusu/kendi mühendislik alanı kapsamında yapılacak sunumlar. Definition and development of science, scientific research approach, literature survey, research design, quantitative and qualitative research methodologies, data gathering, writing techniques for thesis, project, and scientific article, ethical principles to be followed when conducting research, ethical principles to be followed when publishing, citation ethics, tips for a successful presentation, students presentations within the scope of their thesis topics/own engineering field.",
-  "outcomes": [
-   "1. Bilimin, bilimsel bilginin ve bilimin tarihsel gelişiminin ne olduğunu kavramış olma",
-   "1. Bilimin, bilimsel bilginin ve bilimin tarihsel gelişiminin ne olduğunu kavramış olma",
-   "2. Bilimsel araştırma yöntemlerini anlamış ve uygulayabilecek olma",
-   "2. Bilimsel araştırma yöntemlerini anlamış ve uygulayabilecek olma",
-   "3. Literatür taraması ve analizi yapabilmek",
-   "3. Literatür taraması ve analizi yapabilmek",
-   "4. Bilimsel yayın çeşitlerinin neler olduğunu ve temel özelliklerini öğrenmiş olma",
-   "4. Bilimsel yayın çeşitlerinin neler olduğunu ve temel özelliklerini öğrenmiş olma",
-   "5. Bilimsel çalışmada takip edilmesi gereken etik kuralları kavramış ve içselleştirmiş olmak",
-   "5. Bilimsel çalışmada takip edilmesi gereken etik kuralları kavramış ve içselleştirmiş olmak",
-   "6. Teknik veya teknik olmayan konularda sunum hazırlama becerisine sahip olma",
-   "6. Teknik veya teknik olmayan konularda sunum hazırlama becerisine sahip olma",
-   "7. Sunum yaparken sözel/vokal/görsel olarak dinleyiciye hitap etmeyi öğrenmiş olma",
-   "7. Sunum yaparken sözel/vokal/görsel olarak dinleyiciye hitap etmeyi öğrenmiş olma",
-   "8. Sunum esnasında iletişimin önemini kavrama, topluluk önünde rahat konuşma becerisine sahip olma",
-   "8. Sunum esnasında iletişimin önemini kavrama, topluluk önünde rahat konuşma becerisine sahip olma"
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Bilimsel araştırma yöntemleri, literatür taraması, veri toplama ve değerlendirme",
-   "Hafta 2 · Tez ve Makale yazım teknikleri",
-   "Hafta 3 · Araştırma ve yayın etiği",
-   "Hafta 4 · Araştırmada etik dışı davranışlar – dünyadan örnekler",
-   "Hafta 5 · Yükseköğretim Kurulu Bilimsel Araştırma ve Yayın Etiği Yönergesi",
-   "Hafta 6 · Başarılı sunum yapabilmek için dikkat edilmesi gereken hususlar hakkında bilgi. Sunum hazırlık sürecindeki adımlar, sunumda iletişimin önemi.",
-   "Hafta 7 · Sunum yaparken sesi, beden dilini kullanma. Sunumda zamanlamanın önemi. Sunumda görsel etki, görsel yardımcıların seçimi ve kullanımı, soru-yanıt bölümünün yönetimi",
-   "Hafta 8 · Dönem ödevi sunumu-1",
-   "Hafta 9 · Dönem ödevi sunumu-2",
-   "Hafta 10 · Dönem ödevi sunumu-3",
-   "Hafta 11 · Dönem ödevi sunumu-4",
-   "Hafta 12 · Dönem ödevi sunumu-5",
-   "Hafta 13 · Dönem ödevi sunumu-6",
-   "Hafta 14 · Dönem ödevi sunumu-7"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Bilimsel araştırma yöntemleri, literatür taraması, veri toplama ve değerlendirme",
-    "outcomes": "1-2-3-4"
-   },
-   {
-    "week": 2,
-    "topic": "Tez ve Makale yazım teknikleri",
-    "outcomes": "1-2-3-4"
-   },
-   {
-    "week": 3,
-    "topic": "Araştırma ve yayın etiği",
-    "outcomes": "5"
-   },
-   {
-    "week": 4,
-    "topic": "Araştırmada etik dışı davranışlar – dünyadan örnekler",
-    "outcomes": "5"
-   },
-   {
-    "week": 5,
-    "topic": "Yükseköğretim Kurulu Bilimsel Araştırma ve Yayın Etiği Yönergesi",
-    "outcomes": "5"
-   },
-   {
-    "week": 6,
-    "topic": "Başarılı sunum yapabilmek için dikkat edilmesi gereken hususlar hakkında bilgi. Sunum hazırlık sürecindeki adımlar, sunumda iletişimin önemi.",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 7,
-    "topic": "Sunum yaparken sesi, beden dilini kullanma. Sunumda zamanlamanın önemi. Sunumda görsel etki, görsel yardımcıların seçimi ve kullanımı, soru-yanıt bölümünün yönetimi",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 8,
-    "topic": "Dönem ödevi sunumu-1",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 9,
-    "topic": "Dönem ödevi sunumu-2",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 10,
-    "topic": "Dönem ödevi sunumu-3",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 11,
-    "topic": "Dönem ödevi sunumu-4",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 12,
-    "topic": "Dönem ödevi sunumu-5",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 13,
-    "topic": "Dönem ödevi sunumu-6",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 14,
-    "topic": "Dönem ödevi sunumu-7"
-   }
-  ],
-  "textbooks": [
-   "Andrwe Bradbury (2006) Çeviri: H.Elçi, Başarılı Sunum Teknikleri, Kaizen Yayıncılık.",
-   "Andrwe Bradbury (2006) Çeviri: H.Elçi, Başarılı Sunum Teknikleri, Kaizen Yayıncılık.",
-   "Alley M. (2013) The Craft of Scientific Presentations: Critical Steps to Succeed and Critical Errors to Avoid, Springer. [3]Trochim, W.M.K. (2016) Research Methods Essential Knowledge Base. Cornell University.",
-   "Alley M. (2013) The Craft of Scientific Presentations: Critical Steps to Succeed and Critical Errors to Avoid, Springer. [3]Trochim, W.M.K. (2016) Research Methods Essential Knowledge Base. Cornell University.",
-   "Trochim, W.M.K. (2016) Research Methods Essential Knowledge Base. Cornell University.",
-   "Trochim, W.M.K. (2016) Research Methods Essential Knowledge Base. Cornell University.",
-   "Schwabish J. (2016) Better Presentations: A Guide for Scholars, Researchers, and Wonks, Columbia University Press.",
-   "Schwabish J. (2016) Better Presentations: A Guide for Scholars, Researchers, and Wonks, Columbia University Press.",
-   "Richard Bowen, W. (2014) Engineering Ethics Challenges and Opportunities”, Springer e-book.",
-   "Richard Bowen, W. (2014) Engineering Ethics Challenges and Opportunities”, Springer e-book."
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=GEO&dersNo=696"
- },
- "GEO 696E": {
-  "code": "GEO 696E",
-  "name": "Bilimsel Araş.,Etik ve Seminer",
-  "nameEn": "Scien.Rese., Ethic&Seminar",
-  "language": "Türkçe/English",
-  "credits": {
-   "theory": 2,
-   "practice": 0,
-   "lab": 0,
-   "local": 0,
-   "ects": 7.5
-  },
-  "description": "Bilim tanımı ve gelişimi, bilimsel araştırma yaklaşımı, literatür analizi, araştırma tasarımı, nicel ve nitel araştırma yöntemleri, veri toplanması, tez, proje, ve bilimsel makale yazım teknikleri, araştırma yapılırken izlenmesi gereken etik ilkeler, yayın yapılırken izlenmesi gereken etik ilkeler, atıfta etik ilkeler, başarılı sunum yapabilmek için dikkat edilmesi gereken hususlar, tez konusu/kendi mühendislik alanı kapsamında yapılacak sunumlar. Definition and development of science, scientific research approach, literature survey, research design, quantitative and qualitative research methodologies, data gathering, writing techniques for thesis, project, and scientific article, ethical principles to be followed when conducting research, ethical principles to be followed when publishing, citation ethics, tips for a successful presentation, students presentations within the scope of their thesis topics/own engineering field.",
-  "outcomes": [
-   "1. Bilimin, bilimsel bilginin ve bilimin tarihsel gelişiminin ne olduğunu kavramış olma",
-   "1. Bilimin, bilimsel bilginin ve bilimin tarihsel gelişiminin ne olduğunu kavramış olma",
-   "2. Bilimsel araştırma yöntemlerini anlamış ve uygulayabilecek olma",
-   "2. Bilimsel araştırma yöntemlerini anlamış ve uygulayabilecek olma",
-   "3. Literatür taraması ve analizi yapabilmek",
-   "3. Literatür taraması ve analizi yapabilmek",
-   "4. Bilimsel yayın çeşitlerinin neler olduğunu ve temel özelliklerini öğrenmiş olma",
-   "4. Bilimsel yayın çeşitlerinin neler olduğunu ve temel özelliklerini öğrenmiş olma",
-   "5. Bilimsel çalışmada takip edilmesi gereken etik kuralları kavramış ve içselleştirmiş olmak",
-   "5. Bilimsel çalışmada takip edilmesi gereken etik kuralları kavramış ve içselleştirmiş olmak",
-   "6. Teknik veya teknik olmayan konularda sunum hazırlama becerisine sahip olma",
-   "6. Teknik veya teknik olmayan konularda sunum hazırlama becerisine sahip olma",
-   "7. Sunum yaparken sözel/vokal/görsel olarak dinleyiciye hitap etmeyi öğrenmiş olma",
-   "7. Sunum yaparken sözel/vokal/görsel olarak dinleyiciye hitap etmeyi öğrenmiş olma",
-   "8. Sunum esnasında iletişimin önemini kavrama, topluluk önünde rahat konuşma becerisine sahip olma",
-   "8. Sunum esnasında iletişimin önemini kavrama, topluluk önünde rahat konuşma becerisine sahip olma"
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Bilimsel araştırma yöntemleri, literatür taraması, veri toplama ve değerlendirme",
-   "Hafta 2 · Tez ve Makale yazım teknikleri",
-   "Hafta 3 · Araştırma ve yayın etiği",
-   "Hafta 4 · Araştırmada etik dışı davranışlar – dünyadan örnekler",
-   "Hafta 5 · Yükseköğretim Kurulu Bilimsel Araştırma ve Yayın Etiği Yönergesi",
-   "Hafta 6 · Başarılı sunum yapabilmek için dikkat edilmesi gereken hususlar hakkında bilgi. Sunum hazırlık sürecindeki adımlar, sunumda iletişimin önemi.",
-   "Hafta 7 · Sunum yaparken sesi, beden dilini kullanma. Sunumda zamanlamanın önemi. Sunumda görsel etki, görsel yardımcıların seçimi ve kullanımı, soru-yanıt bölümünün yönetimi",
-   "Hafta 8 · Dönem ödevi sunumu-1",
-   "Hafta 9 · Dönem ödevi sunumu-2",
-   "Hafta 10 · Dönem ödevi sunumu-3",
-   "Hafta 11 · Dönem ödevi sunumu-4",
-   "Hafta 12 · Dönem ödevi sunumu-5",
-   "Hafta 13 · Dönem ödevi sunumu-6",
-   "Hafta 14 · Dönem ödevi sunumu-7"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Bilimsel araştırma yöntemleri, literatür taraması, veri toplama ve değerlendirme",
-    "outcomes": "1-2-3-4"
-   },
-   {
-    "week": 2,
-    "topic": "Tez ve Makale yazım teknikleri",
-    "outcomes": "1-2-3-4"
-   },
-   {
-    "week": 3,
-    "topic": "Araştırma ve yayın etiği",
-    "outcomes": "5"
-   },
-   {
-    "week": 4,
-    "topic": "Araştırmada etik dışı davranışlar – dünyadan örnekler",
-    "outcomes": "5"
-   },
-   {
-    "week": 5,
-    "topic": "Yükseköğretim Kurulu Bilimsel Araştırma ve Yayın Etiği Yönergesi",
-    "outcomes": "5"
-   },
-   {
-    "week": 6,
-    "topic": "Başarılı sunum yapabilmek için dikkat edilmesi gereken hususlar hakkında bilgi. Sunum hazırlık sürecindeki adımlar, sunumda iletişimin önemi.",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 7,
-    "topic": "Sunum yaparken sesi, beden dilini kullanma. Sunumda zamanlamanın önemi. Sunumda görsel etki, görsel yardımcıların seçimi ve kullanımı, soru-yanıt bölümünün yönetimi",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 8,
-    "topic": "Dönem ödevi sunumu-1",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 9,
-    "topic": "Dönem ödevi sunumu-2",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 10,
-    "topic": "Dönem ödevi sunumu-3",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 11,
-    "topic": "Dönem ödevi sunumu-4",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 12,
-    "topic": "Dönem ödevi sunumu-5",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 13,
-    "topic": "Dönem ödevi sunumu-6",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 14,
-    "topic": "Dönem ödevi sunumu-7"
-   }
-  ],
-  "textbooks": [
-   "Andrwe Bradbury (2006) Çeviri: H.Elçi, Başarılı Sunum Teknikleri, Kaizen Yayıncılık.",
-   "Andrwe Bradbury (2006) Çeviri: H.Elçi, Başarılı Sunum Teknikleri, Kaizen Yayıncılık.",
-   "Alley M. (2013) The Craft of Scientific Presentations: Critical Steps to Succeed and Critical Errors to Avoid, Springer. [3]Trochim, W.M.K. (2016) Research Methods Essential Knowledge Base. Cornell University.",
-   "Alley M. (2013) The Craft of Scientific Presentations: Critical Steps to Succeed and Critical Errors to Avoid, Springer. [3]Trochim, W.M.K. (2016) Research Methods Essential Knowledge Base. Cornell University.",
-   "Trochim, W.M.K. (2016) Research Methods Essential Knowledge Base. Cornell University.",
-   "Trochim, W.M.K. (2016) Research Methods Essential Knowledge Base. Cornell University.",
-   "Schwabish J. (2016) Better Presentations: A Guide for Scholars, Researchers, and Wonks, Columbia University Press.",
-   "Schwabish J. (2016) Better Presentations: A Guide for Scholars, Researchers, and Wonks, Columbia University Press.",
-   "Richard Bowen, W. (2014) Engineering Ethics Challenges and Opportunities”, Springer e-book.",
-   "Richard Bowen, W. (2014) Engineering Ethics Challenges and Opportunities”, Springer e-book."
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=GEO&dersNo=696"
  }
 }

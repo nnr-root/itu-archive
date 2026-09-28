@@ -734,6 +734,123 @@
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=KOM&dersNo=509"
  },
+ "KOM 510": {
+  "code": "KOM 510",
+  "name": "Optimal Kontrol Kuramı",
+  "nameEn": "Optimal Control Theory",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 3,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 7.5
+  },
+  "description": "Optimizasyonun tanımı. Ekstrema hesabı ve Lagrange çarpanları yöntemi ile parametre optimizasyonu. Davranış ölçütleri. Optimal olma Prensibi ve Dinamik Programlama. Varyasyonlar hesabı ve Pontryagin minimum prensibi. Eşitlik ve eşitsizlik koşulları altında dinamik optimizasyon. Hamilton-Jacobi-Bellmann denklemi. Lineer Kuadratik Optimal Kontrol problemi çözümü(Matris Riccati denklemi). Zamanda ayrık kontrol sistemlerinde optimizasyon. Optimal kontrol probleminin sayısal çözüm yöntemleri. Definition of optimization. Calculus of extrema and parameter optimization by the method of Lagrange multipliers. Performance measures. Optimality Principle and Dynamic Programming. Variational calculus and Pontragin’s minimum principle. Dynamic optimization in control systems for different terminal conditions. Hamilton Jacobi-Bellman equation. Linear Optimal Control Problem solution (The matrix Riccati equation). Optimization of discrete control systems. Numerical solution methods in optimal control problem.",
+  "outcomes": [
+   "Optimal kontrole ilişkin temel tanımları ve temel kavramları",
+   "Optimal kontrol probleminde parametre optimizasyonu yöntemini",
+   "Optimal olma Prensibini ve Dinamik Programlamayı",
+   "Varyasyonlar hesabı ve Pontryagin minimum prensibini",
+   "Hamilton-Jacobi-Bellmann yaklaşımını",
+   "Lineer Kuadratik Optimal Kontrol problemi çözümünü (Matris Riccati Denklemi)"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Optimal Kontrol Problemine giriş ve sınıflandırmalar",
+   "Hafta 2 · Lagrange çarpanları yöntemi ile optimal kontrol probleminde parametre optimizasyonu",
+   "Hafta 3 · Lagrange çarpanları yöntemi ile optimal kontrol probleminde parametre optimizasyonu",
+   "Hafta 4 · Optimal Kontrol Probleminde amaç ölçütleri ve Dinamik Programlama",
+   "Hafta 5 · Optimal Kontrol Probleminde amaç ölçütleri ve Dinamik Programlama",
+   "Hafta 6 · Varyasyonlar hesabı ve Euler denklemleri",
+   "Hafta 7 · Varyasyonlar hesabı ve Euler denklemleri",
+   "Hafta 8 · Temel optimal kontrol problemine varyasyonlar hesabı yaklaşımının uygulanması",
+   "Hafta 9 · Pontryagin minimum prensibi ve minimum zaman ve güç kontrol problemi çözümleri",
+   "Hafta 10 · Pontryagin minimum prensibi ve minimum zaman ve güç kontrol problemi çözümleri",
+   "Hafta 11 · Hamilton-Jacobi-Bellmann yaklaşımı",
+   "Hafta 12 · Lineer Kuadratik Optimal Kontrol problemi (Matris Riccati Denklemi)",
+   "Hafta 13 · Lineer Kuadratik Optimal Kontrol problemi (Cebirsel Matris Riccati Denklemi)",
+   "Hafta 14 · Optimal Kontrol probleminin nümerik çözüm yöntemleri"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Optimal Kontrol Problemine giriş ve sınıflandırmalar",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "Lagrange çarpanları yöntemi ile optimal kontrol probleminde parametre optimizasyonu",
+    "outcomes": "2"
+   },
+   {
+    "week": 3,
+    "topic": "Lagrange çarpanları yöntemi ile optimal kontrol probleminde parametre optimizasyonu",
+    "outcomes": "2"
+   },
+   {
+    "week": 4,
+    "topic": "Optimal Kontrol Probleminde amaç ölçütleri ve Dinamik Programlama",
+    "outcomes": "3"
+   },
+   {
+    "week": 5,
+    "topic": "Optimal Kontrol Probleminde amaç ölçütleri ve Dinamik Programlama",
+    "outcomes": "3"
+   },
+   {
+    "week": 6,
+    "topic": "Varyasyonlar hesabı ve Euler denklemleri",
+    "outcomes": "4"
+   },
+   {
+    "week": 7,
+    "topic": "Varyasyonlar hesabı ve Euler denklemleri",
+    "outcomes": "4"
+   },
+   {
+    "week": 8,
+    "topic": "Temel optimal kontrol problemine varyasyonlar hesabı yaklaşımının uygulanması",
+    "outcomes": "4"
+   },
+   {
+    "week": 9,
+    "topic": "Pontryagin minimum prensibi ve minimum zaman ve güç kontrol problemi çözümleri",
+    "outcomes": "5"
+   },
+   {
+    "week": 10,
+    "topic": "Pontryagin minimum prensibi ve minimum zaman ve güç kontrol problemi çözümleri",
+    "outcomes": "5"
+   },
+   {
+    "week": 11,
+    "topic": "Hamilton-Jacobi-Bellmann yaklaşımı",
+    "outcomes": "5"
+   },
+   {
+    "week": 12,
+    "topic": "Lineer Kuadratik Optimal Kontrol problemi (Matris Riccati Denklemi)",
+    "outcomes": "6"
+   },
+   {
+    "week": 13,
+    "topic": "Lineer Kuadratik Optimal Kontrol problemi (Cebirsel Matris Riccati Denklemi)",
+    "outcomes": "6"
+   },
+   {
+    "week": 14,
+    "topic": "Optimal Kontrol probleminin nümerik çözüm yöntemleri"
+   }
+  ],
+  "textbooks": [
+   "D. E. Kirk, Optimal Control Theory, Prentice Hall, 1970",
+   "B. D. O. Anderson, J.B Moore, Optimal Control, Prentice Hall, 1990",
+   "J. B. Burl, Linear Optimal Control, Addison-Wesley, 1999.",
+   "D. G. Schultz, J. L. Melsa, State Functions and Linear Control Systems, Mc Graw Hill, 1967",
+   "D. S. Naidu, Optimal Control Systems, CRC Press, 2003."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=KOM&dersNo=510"
+ },
  "KOM 518E": {
   "code": "KOM 518E",
   "name": "Model Predictive Control",
@@ -1331,137 +1448,5 @@
    "Thrun, S., Fox, D., Burgard, W., & Dellaert, F. (2000). Robust Monte Carlo Localization for Mobile Robots. Artificial Intelligence , 99-141"
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=KOM&dersNo=613"
- },
- "KOM 696": {
-  "code": "KOM 696",
-  "name": "Bilimsel Araş.,Etik ve Seminer",
-  "nameEn": "Scien.Rese., Ethic&Seminar",
-  "language": "Türkçe/English",
-  "credits": {
-   "theory": 2,
-   "practice": 0,
-   "lab": 0,
-   "local": 0,
-   "ects": 7.5
-  },
-  "description": "Bilim tanımı ve gelişimi, bilimsel araştırma yaklaşımı, literatür analizi, araştırma tasarımı, nicel ve nitel araştırma yöntemleri, veri toplanması, tez, proje, ve bilimsel makale yazım teknikleri, araştırma yapılırken izlenmesi gereken etik ilkeler, yayın yapılırken izlenmesi gereken etik ilkeler, atıfta etik ilkeler, başarılı sunum yapabilmek için dikkat edilmesi gereken hususlar, tez konusu/kendi mühendislik alanı kapsamında yapılacak sunumlar. Definition and development of science, scientific research approach, literature survey, research design, quantitative and qualitative research methodologies, data gathering, writing techniques for thesis, project, and scientific article, ethical principles to be followed when conducting research, ethical principles to be followed when publishing, citation ethics, tips for a successful presentation, students presentations within the scope of their thesis topics/own engineering field.",
-  "outcomes": [
-   "1. Bilimin, bilimsel bilginin ve bilimin tarihsel gelişiminin ne olduğunu kavramış olma",
-   "1. Bilimin, bilimsel bilginin ve bilimin tarihsel gelişiminin ne olduğunu kavramış olma",
-   "2. Bilimsel araştırma yöntemlerini anlamış ve uygulayabilecek olma",
-   "2. Bilimsel araştırma yöntemlerini anlamış ve uygulayabilecek olma",
-   "3. Literatür taraması ve analizi yapabilmek",
-   "3. Literatür taraması ve analizi yapabilmek",
-   "4. Bilimsel yayın çeşitlerinin neler olduğunu ve temel özelliklerini öğrenmiş olma",
-   "4. Bilimsel yayın çeşitlerinin neler olduğunu ve temel özelliklerini öğrenmiş olma",
-   "5. Bilimsel çalışmada takip edilmesi gereken etik kuralları kavramış ve içselleştirmiş olmak",
-   "5. Bilimsel çalışmada takip edilmesi gereken etik kuralları kavramış ve içselleştirmiş olmak",
-   "6. Teknik veya teknik olmayan konularda sunum hazırlama becerisine sahip olma",
-   "6. Teknik veya teknik olmayan konularda sunum hazırlama becerisine sahip olma",
-   "7. Sunum yaparken sözel/vokal/görsel olarak dinleyiciye hitap etmeyi öğrenmiş olma",
-   "7. Sunum yaparken sözel/vokal/görsel olarak dinleyiciye hitap etmeyi öğrenmiş olma",
-   "8. Sunum esnasında iletişimin önemini kavrama, topluluk önünde rahat konuşma becerisine sahip olma",
-   "8. Sunum esnasında iletişimin önemini kavrama, topluluk önünde rahat konuşma becerisine sahip olma"
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Bilimsel araştırma yöntemleri, literatür taraması, veri toplama ve değerlendirme",
-   "Hafta 2 · Tez ve Makale yazım teknikleri",
-   "Hafta 3 · Araştırma ve yayın etiği",
-   "Hafta 4 · Araştırmada etik dışı davranışlar – dünyadan örnekler",
-   "Hafta 5 · Yükseköğretim Kurulu Bilimsel Araştırma ve Yayın Etiği Yönergesi",
-   "Hafta 6 · Başarılı sunum yapabilmek için dikkat edilmesi gereken hususlar hakkında bilgi. Sunum hazırlık sürecindeki adımlar, sunumda iletişimin önemi.",
-   "Hafta 7 · Sunum yaparken sesi, beden dilini kullanma. Sunumda zamanlamanın önemi. Sunumda görsel etki, görsel yardımcıların seçimi ve kullanımı, soru-yanıt bölümünün yönetimi",
-   "Hafta 8 · Dönem ödevi sunumu-1",
-   "Hafta 9 · Dönem ödevi sunumu-2",
-   "Hafta 10 · Dönem ödevi sunumu-3",
-   "Hafta 11 · Dönem ödevi sunumu-4",
-   "Hafta 12 · Dönem ödevi sunumu-5",
-   "Hafta 13 · Dönem ödevi sunumu-6",
-   "Hafta 14 · Dönem ödevi sunumu-7"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Bilimsel araştırma yöntemleri, literatür taraması, veri toplama ve değerlendirme",
-    "outcomes": "1-2-3-4"
-   },
-   {
-    "week": 2,
-    "topic": "Tez ve Makale yazım teknikleri",
-    "outcomes": "1-2-3-4"
-   },
-   {
-    "week": 3,
-    "topic": "Araştırma ve yayın etiği",
-    "outcomes": "5"
-   },
-   {
-    "week": 4,
-    "topic": "Araştırmada etik dışı davranışlar – dünyadan örnekler",
-    "outcomes": "5"
-   },
-   {
-    "week": 5,
-    "topic": "Yükseköğretim Kurulu Bilimsel Araştırma ve Yayın Etiği Yönergesi",
-    "outcomes": "5"
-   },
-   {
-    "week": 6,
-    "topic": "Başarılı sunum yapabilmek için dikkat edilmesi gereken hususlar hakkında bilgi. Sunum hazırlık sürecindeki adımlar, sunumda iletişimin önemi.",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 7,
-    "topic": "Sunum yaparken sesi, beden dilini kullanma. Sunumda zamanlamanın önemi. Sunumda görsel etki, görsel yardımcıların seçimi ve kullanımı, soru-yanıt bölümünün yönetimi",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 8,
-    "topic": "Dönem ödevi sunumu-1",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 9,
-    "topic": "Dönem ödevi sunumu-2",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 10,
-    "topic": "Dönem ödevi sunumu-3",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 11,
-    "topic": "Dönem ödevi sunumu-4",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 12,
-    "topic": "Dönem ödevi sunumu-5",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 13,
-    "topic": "Dönem ödevi sunumu-6",
-    "outcomes": "6-7-8"
-   },
-   {
-    "week": 14,
-    "topic": "Dönem ödevi sunumu-7"
-   }
-  ],
-  "textbooks": [
-   "Andrwe Bradbury (2006) Çeviri: H.Elçi, Başarılı Sunum Teknikleri, Kaizen Yayıncılık.",
-   "Andrwe Bradbury (2006) Çeviri: H.Elçi, Başarılı Sunum Teknikleri, Kaizen Yayıncılık.",
-   "Alley M. (2013) The Craft of Scientific Presentations: Critical Steps to Succeed and Critical Errors to Avoid, Springer. [3]Trochim, W.M.K. (2016) Research Methods Essential Knowledge Base. Cornell University.",
-   "Alley M. (2013) The Craft of Scientific Presentations: Critical Steps to Succeed and Critical Errors to Avoid, Springer. [3]Trochim, W.M.K. (2016) Research Methods Essential Knowledge Base. Cornell University.",
-   "Trochim, W.M.K. (2016) Research Methods Essential Knowledge Base. Cornell University.",
-   "Trochim, W.M.K. (2016) Research Methods Essential Knowledge Base. Cornell University.",
-   "Schwabish J. (2016) Better Presentations: A Guide for Scholars, Researchers, and Wonks, Columbia University Press.",
-   "Schwabish J. (2016) Better Presentations: A Guide for Scholars, Researchers, and Wonks, Columbia University Press.",
-   "Richard Bowen, W. (2014) Engineering Ethics Challenges and Opportunities”, Springer e-book.",
-   "Richard Bowen, W. (2014) Engineering Ethics Challenges and Opportunities”, Springer e-book."
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=KOM&dersNo=696"
  }
 }

@@ -5387,107 +5387,6 @@
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITB&dersNo=233"
  },
- "ITB 234": {
-  "code": "ITB 234",
-  "name": "Medeniyetlerin Doğuşu",
-  "nameEn": "The Rise of Civilizations",
-  "language": "Türkçe/English",
-  "credits": {
-   "theory": 3,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 4
-  },
-  "description": "Eski Taş Çağı’ndan Yeni Taş Çağı’na geçiş: Avrupa ve Yakın Doğu’da yeni çevre ve yeni topluluklar, Mağaralardan kamplar ve köylere: Yeni Taş Çağı’nda ‘Devrim’, Tarıma geçişte davranışsal değişiklikler, Sosyal eşitsizliğin temeli‐I, Sosyal eşitsizliğin temeli‐II Üretim istemlerinde değişimler, Politik ekonomi ve güç, ‘Arkaik’ devletler, Tarihi ekoloji’den perspektifler‐I, Tarihi ekoloji’den perspektifler‐II, Yakın Doğu’dan örnek: Asur, Harrapa Kültürü (Hindistan), Klasik Maya ve Klasik sonrası Aztek (Mezoamerika) Avrupa’dan örnek: Roma şehir devleti Paleolithic‐Neolithic transition: New environment and new society in temperate Europe and in the Near East, From caves and camps to villages: The “Revolution” of the Neolithic, Behavioral changes with the transition to agriculture, The foundations of social inequality‐I, The foundations of social inequality‐II, The change in the production systems, Political economy and power, The “Archaic” states, Perspectives from historical ecology‐I, Perspectives from historical ecology‐II, The case study from the Near East: Assyria, The case study from the Indus Valley: Harrapan culture, The case study from Mesoamerica: Classic Maya and Post‐Classic Aztec, The case study from Europe: Roman city‐state",
-  "outcomes": [
-   "Yapısalcılık, Marksizm, Yeni Evrim teorisi gibi teorik konular açısından karmaşıklığı  değerlendirme metodlarını (tarih, arkeoloji, antropoloji) farklı örneklerle  öğrenirler",
-   "İlk karmaşık toplumların genel özelliklerini kavrarlar",
-   "Mezopotamya’daki Uruk kültüründen Mezoamerika’daki ilk politik yapılanmalara,  bu oluşumların ortak paydalarını ve farklı yönlerini her birinin kendi çevresel ve  sosyo‐politik yapılarını öğrenirler",
-   "Farklı gelişim yolları, ekonomik ve politik organizasyon alanlarında gelişme gibi  konuları ilk karmaşık toplumların sosyo‐kültürel evrimlerinin genel  değerlendirmesini yaparak kavrayabilirler",
-   "Eski Kültürleri anlama ve analiz edebilme becerileri geliştirmeleri",
-   "Metin okuma, anlama, araştırma yapma ve yazı yazma becerilerini geliştirmeleri,",
-   "Kritik Düşünce becerileri geleştirmeleri"
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Eski Taş Çağı’ndan Yeni Taş Çağı’na geçiş: Avrupa ve Yakın Doğu’da yeni çevre ve yeni  topluluklar",
-   "Hafta 2 · Mağaralardan kamplar ve köylere: Yeni Taş Çağı’nda ‘Devrim’",
-   "Hafta 3 · Tarıma geçişte davranışsal değişiklikler",
-   "Hafta 4 · Sosyal eşitsizliğin temeli‐I",
-   "Hafta 5 · Sosyal eşitsizliğin temeli‐II",
-   "Hafta 6 · Üretim istemlerinde değişimler",
-   "Hafta 7 · Politik ekonomi ve güç",
-   "Hafta 8 · ‘Arkaik’ devletler",
-   "Hafta 9 · Tarihi ekoloji’den perspektifler‐I",
-   "Hafta 10 · Tarihi ekoloji’den perspektifler‐II",
-   "Hafta 11 · Yakın Doğu’dan örnek: Asur",
-   "Hafta 12 · Harrapa Kültürü (Hindistan)",
-   "Hafta 13 · Klasik Maya ve Klasik sonrası Aztek (Mezoamerika)",
-   "Hafta 14 · Avrupa’dan örnek: Roma şehir devleti"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Eski Taş Çağı’ndan Yeni Taş Çağı’na geçiş: Avrupa ve Yakın Doğu’da yeni çevre ve yeni  topluluklar"
-   },
-   {
-    "week": 2,
-    "topic": "Mağaralardan kamplar ve köylere: Yeni Taş Çağı’nda ‘Devrim’"
-   },
-   {
-    "week": 3,
-    "topic": "Tarıma geçişte davranışsal değişiklikler"
-   },
-   {
-    "week": 4,
-    "topic": "Sosyal eşitsizliğin temeli‐I"
-   },
-   {
-    "week": 5,
-    "topic": "Sosyal eşitsizliğin temeli‐II"
-   },
-   {
-    "week": 6,
-    "topic": "Üretim istemlerinde değişimler"
-   },
-   {
-    "week": 7,
-    "topic": "Politik ekonomi ve güç"
-   },
-   {
-    "week": 8,
-    "topic": "‘Arkaik’ devletler"
-   },
-   {
-    "week": 9,
-    "topic": "Tarihi ekoloji’den perspektifler‐I"
-   },
-   {
-    "week": 10,
-    "topic": "Tarihi ekoloji’den perspektifler‐II"
-   },
-   {
-    "week": 11,
-    "topic": "Yakın Doğu’dan örnek: Asur"
-   },
-   {
-    "week": 12,
-    "topic": "Harrapa Kültürü (Hindistan)"
-   },
-   {
-    "week": 13,
-    "topic": "Klasik Maya ve Klasik sonrası Aztek (Mezoamerika)"
-   },
-   {
-    "week": 14,
-    "topic": "Avrupa’dan örnek: Roma şehir devleti"
-   }
-  ],
-  "textbooks": [
-   "Yoffee, Norman. (2005) Myths of Archaic State Evolution of the Earliest  Cities, States, and Civilizations. Cambridge University Press, Cambridge."
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITB&dersNo=234"
- },
  "ITB 234E": {
   "code": "ITB 234E",
   "name": "Medeniyetlerin Doğuşu",
@@ -5693,6 +5592,25 @@
    "Steiner and Woods EU Law, Marios Costa, Steve Peers, Oxford University Press, 2023"
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITB&dersNo=235"
+ },
+ "ITB 236": {
+  "code": "ITB 236",
+  "name": "Türk Müziği Tarihi",
+  "nameEn": "The History of Turkish Music",
+  "language": "Türkçe",
+  "credits": {
+   "theory": 3,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 4
+  },
+  "description": "- -",
+  "outcomes": null,
+  "textbooks": [
+   "-"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ITB&dersNo=236"
  },
  "ITB 301": {
   "code": "ITB 301",
