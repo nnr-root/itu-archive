@@ -583,7 +583,7 @@
    "D304"
   ],
   "capacity": 160,
-  "enrolled": 157,
+  "enrolled": 156,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -613,7 +613,7 @@
    "D301"
   ],
   "capacity": 90,
-  "enrolled": 91,
+  "enrolled": 90,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -673,7 +673,7 @@
    "D201"
   ],
   "capacity": 180,
-  "enrolled": 172,
+  "enrolled": 171,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -881,7 +881,7 @@
    "D102"
   ],
   "capacity": 60,
-  "enrolled": 55,
+  "enrolled": 53,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -941,7 +941,7 @@
    "D202"
   ],
   "capacity": 45,
-  "enrolled": 5,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "MET_LS"
@@ -1000,7 +1000,7 @@
    "D102"
   ],
   "capacity": 45,
-  "enrolled": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -1189,7 +1189,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Hüseyin Çimenoğlu , Murat Baydoğan",
   "buildings": [
-   "undeclared"
+   "KMB"
   ],
   "days": [
    "Perşembe"
@@ -1198,10 +1198,10 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "D105"
   ],
   "capacity": 20,
-  "enrolled": 10,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1216,7 +1216,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Onuralp Yücel",
   "buildings": [
-   "undeclared"
+   "KMB"
   ],
   "days": [
    "Pazartesi"
@@ -1225,7 +1225,7 @@
    "10:00/12:59"
   ],
   "rooms": [
-   "--"
+   "D105"
   ],
   "capacity": 20,
   "enrolled": 10,
@@ -1243,7 +1243,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Sebahattin Gürmen , Mehmet Şeref Sönmez",
   "buildings": [
-   "undeclared"
+   "KMB"
   ],
   "days": [
    "Cuma"
@@ -1252,7 +1252,7 @@
    "14:00/16:59"
   ],
   "rooms": [
-   "--"
+   "D105"
   ],
   "capacity": 30,
   "enrolled": 23,
@@ -1270,7 +1270,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Özgül Keleş , Can Akyıl",
   "buildings": [
-   "undeclared"
+   "KMB"
   ],
   "days": [
    "Pazartesi"

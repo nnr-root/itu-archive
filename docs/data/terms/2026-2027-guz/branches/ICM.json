@@ -78,7 +78,7 @@
    "MZLB"
   ],
   "capacity": 60,
-  "enrolled": 49,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [
    "ICM_LS"
@@ -285,7 +285,7 @@
    "213"
   ],
   "capacity": 55,
-  "enrolled": 30,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "ICM_LS"
@@ -551,7 +551,7 @@
    "315"
   ],
   "capacity": 15,
-  "enrolled": 14,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "ICM_LS"
@@ -1089,8 +1089,8 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 15,
-  "reserved": "ICM_LS/12/12 | IAD_LS/3/3 | Diğer/0/0",
+  "enrolled": 14,
+  "reserved": "ICM_LS/12/11 | IAD_LS/3/3 | Diğer/0/0",
   "programs": [
    "IAD_LS",
    "ICM_LS"
@@ -1345,7 +1345,7 @@
    "3501"
   ],
   "capacity": 15,
-  "enrolled": 7,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

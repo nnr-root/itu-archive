@@ -1267,7 +1267,7 @@
    "Z-21"
   ],
   "capacity": 60,
-  "enrolled": 58,
+  "enrolled": 54,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1333,7 +1333,7 @@
    "Z-20"
   ],
   "capacity": 60,
-  "enrolled": 46,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1366,8 +1366,8 @@
    "Z-17"
   ],
   "capacity": 90,
-  "enrolled": 81,
-  "reserved": "YZVE_LS/10/6 | Diğer/80/75",
+  "enrolled": 79,
+  "reserved": "YZVE_LS/10/5 | Diğer/80/74",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1397,8 +1397,8 @@
    "Z-18"
   ],
   "capacity": 90,
-  "enrolled": 89,
-  "reserved": "YZVE_LS/10/10 | Diğer/80/79",
+  "enrolled": 88,
+  "reserved": "YZVE_LS/10/10 | Diğer/80/78",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1428,7 +1428,7 @@
    "Z-17"
   ],
   "capacity": 60,
-  "enrolled": 27,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1458,7 +1458,7 @@
    "Z-20"
   ],
   "capacity": 80,
-  "enrolled": 80,
+  "enrolled": 79,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1489,7 +1489,7 @@
    "Z-21"
   ],
   "capacity": 70,
-  "enrolled": 70,
+  "enrolled": 69,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1555,7 +1555,7 @@
    "101"
   ],
   "capacity": 40,
-  "enrolled": 41,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1640,7 +1640,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 137,
+  "enrolled": 136,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1741,7 +1741,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 1,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1773,7 +1773,7 @@
    "102"
   ],
   "capacity": 40,
-  "enrolled": 24,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -2570,6 +2570,35 @@
   "reserved": "-",
   "programs": [],
   "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15834",
+  "code": "BLG 435E",
+  "branch": "BLG",
+  "level": "LS",
+  "name": "Artificial Intelligence",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Meriç Yücel",
+  "buildings": [
+   "BBB"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "13:30/15:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 50,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEN_LS"
+  ],
+  "prereq": "Detay",
   "classReq": "-"
  }
 ]

@@ -117,7 +117,7 @@
    "ZD1"
   ],
   "capacity": 45,
-  "enrolled": 28,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -558,7 +558,7 @@
    "2D18"
   ],
   "capacity": 90,
-  "enrolled": 90,
+  "enrolled": 87,
   "reserved": "-",
   "programs": [
    "GEM_LS",
@@ -810,7 +810,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 17,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -868,7 +868,7 @@
    "2D13"
   ],
   "capacity": 30,
-  "enrolled": 30,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -897,7 +897,7 @@
    "2D17"
   ],
   "capacity": 30,
-  "enrolled": 7,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -1012,7 +1012,7 @@
   ],
   "rooms": [],
   "capacity": 3,
-  "enrolled": 3,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -1681,7 +1681,7 @@
    "1D4"
   ],
   "capacity": 30,
-  "enrolled": 7,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1862,7 +1862,7 @@
    "2D17"
   ],
   "capacity": 50,
-  "enrolled": 37,
+  "enrolled": 36,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -2245,7 +2245,7 @@
    "2D16"
   ],
   "capacity": 50,
-  "enrolled": 26,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "NAE_LS"

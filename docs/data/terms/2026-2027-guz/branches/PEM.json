@@ -658,7 +658,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 3,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "PEM_LS",
@@ -688,7 +688,7 @@
    "333"
   ],
   "capacity": 35,
-  "enrolled": 26,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "PEM_LS",
@@ -1039,7 +1039,7 @@
    "302"
   ],
   "capacity": 30,
-  "enrolled": 22,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "PEM_LS",
@@ -1166,7 +1166,7 @@
    "CATI4"
   ],
   "capacity": 26,
-  "enrolled": 26,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "PEM_LS",
@@ -1259,8 +1259,8 @@
    "BIM2"
   ],
   "capacity": 25,
-  "enrolled": 3,
-  "reserved": "PEME_LS/15/2 | Diğer/10/1",
+  "enrolled": 2,
+  "reserved": "PEME_LS/15/1 | Diğer/10/1",
   "programs": [
    "ENTE_LS",
    "ICM_LS",

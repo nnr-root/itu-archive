@@ -213,7 +213,7 @@
    "D380A"
   ],
   "capacity": 30,
-  "enrolled": 9,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -429,7 +429,7 @@
    "D450"
   ],
   "capacity": 30,
-  "enrolled": 5,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1062,7 +1062,7 @@
    "D381B"
   ],
   "capacity": 40,
-  "enrolled": 34,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "TEK_LS",
@@ -1093,7 +1093,7 @@
    "D381A"
   ],
   "capacity": 42,
-  "enrolled": 41,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "TEK_LS",
@@ -1327,7 +1327,7 @@
    "D368B"
   ],
   "capacity": 30,
-  "enrolled": 27,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "TEKE_LS"
@@ -1414,7 +1414,7 @@
    "D380A"
   ],
   "capacity": 30,
-  "enrolled": 7,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "TEK_LS",
@@ -1611,6 +1611,78 @@
   "reserved": "-",
   "programs": [],
   "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15832",
+  "code": "TEK 308E",
+  "branch": "TEK",
+  "level": "LS",
+  "name": "Yarn Technology II",
+  "method": "Ek Sınav",
+  "instructor": "Nazan Okur",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 1,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "TEK_LS",
+   "TEKE_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15833",
+  "code": "TEK 392E",
+  "branch": "TEK",
+  "level": "LS",
+  "name": "Design in Textile Engineering",
+  "method": "Ek Sınav",
+  "instructor": "Ali Kılıç",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 1,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "TEK_LS",
+   "TEKE_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15835",
+  "code": "TEK 426E",
+  "branch": "TEK",
+  "level": "LS",
+  "name": "Quality Cnt in Tex. &Clot.Prod",
+  "method": "Ek Sınav",
+  "instructor": "Canan Sarıçam",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 1,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "TEK_LS",
+   "TEKE_LS"
+  ],
+  "prereq": "Detay",
   "classReq": "-"
  }
 ]

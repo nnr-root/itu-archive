@@ -66,8 +66,8 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Meriç Yücel",
   "buildings": [
-   "BBB",
-   "BBB"
+   "EEB",
+   "EEB"
   ],
   "days": [
    "Salı",
@@ -78,8 +78,8 @@
    "14:30/16:29"
   ],
   "rooms": [
-   "--",
-   "--"
+   "4104",
+   "5103"
   ],
   "capacity": 80,
   "enrolled": 15,
@@ -416,7 +416,7 @@
   ],
   "rooms": [],
   "capacity": 80,
-  "enrolled": 38,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "CEN_LS"

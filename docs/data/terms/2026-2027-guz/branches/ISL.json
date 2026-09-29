@@ -20,7 +20,7 @@
    "216"
   ],
   "capacity": 100,
-  "enrolled": 91,
+  "enrolled": 90,
   "reserved": "-",
   "programs": [
    "ISL_LS",
@@ -206,8 +206,8 @@
    "216"
   ],
   "capacity": 80,
-  "enrolled": 58,
-  "reserved": "END_LS/10/4 | ENDE_LS/10/10 | GID_LS/5/4 | GIDE_LS/5/0 | IMLE_LS/5/0 | CHZ_LS/5/0 | EFN_LS/5/5 | Diğer/35/35",
+  "enrolled": 57,
+  "reserved": "END_LS/10/4 | ENDE_LS/10/10 | GID_LS/5/4 | GIDE_LS/5/0 | IMLE_LS/5/0 | CHZ_LS/5/0 | EFN_LS/5/5 | Diğer/35/34",
   "programs": [
    "CHZ_LS",
    "EFN_LS",
@@ -280,8 +280,8 @@
    "102"
   ],
   "capacity": 60,
-  "enrolled": 56,
-  "reserved": "MMD_LS/5/1 | Diğer/55/55",
+  "enrolled": 55,
+  "reserved": "MMD_LS/5/1 | Diğer/55/54",
   "programs": [
    "ISL_LS",
    "ISLE_LS",
@@ -342,8 +342,8 @@
    "108"
   ],
   "capacity": 80,
-  "enrolled": 59,
-  "reserved": "ECNE_LS/5/5 | GID_LS/3/3 | GIDE_LS/5/0 | MMD_LS/5/0 | Diğer/62/51",
+  "enrolled": 58,
+  "reserved": "ECNE_LS/5/4 | GID_LS/3/3 | GIDE_LS/5/0 | MMD_LS/5/0 | Diğer/62/51",
   "programs": [
    "ECNE_LS",
    "GID_LS",
@@ -534,8 +534,8 @@
    "B13-A"
   ],
   "capacity": 80,
-  "enrolled": 59,
-  "reserved": "ECNE_LS/5/5 | Diğer/75/54",
+  "enrolled": 57,
+  "reserved": "ECNE_LS/5/4 | Diğer/75/53",
   "programs": [
    "ECNE_LS",
    "ISL_LS",
@@ -1001,8 +1001,8 @@
    "203"
   ],
   "capacity": 80,
-  "enrolled": 80,
-  "reserved": "MMD_LS/10/10 | Diğer/70/70",
+  "enrolled": 79,
+  "reserved": "MMD_LS/10/10 | Diğer/70/69",
   "programs": [
    "ISL_LS",
    "ISLE_LS",
@@ -1097,8 +1097,8 @@
    "113"
   ],
   "capacity": 40,
-  "enrolled": 35,
-  "reserved": "ECNE_LS/5/6 | EFN_LS/10/9 | END_LS/3/1 | ENDE_LS/3/0 | Diğer/19/19",
+  "enrolled": 33,
+  "reserved": "ECNE_LS/5/6 | EFN_LS/10/9 | END_LS/3/1 | ENDE_LS/3/0 | Diğer/19/17",
   "programs": [
    "ECNE_LS",
    "EFN_LS",
@@ -1191,8 +1191,8 @@
    "210"
   ],
   "capacity": 40,
-  "enrolled": 21,
-  "reserved": "ENTE_LS/5/1 | EUT_LS/2/0 | EUTE_LS/5/0 | Diğer/28/20",
+  "enrolled": 20,
+  "reserved": "ENTE_LS/5/1 | EUT_LS/2/0 | EUTE_LS/5/0 | Diğer/28/19",
   "programs": [
    "ENTE_LS",
    "EUT_LS",
@@ -1731,7 +1731,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
