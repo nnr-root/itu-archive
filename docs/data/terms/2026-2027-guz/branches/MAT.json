@@ -24,7 +24,7 @@
    "A12"
   ],
   "capacity": 127,
-  "enrolled": 126,
+  "enrolled": 127,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -201,7 +201,7 @@
    "A13"
   ],
   "capacity": 72,
-  "enrolled": 73,
+  "enrolled": 72,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -1301,7 +1301,7 @@
    "A31"
   ],
   "capacity": 95,
-  "enrolled": 95,
+  "enrolled": 97,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -2577,7 +2577,7 @@
    "A11"
   ],
   "capacity": 80,
-  "enrolled": 76,
+  "enrolled": 77,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -3182,7 +3182,7 @@
    "D204"
   ],
   "capacity": 40,
-  "enrolled": 30,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "KMM_LS"
@@ -3239,7 +3239,7 @@
   "rooms": [
    "ZA3"
   ],
-  "capacity": 118,
+  "capacity": 123,
   "enrolled": 122,
   "reserved": "-",
   "programs": [
@@ -3505,7 +3505,7 @@
    "A205"
   ],
   "capacity": 90,
-  "enrolled": 89,
+  "enrolled": 90,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -3714,7 +3714,7 @@
    "B1_226"
   ],
   "capacity": 20,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3741,7 +3741,7 @@
    "B1_226"
   ],
   "capacity": 20,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -5430,7 +5430,7 @@
    "2D13"
   ],
   "capacity": 50,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -5459,7 +5459,7 @@
    "--"
   ],
   "capacity": 70,
-  "enrolled": 31,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "CEN_LS"
@@ -5519,7 +5519,7 @@
    "--"
   ],
   "capacity": 70,
-  "enrolled": 22,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "CEN_LS",

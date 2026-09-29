@@ -577,7 +577,7 @@
    "102"
   ],
   "capacity": 60,
-  "enrolled": 60,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "END_LS",
@@ -671,8 +671,8 @@
    "204"
   ],
   "capacity": 60,
-  "enrolled": 61,
-  "reserved": "IND_LS/5/5 | MAT_LS/5/5 | Diğer/50/51",
+  "enrolled": 64,
+  "reserved": "IND_LS/5/6 | MAT_LS/5/5 | Diğer/50/53",
   "programs": [
    "END_LS",
    "ENDE_LS",
@@ -1753,7 +1753,7 @@
    "210"
   ],
   "capacity": 35,
-  "enrolled": 34,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1834,7 +1834,7 @@
    "210"
   ],
   "capacity": 51,
-  "enrolled": 50,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
