@@ -133,7 +133,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "210"
+   "204"
   ],
   "capacity": 35,
   "enrolled": 31,
@@ -162,7 +162,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "B01"
+   "103"
   ],
   "capacity": 35,
   "enrolled": 30,
@@ -191,7 +191,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "113"
+   "103"
   ],
   "capacity": 35,
   "enrolled": 19,
@@ -249,7 +249,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "113"
+   "103"
   ],
   "capacity": 35,
   "enrolled": 18,
@@ -336,7 +336,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "B11"
+   "B12"
   ],
   "capacity": 10,
   "enrolled": 6,
@@ -356,7 +356,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Derya Gültekin",
   "buildings": [
-   "ISB"
+   "MSB"
   ],
   "days": [
    "Perşembe"
@@ -365,7 +365,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "209"
+   "B03"
   ],
   "capacity": 15,
   "enrolled": 6,

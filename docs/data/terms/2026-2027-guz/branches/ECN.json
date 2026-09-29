@@ -17,7 +17,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "101"
+   "203"
   ],
   "capacity": 100,
   "enrolled": 74,
@@ -38,7 +38,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Serdar Altay",
   "buildings": [
-   "ISB"
+   "MSB"
   ],
   "days": [
    "Perşembe"
@@ -47,7 +47,7 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "204"
+   "113"
   ],
   "capacity": 80,
   "enrolled": 49,
@@ -67,7 +67,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Shourjo Chakravorty",
   "buildings": [
-   "ISB"
+   "MSB"
   ],
   "days": [
    "Perşembe"
@@ -76,7 +76,7 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "203"
+   "B13"
   ],
   "capacity": 80,
   "enrolled": 90,
@@ -112,7 +112,7 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "102"
+   "207"
   ],
   "capacity": 60,
   "enrolled": 35,
@@ -138,7 +138,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Qian Li",
   "buildings": [
-   "MSB"
+   "ISB"
   ],
   "days": [
    "Cuma"
@@ -147,7 +147,7 @@
    "14:30/18:29"
   ],
   "rooms": [
-   "216"
+   "204"
   ],
   "capacity": 80,
   "enrolled": 66,
@@ -169,7 +169,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Gülen Derya Zayim Gider",
   "buildings": [
-   "ISB"
+   "MSB"
   ],
   "days": [
    "Salı"
@@ -178,7 +178,7 @@
    "14:30/18:29"
   ],
   "rooms": [
-   "108"
+   "203"
   ],
   "capacity": 80,
   "enrolled": 52,
@@ -257,7 +257,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Tolga Yuret",
   "buildings": [
-   "ISB"
+   "MSB"
   ],
   "days": [
    "Pazartesi"
@@ -266,7 +266,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "203"
+   "B13"
   ],
   "capacity": 80,
   "enrolled": 77,
@@ -286,7 +286,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Resul Aydemir",
   "buildings": [
-   "ISB"
+   "MSB"
   ],
   "days": [
    "Salı"
@@ -295,7 +295,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "203"
+   "B13"
   ],
   "capacity": 80,
   "enrolled": 87,
@@ -347,7 +347,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Resul Aydemir",
   "buildings": [
-   "MSB"
+   "ISB"
   ],
   "days": [
    "Perşembe"
@@ -356,7 +356,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "B13-A"
+   "203"
   ],
   "capacity": 80,
   "enrolled": 69,

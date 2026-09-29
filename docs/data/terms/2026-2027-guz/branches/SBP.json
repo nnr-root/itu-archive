@@ -189,7 +189,7 @@
    "123B"
   ],
   "capacity": 15,
-  "enrolled": 3,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -714,7 +714,7 @@
    "215"
   ],
   "capacity": 75,
-  "enrolled": 44,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "SBP_YD",
@@ -835,7 +835,7 @@
    "216"
   ],
   "capacity": 70,
-  "enrolled": 37,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "SBP_YD",
@@ -1212,7 +1212,7 @@
   ],
   "rooms": [],
   "capacity": 0,
-  "enrolled": 8,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "SBP_YD",
@@ -1881,7 +1881,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 17,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "SBPE_LS"

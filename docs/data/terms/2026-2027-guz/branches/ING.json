@@ -14505,7 +14505,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "B11"
+   "109"
   ],
   "capacity": 40,
   "enrolled": 36,
@@ -14525,7 +14525,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Gürcan Öztürk",
   "buildings": [
-   "MSB"
+   "ISB"
   ],
   "days": [
    "Pazartesi"
@@ -14534,7 +14534,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "103"
+   "207"
   ],
   "capacity": 40,
   "enrolled": 24,
@@ -14554,7 +14554,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "İsmail Akyıldız",
   "buildings": [
-   "TMB"
+   "MSB"
   ],
   "days": [
    "Perşembe"
@@ -14563,7 +14563,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "B01"
   ],
   "capacity": 40,
   "enrolled": 23,
@@ -14592,7 +14592,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Mevlüt Kahraman",
   "buildings": [
-   "TMB"
+   "MSB"
   ],
   "days": [
    "Pazartesi"
@@ -14601,7 +14601,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "B01"
   ],
   "capacity": 40,
   "enrolled": 28,
@@ -14630,7 +14630,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "İsmail Akyıldız",
   "buildings": [
-   "TMB"
+   "MSB"
   ],
   "days": [
    "Cuma"
@@ -14639,7 +14639,7 @@
    "14:00/16:59"
   ],
   "rooms": [
-   "--"
+   "B01"
   ],
   "capacity": 40,
   "enrolled": 32,
@@ -14668,7 +14668,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Mevlüt Kahraman",
   "buildings": [
-   "TMB"
+   "MSB"
   ],
   "days": [
    "Salı"
@@ -14677,7 +14677,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "B01"
   ],
   "capacity": 40,
   "enrolled": 30,
@@ -14706,7 +14706,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "İsmail Akyıldız",
   "buildings": [
-   "TMB"
+   "MSB"
   ],
   "days": [
    "Çarşamba"
@@ -14715,7 +14715,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "B11"
   ],
   "capacity": 40,
   "enrolled": 9,
@@ -14744,7 +14744,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Mevlüt Kahraman",
   "buildings": [
-   "TMB"
+   "MSB"
   ],
   "days": [
    "Salı"
@@ -14753,7 +14753,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "B11"
   ],
   "capacity": 40,
   "enrolled": 16,
@@ -14782,7 +14782,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "İsmail Akyıldız",
   "buildings": [
-   "TMB"
+   "MSB"
   ],
   "days": [
    "Perşembe"
@@ -14791,7 +14791,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "B01"
   ],
   "capacity": 40,
   "enrolled": 33,
@@ -14820,7 +14820,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Mevlüt Kahraman",
   "buildings": [
-   "TMB"
+   "MSB"
   ],
   "days": [
    "Cuma"
@@ -14829,7 +14829,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "B12"
   ],
   "capacity": 40,
   "enrolled": 18,
@@ -14906,7 +14906,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 44,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -14973,7 +14973,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 32,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -15189,7 +15189,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 31,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -15366,7 +15366,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Mevlüt Kahraman",
   "buildings": [
-   "TMB"
+   "MSB"
   ],
   "days": [
    "Perşembe"
@@ -15375,7 +15375,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "B12"
   ],
   "capacity": 40,
   "enrolled": 14,

@@ -17,7 +17,7 @@
    "14:30/18:29"
   ],
   "rooms": [
-   "B04"
+   "B03"
   ],
   "capacity": 40,
   "enrolled": 8,
@@ -95,7 +95,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Qian Li",
   "buildings": [
-   "ISB"
+   "MSB"
   ],
   "days": [
    "Pazartesi"
@@ -104,7 +104,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "107"
+   "113"
   ],
   "capacity": 40,
   "enrolled": 18,
@@ -133,7 +133,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "113"
+   "B11"
   ],
   "capacity": 40,
   "enrolled": 18,
@@ -220,7 +220,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "B12"
+   "103"
   ],
   "capacity": 40,
   "enrolled": 39,
@@ -308,7 +308,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "103"
   ],
   "capacity": 40,
   "enrolled": 35,
@@ -337,7 +337,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "B04"
   ],
   "capacity": 40,
   "enrolled": 10,

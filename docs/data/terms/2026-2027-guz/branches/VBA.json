@@ -8,7 +8,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Muammer Altan Çakır",
   "buildings": [
-   "ISB"
+   "MSB"
   ],
   "days": [
    "Çarşamba"
@@ -17,7 +17,7 @@
    "13:30/15:29"
   ],
   "rooms": [
-   "109"
+   "113"
   ],
   "capacity": 60,
   "enrolled": 35,
@@ -95,7 +95,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Muhammed Lütfi Yarar",
   "buildings": [
-   "ISB"
+   "MSB"
   ],
   "days": [
    "Cuma"
@@ -187,7 +187,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Mahmut Sami Sivri",
   "buildings": [
-   "MSB"
+   "ISB"
   ],
   "days": [
    "Salı"
@@ -196,7 +196,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "203"
+   "108"
   ],
   "capacity": 60,
   "enrolled": 51,
@@ -260,7 +260,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "109"
+   "206"
   ],
   "capacity": 60,
   "enrolled": 9,
@@ -282,7 +282,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ömer Faruk Beyca",
   "buildings": [
-   "ISB"
+   "MSB"
   ],
   "days": [
    "Cuma"
@@ -291,7 +291,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "107"
+   "B11"
   ],
   "capacity": 60,
   "enrolled": 14,
@@ -323,7 +323,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "210"
+   "B03"
   ],
   "capacity": 40,
   "enrolled": 13,
