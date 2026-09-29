@@ -19,9 +19,9 @@
   "rooms": [
    "A104"
   ],
-  "capacity": 65,
-  "enrolled": 63,
-  "reserved": "JEF_LS/5/3 | Diğer/60/60",
+  "capacity": 70,
+  "enrolled": 66,
+  "reserved": "JEF_LS/5/5 | Diğer/65/61",
   "programs": [
    "CEV_LS",
    "GID_LS",
@@ -51,9 +51,9 @@
   "rooms": [
    "B103"
   ],
-  "capacity": 65,
-  "enrolled": 63,
-  "reserved": "JEF_LS/5/2 | Diğer/60/61",
+  "capacity": 70,
+  "enrolled": 67,
+  "reserved": "JEF_LS/5/2 | Diğer/65/65",
   "programs": [
    "CEV_LS",
    "CEVE_LS",
@@ -85,7 +85,7 @@
    "5304"
   ],
   "capacity": 50,
-  "enrolled": 50,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -157,7 +157,7 @@
    "A105"
   ],
   "capacity": 61,
-  "enrolled": 61,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "PET_LS",
@@ -187,7 +187,7 @@
    "B104"
   ],
   "capacity": 60,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "GID_LS",

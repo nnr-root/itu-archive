@@ -35,7 +35,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Oğuz Tengilimoğlu , Serhat Boynukalın , Süreyya Ergün Bozdağ",
   "buildings": [
-   "undeclared"
+   "INB"
   ],
   "days": [
    "Çarşamba"
@@ -44,7 +44,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "ULAŞTIRM_B"
   ],
   "capacity": 20,
   "enrolled": 10,
@@ -89,7 +89,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Berna Çalışkan",
   "buildings": [
-   "undeclared"
+   "INB"
   ],
   "days": [
    "Cuma"
@@ -98,7 +98,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "ULAŞTIRM_A"
   ],
   "capacity": 20,
   "enrolled": 7,
@@ -149,7 +149,7 @@
   ],
   "rooms": [],
   "capacity": 20,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

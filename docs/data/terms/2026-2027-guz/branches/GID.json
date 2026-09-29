@@ -268,7 +268,7 @@
    "G308"
   ],
   "capacity": 30,
-  "enrolled": 29,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "GID_LS"
@@ -297,7 +297,7 @@
    "G308"
   ],
   "capacity": 30,
-  "enrolled": 20,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "GID_LS"
@@ -682,7 +682,7 @@
    "D302"
   ],
   "capacity": 25,
-  "enrolled": 20,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -712,7 +712,7 @@
    "D106"
   ],
   "capacity": 26,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -1014,7 +1014,7 @@
    "GZ101"
   ],
   "capacity": 20,
-  "enrolled": 12,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1056,7 +1056,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1187,7 +1187,7 @@
    "--"
   ],
   "capacity": 2,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "GID_LS"

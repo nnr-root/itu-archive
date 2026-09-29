@@ -318,7 +318,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 69,
+  "enrolled": 71,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -397,7 +397,7 @@
    "215"
   ],
   "capacity": 75,
-  "enrolled": 76,
+  "enrolled": 77,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -563,7 +563,7 @@
    "--",
    "--"
   ],
-  "capacity": 10,
+  "capacity": 11,
   "enrolled": 10,
   "reserved": "-",
   "programs": [
@@ -744,7 +744,7 @@
    "230"
   ],
   "capacity": 75,
-  "enrolled": 37,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -865,7 +865,7 @@
    "107"
   ],
   "capacity": 75,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -929,7 +929,7 @@
    "--"
   ],
   "capacity": 13,
-  "enrolled": 12,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "SBP_LS"
@@ -962,7 +962,7 @@
    "--"
   ],
   "capacity": 10,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "SBP_LS"
@@ -1060,7 +1060,7 @@
    "--",
    "--"
   ],
-  "capacity": 11,
+  "capacity": 12,
   "enrolled": 11,
   "reserved": "-",
   "programs": [
@@ -1093,7 +1093,7 @@
    "--",
    "--"
   ],
-  "capacity": 11,
+  "capacity": 12,
   "enrolled": 11,
   "reserved": "-",
   "programs": [
@@ -1127,7 +1127,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 28,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1188,7 +1188,7 @@
    "215"
   ],
   "capacity": 65,
-  "enrolled": 41,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1204,7 +1204,7 @@
   "level": "LS",
   "name": "Urban Law and Management",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Şevkiye Şence Türk",
+  "instructor": "-",
   "buildings": [],
   "days": [],
   "times": [
@@ -1212,7 +1212,7 @@
   ],
   "rooms": [],
   "capacity": 0,
-  "enrolled": 9,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [
    "SBP_YD",
@@ -1245,7 +1245,7 @@
    "--",
    "--"
   ],
-  "capacity": 12,
+  "capacity": 14,
   "enrolled": 12,
   "reserved": "-",
   "programs": [
@@ -1278,8 +1278,8 @@
    "--",
    "--"
   ],
-  "capacity": 11,
-  "enrolled": 11,
+  "capacity": 13,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "SBP_LS"
@@ -1344,8 +1344,8 @@
    "--",
    "--"
   ],
-  "capacity": 12,
-  "enrolled": 11,
+  "capacity": 14,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "SBP_LS"
@@ -1443,8 +1443,8 @@
    "--",
    "--"
   ],
-  "capacity": 11,
-  "enrolled": 9,
+  "capacity": 13,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1504,7 +1504,7 @@
    "CATI1"
   ],
   "capacity": 75,
-  "enrolled": 50,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "SBP_YD",
@@ -1572,7 +1572,7 @@
    "217A"
   ],
   "capacity": 45,
-  "enrolled": 30,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1602,7 +1602,7 @@
    "315"
   ],
   "capacity": 25,
-  "enrolled": 19,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1667,8 +1667,8 @@
    "230"
   ],
   "capacity": 65,
-  "enrolled": 54,
-  "reserved": "ARC_LS/3/1 | ENTE_LS/3/2 | MIM_LS/5/4 | MIME_LS/5/0 | Diğer/49/47",
+  "enrolled": 56,
+  "reserved": "ARC_LS/3/1 | ENTE_LS/3/2 | MIM_LS/5/4 | MIME_LS/5/0 | Diğer/49/49",
   "programs": [
    "ARC_LS",
    "ENTE_LS",
@@ -1702,8 +1702,8 @@
    "317"
   ],
   "capacity": 30,
-  "enrolled": 24,
-  "reserved": "MIM_LS/3/1 | MIME_LS/3/0 | Diğer/24/23",
+  "enrolled": 25,
+  "reserved": "MIM_LS/3/1 | MIME_LS/3/0 | Diğer/24/24",
   "programs": [
    "MIM_LS",
    "MIME_LS",
@@ -1735,8 +1735,8 @@
    "317"
   ],
   "capacity": 55,
-  "enrolled": 18,
-  "reserved": "ENTE_LS/3/2 | ICM_LS/2/0 | MIM_LS/3/0 | MIME_LS/3/0 | PEME_LS/3/2 | Diğer/41/14",
+  "enrolled": 19,
+  "reserved": "ENTE_LS/3/2 | ICM_LS/2/0 | MIM_LS/3/0 | MIME_LS/3/0 | PEME_LS/3/3 | Diğer/41/14",
   "programs": [
    "ENTE_LS",
    "ICM_LS",
@@ -1771,7 +1771,7 @@
    "217B"
   ],
   "capacity": 30,
-  "enrolled": 28,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1956,7 +1956,7 @@
    "309"
   ],
   "capacity": 30,
-  "enrolled": 5,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -2020,7 +2020,7 @@
    "--"
   ],
   "capacity": 65,
-  "enrolled": 0,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "SBP_YD",

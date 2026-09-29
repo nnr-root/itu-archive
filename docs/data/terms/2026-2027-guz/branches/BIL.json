@@ -403,7 +403,7 @@
    "D300"
   ],
   "capacity": 70,
-  "enrolled": 20,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -471,7 +471,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -571,7 +571,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 30,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -671,7 +671,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 66,
+  "enrolled": 67,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -871,7 +871,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 49,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1171,7 +1171,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 22,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1271,7 +1271,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 30,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1671,7 +1671,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 57,
+  "enrolled": 61,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1871,7 +1871,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 56,
+  "enrolled": 58,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1971,7 +1971,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 20,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2197,7 +2197,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 17,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -2227,7 +2227,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -2317,7 +2317,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 19,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -2381,7 +2381,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 79,
+  "enrolled": 80,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -2441,7 +2441,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "MEN_LS",
@@ -2530,8 +2530,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 100,
-  "enrolled": 107,
+  "capacity": 150,
+  "enrolled": 109,
   "reserved": "-",
   "programs": [
    "ARC_LS",

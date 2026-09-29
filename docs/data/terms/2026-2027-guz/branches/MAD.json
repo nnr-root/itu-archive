@@ -226,7 +226,7 @@
    "A101"
   ],
   "capacity": 85,
-  "enrolled": 60,
+  "enrolled": 59,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -256,7 +256,7 @@
    "B208"
   ],
   "capacity": 80,
-  "enrolled": 57,
+  "enrolled": 58,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -317,7 +317,7 @@
    "A203"
   ],
   "capacity": 35,
-  "enrolled": 18,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -408,7 +408,7 @@
    "A203"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -438,7 +438,7 @@
    "B208"
   ],
   "capacity": 35,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -498,7 +498,7 @@
    "A201"
   ],
   "capacity": 65,
-  "enrolled": 63,
+  "enrolled": 62,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -528,7 +528,7 @@
    "A202"
   ],
   "capacity": 60,
-  "enrolled": 45,
+  "enrolled": 49,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -558,7 +558,7 @@
    "A203"
   ],
   "capacity": 55,
-  "enrolled": 50,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -582,7 +582,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 37,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "MAD_LS"
@@ -1035,7 +1035,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 10,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1291,6 +1291,60 @@
   "programs": [
    "MAD_LS"
   ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15840",
+  "code": "MAD 432",
+  "branch": "MAD",
+  "level": "LS",
+  "name": "Maden. ve Tünellerde Kazı Mek.",
+  "method": "Ek Sınav",
+  "instructor": "Hanifi Çopur , Cemal Balcı",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Perşembe"
+  ],
+  "times": [
+   "14:30/17:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15841",
+  "code": "MAD 406",
+  "branch": "MAD",
+  "level": "LS",
+  "name": "Madenlerde İş Sağlığı ve Güv.",
+  "method": "Ek Sınav",
+  "instructor": "-",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "08:30/10:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
   "prereq": "Detay",
   "classReq": "-"
  }

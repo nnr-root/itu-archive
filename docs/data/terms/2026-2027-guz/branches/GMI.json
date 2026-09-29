@@ -20,7 +20,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 54,
+  "enrolled": 55,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -136,7 +136,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 19,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -165,7 +165,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 24,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -223,7 +223,7 @@
    "--"
   ],
   "capacity": 16,
-  "enrolled": 10,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -281,7 +281,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 81,
+  "enrolled": 83,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -368,7 +368,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 13,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -426,7 +426,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 52,
+  "enrolled": 53,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -571,7 +571,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 39,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -861,7 +861,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -919,7 +919,7 @@
    "--"
   ],
   "capacity": 16,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -1098,7 +1098,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 30,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -1777,7 +1777,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 43,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "MEN_LS",
@@ -1807,7 +1807,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 46,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "MEN_LS"
@@ -2094,10 +2094,10 @@
    "11:30/13:29"
   ],
   "rooms": [
-   "D203"
+   "D302"
   ],
   "capacity": 50,
-  "enrolled": 26,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "NAE_LS"

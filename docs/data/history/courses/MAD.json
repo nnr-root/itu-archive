@@ -499,7 +499,7 @@
     "2026-2027-guz",
     "Ataç Başçetin",
     85,
-    60,
+    59,
     "Pazartesi"
    ],
    [
@@ -666,7 +666,7 @@
     "2026-2027-guz",
     "Türker Hüdaverdi",
     80,
-    57,
+    58,
     "Salı"
    ],
    [
@@ -1788,7 +1788,7 @@
     "2026-2027-guz",
     "Deniz Tumaç",
     35,
-    18,
+    19,
     "Salı"
    ],
    [
@@ -2670,10 +2670,18 @@
   "code": "MAD 406",
   "name": "Madenlerde İş Sağlığı ve Güv.",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "-",
+    0,
+    0,
+    "Pazartesi"
+   ],
    [
     "2025-2026-bahar",
     "Abdullah Fişne , / Anıl Soylu",
@@ -2703,7 +2711,7 @@
     "2026-2027-guz",
     "Hanifi Çopur , Deniz Tumaç",
     65,
-    63,
+    62,
     "Cuma"
    ],
    [
@@ -3254,6 +3262,7 @@
   "code": "MAD 432",
   "name": "Maden. ve Tünellerde Kazı Mek.",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -3264,6 +3273,13 @@
    "2019-2020-guz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Hanifi Çopur , Cemal Balcı",
+    0,
+    0,
+    "Perşembe"
+   ],
    [
     "2025-2026-bahar",
     "Hanifi Çopur , / Cemal Balcı",
@@ -3500,7 +3516,7 @@
     "2026-2027-guz",
     "Türker Hüdaverdi",
     35,
-    33,
+    34,
     "Cuma"
    ],
    [
@@ -3620,7 +3636,7 @@
     "2026-2027-guz",
     "Cüneyt Atilla Öztürk",
     35,
-    13,
+    14,
     "Perşembe"
    ],
    [
@@ -4005,7 +4021,7 @@
     "2026-2027-guz",
     "Abdullah Fişne",
     60,
-    45,
+    49,
     "Pazartesi"
    ],
    [
@@ -4208,7 +4224,7 @@
     "2026-2027-guz",
     "Murat İmeryüz",
     55,
-    50,
+    51,
     "Çarşamba"
    ],
    [
@@ -4291,7 +4307,7 @@
     "2026-2027-guz",
     "Abdullah Fişne",
     500,
-    37,
+    39,
     ""
    ],
    [
@@ -4974,7 +4990,7 @@
     "2026-2027-guz",
     "Emre Avunduk",
     30,
-    10,
+    11,
     "Çarşamba"
    ]
   ]

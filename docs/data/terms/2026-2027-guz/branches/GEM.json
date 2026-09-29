@@ -117,7 +117,7 @@
    "ZD1"
   ],
   "capacity": 45,
-  "enrolled": 27,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -274,7 +274,7 @@
    "ZD1"
   ],
   "capacity": 80,
-  "enrolled": 77,
+  "enrolled": 80,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -514,7 +514,7 @@
   "level": "LS",
   "name": "Gemi Işletmeciliği",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Erdem Üçer",
+  "instructor": "Oral ERDOĞAN",
   "buildings": [
    "MEDC"
   ],
@@ -558,7 +558,7 @@
    "2D18"
   ],
   "capacity": 90,
-  "enrolled": 87,
+  "enrolled": 88,
   "reserved": "-",
   "programs": [
    "GEM_LS",
@@ -617,7 +617,7 @@
    "2D13"
   ],
   "capacity": 40,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -650,7 +650,7 @@
    "ZA2"
   ],
   "capacity": 50,
-  "enrolled": 49,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [
    "GEM_LS",
@@ -810,7 +810,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 16,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -897,7 +897,7 @@
    "2D17"
   ],
   "capacity": 30,
-  "enrolled": 6,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -1771,7 +1771,7 @@
    "3D19"
   ],
   "capacity": 50,
-  "enrolled": 0,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -1833,7 +1833,7 @@
    "3BİL1"
   ],
   "capacity": 40,
-  "enrolled": 21,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -1862,7 +1862,7 @@
    "2D17"
   ],
   "capacity": 50,
-  "enrolled": 36,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -1891,7 +1891,7 @@
    "1D3"
   ],
   "capacity": 50,
-  "enrolled": 43,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -1920,7 +1920,7 @@
    "3D19"
   ],
   "capacity": 50,
-  "enrolled": 36,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -1949,7 +1949,7 @@
    "ZA2"
   ],
   "capacity": 50,
-  "enrolled": 29,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -2183,7 +2183,7 @@
    "3D20"
   ],
   "capacity": 50,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -2216,7 +2216,7 @@
    "2D15"
   ],
   "capacity": 50,
-  "enrolled": 12,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -2278,7 +2278,7 @@
    "2D13"
   ],
   "capacity": 50,
-  "enrolled": 12,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "NAE_LS"
