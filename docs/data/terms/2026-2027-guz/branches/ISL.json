@@ -277,7 +277,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "102"
+   "203"
   ],
   "capacity": 60,
   "enrolled": 56,
@@ -1064,7 +1064,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "207"
+   "102"
   ],
   "capacity": 40,
   "enrolled": 40,
@@ -1557,7 +1557,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "202"
+   "207"
   ],
   "capacity": 40,
   "enrolled": 40,
@@ -1641,7 +1641,7 @@
    "B02"
   ],
   "capacity": 15,
-  "enrolled": 11,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

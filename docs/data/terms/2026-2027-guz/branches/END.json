@@ -168,8 +168,8 @@
    "104"
   ],
   "capacity": 80,
-  "enrolled": 81,
-  "reserved": "IND_LS/15/15 | ISL_LS/5/2 | ISLE_LS/5/5 | Diğer/55/59",
+  "enrolled": 82,
+  "reserved": "IND_LS/15/16 | ISL_LS/5/2 | ISLE_LS/5/5 | Diğer/55/59",
   "programs": [
    "END_LS",
    "ENDE_LS",
@@ -263,8 +263,8 @@
    "101"
   ],
   "capacity": 80,
-  "enrolled": 82,
-  "reserved": "IND_LS/25/26 | Diğer/55/56",
+  "enrolled": 83,
+  "reserved": "IND_LS/25/27 | Diğer/55/56",
   "programs": [
    "ENDE_LS",
    "IND_LS"
@@ -355,8 +355,8 @@
    "216"
   ],
   "capacity": 80,
-  "enrolled": 80,
-  "reserved": "ECNE_LS/5/0 | Diğer/75/80",
+  "enrolled": 81,
+  "reserved": "ECNE_LS/5/0 | Diğer/75/81",
   "programs": [
    "ECNE_LS",
    "END_LS",
@@ -545,7 +545,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "B20"
   ],
   "capacity": 50,
   "enrolled": 3,
@@ -898,7 +898,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Hüsnü Bülent Cerit",
   "buildings": [
-   "ISB"
+   "MSB"
   ],
   "days": [
    "Salı"
@@ -907,7 +907,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "101"
+   "B01"
   ],
   "capacity": 50,
   "enrolled": 5,
