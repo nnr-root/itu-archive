@@ -20,7 +20,7 @@
    "--"
   ],
   "capacity": 28,
-  "enrolled": 26,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -116,7 +116,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Nurullah Ardıç",
   "buildings": [
-   "undeclared"
+   "FEB"
   ],
   "days": [
    "Cuma"
@@ -125,7 +125,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "D106"
   ],
   "capacity": 15,
   "enrolled": 15,
@@ -209,7 +209,7 @@
    "--"
   ],
   "capacity": 45,
-  "enrolled": 41,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -238,7 +238,7 @@
    "Açıklanacak"
   ],
   "capacity": 200,
-  "enrolled": 81,
+  "enrolled": 82,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -307,7 +307,7 @@
   "level": "LU",
   "name": "Proje Döngüsü Yönetimi",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "-",
+  "instructor": "Tuba Akıncılar Tan",
   "buildings": [
    "undeclared"
   ],

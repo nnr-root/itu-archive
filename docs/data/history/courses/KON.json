@@ -801,7 +801,7 @@
     "2026-2027-guz",
     "Yücel Aydın , Ali Fuat Ergenç",
     70,
-    63,
+    62,
     "Perşembe"
    ],
    [
@@ -1260,6 +1260,7 @@
   "code": "KON 306E",
   "name": "Computer Controlled Systems",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2025-2026-guz",
    "2024-2025-bahar",
@@ -1271,6 +1272,13 @@
    "2019-2020-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Yaprak Yalçın",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Mahdi Baradarannia",
@@ -1412,7 +1420,7 @@
     "2026-2027-guz",
     "Ahmet Onat",
     78,
-    78,
+    77,
     "Salı"
    ],
    [
@@ -1707,7 +1715,7 @@
     "2026-2027-guz",
     "Mahdi Baradarannia",
     70,
-    64,
+    62,
     "Pazartesi"
    ],
    [
@@ -2294,14 +2302,14 @@
     "2026-2027-guz",
     "Onur Akbatı",
     50,
-    30,
+    29,
     "Pazartesi"
    ],
    [
     "2026-2027-guz",
     "Yücel Aydın",
     20,
-    4,
+    3,
     "Çarşamba"
    ],
    [
@@ -2747,7 +2755,7 @@
     "2026-2027-guz",
     "Osman Ervan",
     50,
-    40,
+    39,
     "Çarşamba"
    ],
    [
@@ -3415,7 +3423,7 @@
     "2026-2027-guz",
     "Fikret Çalışkan",
     75,
-    74,
+    73,
     "Pazartesi"
    ],
    [
@@ -4217,6 +4225,7 @@
   "code": "KON 413E",
   "name": "Industrial Automation",
   "terms": [
+   "2026-2027-guz",
    "2023-2024-guz",
    "2022-2023-guz",
    "2021-2022-guz",
@@ -4226,6 +4235,13 @@
    "2017-2018-guz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Yaprak Yalçın",
+    0,
+    0,
+    ""
+   ],
    [
     "2023-2024-guz",
     "Yaprak Yalçın",
@@ -4920,7 +4936,7 @@
     "2026-2027-guz",
     "İlhan Kocaarslan",
     50,
-    3,
+    2,
     "Çarşamba"
    ],
    [
@@ -5023,6 +5039,7 @@
   "code": "KON 426E",
   "name": "Intelligent Control Systems",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -5034,6 +5051,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Gülay Öke Günel",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Gülay Öke Günel",
@@ -5537,7 +5561,7 @@
     "2026-2027-guz",
     "Ali Fuat Ergenç",
     50,
-    30,
+    29,
     "Salı, Salı"
    ],
    [
@@ -5595,7 +5619,7 @@
     "2026-2027-guz",
     "Emre Dincel",
     50,
-    5,
+    4,
     "Perşembe"
    ]
   ]

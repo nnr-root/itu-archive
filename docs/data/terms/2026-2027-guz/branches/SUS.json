@@ -47,7 +47,7 @@
    "B36"
   ],
   "capacity": 25,
-  "enrolled": 22,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -183,8 +183,8 @@
    "B01"
   ],
   "capacity": 30,
-  "enrolled": 25,
-  "reserved": "SUS_YD/20/15 | Diğer/10/10",
+  "enrolled": 24,
+  "reserved": "SUS_YD/20/15 | Diğer/10/9",
   "programs": [
    "ISL_LS",
    "ISLE_LS",

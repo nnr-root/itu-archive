@@ -20,7 +20,7 @@
    "2104"
   ],
   "capacity": 80,
-  "enrolled": 49,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -52,7 +52,7 @@
    "5204"
   ],
   "capacity": 95,
-  "enrolled": 95,
+  "enrolled": 94,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -196,7 +196,7 @@
    "2102"
   ],
   "capacity": 95,
-  "enrolled": 77,
+  "enrolled": 71,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -336,7 +336,7 @@
    "4104"
   ],
   "capacity": 80,
-  "enrolled": 29,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -707,7 +707,7 @@
    "2102"
   ],
   "capacity": 80,
-  "enrolled": 21,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -743,7 +743,7 @@
    "6309"
   ],
   "capacity": 90,
-  "enrolled": 84,
+  "enrolled": 81,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -780,7 +780,7 @@
    "5304"
   ],
   "capacity": 90,
-  "enrolled": 90,
+  "enrolled": 89,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -903,7 +903,7 @@
    "5104"
   ],
   "capacity": 85,
-  "enrolled": 81,
+  "enrolled": 80,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -940,7 +940,7 @@
    "5104"
   ],
   "capacity": 95,
-  "enrolled": 88,
+  "enrolled": 85,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -1084,7 +1084,7 @@
    "2106"
   ],
   "capacity": 80,
-  "enrolled": 59,
+  "enrolled": 58,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1194,7 +1194,7 @@
    "6309"
   ],
   "capacity": 80,
-  "enrolled": 80,
+  "enrolled": 79,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -1302,7 +1302,7 @@
    "2102"
   ],
   "capacity": 80,
-  "enrolled": 50,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -1338,7 +1338,7 @@
    "5204"
   ],
   "capacity": 100,
-  "enrolled": 97,
+  "enrolled": 96,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1347,6 +1347,27 @@
    "KOM_LS",
    "ROS_LS"
   ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15858",
+  "code": "EEF 206",
+  "branch": "EEF",
+  "level": "LS",
+  "name": "İşaret İşleme ve Lineer Sist.",
+  "method": "Ek Sınav",
+  "instructor": "Işın Erer",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
   "prereq": "-",
   "classReq": "-"
  }

@@ -353,7 +353,7 @@
    "A205"
   ],
   "capacity": 60,
-  "enrolled": 59,
+  "enrolled": 56,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -509,7 +509,7 @@
    "B204"
   ],
   "capacity": 35,
-  "enrolled": 30,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "MAD_LS"
@@ -960,7 +960,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

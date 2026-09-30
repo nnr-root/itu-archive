@@ -74,7 +74,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 6,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -263,7 +263,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 16,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -371,7 +371,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 23,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -776,7 +776,7 @@
    "D305"
   ],
   "capacity": 10,
-  "enrolled": 8,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -803,7 +803,7 @@
    "--"
   ],
   "capacity": 27,
-  "enrolled": 27,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1055,7 +1055,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 38,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

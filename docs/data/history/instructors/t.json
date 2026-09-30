@@ -374,7 +374,7 @@
     "MAK 234",
     "Akışkanlar Mekaniği I",
     60,
-    37
+    35
    ],
    [
     "2025-2026-bahar",
@@ -1820,7 +1820,7 @@
     "DUY 517",
     "Liman ve Terminal Yönetimi",
     15,
-    9
+    10
    ],
    [
     "2026-2027-guz",
@@ -3474,7 +3474,7 @@
     "EHB 101",
     "EHM Giriş ve Müh. Etiği",
     100,
-    63
+    60
    ],
    [
     "2026-2027-guz",
@@ -4400,7 +4400,7 @@
     "UUM 543E",
     "Spec.Top.in Aeron.\u0026Astron.Eng.",
     40,
-    16
+    15
    ]
   ],
   "terms": 1
@@ -4740,7 +4740,7 @@
     "MUT 363",
     "Serbest Proje Çalışması I",
     5,
-    3
+    2
    ],
    [
     "2026-2027-guz",
@@ -6503,7 +6503,7 @@
     "ING 201A",
     "Essentials of Res.Paper Writ.",
     25,
-    16
+    15
    ],
    [
     "2026-2027-guz",
@@ -6628,7 +6628,7 @@
     "TUR 121",
     "Türk Dili I",
     75,
-    70
+    69
    ],
    [
     "2026-2027-guz",
@@ -6642,14 +6642,14 @@
     "TUR 122",
     "Türk Dili II",
     60,
-    60
+    59
    ],
    [
     "2026-2027-guz",
     "TUR 122",
     "Türk Dili II",
     60,
-    60
+    59
    ],
    [
     "2025-2026-yaz",
@@ -7885,7 +7885,7 @@
     "ISL 464E",
     "Deep Learning with Business Applications",
     50,
-    13
+    10
    ],
    [
     "2026-2027-guz",
@@ -8420,7 +8420,7 @@
     "ECN 420E",
     "Behavioural Economics",
     80,
-    65
+    61
    ],
    [
     "2025-2026-bahar",
@@ -9151,6 +9151,19 @@
   ],
   "terms": 15
  },
+ "Tuba Akıncılar Tan": {
+  "name": "Tuba Akıncılar Tan",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "LEE 903",
+    "Proje Döngüsü Yönetimi",
+    0,
+    0
+   ]
+  ],
+  "terms": 1
+ },
  "Tuba Büyükkayıkcı": {
   "name": "Tuba Büyükkayıkcı",
   "rows": [
@@ -9159,7 +9172,7 @@
     "INS 202E",
     "Numerical Methods inCivil Eng.",
     45,
-    45
+    44
    ],
    [
     "2026-2027-guz",
@@ -11215,7 +11228,7 @@
     "GAM 515E",
     "Non-digital Games\u0026Narration",
     30,
-    26
+    27
    ]
   ],
   "terms": 1
@@ -11367,7 +11380,7 @@
     "ITB 218",
     "Bilim ve Teknoloji Tarihi",
     35,
-    35
+    33
    ],
    [
     "2025-2026-yaz",
@@ -11667,7 +11680,7 @@
     "ISL 533",
     "Veri Madenciliği",
     30,
-    16
+    17
    ],
    [
     "2026-2027-guz",
@@ -11688,7 +11701,7 @@
     "ISL YLT",
     "Tez Çalışması",
     200,
-    28
+    29
    ],
    [
     "2025-2026-bahar",
@@ -11910,7 +11923,7 @@
     "GEO 605",
     "CBS'de Analiz Algoritmaları",
     30,
-    2
+    3
    ],
    [
     "2026-2027-guz",
@@ -13688,7 +13701,7 @@
     "TER 201E",
     "Thermodynamics",
     40,
-    36
+    32
    ],
    [
     "2025-2026-bahar",
@@ -14044,6 +14057,13 @@
     "Kimya Mühendisliği Lab. I",
     0,
     0
+   ],
+   [
+    "2026-2027-guz",
+    "KMM 483",
+    "Araştırma Projesi I",
+    100,
+    80
    ]
   ],
   "terms": 1
@@ -14056,7 +14076,7 @@
     "INS 218E",
     "Strength of Materials II",
     40,
-    32
+    31
    ],
    [
     "2026-2027-guz",
@@ -14582,14 +14602,14 @@
     "YZV 4902E",
     "AI\u0026 Data Engineering Design II",
     30,
-    21
+    20
    ],
    [
     "2026-2027-guz",
     "YZV 413E",
     "Graph Theory and Algorithms",
     30,
-    29
+    28
    ],
    [
     "2026-2027-guz",
@@ -15912,7 +15932,7 @@
     "MAD 241E",
     "Blasting Tech\u0026its Applications",
     80,
-    58
+    56
    ],
    [
     "2026-2027-guz",

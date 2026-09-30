@@ -147,7 +147,7 @@
    "5304"
   ],
   "capacity": 78,
-  "enrolled": 78,
+  "enrolled": 77,
   "reserved": "-",
   "programs": [
    "KOM_LS",
@@ -393,8 +393,8 @@
    "4102"
   ],
   "capacity": 70,
-  "enrolled": 64,
-  "reserved": "EEE_LS/5/5 | Diğer/65/59",
+  "enrolled": 62,
+  "reserved": "EEE_LS/5/5 | Diğer/65/57",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -432,7 +432,7 @@
    "5207"
   ],
   "capacity": 50,
-  "enrolled": 30,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "KOM_LS",
@@ -464,8 +464,8 @@
    "5207"
   ],
   "capacity": 50,
-  "enrolled": 40,
-  "reserved": "EHB_LS/2/0 | EHBE_LS/3/0 | Diğer/45/40",
+  "enrolled": 39,
+  "reserved": "EHB_LS/2/0 | EHBE_LS/3/0 | Diğer/45/39",
   "programs": [
    "EHB_LS",
    "EHBE_LS",
@@ -677,7 +677,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 5,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "KOM_LS",
@@ -1123,7 +1123,7 @@
    "2102"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 73,
   "reserved": "-",
   "programs": [
    "KOM_LS",
@@ -1259,8 +1259,8 @@
    "5103"
   ],
   "capacity": 50,
-  "enrolled": 30,
-  "reserved": "EEE_LS/5/3 | Diğer/45/27",
+  "enrolled": 29,
+  "reserved": "EEE_LS/5/3 | Diğer/45/26",
   "programs": [
    "EEE_LS",
    "KOM_LS",
@@ -1292,8 +1292,8 @@
    "4102"
   ],
   "capacity": 70,
-  "enrolled": 63,
-  "reserved": "EEE_LS/5/1 | Diğer/65/62",
+  "enrolled": 62,
+  "reserved": "EEE_LS/5/1 | Diğer/65/61",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -1426,7 +1426,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 3,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -1488,7 +1488,7 @@
    "5101"
   ],
   "capacity": 20,
-  "enrolled": 4,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "KOM_LS",
@@ -1496,6 +1496,69 @@
    "ROS_LS",
    "ROSE_LS"
   ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15864",
+  "code": "KON 306E",
+  "branch": "KON",
+  "level": "LS",
+  "name": "Computer Controlled Systems",
+  "method": "Ek Sınav",
+  "instructor": "Yaprak Yalçın",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15865",
+  "code": "KON 426E",
+  "branch": "KON",
+  "level": "LS",
+  "name": "Intelligent Control Systems",
+  "method": "Ek Sınav",
+  "instructor": "Gülay Öke Günel",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15866",
+  "code": "KON 413E",
+  "branch": "KON",
+  "level": "LS",
+  "name": "Industrial Automation",
+  "method": "Ek Sınav",
+  "instructor": "Yaprak Yalçın",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
   "prereq": "Detay",
   "classReq": "-"
  }

@@ -646,7 +646,7 @@
    "3400"
   ],
   "capacity": 0,
-  "enrolled": 51,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "MIM_LS",
@@ -681,7 +681,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 27,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "MIM_LS",
@@ -716,7 +716,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 18,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "MIM_LS",
@@ -786,7 +786,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 8,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "MIM_LS",
@@ -817,7 +817,7 @@
    "3400"
   ],
   "capacity": 500,
-  "enrolled": 373,
+  "enrolled": 372,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1009,8 +1009,8 @@
    "3400"
   ],
   "capacity": 45,
-  "enrolled": 40,
-  "reserved": "ARC_LS/4/3 | ENTE_LS/4/4 | IAD_LS/4/2 | ICM_LS/4/4 | MIM_LS/8/8 | MIME_LS/6/6 | PEME_LS/5/5 | SBP_LS/5/3 | SBPE_LS/5/5 | Diğer/0/0",
+  "enrolled": 39,
+  "reserved": "ARC_LS/4/2 | ENTE_LS/4/4 | IAD_LS/4/2 | ICM_LS/4/4 | MIM_LS/8/8 | MIME_LS/6/6 | PEME_LS/5/5 | SBP_LS/5/3 | SBPE_LS/5/5 | Diğer/0/0",
   "programs": [
    "ARC_LS",
    "ENT_LS",
@@ -1266,7 +1266,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 20,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "ARC_LS"

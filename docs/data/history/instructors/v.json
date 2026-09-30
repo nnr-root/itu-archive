@@ -2644,7 +2644,7 @@
     "MIM 304",
     "Mimarlık Tarihi III",
     100,
-    48
+    47
    ],
    [
     "2026-2027-guz",
@@ -2686,7 +2686,7 @@
     "MIT DRT",
     "Tez Çalışması",
     200,
-    21
+    23
    ],
    [
     "2026-2027-guz",
@@ -2901,13 +2901,20 @@
     "2026-2027-guz",
     "ELK 421E",
     "Generat. of Electrical Energy",
-    65,
+    70,
     65
    ],
    [
     "2026-2027-guz",
     "ELK 518E",
     "Power System Stability",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "ELK 496E",
+    "Power Syst. Dyn. \u0026 Stability",
     0,
     0
    ],

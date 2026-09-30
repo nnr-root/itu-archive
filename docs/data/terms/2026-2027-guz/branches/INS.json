@@ -589,7 +589,7 @@
    "A203"
   ],
   "capacity": 45,
-  "enrolled": 45,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -1116,7 +1116,7 @@
    "A102"
   ],
   "capacity": 40,
-  "enrolled": 32,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -1175,7 +1175,7 @@
    "A303"
   ],
   "capacity": 50,
-  "enrolled": 50,
+  "enrolled": 49,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -1488,7 +1488,7 @@
    "B202"
   ],
   "capacity": 35,
-  "enrolled": 35,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -1752,7 +1752,7 @@
    "A202"
   ],
   "capacity": 50,
-  "enrolled": 50,
+  "enrolled": 49,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2017,7 +2017,7 @@
    "A304"
   ],
   "capacity": 45,
-  "enrolled": 7,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2054,7 +2054,7 @@
    "B302"
   ],
   "capacity": 45,
-  "enrolled": 45,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2118,7 +2118,7 @@
    "B205"
   ],
   "capacity": 55,
-  "enrolled": 56,
+  "enrolled": 54,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2240,7 +2240,7 @@
    "A305"
   ],
   "capacity": 50,
-  "enrolled": 46,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2362,7 +2362,7 @@
    "B306"
   ],
   "capacity": 38,
-  "enrolled": 38,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -2527,7 +2527,7 @@
    "B307"
   ],
   "capacity": 35,
-  "enrolled": 8,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3115,7 +3115,7 @@
    "B201"
   ],
   "capacity": 45,
-  "enrolled": 32,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -3291,7 +3291,7 @@
    "B308"
   ],
   "capacity": 45,
-  "enrolled": 37,
+  "enrolled": 36,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -3818,7 +3818,7 @@
    "B308"
   ],
   "capacity": 35,
-  "enrolled": 26,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3849,7 +3849,7 @@
    "D104"
   ],
   "capacity": 20,
-  "enrolled": 20,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "INS_LS"

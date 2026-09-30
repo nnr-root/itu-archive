@@ -20,7 +20,7 @@
    "D201"
   ],
   "capacity": 200,
-  "enrolled": 118,
+  "enrolled": 117,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -320,7 +320,7 @@
    "D201"
   ],
   "capacity": 180,
-  "enrolled": 150,
+  "enrolled": 148,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -822,7 +822,7 @@
    "D204"
   ],
   "capacity": 95,
-  "enrolled": 91,
+  "enrolled": 90,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -911,7 +911,7 @@
    "D302"
   ],
   "capacity": 45,
-  "enrolled": 7,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -941,8 +941,8 @@
    "D202"
   ],
   "capacity": 60,
-  "enrolled": 3,
-  "reserved": "MET_LS/45/0 | Diğer/15/3",
+  "enrolled": 1,
+  "reserved": "MET_LS/45/0 | Diğer/15/1",
   "programs": [
    "MET_LS",
    "UCK_LS",
@@ -973,8 +973,8 @@
    "D204"
   ],
   "capacity": 65,
-  "enrolled": 48,
-  "reserved": "MET_LS/32/0 | METE_LS/18/0 | Diğer/15/48",
+  "enrolled": 45,
+  "reserved": "MET_LS/32/0 | METE_LS/18/0 | Diğer/15/45",
   "programs": [
    "MET_LS",
    "METE_LS",
@@ -1264,7 +1264,7 @@
    "D105"
   ],
   "capacity": 30,
-  "enrolled": 23,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1288,7 +1288,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "D101"
   ],
   "capacity": 20,
   "enrolled": 5,
@@ -1312,7 +1312,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 28,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1360,7 +1360,7 @@
    "BIL.LAB.1"
   ],
   "capacity": 25,
-  "enrolled": 9,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [
    "MET_LS",

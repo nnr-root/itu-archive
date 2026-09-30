@@ -524,7 +524,7 @@
    "B104"
   ],
   "capacity": 80,
-  "enrolled": 66,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -553,7 +553,7 @@
    "B103"
   ],
   "capacity": 80,
-  "enrolled": 77,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -765,7 +765,7 @@
    "B201"
   ],
   "capacity": 70,
-  "enrolled": 64,
+  "enrolled": 63,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -797,7 +797,7 @@
    "A203",
    "A202"
   ],
-  "capacity": 80,
+  "capacity": 85,
   "enrolled": 81,
   "reserved": "-",
   "programs": [
@@ -888,7 +888,7 @@
    "A104"
   ],
   "capacity": 75,
-  "enrolled": 71,
+  "enrolled": 70,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -917,7 +917,7 @@
    "B104"
   ],
   "capacity": 80,
-  "enrolled": 74,
+  "enrolled": 73,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -1010,7 +1010,7 @@
    "A303",
    "A105"
   ],
-  "capacity": 75,
+  "capacity": 76,
   "enrolled": 75,
   "reserved": "-",
   "programs": [
@@ -1074,7 +1074,7 @@
    "A104"
   ],
   "capacity": 80,
-  "enrolled": 80,
+  "enrolled": 79,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -1103,7 +1103,7 @@
    "B104"
   ],
   "capacity": 80,
-  "enrolled": 79,
+  "enrolled": 78,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -1132,7 +1132,7 @@
   "rooms": [
    "B204"
   ],
-  "capacity": 65,
+  "capacity": 67,
   "enrolled": 65,
   "reserved": "-",
   "programs": [
@@ -1161,7 +1161,7 @@
   "rooms": [
    "B203"
   ],
-  "capacity": 65,
+  "capacity": 67,
   "enrolled": 65,
   "reserved": "-",
   "programs": [
@@ -1221,7 +1221,7 @@
    "A103"
   ],
   "capacity": 30,
-  "enrolled": 17,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -1429,7 +1429,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 79,
+  "enrolled": 78,
   "reserved": "-",
   "programs": [
    "CEV_LS",

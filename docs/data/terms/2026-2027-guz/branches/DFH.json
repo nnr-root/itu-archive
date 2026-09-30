@@ -167,7 +167,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 10,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -603,7 +603,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 27,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "DUI_LS",
@@ -1043,6 +1043,35 @@
   ],
   "times": [
    "10:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 30,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "DUI_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15860",
+  "code": "DFH 494E",
+  "branch": "DFH",
+  "level": "LS",
+  "name": "Intercult.Comm.in Marit.Domain",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Seda Çınar Alabay",
+  "buildings": [
+   "DZB"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "11:30/13:29"
   ],
   "rooms": [
    "--"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-29T08:27:58Z",
+ "generatedAt": "2026-09-30T08:32:07Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -21072,6 +21072,12 @@
    "requirement": "( MAK 228 MIN. DD Veya MAK 228E MIN. DD ) Veya ( AKM 208 MIN. DD Veya AKM 208E MIN. DD ) Veya ( MAK 234 MIN. DD Veya MAK 234E MIN. DD )"
   },
   {
+   "code": "MAK 230",
+   "name": "Alg.Dev.& Comp.App.with Python",
+   "branch": "MAK",
+   "requirement": "( MAT 104 MIN. DD Veya MAT 104E MIN. DD ) Ve ( MAK 114 MIN. DD Veya MAK 114E MIN. DD ) Ve ( ( MAK 101 MIN. DD Veya MAK 101E MIN. DD ) Veya ( IML 110 MIN. DD Veya IML 110E MIN. DD ) )"
+  },
+  {
    "code": "MAK 230E",
    "name": "Alg.Dev.& Comp.App.with Python",
    "branch": "MAK",
@@ -21729,25 +21735,25 @@
    "code": "MAK 398",
    "name": "Atölye: Kavramsal Tasarım",
    "branch": "MAK",
-   "requirement": "( MAK 198E MIN. BL Veya MAK 198 MIN. BL )"
+   "requirement": "( MAK 198E MIN. BL Veya MAK 198 MIN. BL ) Ve MAK 298 MIN. BL"
   },
   {
    "code": "MAK 398E",
    "name": "Atölye: Kavramsal Tasarım",
    "branch": "MAK",
-   "requirement": "( MAK 198E MIN. BL Veya MAK 198 MIN. BL )"
+   "requirement": "( MAK 198E MIN. BL Veya MAK 198 MIN. BL ) Ve MAK 298 MIN. BL"
   },
   {
    "code": "MAK 399",
    "name": "Atölye: Prototipleme",
    "branch": "MAK",
-   "requirement": "( MAK 198E MIN. BL Veya MAK 198 MIN. BL )"
+   "requirement": "( MAK 398 MIN. BL Veya MAK 398E MIN. BL )"
   },
   {
    "code": "MAK 399E",
    "name": "Atölye: Prototipleme",
    "branch": "MAK",
-   "requirement": "( MAK 198E MIN. BL Veya MAK 198 MIN. BL )"
+   "requirement": "( MAK 398 MIN. BL Veya MAK 398E MIN. BL )"
   },
   {
    "code": "MAK 401",
@@ -27438,13 +27444,13 @@
    "code": "MYZ 302",
    "name": "Makina Mühendisliği için Yapay Zeka",
    "branch": "MYZ",
-   "requirement": "( ( MAK 104 MIN. DD Veya MAK 104E MIN. DD ) Veya MAK 230E MIN. DD Veya ( BIL 100 MIN. DD Veya BIL 100E MIN. DD ) Veya ( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 110 MIN. DD Veya BIL 110E MIN. DD ) ) Ve ( ( MAK 114 MIN. DD Veya MAK 114E MIN. DD ) Veya ( MAT 261 MIN. DD Veya MAT 261E MIN. DD ) )"
+   "requirement": "( ( MAK 104 MIN. DD Veya MAK 104E MIN. DD ) Veya ( MAK 230E MIN. DD Veya MAK 230 MIN. DD ) Veya ( BIL 100 MIN. DD Veya BIL 100E MIN. DD ) Veya ( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 110 MIN. DD Veya BIL 110E MIN. DD ) ) Ve ( ( MAK 114 MIN. DD Veya MAK 114E MIN. DD ) Veya ( MAT 261 MIN. DD Veya MAT 261E MIN. DD ) )"
   },
   {
    "code": "MYZ 302E",
    "name": "Artificial Intelligence for Mechanical Engineering",
    "branch": "MYZ",
-   "requirement": "( ( MAK 104 MIN. DD Veya MAK 104E MIN. DD ) Veya MAK 230E MIN. DD Veya ( BIL 100 MIN. DD Veya BIL 100E MIN. DD ) Veya ( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 110 MIN. DD Veya BIL 110E MIN. DD ) ) Ve ( ( MAK 114 MIN. DD Veya MAK 114E MIN. DD ) Veya ( MAT 261 MIN. DD Veya MAT 261E MIN. DD ) )"
+   "requirement": "( ( MAK 104 MIN. DD Veya MAK 104E MIN. DD ) Veya ( MAK 230E MIN. DD Veya MAK 230 MIN. DD ) Veya ( BIL 100 MIN. DD Veya BIL 100E MIN. DD ) Veya ( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 110 MIN. DD Veya BIL 110E MIN. DD ) ) Ve ( ( MAK 114 MIN. DD Veya MAK 114E MIN. DD ) Veya ( MAT 261 MIN. DD Veya MAT 261E MIN. DD ) )"
   },
   {
    "code": "MYZ 306",
@@ -62906,7 +62912,15 @@
   },
   {
    "from": "IML 110",
+   "to": "MAK 230"
+  },
+  {
+   "from": "IML 110",
    "to": "MAK 230E"
+  },
+  {
+   "from": "IML 110E",
+   "to": "MAK 230"
   },
   {
    "from": "IML 110E",
@@ -73018,6 +73032,10 @@
   },
   {
    "from": "MAK 101",
+   "to": "MAK 230"
+  },
+  {
+   "from": "MAK 101",
    "to": "MAK 230E"
   },
   {
@@ -73027,6 +73045,10 @@
   {
    "from": "MAK 101",
    "to": "MAK 317E"
+  },
+  {
+   "from": "MAK 101E",
+   "to": "MAK 230"
   },
   {
    "from": "MAK 101E",
@@ -73370,6 +73392,10 @@
   },
   {
    "from": "MAK 114",
+   "to": "MAK 230"
+  },
+  {
+   "from": "MAK 114",
    "to": "MAK 230E"
   },
   {
@@ -73446,6 +73472,10 @@
   },
   {
    "from": "MAK 114E",
+   "to": "MAK 230"
+  },
+  {
+   "from": "MAK 114E",
    "to": "MAK 230E"
   },
   {
@@ -73605,14 +73635,6 @@
    "to": "MAK 398E"
   },
   {
-   "from": "MAK 198",
-   "to": "MAK 399"
-  },
-  {
-   "from": "MAK 198",
-   "to": "MAK 399E"
-  },
-  {
    "from": "MAK 198E",
    "to": "MAK 199"
   },
@@ -73639,14 +73661,6 @@
   {
    "from": "MAK 198E",
    "to": "MAK 398E"
-  },
-  {
-   "from": "MAK 198E",
-   "to": "MAK 399"
-  },
-  {
-   "from": "MAK 198E",
-   "to": "MAK 399E"
   },
   {
    "from": "MAK 200",
@@ -75593,6 +75607,14 @@
    "to": "MAK 390E"
   },
   {
+   "from": "MAK 230",
+   "to": "MYZ 302"
+  },
+  {
+   "from": "MAK 230",
+   "to": "MYZ 302E"
+  },
+  {
    "from": "MAK 230E",
    "to": "MYZ 302"
   },
@@ -75801,6 +75823,14 @@
    "to": "MAK 335E"
   },
   {
+   "from": "MAK 298",
+   "to": "MAK 398"
+  },
+  {
+   "from": "MAK 298",
+   "to": "MAK 398E"
+  },
+  {
    "from": "MAK 301",
    "to": "MAK 302"
   },
@@ -77191,6 +77221,22 @@
   {
    "from": "MAK 351E",
    "to": "MAK 467E"
+  },
+  {
+   "from": "MAK 398",
+   "to": "MAK 399"
+  },
+  {
+   "from": "MAK 398",
+   "to": "MAK 399E"
+  },
+  {
+   "from": "MAK 398E",
+   "to": "MAK 399"
+  },
+  {
+   "from": "MAK 398E",
+   "to": "MAK 399E"
   },
   {
    "from": "MAK 432",
@@ -80043,6 +80089,10 @@
   {
    "from": "MAT 104",
    "to": "MAK 218E"
+  },
+  {
+   "from": "MAT 104",
+   "to": "MAK 230"
   },
   {
    "from": "MAT 104",
@@ -80723,6 +80773,10 @@
   {
    "from": "MAT 104E",
    "to": "MAK 218E"
+  },
+  {
+   "from": "MAT 104E",
+   "to": "MAK 230"
   },
   {
    "from": "MAT 104E",
