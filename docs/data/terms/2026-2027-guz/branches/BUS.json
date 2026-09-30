@@ -336,10 +336,10 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "B12"
+   "--"
   ],
   "capacity": 10,
-  "enrolled": 3,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "SIS_LS"
@@ -368,7 +368,7 @@
    "B03"
   ],
   "capacity": 15,
-  "enrolled": 6,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "SIS_LS"

@@ -47,7 +47,7 @@
    "--"
   ],
   "capacity": 21,
-  "enrolled": 21,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -181,8 +181,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
-  "enrolled": 20,
+  "capacity": 25,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -209,7 +209,7 @@
    "--"
   ],
   "capacity": 45,
-  "enrolled": 44,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -238,7 +238,7 @@
    "Açıklanacak"
   ],
   "capacity": 200,
-  "enrolled": 82,
+  "enrolled": 83,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -267,7 +267,7 @@
    "Açıklanacak"
   ],
   "capacity": 200,
-  "enrolled": 127,
+  "enrolled": 128,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -282,7 +282,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Tahir Soyugüzel",
   "buildings": [
-   "undeclared"
+   "MEDC"
   ],
   "days": [
    "Çarşamba"
@@ -291,10 +291,10 @@
    "14:00/16:59"
   ],
   "rooms": [
-   "--"
+   "1D3"
   ],
   "capacity": 20,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

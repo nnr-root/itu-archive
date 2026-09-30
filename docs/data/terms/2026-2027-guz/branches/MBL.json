@@ -154,8 +154,8 @@
   "rooms": [
    "BIM1"
   ],
-  "capacity": 14,
-  "enrolled": 14,
+  "capacity": 15,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -398,7 +398,7 @@
    "BIM1"
   ],
   "capacity": 20,
-  "enrolled": 17,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -446,7 +446,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

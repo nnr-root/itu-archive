@@ -78,7 +78,7 @@
    "B206"
   ],
   "capacity": 60,
-  "enrolled": 57,
+  "enrolled": 58,
   "reserved": "-",
   "programs": [
    "MAD_LS"
@@ -317,7 +317,7 @@
    "A203"
   ],
   "capacity": 35,
-  "enrolled": 18,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -408,7 +408,7 @@
    "A203"
   ],
   "capacity": 35,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -558,7 +558,7 @@
    "A203"
   ],
   "capacity": 55,
-  "enrolled": 51,
+  "enrolled": 52,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -1089,7 +1089,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 4,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

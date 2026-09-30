@@ -96,7 +96,7 @@
    "Z-18"
   ],
   "capacity": 80,
-  "enrolled": 36,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -196,7 +196,7 @@
    "Z-19"
   ],
   "capacity": 95,
-  "enrolled": 85,
+  "enrolled": 90,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -228,8 +228,8 @@
    "11:30/13:29"
   ],
   "rooms": [
-   "Z-17",
-   "Z-17"
+   "Z-18",
+   "Z-18"
   ],
   "capacity": 95,
   "enrolled": 95,
@@ -297,7 +297,7 @@
    "Z-19"
   ],
   "capacity": 80,
-  "enrolled": 77,
+  "enrolled": 79,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -330,7 +330,7 @@
    "Z-20"
   ],
   "capacity": 75,
-  "enrolled": 71,
+  "enrolled": 74,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -363,7 +363,7 @@
    "Z-16"
   ],
   "capacity": 75,
-  "enrolled": 36,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -429,8 +429,8 @@
    "Z-19"
   ],
   "capacity": 90,
-  "enrolled": 81,
-  "reserved": "ECNE_LS/10/2 | YZVE_LS/20/18 | Diğer/60/61",
+  "enrolled": 80,
+  "reserved": "ECNE_LS/10/2 | YZVE_LS/20/18 | Diğer/60/60",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -462,7 +462,7 @@
    "101"
   ],
   "capacity": 100,
-  "enrolled": 55,
+  "enrolled": 57,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -495,7 +495,7 @@
    "Z-18"
   ],
   "capacity": 80,
-  "enrolled": 45,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -505,6 +505,38 @@
    "YZVE_LS"
   ],
   "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15881",
+  "code": "BBF 102E",
+  "branch": "BBF",
+  "level": "LS",
+  "name": "Linear Algebra and Applications",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Mehmet Keskinöz",
+  "buildings": [
+   "BBB"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "08:30/11:29"
+  ],
+  "rooms": [
+   "Z-21"
+  ],
+  "capacity": 75,
+  "enrolled": 18,
+  "reserved": "-",
+  "programs": [
+   "BLG_LS",
+   "BLGE_LS",
+   "SECE_LS",
+   "YZVE_LS"
+  ],
+  "prereq": "-",
   "classReq": "-"
  }
 ]

@@ -30,7 +30,7 @@
     "2026-2027-guz",
     "Aslı Özkara",
     25,
-    25,
+    26,
     "Perşembe"
    ],
    [
@@ -79,7 +79,7 @@
     "2026-2027-guz",
     "Emine Sari Altındağ",
     25,
-    25,
+    26,
     "Cuma"
    ],
    [
@@ -100,7 +100,7 @@
     "2026-2027-guz",
     "Esra Sancak",
     25,
-    15,
+    18,
     "Pazartesi"
    ],
    [
@@ -128,7 +128,7 @@
     "2026-2027-guz",
     "Hande Yalınateş Koşar",
     25,
-    26,
+    27,
     "Çarşamba"
    ],
    [
@@ -142,7 +142,7 @@
     "2026-2027-guz",
     "Hande Yalınateş Koşar",
     25,
-    27,
+    28,
     "Perşembe"
    ],
    [
@@ -163,7 +163,7 @@
     "2026-2027-guz",
     "Kaya Nur Çalışır Gövenç",
     25,
-    23,
+    24,
     "Salı"
    ],
    [
@@ -226,7 +226,7 @@
     "2026-2027-guz",
     "Özlem Ayar Gemalmaz",
     28,
-    28,
+    29,
     "Salı"
    ],
    [
@@ -289,14 +289,14 @@
     "2026-2027-guz",
     "Sibel Dursun",
     25,
-    19,
+    20,
     "Cuma"
    ],
    [
     "2026-2027-guz",
     "Sibel Dursun",
     25,
-    15,
+    16,
     "Pazartesi"
    ],
    [
@@ -317,21 +317,21 @@
     "2026-2027-guz",
     "Meryem Simge Çengel Avcu",
     3500,
-    749,
+    759,
     "Cuma"
    ],
    [
     "2026-2027-guz",
     "Sonia Jahangirian",
     30,
-    34,
+    35,
     "Pazartesi"
    ],
    [
     "2026-2027-guz",
     "Çağla Tokyay",
     30,
-    45,
+    47,
     "Salı"
    ],
    [
@@ -354,13 +354,6 @@
     300,
     62,
     "Cuma"
-   ],
-   [
-    "2026-2027-guz",
-    "Çağla Tokyay",
-    0,
-    2,
-    "Çarşamba"
    ],
    [
     "2025-2026-yaz",
@@ -5493,7 +5486,7 @@
     "2026-2027-guz",
     "Fatma Betül Akpınar",
     25,
-    26,
+    25,
     "Perşembe"
    ],
    [
@@ -5810,7 +5803,7 @@
     "2026-2027-guz",
     "Merve Sevtap Süren",
     25,
-    9,
+    10,
     "Çarşamba"
    ]
   ]
@@ -5954,7 +5947,7 @@
     "2026-2027-guz",
     "Pelin Gökalp Yılmazer",
     25,
-    23,
+    25,
     "Pazartesi"
    ],
    [
@@ -6175,14 +6168,14 @@
     "2026-2027-guz",
     "Yasemin Yılmaz Yüksek",
     25,
-    24,
+    25,
     "Perşembe"
    ],
    [
     "2026-2027-guz",
     "Dilek Öztürk Yağcı",
     25,
-    24,
+    25,
     "Çarşamba"
    ],
    [
@@ -7040,7 +7033,7 @@
    ],
    [
     "2026-2027-guz",
-    "Mevlüt Kahraman",
+    "İsmail Akyıldız",
     40,
     28,
     "Pazartesi"
@@ -7056,7 +7049,7 @@
     "2026-2027-guz",
     "Mevlüt Kahraman",
     40,
-    30,
+    31,
     "Salı"
    ],
    [
@@ -7296,6 +7289,7 @@
   "code": "ING 106",
   "name": "English II",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -7308,6 +7302,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Mevlüt Kahraman",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Mevlüt Kahraman",
@@ -12103,7 +12104,7 @@
     "2026-2027-guz",
     "Bahar Torçuk",
     25,
-    19,
+    21,
     "Cuma"
    ],
    [
@@ -12152,14 +12153,14 @@
     "2026-2027-guz",
     "Canan Şahşenas",
     25,
-    24,
+    26,
     "Salı"
    ],
    [
     "2026-2027-guz",
     "Damla Aslı Altan",
     28,
-    20,
+    21,
     "Perşembe"
    ],
    [
@@ -12187,7 +12188,7 @@
     "2026-2027-guz",
     "Ekaterına Bal",
     25,
-    23,
+    24,
     "Pazartesi"
    ],
    [
@@ -12201,21 +12202,21 @@
     "2026-2027-guz",
     "Emine Sari Altındağ",
     25,
-    24,
+    25,
     "Salı"
    ],
    [
     "2026-2027-guz",
     "Fatma Betül Akpınar",
     25,
-    24,
+    25,
     "Çarşamba"
    ],
    [
     "2026-2027-guz",
     "Fatma Betül Akpınar",
     25,
-    24,
+    25,
     "Pazartesi"
    ],
    [
@@ -12236,7 +12237,7 @@
     "2026-2027-guz",
     "Fatma Şehkar Fayda Kınık",
     25,
-    26,
+    25,
     "Salı"
    ],
    [
@@ -12264,7 +12265,7 @@
     "2026-2027-guz",
     "Halime Ceren Göktaş",
     25,
-    14,
+    16,
     "Pazartesi"
    ],
    [
@@ -12278,7 +12279,7 @@
     "2026-2027-guz",
     "Halime Ceren Göktaş",
     28,
-    27,
+    28,
     "Perşembe"
    ],
    [
@@ -12292,7 +12293,7 @@
     "2026-2027-guz",
     "İmge Şahin Girtten",
     25,
-    24,
+    25,
     "Cuma"
    ],
    [
@@ -12334,7 +12335,7 @@
     "2026-2027-guz",
     "Özge Seçkin Polat",
     28,
-    24,
+    23,
     "Pazartesi"
    ],
    [
@@ -12348,7 +12349,7 @@
     "2026-2027-guz",
     "Özge Seçkin Polat",
     25,
-    24,
+    25,
     "Salı"
    ],
    [
@@ -12369,14 +12370,14 @@
     "2026-2027-guz",
     "Zeynep Kurular",
     28,
-    26,
+    28,
     "Pazartesi"
    ],
    [
     "2026-2027-guz",
     "Zeynep Kurular",
     25,
-    24,
+    23,
     "Perşembe"
    ],
    [
@@ -12397,7 +12398,7 @@
     "2026-2027-guz",
     "Çağrı Lord",
     30,
-    24,
+    23,
     "Perşembe"
    ],
    [
@@ -18860,7 +18861,7 @@
     "2026-2027-guz",
     "Gürcan Öztürk",
     40,
-    24,
+    25,
     "Pazartesi"
    ],
    [
@@ -25525,7 +25526,7 @@
     "2026-2027-guz",
     "Aslıhan Zengin",
     25,
-    23,
+    27,
     "Cuma"
    ],
    [
@@ -25539,7 +25540,7 @@
     "2026-2027-guz",
     "Ayşe Zeynep Yılmaz",
     26,
-    27,
+    28,
     "Pazartesi"
    ],
    [
@@ -25560,14 +25561,14 @@
     "2026-2027-guz",
     "Canan Sağbilge",
     25,
-    25,
+    26,
     "Cuma"
    ],
    [
     "2026-2027-guz",
     "Canan Sağbilge",
     25,
-    24,
+    25,
     "Çarşamba"
    ],
    [
@@ -25595,21 +25596,21 @@
     "2026-2027-guz",
     "Cemile Hergüner",
     28,
-    27,
+    28,
     "Pazartesi"
    ],
    [
     "2026-2027-guz",
     "Damla Aslı Altan",
     25,
-    19,
+    20,
     "Cuma"
    ],
    [
     "2026-2027-guz",
     "Damla Aslı Altan",
     28,
-    27,
+    28,
     "Cuma"
    ],
    [
@@ -25644,14 +25645,14 @@
     "2026-2027-guz",
     "Ekaterına Bal",
     25,
-    17,
+    18,
     "Salı"
    ],
    [
     "2026-2027-guz",
     "Ekaterına Bal",
     25,
-    20,
+    21,
     "Salı"
    ],
    [
@@ -25707,7 +25708,7 @@
     "2026-2027-guz",
     "Esbıe Van Heerden Uensal",
     25,
-    21,
+    20,
     "Perşembe"
    ],
    [
@@ -25749,7 +25750,7 @@
     "2026-2027-guz",
     "Fulya Kama Özelkan",
     25,
-    24,
+    25,
     "Salı"
    ],
    [
@@ -25770,7 +25771,7 @@
     "2026-2027-guz",
     "Gürcan Öztürk",
     25,
-    24,
+    25,
     "Salı"
    ],
    [
@@ -25868,7 +25869,7 @@
     "2026-2027-guz",
     "Mehtap İpek Kurt",
     28,
-    27,
+    28,
     "Cuma"
    ],
    [
@@ -25889,7 +25890,7 @@
     "2026-2027-guz",
     "Mehtap İpek Kurt",
     25,
-    27,
+    28,
     "Salı"
    ],
    [
@@ -25938,7 +25939,7 @@
     "2026-2027-guz",
     "Özlem Kurnaz",
     25,
-    12,
+    13,
     "Çarşamba"
    ],
    [
@@ -25959,21 +25960,21 @@
     "2026-2027-guz",
     "Özlem Kurnaz",
     25,
-    25,
+    24,
     "Salı"
    ],
    [
     "2026-2027-guz",
     "Özlem Kurnaz",
     25,
-    24,
+    25,
     "Salı"
    ],
    [
     "2026-2027-guz",
     "Sibel Dursun",
     25,
-    18,
+    17,
     "Çarşamba"
    ],
    [
@@ -26022,21 +26023,21 @@
     "2026-2027-guz",
     "Şermin Çelik Kaplan",
     28,
-    26,
+    28,
     "Pazartesi"
    ],
    [
     "2026-2027-guz",
     "Şermin Çelik Kaplan",
     26,
-    24,
+    25,
     "Pazartesi"
    ],
    [
     "2026-2027-guz",
     "Şermin Çelik Kaplan",
     25,
-    21,
+    19,
     "Perşembe"
    ],
    [
@@ -26071,7 +26072,7 @@
     "2026-2027-guz",
     "Timothy George Eastlake Davis",
     25,
-    23,
+    24,
     "Perşembe"
    ],
    [
@@ -26085,7 +26086,7 @@
     "2026-2027-guz",
     "Çağrı Lord",
     30,
-    23,
+    24,
     "Pazartesi"
    ],
    [
@@ -26106,14 +26107,14 @@
     "2026-2027-guz",
     "Çağrı Lord",
     30,
-    32,
+    33,
     "Cuma"
    ],
    [
     "2026-2027-guz",
     "Çağla Tokyay",
     30,
-    19,
+    21,
     "Cuma"
    ],
    [
@@ -31010,7 +31011,7 @@
     "2026-2027-guz",
     "İsmail Akyıldız",
     40,
-    9,
+    10,
     "Çarşamba"
    ],
    [
@@ -31278,6 +31279,7 @@
   "code": "ING 206",
   "name": "English IV",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -31291,6 +31293,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "İsmail Akyıldız",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Mevlüt Kahraman",

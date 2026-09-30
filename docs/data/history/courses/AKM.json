@@ -34,14 +34,14 @@
     "2026-2027-guz",
     "Necati Erdem Ünal",
     60,
-    60,
+    61,
     "Çarşamba"
    ],
    [
     "2026-2027-guz",
     "Hafzüllah Aksoy",
     60,
-    58,
+    60,
     "Çarşamba"
    ],
    [
@@ -580,7 +580,7 @@
     "2026-2027-guz",
     "Şehriban Şen",
     60,
-    8,
+    10,
     "Çarşamba"
    ],
    [
@@ -1212,6 +1212,7 @@
   "code": "AKM 205",
   "name": "Akışkanlar Mekaniği",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -1227,6 +1228,13 @@
    "2017-2018-guz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Şafak Nur Ertürk Bozkurtoğlu",
+    0,
+    1,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Şafak Nur Ertürk Bozkurtoğlu",

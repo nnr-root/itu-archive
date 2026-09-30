@@ -27,7 +27,7 @@
   "enrolled": 19,
   "reserved": "-",
   "programs": [
-   "ENT_LS",
+   "ENT_YD",
    "ENTE_LS",
    "EUT_LS",
    "EUTE_LS"
@@ -63,7 +63,7 @@
   "enrolled": 21,
   "reserved": "-",
   "programs": [
-   "ENT_LS",
+   "ENT_YD",
    "ENTE_LS",
    "EUT_LS",
    "EUTE_LS"
@@ -99,7 +99,7 @@
   "enrolled": 22,
   "reserved": "-",
   "programs": [
-   "ENT_LS",
+   "ENT_YD",
    "ENTE_LS",
    "EUT_LS",
    "EUTE_LS"
@@ -196,7 +196,7 @@
    "303"
   ],
   "capacity": 30,
-  "enrolled": 29,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -230,7 +230,7 @@
    "303"
   ],
   "capacity": 30,
-  "enrolled": 29,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -502,7 +502,7 @@
    "230"
   ],
   "capacity": 100,
-  "enrolled": 88,
+  "enrolled": 87,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -604,11 +604,10 @@
    "305"
   ],
   "capacity": 30,
-  "enrolled": 27,
-  "reserved": "IAD_LS/2/0 | ARC_LS/2/0 | Diğer/26/27",
+  "enrolled": 26,
+  "reserved": "IAD_LS/2/0 | ARC_LS/2/0 | Diğer/26/26",
   "programs": [
    "ARC_LS",
-   "ENT_LS",
    "ENT_YD",
    "ENTE_LS",
    "EUT_LS",
@@ -640,7 +639,7 @@
    "BIM2"
   ],
   "capacity": 30,
-  "enrolled": 25,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "ENT_YD",

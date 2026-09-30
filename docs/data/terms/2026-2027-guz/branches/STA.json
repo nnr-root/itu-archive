@@ -20,8 +20,8 @@
    "A104"
   ],
   "capacity": 70,
-  "enrolled": 65,
-  "reserved": "JEF_LS/5/5 | Diğer/65/60",
+  "enrolled": 69,
+  "reserved": "JEF_LS/5/5 | Diğer/65/64",
   "programs": [
    "CEV_LS",
    "GID_LS",
@@ -52,8 +52,8 @@
    "B103"
   ],
   "capacity": 70,
-  "enrolled": 67,
-  "reserved": "JEF_LS/5/2 | Diğer/65/65",
+  "enrolled": 68,
+  "reserved": "JEF_LS/5/3 | Diğer/65/65",
   "programs": [
    "CEV_LS",
    "CEVE_LS",
@@ -187,7 +187,7 @@
    "B104"
   ],
   "capacity": 60,
-  "enrolled": 26,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "GID_LS",

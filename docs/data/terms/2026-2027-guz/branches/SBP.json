@@ -162,7 +162,7 @@
    "119B"
   ],
   "capacity": 15,
-  "enrolled": 12,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -366,7 +366,7 @@
    "215"
   ],
   "capacity": 80,
-  "enrolled": 77,
+  "enrolled": 78,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -465,7 +465,7 @@
    "--"
   ],
   "capacity": 8,
-  "enrolled": 8,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "SBP_LS"
@@ -498,7 +498,7 @@
    "--"
   ],
   "capacity": 11,
-  "enrolled": 11,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "SBPE_LS"
@@ -564,7 +564,7 @@
    "--"
   ],
   "capacity": 11,
-  "enrolled": 10,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "SBPE_LS"
@@ -654,7 +654,7 @@
    "216"
   ],
   "capacity": 75,
-  "enrolled": 38,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "SBP_YD",
@@ -744,7 +744,7 @@
    "230"
   ],
   "capacity": 75,
-  "enrolled": 38,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1061,7 +1061,7 @@
    "--"
   ],
   "capacity": 12,
-  "enrolled": 11,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "SBPE_LS"
@@ -1094,7 +1094,7 @@
    "--"
   ],
   "capacity": 12,
-  "enrolled": 11,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "SBPE_LS"
@@ -1246,7 +1246,7 @@
    "--"
   ],
   "capacity": 14,
-  "enrolled": 12,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "SBP_LS"
@@ -1279,7 +1279,7 @@
    "--"
   ],
   "capacity": 13,
-  "enrolled": 12,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "SBP_LS"
@@ -1345,7 +1345,7 @@
    "--"
   ],
   "capacity": 14,
-  "enrolled": 12,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "SBP_LS"
@@ -1444,7 +1444,7 @@
    "--"
   ],
   "capacity": 13,
-  "enrolled": 11,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1504,7 +1504,7 @@
    "CATI1"
   ],
   "capacity": 75,
-  "enrolled": 51,
+  "enrolled": 52,
   "reserved": "-",
   "programs": [
    "SBP_YD",
@@ -1534,8 +1534,8 @@
    "216"
   ],
   "capacity": 45,
-  "enrolled": 24,
-  "reserved": "ARC_LS/2/0 | EUTE_LS/2/0 | ENTE_LS/3/0 | ICM_LS/2/0 | MIM_LS/3/2 | MIME_LS/3/0 | PEME_LS/2/0 | Diğer/28/22",
+  "enrolled": 25,
+  "reserved": "ARC_LS/2/0 | EUTE_LS/2/0 | ENTE_LS/3/0 | ICM_LS/2/0 | MIM_LS/3/2 | MIME_LS/3/0 | PEME_LS/2/0 | Diğer/28/23",
   "programs": [
    "ARC_LS",
    "ENTE_LS",
@@ -1602,7 +1602,7 @@
    "315"
   ],
   "capacity": 25,
-  "enrolled": 23,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1633,8 +1633,8 @@
    "311"
   ],
   "capacity": 45,
-  "enrolled": 33,
-  "reserved": "ARC_LS/2/0 | MIM_LS/5/1 | MIME_LS/5/3 | Diğer/33/29",
+  "enrolled": 35,
+  "reserved": "ARC_LS/2/0 | MIM_LS/5/1 | MIME_LS/5/4 | Diğer/33/30",
   "programs": [
    "ARC_LS",
    "MIM_LS",
@@ -1667,8 +1667,8 @@
    "230"
   ],
   "capacity": 65,
-  "enrolled": 56,
-  "reserved": "ARC_LS/3/1 | ENTE_LS/3/2 | MIM_LS/5/4 | MIME_LS/5/0 | Diğer/49/49",
+  "enrolled": 57,
+  "reserved": "ARC_LS/3/1 | ENTE_LS/3/3 | MIM_LS/5/4 | MIME_LS/5/0 | Diğer/49/49",
   "programs": [
    "ARC_LS",
    "ENTE_LS",
@@ -1702,8 +1702,8 @@
    "317"
   ],
   "capacity": 30,
-  "enrolled": 25,
-  "reserved": "MIM_LS/3/1 | MIME_LS/3/0 | Diğer/24/24",
+  "enrolled": 26,
+  "reserved": "MIM_LS/3/2 | MIME_LS/3/0 | Diğer/24/24",
   "programs": [
    "MIM_LS",
    "MIME_LS",
@@ -1735,8 +1735,8 @@
    "317"
   ],
   "capacity": 55,
-  "enrolled": 15,
-  "reserved": "ENTE_LS/3/2 | ICM_LS/2/0 | MIM_LS/3/0 | MIME_LS/3/0 | PEME_LS/3/3 | Diğer/41/10",
+  "enrolled": 16,
+  "reserved": "ENTE_LS/3/2 | ICM_LS/2/0 | MIM_LS/3/0 | MIME_LS/3/0 | PEME_LS/3/3 | Diğer/41/11",
   "programs": [
    "ENTE_LS",
    "ICM_LS",
@@ -1858,7 +1858,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 30,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "SBP_LS"
@@ -1956,7 +1956,7 @@
    "309"
   ],
   "capacity": 30,
-  "enrolled": 2,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -2020,7 +2020,7 @@
    "--"
   ],
   "capacity": 65,
-  "enrolled": 23,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "SBP_YD",

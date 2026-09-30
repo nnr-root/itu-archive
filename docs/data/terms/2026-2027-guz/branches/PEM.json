@@ -182,7 +182,7 @@
    "212"
   ],
   "capacity": 100,
-  "enrolled": 41,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "PEM_LS",
@@ -718,7 +718,7 @@
    "217C"
   ],
   "capacity": 35,
-  "enrolled": 24,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "PEM_LS",
@@ -1069,7 +1069,7 @@
    "311"
   ],
   "capacity": 18,
-  "enrolled": 4,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [
    "PEM_LS",
@@ -1099,7 +1099,7 @@
    "309"
   ],
   "capacity": 32,
-  "enrolled": 29,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "EUT_LS",
@@ -1259,8 +1259,8 @@
    "BIM2"
   ],
   "capacity": 25,
-  "enrolled": 6,
-  "reserved": "PEME_LS/15/5 | Diğer/10/1",
+  "enrolled": 8,
+  "reserved": "PEME_LS/15/7 | Diğer/10/1",
   "programs": [
    "ENTE_LS",
    "ICM_LS",

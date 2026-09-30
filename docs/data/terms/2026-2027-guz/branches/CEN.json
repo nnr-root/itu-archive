@@ -17,7 +17,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "104"
   ],
   "capacity": 80,
   "enrolled": 25,
@@ -46,7 +46,7 @@
    "13:30/15:29"
   ],
   "rooms": [
-   "--"
+   "Z-17"
   ],
   "capacity": 150,
   "enrolled": 25,
@@ -82,7 +82,7 @@
    "5103"
   ],
   "capacity": 80,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "CEN_LS"
@@ -108,10 +108,10 @@
    "11:30/14:29"
   ],
   "rooms": [
-   "--"
+   "Z-20"
   ],
   "capacity": 70,
-  "enrolled": 24,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "CEN_LS"
@@ -137,10 +137,10 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "Z-21"
   ],
   "capacity": 90,
-  "enrolled": 35,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [
    "CEN_LS"
@@ -169,7 +169,7 @@
    "5307"
   ],
   "capacity": 80,
-  "enrolled": 30,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "CEN_LS"
@@ -186,7 +186,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Mehmet Ali Sarıkaya",
   "buildings": [
-   "BBB"
+   "MED"
   ],
   "days": [
    "Perşembe"
@@ -195,7 +195,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "A34"
   ],
   "capacity": 75,
   "enrolled": 27,
@@ -224,7 +224,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "Z-21"
   ],
   "capacity": 80,
   "enrolled": 49,
@@ -244,7 +244,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Mehmet Ali Sarıkaya",
   "buildings": [
-   "BBB"
+   "EEB"
   ],
   "days": [
    "Perşembe"
@@ -253,7 +253,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "--"
+   "5301"
   ],
   "capacity": 40,
   "enrolled": 40,
@@ -332,7 +332,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "Z-16"
   ],
   "capacity": 40,
   "enrolled": 40,

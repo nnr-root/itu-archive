@@ -20,7 +20,7 @@
    "5102"
   ],
   "capacity": 100,
-  "enrolled": 60,
+  "enrolled": 58,
   "reserved": "-",
   "programs": [
    "EHB_LS"
@@ -49,7 +49,7 @@
    "6309"
   ],
   "capacity": 150,
-  "enrolled": 142,
+  "enrolled": 147,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -79,7 +79,7 @@
    "6309"
   ],
   "capacity": 90,
-  "enrolled": 87,
+  "enrolled": 90,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -111,7 +111,7 @@
    "5307"
   ],
   "capacity": 50,
-  "enrolled": 12,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -149,7 +149,7 @@
    "5304"
   ],
   "capacity": 95,
-  "enrolled": 93,
+  "enrolled": 95,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -182,7 +182,7 @@
    "5302"
   ],
   "capacity": 80,
-  "enrolled": 78,
+  "enrolled": 77,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -248,8 +248,8 @@
    "4104"
   ],
   "capacity": 75,
-  "enrolled": 66,
-  "reserved": "EEE_LS/5/5 | Diğer/70/61",
+  "enrolled": 67,
+  "reserved": "EEE_LS/5/5 | Diğer/70/62",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -283,8 +283,8 @@
    "2106"
   ],
   "capacity": 75,
-  "enrolled": 10,
-  "reserved": "EEE_LS/10/6 | Diğer/65/4",
+  "enrolled": 11,
+  "reserved": "EEE_LS/10/7 | Diğer/65/4",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -354,7 +354,7 @@
    "5104"
   ],
   "capacity": 80,
-  "enrolled": 79,
+  "enrolled": 80,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -392,7 +392,7 @@
    "5204"
   ],
   "capacity": 85,
-  "enrolled": 83,
+  "enrolled": 85,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -478,7 +478,7 @@
    "5202"
   ],
   "capacity": 85,
-  "enrolled": 81,
+  "enrolled": 83,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -521,7 +521,7 @@
    "A16"
   ],
   "capacity": 120,
-  "enrolled": 97,
+  "enrolled": 105,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -559,7 +559,7 @@
    "5204"
   ],
   "capacity": 0,
-  "enrolled": 23,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -626,7 +626,7 @@
    "5304"
   ],
   "capacity": 80,
-  "enrolled": 69,
+  "enrolled": 70,
   "reserved": "-",
   "programs": [
    "EHB_LS"
@@ -655,7 +655,7 @@
    "5202"
   ],
   "capacity": 80,
-  "enrolled": 80,
+  "enrolled": 81,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -686,7 +686,7 @@
    "5204"
   ],
   "capacity": 80,
-  "enrolled": 70,
+  "enrolled": 72,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -718,7 +718,7 @@
    "--"
   ],
   "capacity": 48,
-  "enrolled": 33,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -756,7 +756,7 @@
    "--"
   ],
   "capacity": 48,
-  "enrolled": 21,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -794,7 +794,7 @@
    "--"
   ],
   "capacity": 64,
-  "enrolled": 64,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -831,7 +831,7 @@
    "--"
   ],
   "capacity": 64,
-  "enrolled": 59,
+  "enrolled": 64,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -868,7 +868,7 @@
    "--"
   ],
   "capacity": 48,
-  "enrolled": 41,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -905,7 +905,7 @@
    "--"
   ],
   "capacity": 48,
-  "enrolled": 45,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -976,7 +976,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 24,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1009,7 +1009,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 30,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1174,7 +1174,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 29,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1207,8 +1207,8 @@
    "5202"
   ],
   "capacity": 110,
-  "enrolled": 110,
-  "reserved": "EEE_LS/10/10 | Diğer/100/100",
+  "enrolled": 111,
+  "reserved": "EEE_LS/10/10 | Diğer/100/101",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -1241,8 +1241,8 @@
    "5102"
   ],
   "capacity": 75,
-  "enrolled": 72,
-  "reserved": "EEE_LS/5/2 | Diğer/70/70",
+  "enrolled": 74,
+  "reserved": "EEE_LS/5/3 | Diğer/70/71",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -1274,8 +1274,8 @@
    "5304"
   ],
   "capacity": 75,
-  "enrolled": 34,
-  "reserved": "EEE_LS/5/0 | Diğer/70/34",
+  "enrolled": 36,
+  "reserved": "EEE_LS/5/0 | Diğer/70/36",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -1337,7 +1337,7 @@
    "2104"
   ],
   "capacity": 75,
-  "enrolled": 47,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [
    "EHB_LS"
@@ -1366,8 +1366,8 @@
    "2106"
   ],
   "capacity": 75,
-  "enrolled": 75,
-  "reserved": "EEE_LS/5/5 | Diğer/70/70",
+  "enrolled": 76,
+  "reserved": "EEE_LS/5/5 | Diğer/70/71",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -1397,8 +1397,8 @@
    "4102"
   ],
   "capacity": 75,
-  "enrolled": 54,
-  "reserved": "EEE_LS/15/5 | Diğer/60/49",
+  "enrolled": 56,
+  "reserved": "EEE_LS/15/5 | Diğer/60/51",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -1559,8 +1559,8 @@
    "5303"
   ],
   "capacity": 60,
-  "enrolled": 41,
-  "reserved": "EEE_LS/10/5 | Diğer/50/36",
+  "enrolled": 39,
+  "reserved": "EEE_LS/10/4 | Diğer/50/35",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -1778,8 +1778,8 @@
    "5103"
   ],
   "capacity": 50,
-  "enrolled": 21,
-  "reserved": "EEE_LS/5/1 | Diğer/45/20",
+  "enrolled": 22,
+  "reserved": "EEE_LS/5/1 | Diğer/45/21",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -1811,8 +1811,8 @@
    "5102"
   ],
   "capacity": 90,
-  "enrolled": 83,
-  "reserved": "EEE_LS/10/6 | Diğer/80/77",
+  "enrolled": 85,
+  "reserved": "EEE_LS/10/6 | Diğer/80/79",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -1844,8 +1844,8 @@
    "5203"
   ],
   "capacity": 60,
-  "enrolled": 47,
-  "reserved": "EEE_LS/10/3 | Diğer/50/44",
+  "enrolled": 45,
+  "reserved": "EEE_LS/10/3 | Diğer/50/42",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -1939,7 +1939,7 @@
    "5205"
   ],
   "capacity": 30,
-  "enrolled": 12,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -1969,7 +1969,7 @@
    "5107"
   ],
   "capacity": 75,
-  "enrolled": 47,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -1998,9 +1998,9 @@
   "rooms": [
    "6309"
   ],
-  "capacity": 95,
-  "enrolled": 94,
-  "reserved": "EEE_LS/7/7 | Diğer/88/87",
+  "capacity": 100,
+  "enrolled": 95,
+  "reserved": "EEE_LS/7/7 | Diğer/93/88",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -2098,7 +2098,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 64,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "EHB_LS"
@@ -2121,7 +2121,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 162,
+  "enrolled": 163,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -2284,7 +2284,7 @@
    "2102"
   ],
   "capacity": 70,
-  "enrolled": 60,
+  "enrolled": 58,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -2321,8 +2321,8 @@
    "2106"
   ],
   "capacity": 75,
-  "enrolled": 62,
-  "reserved": "EEE_LS/10/10 | Diğer/65/52",
+  "enrolled": 63,
+  "reserved": "EEE_LS/10/10 | Diğer/65/53",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -2351,8 +2351,8 @@
   "rooms": [
    "5202"
   ],
-  "capacity": 100,
-  "enrolled": 99,
+  "capacity": 105,
+  "enrolled": 100,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -2388,7 +2388,7 @@
    "5107"
   ],
   "capacity": 50,
-  "enrolled": 30,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -2421,7 +2421,7 @@
    "5205"
   ],
   "capacity": 60,
-  "enrolled": 20,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -2487,7 +2487,7 @@
    "Z4"
   ],
   "capacity": 50,
-  "enrolled": 19,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -2580,7 +2580,7 @@
    "Z-19"
   ],
   "capacity": 50,
-  "enrolled": 35,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -2611,7 +2611,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 5,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -2630,7 +2630,7 @@
   "level": "LS",
   "name": "Mikrodalga Mühendisliği",
   "method": "Ek Sınav",
-  "instructor": "Funda Akleman Yapar",
+  "instructor": "Mesut Kartal",
   "buildings": [],
   "days": [],
   "times": [

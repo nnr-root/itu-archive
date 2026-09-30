@@ -20,7 +20,7 @@
    "D205"
   ],
   "capacity": 35,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -174,7 +174,7 @@
    "B37"
   ],
   "capacity": 40,
-  "enrolled": 38,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -328,7 +328,7 @@
    "B303"
   ],
   "capacity": 35,
-  "enrolled": 19,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -406,7 +406,7 @@
    "210"
   ],
   "capacity": 35,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -560,7 +560,7 @@
    "103"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -946,7 +946,7 @@
    "D300"
   ],
   "capacity": 30,
-  "enrolled": 29,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1258,7 +1258,7 @@
    "B35"
   ],
   "capacity": 40,
-  "enrolled": 37,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1412,7 +1412,7 @@
    "B35"
   ],
   "capacity": 40,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1566,7 +1566,7 @@
    "D201"
   ],
   "capacity": 35,
-  "enrolled": 31,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1644,7 +1644,7 @@
    "B36"
   ],
   "capacity": 30,
-  "enrolled": 23,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1800,7 +1800,7 @@
    "175"
   ],
   "capacity": 35,
-  "enrolled": 31,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2108,7 +2108,7 @@
    "OBL1"
   ],
   "capacity": 30,
-  "enrolled": 29,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2186,7 +2186,7 @@
    "106"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2418,7 +2418,7 @@
    "D206"
   ],
   "capacity": 35,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2572,7 +2572,7 @@
    "B37"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2726,7 +2726,7 @@
    "2D14"
   ],
   "capacity": 40,
-  "enrolled": 38,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2958,7 +2958,7 @@
    "127"
   ],
   "capacity": 35,
-  "enrolled": 23,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3036,7 +3036,7 @@
    "317"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3114,7 +3114,7 @@
    "315"
   ],
   "capacity": 35,
-  "enrolled": 19,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3192,7 +3192,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3424,7 +3424,7 @@
    "2D15"
   ],
   "capacity": 35,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -3656,7 +3656,7 @@
    "D206"
   ],
   "capacity": 35,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3812,7 +3812,7 @@
    "OBL1"
   ],
   "capacity": 30,
-  "enrolled": 29,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3890,7 +3890,7 @@
    "B37"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3968,7 +3968,7 @@
    "B36"
   ],
   "capacity": 35,
-  "enrolled": 20,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -4266,7 +4266,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Elvan Gülöksüz",
   "buildings": [
-   "FEB"
+   "MED"
   ],
   "days": [
    "Perşembe"
@@ -4275,10 +4275,10 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "B35"
   ],
   "capacity": 35,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -4586,7 +4586,7 @@
    "ZD2"
   ],
   "capacity": 35,
-  "enrolled": 17,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -4740,7 +4740,7 @@
    "2D16"
   ],
   "capacity": 35,
-  "enrolled": 14,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -5048,7 +5048,7 @@
    "D203"
   ],
   "capacity": 35,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -5666,7 +5666,7 @@
    "B34"
   ],
   "capacity": 25,
-  "enrolled": 24,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -5744,7 +5744,7 @@
    "B37"
   ],
   "capacity": 35,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -5898,7 +5898,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 54,
+  "enrolled": 55,
   "reserved": "-",
   "programs": [
    "MEN_LS",
@@ -6112,7 +6112,7 @@
    "106"
   ],
   "capacity": 35,
-  "enrolled": 8,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "ADM_AT_YL",
@@ -6704,7 +6704,7 @@
    "D202"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "ADM_AT_YL",
@@ -7296,7 +7296,7 @@
    "OBL1"
   ],
   "capacity": 30,
-  "enrolled": 25,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -7426,6 +7426,27 @@
    "VBAE_LS",
    "YZVE_LS"
   ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15871",
+  "code": "ITB 206E",
+  "branch": "ITB",
+  "level": "LS",
+  "name": "Issues in World Politics",
+  "method": "Ek Sınav",
+  "instructor": "Stefo Benlisoy",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 2,
+  "reserved": "-",
+  "programs": [],
   "prereq": "-",
   "classReq": "-"
  }
