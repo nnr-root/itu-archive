@@ -1641,7 +1641,7 @@
     "2026-2027-guz",
     "Salim Sınar",
     0,
-    0,
+    1,
     ""
    ],
    [
@@ -3376,7 +3376,7 @@
     "2026-2027-guz",
     "Eyüp Uzunkaya",
     20,
-    8,
+    9,
     "Cuma, Cuma"
    ],
    [
@@ -5147,12 +5147,12 @@
     "2026-2027-guz",
     "İlknur Bektaş",
     10,
-    0,
+    1,
     "Perşembe, Perşembe"
    ],
    [
     "2026-2027-guz",
-    "Eyüp Uzunkaya",
+    "Serpil Murtezaoğlu",
     10,
     2,
     "Perşembe, Perşembe"
@@ -7599,11 +7599,19 @@
   "code": "THO 456",
   "name": "Dans Sosyolojisine Giriş",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2019-2020-bahar",
    "2018-2019-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Serpil Murtezaoğlu",
+    10,
+    0,
+    "Perşembe"
+   ],
    [
     "2025-2026-bahar",
     "Serpil Murtezaoğlu",
@@ -8180,7 +8188,7 @@
     "2026-2027-guz",
     "İlknur Bektaş",
     100,
-    1,
+    3,
     ""
    ],
    [

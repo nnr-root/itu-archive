@@ -20,7 +20,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 23,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -53,7 +53,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 46,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -86,7 +86,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 10,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -177,7 +177,7 @@
    "2D16"
   ],
   "capacity": 36,
-  "enrolled": 30,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "UCK_LS"
@@ -265,7 +265,7 @@
    "2D18"
   ],
   "capacity": 60,
-  "enrolled": 59,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -327,7 +327,7 @@
    "ZA1"
   ],
   "capacity": 100,
-  "enrolled": 67,
+  "enrolled": 69,
   "reserved": "-",
   "programs": [
    "UZB_LS",
@@ -358,7 +358,7 @@
    "ZA1"
   ],
   "capacity": 105,
-  "enrolled": 100,
+  "enrolled": 101,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -421,7 +421,7 @@
    "2D18"
   ],
   "capacity": 60,
-  "enrolled": 52,
+  "enrolled": 54,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -454,7 +454,7 @@
    "2D18"
   ],
   "capacity": 80,
-  "enrolled": 72,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -515,7 +515,7 @@
    "ZA1"
   ],
   "capacity": 40,
-  "enrolled": 18,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -546,7 +546,7 @@
    "1D6"
   ],
   "capacity": 50,
-  "enrolled": 45,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -771,7 +771,7 @@
    "1D10"
   ],
   "capacity": 50,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "UZBE_LS"

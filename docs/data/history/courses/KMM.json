@@ -147,7 +147,7 @@
     "2026-2027-guz",
     "Melek Tüter",
     100,
-    78,
+    79,
     "Çarşamba"
    ],
    [
@@ -270,7 +270,7 @@
     "2026-2027-guz",
     "Elif Öztürk Er",
     70,
-    67,
+    68,
     "Pazartesi, Pazartesi"
    ],
    [
@@ -315,7 +315,7 @@
     "2026-2027-guz",
     "Fatoş Yüksel Güvenilir",
     45,
-    42,
+    43,
     "Salı"
    ],
    [
@@ -793,7 +793,7 @@
     "2026-2027-guz",
     "Ayşegül Meriçboyu , Melek Mümine Erol Taygun , Reha Yavuz",
     80,
-    74,
+    75,
     "Perşembe, Cuma"
    ],
    [
@@ -1727,7 +1727,7 @@
     "2026-2027-guz",
     "Gülhayat Saygılı , Ömer Şahin",
     50,
-    50,
+    52,
     "Pazartesi, Perşembe"
    ],
    [
@@ -2130,7 +2130,7 @@
     "2026-2027-guz",
     "Devrim Barış Kaymak",
     50,
-    48,
+    49,
     "Pazartesi"
    ],
    [
@@ -3513,7 +3513,7 @@
     "2026-2027-guz",
     "Taylan Maraş , İlayda Nur Oksal , Ebru Kahraman , Tuğba Hayri Şenel , Yaşar Volkan Arıncı",
     40,
-    40,
+    48,
     "Salı"
    ],
    [
@@ -5328,6 +5328,7 @@
   "code": "KMM 492",
   "name": "Bitirme Çalışması",
   "terms": [
+   "2026-2027-guz",
    "2024-2025-bahar",
    "2023-2024-bahar",
    "2023-2024-guz",
@@ -5345,6 +5346,13 @@
    "2017-2018-guz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Alper Sarıoğlan",
+    6,
+    1,
+    ""
+   ],
    [
     "2024-2025-bahar",
     "-",
@@ -5663,7 +5671,7 @@
     "2026-2027-guz",
     "Devrim Barış Kaymak",
     12,
-    9,
+    10,
     "Perşembe"
    ]
   ]
@@ -5695,7 +5703,7 @@
     "2026-2027-guz",
     "Hanzade Açma",
     40,
-    15,
+    14,
     "Cuma"
    ]
   ]
@@ -5743,7 +5751,7 @@
     "2026-2027-guz",
     "Alper Sarıoğlan",
     13,
-    13,
+    12,
     "Cuma"
    ]
   ]

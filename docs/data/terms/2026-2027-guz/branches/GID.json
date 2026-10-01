@@ -20,7 +20,7 @@
    "D105"
   ],
   "capacity": 75,
-  "enrolled": 55,
+  "enrolled": 56,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -54,7 +54,7 @@
    "D303"
   ],
   "capacity": 75,
-  "enrolled": 47,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -268,7 +268,7 @@
    "G308"
   ],
   "capacity": 30,
-  "enrolled": 30,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "GID_LS"
@@ -682,7 +682,7 @@
    "D302"
   ],
   "capacity": 25,
-  "enrolled": 16,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -712,7 +712,7 @@
    "D106"
   ],
   "capacity": 26,
-  "enrolled": 22,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -771,7 +771,7 @@
    "D102"
   ],
   "capacity": 30,
-  "enrolled": 24,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -933,7 +933,7 @@
    "D202"
   ],
   "capacity": 10,
-  "enrolled": 6,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1014,7 +1014,7 @@
    "GZ101"
   ],
   "capacity": 20,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1216,7 +1216,7 @@
    "--"
   ],
   "capacity": 2,
-  "enrolled": 1,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "GID_LS"

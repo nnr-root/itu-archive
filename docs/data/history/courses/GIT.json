@@ -106,7 +106,7 @@
     "2026-2027-guz",
     "Nebiye Musaoğlu",
     20,
-    5,
+    6,
     "Perşembe"
    ]
   ]
@@ -207,6 +207,22 @@
    ]
   ]
  },
+ "GIT 598": {
+  "code": "GIT 598",
+  "name": "Proje",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Şinasi Kaya",
+    5,
+    1,
+    ""
+   ]
+  ]
+ },
  "GIT 601E": {
   "code": "GIT 601E",
   "name": "Geo-Data Policy",
@@ -218,7 +234,7 @@
     "2026-2027-guz",
     "Caner Güney",
     20,
-    2,
+    3,
     "Çarşamba"
    ]
   ]
@@ -314,7 +330,7 @@
     "2026-2027-guz",
     "Dursun Zafer Şeker",
     200,
-    12,
+    11,
     ""
    ]
   ]

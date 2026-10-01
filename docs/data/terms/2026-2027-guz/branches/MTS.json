@@ -380,7 +380,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 42,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -419,10 +419,10 @@
   "branch": "MTS",
   "level": "LU",
   "name": "Advanced Topics in Architectural Design",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "-",
+  "method": "Sanal (Çevrimiçi/Online)",
+  "instructor": "Kaveh Fattahi",
   "buildings": [
-   "MMB"
+   "Online/Çevrimiçi"
   ],
   "days": [
    "Pazartesi"
@@ -431,7 +431,7 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "319"
+   "--"
   ],
   "capacity": 10,
   "enrolled": 5,

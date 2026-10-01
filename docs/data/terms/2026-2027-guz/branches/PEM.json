@@ -1069,7 +1069,7 @@
    "311"
   ],
   "capacity": 18,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "PEM_LS",
@@ -1099,7 +1099,7 @@
    "309"
   ],
   "capacity": 32,
-  "enrolled": 31,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "EUT_LS",
@@ -1259,8 +1259,8 @@
    "BIM2"
   ],
   "capacity": 25,
-  "enrolled": 8,
-  "reserved": "PEME_LS/15/7 | Diğer/10/1",
+  "enrolled": 10,
+  "reserved": "PEME_LS/15/8 | Diğer/10/2",
   "programs": [
    "ENTE_LS",
    "ICM_LS",

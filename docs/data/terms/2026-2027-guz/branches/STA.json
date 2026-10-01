@@ -20,8 +20,8 @@
    "A104"
   ],
   "capacity": 70,
-  "enrolled": 69,
-  "reserved": "JEF_LS/5/5 | Diğer/65/64",
+  "enrolled": 70,
+  "reserved": "JEF_LS/5/5 | Diğer/65/65",
   "programs": [
    "CEV_LS",
    "GID_LS",
@@ -123,7 +123,7 @@
   "rooms": [
    "D202"
   ],
-  "capacity": 80,
+  "capacity": 50,
   "enrolled": 53,
   "reserved": "-",
   "programs": [
@@ -157,7 +157,7 @@
    "A105"
   ],
   "capacity": 61,
-  "enrolled": 60,
+  "enrolled": 61,
   "reserved": "-",
   "programs": [
    "PET_LS",

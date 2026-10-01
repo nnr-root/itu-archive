@@ -180,7 +180,7 @@
    "B204"
   ],
   "capacity": 80,
-  "enrolled": 38,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "JEF_LS",
@@ -305,7 +305,7 @@
    "A302"
   ],
   "capacity": 20,
-  "enrolled": 5,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "JEF_LS",
@@ -335,7 +335,7 @@
    "A105"
   ],
   "capacity": 20,
-  "enrolled": 6,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "JEF_LS",
@@ -395,7 +395,7 @@
    "B206"
   ],
   "capacity": 20,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "JEF_LS",
@@ -566,7 +566,7 @@
    "B206"
   ],
   "capacity": 22,
-  "enrolled": 21,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "JEF_LS",
@@ -596,7 +596,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "JEF_LS"
@@ -611,7 +611,7 @@
   "level": "LS",
   "name": "Seismic Prospecting",
   "method": "Ek Sınav",
-  "instructor": "-",
+  "instructor": "Hülya Kurt",
   "buildings": [
    "undeclared"
   ],

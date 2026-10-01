@@ -28,28 +28,28 @@
     "MTR 203",
     "Müzik Teorisi III",
     30,
-    18
+    19
    ],
    [
     "2026-2027-guz",
     "MTR 404",
     "İleri Müzik Teorisi IV",
     0,
-    0
+    1
    ],
    [
     "2026-2027-guz",
     "MTR 204",
     "Müzik Teorisi IV",
     0,
-    0
+    1
    ],
    [
     "2026-2027-guz",
     "MTR 404",
     "İleri Müzik Teorisi IV",
     25,
-    4
+    5
    ],
    [
     "2025-2026-bahar",
@@ -1108,14 +1108,14 @@
     "HUK 213",
     "İş Sağlığı ve Güvenliği Hukuku",
     100,
-    70
+    74
    ],
    [
     "2026-2027-guz",
     "HUK 213",
     "İş Sağlığı ve Güvenliği Hukuku",
     100,
-    39
+    37
    ],
    [
     "2026-2027-guz",
@@ -1129,7 +1129,7 @@
     "ISL 433",
     "İş Hukuku",
     80,
-    79
+    80
    ],
    [
     "2026-2027-guz",
@@ -1534,28 +1534,28 @@
     "BTT 518E",
     "Scie.\u0026Techn.in the Ottom.World",
     12,
-    7
+    6
    ],
    [
     "2026-2027-guz",
     "ITB 207",
     "Osmanlı Tarihi",
     30,
-    28
+    30
    ],
    [
     "2026-2027-guz",
     "ITB 207",
     "Osmanlı Tarihi",
     30,
-    31
+    30
    ],
    [
     "2026-2027-guz",
     "ITB 218",
     "Bilim ve Teknoloji Tarihi",
     30,
-    28
+    30
    ],
    [
     "2025-2026-bahar",
@@ -1804,7 +1804,7 @@
     "BLG 444E",
     "Computer Graphics",
     0,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -2770,14 +2770,14 @@
     "TEK 403E",
     "Textile Finishing Processes",
     60,
-    55
+    56
    ],
    [
     "2026-2027-guz",
     "TEK 468E",
     "Textile Finishing Auxiliaries",
     30,
-    27
+    28
    ],
    [
     "2025-2026-bahar",
@@ -3098,14 +3098,14 @@
     "ITB 214E",
     "The Modern Middle East",
     35,
-    34
+    37
    ],
    [
     "2026-2027-guz",
     "ITB 214E",
     "The Modern Middle East",
     35,
-    36
+    35
    ],
    [
     "2026-2027-guz",
@@ -3551,7 +3551,7 @@
     "MAK 210E",
     "Engineering Mathematics",
     40,
-    14
+    15
    ],
    [
     "2026-2027-guz",
@@ -3565,7 +3565,7 @@
     "MKS 501E",
     "Engineering Mathematics",
     75,
-    69
+    68
    ],
    [
     "2026-2027-guz",
@@ -4065,7 +4065,7 @@
     "GEM 327E",
     "Ship Hydrodynamics(Resistance)",
     75,
-    65
+    66
    ],
    [
     "2026-2027-guz",
@@ -4281,7 +4281,7 @@
     "MAK 206",
     "Mukavemet II",
     40,
-    24
+    25
    ],
    [
     "2026-2027-guz",
@@ -4411,7 +4411,7 @@
     "INS 323E",
     "Theory of Structures I",
     45,
-    25
+    27
    ],
    [
     "2025-2026-yaz",
@@ -4564,14 +4564,14 @@
     "JEF 367",
     "Maden Jeofiziği",
     20,
-    6
+    7
    ],
    [
     "2026-2027-guz",
     "JEF 331",
     "Elektromanyetik Prospeksiyon",
     0,
-    0
+    1
    ],
    [
     "2025-2026-bahar",
@@ -5062,28 +5062,28 @@
     "ITB 151",
     "İnsan Kaynakları Yönetimi",
     30,
-    12
-   ],
-   [
-    "2026-2027-guz",
-    "ITB 151",
-    "İnsan Kaynakları Yönetimi",
-    30,
-    29
-   ],
-   [
-    "2026-2027-guz",
-    "ITB 151",
-    "İnsan Kaynakları Yönetimi",
-    30,
-    12
-   ],
-   [
-    "2026-2027-guz",
-    "ITB 151",
-    "İnsan Kaynakları Yönetimi",
-    30,
     15
+   ],
+   [
+    "2026-2027-guz",
+    "ITB 151",
+    "İnsan Kaynakları Yönetimi",
+    30,
+    30
+   ],
+   [
+    "2026-2027-guz",
+    "ITB 151",
+    "İnsan Kaynakları Yönetimi",
+    30,
+    12
+   ],
+   [
+    "2026-2027-guz",
+    "ITB 151",
+    "İnsan Kaynakları Yönetimi",
+    30,
+    16
    ],
    [
     "2025-2026-bahar",
@@ -5537,7 +5537,7 @@
     "DNK 201E",
     "Dynamics",
     45,
-    46
+    45
    ],
    [
     "2026-2027-guz",
@@ -6017,21 +6017,21 @@
     "NUM 201E",
     "Fundamentals of Nuclear Engineering I",
     40,
-    30
+    31
    ],
    [
     "2026-2027-guz",
     "NUM 411E",
     "Nuclear Reactor Theory",
     30,
-    13
+    14
    ],
    [
     "2026-2027-guz",
     "NUM 241E",
     "Nuclear Fuel and Materials",
     30,
-    18
+    19
    ],
    [
     "2025-2026-bahar",
@@ -6055,10 +6055,17 @@
    ],
    [
     "2026-2027-guz",
-    "CAB 367",
-    "Klarnet V",
+    "CAB 267",
+    "Klarnet III",
     5,
-    3
+    2
+   ],
+   [
+    "2026-2027-guz",
+    "CAB 268",
+    "Klarnet IV",
+    5,
+    0
    ],
    [
     "2025-2026-bahar",

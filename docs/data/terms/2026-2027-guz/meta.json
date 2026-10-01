@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-10-01T08:52:52Z",
+ "scrapedAt": "2026-10-01T15:31:03Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5475,
- "courses": 3902,
+ "sections": 5481,
+ "courses": 3906,
  "branches": [
   {
    "code": "AAR",
@@ -195,7 +195,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 198
+   "sections": 200
   },
   {
    "code": "CBM",
@@ -560,7 +560,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 20
+   "sections": 21
   },
   {
    "code": "GMI",
@@ -673,7 +673,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 201
+   "sections": 202
   },
   {
    "code": "INS",
@@ -824,7 +824,7 @@
     "LS",
     "LU"
    ],
-   "sections": 49
+   "sections": 50
   },
   {
    "code": "KMP",
@@ -1499,7 +1499,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 45
+   "sections": 46
   },
   {
    "code": "TKY",
@@ -1657,11 +1657,11 @@
   }
  ],
  "stats": {
-  "sections": 5475,
-  "courses": 3902,
+  "sections": 5481,
+  "courses": 3906,
   "branches": 232,
-  "instructors": 2000,
-  "capacity": 266125,
-  "enrolled": 130582
+  "instructors": 2004,
+  "capacity": 266309,
+  "enrolled": 132499
  }
 }

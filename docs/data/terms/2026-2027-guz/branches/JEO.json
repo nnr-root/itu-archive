@@ -225,7 +225,7 @@
    "A101"
   ],
   "capacity": 100,
-  "enrolled": 97,
+  "enrolled": 96,
   "reserved": "-",
   "programs": [
    "JEF_LS",
@@ -439,7 +439,7 @@
    "B206"
   ],
   "capacity": 30,
-  "enrolled": 21,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "JEO_LS",
@@ -470,7 +470,7 @@
    "A205"
   ],
   "capacity": 30,
-  "enrolled": 11,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "JEO_LS"
@@ -617,7 +617,7 @@
    "A202"
   ],
   "capacity": 60,
-  "enrolled": 35,
+  "enrolled": 36,
   "reserved": "-",
   "programs": [
    "JEO_LS",
@@ -707,7 +707,7 @@
    "A105"
   ],
   "capacity": 30,
-  "enrolled": 19,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "JEO_LS",
@@ -1171,7 +1171,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 45,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "JEO_LS"
@@ -1315,7 +1315,7 @@
    "A203"
   ],
   "capacity": 45,
-  "enrolled": 43,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -1344,8 +1344,8 @@
   "rooms": [
    "A203"
   ],
-  "capacity": 59,
-  "enrolled": 59,
+  "capacity": 61,
+  "enrolled": 61,
   "reserved": "-",
   "programs": [
    "JEF_LS",
@@ -1377,7 +1377,7 @@
    "A102"
   ],
   "capacity": 65,
-  "enrolled": 62,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "JEF_LS",
@@ -1408,7 +1408,7 @@
    "A204"
   ],
   "capacity": 50,
-  "enrolled": 40,
+  "enrolled": 41,
   "reserved": "-",
   "programs": [
    "JEF_LS",

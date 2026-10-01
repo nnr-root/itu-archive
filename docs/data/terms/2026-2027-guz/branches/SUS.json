@@ -20,7 +20,7 @@
    "1D4"
   ],
   "capacity": 20,
-  "enrolled": 19,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -47,7 +47,7 @@
    "B36"
   ],
   "capacity": 25,
-  "enrolled": 24,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -124,8 +124,8 @@
    "B35"
   ],
   "capacity": 25,
-  "enrolled": 13,
-  "reserved": "EGC_YD/10/4 | Diğer/15/9",
+  "enrolled": 14,
+  "reserved": "EGC_YD/10/5 | Diğer/15/9",
   "programs": [
    "EGC_YD",
    "SUS_YD"

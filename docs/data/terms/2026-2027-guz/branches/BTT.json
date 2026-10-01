@@ -46,8 +46,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 12,
-  "enrolled": 12,
+  "capacity": 17,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -101,7 +101,7 @@
    "--"
   ],
   "capacity": 12,
-  "enrolled": 7,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -128,7 +128,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 13,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -169,7 +169,7 @@
    "-/-"
   ],
   "rooms": [],
-  "capacity": 5,
+  "capacity": 1,
   "enrolled": 1,
   "reserved": "-",
   "programs": [],

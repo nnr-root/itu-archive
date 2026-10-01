@@ -2677,7 +2677,7 @@
     "2026-2027-guz",
     "Cenk Öztürk",
     5,
-    1,
+    2,
     ""
    ],
    [
@@ -7531,7 +7531,7 @@
     "2026-2027-guz",
     "Devlet Devrim Öztaş",
     0,
-    0,
+    1,
     ""
    ],
    [
@@ -12163,7 +12163,7 @@
     "2026-2027-guz",
     "Sıtkı Kandemir Basmacıoğlu , Sedef Durmak",
     18,
-    16,
+    18,
     "Salı"
    ],
    [
@@ -12328,7 +12328,7 @@
     "2026-2027-guz",
     "Senka Simonovic",
     0,
-    0,
+    1,
     ""
    ],
    [
@@ -12865,7 +12865,7 @@
     "2026-2027-guz",
     "Safinaz Rizeli",
     5,
-    1,
+    2,
     "Pazartesi"
    ],
    [
@@ -12975,7 +12975,7 @@
     "2026-2027-guz",
     "Serkan Mesut Halili",
     0,
-    0,
+    1,
     ""
    ],
    [
@@ -14753,7 +14753,7 @@
   "rows": [
    [
     "2026-2027-guz",
-    "Özlem Kolat Çakmaksoy",
+    "Ünsal Çeliksu",
     5,
     2,
     "Pazartesi"
@@ -14848,6 +14848,7 @@
   "code": "CAB 268",
   "name": "Klarnet IV",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -14859,6 +14860,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Ünsal Çeliksu",
+    5,
+    0,
+    "Salı"
+   ],
    [
     "2025-2026-bahar",
     "Ünsal Çeliksu",
@@ -15496,14 +15504,14 @@
     "2026-2027-guz",
     "Devlet Devrim Öztaş",
     25,
-    19,
+    20,
     "Cuma"
    ],
    [
     "2026-2027-guz",
     "Sıtkı Kandemir Basmacıoğlu",
     15,
-    6,
+    7,
     "Perşembe"
    ],
    [
@@ -15840,7 +15848,7 @@
     "2026-2027-guz",
     "Alper Rumelioğlu",
     10,
-    3,
+    4,
     "Çarşamba"
    ],
    [
@@ -19962,7 +19970,7 @@
     "2026-2027-guz",
     "Senka Simonovic",
     15,
-    12,
+    14,
     "Perşembe"
    ],
    [
@@ -20169,7 +20177,7 @@
     "2026-2027-guz",
     "Senka Simonovic",
     0,
-    0,
+    1,
     ""
    ],
    [
@@ -21567,8 +21575,8 @@
    [
     "2026-2027-guz",
     "Hasan Hekimoğlu",
-    5,
-    2,
+    0,
+    0,
     "Salı"
    ],
    [
@@ -21577,6 +21585,13 @@
     5,
     3,
     "Salı"
+   ],
+   [
+    "2026-2027-guz",
+    "Hasan Hekimoğlu",
+    5,
+    0,
+    "Pazartesi"
    ],
    [
     "2025-2026-guz",
@@ -22294,7 +22309,7 @@
   "rows": [
    [
     "2026-2027-guz",
-    "Ünsal Çeliksu",
+    "Özlem Kolat Çakmaksoy",
     5,
     3,
     "Salı"
@@ -26084,7 +26099,7 @@
     "2026-2027-guz",
     "Alper Rumelioğlu",
     15,
-    7,
+    8,
     "Cuma"
    ],
    [

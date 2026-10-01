@@ -20,7 +20,7 @@
    "D304"
   ],
   "capacity": 100,
-  "enrolled": 78,
+  "enrolled": 79,
   "reserved": "-",
   "programs": [
    "KMM_LS"
@@ -53,7 +53,7 @@
    "D104"
   ],
   "capacity": 70,
-  "enrolled": 67,
+  "enrolled": 68,
   "reserved": "-",
   "programs": [
    "KMM_LS"
@@ -82,7 +82,7 @@
    "D301"
   ],
   "capacity": 45,
-  "enrolled": 42,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -178,7 +178,7 @@
    "D102"
   ],
   "capacity": 80,
-  "enrolled": 74,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -340,7 +340,7 @@
    "D202"
   ],
   "capacity": 50,
-  "enrolled": 50,
+  "enrolled": 52,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -400,7 +400,7 @@
    "D102"
   ],
   "capacity": 50,
-  "enrolled": 48,
+  "enrolled": 49,
   "reserved": "-",
   "programs": [
    "KMM_LS"
@@ -524,7 +524,7 @@
    "K209"
   ],
   "capacity": 40,
-  "enrolled": 40,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -1248,7 +1248,7 @@
    "D106"
   ],
   "capacity": 12,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1275,7 +1275,7 @@
    "D106"
   ],
   "capacity": 13,
-  "enrolled": 13,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1350,7 +1350,7 @@
    "D205"
   ],
   "capacity": 40,
-  "enrolled": 15,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1418,5 +1418,30 @@
   "programs": [],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "15895",
+  "code": "KMM 492",
+  "branch": "KMM",
+  "level": "LS",
+  "name": "Bitirme Çalışması",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Alper Sarıoğlan",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 6,
+  "enrolled": 1,
+  "reserved": "-",
+  "programs": [
+   "KMM_LS",
+   "KMM_LS",
+   "KMME_LS"
+  ],
+  "prereq": "-",
+  "classReq": "Detay"
  }
 ]
