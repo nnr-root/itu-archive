@@ -331,7 +331,7 @@
    "A305"
   ],
   "capacity": 60,
-  "enrolled": 54,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -359,8 +359,8 @@
   "rooms": [
    "D203"
   ],
-  "capacity": 65,
-  "enrolled": 66,
+  "capacity": 70,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -642,7 +642,7 @@
    "B203"
   ],
   "capacity": 50,
-  "enrolled": 40,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -794,8 +794,8 @@
    "13:30/15:29"
   ],
   "rooms": [
-   "A203",
-   "A202"
+   "B103",
+   "B103"
   ],
   "capacity": 85,
   "enrolled": 85,
@@ -948,7 +948,7 @@
    "A204"
   ],
   "capacity": 80,
-  "enrolled": 61,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -1011,7 +1011,7 @@
    "A105"
   ],
   "capacity": 76,
-  "enrolled": 76,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -1074,7 +1074,7 @@
    "A104"
   ],
   "capacity": 80,
-  "enrolled": 80,
+  "enrolled": 79,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -1132,8 +1132,8 @@
   "rooms": [
    "B204"
   ],
-  "capacity": 67,
-  "enrolled": 67,
+  "capacity": 70,
+  "enrolled": 66,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -1161,7 +1161,7 @@
   "rooms": [
    "B203"
   ],
-  "capacity": 67,
+  "capacity": 70,
   "enrolled": 67,
   "reserved": "-",
   "programs": [
@@ -1192,7 +1192,7 @@
    "B307"
   ],
   "capacity": 30,
-  "enrolled": 4,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -1400,7 +1400,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 71,
+  "enrolled": 70,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -1429,7 +1429,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 80,
+  "enrolled": 79,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -1530,7 +1530,7 @@
    "A101"
   ],
   "capacity": 30,
-  "enrolled": 15,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -1538,5 +1538,149 @@
   ],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "15884",
+  "code": "CEV 334E",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Solid Waste Management",
+  "method": "Ek Sınav",
+  "instructor": "Osman Atilla Arıkan",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS",
+   "CEVE_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15885",
+  "code": "CEV 302E",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Biological Processes",
+  "method": "Ek Sınav",
+  "instructor": "Rüya Taşlı",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS",
+   "CEVE_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15886",
+  "code": "CEV 308E",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Air Pollution",
+  "method": "Ek Sınav",
+  "instructor": "Burçak Kaynak Tezel",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS",
+   "CEVE_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15887",
+  "code": "CEV 330E",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Water Treatment Plant Design",
+  "method": "Ek Sınav",
+  "instructor": "Onur Işık",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS",
+   "CEVE_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15888",
+  "code": "CEV 492E",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Graduation Design Project",
+  "method": "Ek Sınav",
+  "instructor": "Mustafa Evren Erşahin",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS",
+   "CEVE_LS"
+  ],
+  "prereq": "-",
+  "classReq": "Detay"
+ },
+ {
+  "crn": "15889",
+  "code": "CEV 432E",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Environmental Economics",
+  "method": "Ek Sınav",
+  "instructor": "Onur Işık",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS",
+   "CEVE_LS"
+  ],
+  "prereq": "-",
+  "classReq": "Detay"
  }
 ]

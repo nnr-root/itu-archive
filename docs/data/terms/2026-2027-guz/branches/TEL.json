@@ -20,7 +20,7 @@
    "1303"
   ],
   "capacity": 40,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -155,7 +155,7 @@
    "5201"
   ],
   "capacity": 40,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -224,7 +224,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ender Mete Ekşioğlu",
   "buildings": [
-   "undeclared"
+   "EEB"
   ],
   "days": [
    "Perşembe"
@@ -233,7 +233,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "Z1"
   ],
   "capacity": 20,
   "enrolled": 17,
@@ -290,7 +290,7 @@
    "5306"
   ],
   "capacity": 41,
-  "enrolled": 7,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -407,7 +407,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

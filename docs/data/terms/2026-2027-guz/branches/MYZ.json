@@ -300,7 +300,7 @@
    "CATI1"
   ],
   "capacity": 20,
-  "enrolled": 20,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -361,7 +361,7 @@
    "5203"
   ],
   "capacity": 50,
-  "enrolled": 41,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -393,8 +393,8 @@
    "2104"
   ],
   "capacity": 60,
-  "enrolled": 60,
-  "reserved": "EEE_LS/5/5 | Diğer/55/55",
+  "enrolled": 59,
+  "reserved": "EEE_LS/5/5 | Diğer/55/54",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -430,8 +430,8 @@
    "2106"
   ],
   "capacity": 60,
-  "enrolled": 51,
-  "reserved": "EEE_LS/5/2 | Diğer/55/49",
+  "enrolled": 46,
+  "reserved": "EEE_LS/5/2 | Diğer/55/44",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -467,7 +467,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 13,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -527,7 +527,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 20,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "ARC_LS",

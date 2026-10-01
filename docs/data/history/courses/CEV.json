@@ -1565,7 +1565,7 @@
     "2026-2027-guz",
     "Recep Kaya , Büşra Çiçekalan",
     60,
-    54,
+    50,
     "Çarşamba"
    ],
    [
@@ -1604,8 +1604,8 @@
    [
     "2026-2027-guz",
     "Onur Yılmaz Özcan , Mehmet Sadık Akca",
+    70,
     65,
-    66,
     "Çarşamba"
    ],
    [
@@ -3005,7 +3005,7 @@
     "2026-2027-guz",
     "Öykü Mutlu Salmanlı , Ramazan Keyikoğlu",
     50,
-    40,
+    38,
     "Perşembe"
    ],
    [
@@ -3148,6 +3148,7 @@
   "code": "CEV 302E",
   "name": "Biological Processes",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-yaz",
    "2025-2026-bahar",
    "2024-2025-yaz",
@@ -3160,6 +3161,13 @@
    "2019-2020-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Rüya Taşlı",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-yaz",
     "Rüya Taşlı , / Özlem Karahan Özgün",
@@ -4014,6 +4022,7 @@
   "code": "CEV 308E",
   "name": "Air Pollution",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -4023,6 +4032,13 @@
    "2019-2020-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Burçak Kaynak Tezel",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Burçak Kaynak Tezel",
@@ -4299,7 +4315,7 @@
     "2026-2027-guz",
     "Aysu Uzsayılır",
     30,
-    15,
+    13,
     "Perşembe"
    ],
    [
@@ -5023,6 +5039,7 @@
   "code": "CEV 330E",
   "name": "Water Treatment Plant Design",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -5034,6 +5051,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Onur Işık",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Mustafa Evren Erşahin , / Hale Özgün Erşahin , / Recep Kaya , / Onur Işık",
@@ -5142,11 +5166,19 @@
   "code": "CEV 334E",
   "name": "Solid Waste Management",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Osman Atilla Arıkan",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Osman Atilla Arıkan , / Bülent İnanç , / Kadriye Elif Maçin",
@@ -5364,7 +5396,7 @@
     "2026-2027-guz",
     "Ramazan Keyikoğlu , Hüseyin Erdem Görgün",
     80,
-    61,
+    60,
     "Pazartesi"
    ],
    [
@@ -5562,7 +5594,7 @@
     "2026-2027-guz",
     "İsmail Koyuncu , Hale Özgün Erşahin , Ayşe Yüksekdağ , Onur Işık",
     76,
-    76,
+    75,
     "Pazartesi, Perşembe"
    ],
    [
@@ -6051,7 +6083,7 @@
     "2026-2027-guz",
     "Burçak Kaynak Tezel , Alpaslan Ekdal , Gökşin Özyıldız",
     80,
-    80,
+    79,
     "Salı"
    ],
    [
@@ -6343,8 +6375,8 @@
    [
     "2026-2027-guz",
     "Fatma Fatoş Babuna , Meltem Ağtaş",
-    67,
-    67,
+    70,
+    66,
     "Cuma"
    ],
    [
@@ -6427,7 +6459,7 @@
    [
     "2026-2027-guz",
     "Emine Çokgör",
-    67,
+    70,
     67,
     "Cuma"
    ],
@@ -6660,6 +6692,7 @@
   "code": "CEV 432E",
   "name": "Environmental Economics",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -6671,6 +6704,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Onur Işık",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Hüseyin Erdem Görgün , / Hale Özgün Erşahin",
@@ -6784,7 +6824,7 @@
     "2026-2027-guz",
     "Özlem Karahan Özgün",
     30,
-    4,
+    3,
     "Cuma"
    ],
    [
@@ -9267,7 +9307,7 @@
     "2026-2027-guz",
     "Fatma Gülen İskender",
     75,
-    71,
+    70,
     "Salı"
    ],
    [
@@ -9356,7 +9396,7 @@
     "2026-2027-guz",
     "İdil Arslan Alaton",
     80,
-    80,
+    79,
     "Çarşamba"
    ],
    [
@@ -9962,6 +10002,7 @@
   "code": "CEV 492E",
   "name": "Graduation Design Project",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2025-2026-guz",
    "2024-2025-bahar",
@@ -9981,6 +10022,13 @@
    "2017-2018-guz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Mustafa Evren Erşahin",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Mustafa Evren Erşahin",

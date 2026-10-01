@@ -8,7 +8,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Mehmet Özger",
   "buildings": [
-   "undeclared"
+   "HLB"
   ],
   "days": [
    "Salı"
@@ -35,7 +35,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "İsmail Dabanlı",
   "buildings": [
-   "undeclared"
+   "HLB"
   ],
   "days": [
    "Çarşamba"
@@ -62,7 +62,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Necati Erdem Ünal",
   "buildings": [
-   "undeclared"
+   "HLB"
   ],
   "days": [
    "Perşembe"
@@ -89,7 +89,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Mehmet Melih Koşucu",
   "buildings": [
-   "undeclared"
+   "HLB"
   ],
   "days": [
    "Perşembe"
@@ -116,7 +116,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Hafzüllah Aksoy",
   "buildings": [
-   "undeclared"
+   "HLB"
   ],
   "days": [
    "Pazartesi"
@@ -143,7 +143,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Abdüsselam Altunkaynak",
   "buildings": [
-   "undeclared"
+   "HLB"
   ],
   "days": [
    "Perşembe"
@@ -170,7 +170,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Hafzüllah Aksoy",
   "buildings": [
-   "undeclared"
+   "HLB"
   ],
   "days": [
    "Pazartesi"
@@ -197,7 +197,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Şevket Çokgör",
   "buildings": [
-   "undeclared"
+   "HLB"
   ],
   "days": [
    "Perşembe"
@@ -224,7 +224,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Erdal Kesgin",
   "buildings": [
-   "undeclared"
+   "HLB"
   ],
   "days": [
    "Salı"
@@ -251,7 +251,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Mehmet Cüneyd Demirel",
   "buildings": [
-   "undeclared"
+   "HLB"
   ],
   "days": [
    "Perşembe"
@@ -278,7 +278,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Yavuz Selim Güçlü",
   "buildings": [
-   "undeclared"
+   "HLB"
   ],
   "days": [
    "Pazartesi"
@@ -311,7 +311,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

@@ -417,7 +417,7 @@
   ],
   "rooms": [
    "--",
-   "D201"
+   "D304"
   ],
   "capacity": 20,
   "enrolled": 4,
@@ -652,7 +652,7 @@
    "D101"
   ],
   "capacity": 25,
-  "enrolled": 25,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -682,7 +682,7 @@
    "D302"
   ],
   "capacity": 25,
-  "enrolled": 17,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -712,7 +712,7 @@
    "D106"
   ],
   "capacity": 26,
-  "enrolled": 26,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "GID_LS",

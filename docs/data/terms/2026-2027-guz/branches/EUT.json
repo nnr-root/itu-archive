@@ -19,8 +19,8 @@
   "rooms": [
    "131"
   ],
-  "capacity": 20,
-  "enrolled": 20,
+  "capacity": 25,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -46,7 +46,7 @@
   "rooms": [
    "131"
   ],
-  "capacity": 20,
+  "capacity": 25,
   "enrolled": 18,
   "reserved": "-",
   "programs": [],
@@ -289,7 +289,7 @@
   "rooms": [
    "302"
   ],
-  "capacity": 20,
+  "capacity": 25,
   "enrolled": 19,
   "reserved": "-",
   "programs": [],
@@ -599,7 +599,7 @@
    "230"
   ],
   "capacity": 120,
-  "enrolled": 84,
+  "enrolled": 82,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -845,7 +845,7 @@
    "217B"
   ],
   "capacity": 33,
-  "enrolled": 31,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -881,7 +881,7 @@
    "217A"
   ],
   "capacity": 33,
-  "enrolled": 33,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "ENT_LS",

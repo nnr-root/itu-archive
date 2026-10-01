@@ -113,8 +113,8 @@
    "ZA3"
   ],
   "capacity": 90,
-  "enrolled": 67,
-  "reserved": "ALG_YD/10/6 | Diğer/80/61",
+  "enrolled": 66,
+  "reserved": "ALG_YD/10/5 | Diğer/80/61",
   "programs": [
    "ALG_YD",
    "UCK_LS",
@@ -207,7 +207,7 @@
    "ZA2"
   ],
   "capacity": 90,
-  "enrolled": 60,
+  "enrolled": 59,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -299,7 +299,7 @@
    "2D14"
   ],
   "capacity": 45,
-  "enrolled": 39,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -609,14 +609,11 @@
   "rooms": [
    "2D18"
   ],
-  "capacity": 75,
+  "capacity": 85,
   "enrolled": 75,
   "reserved": "-",
   "programs": [
-   "UCK_LS",
-   "UCK_LS",
-   "UZB_LS",
-   "UZBE_LS"
+   "UCK_LS"
   ],
   "prereq": "-",
   "classReq": "Detay"
@@ -642,7 +639,7 @@
    "1D6"
   ],
   "capacity": 40,
-  "enrolled": 29,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "UCK_LS"

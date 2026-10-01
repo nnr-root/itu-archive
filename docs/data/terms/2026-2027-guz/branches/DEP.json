@@ -71,7 +71,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "ULAŞTIRM_B"
   ],
   "capacity": 30,
   "enrolled": 18,
@@ -311,7 +311,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

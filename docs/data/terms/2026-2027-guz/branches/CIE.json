@@ -133,7 +133,7 @@
   "instructor": "Ahmet Güllü",
   "buildings": [
    "INB",
-   "INB"
+   "undeclared"
   ],
   "days": [
    "Salı",
@@ -141,11 +141,11 @@
   ],
   "times": [
    "11:30/14:29",
-   "08:30/10:29"
+   "09:00/10:59"
   ],
   "rooms": [
    "B304",
-   "B304"
+   "--"
   ],
   "capacity": 30,
   "enrolled": 20,
