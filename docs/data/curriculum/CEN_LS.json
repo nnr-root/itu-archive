@@ -3,9 +3,9 @@
  "programName": "Bilgisayar Mühendisliği (İngilizce) (KKTC) Lisans",
  "faculty": "İTÜ-KKTC Eğitim-Araştırma Yerleşkeleri",
  "level": "LS",
- "planLabel": "Bilgisayar Mühendisliği Lisans Programı (%100 İngilizce) (KKTC) 2021-2022 / Güz Dönemi Sonrası",
- "totalCredits": "134,00",
- "totalEcts": "245,00",
+ "planLabel": "Bilgisayar Mühendisliği Lisans Programı (%100 İngilizce) (KKTC) 2026-2027/ Güz Dönemi Sonrası",
+ "totalCredits": "130,00",
+ "totalEcts": "240,00",
  "semesters": [
   {
    "title": "1. Yarıyıl",
@@ -36,18 +36,6 @@
     },
     {
      "course": {
-      "code": "MAT 281E",
-      "name": "Linear Algebra and Applicat.",
-      "language": "English",
-      "required": "Z",
-      "credits": 3,
-      "ects": 4,
-      "theory": 3,
-      "type": "TB"
-     }
-    },
-    {
-     "course": {
       "code": "CEN 101E",
       "name": "Intr. to Information Systems",
       "language": "English",
@@ -56,6 +44,19 @@
       "ects": 5,
       "theory": 1,
       "tutorial": 2,
+      "type": "TM"
+     }
+    },
+    {
+     "course": {
+      "code": "CEN 115E",
+      "name": "Intr.toComp.Eng.and Ethics",
+      "language": "English",
+      "required": "Z",
+      "credits": 1.5,
+      "ects": 5,
+      "theory": 1,
+      "tutorial": 1,
       "type": "TM"
      }
     },
@@ -74,6 +75,18 @@
     },
     {
      "course": {
+      "code": "CEN 104E",
+      "name": "Linear Algebra and Applications",
+      "language": "English",
+      "required": "Z",
+      "credits": 3,
+      "ects": 4,
+      "theory": 3,
+      "type": "TB"
+     }
+    },
+    {
+     "course": {
       "code": "ING 100",
       "name": "EAP Through Global Goals",
       "language": "English",
@@ -82,54 +95,6 @@
       "ects": 3.5,
       "theory": 3,
       "type": "EC"
-     }
-    },
-    {
-     "course": {
-      "code": "CEN 113E",
-      "name": "Intr.toComp.Eng.and Ethics",
-      "language": "English",
-      "required": "Z",
-      "credits": 1.5,
-      "ects": 4,
-      "theory": 1,
-      "tutorial": 1,
-      "type": "TM"
-     }
-    },
-    {
-     "course": {
-      "code": "KIM 101E",
-      "name": "General Chemistry I",
-      "language": "English",
-      "required": "Z",
-      "credits": 3,
-      "ects": 4.5,
-      "theory": 3,
-      "type": "TB"
-     }
-    },
-    {
-     "course": {
-      "code": "",
-      "name": "General Chemistry I Lab",
-      "language": "English",
-      "required": "Z",
-      "credits": 1,
-      "ects": 1.5,
-      "lab": 2,
-      "type": "TB"
-     }
-    },
-    {
-     "course": {
-      "code": "TUR 121",
-      "name": "Türk Dili I",
-      "language": "Türkçe",
-      "required": "Z",
-      "ects": 2,
-      "theory": 2,
-      "type": "ITB"
      }
     }
    ]
@@ -152,18 +117,6 @@
     },
     {
      "course": {
-      "code": "CEN 112E",
-      "name": "Discrete Mathematics",
-      "language": "English",
-      "required": "Z",
-      "credits": 3,
-      "ects": 5,
-      "theory": 3,
-      "type": "TB"
-     }
-    },
-    {
-     "course": {
       "code": "CEN 102E",
       "name": "Intr to Sci&Eng Comp (C)",
       "language": "English",
@@ -177,15 +130,14 @@
     },
     {
      "course": {
-      "code": "",
-      "name": "Basics of Academic Writing",
+      "code": "CEN 103E",
+      "name": "Discrete Mathematics",
       "language": "English",
       "required": "Z",
-      "credits": 2,
-      "ects": 3.5,
-      "theory": 1,
-      "tutorial": 2,
-      "type": "EC"
+      "credits": 3,
+      "ects": 5,
+      "theory": 3,
+      "type": "TB"
      }
     },
     {
@@ -225,13 +177,15 @@
     },
     {
      "course": {
-      "code": "TUR 122",
-      "name": "Türk Dili II",
-      "language": "Türkçe",
+      "code": "",
+      "name": "Basics of Academic Writing",
+      "language": "English",
       "required": "Z",
-      "ects": 2,
-      "theory": 2,
-      "type": "ITB"
+      "credits": 2,
+      "ects": 3.5,
+      "theory": 1,
+      "tutorial": 2,
+      "type": "EC"
      }
     }
    ]
@@ -241,14 +195,27 @@
    "items": [
     {
      "course": {
-      "code": "MAT 210E",
-      "name": "Engineering Mathematics",
+      "code": "CEN 201E",
+      "name": "Probability and Statistics",
       "language": "English",
       "required": "Z",
       "credits": 4,
-      "ects": 5.5,
+      "ects": 7.5,
       "theory": 4,
       "type": "TB"
+     }
+    },
+    {
+     "course": {
+      "code": "CEN 213E",
+      "name": "Data Structures",
+      "language": "English",
+      "required": "Z",
+      "credits": 3.5,
+      "ects": 8,
+      "theory": 3,
+      "tutorial": 1,
+      "type": "MT"
      }
     },
     {
@@ -265,19 +232,6 @@
     },
     {
      "course": {
-      "code": "CEN 223E",
-      "name": "Data Structures",
-      "language": "English",
-      "required": "Z",
-      "credits": 3.5,
-      "ects": 7,
-      "theory": 3,
-      "tutorial": 1,
-      "type": "MT"
-     }
-    },
-    {
-     "course": {
       "code": "EEE 225E",
       "name": "Introduction to Electronics",
       "language": "English",
@@ -290,14 +244,12 @@
     },
     {
      "course": {
-      "code": "EEE 211E",
-      "name": "Basics of Electrical Circuits",
-      "language": "English",
+      "code": "ATA 121",
+      "name": "Atatürk İlk & İnkılap Trh I",
+      "language": "Türkçe",
       "required": "Z",
-      "credits": 3,
-      "ects": 5,
-      "theory": 3,
-      "type": "TM"
+      "ects": 2,
+      "theory": 2
      }
     },
     {
@@ -368,100 +320,71 @@
     },
     {
      "course": {
-      "code": "CEN 311E",
+      "code": "CEN 204E",
       "name": "Formal Languages and Automata",
       "language": "English",
       "required": "Z",
       "credits": 3,
-      "ects": 5,
+      "ects": 6,
       "theory": 3,
       "type": "TB"
      }
     },
     {
+     "course": {
+      "code": "TUR 121",
+      "name": "Türk Dili I",
+      "language": "Türkçe",
+      "required": "Z",
+      "ects": 2,
+      "theory": 2
+     }
+    },
+    {
      "elective": {
-      "title": "4th Sems. Elect. Course(ITB)",
-      "groupId": "8713",
+      "title": "TM Elective I",
+      "groupId": "13722",
       "credits": "3",
       "ects": [
-       4
+       4,
+       5
       ],
       "options": [
        {
-        "code": "BLG 346E",
-        "name": "Basics of Visual Composition"
+        "code": "BLG 337E",
+        "name": "Principles of Computer Comm."
        },
        {
-        "code": "SNT 102E",
-        "name": "Photography"
+        "code": "BLG 345E",
+        "name": "Logic & Computability"
        },
        {
-        "code": "SNT 103E",
-        "name": "Drawing"
+        "code": "BLG 348E",
+        "name": "Introduction to Bioinformatics"
        },
        {
-        "code": "SNT 104E",
-        "name": "Mythology and Art"
+        "code": "BLG 368E",
+        "name": "Operations Research"
        },
        {
-        "code": "SNT 105E",
-        "name": "Film Art"
+        "code": "BLG 442E",
+        "name": "Tech.&Innov. Mng.for Inf.Tech."
        },
        {
-        "code": "SNT 106E",
-        "name": "Traditional Turkish Art&Crafts"
+        "code": "BLG 448E",
+        "name": "Project Management in Eng."
        },
        {
-        "code": "SNT 107E",
-        "name": "Ancient Civilizat.in Anatolia"
+        "code": "KON 224E",
+        "name": "Measurement&Instrumentation"
        },
        {
-        "code": "SNT 112E",
-        "name": "Theater"
+        "code": "KON 317E",
+        "name": "Control Systems"
        },
        {
-        "code": "SNT 113E",
-        "name": "Art and Interpretation"
-       },
-       {
-        "code": "SNT 114E",
-        "name": "Contemporary Art"
-       },
-       {
-        "code": "SNT 116E",
-        "name": "The Art of Communication"
-       },
-       {
-        "code": "SNT 117E",
-        "name": "Jazz Appreciation"
-       },
-       {
-        "code": "SNT 121E",
-        "name": "World Music Cultures"
-       },
-       {
-        "code": "SNT 123E",
-        "name": "Film Production"
-       },
-       {
-        "code": "SNT 211E",
-        "name": "Istanbul:Hist.,Art and Society"
-       },
-       {
-        "code": "SNT 212E",
-        "name": "Art,Culture and Society"
-       },
-       {
-        "code": "SNT 215E",
-        "name": "Balkan Musics"
-       },
-       {
-        "code": "SNT 226E",
-        "name": "Philosophy of Art"
-       },
-       {
-        "code": "SNT 227E",
-        "name": "Sound and Society"
+        "code": "MAL 201E",
+        "name": "Materials Science"
        }
       ]
      }
@@ -481,18 +404,6 @@
       "ects": 4.5,
       "theory": 3,
       "type": "MT"
-     }
-    },
-    {
-     "course": {
-      "code": "MAT 271E",
-      "name": "Probability and Statistics",
-      "language": "English",
-      "required": "Z",
-      "credits": 3,
-      "ects": 5,
-      "theory": 3,
-      "type": "TB"
      }
     },
     {
@@ -544,9 +455,99 @@
      }
     },
     {
+     "course": {
+      "code": "TUR 122",
+      "name": "Türk Dili II",
+      "language": "Türkçe",
+      "required": "Z",
+      "ects": 2,
+      "theory": 2
+     }
+    },
+    {
+     "elective": {
+      "title": "ITB Elective I",
+      "groupId": "13723",
+      "credits": "3",
+      "ects": [
+       4
+      ],
+      "options": [
+       {
+        "code": "BLG 346E",
+        "name": "Basics of Visual Composition"
+       },
+       {
+        "code": "SNT 102E",
+        "name": "Photography"
+       },
+       {
+        "code": "SNT 103E",
+        "name": "Drawing"
+       },
+       {
+        "code": "SNT 104E",
+        "name": "Mythology and Art"
+       },
+       {
+        "code": "SNT 105E",
+        "name": "Film Art"
+       },
+       {
+        "code": "SNT 106E",
+        "name": "Traditional Turkish Art&Crafts"
+       },
+       {
+        "code": "SNT 107E",
+        "name": "Ancient Civilizat.in Anatolia"
+       },
+       {
+        "code": "SNT 112E",
+        "name": "Theater"
+       },
+       {
+        "code": "SNT 113E",
+        "name": "Art and Interpretation"
+       },
+       {
+        "code": "SNT 114E",
+        "name": "Contemporary Art"
+       },
+       {
+        "code": "SNT 117E",
+        "name": "Jazz Appreciation"
+       },
+       {
+        "code": "SNT 121E",
+        "name": "World Music Cultures"
+       },
+       {
+        "code": "SNT 123E",
+        "name": "Film Production"
+       },
+       {
+        "code": "SNT 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "SNT 212E",
+        "name": "Art,Culture and Society"
+       },
+       {
+        "code": "SNT 226E",
+        "name": "Philosophy of Art"
+       },
+       {
+        "code": "SNT 227E",
+        "name": "Sound and Society"
+       }
+      ]
+     }
+    },
+    {
      "elective": {
       "title": "5th Sems. Elect. Course (TM)",
-      "groupId": "8714",
+      "groupId": "13720",
       "credits": "3",
       "ects": [
        4,
@@ -635,13 +636,14 @@
     },
     {
      "course": {
-      "code": "ATA 121",
-      "name": "Atatürk İlk & İnkılap Trh I",
-      "language": "Türkçe",
+      "code": "CEN 304E",
+      "name": "Learning From Data",
+      "language": "English",
       "required": "Z",
-      "ects": 2,
-      "theory": 2,
-      "type": "ITB"
+      "credits": 3,
+      "ects": 5,
+      "theory": 3,
+      "type": "TM"
      }
     },
     {
@@ -657,21 +659,9 @@
      }
     },
     {
-     "course": {
-      "code": "CEN 374E",
-      "name": "Tech. Communic.for Comp.Eng.",
-      "language": "English",
-      "required": "Z",
-      "credits": 1,
-      "ects": 3,
-      "tutorial": 2,
-      "type": "ITB"
-     }
-    },
-    {
      "elective": {
-      "title": "6th Sems. Elect. Course (TM)",
-      "groupId": "8715",
+      "title": "TM Elective III",
+      "groupId": "13721",
       "credits": "3",
       "ects": [
        4,
@@ -703,10 +693,6 @@
         "name": "Project Management in Eng."
        },
        {
-        "code": "BLG 454E",
-        "name": "Learning From Data"
-       },
-       {
         "code": "KON 224E",
         "name": "Measurement&Instrumentation"
        },
@@ -728,13 +714,14 @@
    "items": [
     {
      "course": {
-      "code": "ATA 122",
-      "name": "Atatürk İlk & İnkılap Trh II",
-      "language": "Türkçe",
+      "code": "CEN 417E",
+      "name": "Artificial Intelligence",
+      "language": "English",
       "required": "Z",
-      "ects": 2,
-      "theory": 2,
-      "type": "ITB"
+      "credits": 3,
+      "ects": 5,
+      "theory": 3,
+      "type": "MT"
      }
     },
     {
@@ -764,228 +751,124 @@
     },
     {
      "elective": {
-      "title": "7th Sems. Elect. Course I (MT)",
-      "groupId": "8716",
-      "credits": "2",
+      "title": "MT Elective I",
+      "groupId": "13713",
+      "credits": "3",
       "ects": [
-       4,
-       5,
-       6
+       5
       ],
       "options": [
        {
-        "code": "BLG 413E",
+        "code": "BLG 420E",
         "name": "System Programming"
        },
        {
-        "code": "BLG 430E",
+        "code": "BLG 422E",
         "name": "Computer Networks"
        },
        {
-        "code": "BLG 433E",
+        "code": "BLG 423E",
         "name": "Computer Communications"
        },
        {
-        "code": "BLG 434E",
+        "code": "BLG 424E",
         "name": "Introduction to Expert Systems"
        },
        {
-        "code": "BLG 435E",
-        "name": "Artificial Intelligence"
-       },
-       {
-        "code": "BLG 438E",
+        "code": "BLG 425E",
         "name": "Digital System Design Laboratory"
        },
        {
-        "code": "BLG 439E",
+        "code": "BLG 426E",
         "name": "Computer Project I"
        },
        {
-        "code": "BLG 440E",
+        "code": "BLG 427E",
         "name": "Computer Project II"
        },
        {
-        "code": "BLG 443E",
+        "code": "BLG 428E",
         "name": "Discrete Event Simulation"
        },
        {
-        "code": "BLG 444E",
+        "code": "BLG 429E",
         "name": "Computer Graphics"
        },
        {
-        "code": "BLG 447E",
+        "code": "BLG 461E",
         "name": "Compiler Design"
        },
        {
-        "code": "BLG 449E",
-        "name": "Prog.in Parallel&DistrubedSys."
+        "code": "BLG 462E",
+        "name": "Programming in Parallel and Distributed Systems"
        },
        {
-        "code": "BLG 450E",
+        "code": "BLG 464E",
         "name": "Real-Time Systems Software"
        },
        {
-        "code": "BLG 451E",
+        "code": "BLG 465E",
         "name": "Real-Time Systems"
        },
        {
-        "code": "BLG 452E",
+        "code": "BLG 466E",
         "name": "Microprocessor Design Laboratory"
        },
        {
-        "code": "BLG 453E",
+        "code": "BLG 467E",
         "name": "Computer Vision"
        },
        {
-        "code": "BLG 456E",
+        "code": "BLG 469E",
         "name": "Robotics"
        },
        {
-        "code": "BLG 458E",
+        "code": "BLG 470E",
         "name": "Functional Programming"
        },
        {
-        "code": "BLG 459E",
+        "code": "BLG 472E",
         "name": "Computer Security"
        },
        {
-        "code": "BLG 460E",
+        "code": "BLG 473E",
         "name": "Secure Programming"
        },
        {
-        "code": "BLG 468E",
-        "name": "Object Oriented Model.&Design"
-       },
-       {
-        "code": "BLG 475E",
-        "name": "Software Quality and Testing"
-       },
-       {
-        "code": "BLG 477E",
+        "code": "BLG 474E",
         "name": "Multimedia Computing"
        },
        {
-        "code": "BLG 478E",
+        "code": "BLG 476E",
+        "name": "Object Oriented Modeling and Design"
+       },
+       {
+        "code": "BLG 479E",
         "name": "Network Security"
+       },
+       {
+        "code": "BLG 480E",
+        "name": "Software Quality and Testing"
+       },
+       {
+        "code": "BLG 481E",
+        "name": "Al Accelerators Lab."
+       },
+       {
+        "code": "BLG 483E",
+        "name": "Artificial Intelligence Aided Computer Engineering"
+       },
+       {
+        "code": "YZV 406E",
+        "name": "Robotics"
        }
       ]
      }
     },
     {
      "elective": {
-      "title": "7th Sems. Elect. Course II (MT)",
-      "groupId": "8717",
-      "credits": "2",
-      "ects": [
-       4,
-       5,
-       6
-      ],
-      "options": [
-       {
-        "code": "BLG 413E",
-        "name": "System Programming"
-       },
-       {
-        "code": "BLG 430E",
-        "name": "Computer Networks"
-       },
-       {
-        "code": "BLG 433E",
-        "name": "Computer Communications"
-       },
-       {
-        "code": "BLG 434E",
-        "name": "Introduction to Expert Systems"
-       },
-       {
-        "code": "BLG 435E",
-        "name": "Artificial Intelligence"
-       },
-       {
-        "code": "BLG 438E",
-        "name": "Digital System Design Laboratory"
-       },
-       {
-        "code": "BLG 439E",
-        "name": "Computer Project I"
-       },
-       {
-        "code": "BLG 440E",
-        "name": "Computer Project II"
-       },
-       {
-        "code": "BLG 443E",
-        "name": "Discrete Event Simulation"
-       },
-       {
-        "code": "BLG 444E",
-        "name": "Computer Graphics"
-       },
-       {
-        "code": "BLG 447E",
-        "name": "Compiler Design"
-       },
-       {
-        "code": "BLG 449E",
-        "name": "Prog.in Parallel&DistrubedSys."
-       },
-       {
-        "code": "BLG 450E",
-        "name": "Real-Time Systems Software"
-       },
-       {
-        "code": "BLG 451E",
-        "name": "Real-Time Systems"
-       },
-       {
-        "code": "BLG 452E",
-        "name": "Microprocessor Design Laboratory"
-       },
-       {
-        "code": "BLG 453E",
-        "name": "Computer Vision"
-       },
-       {
-        "code": "BLG 456E",
-        "name": "Robotics"
-       },
-       {
-        "code": "BLG 458E",
-        "name": "Functional Programming"
-       },
-       {
-        "code": "BLG 459E",
-        "name": "Computer Security"
-       },
-       {
-        "code": "BLG 460E",
-        "name": "Secure Programming"
-       },
-       {
-        "code": "BLG 468E",
-        "name": "Object Oriented Model.&Design"
-       },
-       {
-        "code": "BLG 475E",
-        "name": "Software Quality and Testing"
-       },
-       {
-        "code": "BLG 477E",
-        "name": "Multimedia Computing"
-       },
-       {
-        "code": "BLG 478E",
-        "name": "Network Security"
-       }
-      ]
-     }
-    },
-    {
-     "elective": {
-      "title": "7th Sems. Elect. Course (ITB)",
-      "groupId": "8718",
+      "title": "ITB Elective II",
+      "groupId": "13715",
       "credits": "3",
       "ects": [
        4
@@ -1108,36 +991,12 @@
         "name": "Ticaret Hukuku"
        },
        {
-        "code": "ING 103A",
-        "name": "Creative Writing"
-       },
-       {
-        "code": "ING 103AC",
-        "name": "Urban Ecology"
-       },
-       {
-        "code": "ING 103AD",
-        "name": "Advanced English for Engineers"
-       },
-       {
-        "code": "ING 103B",
-        "name": "Business English"
-       },
-       {
-        "code": "ING 103C",
-        "name": "Great Moments in Science"
-       },
-       {
         "code": "ING 103CO",
         "name": "Profess.Communic.for Engineers"
        },
        {
         "code": "ING 103DD",
         "name": "Decoding Discourse: Language, Power, and Ideology"
-       },
-       {
-        "code": "ING 103G",
-        "name": "Business Communications"
        },
        {
         "code": "ING 103H",
@@ -1154,18 +1013,6 @@
        {
         "code": "ING 103N",
         "name": "Film Studies"
-       },
-       {
-        "code": "ING 103O",
-        "name": "Psychology"
-       },
-       {
-        "code": "ING 103P",
-        "name": "Poetry"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
        },
        {
         "code": "ING 103SC",
@@ -1244,24 +1091,12 @@
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
-       },
-       {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
         "code": "ITB 171E",
         "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
        },
        {
         "code": "ITB 202E",
@@ -1294,6 +1129,10 @@
        {
         "code": "ITB 209E",
         "name": "Türkiye in World Affairs"
+       },
+       {
+        "code": "ITB 211E",
+        "name": "Istanbul:Hist.,Art and Society"
        },
        {
         "code": "ITB 213E",
@@ -1344,6 +1183,10 @@
         "name": "Intercultural Citizenship Education"
        },
        {
+        "code": "ITB 226E",
+        "name": "Philosophy of Art"
+       },
+       {
         "code": "ITB 227E",
         "name": "Political Theory"
        },
@@ -1386,6 +1229,14 @@
        {
         "code": "JPN 202",
         "name": "Japonca IV"
+       },
+       {
+        "code": "KOR 101",
+        "name": "Korece I"
+       },
+       {
+        "code": "KOR 102",
+        "name": "Korece II"
        },
        {
         "code": "RUS 101",
@@ -1437,270 +1288,243 @@
      }
     },
     {
-     "elective": {
-      "title": "8th Sems. Elect. Course I (MT)",
-      "groupId": "8719",
-      "credits": "2",
-      "ects": [
-       4,
-       5,
-       6
-      ],
-      "options": [
-       {
-        "code": "BLG 413E",
-        "name": "System Programming"
-       },
-       {
-        "code": "BLG 430E",
-        "name": "Computer Networks"
-       },
-       {
-        "code": "BLG 433E",
-        "name": "Computer Communications"
-       },
-       {
-        "code": "BLG 434E",
-        "name": "Introduction to Expert Systems"
-       },
-       {
-        "code": "BLG 435E",
-        "name": "Artificial Intelligence"
-       },
-       {
-        "code": "BLG 438E",
-        "name": "Digital System Design Laboratory"
-       },
-       {
-        "code": "BLG 439E",
-        "name": "Computer Project I"
-       },
-       {
-        "code": "BLG 440E",
-        "name": "Computer Project II"
-       },
-       {
-        "code": "BLG 443E",
-        "name": "Discrete Event Simulation"
-       },
-       {
-        "code": "BLG 444E",
-        "name": "Computer Graphics"
-       },
-       {
-        "code": "BLG 447E",
-        "name": "Compiler Design"
-       },
-       {
-        "code": "BLG 449E",
-        "name": "Prog.in Parallel&DistrubedSys."
-       },
-       {
-        "code": "BLG 450E",
-        "name": "Real-Time Systems Software"
-       },
-       {
-        "code": "BLG 451E",
-        "name": "Real-Time Systems"
-       },
-       {
-        "code": "BLG 452E",
-        "name": "Microprocessor Design Laboratory"
-       },
-       {
-        "code": "BLG 453E",
-        "name": "Computer Vision"
-       },
-       {
-        "code": "BLG 456E",
-        "name": "Robotics"
-       },
-       {
-        "code": "BLG 458E",
-        "name": "Functional Programming"
-       },
-       {
-        "code": "BLG 459E",
-        "name": "Computer Security"
-       },
-       {
-        "code": "BLG 460E",
-        "name": "Secure Programming"
-       },
-       {
-        "code": "BLG 468E",
-        "name": "Object Oriented Model.&Design"
-       },
-       {
-        "code": "BLG 475E",
-        "name": "Software Quality and Testing"
-       },
-       {
-        "code": "BLG 477E",
-        "name": "Multimedia Computing"
-       },
-       {
-        "code": "BLG 478E",
-        "name": "Network Security"
-       }
-      ]
+     "course": {
+      "code": "ATA 122",
+      "name": "Atatürk İlk & İnkılap Trh II",
+      "language": "Türkçe",
+      "required": "Z",
+      "ects": 2,
+      "theory": 2
      }
     },
     {
      "elective": {
-      "title": "8th Sems. Elect. Course II (TM)",
-      "groupId": "8720",
+      "title": "MT Elective II",
+      "groupId": "13716",
       "credits": "3",
       "ects": [
-       4,
        5
       ],
       "options": [
        {
-        "code": "BLG 337E",
-        "name": "Principles of Computer Comm."
+        "code": "BLG 420E",
+        "name": "System Programming"
        },
        {
-        "code": "BLG 345E",
-        "name": "Logic & Computability"
+        "code": "BLG 422E",
+        "name": "Computer Networks"
        },
        {
-        "code": "BLG 348E",
-        "name": "Introduction to Bioinformatics"
+        "code": "BLG 423E",
+        "name": "Computer Communications"
        },
        {
-        "code": "BLG 368E",
-        "name": "Operations Research"
+        "code": "BLG 424E",
+        "name": "Introduction to Expert Systems"
        },
        {
-        "code": "BLG 442E",
-        "name": "Tech.&Innov. Mng.for Inf.Tech."
+        "code": "BLG 425E",
+        "name": "Digital System Design Laboratory"
        },
        {
-        "code": "BLG 448E",
-        "name": "Project Management in Eng."
+        "code": "BLG 426E",
+        "name": "Computer Project I"
        },
        {
-        "code": "BLG 454E",
-        "name": "Learning From Data"
+        "code": "BLG 427E",
+        "name": "Computer Project II"
        },
        {
-        "code": "KON 224E",
-        "name": "Measurement&Instrumentation"
+        "code": "BLG 428E",
+        "name": "Discrete Event Simulation"
        },
        {
-        "code": "KON 317E",
-        "name": "Control Systems"
+        "code": "BLG 429E",
+        "name": "Computer Graphics"
        },
        {
-        "code": "MAL 201E",
-        "name": "Materials Science"
+        "code": "BLG 461E",
+        "name": "Compiler Design"
+       },
+       {
+        "code": "BLG 462E",
+        "name": "Programming in Parallel and Distributed Systems"
+       },
+       {
+        "code": "BLG 464E",
+        "name": "Real-Time Systems Software"
+       },
+       {
+        "code": "BLG 465E",
+        "name": "Real-Time Systems"
+       },
+       {
+        "code": "BLG 466E",
+        "name": "Microprocessor Design Laboratory"
+       },
+       {
+        "code": "BLG 467E",
+        "name": "Computer Vision"
+       },
+       {
+        "code": "BLG 469E",
+        "name": "Robotics"
+       },
+       {
+        "code": "BLG 470E",
+        "name": "Functional Programming"
+       },
+       {
+        "code": "BLG 472E",
+        "name": "Computer Security"
+       },
+       {
+        "code": "BLG 473E",
+        "name": "Secure Programming"
+       },
+       {
+        "code": "BLG 474E",
+        "name": "Multimedia Computing"
+       },
+       {
+        "code": "BLG 476E",
+        "name": "Object Oriented Modeling and Design"
+       },
+       {
+        "code": "BLG 479E",
+        "name": "Network Security"
+       },
+       {
+        "code": "BLG 480E",
+        "name": "Software Quality and Testing"
+       },
+       {
+        "code": "BLG 481E",
+        "name": "Al Accelerators Lab."
+       },
+       {
+        "code": "BLG 483E",
+        "name": "Artificial Intelligence Aided Computer Engineering"
+       },
+       {
+        "code": "YZV 406E",
+        "name": "Robotics"
        }
       ]
      }
     },
     {
      "elective": {
-      "title": "8th Sems. Elect. Course III (MT)",
-      "groupId": "8721",
-      "credits": "2",
+      "title": "MT Elective III",
+      "groupId": "13718",
+      "credits": "3",
       "ects": [
-       4,
-       5,
-       6
+       5
       ],
       "options": [
        {
-        "code": "BLG 413E",
+        "code": "BLG 420E",
         "name": "System Programming"
        },
        {
-        "code": "BLG 430E",
+        "code": "BLG 422E",
         "name": "Computer Networks"
        },
        {
-        "code": "BLG 433E",
+        "code": "BLG 423E",
         "name": "Computer Communications"
        },
        {
-        "code": "BLG 434E",
+        "code": "BLG 424E",
         "name": "Introduction to Expert Systems"
        },
        {
-        "code": "BLG 435E",
-        "name": "Artificial Intelligence"
-       },
-       {
-        "code": "BLG 438E",
+        "code": "BLG 425E",
         "name": "Digital System Design Laboratory"
        },
        {
-        "code": "BLG 439E",
+        "code": "BLG 426E",
         "name": "Computer Project I"
        },
        {
-        "code": "BLG 440E",
+        "code": "BLG 427E",
         "name": "Computer Project II"
        },
        {
-        "code": "BLG 443E",
+        "code": "BLG 428E",
         "name": "Discrete Event Simulation"
        },
        {
-        "code": "BLG 444E",
+        "code": "BLG 429E",
         "name": "Computer Graphics"
        },
        {
-        "code": "BLG 447E",
+        "code": "BLG 461E",
         "name": "Compiler Design"
        },
        {
-        "code": "BLG 449E",
-        "name": "Prog.in Parallel&DistrubedSys."
+        "code": "BLG 462E",
+        "name": "Programming in Parallel and Distributed Systems"
        },
        {
-        "code": "BLG 450E",
+        "code": "BLG 464E",
         "name": "Real-Time Systems Software"
        },
        {
-        "code": "BLG 451E",
+        "code": "BLG 465E",
         "name": "Real-Time Systems"
        },
        {
-        "code": "BLG 452E",
+        "code": "BLG 466E",
         "name": "Microprocessor Design Laboratory"
        },
        {
-        "code": "BLG 453E",
+        "code": "BLG 467E",
         "name": "Computer Vision"
        },
        {
-        "code": "BLG 456E",
+        "code": "BLG 469E",
         "name": "Robotics"
        },
        {
-        "code": "BLG 458E",
+        "code": "BLG 470E",
         "name": "Functional Programming"
        },
        {
-        "code": "BLG 459E",
+        "code": "BLG 472E",
         "name": "Computer Security"
        },
        {
-        "code": "BLG 460E",
+        "code": "BLG 473E",
         "name": "Secure Programming"
        },
        {
-        "code": "BLG 468E",
-        "name": "Object Oriented Model.&Design"
+        "code": "BLG 474E",
+        "name": "Multimedia Computing"
        },
        {
-        "code": "BLG 475E",
+        "code": "BLG 476E",
+        "name": "Object Oriented Modeling and Design"
+       },
+       {
+        "code": "BLG 479E",
+        "name": "Network Security"
+       },
+       {
+        "code": "BLG 480E",
         "name": "Software Quality and Testing"
        },
        {
-        "code": "BLG 477E",
-        "name": "Multimedia Computing"
+        "code": "BLG 481E",
+        "name": "Al Accelerators Lab."
+       },
+       {
+        "code": "BLG 483E",
+        "name": "Artificial Intelligence Aided Computer Engineering"
+       },
+       {
+        "code": "YZV 406E",
+        "name": "Robotics"
        }
       ]
      }

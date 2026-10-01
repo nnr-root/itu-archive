@@ -944,6 +944,10 @@
         "name": "Türkiye ve Avrupa Birliği"
        },
        {
+        "code": "ITB 236",
+        "name": "Türk Müziği Tarihi"
+       },
+       {
         "code": "JPN 101",
         "name": "Japonca I"
        },
@@ -958,6 +962,14 @@
        {
         "code": "JPN 202",
         "name": "Japonca IV"
+       },
+       {
+        "code": "KOR 101",
+        "name": "Korece I"
+       },
+       {
+        "code": "KOR 102",
+        "name": "Korece II"
        },
        {
         "code": "RUS 101",
@@ -1349,6 +1361,14 @@
       ],
       "options": [
        {
+        "code": "END 435",
+        "name": "İş Güvenliği"
+       },
+       {
+        "code": "KIM 429",
+        "name": "Yeşil Kimya"
+       },
+       {
         "code": "KMM 413",
         "name": "Biyokatalizörler ve Karakter"
        },
@@ -1441,6 +1461,14 @@
        6
       ],
       "options": [
+       {
+        "code": "END 445E",
+        "name": "Lean Production Systems"
+       },
+       {
+        "code": "KIM 319E",
+        "name": "Cosmetic Chemistry"
+       },
        {
         "code": "KMM 413E",
         "name": "Biocatatlysts &Their Character"
@@ -1544,6 +1572,10 @@
        6
       ],
       "options": [
+       {
+        "code": "KIM 414",
+        "name": "Gıda Kimyası"
+       },
        {
         "code": "KMM 413",
         "name": "Biyokatalizörler ve Karakter"

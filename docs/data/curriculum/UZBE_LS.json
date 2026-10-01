@@ -794,6 +794,14 @@
         "name": "Japonca IV"
        },
        {
+        "code": "KOR 101",
+        "name": "Korece I"
+       },
+       {
+        "code": "KOR 102",
+        "name": "Korece II"
+       },
+       {
         "code": "RUS 101",
         "name": "Rusça I"
        },
@@ -1158,6 +1166,10 @@
        {
         "code": "MAK 434E",
         "name": "Gas Turbines"
+       },
+       {
+        "code": "MTH 414E",
+        "name": "Introduction to Launch Vehicle Design and Industrial Practice"
        },
        {
         "code": "MTO 461E",
@@ -1696,6 +1708,14 @@
         "name": "Japonca IV"
        },
        {
+        "code": "KOR 101",
+        "name": "Korece I"
+       },
+       {
+        "code": "KOR 102",
+        "name": "Korece II"
+       },
+       {
         "code": "RUS 101",
         "name": "Rusça I"
        },
@@ -1825,6 +1845,10 @@
        {
         "code": "MAK 434E",
         "name": "Gas Turbines"
+       },
+       {
+        "code": "MTH 414E",
+        "name": "Introduction to Launch Vehicle Design and Industrial Practice"
        },
        {
         "code": "MTO 461E",

@@ -595,6 +595,7 @@
       "credits": "2 / 3",
       "ects": [
        3,
+       5,
        6
       ],
       "options": [
@@ -629,6 +630,10 @@
        {
         "code": "MYZ 301E",
         "name": "Introduction to Artificial Intelligence for Engineering"
+       },
+       {
+        "code": "UZB 350E",
+        "name": "Manufacturing Processes"
        }
       ]
      }
@@ -640,6 +645,7 @@
       "credits": "2 / 3",
       "ects": [
        3,
+       5,
        6
       ],
       "options": [
@@ -674,6 +680,10 @@
        {
         "code": "MYZ 301",
         "name": "Mühendislik için Yapay Zekaya Giriş"
+       },
+       {
+        "code": "UZB 350E",
+        "name": "Manufacturing Processes"
        }
       ]
      }
@@ -1188,6 +1198,10 @@
         "name": "Türkiye ve Avrupa Birliği"
        },
        {
+        "code": "ITB 236",
+        "name": "Türk Müziği Tarihi"
+       },
+       {
         "code": "JPN 101",
         "name": "Japonca I"
        },
@@ -1202,6 +1216,14 @@
        {
         "code": "JPN 202",
         "name": "Japonca IV"
+       },
+       {
+        "code": "KOR 101",
+        "name": "Korece I"
+       },
+       {
+        "code": "KOR 102",
+        "name": "Korece II"
        },
        {
         "code": "RUS 101",
@@ -1313,6 +1335,10 @@
       ],
       "options": [
        {
+        "code": "ALG 303",
+        "name": "Algılayıcı (Sensör) Teknolojileri"
+       },
+       {
         "code": "MET 445E",
         "name": "Introduction to Density Functional Theory (DFT) and Application"
        },
@@ -1363,6 +1389,10 @@
        {
         "code": "MYZ 301",
         "name": "Mühendislik için Yapay Zekaya Giriş"
+       },
+       {
+        "code": "UZB 487E",
+        "name": "CAD/CAM"
        }
       ]
      }
@@ -1612,9 +1642,19 @@
       "credits": "2 / 3",
       "ects": [
        3,
+       4,
+       5,
        6
       ],
       "options": [
+       {
+        "code": "ALG 304",
+        "name": "İleri Fonksiyonel Malzemeler"
+       },
+       {
+        "code": "KMM 466E",
+        "name": "Boron Technology"
+       },
        {
         "code": "MET 462",
         "name": "Mtlk.Nanparik.:Üret.&Karak."

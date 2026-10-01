@@ -3,9 +3,9 @@
  "programName": "Uçak Mühendisliği Lisans",
  "faculty": "Uçak ve Uzay Bilimleri Fakültesi",
  "level": "LS",
- "planLabel": "Uçak Mühendisliği Lisans Programı 2021-2022 / Güz Dönemi Sonrası",
- "totalCredits": "131,00",
- "totalEcts": "244,00",
+ "planLabel": "Uçak Mühendisliği Lisans Programı 2026-2027/ Güz Dönemi Sonrası",
+ "totalCredits": "136,00",
+ "totalEcts": "243,00",
  "semesters": [
   {
    "title": "1. Yarıyıl",
@@ -87,6 +87,18 @@
     },
     {
      "course": {
+      "code": "UCK 103E",
+      "name": "Introduction to Aeronautical Engineering and Ethics",
+      "language": "English",
+      "required": "Z",
+      "credits": 1,
+      "ects": 1.5,
+      "theory": 1,
+      "type": "TM"
+     }
+    },
+    {
+     "course": {
       "code": "ING 100",
       "name": "EAP Through Global Goals",
       "language": "English",
@@ -141,13 +153,13 @@
     },
     {
      "course": {
-      "code": "UCK 106",
-      "name": "Uçak Müh. Giriş ve Tasarım",
+      "code": "UCK 108",
+      "name": "Uçak Mühendisliği Tasarımına Giriş",
       "language": "Türkçe",
       "required": "Z",
-      "credits": 3,
-      "ects": 6,
-      "theory": 2,
+      "credits": 2,
+      "ects": 4,
+      "theory": 1,
       "tutorial": 2,
       "type": "MT"
      }
@@ -422,9 +434,10 @@
     {
      "elective": {
       "title": "5.yy Seçime Bağlı Ders I (TM)",
-      "groupId": "9083",
+      "groupId": "13699",
       "credits": "3",
       "ects": [
+       4,
        5
       ],
       "options": [
@@ -477,6 +490,10 @@
         "name": "Boundary Layer Theory"
        },
        {
+        "code": "UZB 411E",
+        "name": "Space Environment"
+       },
+       {
         "code": "UZB 437E",
         "name": "Introduction to Robotics"
        },
@@ -490,7 +507,7 @@
     {
      "elective": {
       "title": "5.yy Seçime Bağlı Ders II (TB)",
-      "groupId": "9082",
+      "groupId": "13698",
       "credits": "3",
       "ects": [
        4,
@@ -578,7 +595,7 @@
     {
      "elective": {
       "title": "6.yy Seçime Bağlı Ders II (MT)",
-      "groupId": "9081",
+      "groupId": "13701",
       "credits": "3",
       "ects": [
        5
@@ -625,12 +642,12 @@
         "name": "Güdüm Kontrol ve Seyrüsefer"
        },
        {
-        "code": "UCK 470",
-        "name": "Jet Motor Sis.Tas.&Pratik Uyg."
-       },
-       {
         "code": "UCK 470E",
         "name": "Jet Eng.Sys.Dsg.with Prac.App."
+       },
+       {
+        "code": "UCK 470",
+        "name": "Jet Motor Sis.Tas.&Pratik Uyg."
        },
        {
         "code": "UCK 472E",
@@ -666,7 +683,7 @@
     {
      "elective": {
       "title": "6.yy Seçime Bağlı Ders II (TM)",
-      "groupId": "9080",
+      "groupId": "13700",
       "credits": "3",
       "ects": [
        5
@@ -723,6 +740,10 @@
        {
         "code": "UZB 437E",
         "name": "Introduction to Robotics"
+       },
+       {
+        "code": "UZB 441E",
+        "name": "Rocket Propulsion"
        },
        {
         "code": "UZB 487E",
@@ -787,12 +808,16 @@
     {
      "elective": {
       "title": "7.yy Seçime Bağlı Ders I (MT)",
-      "groupId": "9079",
+      "groupId": "13703",
       "credits": "3",
       "ects": [
        5
       ],
       "options": [
+       {
+        "code": "MTH 414E",
+        "name": "Introduction to Launch Vehicle Design and Industrial Practice"
+       },
        {
         "code": "UCK 328",
         "name": "Yapısal Analiz ve Tasarım"
@@ -838,12 +863,12 @@
         "name": "Güdüm Kontrol ve Seyrüsefer"
        },
        {
-        "code": "UCK 470",
-        "name": "Jet Motor Sis.Tas.&Pratik Uyg."
-       },
-       {
         "code": "UCK 470E",
         "name": "Jet Eng.Sys.Dsg.with Prac.App."
+       },
+       {
+        "code": "UCK 470",
+        "name": "Jet Motor Sis.Tas.&Pratik Uyg."
        },
        {
         "code": "UCK 472E",
@@ -879,7 +904,7 @@
     {
      "elective": {
       "title": "7.yy Seçime Bağlı Ders II (TM)",
-      "groupId": "9078",
+      "groupId": "13702",
       "credits": "3",
       "ects": [
        5
@@ -938,6 +963,10 @@
         "name": "Introduction to Robotics"
        },
        {
+        "code": "UZB 441E",
+        "name": "Rocket Propulsion"
+       },
+       {
         "code": "UZB 487E",
         "name": "CAD/CAM"
        }
@@ -989,7 +1018,7 @@
     {
      "elective": {
       "title": "8.yy Seçime Bağlı Ders I (ITB)",
-      "groupId": "9075",
+      "groupId": "13704",
       "credits": "3",
       "ects": [
        4,
@@ -1005,12 +1034,12 @@
         "name": "Economics"
        },
        {
-        "code": "END 339",
-        "name": "Proje Yönetimi"
-       },
-       {
         "code": "END 339E",
         "name": "Project Management"
+       },
+       {
+        "code": "END 339",
+        "name": "Proje Yönetimi"
        },
        {
         "code": "HUK 201",
@@ -1021,48 +1050,48 @@
         "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ISL 478",
-        "name": "Girişimcilik"
-       },
-       {
         "code": "ISL 478E",
         "name": "Entrepreneurship"
        },
        {
-        "code": "ITB 217",
-        "name": "Mühendislik Etiği"
+        "code": "ISL 478",
+        "name": "Girişimcilik"
        },
        {
         "code": "ITB 217E",
         "name": "Engineering Ethics"
        },
        {
-        "code": "UCK 425E",
-        "name": "Innovation Techniques"
+        "code": "ITB 217",
+        "name": "Mühendislik Etiği"
        },
        {
-        "code": "UCK 457E",
-        "name": "Airline Management"
+        "code": "UCK 425E",
+        "name": "Innovation Techniques"
        },
        {
         "code": "UCK 457",
         "name": "Havayolu İşletmeciliği"
        },
        {
-        "code": "UCK 465E",
-        "name": "Aerospace Medicine"
+        "code": "UCK 457E",
+        "name": "Airline Management"
        },
        {
         "code": "UCK 465",
         "name": "Havacılık ve Uzay Tıbbı"
        },
        {
-        "code": "UCK 471E",
-        "name": "Aviation Maintenance Manag."
+        "code": "UCK 465E",
+        "name": "Aerospace Medicine"
        },
        {
         "code": "UCK 471",
         "name": "Havacılıkta Bakım Yönetimi"
+       },
+       {
+        "code": "UCK 471E",
+        "name": "Aviation Maintenance Manag."
        },
        {
         "code": "UZB 426E",
@@ -1078,12 +1107,16 @@
     {
      "elective": {
       "title": "8.yy Seçime Bağlı Ders II (MT)",
-      "groupId": "9076",
+      "groupId": "13705",
       "credits": "3",
       "ects": [
        5
       ],
       "options": [
+       {
+        "code": "MTH 414E",
+        "name": "Introduction to Launch Vehicle Design and Industrial Practice"
+       },
        {
         "code": "UCK 328",
         "name": "Yapısal Analiz ve Tasarım"
@@ -1129,12 +1162,12 @@
         "name": "Güdüm Kontrol ve Seyrüsefer"
        },
        {
-        "code": "UCK 470",
-        "name": "Jet Motor Sis.Tas.&Pratik Uyg."
-       },
-       {
         "code": "UCK 470E",
         "name": "Jet Eng.Sys.Dsg.with Prac.App."
+       },
+       {
+        "code": "UCK 470",
+        "name": "Jet Motor Sis.Tas.&Pratik Uyg."
        },
        {
         "code": "UCK 472E",
@@ -1170,12 +1203,16 @@
     {
      "elective": {
       "title": "8.yy Seçime Bağlı Ders III (MT)",
-      "groupId": "9077",
+      "groupId": "13706",
       "credits": "3",
       "ects": [
        5
       ],
       "options": [
+       {
+        "code": "MTH 414E",
+        "name": "Introduction to Launch Vehicle Design and Industrial Practice"
+       },
        {
         "code": "UCK 328",
         "name": "Yapısal Analiz ve Tasarım"

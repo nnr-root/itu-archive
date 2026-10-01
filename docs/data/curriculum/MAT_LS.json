@@ -1137,6 +1137,10 @@
         "name": "Türkiye and EuropeanUnion"
        },
        {
+        "code": "ITB 236",
+        "name": "Türk Müziği Tarihi"
+       },
+       {
         "code": "JPN 101",
         "name": "Japonca I"
        },
@@ -1151,6 +1155,14 @@
        {
         "code": "JPN 202",
         "name": "Japonca IV"
+       },
+       {
+        "code": "KOR 101",
+        "name": "Korece I"
+       },
+       {
+        "code": "KOR 102",
+        "name": "Korece II"
        },
        {
         "code": "RUS 101",
@@ -1368,6 +1380,22 @@
         "name": "Number Theory"
        },
        {
+        "code": "MAT 450E",
+        "name": "Introduction to Mathematical Cryptology"
+       },
+       {
+        "code": "MAT 450",
+        "name": "Matematiksel Kriptolojiye Giriş"
+       },
+       {
+        "code": "MAT 451E",
+        "name": "Mathematical Foundations of Large Language Models"
+       },
+       {
+        "code": "MAT 451",
+        "name": "Büyük Dil Modellerinin Matematiksel Temelleri"
+       },
+       {
         "code": "MAT 453",
         "name": "Optimal Kontrol Teorisi"
        },
@@ -1432,6 +1460,10 @@
         "name": "Üretken Yapay Zeka Yardımı ile Chatbot Geliştirme Temelleri"
        },
        {
+        "code": "MTH 416",
+        "name": "Görsel Veri Analizine Giriş"
+       },
+       {
         "code": "MTT 102E",
         "name": "Advanced Linear Algebra"
        },
@@ -1442,6 +1474,10 @@
        {
         "code": "MYZ 309E",
         "name": "Artificial Intelligence in Mathematical Engineering"
+       },
+       {
+        "code": "VBA 315E",
+        "name": "Machine Learning"
        }
       ]
      }
@@ -1606,6 +1642,22 @@
         "name": "Number Theory"
        },
        {
+        "code": "MAT 450E",
+        "name": "Introduction to Mathematical Cryptology"
+       },
+       {
+        "code": "MAT 450",
+        "name": "Matematiksel Kriptolojiye Giriş"
+       },
+       {
+        "code": "MAT 451E",
+        "name": "Mathematical Foundations of Large Language Models"
+       },
+       {
+        "code": "MAT 451",
+        "name": "Büyük Dil Modellerinin Matematiksel Temelleri"
+       },
+       {
         "code": "MAT 453",
         "name": "Optimal Kontrol Teorisi"
        },
@@ -1670,6 +1722,10 @@
         "name": "Üretken Yapay Zeka Yardımı ile Chatbot Geliştirme Temelleri"
        },
        {
+        "code": "MTH 416",
+        "name": "Görsel Veri Analizine Giriş"
+       },
+       {
         "code": "MTT 102E",
         "name": "Advanced Linear Algebra"
        },
@@ -1680,6 +1736,10 @@
        {
         "code": "MYZ 309E",
         "name": "Artificial Intelligence in Mathematical Engineering"
+       },
+       {
+        "code": "VBA 315E",
+        "name": "Machine Learning"
        }
       ]
      }
@@ -1865,6 +1925,22 @@
         "name": "Sayılar Teorisi"
        },
        {
+        "code": "MAT 450E",
+        "name": "Introduction to Mathematical Cryptology"
+       },
+       {
+        "code": "MAT 450",
+        "name": "Matematiksel Kriptolojiye Giriş"
+       },
+       {
+        "code": "MAT 451E",
+        "name": "Mathematical Foundations of Large Language Models"
+       },
+       {
+        "code": "MAT 451",
+        "name": "Büyük Dil Modellerinin Matematiksel Temelleri"
+       },
+       {
         "code": "MAT 453E",
         "name": "Optimal Control Theory"
        },
@@ -1929,6 +2005,10 @@
         "name": "Üretken Yapay Zeka Yardımı ile Chatbot Geliştirme Temelleri"
        },
        {
+        "code": "MTH 416",
+        "name": "Görsel Veri Analizine Giriş"
+       },
+       {
         "code": "MTT 102E",
         "name": "Advanced Linear Algebra"
        },
@@ -1939,6 +2019,10 @@
        {
         "code": "MYZ 309E",
         "name": "Artificial Intelligence in Mathematical Engineering"
+       },
+       {
+        "code": "VBA 315E",
+        "name": "Machine Learning"
        }
       ]
      }
@@ -2103,6 +2187,22 @@
         "name": "Sayılar Teorisi"
        },
        {
+        "code": "MAT 450E",
+        "name": "Introduction to Mathematical Cryptology"
+       },
+       {
+        "code": "MAT 450",
+        "name": "Matematiksel Kriptolojiye Giriş"
+       },
+       {
+        "code": "MAT 451E",
+        "name": "Mathematical Foundations of Large Language Models"
+       },
+       {
+        "code": "MAT 451",
+        "name": "Büyük Dil Modellerinin Matematiksel Temelleri"
+       },
+       {
         "code": "MAT 453E",
         "name": "Optimal Control Theory"
        },
@@ -2167,6 +2267,10 @@
         "name": "Üretken Yapay Zeka Yardımı ile Chatbot Geliştirme Temelleri"
        },
        {
+        "code": "MTH 416",
+        "name": "Görsel Veri Analizine Giriş"
+       },
+       {
         "code": "MTT 102E",
         "name": "Advanced Linear Algebra"
        },
@@ -2177,6 +2281,10 @@
        {
         "code": "MYZ 309E",
         "name": "Artificial Intelligence in Mathematical Engineering"
+       },
+       {
+        "code": "VBA 315E",
+        "name": "Machine Learning"
        }
       ]
      }
@@ -2341,6 +2449,22 @@
         "name": "Sayılar Teorisi"
        },
        {
+        "code": "MAT 450E",
+        "name": "Introduction to Mathematical Cryptology"
+       },
+       {
+        "code": "MAT 450",
+        "name": "Matematiksel Kriptolojiye Giriş"
+       },
+       {
+        "code": "MAT 451E",
+        "name": "Mathematical Foundations of Large Language Models"
+       },
+       {
+        "code": "MAT 451",
+        "name": "Büyük Dil Modellerinin Matematiksel Temelleri"
+       },
+       {
         "code": "MAT 453E",
         "name": "Optimal Control Theory"
        },
@@ -2405,6 +2529,10 @@
         "name": "Üretken Yapay Zeka Yardımı ile Chatbot Geliştirme Temelleri"
        },
        {
+        "code": "MTH 416",
+        "name": "Görsel Veri Analizine Giriş"
+       },
+       {
         "code": "MTT 102E",
         "name": "Advanced Linear Algebra"
        },
@@ -2415,6 +2543,10 @@
        {
         "code": "MYZ 309E",
         "name": "Artificial Intelligence in Mathematical Engineering"
+       },
+       {
+        "code": "VBA 315E",
+        "name": "Machine Learning"
        }
       ]
      }
