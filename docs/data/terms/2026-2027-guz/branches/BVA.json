@@ -20,34 +20,7 @@
    "107"
   ],
   "capacity": 50,
-  "enrolled": 49,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "14027",
-  "code": "BVA 507E",
-  "branch": "BVA",
-  "level": "LU",
-  "name": "Business Analytics for Managers",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Alp Üstündağ",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 25,
-  "enrolled": 5,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -95,7 +68,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 42,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

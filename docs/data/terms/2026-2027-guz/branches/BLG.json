@@ -225,7 +225,7 @@
    "Z-23"
   ],
   "capacity": 20,
-  "enrolled": 5,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -453,8 +453,8 @@
    "102"
   ],
   "capacity": 25,
-  "enrolled": 17,
-  "reserved": "BLG_BG_DR/3/3 | BLG_BG_YL/17/11 | Diğer/5/3",
+  "enrolled": 18,
+  "reserved": "BLG_BG_DR/3/3 | BLG_BG_YL/17/11 | Diğer/5/4",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -736,7 +736,7 @@
    "A103"
   ],
   "capacity": 20,
-  "enrolled": 15,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
