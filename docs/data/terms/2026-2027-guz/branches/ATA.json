@@ -4542,7 +4542,7 @@
    "10:30/12:29"
   ],
   "rooms": [
-   "B205"
+   "--"
   ],
   "capacity": 0,
   "enrolled": 0,
@@ -4569,7 +4569,7 @@
    "14:30/16:29"
   ],
   "rooms": [
-   "B202"
+   "--"
   ],
   "capacity": 0,
   "enrolled": 0,
@@ -5672,7 +5672,7 @@
    "13:30/15:29"
   ],
   "rooms": [
-   "B205"
+   "B104"
   ],
   "capacity": 75,
   "enrolled": 73,
@@ -5801,7 +5801,7 @@
    "--"
   ],
   "capacity": 70,
-  "enrolled": 74,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [
    "AIN_LS",
