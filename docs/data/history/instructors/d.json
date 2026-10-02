@@ -103,21 +103,21 @@
     "ING 112A",
     "Basics of Academic Writing",
     28,
-    17
+    18
    ],
    [
     "2026-2027-guz",
     "ING 201A",
     "Essentials of Res.Paper Writ.",
     25,
-    20
+    18
    ],
    [
     "2026-2027-guz",
     "ING 201A",
     "Essentials of Res.Paper Writ.",
     28,
-    25
+    26
    ],
    [
     "2025-2026-bahar",
@@ -913,21 +913,21 @@
     "BEB 102",
     "Yüzme Teknikleri Becerisi Öğr.",
     12,
-    11
+    12
    ],
    [
     "2026-2027-guz",
     "BEB 102",
     "Yüzme Teknikleri Becerisi Öğr.",
     12,
-    3
+    5
    ],
    [
     "2026-2027-guz",
     "BEB 115",
     "Atletizm Temel Eğitimi",
     20,
-    8
+    9
    ],
    [
     "2026-2027-guz",
@@ -1153,14 +1153,14 @@
     "FIZ 101E",
     "Physics I",
     62,
-    55
+    56
    ],
    [
     "2026-2027-guz",
     "FIZ 101EL",
     "Physics I Laboratory",
-    27,
-    25
+    30,
+    26
    ],
    [
     "2026-2027-guz",
@@ -1669,7 +1669,7 @@
     "MAL 201",
     "Malzeme Bilimi",
     85,
-    81
+    80
    ],
    [
     "2026-2027-guz",
@@ -1974,7 +1974,7 @@
     "ENT 211E",
     "Industrial Design Studio",
     22,
-    19
+    20
    ],
    [
     "2026-2027-guz",
@@ -2684,7 +2684,7 @@
     "INS 405E",
     "Health\u0026Safety in Construction",
     45,
-    45
+    47
    ],
    [
     "2026-2027-guz",
@@ -2976,6 +2976,13 @@
  "Deniz Bayraktar Bural": {
   "name": "Deniz Bayraktar Bural",
   "rows": [
+   [
+    "2026-2027-guz",
+    "ADM YLT",
+    "Tez Çalışması",
+    200,
+    0
+   ],
    [
     "2026-2027-guz",
     "DEN 411",
@@ -4963,7 +4970,7 @@
     "MAD 319",
     "Doğal Taş Üretim Teknolojisi",
     35,
-    20
+    21
    ],
    [
     "2026-2027-guz",
@@ -5340,7 +5347,7 @@
     "ISL 374E",
     "Management Eng. Design I",
     80,
-    58
+    59
    ],
    [
     "2025-2026-bahar",
@@ -5549,14 +5556,14 @@
     "BLG 507E",
     "Distributed Systems",
     25,
-    14
+    15
    ],
    [
     "2026-2027-guz",
     "BLG 465E",
     "Real-Time Systems",
     60,
-    13
+    11
    ],
    [
     "2026-2027-guz",
@@ -5584,7 +5591,7 @@
     "BLG 465E",
     "Real-Time Systems",
     70,
-    0
+    2
    ],
    [
     "2026-2027-guz",
@@ -6031,14 +6038,14 @@
     "BBL 539E",
     "Quantum Communication",
     15,
-    10
+    9
    ],
    [
     "2026-2027-guz",
     "BBL 540E",
     "Quantum Data Structures and Algorithms",
     15,
-    9
+    10
    ],
    [
     "2026-2027-guz",
@@ -6449,14 +6456,14 @@
     "ICM 4032",
     "Mimari Üsluplar",
     15,
-    13
+    11
    ],
    [
     "2026-2027-guz",
     "ICM 4026",
     "Sanat ve Kültür Tarihi",
     15,
-    15
+    13
    ],
    [
     "2026-2027-guz",
@@ -6978,7 +6985,7 @@
     "BIO 301E",
     "Fundamentals of Biology",
     90,
-    85
+    87
    ],
    [
     "2026-2027-guz",
@@ -6992,7 +6999,7 @@
     "BIO 4901E",
     "Mol Bio \u0026 Genetics Design I",
     100,
-    59
+    60
    ],
    [
     "2026-2027-guz",
@@ -7425,7 +7432,7 @@
     "SUS 302E",
     "Climate Change: Adaptation and Mitigation",
     25,
-    14
+    16
    ]
   ],
   "terms": 1
@@ -7445,14 +7452,14 @@
     "ELK 503E",
     "Power Electronic Systems",
     60,
-    57
+    56
    ],
    [
     "2026-2027-guz",
     "ELK 331",
     "Güç Elektroniği Devreleri",
     50,
-    35
+    36
    ],
    [
     "2026-2027-guz",
@@ -8352,7 +8359,7 @@
     "BUS 324E",
     "Turkish Economy",
     15,
-    9
+    10
    ],
    [
     "2026-2027-guz",
@@ -8512,14 +8519,14 @@
     "GID 433",
     "Gıda Kalite Kontrol Lab",
     35,
-    34
+    35
    ],
    [
     "2026-2027-guz",
     "GID 433",
     "Gıda Kalite Kontrol Lab",
     35,
-    35
+    34
    ],
    [
     "2026-2027-guz",
@@ -8533,7 +8540,7 @@
     "GID 464E",
     "Enzymes in Food Production",
     25,
-    14
+    15
    ],
    [
     "2026-2027-guz",
@@ -9028,7 +9035,7 @@
     "CEV 211",
     "Çevre Kimyası I",
     30,
-    30
+    31
    ],
    [
     "2026-2027-guz",
@@ -11190,7 +11197,7 @@
     "INS 101",
     "Teknik Resim",
     40,
-    28
+    29
    ]
   ],
   "terms": 1
@@ -11341,7 +11348,7 @@
     "AFY 521",
     "Kriz Yönetimi, İyileştirme ve İş Sürekliliği",
     20,
-    4
+    5
    ],
    [
     "2026-2027-guz",
@@ -11457,7 +11464,7 @@
     "ISH 303E",
     "Food Processing Techniques",
     60,
-    6
+    7
    ]
   ],
   "terms": 1
@@ -12379,7 +12386,7 @@
     "ING 103I",
     "Short Stories",
     26,
-    25
+    26
    ],
    [
     "2025-2026-bahar",
@@ -12420,7 +12427,7 @@
     "JEF 368",
     "Jeotermal Aramalar",
     22,
-    19
+    20
    ],
    [
     "2026-2027-guz",
@@ -13046,14 +13053,14 @@
     "BHB 201E",
     "Fundamental Software of Informatics",
     40,
-    39
+    40
    ],
    [
     "2026-2027-guz",
     "BIL 100E",
     "Intr.to Prog.Language(PYTHON)",
     75,
-    78
+    77
    ],
    [
     "2025-2026-yaz",
@@ -13212,14 +13219,14 @@
     "GEO 309E",
     "Photogrammetry I",
     55,
-    52
+    54
    ],
    [
     "2026-2027-guz",
     "GEO 429E",
     "Close Range Photogrammetry",
     40,
-    39
+    40
    ],
    [
     "2026-2027-guz",
@@ -13233,7 +13240,7 @@
     "GIT 524E",
     "Environmental GIS",
     20,
-    8
+    9
    ],
    [
     "2026-2027-guz",
@@ -13568,7 +13575,7 @@
     "MBM DRT",
     "Tez Çalışması",
     200,
-    12
+    13
    ],
    [
     "2026-2027-guz",
@@ -13582,7 +13589,7 @@
     "MBM YLT",
     "Tez Çalışması",
     200,
-    19
+    18
    ],
    [
     "2026-2027-guz",
@@ -13603,7 +13610,7 @@
     "MET 475E",
     "Powder Metallurgy",
     60,
-    54
+    57
    ],
    [
     "2025-2026-bahar",
@@ -14203,7 +14210,7 @@
     "MYZ 307E",
     "Machine Learning for Electrical and Electronics Engineering",
     60,
-    47
+    46
    ],
    [
     "2025-2026-bahar",
@@ -14604,7 +14611,7 @@
     "ING 201A",
     "Essentials of Res.Paper Writ.",
     25,
-    25
+    21
    ],
    [
     "2026-2027-guz",
@@ -14618,7 +14625,7 @@
     "ING 201A",
     "Essentials of Res.Paper Writ.",
     25,
-    24
+    25
    ],
    [
     "2026-2027-guz",

@@ -81,7 +81,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -253,7 +253,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 31,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "CAB_LS",
@@ -317,7 +317,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 19,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "CAB_LS",
@@ -379,7 +379,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 6,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "CAB_LS",
@@ -619,7 +619,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 4,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [
    "MUZ_LS"

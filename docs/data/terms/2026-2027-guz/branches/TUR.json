@@ -64,7 +64,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 46,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -152,7 +152,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 46,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -196,7 +196,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -240,7 +240,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 9,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -376,7 +376,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 1,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -782,7 +782,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 75,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1322,7 +1322,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 75,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2132,7 +2132,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 76,
+  "enrolled": 77,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2402,7 +2402,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2672,7 +2672,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2807,7 +2807,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2942,7 +2942,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 78,
+  "enrolled": 79,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -3212,7 +3212,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 75,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -3347,7 +3347,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -3887,7 +3887,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -4022,7 +4022,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -4157,7 +4157,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 72,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -4292,7 +4292,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 76,
+  "enrolled": 77,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -5102,7 +5102,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -5506,7 +5506,7 @@
    "--"
   ],
   "capacity": 90,
-  "enrolled": 90,
+  "enrolled": 91,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -5640,7 +5640,7 @@
    "--"
   ],
   "capacity": 90,
-  "enrolled": 91,
+  "enrolled": 92,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -5774,7 +5774,7 @@
    "--"
   ],
   "capacity": 90,
-  "enrolled": 91,
+  "enrolled": 93,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -5908,7 +5908,7 @@
    "--"
   ],
   "capacity": 90,
-  "enrolled": 91,
+  "enrolled": 93,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -6176,7 +6176,7 @@
    "--"
   ],
   "capacity": 90,
-  "enrolled": 91,
+  "enrolled": 92,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -6310,7 +6310,7 @@
    "A203"
   ],
   "capacity": 60,
-  "enrolled": 59,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -6444,7 +6444,7 @@
    "A203"
   ],
   "capacity": 60,
-  "enrolled": 59,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -6578,7 +6578,7 @@
    "A205"
   ],
   "capacity": 60,
-  "enrolled": 48,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -6712,7 +6712,7 @@
    "A204"
   ],
   "capacity": 60,
-  "enrolled": 47,
+  "enrolled": 49,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -6846,7 +6846,7 @@
    "A201"
   ],
   "capacity": 60,
-  "enrolled": 57,
+  "enrolled": 55,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -6980,7 +6980,7 @@
    "A201"
   ],
   "capacity": 60,
-  "enrolled": 48,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -7182,7 +7182,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 31,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "DUI_LS",

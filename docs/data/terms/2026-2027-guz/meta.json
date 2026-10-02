@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-10-02T08:28:54Z",
+ "scrapedAt": "2026-10-02T14:48:05Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5495,
- "courses": 3919,
+ "sections": 5499,
+ "courses": 3921,
  "branches": [
   {
    "code": "AAR",
@@ -20,6 +20,13 @@
     "LU"
    ],
    "sections": 6
+  },
+  {
+   "code": "ADM",
+   "levels": [
+    "LU"
+   ],
+   "sections": 1
   },
   {
    "code": "AFY",
@@ -889,7 +896,7 @@
     "LS",
     "LU"
    ],
-   "sections": 142
+   "sections": 144
   },
   {
    "code": "MAL",
@@ -1116,7 +1123,7 @@
     "LS",
     "LU"
    ],
-   "sections": 68
+   "sections": 69
   },
   {
    "code": "MTR",
@@ -1657,11 +1664,11 @@
   }
  ],
  "stats": {
-  "sections": 5495,
-  "courses": 3919,
-  "branches": 232,
+  "sections": 5499,
+  "courses": 3921,
+  "branches": 233,
   "instructors": 2009,
-  "capacity": 266520,
-  "enrolled": 131756
+  "capacity": 266844,
+  "enrolled": 133031
  }
 }

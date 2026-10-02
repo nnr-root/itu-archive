@@ -19,8 +19,8 @@
   "rooms": [
    "A13"
   ],
-  "capacity": 30,
-  "enrolled": 30,
+  "capacity": 35,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -101,7 +101,7 @@
    "B34"
   ],
   "capacity": 30,
-  "enrolled": 18,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -128,7 +128,7 @@
    "A13"
   ],
   "capacity": 30,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -155,7 +155,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 29,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -284,7 +284,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 30,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

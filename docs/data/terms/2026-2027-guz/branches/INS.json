@@ -20,7 +20,7 @@
    "B102"
   ],
   "capacity": 30,
-  "enrolled": 29,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -137,7 +137,7 @@
    "D201"
   ],
   "capacity": 40,
-  "enrolled": 28,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -226,7 +226,7 @@
    "A14"
   ],
   "capacity": 250,
-  "enrolled": 133,
+  "enrolled": 134,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -255,7 +255,7 @@
    "A14"
   ],
   "capacity": 250,
-  "enrolled": 79,
+  "enrolled": 78,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -285,7 +285,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 57,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -315,7 +315,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 57,
+  "enrolled": 59,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -345,7 +345,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 58,
+  "enrolled": 59,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -375,7 +375,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 56,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -559,7 +559,7 @@
    "A103"
   ],
   "capacity": 45,
-  "enrolled": 46,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -648,7 +648,7 @@
    "A304"
   ],
   "capacity": 60,
-  "enrolled": 44,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -706,7 +706,7 @@
    "A305"
   ],
   "capacity": 60,
-  "enrolled": 59,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -765,7 +765,7 @@
    "A303"
   ],
   "capacity": 40,
-  "enrolled": 15,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -982,7 +982,7 @@
    "B104"
   ],
   "capacity": 40,
-  "enrolled": 31,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -1083,7 +1083,7 @@
    "A104"
   ],
   "capacity": 40,
-  "enrolled": 36,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -1205,7 +1205,7 @@
    "A205"
   ],
   "capacity": 40,
-  "enrolled": 35,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -1265,7 +1265,7 @@
    "A305"
   ],
   "capacity": 40,
-  "enrolled": 20,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -1325,7 +1325,7 @@
    "A201"
   ],
   "capacity": 40,
-  "enrolled": 2,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -1389,7 +1389,7 @@
    "A205"
   ],
   "capacity": 35,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -1488,7 +1488,7 @@
    "B202"
   ],
   "capacity": 35,
-  "enrolled": 35,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -1657,7 +1657,7 @@
    "B204"
   ],
   "capacity": 45,
-  "enrolled": 27,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -1692,7 +1692,7 @@
    "A303"
   ],
   "capacity": 45,
-  "enrolled": 45,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -1723,7 +1723,7 @@
    "A102"
   ],
   "capacity": 50,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -1752,7 +1752,7 @@
    "A202"
   ],
   "capacity": 50,
-  "enrolled": 51,
+  "enrolled": 55,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -1843,7 +1843,7 @@
    "A305"
   ],
   "capacity": 50,
-  "enrolled": 50,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -1912,7 +1912,7 @@
    "A302"
   ],
   "capacity": 45,
-  "enrolled": 37,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -1980,7 +1980,7 @@
    "B101"
   ],
   "capacity": 45,
-  "enrolled": 45,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2017,7 +2017,7 @@
    "A304"
   ],
   "capacity": 45,
-  "enrolled": 4,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2054,7 +2054,7 @@
    "B302"
   ],
   "capacity": 45,
-  "enrolled": 45,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2087,7 +2087,7 @@
    "B101"
   ],
   "capacity": 55,
-  "enrolled": 55,
+  "enrolled": 56,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2149,7 +2149,7 @@
    "A204"
   ],
   "capacity": 55,
-  "enrolled": 55,
+  "enrolled": 58,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2180,7 +2180,7 @@
    "B103"
   ],
   "capacity": 55,
-  "enrolled": 42,
+  "enrolled": 41,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -2240,7 +2240,7 @@
    "A305"
   ],
   "capacity": 50,
-  "enrolled": 46,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2271,7 +2271,7 @@
    "D103"
   ],
   "capacity": 30,
-  "enrolled": 37,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -2331,7 +2331,7 @@
    "B302"
   ],
   "capacity": 60,
-  "enrolled": 60,
+  "enrolled": 63,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2426,7 +2426,7 @@
    "B201"
   ],
   "capacity": 40,
-  "enrolled": 38,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -2459,7 +2459,7 @@
    "B306"
   ],
   "capacity": 40,
-  "enrolled": 38,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -2492,7 +2492,7 @@
    "A201"
   ],
   "capacity": 40,
-  "enrolled": 36,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2527,7 +2527,7 @@
    "B307"
   ],
   "capacity": 35,
-  "enrolled": 6,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2558,7 +2558,7 @@
    "A105"
   ],
   "capacity": 50,
-  "enrolled": 50,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2795,7 +2795,7 @@
    "B206"
   ],
   "capacity": 40,
-  "enrolled": 38,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2896,7 +2896,7 @@
    "A105"
   ],
   "capacity": 40,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2956,7 +2956,7 @@
    "A202"
   ],
   "capacity": 40,
-  "enrolled": 14,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -3020,7 +3020,7 @@
    "B206"
   ],
   "capacity": 40,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3084,7 +3084,7 @@
    "B204"
   ],
   "capacity": 50,
-  "enrolled": 38,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3115,7 +3115,7 @@
    "B201"
   ],
   "capacity": 45,
-  "enrolled": 29,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -3202,7 +3202,7 @@
    "A303"
   ],
   "capacity": 45,
-  "enrolled": 45,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3320,7 +3320,7 @@
    "B203"
   ],
   "capacity": 45,
-  "enrolled": 45,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3487,7 +3487,7 @@
    "A102"
   ],
   "capacity": 40,
-  "enrolled": 14,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3518,7 +3518,7 @@
    "B101"
   ],
   "capacity": 150,
-  "enrolled": 130,
+  "enrolled": 133,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3549,7 +3549,7 @@
    "A205"
   ],
   "capacity": 55,
-  "enrolled": 53,
+  "enrolled": 54,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -3667,7 +3667,7 @@
    "B202"
   ],
   "capacity": 40,
-  "enrolled": 13,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3698,7 +3698,7 @@
    "A103"
   ],
   "capacity": 50,
-  "enrolled": 44,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3729,7 +3729,7 @@
    "A104"
   ],
   "capacity": 20,
-  "enrolled": 18,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3818,7 +3818,7 @@
    "B308"
   ],
   "capacity": 35,
-  "enrolled": 24,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3878,7 +3878,7 @@
    "B304"
   ],
   "capacity": 15,
-  "enrolled": 14,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3926,7 +3926,7 @@
   ],
   "rooms": [],
   "capacity": 300,
-  "enrolled": 51,
+  "enrolled": 55,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -4052,7 +4052,7 @@
    "A1"
   ],
   "capacity": 40,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -4075,7 +4075,7 @@
   ],
   "rooms": [],
   "capacity": 0,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [],
   "prereq": "Detay",
@@ -4102,7 +4102,7 @@
    "B303"
   ],
   "capacity": 40,
-  "enrolled": 28,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "AIN_LS",

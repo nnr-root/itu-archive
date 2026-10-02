@@ -408,7 +408,7 @@
   ],
   "rooms": [],
   "capacity": 5,
-  "enrolled": 5,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "MUT_LS",
@@ -812,7 +812,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "MUT_LS",
@@ -842,7 +842,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 12,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "MUT_LS",
@@ -900,7 +900,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "MUT_LS",
@@ -1084,7 +1084,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 8,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "MUT_LS",

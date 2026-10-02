@@ -1527,7 +1527,7 @@
     "2026-2027-guz",
     "Ahmet Öztopal",
     50,
-    49,
+    50,
     "Cuma"
    ],
    [
@@ -1611,7 +1611,7 @@
     "2026-2027-guz",
     "Emrah Tuncay Özdemir",
     65,
-    58,
+    59,
     "Pazartesi, Salı"
    ],
    [
@@ -2621,7 +2621,7 @@
     "2026-2027-guz",
     "Yurdanur Ünal",
     28,
-    24,
+    25,
     "Salı, Perşembe"
    ],
    [
@@ -3257,6 +3257,7 @@
   "code": "MTO 351E",
   "name": "Hydrometeorology",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -3269,6 +3270,13 @@
    "2019-2020-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Sevinç Asilhan",
+    15,
+    0,
+    "Perşembe"
+   ],
    [
     "2025-2026-bahar",
     "Sevinç Asilhan , / Elçin Tan",
@@ -3357,7 +3365,7 @@
     "2026-2027-guz",
     "Levent Şaylan",
     15,
-    11,
+    10,
     "Pazartesi"
    ],
    [
@@ -4532,7 +4540,7 @@
     "2026-2027-guz",
     "Kasım Koçak",
     15,
-    12,
+    11,
     "Salı"
    ],
    [
@@ -5303,7 +5311,7 @@
     "2026-2027-guz",
     "Elçin Tan",
     20,
-    19,
+    20,
     "Cuma"
    ],
    [
@@ -6827,7 +6835,7 @@
     "2026-2027-guz",
     "Sante Laviola",
     25,
-    20,
+    21,
     "Salı, Çarşamba"
    ]
   ]
@@ -7019,7 +7027,7 @@
     "2026-2027-guz",
     "Yurdanur Ünal",
     200,
-    21,
+    23,
     ""
    ]
   ]

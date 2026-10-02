@@ -624,7 +624,7 @@
    "3504"
   ],
   "capacity": 50,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "PEM_LS",
@@ -658,7 +658,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 1,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "PEM_LS",
@@ -748,7 +748,7 @@
    "106"
   ],
   "capacity": 80,
-  "enrolled": 42,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [
    "PEM_LS",
@@ -1057,16 +1057,16 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Çağla Kaplan , EMRE DÖRTER",
   "buildings": [
-   "MMB"
+   "undeclared"
   ],
   "days": [
-   "Salı"
+   "Perşembe"
   ],
   "times": [
    "10:30/12:29"
   ],
   "rooms": [
-   "311"
+   "--"
   ],
   "capacity": 18,
   "enrolled": 0,
@@ -1099,7 +1099,7 @@
    "309"
   ],
   "capacity": 32,
-  "enrolled": 31,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "EUT_LS",
@@ -1136,7 +1136,7 @@
    "3503"
   ],
   "capacity": 33,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "PEM_LS",
@@ -1166,7 +1166,7 @@
    "CATI4"
   ],
   "capacity": 26,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "PEM_LS",
@@ -1211,7 +1211,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 21,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1259,8 +1259,8 @@
    "BIM2"
   ],
   "capacity": 25,
-  "enrolled": 9,
-  "reserved": "PEME_LS/15/7 | Diğer/10/2",
+  "enrolled": 10,
+  "reserved": "PEME_LS/15/8 | Diğer/10/2",
   "programs": [
    "ENTE_LS",
    "ICM_LS",

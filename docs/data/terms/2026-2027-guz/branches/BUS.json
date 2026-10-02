@@ -338,7 +338,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 10,
+  "capacity": 0,
   "enrolled": 1,
   "reserved": "-",
   "programs": [
@@ -368,7 +368,7 @@
    "B03"
   ],
   "capacity": 15,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "SIS_LS"

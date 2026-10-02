@@ -114,7 +114,7 @@
    "A202"
   ],
   "capacity": 50,
-  "enrolled": 48,
+  "enrolled": 49,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -144,7 +144,7 @@
    "A203"
   ],
   "capacity": 50,
-  "enrolled": 46,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -353,7 +353,7 @@
    "A205"
   ],
   "capacity": 60,
-  "enrolled": 58,
+  "enrolled": 59,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -383,7 +383,7 @@
    "B204"
   ],
   "capacity": 75,
-  "enrolled": 71,
+  "enrolled": 72,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -1008,7 +1008,7 @@
    "--"
   ],
   "capacity": 5,
-  "enrolled": 0,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

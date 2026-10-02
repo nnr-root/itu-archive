@@ -141,8 +141,8 @@
    "5101"
   ],
   "capacity": 60,
-  "enrolled": 59,
-  "reserved": "EEE_LS/5/5 | Diğer/55/54",
+  "enrolled": 60,
+  "reserved": "EEE_LS/5/5 | Diğer/55/55",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -208,7 +208,7 @@
    "B306"
   ],
   "capacity": 35,
-  "enrolled": 34,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -330,7 +330,7 @@
    "A204"
   ],
   "capacity": 50,
-  "enrolled": 50,
+  "enrolled": 53,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -361,7 +361,7 @@
    "5203"
   ],
   "capacity": 50,
-  "enrolled": 37,
+  "enrolled": 36,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -430,8 +430,8 @@
    "2106"
   ],
   "capacity": 60,
-  "enrolled": 47,
-  "reserved": "EEE_LS/5/2 | Diğer/55/45",
+  "enrolled": 46,
+  "reserved": "EEE_LS/5/2 | Diğer/55/44",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -467,7 +467,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 15,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -498,7 +498,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "PEME_LS"
@@ -558,7 +558,7 @@
    "CATI2"
   ],
   "capacity": 20,
-  "enrolled": 7,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -589,7 +589,7 @@
    "D360"
   ],
   "capacity": 30,
-  "enrolled": 5,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "TEK_YD",
@@ -619,7 +619,7 @@
    "D318"
   ],
   "capacity": 30,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "MAK_LS"

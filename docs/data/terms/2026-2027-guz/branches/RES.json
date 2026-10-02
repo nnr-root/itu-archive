@@ -20,7 +20,7 @@
    "D301"
   ],
   "capacity": 50,
-  "enrolled": 52,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -80,11 +80,12 @@
    "D301"
   ],
   "capacity": 50,
-  "enrolled": 34,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "GID_LS",
-   "KMM_LS"
+   "KMM_LS",
+   "MET_LS"
   ],
   "prereq": "-",
   "classReq": "-"
@@ -140,7 +141,7 @@
    "409"
   ],
   "capacity": 40,
-  "enrolled": 26,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "TEK_LS",
