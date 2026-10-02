@@ -1052,14 +1052,14 @@
     "2026-2027-guz",
     "Gülsüm Emel Zengin Balcı",
     33,
-    33,
+    32,
     "Salı, Perşembe"
    ],
    [
     "2026-2027-guz",
     "Bahar Yavuztürk Gül",
     33,
-    31,
+    30,
     "Salı, Perşembe"
    ],
    [
@@ -1188,7 +1188,7 @@
     "2026-2027-guz",
     "Ebru Dülekgürgen",
     33,
-    17,
+    16,
     "Pazartesi, Salı"
    ],
    [
@@ -1565,7 +1565,7 @@
     "2026-2027-guz",
     "Recep Kaya , Büşra Çiçekalan",
     60,
-    49,
+    47,
     "Çarşamba"
    ],
    [
@@ -1647,7 +1647,7 @@
     "2026-2027-guz",
     "Ayşe Yüksekdağ , Derya Yüksel İmer",
     30,
-    31,
+    30,
     "Salı, Cuma"
    ],
    [
@@ -2305,7 +2305,7 @@
     "2026-2027-guz",
     "Alpaslan Ekdal",
     80,
-    62,
+    61,
     "Cuma"
    ],
    [
@@ -2925,7 +2925,7 @@
     "2026-2027-guz",
     "Nuray Işık Kabdaşlı , Serdar Doğruel",
     60,
-    38,
+    36,
     "Perşembe"
    ],
    [
@@ -3084,6 +3084,7 @@
   "code": "CEV 302",
   "name": "Biyolojik Prosesler",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -3093,6 +3094,13 @@
    "2019-2020-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Emine Çokgör",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Emine Çokgör",
@@ -3951,6 +3959,7 @@
   "code": "CEV 308",
   "name": "Hava Kirlenmesi",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -3960,6 +3969,13 @@
    "2019-2020-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Sadullah Levent Kuzu",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Vedat Uyak , / Sadullah Levent Kuzu",
@@ -4165,7 +4181,7 @@
     "2026-2027-guz",
     "Mustafa Evren Erşahin , Hale Özgün Erşahin",
     30,
-    8,
+    7,
     "Pazartesi"
    ],
    [
@@ -4315,7 +4331,7 @@
     "2026-2027-guz",
     "Aysu Uzsayılır",
     30,
-    13,
+    12,
     "Perşembe"
    ],
    [
@@ -4952,6 +4968,7 @@
   "code": "CEV 330",
   "name": "Su Arıtma Tesisi Tasarımı",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -4963,6 +4980,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Mustafa Evren Erşahin",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "İsmail Koyuncu , / Mustafa Evren Erşahin , / Türker Türken",
@@ -5282,7 +5306,7 @@
     "2026-2027-guz",
     "Melike Gürel , Elif Pehlivanoğlu",
     80,
-    74,
+    73,
     "Salı"
    ],
    [
@@ -5739,6 +5763,7 @@
   "code": "CEV 402",
   "name": "Toprak&Yeraltı Suyu Kirl.Kont.",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -5747,6 +5772,13 @@
    "2020-2021-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Mahmut Ekrem Karpuzcu",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Mahmut Ekrem Karpuzcu",
@@ -5947,6 +5979,7 @@
   "code": "CEV 424E",
   "name": "Wastewtr Mngmnt in Smll Cmmnts",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -5958,6 +5991,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Mahmut Altınbaş",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Mahmut Altınbaş",
@@ -6083,7 +6123,7 @@
     "2026-2027-guz",
     "Burçak Kaynak Tezel , Alpaslan Ekdal , Gökşin Özyıldız",
     80,
-    80,
+    79,
     "Salı"
    ],
    [
@@ -6281,6 +6321,7 @@
   "code": "CEV 428E",
   "name": "Envirn.Plan.of Catchment Areas",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -6292,6 +6333,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Melike Gürel",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Melike Gürel , / Alpaslan Ekdal",
@@ -6459,7 +6507,7 @@
    [
     "2026-2027-guz",
     "Emine Çokgör",
-    70,
+    75,
     70,
     "Cuma"
    ],
@@ -6584,6 +6632,7 @@
   "code": "CEV 432",
   "name": "Çevre Ekonomisi",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -6595,6 +6644,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Öykü Mutlu Salmanlı",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Öykü Mutlu Salmanlı , / Büşra Çiçekalan",
@@ -7280,6 +7336,7 @@
   "code": "CEV 442",
   "name": "Çevre Hukuku",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -7291,6 +7348,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Fatma Gülen İskender",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Fatma Gülen İskender , / Osman Devrim Elvan",
@@ -7367,6 +7431,7 @@
   "code": "CEV 442E",
   "name": "Environmental Law",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-yaz",
    "2025-2026-bahar",
    "2024-2025-bahar",
@@ -7379,6 +7444,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Derya Yüksel İmer",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-yaz",
     "Derya Yüksel İmer",
@@ -7998,6 +8070,13 @@
     "Pazartesi"
    ],
    [
+    "2026-2027-guz",
+    "Hayrettin Güçlü İnsel",
+    0,
+    0,
+    ""
+   ],
+   [
     "2025-2026-guz",
     "Hayrettin Güçlü İnsel , / Türker Türken",
     30,
@@ -8474,6 +8553,7 @@
   "code": "CEV 456",
   "name": "İş Sağlığı ve Güvenliği",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -8485,6 +8565,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Fatma Gülen İskender",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Fatma Gülen İskender , / Ayşegül Bayın Sarıahmetoğlu",
@@ -8561,6 +8648,7 @@
   "code": "CEV 456E",
   "name": "Occupational Health and Safety",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -8572,6 +8660,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Bülent İnanç",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Bülent İnanç , / Ayşegül Bayın Sarıahmetoğlu",
@@ -8648,6 +8743,7 @@
   "code": "CEV 458E",
   "name": "Design of Marine Disposal Sys.",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -8656,6 +8752,13 @@
    "2020-2021-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Hüseyin Güven",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Ali Fuat Aydın , / Hüseyin Güven",
@@ -9475,10 +9578,18 @@
   "code": "CEV 472E",
   "name": "Opr.of Wastewater Treat.Plants",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Gülsüm Emel Zengin Balcı",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Hüseyin Erdem Görgün , / Gülsüm Emel Zengin Balcı",

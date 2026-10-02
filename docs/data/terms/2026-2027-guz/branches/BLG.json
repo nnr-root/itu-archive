@@ -813,7 +813,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 44,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -882,7 +882,7 @@
    "KON1"
   ],
   "capacity": 160,
-  "enrolled": 156,
+  "enrolled": 155,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -947,7 +947,7 @@
    "14:30/16:29"
   ],
   "rooms": [
-   "Z-18",
+   "104",
    "Z-18"
   ],
   "capacity": 80,
@@ -979,11 +979,11 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "Z-16"
+   "Z-19"
   ],
   "capacity": 95,
-  "enrolled": 85,
-  "reserved": "END_LS/2/0 | ENDE_LS/3/0 | Diğer/90/85",
+  "enrolled": 84,
+  "reserved": "END_LS/2/0 | ENDE_LS/3/0 | Diğer/90/84",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1015,7 +1015,7 @@
    "Z-20"
   ],
   "capacity": 80,
-  "enrolled": 79,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1074,7 +1074,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "Z-19"
+   "Z-16"
   ],
   "capacity": 90,
   "enrolled": 94,
@@ -1170,8 +1170,8 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 40,
-  "reserved": "CEN_LS/8/8 | CES_LS/8/1 | BLG_LS/3/0 | Diğer/41/31",
+  "enrolled": 39,
+  "reserved": "CEN_LS/8/8 | CES_LS/8/1 | BLG_LS/3/0 | Diğer/41/30",
   "programs": [
    "BLG_LS",
    "BLG_LS",
@@ -1235,8 +1235,8 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 35,
-  "reserved": "CEN_LS/8/8 | CES_LS/8/0 | BLG_LS/2/1 | Diğer/42/26",
+  "enrolled": 34,
+  "reserved": "CEN_LS/8/8 | CES_LS/8/0 | BLG_LS/2/1 | Diğer/42/25",
   "programs": [
    "BLG_LS",
    "BLG_LS",
@@ -1268,8 +1268,8 @@
    "Z-21"
   ],
   "capacity": 70,
-  "enrolled": 46,
-  "reserved": "CEN_LS/8/0 | Diğer/62/46",
+  "enrolled": 43,
+  "reserved": "CEN_LS/8/0 | Diğer/62/43",
   "programs": [
    "BLG_LS",
    "BLG_LS",
@@ -1298,11 +1298,11 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "Z-20"
+   "Z-17"
   ],
-  "capacity": 90,
+  "capacity": 100,
   "enrolled": 90,
-  "reserved": "CEN_LS/8/8 | Diğer/82/82",
+  "reserved": "CEN_LS/8/8 | Diğer/92/82",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1334,8 +1334,8 @@
    "Z-20"
   ],
   "capacity": 70,
-  "enrolled": 44,
-  "reserved": "CEN_LS/8/0 | Diğer/62/44",
+  "enrolled": 43,
+  "reserved": "CEN_LS/8/0 | Diğer/62/43",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1367,8 +1367,8 @@
    "Z-17"
   ],
   "capacity": 95,
-  "enrolled": 86,
-  "reserved": "YZVE_LS/10/5 | Diğer/85/81",
+  "enrolled": 81,
+  "reserved": "YZVE_LS/10/5 | Diğer/85/76",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1429,7 +1429,7 @@
    "Z-17"
   ],
   "capacity": 60,
-  "enrolled": 14,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1456,11 +1456,11 @@
    "13:30/16:29"
   ],
   "rooms": [
-   "Z-20"
+   "Z-17"
   ],
-  "capacity": 90,
+  "capacity": 110,
   "enrolled": 90,
-  "reserved": "CEN_LS/8/8 | Diğer/82/82",
+  "reserved": "CEN_LS/8/8 | Diğer/102/82",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1487,11 +1487,11 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "Z-21"
+   "Z-18"
   ],
-  "capacity": 80,
+  "capacity": 100,
   "enrolled": 80,
-  "reserved": "CEN_LS/8/8 | Diğer/72/72",
+  "reserved": "CEN_LS/8/8 | Diğer/92/72",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1521,8 +1521,8 @@
    "101"
   ],
   "capacity": 90,
-  "enrolled": 80,
-  "reserved": "YZVE_LS/20/20 | EHB_LS/5/1 | EHBE_LS/5/1 | CEN_LS/8/8 | Diğer/52/50",
+  "enrolled": 78,
+  "reserved": "YZVE_LS/20/18 | EHB_LS/5/1 | EHBE_LS/5/1 | CEN_LS/8/8 | Diğer/52/50",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1586,11 +1586,11 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "Z-21"
+   "Z-16"
   ],
-  "capacity": 90,
-  "enrolled": 90,
-  "reserved": "CEN_LS/8/8 | Diğer/82/82",
+  "capacity": 110,
+  "enrolled": 88,
+  "reserved": "CEN_LS/8/8 | Diğer/102/80",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1774,7 +1774,7 @@
    "102"
   ],
   "capacity": 40,
-  "enrolled": 22,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -2596,7 +2596,7 @@
    "13:30/15:29"
   ],
   "rooms": [
-   "--"
+   "Z-19"
   ],
   "capacity": 50,
   "enrolled": 14,

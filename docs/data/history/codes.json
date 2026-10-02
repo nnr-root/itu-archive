@@ -6063,7 +6063,7 @@
   "CEV 302",
   "Biyolojik Prosesler",
   "CEV",
-  7
+  8
  ],
  [
   "CEV 302E",
@@ -6123,7 +6123,7 @@
   "CEV 308",
   "Hava Kirlenmesi",
   "CEV",
-  7
+  8
  ],
  [
   "CEV 308E",
@@ -6249,7 +6249,7 @@
   "CEV 330",
   "Su Arıtma Tesisi Tasarımı",
   "CEV",
-  9
+  10
  ],
  [
   "CEV 330E",
@@ -6321,7 +6321,7 @@
   "CEV 402",
   "Toprak&Yeraltı Suyu Kirl.Kont.",
   "CEV",
-  6
+  7
  ],
  [
   "CEV 402E",
@@ -6357,7 +6357,7 @@
   "CEV 424E",
   "Wastewtr Mngmnt in Smll Cmmnts",
   "CEV",
-  9
+  10
  ],
  [
   "CEV 426",
@@ -6381,7 +6381,7 @@
   "CEV 428E",
   "Envirn.Plan.of Catchment Areas",
   "CEV",
-  9
+  10
  ],
  [
   "CEV 429",
@@ -6405,7 +6405,7 @@
   "CEV 432",
   "Çevre Ekonomisi",
   "CEV",
-  9
+  10
  ],
  [
   "CEV 432E",
@@ -6471,13 +6471,13 @@
   "CEV 442",
   "Çevre Hukuku",
   "CEV",
-  9
+  10
  ],
  [
   "CEV 442E",
   "Environmental Law",
   "CEV",
-  10
+  11
  ],
  [
   "CEV 443",
@@ -6579,19 +6579,19 @@
   "CEV 456",
   "İş Sağlığı ve Güvenliği",
   "CEV",
-  9
+  10
  ],
  [
   "CEV 456E",
   "Occupational Health and Safety",
   "CEV",
-  9
+  10
  ],
  [
   "CEV 458E",
   "Design of Marine Disposal Sys.",
   "CEV",
-  6
+  7
  ],
  [
   "CEV 461",
@@ -6657,7 +6657,7 @@
   "CEV 472E",
   "Opr.of Wastewater Treat.Plants",
   "CEV",
-  2
+  3
  ],
  [
   "CEV 4901",
@@ -7220,6 +7220,12 @@
  [
   "CHZ 604",
   "Aglomerasyon Teknolojileri",
+  "CHZ",
+  1
+ ],
+ [
+  "CHZ 608",
+  "Cevher Hazırl.Endüst.Sürdür.",
   "CHZ",
   1
  ],

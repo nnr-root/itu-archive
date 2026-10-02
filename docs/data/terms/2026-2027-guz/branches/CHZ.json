@@ -53,7 +53,7 @@
    "A205"
   ],
   "capacity": 60,
-  "enrolled": 47,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -295,7 +295,7 @@
    "B204"
   ],
   "capacity": 30,
-  "enrolled": 31,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "CHZ_LS"
@@ -981,6 +981,33 @@
   ],
   "rooms": [],
   "capacity": 200,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15911",
+  "code": "CHZ 608",
+  "branch": "CHZ",
+  "level": "LU",
+  "name": "Cevher Hazırl.Endüst.Sürdür.",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Hüseyin Baştürkcü",
+  "buildings": [
+   "MDB"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "14:00/16:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 5,
   "enrolled": 0,
   "reserved": "-",
   "programs": [],

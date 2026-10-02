@@ -184,8 +184,8 @@
    "CATI2"
   ],
   "capacity": 45,
-  "enrolled": 44,
-  "reserved": "ARC_LS/4/4 | ENTE_LS/4/4 | IAD_LS/4/4 | ICM_LS/4/4 | MIM_LS/8/8 | MIME_LS/6/6 | PEME_LS/5/4 | SBP_LS/5/5 | SBPE_LS/5/5 | Diğer/0/0",
+  "enrolled": 43,
+  "reserved": "ARC_LS/4/4 | ENTE_LS/4/4 | IAD_LS/4/4 | ICM_LS/4/4 | MIM_LS/8/8 | MIME_LS/6/6 | PEME_LS/5/3 | SBP_LS/5/5 | SBPE_LS/5/5 | Diğer/0/0",
   "programs": [
    "ARC_LS",
    "ENT_LS",
@@ -358,8 +358,8 @@
    "CATI1"
   ],
   "capacity": 45,
-  "enrolled": 43,
-  "reserved": "ARC_LS/4/1 | ENTE_LS/4/5 | IAD_LS/4/3 | ICM_LS/4/5 | MIM_LS/8/8 | MIME_LS/6/6 | PEME_LS/5/5 | SBP_LS/5/5 | SBPE_LS/5/5 | Diğer/0/0",
+  "enrolled": 42,
+  "reserved": "ARC_LS/4/1 | ENTE_LS/4/5 | IAD_LS/4/3 | ICM_LS/4/5 | MIM_LS/8/8 | MIME_LS/6/6 | PEME_LS/5/5 | SBP_LS/5/5 | SBPE_LS/5/4 | Diğer/0/0",
   "programs": [
    "ARC_LS",
    "ENT_LS",

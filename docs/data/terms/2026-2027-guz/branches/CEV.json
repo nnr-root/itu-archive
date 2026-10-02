@@ -142,7 +142,7 @@
    "--"
   ],
   "capacity": 33,
-  "enrolled": 33,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -175,7 +175,7 @@
    "--"
   ],
   "capacity": 33,
-  "enrolled": 31,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -242,7 +242,7 @@
    "--"
   ],
   "capacity": 33,
-  "enrolled": 17,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -331,7 +331,7 @@
    "A305"
   ],
   "capacity": 60,
-  "enrolled": 49,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -394,7 +394,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 31,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -524,7 +524,7 @@
    "B104"
   ],
   "capacity": 80,
-  "enrolled": 62,
+  "enrolled": 61,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -583,7 +583,7 @@
    "A204"
   ],
   "capacity": 60,
-  "enrolled": 38,
+  "enrolled": 36,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -828,7 +828,7 @@
    "B306"
   ],
   "capacity": 30,
-  "enrolled": 8,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -917,7 +917,7 @@
    "B104"
   ],
   "capacity": 80,
-  "enrolled": 74,
+  "enrolled": 73,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -1074,7 +1074,7 @@
    "A104"
   ],
   "capacity": 80,
-  "enrolled": 80,
+  "enrolled": 79,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -1161,7 +1161,7 @@
   "rooms": [
    "B203"
   ],
-  "capacity": 70,
+  "capacity": 75,
   "enrolled": 70,
   "reserved": "-",
   "programs": [
@@ -1530,7 +1530,7 @@
    "A101"
   ],
   "capacity": 30,
-  "enrolled": 13,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -1679,6 +1679,335 @@
   "programs": [
    "CEV_LS",
    "CEVE_LS"
+  ],
+  "prereq": "-",
+  "classReq": "Detay"
+ },
+ {
+  "crn": "15897",
+  "code": "CEV 442E",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Environmental Law",
+  "method": "Ek Sınav",
+  "instructor": "Derya Yüksel İmer",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS",
+   "CEVE_LS"
+  ],
+  "prereq": "-",
+  "classReq": "Detay"
+ },
+ {
+  "crn": "15898",
+  "code": "CEV 456E",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Occupational Health and Safety",
+  "method": "Ek Sınav",
+  "instructor": "Bülent İnanç",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS",
+   "CEVE_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15899",
+  "code": "CEV 424E",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Wastewtr Mngmnt in Smll Cmmnts",
+  "method": "Ek Sınav",
+  "instructor": "Mahmut Altınbaş",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS",
+   "CEVE_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15900",
+  "code": "CEV 428E",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Envirn.Plan.of Catchment Areas",
+  "method": "Ek Sınav",
+  "instructor": "Melike Gürel",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS",
+   "CEVE_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15901",
+  "code": "CEV 458E",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Design of Marine Disposal Sys.",
+  "method": "Ek Sınav",
+  "instructor": "Hüseyin Güven",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS",
+   "CEVE_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15902",
+  "code": "CEV 472E",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Opr.of Wastewater Treat.Plants",
+  "method": "Ek Sınav",
+  "instructor": "Gülsüm Emel Zengin Balcı",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS",
+   "CEVE_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15903",
+  "code": "CEV 308",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Hava Kirlenmesi",
+  "method": "Ek Sınav",
+  "instructor": "Sadullah Levent Kuzu",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15904",
+  "code": "CEV 330",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Su Arıtma Tesisi Tasarımı",
+  "method": "Ek Sınav",
+  "instructor": "Mustafa Evren Erşahin",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15905",
+  "code": "CEV 302",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Biyolojik Prosesler",
+  "method": "Ek Sınav",
+  "instructor": "Emine Çokgör",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15906",
+  "code": "CEV 449E",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Control&Autom. in Env. Facil.",
+  "method": "Ek Sınav",
+  "instructor": "Hayrettin Güçlü İnsel",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS",
+   "CEVE_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15907",
+  "code": "CEV 442",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Çevre Hukuku",
+  "method": "Ek Sınav",
+  "instructor": "Fatma Gülen İskender",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS"
+  ],
+  "prereq": "-",
+  "classReq": "Detay"
+ },
+ {
+  "crn": "15908",
+  "code": "CEV 432",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Çevre Ekonomisi",
+  "method": "Ek Sınav",
+  "instructor": "Öykü Mutlu Salmanlı",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS"
+  ],
+  "prereq": "-",
+  "classReq": "Detay"
+ },
+ {
+  "crn": "15909",
+  "code": "CEV 456",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "İş Sağlığı ve Güvenliği",
+  "method": "Ek Sınav",
+  "instructor": "Fatma Gülen İskender",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15910",
+  "code": "CEV 402",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Toprak&Yeraltı Suyu Kirl.Kont.",
+  "method": "Ek Sınav",
+  "instructor": "Mahmut Ekrem Karpuzcu",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS"
   ],
   "prereq": "-",
   "classReq": "Detay"

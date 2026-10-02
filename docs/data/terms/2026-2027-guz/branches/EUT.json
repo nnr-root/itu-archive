@@ -47,7 +47,7 @@
    "131"
   ],
   "capacity": 25,
-  "enrolled": 18,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -263,7 +263,7 @@
    "320"
   ],
   "capacity": 20,
-  "enrolled": 9,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -317,7 +317,7 @@
    "3506"
   ],
   "capacity": 10,
-  "enrolled": 5,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -599,7 +599,7 @@
    "230"
   ],
   "capacity": 120,
-  "enrolled": 81,
+  "enrolled": 77,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -775,7 +775,7 @@
    "213"
   ],
   "capacity": 90,
-  "enrolled": 66,
+  "enrolled": 64,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -844,8 +844,8 @@
    "217B",
    "217B"
   ],
-  "capacity": 33,
-  "enrolled": 32,
+  "capacity": 35,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -880,7 +880,7 @@
    "217A",
    "217A"
   ],
-  "capacity": 33,
+  "capacity": 35,
   "enrolled": 34,
   "reserved": "-",
   "programs": [

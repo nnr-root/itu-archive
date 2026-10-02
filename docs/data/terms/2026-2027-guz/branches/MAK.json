@@ -200,7 +200,7 @@
    "R354"
   ],
   "capacity": 62,
-  "enrolled": 48,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -345,7 +345,7 @@
    "406"
   ],
   "capacity": 40,
-  "enrolled": 39,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -525,7 +525,7 @@
   ],
   "rooms": [],
   "capacity": 120,
-  "enrolled": 72,
+  "enrolled": 71,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -1516,7 +1516,7 @@
    "D351"
   ],
   "capacity": 60,
-  "enrolled": 35,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -1664,7 +1664,7 @@
    "R362"
   ],
   "capacity": 80,
-  "enrolled": 74,
+  "enrolled": 71,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -1823,7 +1823,7 @@
    "A363"
   ],
   "capacity": 120,
-  "enrolled": 104,
+  "enrolled": 102,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -1984,7 +1984,7 @@
    "A363"
   ],
   "capacity": 80,
-  "enrolled": 61,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -2163,7 +2163,7 @@
   ],
   "rooms": [],
   "capacity": 180,
-  "enrolled": 178,
+  "enrolled": 175,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -2432,7 +2432,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 161,
+  "enrolled": 160,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -2510,7 +2510,7 @@
    "D351"
   ],
   "capacity": 80,
-  "enrolled": 52,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -2591,7 +2591,7 @@
    "D317"
   ],
   "capacity": 60,
-  "enrolled": 61,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -2721,7 +2721,7 @@
    "D380B"
   ],
   "capacity": 40,
-  "enrolled": 3,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -2815,7 +2815,7 @@
    "D355"
   ],
   "capacity": 40,
-  "enrolled": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -2939,7 +2939,7 @@
    "D374"
   ],
   "capacity": 40,
-  "enrolled": 39,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -3000,7 +3000,7 @@
    "D357"
   ],
   "capacity": 40,
-  "enrolled": 34,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -3030,7 +3030,7 @@
    "D381B"
   ],
   "capacity": 40,
-  "enrolled": 21,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -3303,7 +3303,7 @@
    "D380A"
   ],
   "capacity": 40,
-  "enrolled": 4,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -3334,7 +3334,7 @@
    "D361B"
   ],
   "capacity": 40,
-  "enrolled": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -3363,7 +3363,7 @@
    "D361A"
   ],
   "capacity": 40,
-  "enrolled": 38,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -3675,7 +3675,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 50,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3732,7 +3732,7 @@
    "D381B"
   ],
   "capacity": 40,
-  "enrolled": 33,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -3761,7 +3761,7 @@
    "D360"
   ],
   "capacity": 15,
-  "enrolled": 0,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "MSS_LS"
@@ -3790,7 +3790,7 @@
    "D380A"
   ],
   "capacity": 15,
-  "enrolled": 0,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "MSS_LS"
@@ -3823,7 +3823,7 @@
    "D380B"
   ],
   "capacity": 15,
-  "enrolled": 2,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "MSS_LS"
@@ -3852,7 +3852,7 @@
    "D376"
   ],
   "capacity": 15,
-  "enrolled": 0,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "MSS_LS"
@@ -3881,7 +3881,7 @@
    "D351"
   ],
   "capacity": 15,
-  "enrolled": 2,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "MSS_LS"
@@ -4063,7 +4063,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 0,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "MSS_LS"
@@ -4200,7 +4200,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 12,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "MAK_LS"

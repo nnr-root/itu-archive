@@ -245,7 +245,7 @@
     "2026-2027-guz",
     "Murat Olgaç Kangal , Zeynep Üçerler Çamur",
     60,
-    47,
+    46,
     "Salı, Cuma"
    ],
    [
@@ -3063,7 +3063,7 @@
     "2026-2027-guz",
     "Feridun Boylu , Yusuf Enes Pural",
     30,
-    31,
+    30,
     "Çarşamba"
    ],
    [
@@ -4330,6 +4330,22 @@
     20,
     2,
     "Pazartesi"
+   ]
+  ]
+ },
+ "CHZ 608": {
+  "code": "CHZ 608",
+  "name": "Cevher Hazırl.Endüst.Sürdür.",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Hüseyin Baştürkcü",
+    5,
+    0,
+    "Çarşamba"
    ]
   ]
  },

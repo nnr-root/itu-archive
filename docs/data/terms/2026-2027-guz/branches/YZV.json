@@ -76,7 +76,7 @@
    "08:30/12:29"
   ],
   "rooms": [
-   "Z-17"
+   "Z-20"
   ],
   "capacity": 70,
   "enrolled": 49,
@@ -109,7 +109,7 @@
    "Z-19"
   ],
   "capacity": 75,
-  "enrolled": 73,
+  "enrolled": 72,
   "reserved": "-",
   "programs": [
    "YZVE_LS",
@@ -254,7 +254,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "104"
+   "Z-16"
   ],
   "capacity": 75,
   "enrolled": 75,
@@ -310,7 +310,7 @@
    "-/-"
   ],
   "rooms": [],
-  "capacity": 55,
+  "capacity": 100,
   "enrolled": 51,
   "reserved": "-",
   "programs": [
@@ -334,7 +334,7 @@
    "-/-"
   ],
   "rooms": [],
-  "capacity": 30,
+  "capacity": 100,
   "enrolled": 20,
   "reserved": "-",
   "programs": [
@@ -424,7 +424,7 @@
    "101"
   ],
   "capacity": 30,
-  "enrolled": 18,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "YZVE_LS"
@@ -480,7 +480,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "102"
+   "Z-21"
   ],
   "capacity": 40,
   "enrolled": 40,
