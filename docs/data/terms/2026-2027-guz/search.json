@@ -8062,9 +8062,9 @@
   "BEB 114",
   "Futsal Temel Beceri Eğitim",
   "BEB",
-  "-",
-  "",
-  0,
+  "Murat Bilgin",
+  "Çarşamba 13:30/15:29",
+  25,
   0,
   "LS",
   "Fiziksel (Yüz yüze)",
@@ -76195,7 +76195,7 @@
   "Ergin Tarı",
   "Çarşamba 13:30/16:29",
   10,
-  3,
+  4,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -76208,7 +76208,7 @@
   "Rahmi Nurhan Çelik",
   "Perşembe 08:30/11:29",
   20,
-  10,
+  11,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -76221,7 +76221,7 @@
   "Uğur Algancı , Filiz Bektaş Balçık",
   "Pazartesi 08:30/11:29",
   50,
-  25,
+  26,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -76364,7 +76364,7 @@
   "Caner Güney",
   "Cuma 14:30/17:29",
   30,
-  6,
+  7,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -82495,7 +82495,7 @@
   "Semih Küçükarslan",
   "Salı 09:30/12:29",
   38,
-  37,
+  38,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -86646,7 +86646,7 @@
   "Bahadır Uğurlu",
   "Salı 09:30/12:29",
   30,
-  3,
+  2,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -88511,7 +88511,7 @@
   "Mıchael Stefan Bıttermann",
   "Pazartesi 13:30/16:29",
   17,
-  16,
+  17,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -90176,7 +90176,7 @@
   "Ayşe Özge Kürkçüoğlu Levitas",
   "Çarşamba 09:00/11:59",
   14,
-  13,
+  14,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -91368,7 +91368,7 @@
   "Tülay Karakaş",
   "Salı 09:30/12:29",
   15,
-  8,
+  7,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -92074,7 +92074,7 @@
   "İlhami Akkum",
   "Çarşamba 18:00/20:59",
   30,
-  25,
+  26,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -94568,7 +94568,7 @@
   "Gülfer Oraz",
   "Çarşamba 13:30/16:29",
   20,
-  19,
+  18,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -96724,7 +96724,7 @@
   "Tarık Serhat Bozkurt",
   "Cuma 14:00/16:59",
   15,
-  6,
+  7,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -100134,7 +100134,7 @@
   "Halit Süleyman Türkmen",
   "",
   200,
-  86,
+  85,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -118704,7 +118704,7 @@
   "Mehmet Akif Yazıcı",
   "Salı 12:30/15:29",
   45,
-  36,
+  38,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -131768,7 +131768,7 @@
   "Sema Alaçam",
   "",
   200,
-  31,
+  32,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -138373,5 +138373,44 @@
    "IBM_LS",
    "MTO_LS"
   ]
+ ],
+ [
+  "15916",
+  "BEB 106",
+  "Basketbol Temel Teknik Eğitimi",
+  "BEB",
+  "Birgül Arslanoğlu",
+  "Salı 08:30/10:29",
+  20,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15917",
+  "BEB 140",
+  "Picklebal",
+  "BEB",
+  "Serra Ayşe Çakar Saka , Bülent Arslantaş",
+  "Çarşamba 10:30/12:29",
+  10,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "15918",
+  "BEB 140",
+  "Picklebal",
+  "BEB",
+  "Serra Ayşe Çakar Saka , Bülent Arslantaş",
+  "Çarşamba 13:30/15:29",
+  10,
+  0,
+  "LS",
+  "Fiziksel (Yüz yüze)",
+  []
  ]
 ]

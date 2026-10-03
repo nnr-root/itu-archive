@@ -1,10 +1,10 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-10-03T13:29:48Z",
+ "scrapedAt": "2026-10-03T18:01:38Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5498,
+ "sections": 5501,
  "courses": 3920,
  "branches": [
   {
@@ -96,7 +96,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 53
+   "sections": 56
   },
   {
    "code": "BEN",
@@ -1664,11 +1664,11 @@
   }
  ],
  "stats": {
-  "sections": 5498,
+  "sections": 5501,
   "courses": 3920,
   "branches": 233,
   "instructors": 2009,
-  "capacity": 266851,
-  "enrolled": 133139
+  "capacity": 266916,
+  "enrolled": 133147
  }
 }
