@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-02T08:30:25Z",
+ "generatedAt": "2026-10-03T08:06:00Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -2618,10 +2618,15 @@
    "branch": "CAB"
   },
   {
+   "code": "CAB 185E",
+   "name": "",
+   "branch": "CAB"
+  },
+  {
    "code": "CAB 186",
    "name": "Piyano Eşlik II",
    "branch": "CAB",
-   "requirement": "CAB 185 MIN. CC"
+   "requirement": "( CAB 185 MIN. CC Veya CAB 185E MIN. CC )"
   },
   {
    "code": "CAB 187",
@@ -3704,6 +3709,12 @@
    "requirement": "CAB 353 MIN. CC"
   },
   {
+   "code": "CAB 354E",
+   "name": "Tanbur VI",
+   "branch": "CAB",
+   "requirement": "CAB 353 MIN. CC"
+  },
+  {
    "code": "CAB 355",
    "name": "Tar V",
    "branch": "CAB",
@@ -4186,7 +4197,7 @@
    "code": "CAB 453",
    "name": "Tanbur VII",
    "branch": "CAB",
-   "requirement": "CAB 354 MIN. CC"
+   "requirement": "( CAB 354 MIN. CC Veya CAB 354E MIN. CC )"
   },
   {
    "code": "CAB 454",
@@ -28562,7 +28573,7 @@
   },
   {
    "code": "SAO 202E",
-   "name": "Cyber Incident Management",
+   "name": "Siber Olay Yönetimi",
    "branch": "SAO",
    "requirement": "( SAO 101 MIN. DD Veya SAO 101E MIN. DD ) Ve ( SAO 103E MIN. DD Veya SAO 103 MIN. DD )"
   },
@@ -40519,6 +40530,10 @@
    "to": "CAB 186"
   },
   {
+   "from": "CAB 185E",
+   "to": "CAB 186"
+  },
+  {
    "from": "CAB 186",
    "to": "CAB 285"
   },
@@ -41399,7 +41414,15 @@
    "to": "CAB 354"
   },
   {
+   "from": "CAB 353",
+   "to": "CAB 354E"
+  },
+  {
    "from": "CAB 354",
+   "to": "CAB 453"
+  },
+  {
+   "from": "CAB 354E",
    "to": "CAB 453"
   },
   {

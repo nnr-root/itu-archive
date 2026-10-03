@@ -1,10 +1,10 @@
 {
- "durationSec": 59,
+ "durationSec": 146,
  "failedBranches": null,
- "lastRunAt": "2026-10-02T23:51:30Z",
- "lastSuccessAt": "2026-10-02T23:51:30Z",
- "mode": "hafif",
+ "lastRunAt": "2026-10-03T08:06:00Z",
+ "lastSuccessAt": "2026-10-03T08:06:00Z",
+ "mode": "tam",
  "partial": false,
- "prevSections": 5499,
+ "prevSections": 5498,
  "sections": 5498
 }
