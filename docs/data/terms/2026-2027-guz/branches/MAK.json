@@ -839,7 +839,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 180,
+  "capacity": 185,
   "enrolled": 180,
   "reserved": "-",
   "programs": [
@@ -1791,7 +1791,7 @@
    "A363",
    "A363"
   ],
-  "capacity": 115,
+  "capacity": 125,
   "enrolled": 115,
   "reserved": "-",
   "programs": [
@@ -2110,7 +2110,7 @@
   "rooms": [
    "A101"
   ],
-  "capacity": 165,
+  "capacity": 170,
   "enrolled": 165,
   "reserved": "-",
   "programs": [
@@ -2139,7 +2139,7 @@
   "rooms": [
    "A501"
   ],
-  "capacity": 130,
+  "capacity": 135,
   "enrolled": 130,
   "reserved": "-",
   "programs": [
@@ -2590,7 +2590,7 @@
    "D317",
    "D317"
   ],
-  "capacity": 60,
+  "capacity": 65,
   "enrolled": 60,
   "reserved": "-",
   "programs": [
@@ -2624,7 +2624,7 @@
    "D353",
    "D353"
   ],
-  "capacity": 60,
+  "capacity": 65,
   "enrolled": 60,
   "reserved": "-",
   "programs": [
@@ -3942,7 +3942,7 @@
   "rooms": [
    "D368A"
   ],
-  "capacity": 0,
+  "capacity": 1,
   "enrolled": 1,
   "reserved": "-",
   "programs": [
