@@ -81,7 +81,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 6,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -135,7 +135,7 @@
    "131"
   ],
   "capacity": 15,
-  "enrolled": 1,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -397,7 +397,7 @@
    "215"
   ],
   "capacity": 75,
-  "enrolled": 77,
+  "enrolled": 78,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -805,7 +805,7 @@
    "216"
   ],
   "capacity": 70,
-  "enrolled": 32,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1157,7 +1157,7 @@
    "D380"
   ],
   "capacity": 45,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1193,30 +1193,6 @@
   "programs": [
    "SBP_LS",
    "SBP_YD"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "14348",
-  "code": "SBP 327E",
-  "branch": "SBP",
-  "level": "LS",
-  "name": "Urban Law and Management",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "-",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 0,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "SBP_YD",
-   "SBPE_LS"
   ],
   "prereq": "-",
   "classReq": "-"
@@ -1444,7 +1420,7 @@
    "--"
   ],
   "capacity": 13,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1534,8 +1510,8 @@
    "216"
   ],
   "capacity": 45,
-  "enrolled": 30,
-  "reserved": "ARC_LS/2/0 | EUTE_LS/2/0 | ENTE_LS/3/0 | ICM_LS/2/0 | MIM_LS/3/2 | MIME_LS/3/0 | PEME_LS/2/0 | Diğer/28/28",
+  "enrolled": 29,
+  "reserved": "ARC_LS/2/0 | EUTE_LS/2/0 | ENTE_LS/3/0 | ICM_LS/2/0 | MIM_LS/3/2 | MIME_LS/3/0 | PEME_LS/2/0 | Diğer/28/27",
   "programs": [
    "ARC_LS",
    "ENTE_LS",
@@ -1572,7 +1548,7 @@
    "217A"
   ],
   "capacity": 45,
-  "enrolled": 28,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1602,7 +1578,7 @@
    "315"
   ],
   "capacity": 25,
-  "enrolled": 21,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1802,8 +1778,8 @@
    "302"
   ],
   "capacity": 30,
-  "enrolled": 28,
-  "reserved": "ARC_LS/3/0 | Diğer/27/28",
+  "enrolled": 29,
+  "reserved": "ARC_LS/3/0 | Diğer/27/29",
   "programs": [
    "ARC_LS",
    "SBP_LS",
@@ -1956,7 +1932,7 @@
    "309"
   ],
   "capacity": 30,
-  "enrolled": 2,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -2020,7 +1996,7 @@
    "--"
   ],
   "capacity": 65,
-  "enrolled": 42,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "SBP_YD",

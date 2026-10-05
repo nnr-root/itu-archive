@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-10-05T08:59:02Z",
+ "scrapedAt": "2026-10-05T17:13:16Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5500,
- "courses": 3920,
+ "sections": 5461,
+ "courses": 3895,
  "branches": [
   {
    "code": "AAR",
@@ -40,7 +40,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 6
+   "sections": 7
   },
   {
    "code": "ALG",
@@ -131,7 +131,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 35
+   "sections": 34
   },
   {
    "code": "BLG",
@@ -238,7 +238,7 @@
     "LS",
     "LU"
    ],
-   "sections": 37
+   "sections": 35
   },
   {
    "code": "CIE",
@@ -287,7 +287,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 7
+   "sections": 11
   },
   {
    "code": "DCZ",
@@ -301,14 +301,14 @@
    "levels": [
     "LS"
    ],
-   "sections": 52
+   "sections": 51
   },
   {
    "code": "DEP",
    "levels": [
     "LU"
    ],
-   "sections": 15
+   "sections": 14
   },
   {
    "code": "DFH",
@@ -392,7 +392,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 38
+   "sections": 37
   },
   {
    "code": "EFN",
@@ -413,7 +413,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 85
+   "sections": 82
   },
   {
    "code": "EHN",
@@ -442,7 +442,7 @@
     "LS",
     "LU"
    ],
-   "sections": 100
+   "sections": 98
   },
   {
    "code": "ENB",
@@ -501,7 +501,7 @@
     "LS",
     "LU"
    ],
-   "sections": 205
+   "sections": 199
   },
   {
    "code": "FRA",
@@ -560,7 +560,7 @@
     "LS",
     "LU"
    ],
-   "sections": 43
+   "sections": 41
   },
   {
    "code": "GIT",
@@ -631,7 +631,7 @@
     "LS",
     "LU"
    ],
-   "sections": 49
+   "sections": 42
   },
   {
    "code": "IEB",
@@ -830,7 +830,7 @@
     "LS",
     "LU"
    ],
-   "sections": 156
+   "sections": 149
   },
   {
    "code": "KMM",
@@ -838,7 +838,7 @@
     "LS",
     "LU"
    ],
-   "sections": 50
+   "sections": 44
   },
   {
    "code": "KMP",
@@ -859,7 +859,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 50
+   "sections": 49
   },
   {
    "code": "KOR",
@@ -996,7 +996,7 @@
     "LS",
     "LU"
    ],
-   "sections": 48
+   "sections": 47
   },
   {
    "code": "MHN",
@@ -1024,7 +1024,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 158
+   "sections": 157
   },
   {
    "code": "MIT",
@@ -1228,7 +1228,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 17
+   "sections": 16
   },
   {
    "code": "NUM",
@@ -1357,7 +1357,7 @@
     "LS",
     "LU"
    ],
-   "sections": 67
+   "sections": 66
   },
   {
    "code": "SEC",
@@ -1671,11 +1671,11 @@
   }
  ],
  "stats": {
-  "sections": 5500,
-  "courses": 3920,
+  "sections": 5461,
+  "courses": 3895,
   "branches": 234,
-  "instructors": 2009,
-  "capacity": 266886,
-  "enrolled": 132577
+  "instructors": 2005,
+  "capacity": 265705,
+  "enrolled": 133713
  }
 }

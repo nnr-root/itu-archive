@@ -96,7 +96,7 @@
     "TEK 213E",
     "Textile Chemistry",
     35,
-    25
+    26
    ],
    [
     "2026-2027-guz",
@@ -207,7 +207,7 @@
     "LEE 904",
     "Yönlendirilmiş Çalışmalar",
     28,
-    27
+    28
    ],
    [
     "2026-2027-guz",
@@ -877,7 +877,7 @@
     "MIM 4044",
     "Mimarlıkta Morfoloji",
     18,
-    15
+    16
    ],
    [
     "2026-2027-guz",
@@ -1281,7 +1281,7 @@
     "ING 103H",
     "Public Presentations",
     26,
-    24
+    25
    ],
    [
     "2025-2026-bahar",
@@ -1777,7 +1777,7 @@
     "INS 102E",
     "Statics",
     40,
-    42
+    41
    ],
    [
     "2025-2026-bahar",
@@ -1923,7 +1923,7 @@
     "ATA 121",
     "Atatürk İlk \u0026 İnkılap Trh I",
     75,
-    82
+    83
    ],
    [
     "2026-2027-guz",
@@ -1944,21 +1944,21 @@
     "ATA 122",
     "Atatürk İlk \u0026 İnkılap Trh II",
     75,
-    81
+    83
    ],
    [
     "2026-2027-guz",
     "ATA 121E",
     "History of Turkish Revolution I",
     0,
-    4
+    7
    ],
    [
     "2026-2027-guz",
     "ATA 122E",
     "History of Turkish Revolution II",
     0,
-    4
+    13
    ],
    [
     "2026-2027-guz",
@@ -2894,7 +2894,7 @@
     "ENT 213E",
     "Design Models and Prototypes",
     35,
-    35
+    34
    ],
    [
     "2026-2027-guz",
@@ -3242,7 +3242,7 @@
     "BIO 214E",
     "Microbiology",
     20,
-    3
+    2
    ],
    [
     "2026-2027-guz",
@@ -3965,7 +3965,7 @@
     "STA 204E",
     "Statics\u0026Strength of Materials",
     70,
-    68
+    69
    ],
    [
     "2026-2027-guz",
@@ -4363,13 +4363,6 @@
   "name": "Pınar Özdemir Çağlayan",
   "rows": [
    [
-    "2026-2027-guz",
-    "DEP 613E",
-    "Seismic Isolation of Structur.",
-    20,
-    0
-   ],
-   [
     "2025-2026-bahar",
     "INS 217E",
     "Strength of Materials I",
@@ -4594,6 +4587,6 @@
     53
    ]
   ],
-  "terms": 17
+  "terms": 16
  }
 }

@@ -29,36 +29,6 @@
   "classReq": "-"
  },
  {
-  "crn": "10968",
-  "code": "BIO 215",
-  "branch": "BIO",
-  "level": "LS",
-  "name": "Biyokimya",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ayşe Banu Kocaağa",
-  "buildings": [
-   "KMB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "D305"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "KMM_LS",
-   "KMME_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "10969",
   "code": "BIO 214E",
   "branch": "BIO",
@@ -79,7 +49,7 @@
    "D302"
   ],
   "capacity": 20,
-  "enrolled": 3,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -109,7 +79,7 @@
    "D303"
   ],
   "capacity": 20,
-  "enrolled": 6,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -139,8 +109,8 @@
    "D203"
   ],
   "capacity": 45,
-  "enrolled": 38,
-  "reserved": "GID_LS/15/20 | Diğer/30/18",
+  "enrolled": 41,
+  "reserved": "GID_LS/15/22 | Diğer/30/19",
   "programs": [
    "CEV_LS",
    "CEVE_LS",
@@ -241,7 +211,7 @@
    "D102"
   ],
   "capacity": 100,
-  "enrolled": 81,
+  "enrolled": 82,
   "reserved": "-",
   "programs": [
    "BIO_LS",

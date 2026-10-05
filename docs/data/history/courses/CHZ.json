@@ -1201,7 +1201,7 @@
     "2026-2027-guz",
     "Fatma Arslan",
     50,
-    48,
+    49,
     "Çarşamba"
    ],
    [
@@ -3342,7 +3342,7 @@
     "2026-2027-guz",
     "Gülay Bulut",
     35,
-    28,
+    29,
     "Cuma"
    ],
    [
@@ -4247,7 +4247,7 @@
    [
     "2026-2027-guz",
     "Kudret Tahsin Perek , Emrah Tuğcan Tuzcu",
-    20,
+    0,
     0,
     "Salı"
    ]
@@ -4263,7 +4263,7 @@
    [
     "2026-2027-guz",
     "Orhan Özdemir",
-    20,
+    0,
     0,
     "Perşembe"
    ]
@@ -4365,38 +4365,6 @@
    ]
   ]
  },
- "CHZ 616": {
-  "code": "CHZ 616",
-  "name": "Mineral Esaslı Nanote.Hammad.",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Birgül Benli",
-    20,
-    0,
-    "Salı"
-   ]
-  ]
- },
- "CHZ 697": {
-  "code": "CHZ 697",
-  "name": "Uzmanlık Alan Dersi",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Orhan Özdemir",
-    20,
-    0,
-    "Çarşamba"
-   ]
-  ]
- },
  "CHZ DRT": {
   "code": "CHZ DRT",
   "name": "Tez Çalışması",
@@ -4423,7 +4391,7 @@
    [
     "2026-2027-guz",
     "Murat Olgaç Kangal",
-    200,
+    0,
     0,
     ""
    ]

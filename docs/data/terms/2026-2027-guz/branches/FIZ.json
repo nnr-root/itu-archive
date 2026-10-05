@@ -20,7 +20,7 @@
    "A32"
   ],
   "capacity": 120,
-  "enrolled": 107,
+  "enrolled": 108,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -280,7 +280,7 @@
    "A11"
   ],
   "capacity": 140,
-  "enrolled": 135,
+  "enrolled": 136,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -580,7 +580,7 @@
    "A31"
   ],
   "capacity": 90,
-  "enrolled": 61,
+  "enrolled": 63,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -780,7 +780,7 @@
    "A34"
   ],
   "capacity": 75,
-  "enrolled": 71,
+  "enrolled": 73,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -980,7 +980,7 @@
    "A32"
   ],
   "capacity": 120,
-  "enrolled": 103,
+  "enrolled": 104,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1280,7 +1280,7 @@
    "A11"
   ],
   "capacity": 100,
-  "enrolled": 83,
+  "enrolled": 84,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1680,7 +1680,7 @@
    "A12"
   ],
   "capacity": 75,
-  "enrolled": 71,
+  "enrolled": 73,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1780,7 +1780,7 @@
    "174"
   ],
   "capacity": 130,
-  "enrolled": 118,
+  "enrolled": 120,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1888,7 +1888,7 @@
    "A36"
   ],
   "capacity": 120,
-  "enrolled": 119,
+  "enrolled": 120,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1996,7 +1996,7 @@
    "175"
   ],
   "capacity": 122,
-  "enrolled": 111,
+  "enrolled": 113,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2212,7 +2212,7 @@
    "A34"
   ],
   "capacity": 90,
-  "enrolled": 74,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2536,7 +2536,7 @@
    "A32"
   ],
   "capacity": 120,
-  "enrolled": 119,
+  "enrolled": 120,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2644,7 +2644,7 @@
    "A31"
   ],
   "capacity": 140,
-  "enrolled": 139,
+  "enrolled": 140,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2752,7 +2752,7 @@
    "--"
   ],
   "capacity": 27,
-  "enrolled": 28,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3452,7 +3452,7 @@
    "--"
   ],
   "capacity": 27,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3552,7 +3552,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 26,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3652,7 +3652,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 26,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4752,7 +4752,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -5052,7 +5052,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 23,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -5232,206 +5232,6 @@
   "classReq": "-"
  },
  {
-  "crn": "10552",
-  "code": "FIZ 101EL",
-  "branch": "FIZ",
-  "level": "LS",
-  "name": "Physics I Laboratory",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Cem Özgür Servantie",
-  "buildings": [
-   "FEB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 25,
-  "enrolled": 6,
-  "reserved": "-",
-  "programs": [
-   "BIO_LS",
-   "BIOE_LS",
-   "BLG_LS",
-   "BLGE_LS",
-   "CEV_LS",
-   "CEVE_LS",
-   "CHZ_LS",
-   "CHZE_LS",
-   "DEN_LS",
-   "DENE_LS",
-   "EHB_LS",
-   "EHBE_LS",
-   "ELE_LS",
-   "ELK_LS",
-   "ELKE_LS",
-   "END_LS",
-   "ENDE_LS",
-   "ENTE_LS",
-   "EUT_LS",
-   "EUTE_LS",
-   "FIZ_YD",
-   "GEM_LS",
-   "GEME_LS",
-   "GEO_LS",
-   "GEOE_LS",
-   "GID_LS",
-   "GIDE_LS",
-   "HTA_LS",
-   "HTAE_LS",
-   "IBM_LS",
-   "IML_LS",
-   "IMLE_LS",
-   "INS_LS",
-   "INSE_LS",
-   "ISL_LS",
-   "ISLE_LS",
-   "JEF_LS",
-   "JEFE_LS",
-   "JEO_LS",
-   "JEOE_LS",
-   "KIM_LS",
-   "KIME_LS",
-   "KMM_LS",
-   "KMM_YD",
-   "KMME_LS",
-   "KOM_LS",
-   "KOME_LS",
-   "MAD_LS",
-   "MADE_LS",
-   "MAK_LS",
-   "MAK_YD",
-   "MAKE_LS",
-   "MAT_LS",
-   "MATE_LS",
-   "MET_LS",
-   "METE_LS",
-   "MTO_LS",
-   "MTOE_LS",
-   "PET_LS",
-   "PETE_LS",
-   "ROS_LS",
-   "ROSE_LS",
-   "SECE_LS",
-   "TEK_LS",
-   "TEKE_LS",
-   "TEL_LS",
-   "UCK_LS",
-   "UCK_YD",
-   "UZB_LS",
-   "UZB_YD",
-   "UZBE_LS",
-   "YZVE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "10554",
-  "code": "FIZ 101EL",
-  "branch": "FIZ",
-  "level": "LS",
-  "name": "Physics I Laboratory",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Meltem Güngörmez",
-  "buildings": [
-   "FEB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 25,
-  "enrolled": 7,
-  "reserved": "-",
-  "programs": [
-   "BIO_LS",
-   "BIOE_LS",
-   "BLG_LS",
-   "BLGE_LS",
-   "CEV_LS",
-   "CEVE_LS",
-   "CHZ_LS",
-   "CHZE_LS",
-   "DEN_LS",
-   "DENE_LS",
-   "EHB_LS",
-   "EHBE_LS",
-   "ELE_LS",
-   "ELK_LS",
-   "ELKE_LS",
-   "END_LS",
-   "ENDE_LS",
-   "ENTE_LS",
-   "EUT_LS",
-   "EUTE_LS",
-   "FIZ_YD",
-   "GEM_LS",
-   "GEME_LS",
-   "GEO_LS",
-   "GEOE_LS",
-   "GID_LS",
-   "GIDE_LS",
-   "HTA_LS",
-   "HTAE_LS",
-   "IBM_LS",
-   "IML_LS",
-   "IMLE_LS",
-   "INS_LS",
-   "INSE_LS",
-   "ISL_LS",
-   "ISLE_LS",
-   "JEF_LS",
-   "JEFE_LS",
-   "JEO_LS",
-   "JEOE_LS",
-   "KIM_LS",
-   "KIME_LS",
-   "KMM_LS",
-   "KMM_YD",
-   "KMME_LS",
-   "KOM_LS",
-   "KOME_LS",
-   "MAD_LS",
-   "MADE_LS",
-   "MAK_LS",
-   "MAK_YD",
-   "MAKE_LS",
-   "MAT_LS",
-   "MATE_LS",
-   "MET_LS",
-   "METE_LS",
-   "MTO_LS",
-   "MTOE_LS",
-   "PET_LS",
-   "PETE_LS",
-   "ROS_LS",
-   "ROSE_LS",
-   "SECE_LS",
-   "TEK_LS",
-   "TEKE_LS",
-   "TEL_LS",
-   "UCK_LS",
-   "UCK_YD",
-   "UZB_LS",
-   "UZB_YD",
-   "UZBE_LS",
-   "YZVE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "10555",
   "code": "FIZ 101EL",
   "branch": "FIZ",
@@ -5452,7 +5252,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 6,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -5552,7 +5352,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 7,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -5952,7 +5752,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 24,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -6132,106 +5932,6 @@
   "classReq": "-"
  },
  {
-  "crn": "10564",
-  "code": "FIZ 101EL",
-  "branch": "FIZ",
-  "level": "LS",
-  "name": "Physics I Laboratory",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Kazım Yavuz Ekşi",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "09:30/11:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 25,
-  "enrolled": 5,
-  "reserved": "-",
-  "programs": [
-   "BIO_LS",
-   "BIOE_LS",
-   "BLG_LS",
-   "BLGE_LS",
-   "CEV_LS",
-   "CEVE_LS",
-   "CHZ_LS",
-   "CHZE_LS",
-   "DEN_LS",
-   "DENE_LS",
-   "EHB_LS",
-   "EHBE_LS",
-   "ELE_LS",
-   "ELK_LS",
-   "ELKE_LS",
-   "END_LS",
-   "ENDE_LS",
-   "ENTE_LS",
-   "EUT_LS",
-   "EUTE_LS",
-   "FIZ_YD",
-   "GEM_LS",
-   "GEME_LS",
-   "GEO_LS",
-   "GEOE_LS",
-   "GID_LS",
-   "GIDE_LS",
-   "HTA_LS",
-   "HTAE_LS",
-   "IBM_LS",
-   "IML_LS",
-   "IMLE_LS",
-   "INS_LS",
-   "INSE_LS",
-   "ISL_LS",
-   "ISLE_LS",
-   "JEF_LS",
-   "JEFE_LS",
-   "JEO_LS",
-   "JEOE_LS",
-   "KIM_LS",
-   "KIME_LS",
-   "KMM_LS",
-   "KMM_YD",
-   "KMME_LS",
-   "KOM_LS",
-   "KOME_LS",
-   "MAD_LS",
-   "MADE_LS",
-   "MAK_LS",
-   "MAK_YD",
-   "MAKE_LS",
-   "MAT_LS",
-   "MATE_LS",
-   "MET_LS",
-   "METE_LS",
-   "MTO_LS",
-   "MTOE_LS",
-   "PET_LS",
-   "PETE_LS",
-   "ROS_LS",
-   "ROSE_LS",
-   "SECE_LS",
-   "TEK_LS",
-   "TEKE_LS",
-   "TEL_LS",
-   "UCK_LS",
-   "UCK_YD",
-   "UZB_LS",
-   "UZB_YD",
-   "UZBE_LS",
-   "YZVE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "10566",
   "code": "FIZ 101EL",
   "branch": "FIZ",
@@ -6252,7 +5952,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 14,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -6352,7 +6052,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 16,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -6552,7 +6252,7 @@
    "--"
   ],
   "capacity": 26,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -7052,7 +6752,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 39,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "CEN_LS",
@@ -7384,7 +7084,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 24,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -7584,7 +7284,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "CEN_LS",
@@ -8216,7 +7916,7 @@
    "--"
   ],
   "capacity": 27,
-  "enrolled": 26,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -8316,7 +8016,7 @@
    "--"
   ],
   "capacity": 27,
-  "enrolled": 24,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -8516,7 +8216,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 28,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -8616,7 +8316,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 27,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -8716,7 +8416,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 27,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -9016,7 +8716,7 @@
    "--"
   ],
   "capacity": 27,
-  "enrolled": 26,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -9116,7 +8816,7 @@
    "--"
   ],
   "capacity": 27,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -9648,7 +9348,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 24,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -9948,7 +9648,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 22,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -11348,7 +11048,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 14,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -11528,106 +11228,6 @@
   "classReq": "-"
  },
  {
-  "crn": "10648",
-  "code": "FIZ 101EL",
-  "branch": "FIZ",
-  "level": "LS",
-  "name": "Physics I Laboratory",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Sinem Şaşmaz",
-  "buildings": [
-   "FEB"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "10:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 25,
-  "enrolled": 7,
-  "reserved": "-",
-  "programs": [
-   "BIO_LS",
-   "BIOE_LS",
-   "BLG_LS",
-   "BLGE_LS",
-   "CEV_LS",
-   "CEVE_LS",
-   "CHZ_LS",
-   "CHZE_LS",
-   "DEN_LS",
-   "DENE_LS",
-   "EHB_LS",
-   "EHBE_LS",
-   "ELE_LS",
-   "ELK_LS",
-   "ELKE_LS",
-   "END_LS",
-   "ENDE_LS",
-   "ENTE_LS",
-   "EUT_LS",
-   "EUTE_LS",
-   "FIZ_YD",
-   "GEM_LS",
-   "GEME_LS",
-   "GEO_LS",
-   "GEOE_LS",
-   "GID_LS",
-   "GIDE_LS",
-   "HTA_LS",
-   "HTAE_LS",
-   "IBM_LS",
-   "IML_LS",
-   "IMLE_LS",
-   "INS_LS",
-   "INSE_LS",
-   "ISL_LS",
-   "ISLE_LS",
-   "JEF_LS",
-   "JEFE_LS",
-   "JEO_LS",
-   "JEOE_LS",
-   "KIM_LS",
-   "KIME_LS",
-   "KMM_LS",
-   "KMM_YD",
-   "KMME_LS",
-   "KOM_LS",
-   "KOME_LS",
-   "MAD_LS",
-   "MADE_LS",
-   "MAK_LS",
-   "MAK_YD",
-   "MAKE_LS",
-   "MAT_LS",
-   "MATE_LS",
-   "MET_LS",
-   "METE_LS",
-   "MTO_LS",
-   "MTOE_LS",
-   "PET_LS",
-   "PETE_LS",
-   "ROS_LS",
-   "ROSE_LS",
-   "SECE_LS",
-   "TEK_LS",
-   "TEKE_LS",
-   "TEL_LS",
-   "UCK_LS",
-   "UCK_YD",
-   "UZB_LS",
-   "UZB_YD",
-   "UZBE_LS",
-   "YZVE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "10649",
   "code": "FIZ 101EL",
   "branch": "FIZ",
@@ -11648,7 +11248,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 12,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -11848,7 +11448,7 @@
    "--"
   ],
   "capacity": 27,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -12048,7 +11648,7 @@
    "--"
   ],
   "capacity": 27,
-  "enrolled": 24,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -12148,7 +11748,7 @@
    "--"
   ],
   "capacity": 27,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -12380,7 +11980,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 60,
+  "enrolled": 61,
   "reserved": "-",
   "programs": [
    "DUI_LS",
@@ -12470,7 +12070,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 35,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "DUI_LS",
@@ -12500,7 +12100,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 70,
+  "enrolled": 71,
   "reserved": "-",
   "programs": [
    "DUI_LS",
@@ -12695,7 +12295,7 @@
    "A101"
   ],
   "capacity": 90,
-  "enrolled": 80,
+  "enrolled": 81,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -12965,7 +12565,7 @@
    "B4_Z05"
   ],
   "capacity": 30,
-  "enrolled": 19,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -13190,7 +12790,7 @@
    "D202"
   ],
   "capacity": 80,
-  "enrolled": 80,
+  "enrolled": 79,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -13295,7 +12895,7 @@
    "175"
   ],
   "capacity": 110,
-  "enrolled": 109,
+  "enrolled": 110,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -13578,7 +13178,7 @@
    "--"
   ],
   "capacity": 26,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "FIZ_LS",
@@ -13609,66 +13209,6 @@
   ],
   "capacity": 30,
   "enrolled": 26,
-  "reserved": "-",
-  "programs": [
-   "FIZ_LS",
-   "FIZE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13864",
-  "code": "FIZ 214EL",
-  "branch": "FIZ",
-  "level": "LS",
-  "name": "Wave Physics Laboratory",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Sevtap Yıldız Özbek",
-  "buildings": [
-   "FEB"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "13:30/15:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 0,
-  "enrolled": 1,
-  "reserved": "-",
-  "programs": [
-   "FIZ_LS",
-   "FIZE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13865",
-  "code": "FIZ 214EL",
-  "branch": "FIZ",
-  "level": "LS",
-  "name": "Wave Physics Laboratory",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Sevtap Yıldız Özbek",
-  "buildings": [
-   "FEB"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 0,
-  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "FIZ_LS",
@@ -14308,7 +13848,7 @@
    "D105"
   ],
   "capacity": 30,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "FIZ_LS",
@@ -14399,7 +13939,7 @@
    "L200"
   ],
   "capacity": 30,
-  "enrolled": 12,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "FIZ_LS",
@@ -14434,7 +13974,7 @@
    "D205"
   ],
   "capacity": 40,
-  "enrolled": 36,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [
    "FIZ_LS",
@@ -14651,7 +14191,7 @@
    "A34"
   ],
   "capacity": 125,
-  "enrolled": 138,
+  "enrolled": 139,
   "reserved": "-",
   "programs": [
    "CEN_LS",
@@ -14740,7 +14280,7 @@
    "--"
   ],
   "capacity": 100,
-  "enrolled": 66,
+  "enrolled": 67,
   "reserved": "-",
   "programs": [
    "MEN_LS",

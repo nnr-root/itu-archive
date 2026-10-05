@@ -20,7 +20,7 @@
    "1303"
   ],
   "capacity": 15,
-  "enrolled": 12,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -74,7 +74,7 @@
    "5303"
   ],
   "capacity": 60,
-  "enrolled": 56,
+  "enrolled": 55,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -705,7 +705,7 @@
    "5305"
   ],
   "capacity": 50,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "CHZE_LS",
@@ -742,46 +742,7 @@
    "5303"
   ],
   "capacity": 60,
-  "enrolled": 57,
-  "reserved": "-",
-  "programs": [
-   "CHZE_LS",
-   "GIDE_LS",
-   "ISLE_LS",
-   "MAKE_LS",
-   "METE_LS",
-   "PETE_LS",
-   "TEKE_LS",
-   "UCK_LS",
-   "UCK_YD",
-   "UZB_LS",
-   "UZBE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "14657",
-  "code": "ELK 221E",
-  "branch": "ELK",
-  "level": "LS",
-  "name": "Fundamentals of Electric. Eng.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Aydın Tarık Zengin",
-  "buildings": [
-   "EEB"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "12:30/15:29"
-  ],
-  "rooms": [
-   "5207"
-  ],
-  "capacity": 50,
-  "enrolled": 1,
+  "enrolled": 59,
   "reserved": "-",
   "programs": [
    "CHZE_LS",
@@ -1104,7 +1065,7 @@
    "5101"
   ],
   "capacity": 65,
-  "enrolled": 63,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1204,7 +1165,7 @@
    "2104"
   ],
   "capacity": 60,
-  "enrolled": 53,
+  "enrolled": 54,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -1264,7 +1225,7 @@
    "2102"
   ],
   "capacity": 65,
-  "enrolled": 64,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1391,7 +1352,7 @@
    "5303"
   ],
   "capacity": 45,
-  "enrolled": 41,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [
    "ELK_LS",
@@ -1539,7 +1500,7 @@
    "5303"
   ],
   "capacity": 50,
-  "enrolled": 31,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -1598,7 +1559,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -1656,7 +1617,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "ELK_LS",
@@ -1716,7 +1677,7 @@
    "5301"
   ],
   "capacity": 55,
-  "enrolled": 50,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -1832,7 +1793,7 @@
    "5303"
   ],
   "capacity": 18,
-  "enrolled": 17,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "ELK_LS",
@@ -1862,8 +1823,8 @@
    "5302"
   ],
   "capacity": 60,
-  "enrolled": 55,
-  "reserved": "EEE_LS/5/3 | Diğer/55/52",
+  "enrolled": 58,
+  "reserved": "EEE_LS/5/3 | Diğer/55/55",
   "programs": [
    "EEE_LS",
    "ELK_LS",
@@ -2012,35 +1973,6 @@
   ],
   "prereq": "-",
   "classReq": "Detay"
- },
- {
-  "crn": "14709",
-  "code": "ELK 495",
-  "branch": "ELK",
-  "level": "LS",
-  "name": "Elk. Enj. Kalit. ve Harmonik.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ömer Gül",
-  "buildings": [
-   "EEB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "12:30/15:29"
-  ],
-  "rooms": [
-   "5101"
-  ],
-  "capacity": 50,
-  "enrolled": 7,
-  "reserved": "-",
-  "programs": [
-   "ELK_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
  },
  {
   "crn": "15693",

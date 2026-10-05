@@ -144,7 +144,7 @@
    "A203"
   ],
   "capacity": 50,
-  "enrolled": 48,
+  "enrolled": 49,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -509,7 +509,7 @@
    "B204"
   ],
   "capacity": 35,
-  "enrolled": 28,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "MAD_LS"
@@ -722,7 +722,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
+  "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
   "programs": [],
@@ -749,7 +749,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
+  "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
   "programs": [],
@@ -892,60 +892,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13733",
-  "code": "CHZ 616",
-  "branch": "CHZ",
-  "level": "LU",
-  "name": "Mineral Esaslı Nanote.Hammad.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Birgül Benli",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13736",
-  "code": "CHZ 697",
-  "branch": "CHZ",
-  "level": "LU",
-  "name": "Uzmanlık Alan Dersi",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Orhan Özdemir",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13737",
   "code": "CHZ DRT",
   "branch": "CHZ",
@@ -980,7 +926,7 @@
    "-/-"
   ],
   "rooms": [],
-  "capacity": 200,
+  "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
   "programs": [],

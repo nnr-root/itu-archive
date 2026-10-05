@@ -170,7 +170,7 @@
    "D102"
   ],
   "capacity": 60,
-  "enrolled": 60,
+  "enrolled": 63,
   "reserved": "-",
   "programs": [
    "MET_LS"
@@ -290,7 +290,7 @@
    "D201"
   ],
   "capacity": 180,
-  "enrolled": 136,
+  "enrolled": 140,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -409,7 +409,7 @@
    "D301"
   ],
   "capacity": 100,
-  "enrolled": 79,
+  "enrolled": 80,
   "reserved": "-",
   "programs": [
    "MET_LS"
@@ -438,7 +438,7 @@
    "D104"
   ],
   "capacity": 100,
-  "enrolled": 69,
+  "enrolled": 70,
   "reserved": "-",
   "programs": [
    "METE_LS"
@@ -467,7 +467,7 @@
    "ML2"
   ],
   "capacity": 90,
-  "enrolled": 73,
+  "enrolled": 74,
   "reserved": "-",
   "programs": [
    "MET_LS"
@@ -583,7 +583,7 @@
    "D201"
   ],
   "capacity": 170,
-  "enrolled": 163,
+  "enrolled": 166,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -613,7 +613,7 @@
    "D301"
   ],
   "capacity": 90,
-  "enrolled": 90,
+  "enrolled": 91,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -643,7 +643,7 @@
    "D104"
   ],
   "capacity": 90,
-  "enrolled": 82,
+  "enrolled": 83,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -673,7 +673,7 @@
    "D201"
   ],
   "capacity": 180,
-  "enrolled": 172,
+  "enrolled": 174,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -703,7 +703,7 @@
    "D201"
   ],
   "capacity": 140,
-  "enrolled": 136,
+  "enrolled": 140,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -822,7 +822,7 @@
    "D204"
   ],
   "capacity": 95,
-  "enrolled": 87,
+  "enrolled": 88,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -921,38 +921,6 @@
   "classReq": "-"
  },
  {
-  "crn": "11006",
-  "code": "MET 483",
-  "branch": "MET",
-  "level": "LS",
-  "name": "Hasarsız Malz. Muayenesi. Gir.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Aytekin Uzunoğlu",
-  "buildings": [
-   "KMB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "13:30/15:29"
-  ],
-  "rooms": [
-   "D202"
-  ],
-  "capacity": 60,
-  "enrolled": 0,
-  "reserved": "MET_LS/45/0 | Diğer/15/0",
-  "programs": [
-   "MET_LS",
-   "UCK_LS",
-   "UZB_LS",
-   "UZBE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "11007",
   "code": "MET 483E",
   "branch": "MET",
@@ -973,8 +941,8 @@
    "D204"
   ],
   "capacity": 65,
-  "enrolled": 41,
-  "reserved": "MET_LS/32/1 | METE_LS/18/0 | Diğer/15/40",
+  "enrolled": 46,
+  "reserved": "MET_LS/32/4 | METE_LS/18/2 | Diğer/15/40",
   "programs": [
    "MET_LS",
    "METE_LS",
@@ -1237,7 +1205,7 @@
    "D105"
   ],
   "capacity": 20,
-  "enrolled": 10,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

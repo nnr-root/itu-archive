@@ -375,7 +375,7 @@
    "D452"
   ],
   "capacity": 30,
-  "enrolled": 3,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -568,7 +568,7 @@
    "D361A"
   ],
   "capacity": 35,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "TEK_LS",
@@ -599,7 +599,7 @@
    "D368B"
   ],
   "capacity": 35,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "TEK_LS",
@@ -630,7 +630,7 @@
    "D361A"
   ],
   "capacity": 35,
-  "enrolled": 32,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "TEK_LS",
@@ -661,7 +661,7 @@
    "D374"
   ],
   "capacity": 35,
-  "enrolled": 12,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "TEK_LS",
@@ -692,7 +692,7 @@
    "D361A"
   ],
   "capacity": 30,
-  "enrolled": 14,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "TEK_LS",
@@ -816,7 +816,7 @@
    "D380B"
   ],
   "capacity": 35,
-  "enrolled": 32,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "TEK_YD",
@@ -846,7 +846,7 @@
    "D381A"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "TEK_LS",
@@ -908,7 +908,7 @@
    "D357"
   ],
   "capacity": 35,
-  "enrolled": 31,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "TEK_LS",
@@ -999,8 +999,8 @@
   "rooms": [
    "D357"
   ],
-  "capacity": 40,
-  "enrolled": 40,
+  "capacity": 45,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [
    "TEK_LS",
@@ -1031,7 +1031,7 @@
    "D376"
   ],
   "capacity": 50,
-  "enrolled": 32,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -1062,7 +1062,7 @@
    "D381B"
   ],
   "capacity": 40,
-  "enrolled": 31,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "TEK_LS",
@@ -1211,7 +1211,7 @@
    "D361B"
   ],
   "capacity": 30,
-  "enrolled": 28,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "TEKE_LS"
@@ -1327,7 +1327,7 @@
    "D368B"
   ],
   "capacity": 30,
-  "enrolled": 28,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "TEKE_LS"
@@ -1492,7 +1492,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 59,
+  "enrolled": 61,
   "reserved": "-",
   "programs": [
    "TEKE_LS"

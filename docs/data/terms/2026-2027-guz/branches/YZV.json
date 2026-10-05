@@ -50,7 +50,7 @@
    "Z-18"
   ],
   "capacity": 60,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "YZVE_LS"
@@ -109,7 +109,7 @@
    "Z-19"
   ],
   "capacity": 75,
-  "enrolled": 71,
+  "enrolled": 70,
   "reserved": "-",
   "programs": [
    "YZVE_LS",
@@ -227,7 +227,7 @@
    "Z-17"
   ],
   "capacity": 75,
-  "enrolled": 64,
+  "enrolled": 66,
   "reserved": "-",
   "programs": [
    "YZVE_LS",
@@ -257,8 +257,8 @@
    "Z-16"
   ],
   "capacity": 75,
-  "enrolled": 75,
-  "reserved": "YZVE_LS/60/60 | Diğer/15/15",
+  "enrolled": 78,
+  "reserved": "YZVE_LS/60/60 | Diğer/15/18",
   "programs": [
    "BLGE_LS",
    "YZVE_LS"
@@ -311,7 +311,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 51,
+  "enrolled": 52,
   "reserved": "-",
   "programs": [
    "YZVE_LS",
@@ -395,7 +395,7 @@
    "Z-23"
   ],
   "capacity": 25,
-  "enrolled": 24,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "YZVE_LS"
@@ -453,7 +453,7 @@
    "Z-22"
   ],
   "capacity": 30,
-  "enrolled": 27,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "YZVE_LS",
@@ -483,7 +483,7 @@
    "Z-21"
   ],
   "capacity": 40,
-  "enrolled": 38,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "YZVE_LS",
