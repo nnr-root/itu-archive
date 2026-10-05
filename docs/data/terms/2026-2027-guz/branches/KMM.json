@@ -20,7 +20,7 @@
    "D304"
   ],
   "capacity": 100,
-  "enrolled": 79,
+  "enrolled": 77,
   "reserved": "-",
   "programs": [
    "KMM_LS"
@@ -53,7 +53,7 @@
    "D104"
   ],
   "capacity": 70,
-  "enrolled": 68,
+  "enrolled": 69,
   "reserved": "-",
   "programs": [
    "KMM_LS"
@@ -82,7 +82,7 @@
    "D301"
   ],
   "capacity": 45,
-  "enrolled": 43,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -340,7 +340,7 @@
    "D202"
   ],
   "capacity": 50,
-  "enrolled": 51,
+  "enrolled": 52,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -429,7 +429,7 @@
    "D201"
   ],
   "capacity": 100,
-  "enrolled": 96,
+  "enrolled": 95,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -792,7 +792,7 @@
    "D205"
   ],
   "capacity": 20,
-  "enrolled": 3,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -913,7 +913,7 @@
    "D101"
   ],
   "capacity": 20,
-  "enrolled": 19,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "KMM_LS"
@@ -942,7 +942,7 @@
    "D105"
   ],
   "capacity": 20,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "KMM_LS"
@@ -1030,7 +1030,7 @@
    "GZ101"
   ],
   "capacity": 20,
-  "enrolled": 11,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "KMM_LS"
@@ -1086,7 +1086,7 @@
    "D101"
   ],
   "capacity": 12,
-  "enrolled": 11,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1371,7 +1371,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 41,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1392,7 +1392,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 18,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

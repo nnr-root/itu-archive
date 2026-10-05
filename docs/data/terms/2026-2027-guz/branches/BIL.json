@@ -80,7 +80,7 @@
    "--"
   ],
   "capacity": 41,
-  "enrolled": 41,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -118,7 +118,7 @@
    "--"
   ],
   "capacity": 36,
-  "enrolled": 36,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -156,7 +156,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -194,7 +194,7 @@
    "B207"
   ],
   "capacity": 50,
-  "enrolled": 49,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -224,7 +224,7 @@
    "B207"
   ],
   "capacity": 60,
-  "enrolled": 38,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "JEF_LS",
@@ -283,7 +283,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 50,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "DUI_LS",
@@ -403,7 +403,7 @@
    "D300"
   ],
   "capacity": 70,
-  "enrolled": 21,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -671,7 +671,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 73,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1871,7 +1871,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 63,
+  "enrolled": 62,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2227,7 +2227,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 15,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -2305,7 +2305,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Ahmet Öztopal",
   "buildings": [
-   "MEDC"
+   "KMB"
   ],
   "days": [
    "Perşembe"
@@ -2314,10 +2314,10 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "GZ104"
   ],
   "capacity": 20,
-  "enrolled": 20,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -2336,7 +2336,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Egnar Özdikililer",
   "buildings": [
-   "MEDC"
+   "INB"
   ],
   "days": [
    "Salı"
@@ -2345,7 +2345,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "--"
+   "D103"
   ],
   "capacity": 80,
   "enrolled": 74,
@@ -2369,7 +2369,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Egnar Özdikililer",
   "buildings": [
-   "MEDC"
+   "INB"
   ],
   "days": [
    "Çarşamba"
@@ -2378,7 +2378,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "D103"
   ],
   "capacity": 80,
   "enrolled": 82,
@@ -2441,7 +2441,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 46,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "MEN_LS",

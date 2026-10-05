@@ -79,7 +79,7 @@
    "D301"
   ],
   "capacity": 90,
-  "enrolled": 62,
+  "enrolled": 63,
   "reserved": "-",
   "programs": [
    "METE_LS"
@@ -137,7 +137,7 @@
    "D103"
   ],
   "capacity": 100,
-  "enrolled": 70,
+  "enrolled": 71,
   "reserved": "-",
   "programs": [
    "METE_LS"
@@ -438,7 +438,7 @@
    "D104"
   ],
   "capacity": 100,
-  "enrolled": 68,
+  "enrolled": 69,
   "reserved": "-",
   "programs": [
    "METE_LS"
@@ -525,7 +525,7 @@
    "D203"
   ],
   "capacity": 95,
-  "enrolled": 79,
+  "enrolled": 78,
   "reserved": "-",
   "programs": [
    "MET_LS"
@@ -643,7 +643,7 @@
    "D104"
   ],
   "capacity": 90,
-  "enrolled": 85,
+  "enrolled": 82,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -673,7 +673,7 @@
    "D201"
   ],
   "capacity": 180,
-  "enrolled": 173,
+  "enrolled": 172,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -852,7 +852,7 @@
    "D203"
   ],
   "capacity": 35,
-  "enrolled": 8,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "MET_LS"
@@ -881,7 +881,7 @@
    "D102"
   ],
   "capacity": 60,
-  "enrolled": 57,
+  "enrolled": 56,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -973,8 +973,8 @@
    "D204"
   ],
   "capacity": 65,
-  "enrolled": 42,
-  "reserved": "MET_LS/32/2 | METE_LS/18/0 | Diğer/15/40",
+  "enrolled": 41,
+  "reserved": "MET_LS/32/1 | METE_LS/18/0 | Diğer/15/40",
   "programs": [
    "MET_LS",
    "METE_LS",
@@ -1006,7 +1006,7 @@
    "D102"
   ],
   "capacity": 45,
-  "enrolled": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -1036,8 +1036,8 @@
    "D303"
   ],
   "capacity": 85,
-  "enrolled": 44,
-  "reserved": "MET_LS/33/0 | METE_LS/37/1 | Diğer/15/43",
+  "enrolled": 43,
+  "reserved": "MET_LS/33/0 | METE_LS/37/1 | Diğer/15/42",
   "programs": [
    "MET_LS",
    "METE_LS",
@@ -1063,7 +1063,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 67,
+  "enrolled": 66,
   "reserved": "-",
   "programs": [
    "MET_LS"

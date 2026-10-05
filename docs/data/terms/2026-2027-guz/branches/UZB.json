@@ -8,7 +8,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Hüsnü Barbaros Soyer",
   "buildings": [
-   "undeclared"
+   "INB"
   ],
   "days": [
    "Cuma"
@@ -17,7 +17,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "D103"
   ],
   "capacity": 40,
   "enrolled": 24,
@@ -41,7 +41,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Hüsnü Barbaros Soyer",
   "buildings": [
-   "undeclared"
+   "INB"
   ],
   "days": [
    "Perşembe"
@@ -50,7 +50,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "D103"
   ],
   "capacity": 50,
   "enrolled": 47,
@@ -105,7 +105,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Hüsnü Barbaros Soyer",
   "buildings": [
-   "undeclared"
+   "INB"
   ],
   "days": [
    "Perşembe"
@@ -114,7 +114,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "--"
+   "D101"
   ],
   "capacity": 50,
   "enrolled": 45,
@@ -146,7 +146,7 @@
    "ZD1"
   ],
   "capacity": 50,
-  "enrolled": 38,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -206,7 +206,7 @@
    "3D19"
   ],
   "capacity": 41,
-  "enrolled": 41,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "UCK_LS"
@@ -295,7 +295,7 @@
    "ZA4"
   ],
   "capacity": 60,
-  "enrolled": 56,
+  "enrolled": 55,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -358,7 +358,7 @@
    "ZA1"
   ],
   "capacity": 105,
-  "enrolled": 100,
+  "enrolled": 99,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -612,7 +612,7 @@
    "ZA3"
   ],
   "capacity": 100,
-  "enrolled": 102,
+  "enrolled": 101,
   "reserved": "-",
   "programs": [
    "UCK_LS",

@@ -776,7 +776,7 @@
    "150"
   ],
   "capacity": 25,
-  "enrolled": 24,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -3044,7 +3044,7 @@
    "168"
   ],
   "capacity": 25,
-  "enrolled": 26,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -3716,7 +3716,7 @@
    "170"
   ],
   "capacity": 25,
-  "enrolled": 18,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -4136,7 +4136,7 @@
    "169"
   ],
   "capacity": 28,
-  "enrolled": 29,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -4220,7 +4220,7 @@
    "167"
   ],
   "capacity": 25,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -4556,7 +4556,7 @@
    "429"
   ],
   "capacity": 28,
-  "enrolled": 18,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -4724,7 +4724,7 @@
    "169"
   ],
   "capacity": 25,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -5480,7 +5480,7 @@
    "267"
   ],
   "capacity": 28,
-  "enrolled": 29,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -6572,7 +6572,7 @@
    "268"
   ],
   "capacity": 25,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -6908,7 +6908,7 @@
    "270"
   ],
   "capacity": 28,
-  "enrolled": 28,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -6992,7 +6992,7 @@
    "269"
   ],
   "capacity": 25,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -7160,7 +7160,7 @@
    "272"
   ],
   "capacity": 25,
-  "enrolled": 24,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -7832,7 +7832,7 @@
    "271"
   ],
   "capacity": 25,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -7916,7 +7916,7 @@
    "375"
   ],
   "capacity": 26,
-  "enrolled": 21,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -8000,7 +8000,7 @@
    "378"
   ],
   "capacity": 28,
-  "enrolled": 28,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -8084,7 +8084,7 @@
    "375"
   ],
   "capacity": 25,
-  "enrolled": 18,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -8168,7 +8168,7 @@
    "270"
   ],
   "capacity": 28,
-  "enrolled": 26,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -8252,7 +8252,7 @@
    "374"
   ],
   "capacity": 25,
-  "enrolled": 21,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -8336,7 +8336,7 @@
    "272"
   ],
   "capacity": 28,
-  "enrolled": 28,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -8504,7 +8504,7 @@
    "374"
   ],
   "capacity": 25,
-  "enrolled": 25,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -9008,7 +9008,7 @@
    "431"
   ],
   "capacity": 25,
-  "enrolled": 26,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -9260,7 +9260,7 @@
    "373"
   ],
   "capacity": 28,
-  "enrolled": 28,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -9344,7 +9344,7 @@
    "429"
   ],
   "capacity": 25,
-  "enrolled": 20,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -9428,7 +9428,7 @@
    "375"
   ],
   "capacity": 26,
-  "enrolled": 18,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -10268,7 +10268,7 @@
    "377"
   ],
   "capacity": 25,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -10436,7 +10436,7 @@
    "375"
   ],
   "capacity": 28,
-  "enrolled": 28,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -10772,91 +10772,7 @@
    "377"
   ],
   "capacity": 25,
-  "enrolled": 9,
-  "reserved": "-",
-  "programs": [
-   "BIOE_LS",
-   "BLG_LS",
-   "BLGE_LS",
-   "CEV_LS",
-   "CEVE_LS",
-   "CHZ_LS",
-   "DEN_LS",
-   "ECNE_LS",
-   "EHB_LS",
-   "EHBE_LS",
-   "ELK_LS",
-   "ELKE_LS",
-   "END_LS",
-   "ENDE_LS",
-   "ENTE_LS",
-   "EUTE_LS",
-   "FIZ_LS",
-   "GEM_LS",
-   "GEO_LS",
-   "GEOE_LS",
-   "GID_LS",
-   "HTA_LS",
-   "HTAE_LS",
-   "IBM_LS",
-   "ICM_LS",
-   "INS_LS",
-   "INSE_LS",
-   "ISL_LS",
-   "ISLE_LS",
-   "JEF_LS",
-   "JEO_LS",
-   "KIM_LS",
-   "KMM_LS",
-   "KOM_LS",
-   "KOME_LS",
-   "MAD_LS",
-   "MAK_LS",
-   "MAT_LS",
-   "MET_LS",
-   "METE_LS",
-   "MIM_LS",
-   "MIME_LS",
-   "MTO_LS",
-   "PEME_LS",
-   "PETE_LS",
-   "ROS_LS",
-   "ROSE_LS",
-   "SAO_OL",
-   "SBP_LS",
-   "SBPE_LS",
-   "SECE_LS",
-   "TEKE_LS",
-   "UCK_LS",
-   "UZBE_LS",
-   "VBAE_LS",
-   "YZVE_LS"
-  ],
-  "prereq": "Detay",
-  "classReq": "-"
- },
- {
-  "crn": "10540",
-  "code": "ING 201A",
-  "branch": "ING",
-  "level": "LS",
-  "name": "Essentials of Res.Paper Writ.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hatice Gülru Arslan",
-  "buildings": [
-   "YDY"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "378"
-  ],
-  "capacity": 25,
-  "enrolled": 2,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -11108,7 +11024,7 @@
    "170"
   ],
   "capacity": 26,
-  "enrolled": 26,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -11360,7 +11276,7 @@
    "271"
   ],
   "capacity": 26,
-  "enrolled": 28,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -11676,90 +11592,6 @@
   "classReq": "-"
  },
  {
-  "crn": "10585",
-  "code": "ING 201A",
-  "branch": "ING",
-  "level": "LS",
-  "name": "Essentials of Res.Paper Writ.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Nilgün Eker",
-  "buildings": [
-   "YDY"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "427"
-  ],
-  "capacity": 25,
-  "enrolled": 7,
-  "reserved": "-",
-  "programs": [
-   "BIOE_LS",
-   "BLG_LS",
-   "BLGE_LS",
-   "CEV_LS",
-   "CEVE_LS",
-   "CHZ_LS",
-   "DEN_LS",
-   "ECNE_LS",
-   "EHB_LS",
-   "EHBE_LS",
-   "ELK_LS",
-   "ELKE_LS",
-   "END_LS",
-   "ENDE_LS",
-   "ENTE_LS",
-   "EUTE_LS",
-   "FIZ_LS",
-   "GEM_LS",
-   "GEO_LS",
-   "GEOE_LS",
-   "GID_LS",
-   "HTA_LS",
-   "HTAE_LS",
-   "IBM_LS",
-   "ICM_LS",
-   "INS_LS",
-   "INSE_LS",
-   "ISL_LS",
-   "ISLE_LS",
-   "JEF_LS",
-   "JEO_LS",
-   "KIM_LS",
-   "KMM_LS",
-   "KOM_LS",
-   "KOME_LS",
-   "MAD_LS",
-   "MAK_LS",
-   "MAT_LS",
-   "MET_LS",
-   "METE_LS",
-   "MIM_LS",
-   "MIME_LS",
-   "MTO_LS",
-   "PEME_LS",
-   "PETE_LS",
-   "ROS_LS",
-   "ROSE_LS",
-   "SAO_OL",
-   "SBP_LS",
-   "SBPE_LS",
-   "SECE_LS",
-   "TEKE_LS",
-   "UCK_LS",
-   "UZBE_LS",
-   "VBAE_LS",
-   "YZVE_LS"
-  ],
-  "prereq": "Detay",
-  "classReq": "-"
- },
- {
   "crn": "10587",
   "code": "ING 201A",
   "branch": "ING",
@@ -11780,7 +11612,7 @@
    "427"
   ],
   "capacity": 25,
-  "enrolled": 15,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -12012,90 +11844,6 @@
   "classReq": "-"
  },
  {
-  "crn": "10595",
-  "code": "ING 201A",
-  "branch": "ING",
-  "level": "LS",
-  "name": "Essentials of Res.Paper Writ.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Özge Seçkin Polat",
-  "buildings": [
-   "YDY"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "428"
-  ],
-  "capacity": 25,
-  "enrolled": 3,
-  "reserved": "-",
-  "programs": [
-   "BIOE_LS",
-   "BLG_LS",
-   "BLGE_LS",
-   "CEV_LS",
-   "CEVE_LS",
-   "CHZ_LS",
-   "DEN_LS",
-   "ECNE_LS",
-   "EHB_LS",
-   "EHBE_LS",
-   "ELK_LS",
-   "ELKE_LS",
-   "END_LS",
-   "ENDE_LS",
-   "ENTE_LS",
-   "EUTE_LS",
-   "FIZ_LS",
-   "GEM_LS",
-   "GEO_LS",
-   "GEOE_LS",
-   "GID_LS",
-   "HTA_LS",
-   "HTAE_LS",
-   "IBM_LS",
-   "ICM_LS",
-   "INS_LS",
-   "INSE_LS",
-   "ISL_LS",
-   "ISLE_LS",
-   "JEF_LS",
-   "JEO_LS",
-   "KIM_LS",
-   "KMM_LS",
-   "KOM_LS",
-   "KOME_LS",
-   "MAD_LS",
-   "MAK_LS",
-   "MAT_LS",
-   "MET_LS",
-   "METE_LS",
-   "MIM_LS",
-   "MIME_LS",
-   "MTO_LS",
-   "PEME_LS",
-   "PETE_LS",
-   "ROS_LS",
-   "ROSE_LS",
-   "SAO_OL",
-   "SBP_LS",
-   "SBPE_LS",
-   "SECE_LS",
-   "TEKE_LS",
-   "UCK_LS",
-   "UZBE_LS",
-   "VBAE_LS",
-   "YZVE_LS"
-  ],
-  "prereq": "Detay",
-  "classReq": "-"
- },
- {
   "crn": "10597",
   "code": "ING 201A",
   "branch": "ING",
@@ -12200,7 +11948,7 @@
    "272"
   ],
   "capacity": 26,
-  "enrolled": 26,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -12284,7 +12032,7 @@
    "375"
   ],
   "capacity": 28,
-  "enrolled": 28,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -12704,7 +12452,7 @@
    "373"
   ],
   "capacity": 26,
-  "enrolled": 26,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -12956,7 +12704,7 @@
    "428"
   ],
   "capacity": 25,
-  "enrolled": 24,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -13628,7 +13376,7 @@
    "430"
   ],
   "capacity": 25,
-  "enrolled": 15,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -13879,7 +13627,7 @@
    "--"
   ],
   "capacity": 26,
-  "enrolled": 26,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -14060,7 +13808,7 @@
    "377"
   ],
   "capacity": 26,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -14242,7 +13990,7 @@
    "432"
   ],
   "capacity": 26,
-  "enrolled": 26,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -14424,7 +14172,7 @@
    "--"
   ],
   "capacity": 3500,
-  "enrolled": 772,
+  "enrolled": 774,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -14566,7 +14314,7 @@
    "B01"
   ],
   "capacity": 40,
-  "enrolled": 22,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -14642,7 +14390,7 @@
    "B01"
   ],
   "capacity": 40,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -14756,7 +14504,7 @@
    "B11"
   ],
   "capacity": 40,
-  "enrolled": 15,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -14906,7 +14654,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 47,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -15009,7 +14757,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 31,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -15081,7 +14829,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 24,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "ARC_LS",

@@ -84,7 +84,7 @@
    "3D20"
   ],
   "capacity": 45,
-  "enrolled": 45,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -183,7 +183,7 @@
    "1D10"
   ],
   "capacity": 45,
-  "enrolled": 45,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -212,7 +212,7 @@
    "ZD1"
   ],
   "capacity": 45,
-  "enrolled": 46,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -241,7 +241,7 @@
    "ZA3"
   ],
   "capacity": 45,
-  "enrolled": 39,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -274,7 +274,7 @@
    "ZD1"
   ],
   "capacity": 80,
-  "enrolled": 79,
+  "enrolled": 78,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -405,7 +405,7 @@
    "2D18"
   ],
   "capacity": 50,
-  "enrolled": 51,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -650,7 +650,7 @@
    "ZA2"
   ],
   "capacity": 50,
-  "enrolled": 49,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "GEM_LS",
@@ -684,7 +684,7 @@
    "ZD2"
   ],
   "capacity": 50,
-  "enrolled": 33,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "GEM_LS",
@@ -810,7 +810,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 22,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -1982,7 +1982,7 @@
    "1303"
   ],
   "capacity": 50,
-  "enrolled": 11,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -2343,6 +2343,29 @@
    "NAE_LS"
   ],
   "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15920",
+  "code": "GEM 482E",
+  "branch": "GEM",
+  "level": "LS",
+  "name": "Individual Graduation Project",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "İbrahim Tuğrul Ardıç",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 5,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "NAE_LS"
+  ],
+  "prereq": "-",
   "classReq": "-"
  }
 ]

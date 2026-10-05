@@ -60,7 +60,7 @@
    "Z-17"
   ],
   "capacity": 80,
-  "enrolled": 84,
+  "enrolled": 83,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -232,7 +232,7 @@
    "Z-18"
   ],
   "capacity": 95,
-  "enrolled": 98,
+  "enrolled": 96,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -429,8 +429,8 @@
    "Z-19"
   ],
   "capacity": 90,
-  "enrolled": 80,
-  "reserved": "ECNE_LS/10/2 | YZVE_LS/20/18 | Diğer/60/60",
+  "enrolled": 79,
+  "reserved": "ECNE_LS/10/2 | YZVE_LS/20/18 | Diğer/60/59",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -462,7 +462,7 @@
    "Z-21"
   ],
   "capacity": 100,
-  "enrolled": 60,
+  "enrolled": 58,
   "reserved": "-",
   "programs": [
    "BLG_LS",

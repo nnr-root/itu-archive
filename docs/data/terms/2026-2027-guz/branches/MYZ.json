@@ -111,7 +111,7 @@
    "CATI3"
   ],
   "capacity": 20,
-  "enrolled": 18,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "IAD_LS",
@@ -141,8 +141,8 @@
    "5101"
   ],
   "capacity": 60,
-  "enrolled": 60,
-  "reserved": "EEE_LS/5/5 | Diğer/55/55",
+  "enrolled": 59,
+  "reserved": "EEE_LS/5/5 | Diğer/55/54",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -361,7 +361,7 @@
    "5203"
   ],
   "capacity": 50,
-  "enrolled": 36,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -393,8 +393,8 @@
    "2104"
   ],
   "capacity": 60,
-  "enrolled": 60,
-  "reserved": "EEE_LS/5/5 | Diğer/55/55",
+  "enrolled": 57,
+  "reserved": "EEE_LS/5/5 | Diğer/55/52",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -430,8 +430,8 @@
    "2106"
   ],
   "capacity": 60,
-  "enrolled": 46,
-  "reserved": "EEE_LS/5/2 | Diğer/55/44",
+  "enrolled": 45,
+  "reserved": "EEE_LS/5/2 | Diğer/55/43",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -589,7 +589,7 @@
    "D360"
   ],
   "capacity": 30,
-  "enrolled": 6,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [
    "TEK_YD",

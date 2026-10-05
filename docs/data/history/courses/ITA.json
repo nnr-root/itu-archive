@@ -27,14 +27,14 @@
     "2026-2027-guz",
     "Calogera Augello",
     25,
-    25,
+    23,
     "Pazartesi"
    ],
    [
     "2026-2027-guz",
     "Calogera Augello",
     25,
-    25,
+    24,
     "Pazartesi"
    ],
    [
@@ -55,14 +55,14 @@
     "2026-2027-guz",
     "Martına Lucıa Leone",
     25,
-    25,
+    24,
     "Cuma"
    ],
    [
     "2026-2027-guz",
     "Selin Gül Mutlucan",
     25,
-    25,
+    24,
     "Pazartesi"
    ],
    [
@@ -77,6 +77,13 @@
     "Selin Gül Mutlucan",
     25,
     25,
+    "Perşembe"
+   ],
+   [
+    "2026-2027-guz",
+    "Calogera Augello",
+    20,
+    0,
     "Perşembe"
    ],
    [
@@ -620,14 +627,14 @@
     "2026-2027-guz",
     "Martına Lucıa Leone",
     20,
-    17,
+    16,
     "Pazartesi"
    ],
    [
     "2026-2027-guz",
     "Calogera Augello",
     20,
-    19,
+    17,
     "Salı"
    ],
    [
@@ -636,13 +643,6 @@
     20,
     20,
     "Çarşamba"
-   ],
-   [
-    "2026-2027-guz",
-    "Selin Gül Mutlucan",
-    20,
-    5,
-    "Cuma"
    ],
    [
     "2025-2026-bahar",
@@ -1193,7 +1193,6 @@
   "code": "ITA 202",
   "name": "Italian IV",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -1212,13 +1211,6 @@
    "2017-2018-guz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Calogera Augello",
-    20,
-    1,
-    "Perşembe"
-   ],
    [
     "2025-2026-bahar",
     "Martına Lucıa Leone",
