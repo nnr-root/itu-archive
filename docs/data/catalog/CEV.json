@@ -10731,6 +10731,2053 @@
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=447"
  },
+ "CEV 449E": {
+  "code": "CEV 449E",
+  "name": "Çevre Tesis.Otomasyon&Kontrol",
+  "nameEn": "Control&Autom. in Env. Facil.",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 2,
+   "practice": 0,
+   "lab": 0,
+   "local": 2,
+   "ects": 3
+  },
+  "description": "Arıtma tesislerinde seçilen prosese uygun kontrol ekipmanları seçimi ve yerleşimi, proses kontrol ve otomasyonun temelleri, P&I diyagramları üzerinde gösterilmesi, enstrumantasyon ve ölçüm, proses kontrol algoritmaları, proses kontrol donanım ve yazılımları, atıksu arıtma tesisi enerji optimizasyonu, atıksu arıtma tesisi simülasyon. Appropriate selection of control equipment in treatment plants compatible with process, fundamentals of process control and automation, illustrations of equipments on P&I diagrams, instrumentation and measurements, process control algorithms, hardware and software applications of process control, energy optimization in wastewater treatment plants, simulation of wastewater treatment plants.",
+  "outcomes": [
+   "Arıtma tesisinde uygun proses/ekipman tipinin belirlenmesi ve seçimi",
+   "P&I diyagramının oluşturulması ve yorumlanması",
+   "Proses kontrolü algoritması",
+   "Atıksu arıtma tesislerinde proses kontrolü uygulaması"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Proses akım diyagramlarına giriş",
+   "Hafta 2 · P&I diyagramlarında kullanılan ekipmanlar",
+   "Hafta 3 · Su arıtımı: Terfi ve dengeleme",
+   "Hafta 4 · Koagülasyon, flokülasyon ve çökeltim",
+   "Hafta 5 · Filtrasyon sistemleri",
+   "Hafta 6 · Su arıtma sistemlerinde CAD uygulaması (Davetli Eğitmen)",
+   "Hafta 7 · Su arıtımı: Ultrafiltrasyon",
+   "Hafta 8 · Su arıtımı: Ters Osmoz Sistemleri",
+   "Hafta 9 · Ara Sınav",
+   "Hafta 10 · Biyolojik atıksu arıtma tesisi P&ID (C/N)",
+   "Hafta 11 · Atıksu arıtma tesisi simulasyonu",
+   "Hafta 12 · Çamur arıtımı: Biyogas tesisi P&ID (Davetli Eğitmen)",
+   "Hafta 13 · Örnek Uygulamalar: Biogas Plant Simulation",
+   "Hafta 14 · Örnek Uygulamalar: Öğrenci Sunumları"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Proses akım diyagramlarına giriş",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "P&I diyagramlarında kullanılan ekipmanlar",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 3,
+    "topic": "Su arıtımı: Terfi ve dengeleme",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 4,
+    "topic": "Koagülasyon, flokülasyon ve çökeltim",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 5,
+    "topic": "Filtrasyon sistemleri",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 6,
+    "topic": "Su arıtma sistemlerinde CAD uygulaması (Davetli Eğitmen)",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 7,
+    "topic": "Su arıtımı: Ultrafiltrasyon",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 8,
+    "topic": "Su arıtımı: Ters Osmoz Sistemleri",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 9,
+    "topic": "Ara Sınav",
+    "outcomes": "1-2-3"
+   },
+   {
+    "week": 10,
+    "topic": "Biyolojik atıksu arıtma tesisi P&ID (C/N)",
+    "outcomes": "4"
+   },
+   {
+    "week": 11,
+    "topic": "Atıksu arıtma tesisi simulasyonu",
+    "outcomes": "1-3"
+   },
+   {
+    "week": 12,
+    "topic": "Çamur arıtımı: Biyogas tesisi P&ID (Davetli Eğitmen)",
+    "outcomes": "1-3"
+   },
+   {
+    "week": 13,
+    "topic": "Örnek Uygulamalar: Biogas Plant Simulation",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 14,
+    "topic": "Örnek Uygulamalar: Öğrenci Sunumları",
+    "outcomes": "3"
+   }
+  ],
+  "textbooks": [
+   "Water Environment Research Federation, 2007: Automation of wastewater treatment plants, Water Environment Federation, 3rd Edition, Newyork, USA."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=449"
+ },
+ "CEV 450": {
+  "code": "CEV 450",
+  "name": "Toprak Kirlenmesi ve Kontrolü",
+  "nameEn": "Soil Pollution and Its Control",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 2,
+   "practice": 0,
+   "lab": 0,
+   "local": 2,
+   "ects": 3
+  },
+  "description": "",
+  "outcomes": null,
+  "textbooks": [
+   "-"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=450"
+ },
+ "CEV 450E": {
+  "code": "CEV 450E",
+  "name": "Toprak Kirlenmesi ve Kontrolü",
+  "nameEn": "Soil Pollution and Its Control",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 2,
+   "practice": 0,
+   "lab": 0,
+   "local": 2,
+   "ects": 3
+  },
+  "description": "",
+  "outcomes": null,
+  "textbooks": [
+   "-"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=450"
+ },
+ "CEV 451": {
+  "code": "CEV 451",
+  "name": "Su Temini ve Çevre Sağlığı I",
+  "nameEn": "Water Supply and Environmental Sanitation I",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 2,
+   "practice": 1,
+   "lab": 0,
+   "local": 2.5,
+   "ects": 4.5
+  },
+  "description": "",
+  "outcomes": null,
+  "textbooks": [
+   "-"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=451"
+ },
+ "CEV 451E": {
+  "code": "CEV 451E",
+  "name": "Su Temini ve Çevre Sağlığı I",
+  "nameEn": "Water Supply and Environmental Sanitation I",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 2,
+   "practice": 1,
+   "lab": 0,
+   "local": 2.5,
+   "ects": 4.5
+  },
+  "description": "",
+  "outcomes": null,
+  "textbooks": [
+   "-"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=451"
+ },
+ "CEV 452": {
+  "code": "CEV 452",
+  "name": "Gürültü ve Kontrolü",
+  "nameEn": "Noise and Its Control",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 2,
+   "practice": 0,
+   "lab": 0,
+   "local": 2,
+   "ects": 3
+  },
+  "description": "Ses, gürültü, titreşim hakkında temel kavramlar ve fiziksel özellikleri; Gürültü ve titreşim kaynakları ve türleri; Çevresel gürültü; Gürültü ve titreşim ölçümü; Gürültünün Yayılması; İşitme Dersin İçeriği Sağlığı Üzerine Etkileri; Gürültü ve titreşim kontrol sistemleri; İlgili Mevzuat. Fundamental concepts of sound, noise and vibration, and their physical characteristics; Sources and types of noise and vibration; Environmental noise; Measurement of noise and vibration; Noise propagation; Effects on hearing health; Control systems of noise and vibration; Related regulations.",
+  "outcomes": [
+   "Ses, gürültü ve titreşim hakkında temel kavramları anlama",
+   "Gürültünün insan sağlığı üzerindeki etkilerini anlama ve değerlendirme",
+   "Gürültü hakkında teorik ve pratik bilgileri uygulayabilme",
+   "Yürürlükteki mevzuatı anlama ve yorumlayabilme",
+   "Çevresel gürültü azaltma yöntemlerini kullanma",
+   "Titreşim ölçme ve yalıtım tekniklerini araştırma"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Giriş, temel kavramlar",
+   "Hafta 2 · Sesin fiziksel özellikleri, kaynak tipleri ve yayılımı",
+   "Hafta 3 · Gürültü, kaynakları ve insan sağlığına etkileri",
+   "Hafta 4 · Gürültü haritaları ve gürültü bariyeri uygulamaları",
+   "Hafta 5 · Titreşim kaynakları, türleri, ölçüm ve kontrolü",
+   "Hafta 6 · Gürültü ve titreşim kontrolü uygulama örnekleri",
+   "Hafta 7 · Gürültü hesaplamaları",
+   "Hafta 8 · Gürültü hesaplamaları",
+   "Hafta 9 · Karayollarında gürültü emisyonu ve ilgili standartlar",
+   "Hafta 10 · Havaalanlarında gürültü emisyonu ve ilgili standartlar",
+   "Hafta 11 · Endüstriyel alanlarda gürültü emisyonu ve ilgili standartlar",
+   "Hafta 12 · Sahada gürültü ölçümü",
+   "Hafta 13 · Öğrencilerin gürültü ve titreşim konusunda literatür araştırmalarının değerlendirilmesi",
+   "Hafta 14 · Öğrencilerin gürültü ve titreşim konusunda literatür araştırmalarının değerlendirilmesi"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Giriş, temel kavramlar",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "Sesin fiziksel özellikleri, kaynak tipleri ve yayılımı",
+    "outcomes": "1"
+   },
+   {
+    "week": 3,
+    "topic": "Gürültü, kaynakları ve insan sağlığına etkileri",
+    "outcomes": "2"
+   },
+   {
+    "week": 4,
+    "topic": "Gürültü haritaları ve gürültü bariyeri uygulamaları",
+    "outcomes": "3"
+   },
+   {
+    "week": 5,
+    "topic": "Titreşim kaynakları, türleri, ölçüm ve kontrolü",
+    "outcomes": "3"
+   },
+   {
+    "week": 6,
+    "topic": "Gürültü ve titreşim kontrolü uygulama örnekleri",
+    "outcomes": "3"
+   },
+   {
+    "week": 7,
+    "topic": "Gürültü hesaplamaları",
+    "outcomes": "3"
+   },
+   {
+    "week": 8,
+    "topic": "Gürültü hesaplamaları",
+    "outcomes": "3"
+   },
+   {
+    "week": 9,
+    "topic": "Karayollarında gürültü emisyonu ve ilgili standartlar",
+    "outcomes": "3-4"
+   },
+   {
+    "week": 10,
+    "topic": "Havaalanlarında gürültü emisyonu ve ilgili standartlar",
+    "outcomes": "3-4"
+   },
+   {
+    "week": 11,
+    "topic": "Endüstriyel alanlarda gürültü emisyonu ve ilgili standartlar",
+    "outcomes": "3-4"
+   },
+   {
+    "week": 12,
+    "topic": "Sahada gürültü ölçümü",
+    "outcomes": "3-5"
+   },
+   {
+    "week": 13,
+    "topic": "Öğrencilerin gürültü ve titreşim konusunda literatür araştırmalarının değerlendirilmesi",
+    "outcomes": "1-2-3-4-5-6"
+   },
+   {
+    "week": 14,
+    "topic": "Öğrencilerin gürültü ve titreşim konusunda literatür araştırmalarının değerlendirilmesi",
+    "outcomes": "1-2-3-4-5-6"
+   }
+  ],
+  "textbooks": [
+   "Kurra, S. (2009). Çevre Gürültüsü ve Yönetimi, Bahçeşehir Üniversitesi Yayınları, Cilt 1,2,3",
+   "Toröz, İ. (ÇE) (2014) Çevre Mühendisliğine Giriş, Nobel Akademik Yayıncılık"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=452"
+ },
+ "CEV 453E": {
+  "code": "CEV 453E",
+  "name": "Arıtma Çamurlarının Yönetimi ve Uzaklaştırılması",
+  "nameEn": "Mng. & Disp. of Treat. Sludges",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 2,
+   "practice": 0,
+   "lab": 0,
+   "local": 2,
+   "ects": 3
+  },
+  "description": "Arıtma çamurlarının tanımı ve ilgili mevzuat. Çamurların kaynakları, miktarları ve özellikleri. Çamurların iletimi ve ön-işlemler. Yoğunlaştırma. Stabilizasyon. Şartlandırma. Dezenfeksiyon. Susuzlaştırma. Isıl işlemler. Nihai uzaklaştırma ve arazi uygulaması. Definition of treatment sludges and the related regulations. Sludge sources, quantities and characteristics. Sludge conveyance and preliminary operations. Thickening. Stabilization. Conditioning. Disinfection. Dewatering. Thermal Operations. Ultimate disposal and land application.",
+  "outcomes": [
+   "Arıtma çamurlarının kaynaklarını, miktarlarını ve özelliklerini belirleme; ilgili mevzuata hâkim olma",
+   "Çamurların iletilmesi için kullanılan uygun pompa tiplerini belirleme",
+   "Çamurların arıtılması için uygulanan ön-işlemler ile ilgili birimleri belirleme",
+   "Çamur yoğunlaştırmada uygulanan yöntemler ve ilgili birimleri tasarlama",
+   "Çamur stabilizasyonunda uygulanan yöntemler ve ilgili birimleri tasarlama",
+   "Çamur şartlandırma işlemleri ile uygun dezenfeksiyon yöntemlerini belirleme",
+   "Çamur susuzlaştırmada uygulanan yöntemler ve ilgili birimleri tasarlama",
+   "Çamurların nihai bertarafı için uygulanan yöntemler ile işlenmiş çamurların (biyokatıların) faydalı kullanım esaslarını belirleme"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Giriş: Tanım ve ilgili mevzuat; Türkiye’de arıtma çamurlarının yönetiminde mevcut durum",
+   "Hafta 2 · Arıtma çamurlarının işlenmesi, arıtılması ve uzaklaştırılması ile ilgili yöntemlerin tanıtılması",
+   "Hafta 3 · Çamurlarının kaynakları, özellikleri ve miktarları; Türkiye’de arıtma çamuru ile ilgili veriler",
+   "Hafta 4 · Çamurların iletilmesi ve uygulanan ön-işlemler",
+   "Hafta 5 · Çamur yoğunlaştırma",
+   "Hafta 6 · Çamur yoğunlaştırma yöntemleri ile ilgili uygulamalar",
+   "Hafta 7 · Kimyasal, ısıl ve biyolojik çamur stabilizasyonu ve dezentegrasyon",
+   "Hafta 8 · Çamur stabilizasyonu yöntemleri ile ilgili uygulamalar; Yıliçi sınavı",
+   "Hafta 9 · Çamur şartlandırma ve dezenfeksiyon",
+   "Hafta 10 · Çamur susuzlaştırma",
+   "Hafta 11 · Çamur susuzlaştırma yöntemleri ile ilgili uygulamalar",
+   "Hafta 12 · Isıl işlemler (Yakma, kurutma, gazlaştırma vb.)",
+   "Hafta 13 · Nihai uzaklaştırma ve biyokatıların faydalı kullanımı",
+   "Hafta 14 · Arıtma çamurlarının araziye uygulanması"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Giriş: Tanım ve ilgili mevzuat; Türkiye’de arıtma çamurlarının yönetiminde mevcut durum",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "Arıtma çamurlarının işlenmesi, arıtılması ve uzaklaştırılması ile ilgili yöntemlerin tanıtılması",
+    "outcomes": "1"
+   },
+   {
+    "week": 3,
+    "topic": "Çamurlarının kaynakları, özellikleri ve miktarları; Türkiye’de arıtma çamuru ile ilgili veriler",
+    "outcomes": "1"
+   },
+   {
+    "week": 4,
+    "topic": "Çamurların iletilmesi ve uygulanan ön-işlemler",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 5,
+    "topic": "Çamur yoğunlaştırma",
+    "outcomes": "4"
+   },
+   {
+    "week": 6,
+    "topic": "Çamur yoğunlaştırma yöntemleri ile ilgili uygulamalar",
+    "outcomes": "4"
+   },
+   {
+    "week": 7,
+    "topic": "Kimyasal, ısıl ve biyolojik çamur stabilizasyonu ve dezentegrasyon",
+    "outcomes": "5"
+   },
+   {
+    "week": 8,
+    "topic": "Çamur stabilizasyonu yöntemleri ile ilgili uygulamalar; Yıliçi sınavı",
+    "outcomes": "5"
+   },
+   {
+    "week": 9,
+    "topic": "Çamur şartlandırma ve dezenfeksiyon",
+    "outcomes": "6"
+   },
+   {
+    "week": 10,
+    "topic": "Çamur susuzlaştırma",
+    "outcomes": "7"
+   },
+   {
+    "week": 11,
+    "topic": "Çamur susuzlaştırma yöntemleri ile ilgili uygulamalar",
+    "outcomes": "7"
+   },
+   {
+    "week": 12,
+    "topic": "Isıl işlemler (Yakma, kurutma, gazlaştırma vb.)",
+    "outcomes": "7-8"
+   },
+   {
+    "week": 13,
+    "topic": "Nihai uzaklaştırma ve biyokatıların faydalı kullanımı",
+    "outcomes": "8"
+   },
+   {
+    "week": 14,
+    "topic": "Arıtma çamurlarının araziye uygulanması",
+    "outcomes": "8"
+   }
+  ],
+  "textbooks": [
+   "Metcalf and Eddy, “Wastewater Engineering; Treatment and Reuse”, 4th Edition, The McGraw-Hill Companies, Inc., 2003 (Chapter 14)."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=453"
+ },
+ "CEV 454E": {
+  "code": "CEV 454E",
+  "name": "Su ve Atıksu Arıtma Tesislerinin İşletilmesi",
+  "nameEn": "Opr.ofWtr&Wastewtr.Treat.Plnts",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 2,
+   "practice": 0,
+   "lab": 0,
+   "local": 2,
+   "ects": 3
+  },
+  "description": "İşletmeci’nin tanımı, yönetmelikler, güvenlik. Su ve atıksuların iletilmesi, basınçlı ve basınçsız borular, boru tipleri ve fittingler. Atıksu arıtma tesisleri, pompa istasyonları ve işletme problemleri, kavitasyon, debi ölçüm sistemleri. Ön, ikincil ve üçüncül arıtma sistemlerinde işletme stratejileri, problemleri ve çözümleri. Aktif çamur mikrobiyolojisi; çökelme problemleri ve çözümleri. Arıtma çamuru, arıtma çamurunun yoğunlaştırılması, stabilizasyonu ve susuzlaştırılması, işletme stratejileri, problemler ve çözümleri. Çamur arıtma ve nihai uzaklaştırma alternatiflerinin değerlendirilmesi. Çamur minimizasyonu teknolojileri. Türkiye’de çamur yönetimi. Su arıtma tesisleri. İzleme, örnekleme, ölçüm/analiz, raporlama, işletme maliyetlerinin optimizasyonu, rutin bakım, talimatlar. Arıtma tesislerinde proses optimizasyonu. Definition of Operator; Legislations; Safety. Collection and conveying of wastewaters; Pipes with and without pressure; Pipe types and fittings. Wastewater treatment plants; Pumping stations and operational problems; Cavitation; Flow measurement systems. Operational strategies, problems and solutions for preliminary, secondary and tertiary systems. Activated sludge microbiology; settling problems and solutions. Waste sludge; Thickening, Stabilization and Dewatering of treatment sludge, Operational strategies, problems and solutions. Assessment of sludge treatment and disposal alternatives. Sludge minimization technologies. Sludge management in Turkey. Water treatment systems. Operation of treatment plants; Monitoring, Sampling, Measurements/Analysis, Reporting, Optimization of Operational Costs of a Treatment Plant, maintenance and orders. Process optimization at treatment plants.",
+  "outcomes": null,
+  "textbooks": [
+   "-"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=454"
+ },
+ "CEV 456": {
+  "code": "CEV 456",
+  "name": "İş Sağlığı ve Güvenliği",
+  "nameEn": "Occupational Health and Safety",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 1,
+   "practice": 0,
+   "lab": 0,
+   "local": 1,
+   "ects": 2
+  },
+  "description": "İş Sağlığı ve Güvenliği, İSG Tarihçesi, Türkiye’de ve Dünyadaki İSG ile ilgili mevcut durum, İSG ile ilgili ulusal ve uluslararası kuruluşlar, İSG ile ilgili yasal mevzuat, İş kazaları, kişisel korunma ekipmanları, Meslek hastalıkları, İş Sağlığı ve Güvenliği Yönetim Sistemi, Tehlike, Risk, Risk Değerlendirmesi. Occupational health and safety, Historical development of occupational health and safety, Current situation of occupational health and safety in Turkey and in the world, National and international organizations in this area, Legal legislation of occupational health and safety, Occupational accidents, Personnel protective equipments, Occupational diseases, Hazard, Risk, Risk assessment.",
+  "outcomes": [
+   "İş sağlığı ve güvenliğinin önemi hakkında bilgi sahibi olurlar",
+   "İş sağlığı ve güvenliğinin tarihsel gelişimi hakkında bilgi sahibi olurlar",
+   "İş sağlığı ve güvenliğinde Türkiye ve dünyada mevcut durum hakkında bilgi sahibi olurlar",
+   "İş sağlığı ve güvenliği ile İlgili kuruluşlar hakkında bilgi sahibi olurlar",
+   "İş sağlığı ve güvenliği ile ilgili yasal mevzuat hakkında bilgi sahibi olurlar",
+   "Meslek hastalıkları ve iş kazaları, hakkında bilgi sahibi olurlar",
+   "İş sağlığı ve güvenliği yönetim yistemi ve risk yönetimi hakkında bilgi sahibi olurlar",
+   "İş sağlığı ve güvenliği hakkındaki uygulamalar konusunda bilgi sahibi olurlar",
+   "İş sağlığı ve güvenliği ile ilgili güncel konular"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · İş sağlığı ve iş güvenliği tanımı",
+   "Hafta 2 · İş sağlığı ve iş güvenliği önemi ve amacı",
+   "Hafta 3 · İş Sağlığı Güvenliğinin Tarihsel Gelişimi",
+   "Hafta 4 · İş Sağlığı ve Güvenliğinde Türkiye ve Dünyada mevcut durum",
+   "Hafta 5 · İş Sağlığı ve Güvenliği ile İlgili Kuruluşlar",
+   "Hafta 6 · İş Sağlığı ve Güvenliği ile İlgili Mevzuat",
+   "Hafta 7 · İş Sağlığı ve Güvenliği ile İlgili Mevzuat",
+   "Hafta 8 · Meslek hastalıklarının tanımları ve nedenleri. Meslek hastalıklarının sınıflandırılması, bu hastalıklara neden olan kimyasal, fiziksel, biyolojik ve psikolojik etmenler ile tedavi ve korunma yöntemleri",
+   "Hafta 9 · İş kazaları",
+   "Hafta 10 · İş kazaları türleri, nedenleri, önlemleri",
+   "Hafta 11 · İş Sağlığı ve Güvenliğinde Risk",
+   "Hafta 12 · İş Sağlığı ve Güvenliği Risk Değerlendirmesi",
+   "Hafta 13 · İş Sağlığı ve Güvenliği Yönetim Sistemi",
+   "Hafta 14 · İş Sağlığı ve Güvenliği - Uygulamalar"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "İş sağlığı ve iş güvenliği tanımı",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "İş sağlığı ve iş güvenliği önemi ve amacı",
+    "outcomes": "1"
+   },
+   {
+    "week": 3,
+    "topic": "İş Sağlığı Güvenliğinin Tarihsel Gelişimi",
+    "outcomes": "2"
+   },
+   {
+    "week": 4,
+    "topic": "İş Sağlığı ve Güvenliğinde Türkiye ve Dünyada mevcut durum",
+    "outcomes": "3"
+   },
+   {
+    "week": 5,
+    "topic": "İş Sağlığı ve Güvenliği ile İlgili Kuruluşlar",
+    "outcomes": "4"
+   },
+   {
+    "week": 6,
+    "topic": "İş Sağlığı ve Güvenliği ile İlgili Mevzuat",
+    "outcomes": "5"
+   },
+   {
+    "week": 7,
+    "topic": "İş Sağlığı ve Güvenliği ile İlgili Mevzuat",
+    "outcomes": "5"
+   },
+   {
+    "week": 8,
+    "topic": "Meslek hastalıklarının tanımları ve nedenleri. Meslek hastalıklarının sınıflandırılması, bu hastalıklara neden olan kimyasal, fiziksel, biyolojik ve psikolojik etmenler ile tedavi ve korunma yöntemleri",
+    "outcomes": "6"
+   },
+   {
+    "week": 9,
+    "topic": "İş kazaları",
+    "outcomes": "6"
+   },
+   {
+    "week": 10,
+    "topic": "İş kazaları türleri, nedenleri, önlemleri",
+    "outcomes": "6"
+   },
+   {
+    "week": 11,
+    "topic": "İş Sağlığı ve Güvenliğinde Risk",
+    "outcomes": "7"
+   },
+   {
+    "week": 12,
+    "topic": "İş Sağlığı ve Güvenliği Risk Değerlendirmesi",
+    "outcomes": "7"
+   },
+   {
+    "week": 13,
+    "topic": "İş Sağlığı ve Güvenliği Yönetim Sistemi",
+    "outcomes": "7"
+   },
+   {
+    "week": 14,
+    "topic": "İş Sağlığı ve Güvenliği - Uygulamalar",
+    "outcomes": "8"
+   }
+  ],
+  "textbooks": [
+   "Morton Lippmann, 2009. Environmental Toxicants Human Exposures and Their Effects, John Wiley and Sons Inc."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=456"
+ },
+ "CEV 456E": {
+  "code": "CEV 456E",
+  "name": "İş Sağlığı ve Güvenliği",
+  "nameEn": "Occupational Health and Safety",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 1,
+   "practice": 0,
+   "lab": 0,
+   "local": 1,
+   "ects": 2
+  },
+  "description": "İş Sağlığı ve Güvenliği, İSG Tarihçesi, Türkiye’de ve Dünyadaki İSG ile ilgili mevcut durum, İSG ile ilgili ulusal ve uluslararası kuruluşlar, İSG ile ilgili yasal mevzuat, İş kazaları, kişisel korunma ekipmanları, Meslek hastalıkları, İş Sağlığı ve Güvenliği Yönetim Sistemi, Tehlike, Risk, Risk Değerlendirmesi. Occupational health and safety, Historical development of occupational health and safety, Current situation of occupational health and safety in Turkey and in the world, National and international organizations in this area, Legal legislation of occupational health and safety, Occupational accidents, Personnel protective equipments, Occupational diseases, Hazard, Risk, Risk assessment.",
+  "outcomes": [
+   "İş sağlığı ve güvenliğinin önemi hakkında bilgi sahibi olurlar",
+   "İş sağlığı ve güvenliğinin tarihsel gelişimi hakkında bilgi sahibi olurlar",
+   "İş sağlığı ve güvenliğinde Türkiye ve dünyada mevcut durum hakkında bilgi sahibi olurlar",
+   "İş sağlığı ve güvenliği ile İlgili kuruluşlar hakkında bilgi sahibi olurlar",
+   "İş sağlığı ve güvenliği ile ilgili yasal mevzuat hakkında bilgi sahibi olurlar",
+   "Meslek hastalıkları ve iş kazaları, hakkında bilgi sahibi olurlar",
+   "İş sağlığı ve güvenliği yönetim yistemi ve risk yönetimi hakkında bilgi sahibi olurlar",
+   "İş sağlığı ve güvenliği hakkındaki uygulamalar konusunda bilgi sahibi olurlar",
+   "İş sağlığı ve güvenliği ile ilgili güncel konular"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · İş sağlığı ve iş güvenliği tanımı",
+   "Hafta 2 · İş sağlığı ve iş güvenliği önemi ve amacı",
+   "Hafta 3 · İş Sağlığı Güvenliğinin Tarihsel Gelişimi",
+   "Hafta 4 · İş Sağlığı ve Güvenliğinde Türkiye ve Dünyada mevcut durum",
+   "Hafta 5 · İş Sağlığı ve Güvenliği ile İlgili Kuruluşlar",
+   "Hafta 6 · İş Sağlığı ve Güvenliği ile İlgili Mevzuat",
+   "Hafta 7 · İş Sağlığı ve Güvenliği ile İlgili Mevzuat",
+   "Hafta 8 · Meslek hastalıklarının tanımları ve nedenleri. Meslek hastalıklarının sınıflandırılması, bu hastalıklara neden olan kimyasal, fiziksel, biyolojik ve psikolojik etmenler ile tedavi ve korunma yöntemleri",
+   "Hafta 9 · İş kazaları",
+   "Hafta 10 · İş kazaları türleri, nedenleri, önlemleri",
+   "Hafta 11 · İş Sağlığı ve Güvenliğinde Risk",
+   "Hafta 12 · İş Sağlığı ve Güvenliği Risk Değerlendirmesi",
+   "Hafta 13 · İş Sağlığı ve Güvenliği Yönetim Sistemi",
+   "Hafta 14 · İş Sağlığı ve Güvenliği - Uygulamalar"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "İş sağlığı ve iş güvenliği tanımı",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "İş sağlığı ve iş güvenliği önemi ve amacı",
+    "outcomes": "1"
+   },
+   {
+    "week": 3,
+    "topic": "İş Sağlığı Güvenliğinin Tarihsel Gelişimi",
+    "outcomes": "2"
+   },
+   {
+    "week": 4,
+    "topic": "İş Sağlığı ve Güvenliğinde Türkiye ve Dünyada mevcut durum",
+    "outcomes": "3"
+   },
+   {
+    "week": 5,
+    "topic": "İş Sağlığı ve Güvenliği ile İlgili Kuruluşlar",
+    "outcomes": "4"
+   },
+   {
+    "week": 6,
+    "topic": "İş Sağlığı ve Güvenliği ile İlgili Mevzuat",
+    "outcomes": "5"
+   },
+   {
+    "week": 7,
+    "topic": "İş Sağlığı ve Güvenliği ile İlgili Mevzuat",
+    "outcomes": "5"
+   },
+   {
+    "week": 8,
+    "topic": "Meslek hastalıklarının tanımları ve nedenleri. Meslek hastalıklarının sınıflandırılması, bu hastalıklara neden olan kimyasal, fiziksel, biyolojik ve psikolojik etmenler ile tedavi ve korunma yöntemleri",
+    "outcomes": "6"
+   },
+   {
+    "week": 9,
+    "topic": "İş kazaları",
+    "outcomes": "6"
+   },
+   {
+    "week": 10,
+    "topic": "İş kazaları türleri, nedenleri, önlemleri",
+    "outcomes": "6"
+   },
+   {
+    "week": 11,
+    "topic": "İş Sağlığı ve Güvenliğinde Risk",
+    "outcomes": "7"
+   },
+   {
+    "week": 12,
+    "topic": "İş Sağlığı ve Güvenliği Risk Değerlendirmesi",
+    "outcomes": "7"
+   },
+   {
+    "week": 13,
+    "topic": "İş Sağlığı ve Güvenliği Yönetim Sistemi",
+    "outcomes": "7"
+   },
+   {
+    "week": 14,
+    "topic": "İş Sağlığı ve Güvenliği - Uygulamalar",
+    "outcomes": "8"
+   }
+  ],
+  "textbooks": [
+   "Morton Lippmann, 2009. Environmental Toxicants Human Exposures and Their Effects, John Wiley and Sons Inc."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=456"
+ },
+ "CEV 458E": {
+  "code": "CEV 458E",
+  "name": "Derin Deniz Deşarjı Sistemlerinin Tasarımı",
+  "nameEn": "Design of Marine Disposal Sys.",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 2,
+   "practice": 0,
+   "lab": 0,
+   "local": 2,
+   "ects": 3
+  },
+  "description": "Deniz deşarj sistemlerine genel bakış. Deniz deşarjlarının çevresel etkileri. Sahil suyu kalite standartları. Deniz araştırmaları. Seyrelme hesapları. Deşarj hatlarının ve difüzörlerin hidrolik tasarımı. Deşarj hatlarına gelen hidrodinamik yükler. Termal deşarjlar. Tuzlu su deşarjları. Deşarj hatlarının yapısal tasarımı. Boru malzemeleri ve deşarj hattı inşa yöntemleri. An overview of marine disposal systems. Environmental impacts of marine disposal systems. Coastal water quality standards. Marine investigations. Dilution calculations. Hydraulic design of marine pipelines and diffusers. Hydrodynamic forces acting on marine pipe lines. Thermal discharges. Brine discharges. Structural design of marine pipelines. Pipe materials and construction methods.",
+  "outcomes": [
+   "Deniz deşarjı sistemlerinin projelendirilmesine hakkındaki genel bilgilere vakıf olma",
+   "Atıksu deşarjlarının deniz ortamındaki seyrelmesini hesaplama ve buna yönelik bilgisayar programlarını mühendislik çözümlerinde kullanabilme",
+   "Deniz deşarjı sistemlerinin hidrolik tasarımının yapılması ve buna yönelik bilgisayar programlarını mühendislik çözümlerinde kullanabilme",
+   "Deniz deşarjı boru hatlarının hidrodinamik ve yapısal tasarımını yapabilme",
+   "Termal ve tuzlu su deşarjları hakkındaki bilgilere vakıf olma",
+   "Deniz deşarjı sistemlerinde kullanılan borular ve inşa yöntemleri hakkındaki bilgilere vakıf olma"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Deniz deşarjı sistemleri hakkında genel bilgiler",
+   "Hafta 2 · Atıksuların deniz ortamında seyrelmesi",
+   "Hafta 3 · Atıksuların deniz ortamında seyrelmesi (İkinci ve üçüncü seyrelme hesabı)",
+   "Hafta 4 · Seyrelme hesaplarına ait sayısal uygulamalar",
+   "Hafta 5 · Deniz deşarjı sistemlerinin hidrolik tasarımı",
+   "Hafta 6 · Hidrolik tasarım ile ilgili sayısal uygulamalar",
+   "Hafta 7 · Hidrolik tasarım ile ilgili sayısal uygulamalar (Difüzör tasarımı)",
+   "Hafta 8 · Denizdeki boru hatlarına dalga ve akıntıların etkisi",
+   "Hafta 9 · Denizdeki boru hatlarına dalga ve akıntıların etkisi (Janson ve Grace Yöntemleri) - Ara Sınav",
+   "Hafta 10 · Deniz deşarjı boru hatlarının hidrodinamik tasarımı ile ilgili sayısal uygulamalar",
+   "Hafta 11 · Deniz deşarjı boru hatlarının hidrodinamik tasarımı ile ilgili sayısal uygulamalar",
+   "Hafta 12 · Deniz deşarjı sistemlerinde termal ve tuzlu su deşarjları",
+   "Hafta 13 · Denizdeki boru hatlarının yapısal tasarımı",
+   "Hafta 14 · Boru malzemeleri ve inşa yöntemleri"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Deniz deşarjı sistemleri hakkında genel bilgiler",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "Atıksuların deniz ortamında seyrelmesi",
+    "outcomes": "2"
+   },
+   {
+    "week": 3,
+    "topic": "Atıksuların deniz ortamında seyrelmesi (İkinci ve üçüncü seyrelme hesabı)",
+    "outcomes": "2"
+   },
+   {
+    "week": 4,
+    "topic": "Seyrelme hesaplarına ait sayısal uygulamalar",
+    "outcomes": "2"
+   },
+   {
+    "week": 5,
+    "topic": "Deniz deşarjı sistemlerinin hidrolik tasarımı",
+    "outcomes": "3"
+   },
+   {
+    "week": 6,
+    "topic": "Hidrolik tasarım ile ilgili sayısal uygulamalar",
+    "outcomes": "3"
+   },
+   {
+    "week": 7,
+    "topic": "Hidrolik tasarım ile ilgili sayısal uygulamalar (Difüzör tasarımı)",
+    "outcomes": "3"
+   },
+   {
+    "week": 8,
+    "topic": "Denizdeki boru hatlarına dalga ve akıntıların etkisi",
+    "outcomes": "4"
+   },
+   {
+    "week": 9,
+    "topic": "Denizdeki boru hatlarına dalga ve akıntıların etkisi (Janson ve Grace Yöntemleri) - Ara Sınav",
+    "outcomes": "1-2-3-4"
+   },
+   {
+    "week": 10,
+    "topic": "Deniz deşarjı boru hatlarının hidrodinamik tasarımı ile ilgili sayısal uygulamalar",
+    "outcomes": "4"
+   },
+   {
+    "week": 11,
+    "topic": "Deniz deşarjı boru hatlarının hidrodinamik tasarımı ile ilgili sayısal uygulamalar",
+    "outcomes": "4"
+   },
+   {
+    "week": 12,
+    "topic": "Deniz deşarjı sistemlerinde termal ve tuzlu su deşarjları",
+    "outcomes": "5"
+   },
+   {
+    "week": 13,
+    "topic": "Denizdeki boru hatlarının yapısal tasarımı",
+    "outcomes": "6"
+   },
+   {
+    "week": 14,
+    "topic": "Boru malzemeleri ve inşa yöntemleri",
+    "outcomes": "6"
+   }
+  ],
+  "textbooks": [
+   "Gunnerson, G.C., French, J.A. (Eds.), 1996. Wastewater Management for coastal cities, Springer-Verlag Publications, Germany."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=458"
+ },
+ "CEV 461": {
+  "code": "CEV 461",
+  "name": "Çevre Kimyası I",
+  "nameEn": "Environmental Chemistry I",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 3,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 4
+  },
+  "description": "",
+  "outcomes": [
+   "Kirlenmiş ve temiz ortamı belirleme, analiz etme",
+   "Çevre koruma",
+   "Çevre yönetimi",
+   "Verimlilik",
+   "Kirleticiler ve etkileri",
+   "Su Arıtma"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Giriş: Su ortamı",
+   "Hafta 2 · Su moleküllerinin yapısı ve özellikleri",
+   "Hafta 3 · Deniz ortamı",
+   "Hafta 4 · Göl ortamı, Akarsular, Yeraltı su kaynakları",
+   "Hafta 5 · Elementlerin biyolojik çevrimi, Su kirliliği",
+   "Hafta 6 · Su kirleticileri",
+   "Hafta 7 · Su ortamının kalitesinin belirlenmesi, Su arıtımı",
+   "Hafta 8 · Dengeleme, Nötralizasyon",
+   "Hafta 9 · Kimyasal Oksidasyon",
+   "Hafta 10 · Kimyasal çöktürme",
+   "Hafta 11 · Koagülasyon, Flotasyon",
+   "Hafta 12 · Adsorpsiyon, İyon değişimi",
+   "Hafta 13 · Dezenfeksiyon",
+   "Hafta 14 · Elektro diyaliz, Elektroliz ve ters osmos"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Giriş: Su ortamı",
+    "outcomes": "1-3"
+   },
+   {
+    "week": 2,
+    "topic": "Su moleküllerinin yapısı ve özellikleri",
+    "outcomes": "1"
+   },
+   {
+    "week": 3,
+    "topic": "Deniz ortamı",
+    "outcomes": "1-2-3-4"
+   },
+   {
+    "week": 4,
+    "topic": "Göl ortamı, Akarsular, Yeraltı su kaynakları",
+    "outcomes": "1-2-3-4"
+   },
+   {
+    "week": 5,
+    "topic": "Elementlerin biyolojik çevrimi, Su kirliliği",
+    "outcomes": "2-5"
+   },
+   {
+    "week": 6,
+    "topic": "Su kirleticileri",
+    "outcomes": "2-3-5"
+   },
+   {
+    "week": 7,
+    "topic": "Su ortamının kalitesinin belirlenmesi, Su arıtımı",
+    "outcomes": "1-2-3"
+   },
+   {
+    "week": 8,
+    "topic": "Dengeleme, Nötralizasyon",
+    "outcomes": "2-6"
+   },
+   {
+    "week": 9,
+    "topic": "Kimyasal Oksidasyon",
+    "outcomes": "2-6"
+   },
+   {
+    "week": 10,
+    "topic": "Kimyasal çöktürme",
+    "outcomes": "2-6"
+   },
+   {
+    "week": 11,
+    "topic": "Koagülasyon, Flotasyon",
+    "outcomes": "2-6"
+   },
+   {
+    "week": 12,
+    "topic": "Adsorpsiyon, İyon değişimi",
+    "outcomes": "2-6"
+   },
+   {
+    "week": 13,
+    "topic": "Dezenfeksiyon",
+    "outcomes": "2-6"
+   },
+   {
+    "week": 14,
+    "topic": "Elektro diyaliz, Elektroliz ve ters osmos",
+    "outcomes": "2-6"
+   }
+  ],
+  "textbooks": [
+   "DERS NOTU (LECTURER NOTE), , , 2009,"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=461"
+ },
+ "CEV 462": {
+  "code": "CEV 462",
+  "name": "Çevre Kimyası II",
+  "nameEn": "Environmental Chemistry II",
+  "language": "Türkçe",
+  "credits": {
+   "theory": 3,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 4
+  },
+  "description": "",
+  "outcomes": [
+   "Öğrenci kirlenmiş ve temiz ortamı tanıma",
+   "Havayı koruma",
+   "Temizleme",
+   "Verimlilik",
+   "Hava bileşenlerini belirleme ve analiz etme",
+   "Örnek alma ve analiz cihazlarını öğrenme",
+   "Atmosfer Kimyası"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Hava kirliliği, tarihçesi",
+   "Hafta 2 · Hava kalitesi ve emisyon standartları",
+   "Hafta 3 · Gaz fazı atmosferik kimyası, atmosferik organik kimya, stratosferik kimya",
+   "Hafta 4 · Hava kirliliği kontrol teknikleri",
+   "Hafta 5 · Hava kirliliğinin global etkileri, hava kirliliğinin insan sağlığına etkileri, tabii kaynaklar",
+   "Hafta 6 · Spesifik kirleticiler, reaksiyonları, etkileri, analiz yöntemleri, kontrolu",
+   "Hafta 7 · Partiküller: emisyonu, etkileri, analiz yöntemleri, kontrolu",
+   "Hafta 8 · Sülfür oksitleri: emisyonu, etkileri, analiz yöntemleri, kontrolu, ARASINAV",
+   "Hafta 9 · Azot oksitleri: emisyonu, etkileri, analiz yöntemleri, kontrolu",
+   "Hafta 10 · Ozon. PAN, fotokimyasal smog: emisyonu, etkileri, analiz yöntemleri, kontrolu",
+   "Hafta 11 · Karbon dioksit, hidrokarbonlar, halojenli bileşikler: emisyonu, etkileri, analiz yöntemleri, kontrolu",
+   "Hafta 12 · Asit yağmurları: oluşumu, etkileri, analiz yöntemleri, kontrolu",
+   "Hafta 13 · Katı atıklar, etkileri, analiz yöntemleri, kontrolu, Koku kirliliği",
+   "Hafta 14 · Ozon tabakasının delinmesi, sebepleri, etkileri, kontrolu"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Hava kirliliği, tarihçesi",
+    "outcomes": "1-7"
+   },
+   {
+    "week": 2,
+    "topic": "Hava kalitesi ve emisyon standartları",
+    "outcomes": "1-2-4-5"
+   },
+   {
+    "week": 3,
+    "topic": "Gaz fazı atmosferik kimyası, atmosferik organik kimya, stratosferik kimya",
+    "outcomes": "7"
+   },
+   {
+    "week": 4,
+    "topic": "Hava kirliliği kontrol teknikleri",
+    "outcomes": "3-6"
+   },
+   {
+    "week": 5,
+    "topic": "Hava kirliliğinin global etkileri, hava kirliliğinin insan sağlığına etkileri, tabii kaynaklar",
+    "outcomes": "2-4-7"
+   },
+   {
+    "week": 6,
+    "topic": "Spesifik kirleticiler, reaksiyonları, etkileri, analiz yöntemleri, kontrolu",
+    "outcomes": "1"
+   },
+   {
+    "week": 7,
+    "topic": "Partiküller: emisyonu, etkileri, analiz yöntemleri, kontrolu",
+    "outcomes": "1-2-3-5-6"
+   },
+   {
+    "week": 8,
+    "topic": "Sülfür oksitleri: emisyonu, etkileri, analiz yöntemleri, kontrolu, ARASINAV",
+    "outcomes": "1-2-3-5-6"
+   },
+   {
+    "week": 9,
+    "topic": "Azot oksitleri: emisyonu, etkileri, analiz yöntemleri, kontrolu",
+    "outcomes": "1-2-3-5-6"
+   },
+   {
+    "week": 10,
+    "topic": "Ozon. PAN, fotokimyasal smog: emisyonu, etkileri, analiz yöntemleri, kontrolu",
+    "outcomes": "1-2-3-5-6"
+   },
+   {
+    "week": 11,
+    "topic": "Karbon dioksit, hidrokarbonlar, halojenli bileşikler: emisyonu, etkileri, analiz yöntemleri, kontrolu",
+    "outcomes": "1-2-3-5-6"
+   },
+   {
+    "week": 12,
+    "topic": "Asit yağmurları: oluşumu, etkileri, analiz yöntemleri, kontrolu",
+    "outcomes": "1-2-3-5-6"
+   },
+   {
+    "week": 13,
+    "topic": "Katı atıklar, etkileri, analiz yöntemleri, kontrolu, Koku kirliliği",
+    "outcomes": "1-2-3-4-5-6"
+   },
+   {
+    "week": 14,
+    "topic": "Ozon tabakasının delinmesi, sebepleri, etkileri, kontrolu",
+    "outcomes": "1-2-3-5-6"
+   }
+  ],
+  "textbooks": [
+   "DERS NOTU (LECTURER NOTE), , , 2009,"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=462"
+ },
+ "CEV 464E": {
+  "code": "CEV 464E",
+  "name": "Çevre Müh İleri Bilgisayar Uygulamaları",
+  "nameEn": "Adv. Comp.App.in Envir. Eng.",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 2,
+   "practice": 0,
+   "lab": 0,
+   "local": 2,
+   "ects": 3
+  },
+  "description": "Standart bilgisayar uygulamalarının ileri düzey kullanımı. Bilgisayar destekli mühendislik tasarımı. Eniyileme. Bilgisayar destekli tasarımla eniyilemenin birleştirilmesi. Bilgisayar uygulamalarının özelleştirilmesi ve birleştirilmesi. Utilization of standard computer applications on advanced level. Computer aided engineering design. Optimization. Integrating optimization with engineering design. Customization and integration of computer application.",
+  "outcomes": [
+   "Bilgisayar derslerinden aldıkları temel becerileri ileri düzeye taşırlar",
+   "Gerçek mühendislik uygulamalarında karşılaşabilecekleri karmaşık problemleri bir ya da birden çok bilgisayar uygulamasını birlikte kullanarak çözmeyi öğrenirler",
+   "Bilgisayar destekli tasarıma yönelik uygulama geliştirme ile ilgili temel becerileri kazanırlar",
+   "Eniyileme konusunda giriş düzeyinde bilgi edinirler",
+   "Bilgisayar destekli tasarımı eniyileme ile birlikte uygulamayı öğrenirler",
+   "Birden çok bilgisayar uygulamasını tümleştirerek karmaşık bir çevre mühendisliği tasarım problemine çözüm geliştirmeyi öğrenirler"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Giriş - Bilgisayar uygulamalarının sınıflandırılması",
+   "Hafta 2 · Yorumlamalı dillerle hesaplamalı mühendisliğe giriş (Python, MATLAB, R vd.)",
+   "Hafta 3 · Nesneye yönelik soyutlama ve programlama",
+   "Hafta 4 · Elektronik tablolama paketlerinin programlanması",
+   "Hafta 5 · Konumsal teknolojiler ve programlama",
+   "Hafta 6 · Programlama odaklı bilgisayar destekli tasarım",
+   "Hafta 7 · Eniyileme algoritmaları",
+   "Hafta 8 · Çevre Mühendisliği yapılarının bilgisayar destekli tasarımı",
+   "Hafta 9 · Çevre Mühendisliği’nde eniyileme, Ara Sınav",
+   "Hafta 10 · Programlama odaklı eniyileme araç kutuları (Python, MATLAB, R vd.)",
+   "Hafta 11 · Eniyileme ve mühendislik tasarımının bilgisayar uygulamalarıyla birleştirilmesi",
+   "Hafta 12 · Bilgisayar uygulamalarının özelleştirilmesi",
+   "Hafta 13 · Bilgisayar uygulamalarının tümleştirilmesi",
+   "Hafta 14 · Karmaşık bir çevre mühendisliği tasarım problemi örneğinin bilgisayar destekli çözümü"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Giriş - Bilgisayar uygulamalarının sınıflandırılması",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "Yorumlamalı dillerle hesaplamalı mühendisliğe giriş (Python, MATLAB, R vd.)",
+    "outcomes": "1"
+   },
+   {
+    "week": 3,
+    "topic": "Nesneye yönelik soyutlama ve programlama",
+    "outcomes": "1"
+   },
+   {
+    "week": 4,
+    "topic": "Elektronik tablolama paketlerinin programlanması",
+    "outcomes": "1-2-6"
+   },
+   {
+    "week": 5,
+    "topic": "Konumsal teknolojiler ve programlama",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 6,
+    "topic": "Programlama odaklı bilgisayar destekli tasarım",
+    "outcomes": "1-2-3"
+   },
+   {
+    "week": 7,
+    "topic": "Eniyileme algoritmaları",
+    "outcomes": "4"
+   },
+   {
+    "week": 8,
+    "topic": "Çevre Mühendisliği yapılarının bilgisayar destekli tasarımı",
+    "outcomes": "3"
+   },
+   {
+    "week": 9,
+    "topic": "Çevre Mühendisliği’nde eniyileme, Ara Sınav",
+    "outcomes": "1-2-3-4-6"
+   },
+   {
+    "week": 10,
+    "topic": "Programlama odaklı eniyileme araç kutuları (Python, MATLAB, R vd.)",
+    "outcomes": "4"
+   },
+   {
+    "week": 11,
+    "topic": "Eniyileme ve mühendislik tasarımının bilgisayar uygulamalarıyla birleştirilmesi",
+    "outcomes": "2-5"
+   },
+   {
+    "week": 12,
+    "topic": "Bilgisayar uygulamalarının özelleştirilmesi",
+    "outcomes": "1"
+   },
+   {
+    "week": 13,
+    "topic": "Bilgisayar uygulamalarının tümleştirilmesi",
+    "outcomes": "1"
+   },
+   {
+    "week": 14,
+    "topic": "Karmaşık bir çevre mühendisliği tasarım problemi örneğinin bilgisayar destekli çözümü",
+    "outcomes": "2-6"
+   }
+  ],
+  "textbooks": [
+   "Chapra, S. C. ve Canale, R. P., 2015. Numerical Methods for Engineers, 7th Edition, McGraw-Hill, New York, NY, ABD, 970 sayfa."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=464"
+ },
+ "CEV 466": {
+  "code": "CEV 466",
+  "name": "Kentsel Hava Kalitesi Yönetimi",
+  "nameEn": "Urban Air Quality Management",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 2,
+   "practice": 0,
+   "lab": 0,
+   "local": 2,
+   "ects": 3
+  },
+  "description": "Kentsel Hava Kirliliğine Giriş, Şehir planlama, Binaların mikrometeorolojik etkileri, Isı adası etkisi. Evsel kaynaklar, Sanayi kaynakları, Hareketli kaynaklar, Koku emisyonları ve kontrolü. Emisyon envanterleri, Kentsel Hava Kalitesi İzleme ve Modellemesi. Kentsel hava kalitesi yönetimi, Vaka çalışmaları, Örnek şehirler. Introduction to Urban Air Pollution, Urban planning, Micrometeorological effects of buildings, Heat island effect. Residential sources, Industrial sources, Mobile sources. Odor emissions and control. Emission inventories, Urban air quality monitoring and modeling. Urban air quality management, Case studies, Example cities.",
+  "outcomes": [
+   "hava kalite yönetim sistemleri",
+   "evsel, endüstriyel, hareketli ve diğer kentsel hava kirletici kaynakları",
+   "farklı endüstriyel kaynalar için en iyi kullanılabilir teknolojiler",
+   "emisyon envanteri geliştirme",
+   "hava kirliliği izleme",
+   "hava kalitesi modellemesi ve maruziyet"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Kentsel Hava Kirliliğine Giriş, Şehir planlama, Binaların mikrometeorolojik etkileri, Isı adası etkisi",
+   "Hafta 2 · Evsel kaynaklar I: Başlıca Hava Kirleticileri, Sınıflandırma, Yakıtlar, İç Ortam Hava Kirliliği",
+   "Hafta 3 · Evsel kaynaklar II: Emisyon faktörleri, Yasal değerlendirme",
+   "Hafta 4 · Sanayi kaynakları I: Başlıca Hava Kirleticileri, Sınıflandırma kriterleri, Yüksek kirletici vasfı olan endüstriler, Faaliyetler ve süreçler, Kirlilik profilleri",
+   "Hafta 5 · Sanayi kaynakları II: Önemli endüstriler için kontrol ve en iyi mevcu arıtım teknolojileri, Emisyon faktörleri, Yasal değerlendirme",
+   "Hafta 6 · Hareketli kaynaklar: Başlıca Hava Kirleticileri, Kirlilik kontrolü, Kentsel ulaşım emisyonları, Hava ve deniz ulaşımı, Emisyon faktörleri, Yasal değerlendirme",
+   "Hafta 7 · Koku emisyonları ve kontrolü: Atıksu toplama ve arıtma tesisleri, Katı atık depolama tesisleri, Mekanik ve biyolojik katı atık arıtımı, Hukuki değerlendirme",
+   "Hafta 8 · Emisyon Envanterleri I: Metodoloji, Emisyon Faktörü Geliştirme",
+   "Hafta 9 · Emisyon Envanterleri II: Altta Yukarı, Yukarıdan Alta Emisyon Tahmin Yöntemleri, Emisyonların Mekansal ve Zamansal Profilleri",
+   "Hafta 10 · Hava Kalitesi İzleme",
+   "Hafta 11 · Modelleme: Hava Kalitesi Modellemesi, Kaynak belirleme Modelleri, Maruziyet Modelleri",
+   "Hafta 12 · Kentsel hava kalitesi yönetimi I: Maruziyet, Hava Kalitesi Planlaması, Eylem Planları",
+   "Hafta 13 · Kentsel hava kalitesi yönetimi II: Entegre Hava Kalitesi Yönetimi, Vaka çalışmaları, Örnek şehirler",
+   "Hafta 14 · Dönem Ödevleri – Öğrenci Sunumları"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Kentsel Hava Kirliliğine Giriş, Şehir planlama, Binaların mikrometeorolojik etkileri, Isı adası etkisi",
+    "outcomes": "2"
+   },
+   {
+    "week": 2,
+    "topic": "Evsel kaynaklar I: Başlıca Hava Kirleticileri, Sınıflandırma, Yakıtlar, İç Ortam Hava Kirliliği",
+    "outcomes": "2"
+   },
+   {
+    "week": 3,
+    "topic": "Evsel kaynaklar II: Emisyon faktörleri, Yasal değerlendirme",
+    "outcomes": "2"
+   },
+   {
+    "week": 4,
+    "topic": "Sanayi kaynakları I: Başlıca Hava Kirleticileri, Sınıflandırma kriterleri, Yüksek kirletici vasfı olan endüstriler, Faaliyetler ve süreçler, Kirlilik profilleri",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 5,
+    "topic": "Sanayi kaynakları II: Önemli endüstriler için kontrol ve en iyi mevcu arıtım teknolojileri, Emisyon faktörleri, Yasal değerlendirme",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 6,
+    "topic": "Hareketli kaynaklar: Başlıca Hava Kirleticileri, Kirlilik kontrolü, Kentsel ulaşım emisyonları, Hava ve deniz ulaşımı, Emisyon faktörleri, Yasal değerlendirme",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 7,
+    "topic": "Koku emisyonları ve kontrolü: Atıksu toplama ve arıtma tesisleri, Katı atık depolama tesisleri, Mekanik ve biyolojik katı atık arıtımı, Hukuki değerlendirme",
+    "outcomes": "2"
+   },
+   {
+    "week": 8,
+    "topic": "Emisyon Envanterleri I: Metodoloji, Emisyon Faktörü Geliştirme",
+    "outcomes": "4"
+   },
+   {
+    "week": 9,
+    "topic": "Emisyon Envanterleri II: Altta Yukarı, Yukarıdan Alta Emisyon Tahmin Yöntemleri, Emisyonların Mekansal ve Zamansal Profilleri",
+    "outcomes": "4"
+   },
+   {
+    "week": 10,
+    "topic": "Hava Kalitesi İzleme",
+    "outcomes": "1-5"
+   },
+   {
+    "week": 11,
+    "topic": "Modelleme: Hava Kalitesi Modellemesi, Kaynak belirleme Modelleri, Maruziyet Modelleri",
+    "outcomes": "1-6"
+   },
+   {
+    "week": 12,
+    "topic": "Kentsel hava kalitesi yönetimi I: Maruziyet, Hava Kalitesi Planlaması, Eylem Planları",
+    "outcomes": "1"
+   },
+   {
+    "week": 13,
+    "topic": "Kentsel hava kalitesi yönetimi II: Entegre Hava Kalitesi Yönetimi, Vaka çalışmaları, Örnek şehirler",
+    "outcomes": "1"
+   },
+   {
+    "week": 14,
+    "topic": "Dönem Ödevleri – Öğrenci Sunumları",
+    "outcomes": "1-4-5-6"
+   }
+  ],
+  "textbooks": [
+   "C. Nagl, C. Ansorge, L. Moosmann, W. Spangl, H. Wiesenberger (auth.), Mar Viana (eds.), 2013. “Urban Air Quality in Europe”, The Handbook of Environmental Chemistry, Springer-Verlag, Berlin Heidelberg.",
+   "Ronald E. Hester, Roy M. Harrison, 2009. “Air Quality in Urban Environments”, Issues in Environmental Science and Technology, Royal Society of Chemistry, Cambridge UK."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=466"
+ },
+ "CEV 466E": {
+  "code": "CEV 466E",
+  "name": "Kentsel Hava Kalitesi Yönetimi",
+  "nameEn": "Urban Air Quality Management",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 2,
+   "practice": 0,
+   "lab": 0,
+   "local": 2,
+   "ects": 3
+  },
+  "description": "Kentsel Hava Kirliliğine Giriş, Şehir planlama, Binaların mikrometeorolojik etkileri, Isı adası etkisi. Evsel kaynaklar, Sanayi kaynakları, Hareketli kaynaklar, Koku emisyonları ve kontrolü. Emisyon envanterleri, Kentsel Hava Kalitesi İzleme ve Modellemesi. Kentsel hava kalitesi yönetimi, Vaka çalışmaları, Örnek şehirler. Introduction to Urban Air Pollution, Urban planning, Micrometeorological effects of buildings, Heat island effect. Residential sources, Industrial sources, Mobile sources. Odor emissions and control. Emission inventories, Urban air quality monitoring and modeling. Urban air quality management, Case studies, Example cities.",
+  "outcomes": [
+   "hava kalite yönetim sistemleri",
+   "evsel, endüstriyel, hareketli ve diğer kentsel hava kirletici kaynakları",
+   "farklı endüstriyel kaynalar için en iyi kullanılabilir teknolojiler",
+   "emisyon envanteri geliştirme",
+   "hava kirliliği izleme",
+   "hava kalitesi modellemesi ve maruziyet"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Kentsel Hava Kirliliğine Giriş, Şehir planlama, Binaların mikrometeorolojik etkileri, Isı adası etkisi",
+   "Hafta 2 · Evsel kaynaklar I: Başlıca Hava Kirleticileri, Sınıflandırma, Yakıtlar, İç Ortam Hava Kirliliği",
+   "Hafta 3 · Evsel kaynaklar II: Emisyon faktörleri, Yasal değerlendirme",
+   "Hafta 4 · Sanayi kaynakları I: Başlıca Hava Kirleticileri, Sınıflandırma kriterleri, Yüksek kirletici vasfı olan endüstriler, Faaliyetler ve süreçler, Kirlilik profilleri",
+   "Hafta 5 · Sanayi kaynakları II: Önemli endüstriler için kontrol ve en iyi mevcu arıtım teknolojileri, Emisyon faktörleri, Yasal değerlendirme",
+   "Hafta 6 · Hareketli kaynaklar: Başlıca Hava Kirleticileri, Kirlilik kontrolü, Kentsel ulaşım emisyonları, Hava ve deniz ulaşımı, Emisyon faktörleri, Yasal değerlendirme",
+   "Hafta 7 · Koku emisyonları ve kontrolü: Atıksu toplama ve arıtma tesisleri, Katı atık depolama tesisleri, Mekanik ve biyolojik katı atık arıtımı, Hukuki değerlendirme",
+   "Hafta 8 · Emisyon Envanterleri I: Metodoloji, Emisyon Faktörü Geliştirme",
+   "Hafta 9 · Emisyon Envanterleri II: Altta Yukarı, Yukarıdan Alta Emisyon Tahmin Yöntemleri, Emisyonların Mekansal ve Zamansal Profilleri",
+   "Hafta 10 · Hava Kalitesi İzleme",
+   "Hafta 11 · Modelleme: Hava Kalitesi Modellemesi, Kaynak belirleme Modelleri, Maruziyet Modelleri",
+   "Hafta 12 · Kentsel hava kalitesi yönetimi I: Maruziyet, Hava Kalitesi Planlaması, Eylem Planları",
+   "Hafta 13 · Kentsel hava kalitesi yönetimi II: Entegre Hava Kalitesi Yönetimi, Vaka çalışmaları, Örnek şehirler",
+   "Hafta 14 · Dönem Ödevleri – Öğrenci Sunumları"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Kentsel Hava Kirliliğine Giriş, Şehir planlama, Binaların mikrometeorolojik etkileri, Isı adası etkisi",
+    "outcomes": "2"
+   },
+   {
+    "week": 2,
+    "topic": "Evsel kaynaklar I: Başlıca Hava Kirleticileri, Sınıflandırma, Yakıtlar, İç Ortam Hava Kirliliği",
+    "outcomes": "2"
+   },
+   {
+    "week": 3,
+    "topic": "Evsel kaynaklar II: Emisyon faktörleri, Yasal değerlendirme",
+    "outcomes": "2"
+   },
+   {
+    "week": 4,
+    "topic": "Sanayi kaynakları I: Başlıca Hava Kirleticileri, Sınıflandırma kriterleri, Yüksek kirletici vasfı olan endüstriler, Faaliyetler ve süreçler, Kirlilik profilleri",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 5,
+    "topic": "Sanayi kaynakları II: Önemli endüstriler için kontrol ve en iyi mevcu arıtım teknolojileri, Emisyon faktörleri, Yasal değerlendirme",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 6,
+    "topic": "Hareketli kaynaklar: Başlıca Hava Kirleticileri, Kirlilik kontrolü, Kentsel ulaşım emisyonları, Hava ve deniz ulaşımı, Emisyon faktörleri, Yasal değerlendirme",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 7,
+    "topic": "Koku emisyonları ve kontrolü: Atıksu toplama ve arıtma tesisleri, Katı atık depolama tesisleri, Mekanik ve biyolojik katı atık arıtımı, Hukuki değerlendirme",
+    "outcomes": "2"
+   },
+   {
+    "week": 8,
+    "topic": "Emisyon Envanterleri I: Metodoloji, Emisyon Faktörü Geliştirme",
+    "outcomes": "4"
+   },
+   {
+    "week": 9,
+    "topic": "Emisyon Envanterleri II: Altta Yukarı, Yukarıdan Alta Emisyon Tahmin Yöntemleri, Emisyonların Mekansal ve Zamansal Profilleri",
+    "outcomes": "4"
+   },
+   {
+    "week": 10,
+    "topic": "Hava Kalitesi İzleme",
+    "outcomes": "1-5"
+   },
+   {
+    "week": 11,
+    "topic": "Modelleme: Hava Kalitesi Modellemesi, Kaynak belirleme Modelleri, Maruziyet Modelleri",
+    "outcomes": "1-6"
+   },
+   {
+    "week": 12,
+    "topic": "Kentsel hava kalitesi yönetimi I: Maruziyet, Hava Kalitesi Planlaması, Eylem Planları",
+    "outcomes": "1"
+   },
+   {
+    "week": 13,
+    "topic": "Kentsel hava kalitesi yönetimi II: Entegre Hava Kalitesi Yönetimi, Vaka çalışmaları, Örnek şehirler",
+    "outcomes": "1"
+   },
+   {
+    "week": 14,
+    "topic": "Dönem Ödevleri – Öğrenci Sunumları",
+    "outcomes": "1-4-5-6"
+   }
+  ],
+  "textbooks": [
+   "C. Nagl, C. Ansorge, L. Moosmann, W. Spangl, H. Wiesenberger (auth.), Mar Viana (eds.), 2013. “Urban Air Quality in Europe”, The Handbook of Environmental Chemistry, Springer-Verlag, Berlin Heidelberg.",
+   "Ronald E. Hester, Roy M. Harrison, 2009. “Air Quality in Urban Environments”, Issues in Environmental Science and Technology, Royal Society of Chemistry, Cambridge UK."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=466"
+ },
+ "CEV 468": {
+  "code": "CEV 468",
+  "name": "Bireysel Araştırma",
+  "nameEn": "Individual Studies",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 2,
+   "practice": 0,
+   "lab": 0,
+   "local": 2,
+   "ects": 3
+  },
+  "description": "Bireysel olarak öğrencinin, bir öğretim üyesi yönetiminde belirleyeceği bir araştırma konusunda, laboratuvar, modelleme, simülasyon, yönetim çalışması, saha çalışması, orijinal bilgi üretimi ve orijinal sonuç çıkarma odaklı kapsamlı literatür çalışması vb yoluyla veri üretimi, analiz/sentez, belirlenmiş hedef doğrultusunda içerikli ve anlamlı sonuçlar çıkaracak şekilde araştırma yaparak, bir yandan belirlenen özel konuda katkı oluşturulması, diğer yandan öğrencinin problem tanımı ve çözümü konusunda beceri ve özgüveninin artırılması, çalışmanın raporlanması ve savunulmasına yöneliktir. Directed towards enhancing problem identification/solving skills and professional self confidence through individual research under the supervision of a faculty member, through focusing upon a specialized topic which may require laboratory work, modeling, simulation, management practice, field study, comprehensive literature survey to draw original conclusions, etc, to formulate the problem, generate data, analyze the case, and generate solutions to the problems, as well as drawing conclusions and to make a contribution for the topic selected; communicate and disseminate research outcomes.",
+  "outcomes": [
+   "Araştırılacak özel konunun belirlenerek gerekçelendirilmesi",
+   "Belirlenen konu üzerinde analiz / sentez",
+   "Bireysel olarak bir çevre problemine çözüm bulmak üzere bir sistematiği oluşturma",
+   "Problemin çözümü / değerlendirilmesi için veri üretme (laboratuvar, model, saha çalışması, literatür, mevzuat vb)",
+   "Üretilen verileri işleme, karşılaştırma, yorumlama ve değerlendirme",
+   "Belirlenen konu hakkında anlamlı sonuçlar çıkarabilme, ileriye dönük öneriler yapabilme",
+   "Yapılan araştırmayı bilimsel bir rapora /teze dönüştürme; çalışmayı bilimsel bir şekilde sunarak yapılan çalışma ve varılan sonuçları savunma (bulguların paylaşılması ve duyurulması) yeteneklerini geliştirebilme"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Özel çalışma konusunun belirlenmesi/gerekçelendirmesi/detaylandırılması",
+   "Hafta 2 · Araştırma sistematiği ve raporlamanın esasları",
+   "Hafta 3 · Ön rapor",
+   "Hafta 4 · Literatür araştırması",
+   "Hafta 5 · Literatür araştırmasının değerlendirilmesi",
+   "Hafta 6 · Metodolojinin oluşturulması",
+   "Hafta 7 · Verilerin oluşturulması",
+   "Hafta 8 · Verilerin oluşturulması",
+   "Hafta 9 · Gelinen noktanın ve elde edilen sonuçların ön değerlendirilmesi/revize edilmesi",
+   "Hafta 10 · Verilerin oluşturlması",
+   "Hafta 11 · Verilerin değerlendirilmesi",
+   "Hafta 12 · Verilerin değerlendirilmesi",
+   "Hafta 13 · Raporlama",
+   "Hafta 14 · Çalışmanın sunumu ve savunması"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Özel çalışma konusunun belirlenmesi/gerekçelendirmesi/detaylandırılması",
+    "outcomes": "1-3"
+   },
+   {
+    "week": 2,
+    "topic": "Araştırma sistematiği ve raporlamanın esasları",
+    "outcomes": "3-4"
+   },
+   {
+    "week": 3,
+    "topic": "Ön rapor",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 4,
+    "topic": "Literatür araştırması",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 5,
+    "topic": "Literatür araştırmasının değerlendirilmesi",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 6,
+    "topic": "Metodolojinin oluşturulması",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 7,
+    "topic": "Verilerin oluşturulması",
+    "outcomes": "4-5"
+   },
+   {
+    "week": 8,
+    "topic": "Verilerin oluşturulması",
+    "outcomes": "4-5"
+   },
+   {
+    "week": 9,
+    "topic": "Gelinen noktanın ve elde edilen sonuçların ön değerlendirilmesi/revize edilmesi",
+    "outcomes": "2-5"
+   },
+   {
+    "week": 10,
+    "topic": "Verilerin oluşturlması",
+    "outcomes": "4-5"
+   },
+   {
+    "week": 11,
+    "topic": "Verilerin değerlendirilmesi",
+    "outcomes": "2-5-6"
+   },
+   {
+    "week": 12,
+    "topic": "Verilerin değerlendirilmesi",
+    "outcomes": "2-5-6"
+   },
+   {
+    "week": 13,
+    "topic": "Raporlama",
+    "outcomes": "7"
+   },
+   {
+    "week": 14,
+    "topic": "Çalışmanın sunumu ve savunması",
+    "outcomes": "7"
+   }
+  ],
+  "textbooks": [
+   "Seçilecek konuya bağlı olarak belirlenecektir"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=468"
+ },
+ "CEV 468E": {
+  "code": "CEV 468E",
+  "name": "Bireysel Araştırma",
+  "nameEn": "Individual Studies",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 2,
+   "practice": 0,
+   "lab": 0,
+   "local": 2,
+   "ects": 3
+  },
+  "description": "Bireysel olarak öğrencinin, bir öğretim üyesi yönetiminde belirleyeceği bir araştırma konusunda, laboratuvar, modelleme, simülasyon, yönetim çalışması, saha çalışması, orijinal bilgi üretimi ve orijinal sonuç çıkarma odaklı kapsamlı literatür çalışması vb yoluyla veri üretimi, analiz/sentez, belirlenmiş hedef doğrultusunda içerikli ve anlamlı sonuçlar çıkaracak şekilde araştırma yaparak, bir yandan belirlenen özel konuda katkı oluşturulması, diğer yandan öğrencinin problem tanımı ve çözümü konusunda beceri ve özgüveninin artırılması, çalışmanın raporlanması ve savunulmasına yöneliktir. Directed towards enhancing problem identification/solving skills and professional self confidence through individual research under the supervision of a faculty member, through focusing upon a specialized topic which may require laboratory work, modeling, simulation, management practice, field study, comprehensive literature survey to draw original conclusions, etc, to formulate the problem, generate data, analyze the case, and generate solutions to the problems, as well as drawing conclusions and to make a contribution for the topic selected; communicate and disseminate research outcomes.",
+  "outcomes": [
+   "Araştırılacak özel konunun belirlenerek gerekçelendirilmesi",
+   "Belirlenen konu üzerinde analiz / sentez",
+   "Bireysel olarak bir çevre problemine çözüm bulmak üzere bir sistematiği oluşturma",
+   "Problemin çözümü / değerlendirilmesi için veri üretme (laboratuvar, model, saha çalışması, literatür, mevzuat vb)",
+   "Üretilen verileri işleme, karşılaştırma, yorumlama ve değerlendirme",
+   "Belirlenen konu hakkında anlamlı sonuçlar çıkarabilme, ileriye dönük öneriler yapabilme",
+   "Yapılan araştırmayı bilimsel bir rapora /teze dönüştürme; çalışmayı bilimsel bir şekilde sunarak yapılan çalışma ve varılan sonuçları savunma (bulguların paylaşılması ve duyurulması) yeteneklerini geliştirebilme"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Özel çalışma konusunun belirlenmesi/gerekçelendirmesi/detaylandırılması",
+   "Hafta 2 · Araştırma sistematiği ve raporlamanın esasları",
+   "Hafta 3 · Ön rapor",
+   "Hafta 4 · Literatür araştırması",
+   "Hafta 5 · Literatür araştırmasının değerlendirilmesi",
+   "Hafta 6 · Metodolojinin oluşturulması",
+   "Hafta 7 · Verilerin oluşturulması",
+   "Hafta 8 · Verilerin oluşturulması",
+   "Hafta 9 · Gelinen noktanın ve elde edilen sonuçların ön değerlendirilmesi/revize edilmesi",
+   "Hafta 10 · Verilerin oluşturlması",
+   "Hafta 11 · Verilerin değerlendirilmesi",
+   "Hafta 12 · Verilerin değerlendirilmesi",
+   "Hafta 13 · Raporlama",
+   "Hafta 14 · Çalışmanın sunumu ve savunması"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Özel çalışma konusunun belirlenmesi/gerekçelendirmesi/detaylandırılması",
+    "outcomes": "1-3"
+   },
+   {
+    "week": 2,
+    "topic": "Araştırma sistematiği ve raporlamanın esasları",
+    "outcomes": "3-4"
+   },
+   {
+    "week": 3,
+    "topic": "Ön rapor",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 4,
+    "topic": "Literatür araştırması",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 5,
+    "topic": "Literatür araştırmasının değerlendirilmesi",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 6,
+    "topic": "Metodolojinin oluşturulması",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 7,
+    "topic": "Verilerin oluşturulması",
+    "outcomes": "4-5"
+   },
+   {
+    "week": 8,
+    "topic": "Verilerin oluşturulması",
+    "outcomes": "4-5"
+   },
+   {
+    "week": 9,
+    "topic": "Gelinen noktanın ve elde edilen sonuçların ön değerlendirilmesi/revize edilmesi",
+    "outcomes": "2-5"
+   },
+   {
+    "week": 10,
+    "topic": "Verilerin oluşturlması",
+    "outcomes": "4-5"
+   },
+   {
+    "week": 11,
+    "topic": "Verilerin değerlendirilmesi",
+    "outcomes": "2-5-6"
+   },
+   {
+    "week": 12,
+    "topic": "Verilerin değerlendirilmesi",
+    "outcomes": "2-5-6"
+   },
+   {
+    "week": 13,
+    "topic": "Raporlama",
+    "outcomes": "7"
+   },
+   {
+    "week": 14,
+    "topic": "Çalışmanın sunumu ve savunması",
+    "outcomes": "7"
+   }
+  ],
+  "textbooks": [
+   "Seçilecek konuya bağlı olarak belirlenecektir"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=468"
+ },
+ "CEV 470E": {
+  "code": "CEV 470E",
+  "name": "Küresel Çevre Sorunları ve Sürdürülebilirlik",
+  "nameEn": "Global Envirn.Issues&Sustain.",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 3,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 4
+  },
+  "description": "Sürdürülebilirlik kavramı; Sürdürülebilir gelişme; Küresel çevre sorunları; Doğal kaynak yönetiminde küreselleşme; Endüstriyel ekoloji; Sürdürülebilir mühendislik; Sürdürülebilir enerji; İklim değişimi; Ozon tabakasının incelmesi; Sürdürülebilir su yönetimi; Su ayakizi ve sanal su; Sürdürülebilirlik ve biyoçeşitlilik; Yaşam döngüsü değerlendirmesi; Çevre ve sürdürülebilirlik için tasarım; Madde ve enerji geri kazanımı; Yeşil kimya; Yeşil mühendislik. The concept of sustainability; Sustainable development; Global environmental problems; Globalization and natural resource management; Industrial ecology; Sustainable engineering; Sustainable energy; Climate change; Ozone layer depletion; Sustainable water management; Water footprint and virtual water; Sustainability and biodiversity; Life cycle assessment; Design for environment and sustainability; Material and energy recovery; Green chemistry; Green engineering.",
+  "outcomes": [
+   "Sürdürülebilirlik hakkında bilgi sahibi olurlar",
+   "Küresel çevre problemleri hakkında bilgi sahibi olurlar",
+   "Çevre ve sürdürülebilirlik için tasarım hakkında bilgi sahibi olurlar",
+   "Yeşil kimya, yeşil mühendislik hakkında bilgi sahibi olurlar"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Sürdürülebilirlik kavramı; Sürdürülebilir gelişme; Küresel çevre sorunları; Doğal kaynak yönetiminde küreselleşme",
+   "Hafta 2 · Endüstriyel ekoloji; Sürdürülebilir mühendislik",
+   "Hafta 3 · Enerji üretiminin ve kullanımının çevresel etkisi; Sürdürülebilir enerji",
+   "Hafta 4 · Küresel çevre sorunları: iklim değişimi",
+   "Hafta 5 · Küresel çevre sorunları: ozon tabakasının incelmesi",
+   "Hafta 6 · Karbon ayakizi ve sürdürülebilir gelişme",
+   "Hafta 7 · Sürdürülebilir su yönetimi",
+   "Hafta 8 · Su ayakizi ve sanal su",
+   "Hafta 9 · Sürdürülebilirlik ve biyoçeşitlilik, tehlike altındaki türler",
+   "Hafta 10 · Yaşam döngüsü değerlendirmesi",
+   "Hafta 11 · Madde ve enerji geri kazanımı; Yeşil kimya, yeşil mühendislik",
+   "Hafta 12 · Çevre ve sürdürülebilirlik için tasarım: tüketici ürünleri",
+   "Hafta 13 · Çevre ve sürdürülebilirlik için tasarım: altyapı ve binalar",
+   "Hafta 14 · Güncel Konular"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Sürdürülebilirlik kavramı; Sürdürülebilir gelişme; Küresel çevre sorunları; Doğal kaynak yönetiminde küreselleşme",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "Endüstriyel ekoloji; Sürdürülebilir mühendislik",
+    "outcomes": "1"
+   },
+   {
+    "week": 3,
+    "topic": "Enerji üretiminin ve kullanımının çevresel etkisi; Sürdürülebilir enerji",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 4,
+    "topic": "Küresel çevre sorunları: iklim değişimi",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 5,
+    "topic": "Küresel çevre sorunları: ozon tabakasının incelmesi",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 6,
+    "topic": "Karbon ayakizi ve sürdürülebilir gelişme",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 7,
+    "topic": "Sürdürülebilir su yönetimi",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 8,
+    "topic": "Su ayakizi ve sanal su",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 9,
+    "topic": "Sürdürülebilirlik ve biyoçeşitlilik, tehlike altındaki türler",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 10,
+    "topic": "Yaşam döngüsü değerlendirmesi",
+    "outcomes": "1-3"
+   },
+   {
+    "week": 11,
+    "topic": "Madde ve enerji geri kazanımı; Yeşil kimya, yeşil mühendislik",
+    "outcomes": "1-3-4"
+   },
+   {
+    "week": 12,
+    "topic": "Çevre ve sürdürülebilirlik için tasarım: tüketici ürünleri",
+    "outcomes": "1-3-4"
+   },
+   {
+    "week": 13,
+    "topic": "Çevre ve sürdürülebilirlik için tasarım: altyapı ve binalar",
+    "outcomes": "1-3-4"
+   },
+   {
+    "week": 14,
+    "topic": "Güncel Konular",
+    "outcomes": "1-2"
+   }
+  ],
+  "textbooks": [
+   "Graedel T.E., Allenby B.R. (2010). Industrial Ecology and Sustainable Engineering, Prentice Hall, ISBN-10: 0-13-600806-2.",
+   "Schellnhuber, H.J., Molina M., Stern N., Huber V., Kadner S. (2010). Global Sustainability: A Nobel Cause, Cambridge University Press, NY.",
+   "Vaughn J. (2011). Environmental Politics: Domestic and Global Dimensions, Wadsworth, 6th edition, US."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=470"
+ },
+ "CEV 471": {
+  "code": "CEV 471",
+  "name": "Çevre Mühendisliğinde Etik",
+  "nameEn": "Ethics in Environmental Eng.",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 1,
+   "practice": 0,
+   "lab": 0,
+   "local": 1,
+   "ects": 2
+  },
+  "description": "Ders mesleki etik, mühendislik uygulamaları ve etik konularında temel kavramları kapsamakta, derste mühendislik etik kodları, çevre etiği, çevre politikaları ve uluslararası konvansiyonlar hakkında bilgi verilmektedir. The lecture covers fundamental concepts for professional ethics, engineering ethics in practice and ethics. In this lecture, information about codes of engineering ethics, environmental ethics, environmental policies and international conventions is given.",
+  "outcomes": [
+   "Etiğin tanımı, düşünsel ve uygulamalı etik boyutlarını kavrama",
+   "Mesleki etiğin gerekliliğini kavrama",
+   "Farklı etik teori ve anlayışlarını kavrama",
+   "Uygulamalı etiğin temellerini kavrama",
+   "Mühendislik etiği ve mühendislikteki etik kodlarını kavrama",
+   "Çevre etiği, çevre politikaları ve konvansiyonlarını kavrama",
+   "Mühendislik etik kodlarını örnekler üzerinde uygulama",
+   "Çevre mühendisliği alanındaki örnekler üzerinde mesleki etik kodlarını uygulama"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Etiğin Tanımı, Etiğin Düşünsel ve Uygulamalı Boyutları",
+   "Hafta 2 · Mesleki Etiğin Gerekliliği",
+   "Hafta 3 · Etiğin Farklı Boyutları ve Etik Teorileri",
+   "Hafta 4 · Uygulamalı Etik – Mühendislik Etiği",
+   "Hafta 5 · Mühendislikte Genel Etik Kodlar",
+   "Hafta 6 · 1, 2, 3 ve 4. Mühendislik Etik Kodları",
+   "Hafta 7 · 5, 6 ve 7. Mühendislik Etik Kodları",
+   "Hafta 8 · Çevre Etiği ve Çevre Politikaları",
+   "Hafta 9 · Konvansiyonlar, Ara Sınav",
+   "Hafta 10 · Mesleki Etik Kodları Uygulama Örneği: Önemseme",
+   "Hafta 11 · Mesleki Etik Kodları Uygulama Örneği: Tutarlılık ve Sonuçlar",
+   "Hafta 12 · Çevre Mühendisliği Alanında Uygulama Örneği: Sürdürülebilir Kalkınma ve Çevre",
+   "Hafta 13 · Çevre Mühendisliği Alanında Uygulama Örneği: Küresel İklim Değişikliği ve Türkiye",
+   "Hafta 14 · Çevre Mühendisliği Alanında Uygulama Örneği: Enerji Politikaları"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Etiğin Tanımı, Etiğin Düşünsel ve Uygulamalı Boyutları",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "Mesleki Etiğin Gerekliliği",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 3,
+    "topic": "Etiğin Farklı Boyutları ve Etik Teorileri",
+    "outcomes": "3"
+   },
+   {
+    "week": 4,
+    "topic": "Uygulamalı Etik – Mühendislik Etiği",
+    "outcomes": "4-5"
+   },
+   {
+    "week": 5,
+    "topic": "Mühendislikte Genel Etik Kodlar",
+    "outcomes": "5"
+   },
+   {
+    "week": 6,
+    "topic": "1, 2, 3 ve 4. Mühendislik Etik Kodları",
+    "outcomes": "5"
+   },
+   {
+    "week": 7,
+    "topic": "5, 6 ve 7. Mühendislik Etik Kodları",
+    "outcomes": "6"
+   },
+   {
+    "week": 8,
+    "topic": "Çevre Etiği ve Çevre Politikaları",
+    "outcomes": "6"
+   },
+   {
+    "week": 9,
+    "topic": "Konvansiyonlar, Ara Sınav",
+    "outcomes": "1-2-3-4-5-6"
+   },
+   {
+    "week": 10,
+    "topic": "Mesleki Etik Kodları Uygulama Örneği: Önemseme",
+    "outcomes": "5-6-7"
+   },
+   {
+    "week": 11,
+    "topic": "Mesleki Etik Kodları Uygulama Örneği: Tutarlılık ve Sonuçlar",
+    "outcomes": "5-6-7"
+   },
+   {
+    "week": 12,
+    "topic": "Çevre Mühendisliği Alanında Uygulama Örneği: Sürdürülebilir Kalkınma ve Çevre",
+    "outcomes": "5-6-7"
+   },
+   {
+    "week": 13,
+    "topic": "Çevre Mühendisliği Alanında Uygulama Örneği: Küresel İklim Değişikliği ve Türkiye",
+    "outcomes": "5-6-7"
+   },
+   {
+    "week": 14,
+    "topic": "Çevre Mühendisliği Alanında Uygulama Örneği: Enerji Politikaları",
+    "outcomes": "5-6-7"
+   }
+  ],
+  "textbooks": [
+   "Martin, MW and Schinzinger, R., 2010: Introduction to Engineering Ethics. 2nd Edition, McGraw-Hill Inc., NY."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=471"
+ },
+ "CEV 471E": {
+  "code": "CEV 471E",
+  "name": "Çevre Mühendisliğinde Etik",
+  "nameEn": "Ethics in Environmental Eng.",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 1,
+   "practice": 0,
+   "lab": 0,
+   "local": 1,
+   "ects": 2
+  },
+  "description": "Ders mesleki etik, mühendislik uygulamaları ve etik konularında temel kavramları kapsamakta, derste mühendislik etik kodları, çevre etiği, çevre politikaları ve uluslararası konvansiyonlar hakkında bilgi verilmektedir. The lecture covers fundamental concepts for professional ethics, engineering ethics in practice and ethics. In this lecture, information about codes of engineering ethics, environmental ethics, environmental policies and international conventions is given.",
+  "outcomes": [
+   "Etiğin tanımı, düşünsel ve uygulamalı etik boyutlarını kavrama",
+   "Mesleki etiğin gerekliliğini kavrama",
+   "Farklı etik teori ve anlayışlarını kavrama",
+   "Uygulamalı etiğin temellerini kavrama",
+   "Mühendislik etiği ve mühendislikteki etik kodlarını kavrama",
+   "Çevre etiği, çevre politikaları ve konvansiyonlarını kavrama",
+   "Mühendislik etik kodlarını örnekler üzerinde uygulama",
+   "Çevre mühendisliği alanındaki örnekler üzerinde mesleki etik kodlarını uygulama"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Etiğin Tanımı, Etiğin Düşünsel ve Uygulamalı Boyutları",
+   "Hafta 2 · Mesleki Etiğin Gerekliliği",
+   "Hafta 3 · Etiğin Farklı Boyutları ve Etik Teorileri",
+   "Hafta 4 · Uygulamalı Etik – Mühendislik Etiği",
+   "Hafta 5 · Mühendislikte Genel Etik Kodlar",
+   "Hafta 6 · 1, 2, 3 ve 4. Mühendislik Etik Kodları",
+   "Hafta 7 · 5, 6 ve 7. Mühendislik Etik Kodları",
+   "Hafta 8 · Çevre Etiği ve Çevre Politikaları",
+   "Hafta 9 · Konvansiyonlar, Ara Sınav",
+   "Hafta 10 · Mesleki Etik Kodları Uygulama Örneği: Önemseme",
+   "Hafta 11 · Mesleki Etik Kodları Uygulama Örneği: Tutarlılık ve Sonuçlar",
+   "Hafta 12 · Çevre Mühendisliği Alanında Uygulama Örneği: Sürdürülebilir Kalkınma ve Çevre",
+   "Hafta 13 · Çevre Mühendisliği Alanında Uygulama Örneği: Küresel İklim Değişikliği ve Türkiye",
+   "Hafta 14 · Çevre Mühendisliği Alanında Uygulama Örneği: Enerji Politikaları"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Etiğin Tanımı, Etiğin Düşünsel ve Uygulamalı Boyutları",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "Mesleki Etiğin Gerekliliği",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 3,
+    "topic": "Etiğin Farklı Boyutları ve Etik Teorileri",
+    "outcomes": "3"
+   },
+   {
+    "week": 4,
+    "topic": "Uygulamalı Etik – Mühendislik Etiği",
+    "outcomes": "4-5"
+   },
+   {
+    "week": 5,
+    "topic": "Mühendislikte Genel Etik Kodlar",
+    "outcomes": "5"
+   },
+   {
+    "week": 6,
+    "topic": "1, 2, 3 ve 4. Mühendislik Etik Kodları",
+    "outcomes": "5"
+   },
+   {
+    "week": 7,
+    "topic": "5, 6 ve 7. Mühendislik Etik Kodları",
+    "outcomes": "6"
+   },
+   {
+    "week": 8,
+    "topic": "Çevre Etiği ve Çevre Politikaları",
+    "outcomes": "6"
+   },
+   {
+    "week": 9,
+    "topic": "Konvansiyonlar, Ara Sınav",
+    "outcomes": "1-2-3-4-5-6"
+   },
+   {
+    "week": 10,
+    "topic": "Mesleki Etik Kodları Uygulama Örneği: Önemseme",
+    "outcomes": "5-6-7"
+   },
+   {
+    "week": 11,
+    "topic": "Mesleki Etik Kodları Uygulama Örneği: Tutarlılık ve Sonuçlar",
+    "outcomes": "5-6-7"
+   },
+   {
+    "week": 12,
+    "topic": "Çevre Mühendisliği Alanında Uygulama Örneği: Sürdürülebilir Kalkınma ve Çevre",
+    "outcomes": "5-6-7"
+   },
+   {
+    "week": 13,
+    "topic": "Çevre Mühendisliği Alanında Uygulama Örneği: Küresel İklim Değişikliği ve Türkiye",
+    "outcomes": "5-6-7"
+   },
+   {
+    "week": 14,
+    "topic": "Çevre Mühendisliği Alanında Uygulama Örneği: Enerji Politikaları",
+    "outcomes": "5-6-7"
+   }
+  ],
+  "textbooks": [
+   "Martin, MW and Schinzinger, R., 2010: Introduction to Engineering Ethics. 2nd Edition, McGraw-Hill Inc., NY."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=471"
+ },
+ "CEV 472E": {
+  "code": "CEV 472E",
+  "name": "Atıksu Arıtma Tesis. İşlet.",
+  "nameEn": "Opr.of Wastewater Treat.Plants",
+  "language": "English/Türkçe",
+  "credits": {
+   "theory": 2,
+   "practice": 0,
+   "lab": 0,
+   "local": 2,
+   "ects": 3
+  },
+  "description": "İşletmeci’nin tanımı, yönetmelikler, güvenlik. Atıksuların iletilmesi, basınçlı ve basınçsız borular, boru tipleri ve fittingler. Atıksu arıtma tesisleri, pompa istasyonları ve işletme problemleri, kavitasyon, debi ölçüm sistemleri. Ön, ikincil ve üçüncül arıtma sistemlerinde işletme stratejileri, problemleri ve çözümleri. Aktif çamur mikrobiyolojisi; çökelme problemleri ve çözümleri. Arıtma çamuru, arıtma çamurunun yoğunlaştırılması, stabilizasyonu ve susuzlaştırılması, işletme stratejileri, problemler ve çözümleri. Çamur arıtma ve nihai uzaklaştırma alternatiflerinin değerlendirilmesi. Çamur minimizasyonu teknolojileri. Türkiye’de çamur yönetimi. Arıtma tesislerinde proses optimizasyonu. Arıtma tesislerinde su, enerji ve materyal geri kazanımı. İzleme, örnekleme, ölçüm/analiz, raporlama, işletme maliyetlerinin optimizasyonu, rutin bakım, talimatlar. Definition of Operator; Legislations; Safety. Collection and conveying of wastewaters; Pipes with and without pressure; Pipe types and fittings. Wastewater treatment plants; Pumping stations and operational problems; Cavitation; Flow measurement systems. Operational strategies, problems and solutions for preliminary, secondary and tertiary systems. Activated sludge microbiology; settling problems and solutions. Waste sludge; Thickening, Stabilization and Dewatering of treatment sludge, Operational strategies, problems and solutions. Assessment of sludge treatment and disposal alternatives. Sludge minimization technologies. Sludge management in Turkey. Process optimization at treatment plants. Water, energy and material recovery at treatment plants. Reporting, Optimization of Operational Costs of a Treatment Plant, maintenance and orders.",
+  "outcomes": [
+   "Arıtma tesislerinde olası İşletme Problemleri, Çözümleri, Yönetmelikler, Güvenlik ile ilgili bilgi sahibi olma",
+   "Arıtma Çamurlarının işlenmesi ve problemleri tanımlayabilme, işletme stratejileri ile çözümleri bulabilme",
+   "Dinamik koşulları tanımlayabilme ve arıtma tesislerine etkilerini kavrayabilme",
+   "İşletmeci gözü ile arıtma tesisinde belgeleme, izleme ve maliyet analizlerini kavrayabilme"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Derse giriş; “işletmeci”nin tanımı, yönetmelikler, güvenlik",
+   "Hafta 2 · Pratik terimlerin tanımlanması (birimler, dönüşümler, vb.); su ve atıksuların iletilmesi, kanalizasyon sistemleri, basınçlı ve basınçsız borular, boru tipleri ve fittingler",
+   "Hafta 3 · Atıksu arıtma tesisleri, pompa istasyonları, pompalar, kavitasyon, pompalarda işletme problemleri, debi ölçüm sistemleri",
+   "Hafta 4 · Ön Arıtma Sistemlerinde İşletme Stratejileri ve Problemleri, Izgaralar, Kum Tutucular, Ön Çökeltim Tankları",
+   "Hafta 5 · Aktif çamur sistemlerinde işletme stratejileri, problemleri ve çözümleri; havalandırma tankları, havalandırma sistemleri, son çökeltim tankları",
+   "Hafta 6 · Aktif Çamur mikrobiyolojisi, Aktif çamur sistemlerinde kabarma ve köpürme problemleri; işletme problemleri ve çözümleri",
+   "Hafta 7 · Biyolojik nütrient gideren sistemlerde işletme stratejileri, problemleri ve çözümleri, ÇHİ, F/M oranı, çamur yaşı, çamur geri devir oranı, atık çamur",
+   "Hafta 8 · Arıtma çamuru, Çamur arıtımı ve bertarafı; Arıtma çamurlarının yoğunlaştırılması; işletme stratejileri, problemleri ve çözümleri",
+   "Hafta 9 · Arıtma Çamurlarının Stabilizasyonu (anaerobik, aerobik, alkali, termal ve kompostlaştırma); İşletme Stratejileri, Problemler ve Çözümleri Arıtma Çamurlarının Susuzlaştırılması ve Bertaraf Edilmesi, İşletme Stratejileri, Problemler ve Çözümleri",
+   "Hafta 10 · Çamur arıtma ve nihai uzaklaştırma alternatiflerinin değerlendirilmesi Çamur minimizasyonu teknolojileri – Arıtma çamurunun ön arıtımı Türkiye’de çamur yönetimi",
+   "Hafta 11 · Arıtma tesislerinde su, enerji ve materyal geri kazanımı",
+   "Hafta 12 · Arıtma tesislerinde proses optimizasyonu",
+   "Hafta 13 · İzleme, Örnekleme, Ölçüm/Analiz, Raporlama, Artıma Tesisi İşletme Maliyetlerinin Optimizasyonu",
+   "Hafta 14 · Uzman Konuk - Arıtma Tesislerin isletilmesinde pratik deneyimler"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Derse giriş; “işletmeci”nin tanımı, yönetmelikler, güvenlik",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "Pratik terimlerin tanımlanması (birimler, dönüşümler, vb.); su ve atıksuların iletilmesi, kanalizasyon sistemleri, basınçlı ve basınçsız borular, boru tipleri ve fittingler",
+    "outcomes": "1"
+   },
+   {
+    "week": 3,
+    "topic": "Atıksu arıtma tesisleri, pompa istasyonları, pompalar, kavitasyon, pompalarda işletme problemleri, debi ölçüm sistemleri",
+    "outcomes": "1"
+   },
+   {
+    "week": 4,
+    "topic": "Ön Arıtma Sistemlerinde İşletme Stratejileri ve Problemleri, Izgaralar, Kum Tutucular, Ön Çökeltim Tankları",
+    "outcomes": "1"
+   },
+   {
+    "week": 5,
+    "topic": "Aktif çamur sistemlerinde işletme stratejileri, problemleri ve çözümleri; havalandırma tankları, havalandırma sistemleri, son çökeltim tankları",
+    "outcomes": "1"
+   },
+   {
+    "week": 6,
+    "topic": "Aktif Çamur mikrobiyolojisi, Aktif çamur sistemlerinde kabarma ve köpürme problemleri; işletme problemleri ve çözümleri",
+    "outcomes": "1"
+   },
+   {
+    "week": 7,
+    "topic": "Biyolojik nütrient gideren sistemlerde işletme stratejileri, problemleri ve çözümleri, ÇHİ, F/M oranı, çamur yaşı, çamur geri devir oranı, atık çamur",
+    "outcomes": "1"
+   },
+   {
+    "week": 8,
+    "topic": "Arıtma çamuru, Çamur arıtımı ve bertarafı; Arıtma çamurlarının yoğunlaştırılması; işletme stratejileri, problemleri ve çözümleri",
+    "outcomes": "2"
+   },
+   {
+    "week": 9,
+    "topic": "Arıtma Çamurlarının Stabilizasyonu (anaerobik, aerobik, alkali, termal ve kompostlaştırma); İşletme Stratejileri, Problemler ve Çözümleri Arıtma Çamurlarının Susuzlaştırılması ve Bertaraf Edilmesi, İşletme Stratejileri, Problemler ve Çözümleri",
+    "outcomes": "2"
+   },
+   {
+    "week": 10,
+    "topic": "Çamur arıtma ve nihai uzaklaştırma alternatiflerinin değerlendirilmesi Çamur minimizasyonu teknolojileri – Arıtma çamurunun ön arıtımı Türkiye’de çamur yönetimi",
+    "outcomes": "2"
+   },
+   {
+    "week": 11,
+    "topic": "Arıtma tesislerinde su, enerji ve materyal geri kazanımı",
+    "outcomes": "3"
+   },
+   {
+    "week": 12,
+    "topic": "Arıtma tesislerinde proses optimizasyonu",
+    "outcomes": "3-4"
+   },
+   {
+    "week": 13,
+    "topic": "İzleme, Örnekleme, Ölçüm/Analiz, Raporlama, Artıma Tesisi İşletme Maliyetlerinin Optimizasyonu",
+    "outcomes": "4"
+   },
+   {
+    "week": 14,
+    "topic": "Uzman Konuk - Arıtma Tesislerin isletilmesinde pratik deneyimler",
+    "outcomes": "3"
+   }
+  ],
+  "textbooks": [
+   "Spellman, F. R., Handbook of Water and Wastewater Treatment Plant Operations, Third edition, 2013, Lewis Publishers (CRC Pres Company), Boca Raton."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEV&dersNo=472"
+ },
  "CEV 4901": {
   "code": "CEV 4901",
   "name": "Çevre Müh. Tasarımı I",

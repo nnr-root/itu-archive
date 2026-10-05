@@ -94,7 +94,7 @@
   },
   {
    "branch": "BTT",
-   "courses": 5
+   "courses": 6
   },
   {
    "branch": "BUS",
@@ -102,7 +102,7 @@
   },
   {
    "branch": "BVA",
-   "courses": 3
+   "courses": 2
   },
   {
    "branch": "BVT",
@@ -126,7 +126,7 @@
   },
   {
    "branch": "CEV",
-   "courses": 132
+   "courses": 154
   },
   {
    "branch": "CHE",
@@ -134,7 +134,7 @@
   },
   {
    "branch": "CHZ",
-   "courses": 86
+   "courses": 87
   },
   {
    "branch": "CIE",
@@ -290,7 +290,7 @@
   },
   {
    "branch": "FIZ",
-   "courses": 127
+   "courses": 128
   },
   {
    "branch": "FRA",
@@ -330,7 +330,7 @@
   },
   {
    "branch": "GIT",
-   "courses": 17
+   "courses": 18
   },
   {
    "branch": "GMI",
@@ -546,7 +546,7 @@
   },
   {
    "branch": "MAT",
-   "courses": 149
+   "courses": 150
   },
   {
    "branch": "MBA",
@@ -806,7 +806,7 @@
   },
   {
    "branch": "SAO",
-   "courses": 20
+   "courses": 19
   },
   {
    "branch": "SAV",
@@ -1009,7 +1009,7 @@
    "courses": 10
   }
  ],
- "generatedAt": "2026-09-28T12:15:20Z",
- "groups": 6292,
- "withContent": 7505
+ "generatedAt": "2026-10-05T12:41:04Z",
+ "groups": 6293,
+ "withContent": 7530
 }
