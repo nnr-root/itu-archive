@@ -29,5 +29,32 @@
   ],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "15950",
+  "code": "MDN 210",
+  "branch": "MDN",
+  "level": "LS",
+  "name": "Mineraloji ve Petrografi",
+  "method": "Ek Sınav",
+  "instructor": "-",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "08:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
  }
 ]

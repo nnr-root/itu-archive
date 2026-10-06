@@ -911,5 +911,34 @@
   "programs": [],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "15949",
+  "code": "CHZ 432",
+  "branch": "CHZ",
+  "level": "LS",
+  "name": "Cevher Haz. Tesis Tasarımı",
+  "method": "Ek Sınav",
+  "instructor": "Hüseyin Baştürkcü",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "08:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CHZ_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
  }
 ]
