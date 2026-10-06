@@ -7761,105 +7761,6 @@
   ]
  ],
  [
-  "10076",
-  "BEB 106",
-  "Basketbol Temel Teknik Eğitimi",
-  "BEB",
-  "Birgül Arslanoğlu",
-  "Perşembe 10:30/12:29",
-  20,
-  3,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "AIN_LS",
-   "BIO_LS",
-   "BIOE_LS",
-   "BLG_LS",
-   "BLGE_LS",
-   "CAB_LS",
-   "CEV_LS",
-   "CEVE_LS",
-   "CHZ_LS",
-   "CHZE_LS",
-   "DEN_LS",
-   "DENE_LS",
-   "DUI_LS",
-   "DUIE_LS",
-   "ECNE_LS",
-   "EHB_LS",
-   "EHBE_LS",
-   "ELE_LS",
-   "ELK_LS",
-   "ELKE_LS",
-   "END_LS",
-   "ENDE_LS",
-   "ENTE_LS",
-   "EUT_LS",
-   "EUTE_LS",
-   "FIZ_LS",
-   "FIZE_LS",
-   "GEM_LS",
-   "GEME_LS",
-   "GEO_LS",
-   "GEOE_LS",
-   "GID_LS",
-   "GIDE_LS",
-   "GMI_LS",
-   "GMIE_LS",
-   "ICM_LS",
-   "IML_LS",
-   "IMLE_LS",
-   "INS_LS",
-   "INSE_LS",
-   "ISL_LS",
-   "ISLE_LS",
-   "JEF_LS",
-   "JEFE_LS",
-   "JEO_LS",
-   "JEOE_LS",
-   "KIM_LS",
-   "KIME_LS",
-   "KMM_LS",
-   "KMME_LS",
-   "KMP_LS",
-   "KOM_LS",
-   "KOME_LS",
-   "MAD_LS",
-   "MADE_LS",
-   "MAK_LS",
-   "MAKE_LS",
-   "MAT_LS",
-   "MATE_LS",
-   "MET_LS",
-   "METE_LS",
-   "MIM_LS",
-   "MIME_LS",
-   "MTO_LS",
-   "MTOE_LS",
-   "MUT_LS",
-   "MUZ_LS",
-   "PEM_LS",
-   "PEME_LS",
-   "PET_LS",
-   "PETE_LS",
-   "SBP_LS",
-   "SBPE_LS",
-   "SECE_LS",
-   "SES_LS",
-   "SES_TH_LS",
-   "SES_TS_LS",
-   "TEK_LS",
-   "TEKE_LS",
-   "TEL_LS",
-   "THO_LS",
-   "UCK_LS",
-   "UZB_LS",
-   "UZBE_LS",
-   "YZVE_LS"
-  ]
- ],
- [
   "10077",
   "BEB 111",
   "Masa Tenisi Tem.Beceri Eğitimi",
@@ -9404,22 +9305,6 @@
   ]
  ],
  [
-  "10095",
-  "BEB 121",
-  "Spor ve Teknoloji",
-  "BEB",
-  "Birgül Arslanoğlu",
-  "Cuma 08:30/11:29",
-  20,
-  1,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "DUI_LS",
-   "GMI_LS"
-  ]
- ],
- [
   "10096",
   "BEB 122",
   "Fiziksel Aktivite ve Egzersiz",
@@ -9527,204 +9412,6 @@
   "Çarşamba 13:30/15:29",
   15,
   10,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "AIN_LS",
-   "BIO_LS",
-   "BIOE_LS",
-   "BLG_LS",
-   "BLGE_LS",
-   "CAB_LS",
-   "CEV_LS",
-   "CEVE_LS",
-   "CHZ_LS",
-   "CHZE_LS",
-   "DEN_LS",
-   "DENE_LS",
-   "DUI_LS",
-   "DUIE_LS",
-   "ECNE_LS",
-   "EHB_LS",
-   "EHBE_LS",
-   "ELE_LS",
-   "ELK_LS",
-   "ELKE_LS",
-   "END_LS",
-   "ENDE_LS",
-   "ENTE_LS",
-   "EUT_LS",
-   "EUTE_LS",
-   "FIZ_LS",
-   "FIZE_LS",
-   "GEM_LS",
-   "GEME_LS",
-   "GEO_LS",
-   "GEOE_LS",
-   "GID_LS",
-   "GIDE_LS",
-   "GMI_LS",
-   "GMIE_LS",
-   "ICM_LS",
-   "IML_LS",
-   "IMLE_LS",
-   "INS_LS",
-   "INSE_LS",
-   "ISL_LS",
-   "ISLE_LS",
-   "JEF_LS",
-   "JEFE_LS",
-   "JEO_LS",
-   "JEOE_LS",
-   "KIM_LS",
-   "KIME_LS",
-   "KMM_LS",
-   "KMME_LS",
-   "KMP_LS",
-   "KOM_LS",
-   "KOME_LS",
-   "MAD_LS",
-   "MADE_LS",
-   "MAK_LS",
-   "MAKE_LS",
-   "MAT_LS",
-   "MATE_LS",
-   "MET_LS",
-   "METE_LS",
-   "MIM_LS",
-   "MIME_LS",
-   "MTO_LS",
-   "MTOE_LS",
-   "MUT_LS",
-   "MUZ_LS",
-   "PEM_LS",
-   "PEME_LS",
-   "PET_LS",
-   "PETE_LS",
-   "SBP_LS",
-   "SBPE_LS",
-   "SECE_LS",
-   "SES_LS",
-   "SES_TH_LS",
-   "SES_TS_LS",
-   "TEK_LS",
-   "TEKE_LS",
-   "TEL_LS",
-   "THO_LS",
-   "UCK_LS",
-   "UZB_LS",
-   "UZBE_LS",
-   "YZVE_LS"
-  ]
- ],
- [
-  "10098",
-  "BEB 140",
-  "Picklebal",
-  "BEB",
-  "Serra Ayşe Çakar Saka , Bülent Arslantaş",
-  "Cuma 08:30/10:29",
-  12,
-  2,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "AIN_LS",
-   "BIO_LS",
-   "BIOE_LS",
-   "BLG_LS",
-   "BLGE_LS",
-   "CAB_LS",
-   "CEV_LS",
-   "CEVE_LS",
-   "CHZ_LS",
-   "CHZE_LS",
-   "DEN_LS",
-   "DENE_LS",
-   "DUI_LS",
-   "DUIE_LS",
-   "ECNE_LS",
-   "EHB_LS",
-   "EHBE_LS",
-   "ELE_LS",
-   "ELK_LS",
-   "ELKE_LS",
-   "END_LS",
-   "ENDE_LS",
-   "ENTE_LS",
-   "EUT_LS",
-   "EUTE_LS",
-   "FIZ_LS",
-   "FIZE_LS",
-   "GEM_LS",
-   "GEME_LS",
-   "GEO_LS",
-   "GEOE_LS",
-   "GID_LS",
-   "GIDE_LS",
-   "GMI_LS",
-   "GMIE_LS",
-   "ICM_LS",
-   "IML_LS",
-   "IMLE_LS",
-   "INS_LS",
-   "INSE_LS",
-   "ISL_LS",
-   "ISLE_LS",
-   "JEF_LS",
-   "JEFE_LS",
-   "JEO_LS",
-   "JEOE_LS",
-   "KIM_LS",
-   "KIME_LS",
-   "KMM_LS",
-   "KMME_LS",
-   "KMP_LS",
-   "KOM_LS",
-   "KOME_LS",
-   "MAD_LS",
-   "MADE_LS",
-   "MAK_LS",
-   "MAKE_LS",
-   "MAT_LS",
-   "MATE_LS",
-   "MET_LS",
-   "METE_LS",
-   "MIM_LS",
-   "MIME_LS",
-   "MTO_LS",
-   "MTOE_LS",
-   "MUT_LS",
-   "MUZ_LS",
-   "PEM_LS",
-   "PEME_LS",
-   "PET_LS",
-   "PETE_LS",
-   "SBP_LS",
-   "SBPE_LS",
-   "SECE_LS",
-   "SES_LS",
-   "SES_TH_LS",
-   "SES_TS_LS",
-   "TEK_LS",
-   "TEKE_LS",
-   "TEL_LS",
-   "THO_LS",
-   "UCK_LS",
-   "UZB_LS",
-   "UZBE_LS",
-   "YZVE_LS"
-  ]
- ],
- [
-  "10099",
-  "BEB 140",
-  "Picklebal",
-  "BEB",
-  "Serra Ayşe Çakar Saka , Bülent Arslantaş",
-  "Cuma 10:30/12:29",
-  12,
-  0,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -10308,7 +9995,7 @@
   "Aysun Hızıroğlu Aygün",
   "Salı 08:30/11:29",
   300,
-  184,
+  183,
   "LS",
   "Sanal (Çevrimiçi/Online)",
   [
@@ -57965,63 +57652,6 @@
   ]
  ],
  [
-  "10753",
-  "SNT 115",
-  "Modernite ve Görsel Kültür",
-  "SNT",
-  "Yasemin Dora",
-  "Salı 13:30/16:29",
-  18,
-  6,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "BIO_LS",
-   "BLG_LS",
-   "CEV_LS",
-   "CHZ_LS",
-   "DEN_LS",
-   "DUI_LS",
-   "EHB_LS",
-   "ELE_LS",
-   "ELK_LS",
-   "END_LS",
-   "ENT_LS",
-   "EUT_LS",
-   "FIZ_LS",
-   "GEM_LS",
-   "GEO_LS",
-   "GID_LS",
-   "GMI_LS",
-   "HTA_LS",
-   "IBM_LS",
-   "ICM_LS",
-   "IML_LS",
-   "INS_LS",
-   "ISL_LS",
-   "JEF_LS",
-   "JEO_LS",
-   "KIM_LS",
-   "KMM_LS",
-   "KOM_LS",
-   "MAD_LS",
-   "MAK_LS",
-   "MAT_LS",
-   "MET_LS",
-   "MIM_LS",
-   "MTO_LS",
-   "PEM_LS",
-   "PET_LS",
-   "ROS_LS",
-   "SAO_OL",
-   "SBP_LS",
-   "TEK_LS",
-   "TEL_LS",
-   "UCK_LS",
-   "UZB_LS"
-  ]
- ],
- [
   "10754",
   "SNT 116",
   "İletişim Sanatı",
@@ -61459,7 +61089,7 @@
   "Devrim Barış Kaymak",
   "Pazartesi 08:30/11:29",
   50,
-  50,
+  48,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -61635,7 +61265,7 @@
   "Serdar Yaman",
   "Perşembe 09:30/12:29",
   20,
-  8,
+  6,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -63163,38 +62793,6 @@
   [
    "CHZ_LS",
    "CHZ_LS"
-  ]
- ],
- [
-  "11070",
-  "CHZ 492",
-  "Bitirme Çalışması",
-  "CHZ",
-  "Murat Olgaç Kangal",
-  "",
-  30,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "CHZ_LS"
-  ]
- ],
- [
-  "11071",
-  "CHZ 492E",
-  "Graduation Thesis",
-  "CHZ",
-  "Murat Olgaç Kangal",
-  "",
-  30,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "CHZ_LS",
-   "CHZ_LS",
-   "CHZE_LS"
   ]
  ],
  [
@@ -65291,22 +64889,6 @@
   ]
  ],
  [
-  "11209",
-  "JEF 370",
-  "Sismik Yorumlama",
-  "JEF",
-  "Hülya Kurt",
-  "Salı 13:30/15:29",
-  20,
-  1,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEF_LS",
-   "JEF_YD"
-  ]
- ],
- [
   "11210",
   "DUI 311E",
   "Celestial Navigation",
@@ -65319,22 +64901,6 @@
   "Fiziksel (Yüz yüze)",
   [
    "DUI_LS"
-  ]
- ],
- [
-  "11212",
-  "JEF 367",
-  "Maden Jeofiziği",
-  "JEF",
-  "Ümit Avşar",
-  "Salı 13:30/15:29",
-  20,
-  9,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEF_LS",
-   "JEF_YD"
   ]
  ],
  [
@@ -65400,21 +64966,6 @@
   ]
  ],
  [
-  "11217",
-  "JEF 492",
-  "Bitirme Çalışması",
-  "JEF",
-  "Hülya Kurt",
-  "",
-  100,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEF_LS"
-  ]
- ],
- [
   "11218",
   "DUI 361E",
   "Technical Ship Management",
@@ -65427,22 +64978,6 @@
   "Fiziksel (Yüz yüze)",
   [
    "DUI_LS"
-  ]
- ],
- [
-  "11219",
-  "JEF 492E",
-  "Graduation Project",
-  "JEF",
-  "Hülya Kurt",
-  "",
-  100,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEF_LS",
-   "JEFE_LS"
   ]
  ],
  [
@@ -66630,7 +66165,7 @@
   "Ebru Kahraman",
   "Perşembe 13:30/16:29",
   40,
-  36,
+  34,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -68090,36 +67625,6 @@
   ]
  ],
  [
-  "11427",
-  "JEO 463",
-  "Jeomorfoloji",
-  "JEO",
-  "Ufuk Tarı",
-  "Cuma 14:00/15:59",
-  30,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEO_LS"
-  ]
- ],
- [
-  "11428",
-  "JEO 377E",
-  "Individual Studies",
-  "JEO",
-  "Enes Zengin",
-  "Salı 15:30/17:29",
-  20,
-  6,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEO_LS"
-  ]
- ],
- [
   "11429",
   "JEO 361",
   "Jeolojik Haritalar&Kartografya",
@@ -68160,22 +67665,6 @@
   "Salı 13:30/15:29",
   60,
   41,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEO_LS",
-   "JEO_YD"
-  ]
- ],
- [
-  "11432",
-  "JEO 385E",
-  "Gemology",
-  "JEO",
-  "Emin Çiftçi",
-  "Cuma 08:30/10:29",
-  30,
-  1,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -68232,36 +67721,6 @@
   ]
  ],
  [
-  "11436",
-  "JEO 481",
-  "Uygulamalı Mineraloji",
-  "JEO",
-  "Bala Ekinci Şans , Şenel Özdamar",
-  "Çarşamba 08:30/10:29",
-  30,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEO_LS"
-  ]
- ],
- [
-  "11437",
-  "JEO 483",
-  "Maden Yataklarının Değerlendirmesi",
-  "JEO",
-  "Mustafa Kumral",
-  "Çarşamba 08:30/10:29",
-  30,
-  4,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEO_LS"
-  ]
- ],
- [
   "11438",
   "JEO 358",
   "Volkanoloji",
@@ -68308,38 +67767,6 @@
   ]
  ],
  [
-  "11441",
-  "JEO 493",
-  "Çevre Jeolojisi",
-  "JEO",
-  "İrfan Yolcubal",
-  "Cuma 08:30/10:29",
-  30,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEO_LS"
-  ]
- ],
- [
-  "11442",
-  "JEO 453E",
-  "Enviromental Geochemistry",
-  "JEO",
-  "Nurgül Çelik Balcı",
-  "Çarşamba 11:30/13:29",
-  30,
-  3,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEO_LS",
-   "PET_LS",
-   "PETE_LS"
-  ]
- ],
- [
   "11443",
   "JEO 497",
   "Yerbilimler. Jeokim.Veri Kull.",
@@ -68348,36 +67775,6 @@
   "Pazartesi 13:30/15:29",
   30,
   19,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEO_LS"
-  ]
- ],
- [
-  "11444",
-  "JEO 455",
-  "Mühendislik Tasarımında Bilgisayar Uygulamaları",
-  "JEO",
-  "Ömer Ündül , Enes Zengin",
-  "Pazartesi 13:30/15:29",
-  15,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEO_LS"
-  ]
- ],
- [
-  "11445",
-  "JEO 457",
-  "Doğal Taşlar",
-  "JEO",
-  "Yılmaz Mahmutoğlu",
-  "Çarşamba 08:30/10:29",
-  30,
-  0,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -68408,21 +67805,6 @@
   "Salı 13:30/15:29",
   35,
   33,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEO_LS"
-  ]
- ],
- [
-  "11448",
-  "JEO 479",
-  "Geochemistry of Natural Waters",
-  "JEO",
-  "İrfan Yolcubal",
-  "Pazartesi 15:30/17:29",
-  30,
-  0,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -68499,36 +67881,6 @@
   "",
   100,
   1,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEO_LS"
-  ]
- ],
- [
-  "11454",
-  "JEO 492",
-  "Bitirme Tasarım Projesi",
-  "JEO",
-  "Şenel Özdamar",
-  "",
-  100,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEO_LS"
-  ]
- ],
- [
-  "11455",
-  "JEO 492E",
-  "Graduation Design Project",
-  "JEO",
-  "Ömer Ündül",
-  "",
-  100,
-  0,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -68658,22 +68010,6 @@
   "Perşembe 08:30/11:29",
   45,
   40,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "MAD_LS",
-   "MADE_LS"
-  ]
- ],
- [
-  "11465",
-  "MAD 101E",
-  "Tech.Draw.Appl.in Mining Eng.",
-  "MAD",
-  "Hakan Tunçdemir",
-  "Perşembe 11:30/14:29",
-  45,
-  0,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -68951,22 +68287,6 @@
   "Fiziksel (Yüz yüze)",
   [
    "MAD_LS"
-  ]
- ],
- [
-  "11483",
-  "MAD 492E",
-  "Graduation Project",
-  "MAD",
-  "Abdullah Fişne",
-  "",
-  500,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "MAD_LS",
-   "MADE_LS"
   ]
  ],
  [
@@ -72644,21 +71964,6 @@
   ]
  ],
  [
-  "11721",
-  "UZB 242E",
-  "Basic Astronomy",
-  "UZB",
-  "Cuma Yarım",
-  "Salı 11:30/14:29",
-  40,
-  5,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "UZBE_LS"
-  ]
- ],
- [
   "11722",
   "UCK 364E",
   "Design of Machine Elements",
@@ -72860,23 +72165,6 @@
   [
    "UCK_LS",
    "UCK_YD"
-  ]
- ],
- [
-  "11734",
-  "UCK 427E",
-  "Combustion",
-  "UCK",
-  "Mete Budaklı",
-  "Salı 11:30/14:29",
-  40,
-  7,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "UCK_LS",
-   "UZB_LS",
-   "UZBE_LS"
   ]
  ],
  [
@@ -74430,21 +73718,6 @@
   [
    "JEO_LS",
    "JEOE_LS"
-  ]
- ],
- [
-  "11838",
-  "JEO 485",
-  "Metamorfik Petroloji",
-  "JEO",
-  "Şenel Özdamar",
-  "Pazartesi 08:30/10:29",
-  30,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEO_LS"
   ]
  ],
  [
@@ -76272,7 +75545,7 @@
   "Hüseyin Çimenoğlu , Murat Baydoğan",
   "Perşembe 09:30/12:29",
   20,
-  12,
+  11,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -76298,7 +75571,7 @@
   "Sebahattin Gürmen , Mehmet Şeref Sönmez",
   "Cuma 14:00/16:59",
   30,
-  25,
+  27,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -82391,7 +81664,7 @@
   "Ejbel Çıra Duruer",
   "Cuma 08:30/11:29",
   20,
-  14,
+  15,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -82417,7 +81690,7 @@
   "Levent Kırval",
   "Perşembe 11:30/14:29",
   20,
-  18,
+  17,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -85031,7 +84304,7 @@
   "Deniz Turgay Altılar",
   "Pazartesi 13:30/16:29",
   60,
-  9,
+  8,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -88353,21 +87626,6 @@
   ]
  ],
  [
-  "12882",
-  "TEK 461E",
-  "Yarn Production Calculations",
-  "TEK",
-  "Fatma Banu Nergis , Yeşim Beceren",
-  "Salı 08:30/10:29",
-  30,
-  1,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "TEKE_LS"
-  ]
- ],
- [
   "12883",
   "MOD 152",
   "Fundam. of Textiles for FD",
@@ -88909,22 +88167,6 @@
   "Fiziksel (Yüz yüze)",
   [
    "SMT_LS"
-  ]
- ],
- [
-  "12926",
-  "TEK 483E",
-  "Motion and Time Study",
-  "TEK",
-  "Hande Sezgin",
-  "Perşembe 13:30/16:29",
-  30,
-  2,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "TEK_LS",
-   "TEKE_LS"
   ]
  ],
  [
@@ -92213,7 +91455,7 @@
   "Abdullah Aydoğan",
   "Pazartesi 09:30/12:29",
   25,
-  4,
+  3,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -92941,7 +92183,7 @@
   "Nuri Solak",
   "Perşembe 13:30/16:29",
   40,
-  26,
+  25,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -93427,7 +92669,7 @@
   "Elçin Filiz Taş",
   "Perşembe 13:30/16:29",
   20,
-  14,
+  15,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -93440,7 +92682,7 @@
   "Emrah Acar",
   "Çarşamba 09:30/12:29",
   20,
-  16,
+  17,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -93453,7 +92695,7 @@
   "Gülfer Oraz",
   "Çarşamba 13:30/16:29",
   20,
-  18,
+  19,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -93466,7 +92708,7 @@
   "Ecem Tezel",
   "Perşembe 09:30/12:29",
   20,
-  13,
+  14,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -93479,7 +92721,7 @@
   "Fatma Pınar Çakmak",
   "Salı 09:30/12:29",
   20,
-  10,
+  11,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -93544,7 +92786,7 @@
   "Kemal Bıçakcı",
   "Salı 13:30/16:29",
   30,
-  21,
+  22,
   "LU",
   "Sanal (Çevrimiçi/Online)",
   []
@@ -93908,7 +93150,7 @@
   "Aytaç Arıkoğlu",
   "Pazartesi 08:30/11:29",
   40,
-  15,
+  16,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -94025,7 +93267,7 @@
   "Demet Balkan",
   "Perşembe 13:30/16:29",
   60,
-  59,
+  60,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -94116,7 +93358,7 @@
   "Aydın Mısırlıoğlu",
   "Pazartesi 14:30/17:29",
   20,
-  15,
+  16,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -94194,7 +93436,7 @@
   "İsmail Bayezit",
   "Perşembe 08:30/11:29",
   40,
-  39,
+  38,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -94246,7 +93488,7 @@
   "Mete Budaklı , Taylan Ercan",
   "Cuma 14:30/17:29",
   40,
-  18,
+  17,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -94298,7 +93540,7 @@
   "Aslı Erbil",
   "Pazartesi 13:30/16:29",
   17,
-  15,
+  14,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -96966,7 +96208,7 @@
   "Barış Kışkan",
   "",
   200,
-  34,
+  35,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -99019,7 +98261,7 @@
   "Halit Süleyman Türkmen",
   "",
   200,
-  85,
+  86,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -101521,7 +100763,7 @@
   "Zerefşan Kaymaz",
   "Salı 14:30/17:29",
   40,
-  8,
+  9,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -101562,7 +100804,7 @@
   "Mehmet Şahin",
   "Perşembe 14:30/17:29",
   40,
-  37,
+  36,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -102284,7 +101526,7 @@
   "Barış Önol",
   "Perşembe 11:30/14:29",
   20,
-  5,
+  6,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -108474,7 +107716,7 @@
   "Fatih Eren",
   "Perşembe 13:30/16:29",
   75,
-  39,
+  38,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -108962,7 +108204,7 @@
   "Tüzin Baycan",
   "Salı 09:30/12:29",
   75,
-  53,
+  52,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -108978,7 +108220,7 @@
   "Yasin Bektaş",
   "Çarşamba 12:30/15:29",
   45,
-  29,
+  28,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -110578,21 +109820,6 @@
   [
    "CEV_LS",
    "CEVE_LS"
-  ]
- ],
- [
-  "14394",
-  "JEO 489",
-  "Tıbbi Jeoloji",
-  "JEO",
-  "Yüksel Örgün Tutay , Ali Tuğcan Ünlüer",
-  "Pazartesi 13:30/15:29",
-  30,
-  1,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEO_LS"
   ]
  ],
  [
@@ -117405,7 +116632,7 @@
   "Mehmet Akif Yazıcı",
   "Salı 12:30/15:29",
   45,
-  37,
+  36,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -120754,7 +119981,7 @@
   "Umut Şahin",
   "Cuma 09:30/12:29",
   75,
-  65,
+  66,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -120793,7 +120020,7 @@
   "Vedat Temiz",
   "Cuma 14:30/17:29",
   30,
-  21,
+  22,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -121068,7 +120295,7 @@
   "Raşid Ahmed Yıldız",
   "Pazartesi 09:30/12:29",
   30,
-  12,
+  11,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -123263,7 +122490,7 @@
   "Serpil Kurt Habiboğlu , Umut Şahin",
   "Pazartesi 13:30/16:29",
   30,
-  11,
+  10,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -126332,23 +125559,6 @@
   ]
  ],
  [
-  "15355",
-  "UCK 435E",
-  "Design of Aerospace Structures",
-  "UCK",
-  "Zahit Mecitoğlu , Melike Nikbay , Hülya Cebeci , Oğuzcan İnal",
-  "Salı 08:30/11:29",
-  2,
-  2,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "UCK_LS",
-   "UZB_LS",
-   "UZBE_LS"
-  ]
- ],
- [
   "15356",
   "MTR 104",
   "Müzik Teorisi II",
@@ -128213,105 +127423,6 @@
   []
  ],
  [
-  "15460",
-  "BEB 105",
-  "Futbol ve Temel Hareket Öğret.",
-  "BEB",
-  "Murat Bilgin , Bülent Arslantaş",
-  "Pazartesi 10:30/12:29",
-  25,
-  1,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "AIN_LS",
-   "BIO_LS",
-   "BIOE_LS",
-   "BLG_LS",
-   "BLGE_LS",
-   "CAB_LS",
-   "CEV_LS",
-   "CEVE_LS",
-   "CHZ_LS",
-   "CHZE_LS",
-   "DEN_LS",
-   "DENE_LS",
-   "DUI_LS",
-   "DUIE_LS",
-   "ECNE_LS",
-   "EHB_LS",
-   "EHBE_LS",
-   "ELE_LS",
-   "ELK_LS",
-   "ELKE_LS",
-   "END_LS",
-   "ENDE_LS",
-   "ENTE_LS",
-   "EUT_LS",
-   "EUTE_LS",
-   "FIZ_LS",
-   "FIZE_LS",
-   "GEM_LS",
-   "GEME_LS",
-   "GEO_LS",
-   "GEOE_LS",
-   "GID_LS",
-   "GIDE_LS",
-   "GMI_LS",
-   "GMIE_LS",
-   "ICM_LS",
-   "IML_LS",
-   "IMLE_LS",
-   "INS_LS",
-   "INSE_LS",
-   "ISL_LS",
-   "ISLE_LS",
-   "JEF_LS",
-   "JEFE_LS",
-   "JEO_LS",
-   "JEOE_LS",
-   "KIM_LS",
-   "KIME_LS",
-   "KMM_LS",
-   "KMME_LS",
-   "KMP_LS",
-   "KOM_LS",
-   "KOME_LS",
-   "MAD_LS",
-   "MADE_LS",
-   "MAK_LS",
-   "MAKE_LS",
-   "MAT_LS",
-   "MATE_LS",
-   "MET_LS",
-   "METE_LS",
-   "MIM_LS",
-   "MIME_LS",
-   "MTO_LS",
-   "MTOE_LS",
-   "MUT_LS",
-   "MUZ_LS",
-   "PEM_LS",
-   "PEME_LS",
-   "PET_LS",
-   "PETE_LS",
-   "SBP_LS",
-   "SBPE_LS",
-   "SECE_LS",
-   "SES_LS",
-   "SES_TH_LS",
-   "SES_TS_LS",
-   "TEK_LS",
-   "TEKE_LS",
-   "TEL_LS",
-   "THO_LS",
-   "UCK_LS",
-   "UZB_LS",
-   "UZBE_LS",
-   "YZVE_LS"
-  ]
- ],
- [
   "15461",
   "BEB 105",
   "Futbol ve Temel Hareket Öğret.",
@@ -128947,7 +128058,7 @@
   "Emrah Tuncay Özdemir",
   "Salı 13:30/16:29",
   20,
-  8,
+  7,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -130692,7 +129803,7 @@
   "Özgül Keleş , Billur Deniz Karahan",
   "Çarşamba 09:30/12:29",
   50,
-  50,
+  49,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -135725,21 +134836,6 @@
   [
    "MUT_LS",
    "MZT_LS"
-  ]
- ],
- [
-  "15837",
-  "JEO 391",
-  "Zemin Mekaniğine Giriş",
-  "JEO",
-  "Erkan Bozkurtoğlu",
-  "Çarşamba 12:30/15:29",
-  20,
-  0,
-  "LS",
-  "Fiziksel (Yüz yüze)",
-  [
-   "JEF_LS"
   ]
  ],
  [

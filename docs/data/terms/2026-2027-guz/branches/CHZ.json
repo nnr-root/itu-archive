@@ -441,54 +441,6 @@
   "classReq": "Detay"
  },
  {
-  "crn": "11070",
-  "code": "CHZ 492",
-  "branch": "CHZ",
-  "level": "LS",
-  "name": "Bitirme Çalışması",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Murat Olgaç Kangal",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "CHZ_LS"
-  ],
-  "prereq": "-",
-  "classReq": "Detay"
- },
- {
-  "crn": "11071",
-  "code": "CHZ 492E",
-  "branch": "CHZ",
-  "level": "LS",
-  "name": "Graduation Thesis",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Murat Olgaç Kangal",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "CHZ_LS",
-   "CHZ_LS",
-   "CHZE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "Detay"
- },
- {
   "crn": "11072",
   "code": "CHZ 447",
   "branch": "CHZ",

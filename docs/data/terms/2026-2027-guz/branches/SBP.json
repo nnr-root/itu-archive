@@ -654,7 +654,7 @@
    "216"
   ],
   "capacity": 75,
-  "enrolled": 39,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "SBP_YD",
@@ -1480,7 +1480,7 @@
    "CATI1"
   ],
   "capacity": 75,
-  "enrolled": 53,
+  "enrolled": 52,
   "reserved": "-",
   "programs": [
    "SBP_YD",
@@ -1510,8 +1510,8 @@
    "216"
   ],
   "capacity": 45,
-  "enrolled": 29,
-  "reserved": "ARC_LS/2/0 | EUTE_LS/2/0 | ENTE_LS/3/0 | ICM_LS/2/0 | MIM_LS/3/2 | MIME_LS/3/0 | PEME_LS/2/0 | Diğer/28/27",
+  "enrolled": 28,
+  "reserved": "ARC_LS/2/0 | EUTE_LS/2/0 | ENTE_LS/3/0 | ICM_LS/2/0 | MIM_LS/3/2 | MIME_LS/3/0 | PEME_LS/2/0 | Diğer/28/26",
   "programs": [
    "ARC_LS",
    "ENTE_LS",

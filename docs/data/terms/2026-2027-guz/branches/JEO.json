@@ -509,64 +509,6 @@
   "classReq": "-"
  },
  {
-  "crn": "11427",
-  "code": "JEO 463",
-  "branch": "JEO",
-  "level": "LS",
-  "name": "Jeomorfoloji",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ufuk Tarı",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "14:00/15:59"
-  ],
-  "rooms": [
-   "B208"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "JEO_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11428",
-  "code": "JEO 377E",
-  "branch": "JEO",
-  "level": "LS",
-  "name": "Individual Studies",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Enes Zengin",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "A103"
-  ],
-  "capacity": 20,
-  "enrolled": 6,
-  "reserved": "-",
-  "programs": [
-   "JEO_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "11429",
   "code": "JEO 361",
   "branch": "JEO",
@@ -648,36 +590,6 @@
   ],
   "capacity": 60,
   "enrolled": 41,
-  "reserved": "-",
-  "programs": [
-   "JEO_LS",
-   "JEO_YD"
-  ],
-  "prereq": "Detay",
-  "classReq": "-"
- },
- {
-  "crn": "11432",
-  "code": "JEO 385E",
-  "branch": "JEO",
-  "level": "LS",
-  "name": "Gemology",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Emin Çiftçi",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "08:30/10:29"
-  ],
-  "rooms": [
-   "B206"
-  ],
-  "capacity": 30,
-  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "JEO_LS",
@@ -777,64 +689,6 @@
   "classReq": "-"
  },
  {
-  "crn": "11436",
-  "code": "JEO 481",
-  "branch": "JEO",
-  "level": "LS",
-  "name": "Uygulamalı Mineraloji",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Bala Ekinci Şans , Şenel Özdamar",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "08:30/10:29"
-  ],
-  "rooms": [
-   "A302"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "JEO_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11437",
-  "code": "JEO 483",
-  "branch": "JEO",
-  "level": "LS",
-  "name": "Maden Yataklarının Değerlendirmesi",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Mustafa Kumral",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "08:30/10:29"
-  ],
-  "rooms": [
-   "B208"
-  ],
-  "capacity": 30,
-  "enrolled": 4,
-  "reserved": "-",
-  "programs": [
-   "JEO_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "11438",
   "code": "JEO 358",
   "branch": "JEO",
@@ -923,66 +777,6 @@
   "classReq": "-"
  },
  {
-  "crn": "11441",
-  "code": "JEO 493",
-  "branch": "JEO",
-  "level": "LS",
-  "name": "Çevre Jeolojisi",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "İrfan Yolcubal",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "08:30/10:29"
-  ],
-  "rooms": [
-   "B204"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "JEO_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11442",
-  "code": "JEO 453E",
-  "branch": "JEO",
-  "level": "LS",
-  "name": "Enviromental Geochemistry",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Nurgül Çelik Balcı",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "11:30/13:29"
-  ],
-  "rooms": [
-   "A302"
-  ],
-  "capacity": 30,
-  "enrolled": 3,
-  "reserved": "-",
-  "programs": [
-   "JEO_LS",
-   "PET_LS",
-   "PETE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "11443",
   "code": "JEO 497",
   "branch": "JEO",
@@ -1004,64 +798,6 @@
   ],
   "capacity": 30,
   "enrolled": 19,
-  "reserved": "-",
-  "programs": [
-   "JEO_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11444",
-  "code": "JEO 455",
-  "branch": "JEO",
-  "level": "LS",
-  "name": "Mühendislik Tasarımında Bilgisayar Uygulamaları",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ömer Ündül , Enes Zengin",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "13:30/15:29"
-  ],
-  "rooms": [
-   "A204"
-  ],
-  "capacity": 15,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "JEO_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11445",
-  "code": "JEO 457",
-  "branch": "JEO",
-  "level": "LS",
-  "name": "Doğal Taşlar",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Yılmaz Mahmutoğlu",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "08:30/10:29"
-  ],
-  "rooms": [
-   "B205"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "JEO_LS"
@@ -1125,35 +861,6 @@
    "JEO_LS"
   ],
   "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11448",
-  "code": "JEO 479",
-  "branch": "JEO",
-  "level": "LS",
-  "name": "Geochemistry of Natural Waters",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "İrfan Yolcubal",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "A204"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "JEO_LS"
-  ],
-  "prereq": "Detay",
   "classReq": "-"
  },
  {
@@ -1241,52 +948,6 @@
   "rooms": [],
   "capacity": 100,
   "enrolled": 1,
-  "reserved": "-",
-  "programs": [
-   "JEO_LS"
-  ],
-  "prereq": "Detay",
-  "classReq": "Detay"
- },
- {
-  "crn": "11454",
-  "code": "JEO 492",
-  "branch": "JEO",
-  "level": "LS",
-  "name": "Bitirme Tasarım Projesi",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Şenel Özdamar",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 100,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "JEO_LS"
-  ],
-  "prereq": "Detay",
-  "classReq": "Detay"
- },
- {
-  "crn": "11455",
-  "code": "JEO 492E",
-  "branch": "JEO",
-  "level": "LS",
-  "name": "Graduation Design Project",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ömer Ündül",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 100,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "JEO_LS"
@@ -1445,35 +1106,6 @@
   "programs": [
    "JEO_LS",
    "JEOE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11838",
-  "code": "JEO 485",
-  "branch": "JEO",
-  "level": "LS",
-  "name": "Metamorfik Petroloji",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Şenel Özdamar",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "08:30/10:29"
-  ],
-  "rooms": [
-   "A203"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "JEO_LS"
   ],
   "prereq": "-",
   "classReq": "-"
@@ -2298,35 +1930,6 @@
   "classReq": "-"
  },
  {
-  "crn": "14394",
-  "code": "JEO 489",
-  "branch": "JEO",
-  "level": "LS",
-  "name": "Tıbbi Jeoloji",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Yüksel Örgün Tutay , Ali Tuğcan Ünlüer",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "13:30/15:29"
-  ],
-  "rooms": [
-   "A302"
-  ],
-  "capacity": 30,
-  "enrolled": 1,
-  "reserved": "-",
-  "programs": [
-   "JEO_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "15783",
   "code": "JEO 408",
   "branch": "JEO",
@@ -2353,35 +1956,6 @@
    "JEO_LS"
   ],
   "prereq": "Detay",
-  "classReq": "-"
- },
- {
-  "crn": "15837",
-  "code": "JEO 391",
-  "branch": "JEO",
-  "level": "LS",
-  "name": "Zemin Mekaniğine Giriş",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Erkan Bozkurtoğlu",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "12:30/15:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "JEF_LS"
-  ],
-  "prereq": "-",
   "classReq": "-"
  }
 ]

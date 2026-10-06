@@ -372,35 +372,6 @@
   "classReq": "-"
  },
  {
-  "crn": "11721",
-  "code": "UZB 242E",
-  "branch": "UZB",
-  "level": "LS",
-  "name": "Basic Astronomy",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Cuma Yarım",
-  "buildings": [
-   "MEDC"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "11:30/14:29"
-  ],
-  "rooms": [
-   "1D7"
-  ],
-  "capacity": 40,
-  "enrolled": 5,
-  "reserved": "-",
-  "programs": [
-   "UZBE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "11724",
   "code": "UZB 310E",
   "branch": "UZB",
