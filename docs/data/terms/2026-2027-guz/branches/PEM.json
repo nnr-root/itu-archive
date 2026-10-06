@@ -20,7 +20,7 @@
    "333"
   ],
   "capacity": 20,
-  "enrolled": 10,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -128,7 +128,7 @@
    "136B"
   ],
   "capacity": 10,
-  "enrolled": 2,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -250,7 +250,7 @@
    "217D"
   ],
   "capacity": 15,
-  "enrolled": 15,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "PEM_LS",
@@ -556,7 +556,7 @@
    "217C"
   ],
   "capacity": 9,
-  "enrolled": 8,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "PEM_LS",
@@ -688,7 +688,7 @@
    "333"
   ],
   "capacity": 35,
-  "enrolled": 22,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "PEM_LS",
@@ -838,7 +838,7 @@
    "CATI6"
   ],
   "capacity": 10,
-  "enrolled": 1,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -865,7 +865,7 @@
    "--"
   ],
   "capacity": 10,
-  "enrolled": 10,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1009,7 +1009,7 @@
    "214"
   ],
   "capacity": 90,
-  "enrolled": 59,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "PEM_LS",
@@ -1039,7 +1039,7 @@
    "302"
   ],
   "capacity": 30,
-  "enrolled": 16,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "PEM_LS",
@@ -1099,7 +1099,7 @@
    "309"
   ],
   "capacity": 32,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "EUT_LS",
@@ -1166,7 +1166,7 @@
    "CATI4"
   ],
   "capacity": 27,
-  "enrolled": 28,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "PEM_LS",

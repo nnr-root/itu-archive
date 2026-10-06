@@ -10,7 +10,7 @@
     "2026-2027-guz",
     "Reşat Atalay Oyguç",
     60,
-    19,
+    21,
     "Çarşamba"
    ]
   ]
@@ -58,7 +58,7 @@
     "2026-2027-guz",
     "Mehmet Barış Can Ülker",
     20,
-    3,
+    4,
     "Perşembe"
    ]
   ]
@@ -137,9 +137,25 @@
    [
     "2026-2027-guz",
     "Zeynep Değer",
-    0,
+    20,
     0,
     "Pazartesi"
+   ]
+  ]
+ },
+ "DEP 613E": {
+  "code": "DEP 613E",
+  "name": "Seismic Isolation of Structur.",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Pınar Özdemir Çağlayan",
+    20,
+    0,
+    "Perşembe"
    ]
   ]
  },

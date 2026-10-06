@@ -213,7 +213,7 @@
    "D380A"
   ],
   "capacity": 30,
-  "enrolled": 11,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -348,7 +348,7 @@
    "D456"
   ],
   "capacity": 30,
-  "enrolled": 6,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -402,7 +402,7 @@
    "D381A"
   ],
   "capacity": 30,
-  "enrolled": 2,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -456,7 +456,7 @@
    "D452"
   ],
   "capacity": 30,
-  "enrolled": 5,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -723,7 +723,7 @@
    "D357"
   ],
   "capacity": 30,
-  "enrolled": 13,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "TEK_LS",
@@ -785,7 +785,7 @@
    "D378"
   ],
   "capacity": 40,
-  "enrolled": 36,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "TEK_LS",
@@ -1000,7 +1000,7 @@
    "D357"
   ],
   "capacity": 45,
-  "enrolled": 42,
+  "enrolled": 41,
   "reserved": "-",
   "programs": [
    "TEK_LS",
@@ -1153,7 +1153,7 @@
    "D381A"
   ],
   "capacity": 30,
-  "enrolled": 5,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "TEKE_LS"
@@ -1269,7 +1269,7 @@
    "D376"
   ],
   "capacity": 30,
-  "enrolled": 12,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "TEKE_LS"

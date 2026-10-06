@@ -817,7 +817,7 @@
    "3400"
   ],
   "capacity": 500,
-  "enrolled": 99,
+  "enrolled": 98,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1009,8 +1009,8 @@
    "3400"
   ],
   "capacity": 45,
-  "enrolled": 39,
-  "reserved": "ARC_LS/4/2 | ENTE_LS/4/4 | IAD_LS/4/2 | ICM_LS/4/4 | MIM_LS/8/8 | MIME_LS/6/6 | PEME_LS/5/5 | SBP_LS/5/3 | SBPE_LS/5/5 | Diğer/0/0",
+  "enrolled": 38,
+  "reserved": "ARC_LS/4/2 | ENTE_LS/4/4 | IAD_LS/4/2 | ICM_LS/4/4 | MIM_LS/8/8 | MIME_LS/6/6 | PEME_LS/5/5 | SBP_LS/5/3 | SBPE_LS/5/4 | Diğer/0/0",
   "programs": [
    "ARC_LS",
    "ENT_LS",
@@ -1121,7 +1121,7 @@
   "level": "LS",
   "name": "Vis.Comm.I:Visualiz.&Tch.Drw.",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Elçin Kara Vatansever , Merve Gül Özokcu",
+  "instructor": "Elçin Kara Vatansever , Merve Gül Özokcu , Ceren Kahraman Bereket",
   "buildings": [
    "MMB"
   ],

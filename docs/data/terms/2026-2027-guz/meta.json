@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-10-06T01:20:36Z",
+ "scrapedAt": "2026-10-06T08:57:12Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5427,
- "courses": 3867,
+ "sections": 5413,
+ "courses": 3857,
  "branches": [
   {
    "code": "AAR",
@@ -308,7 +308,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 14
+   "sections": 15
   },
   {
    "code": "DFH",
@@ -680,7 +680,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 199
+   "sections": 197
   },
   {
    "code": "INS",
@@ -765,7 +765,7 @@
    "levels": [
     "LUI"
    ],
-   "sections": 10
+   "sections": 13
   },
   {
    "code": "IYB",
@@ -794,7 +794,7 @@
     "LS",
     "LU"
    ],
-   "sections": 70
+   "sections": 68
   },
   {
    "code": "JFM",
@@ -903,7 +903,7 @@
     "LS",
     "LU"
    ],
-   "sections": 144
+   "sections": 132
   },
   {
    "code": "MAL",
@@ -988,7 +988,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 5
+   "sections": 4
   },
   {
    "code": "MET",
@@ -1066,7 +1066,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 22
+   "sections": 21
   },
   {
    "code": "MMI",
@@ -1228,7 +1228,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 16
+   "sections": 17
   },
   {
    "code": "NUM",
@@ -1357,7 +1357,7 @@
     "LS",
     "LU"
    ],
-   "sections": 66
+   "sections": 65
   },
   {
    "code": "SEC",
@@ -1671,11 +1671,11 @@
   }
  ],
  "stats": {
-  "sections": 5427,
-  "courses": 3867,
+  "sections": 5413,
+  "courses": 3857,
   "branches": 234,
-  "instructors": 2000,
-  "capacity": 264056,
-  "enrolled": 133652
+  "instructors": 1999,
+  "capacity": 263854,
+  "enrolled": 133691
  }
 }

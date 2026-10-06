@@ -207,7 +207,7 @@
     "LEE 904",
     "Yönlendirilmiş Çalışmalar",
     28,
-    28
+    27
    ],
    [
     "2026-2027-guz",
@@ -1177,7 +1177,7 @@
     "EUT 271E",
     "Research for Product Design",
     120,
-    77
+    79
    ],
    [
     "2026-2027-guz",
@@ -1281,7 +1281,7 @@
     "ING 103H",
     "Public Presentations",
     26,
-    25
+    23
    ],
    [
     "2025-2026-bahar",
@@ -1923,28 +1923,28 @@
     "ATA 121",
     "Atatürk İlk \u0026 İnkılap Trh I",
     75,
-    83
+    86
    ],
    [
     "2026-2027-guz",
     "ATA 121",
     "Atatürk İlk \u0026 İnkılap Trh I",
     75,
-    81
-   ],
-   [
-    "2026-2027-guz",
-    "ATA 122",
-    "Atatürk İlk \u0026 İnkılap Trh II",
-    75,
-    80
-   ],
-   [
-    "2026-2027-guz",
-    "ATA 122",
-    "Atatürk İlk \u0026 İnkılap Trh II",
-    75,
     83
+   ],
+   [
+    "2026-2027-guz",
+    "ATA 122",
+    "Atatürk İlk \u0026 İnkılap Trh II",
+    75,
+    85
+   ],
+   [
+    "2026-2027-guz",
+    "ATA 122",
+    "Atatürk İlk \u0026 İnkılap Trh II",
+    75,
+    85
    ],
    [
     "2026-2027-guz",
@@ -1958,7 +1958,7 @@
     "ATA 122E",
     "History of Turkish Revolution II",
     0,
-    13
+    12
    ],
    [
     "2026-2027-guz",
@@ -2894,14 +2894,14 @@
     "ENT 213E",
     "Design Models and Prototypes",
     35,
-    34
+    37
    ],
    [
     "2026-2027-guz",
     "ENT 357E",
     "Mech.\u0026Mnfctrabl. in Prod. Dsgn",
     30,
-    30
+    28
    ],
    [
     "2026-2027-guz",
@@ -3958,14 +3958,14 @@
     "INS 336E",
     "Theory of Structures II",
     35,
-    3
+    2
    ],
    [
     "2026-2027-guz",
     "STA 204E",
     "Statics\u0026Strength of Materials",
     70,
-    69
+    70
    ],
    [
     "2026-2027-guz",
@@ -4363,6 +4363,13 @@
   "name": "Pınar Özdemir Çağlayan",
   "rows": [
    [
+    "2026-2027-guz",
+    "DEP 613E",
+    "Seismic Isolation of Structur.",
+    20,
+    0
+   ],
+   [
     "2025-2026-bahar",
     "INS 217E",
     "Strength of Materials I",
@@ -4587,6 +4594,6 @@
     53
    ]
   ],
-  "terms": 16
+  "terms": 17
  }
 }

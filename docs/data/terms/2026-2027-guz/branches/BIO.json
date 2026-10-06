@@ -147,8 +147,8 @@
    "D106"
   ],
   "capacity": 50,
-  "enrolled": 8,
-  "reserved": "GID_LS/40/8 | Diğer/10/0",
+  "enrolled": 6,
+  "reserved": "GID_LS/40/6 | Diğer/10/0",
   "programs": [
    "CEV_LS",
    "CEVE_LS",
@@ -573,7 +573,7 @@
    "D206"
   ],
   "capacity": 30,
-  "enrolled": 10,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "BIO_LS",

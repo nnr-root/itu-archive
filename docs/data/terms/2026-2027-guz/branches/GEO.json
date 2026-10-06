@@ -60,7 +60,7 @@
   "level": "LU",
   "name": "Taşınmaz Mal Değerlemesi",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Muhammed Oğuzhan Mete",
+  "instructor": "Muhammed Oğuzhan Mete , Mustafa Yanalak",
   "buildings": [
    "INB"
   ],
@@ -128,7 +128,7 @@
    "B308"
   ],
   "capacity": 50,
-  "enrolled": 31,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -197,7 +197,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Rahmi Nurhan Çelik",
   "buildings": [
-   "undeclared"
+   "INB"
   ],
   "days": [
    "Perşembe"
@@ -206,10 +206,10 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "--"
+   "A2"
   ],
   "capacity": 20,
-  "enrolled": 11,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -386,7 +386,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Rahmi Nurhan Çelik",
   "buildings": [
-   "undeclared"
+   "INB"
   ],
   "days": [
    "Salı"
@@ -395,7 +395,7 @@
    "08:30/10:29"
   ],
   "rooms": [
-   "--"
+   "B303"
   ],
   "capacity": 30,
   "enrolled": 8,
@@ -681,7 +681,7 @@
   "level": "LU",
   "name": "Advan.Topics in Geomatic Eng.",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Mahmut Oğuz Selbesoğlu",
+  "instructor": "Mahmut Oğuz Selbesoğlu , Vahıd Teknık",
   "buildings": [
    "undeclared"
   ],
@@ -844,7 +844,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -968,7 +968,7 @@
    "B305"
   ],
   "capacity": 25,
-  "enrolled": 22,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -1528,7 +1528,7 @@
    "A101"
   ],
   "capacity": 80,
-  "enrolled": 58,
+  "enrolled": 57,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -1844,7 +1844,7 @@
    "A101"
   ],
   "capacity": 60,
-  "enrolled": 49,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -2374,7 +2374,7 @@
    "A205"
   ],
   "capacity": 60,
-  "enrolled": 57,
+  "enrolled": 56,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -2502,7 +2502,7 @@
    "B302"
   ],
   "capacity": 50,
-  "enrolled": 49,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -2596,7 +2596,7 @@
    "B101"
   ],
   "capacity": 75,
-  "enrolled": 68,
+  "enrolled": 67,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -2626,7 +2626,7 @@
    "B101"
   ],
   "capacity": 80,
-  "enrolled": 80,
+  "enrolled": 79,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -2814,7 +2814,7 @@
    "A1"
   ],
   "capacity": 30,
-  "enrolled": 20,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -2910,7 +2910,7 @@
    "A103"
   ],
   "capacity": 30,
-  "enrolled": 4,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -2974,7 +2974,7 @@
    "B203"
   ],
   "capacity": 40,
-  "enrolled": 38,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -3036,7 +3036,7 @@
    "A1"
   ],
   "capacity": 30,
-  "enrolled": 2,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -3160,7 +3160,7 @@
    "A201"
   ],
   "capacity": 30,
-  "enrolled": 27,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "GEO_LS",

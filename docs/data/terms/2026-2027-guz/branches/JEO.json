@@ -108,7 +108,7 @@
    "B208"
   ],
   "capacity": 35,
-  "enrolled": 24,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "JEO_LS",
@@ -256,7 +256,7 @@
    "A301"
   ],
   "capacity": 30,
-  "enrolled": 17,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "JEO_LS",
@@ -376,7 +376,7 @@
   "rooms": [
    "A302"
   ],
-  "capacity": 50,
+  "capacity": 55,
   "enrolled": 50,
   "reserved": "-",
   "programs": [
@@ -855,7 +855,7 @@
    "315"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "JEO_LS"
@@ -1119,7 +1119,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Cenk Yaltırak",
   "buildings": [
-   "undeclared"
+   "MDB"
   ],
   "days": [
    "Cuma"
@@ -1146,7 +1146,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Hüsnü Serdar Akyüz",
   "buildings": [
-   "undeclared"
+   "MDB"
   ],
   "days": [
    "Cuma"
@@ -1173,7 +1173,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Amr Abdelnasser Alı Khalıl",
   "buildings": [
-   "undeclared"
+   "MDB"
   ],
   "days": [
    "Pazartesi"
@@ -1184,7 +1184,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
+  "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
   "programs": [],
@@ -1200,7 +1200,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Sedat İnan",
   "buildings": [
-   "undeclared"
+   "MDB"
   ],
   "days": [
    "Cuma"
@@ -1281,7 +1281,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "İrfan Yolcubal",
   "buildings": [
-   "undeclared"
+   "MDB"
   ],
   "days": [
    "Perşembe"
@@ -1335,7 +1335,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Cengiz Zabcı , Gürsel Sunal",
   "buildings": [
-   "undeclared"
+   "MDB"
   ],
   "days": [
    "Cuma"
@@ -1362,7 +1362,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Zekiye Karacık , Fatma Gülmez Yıldırım",
   "buildings": [
-   "undeclared"
+   "MDB"
   ],
   "days": [
    "Salı"
@@ -1389,7 +1389,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Nurgül Çelik Balcı",
   "buildings": [
-   "undeclared"
+   "MDB"
   ],
   "days": [
    "Salı"
@@ -1443,7 +1443,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Mustafa Kumral",
   "buildings": [
-   "undeclared"
+   "MDB"
   ],
   "days": [
    "Çarşamba"
@@ -1497,7 +1497,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Nurgül Çelik Balcı",
   "buildings": [
-   "undeclared"
+   "MDB"
   ],
   "days": [
    "Perşembe"
@@ -1593,40 +1593,13 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "İrfan Yolcubal",
   "buildings": [
-   "undeclared"
+   "MDB"
   ],
   "days": [
    "Çarşamba"
   ],
   "times": [
    "09:00/11:59"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13246",
-  "code": "JEO 561E",
-  "branch": "JEO",
-  "level": "LU",
-  "name": "Selected Topics in Geochemis.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Nurgül Çelik Balcı",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "14:30/17:29"
   ],
   "rooms": [
    "--"
@@ -1674,7 +1647,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Cenk Yaltırak , Ufuk Tarı",
   "buildings": [
-   "undeclared"
+   "MDB"
   ],
   "days": [
    "Pazartesi"
@@ -1701,7 +1674,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Yüksel Örgün Tutay",
   "buildings": [
-   "undeclared"
+   "MDB"
   ],
   "days": [
    "Perşembe"
@@ -1712,34 +1685,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13250",
-  "code": "JEO 571",
-  "branch": "JEO",
-  "level": "LU",
-  "name": "Süs Taşları(Gemoloji)&Tasarımı",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Emin Çiftçi",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "14:00/16:59"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
+  "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
   "programs": [],
@@ -1836,7 +1782,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Bala Ekinci Şans",
   "buildings": [
-   "undeclared"
+   "MDB"
   ],
   "days": [
    "Cuma"
@@ -1863,7 +1809,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Cenk Yaltırak",
   "buildings": [
-   "undeclared"
+   "MDB"
   ],
   "days": [
    "Cuma"

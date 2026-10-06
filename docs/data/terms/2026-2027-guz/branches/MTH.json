@@ -175,7 +175,7 @@
    "A303"
   ],
   "capacity": 30,
-  "enrolled": 10,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "SIS_LS"
@@ -418,8 +418,8 @@
    "5305"
   ],
   "capacity": 60,
-  "enrolled": 23,
-  "reserved": "ELKE_LS/3/1 | ELK_LS/2/2 | Diğer/55/20",
+  "enrolled": 24,
+  "reserved": "ELKE_LS/3/1 | ELK_LS/2/2 | Diğer/55/21",
   "programs": [
    "EHB_LS",
    "EHBE_LS",
