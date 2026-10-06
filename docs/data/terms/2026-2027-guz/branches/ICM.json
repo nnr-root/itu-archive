@@ -107,7 +107,7 @@
    "212"
   ],
   "capacity": 27,
-  "enrolled": 18,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "IAD_LS",
@@ -286,7 +286,7 @@
    "213"
   ],
   "capacity": 55,
-  "enrolled": 59,
+  "enrolled": 62,
   "reserved": "-",
   "programs": [
    "IAD_LS",
@@ -316,7 +316,7 @@
    "303"
   ],
   "capacity": 20,
-  "enrolled": 20,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "IAD_LS",
@@ -405,7 +405,7 @@
    "302"
   ],
   "capacity": 17,
-  "enrolled": 17,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "IAD_LS",
@@ -435,7 +435,7 @@
    "307"
   ],
   "capacity": 15,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "ICM_LS"
@@ -526,8 +526,8 @@
    "203A"
   ],
   "capacity": 15,
-  "enrolled": 14,
-  "reserved": "ICM_LS/11/12 | IAD_LS/4/2 | Diğer/0/0",
+  "enrolled": 15,
+  "reserved": "ICM_LS/11/12 | IAD_LS/4/3 | Diğer/0/0",
   "programs": [
    "IAD_LS",
    "ICM_LS"
@@ -764,8 +764,8 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 9,
-  "reserved": "ICM_LS/13/7 | IAD_LS/2/2 | Diğer/0/0",
+  "enrolled": 12,
+  "reserved": "ICM_LS/13/10 | IAD_LS/2/2 | Diğer/0/0",
   "programs": [
    "IAD_LS",
    "ICM_LS"
@@ -900,8 +900,8 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 12,
-  "reserved": "ICM_LS/12/9 | IAD_LS/3/3 | Diğer/0/0",
+  "enrolled": 13,
+  "reserved": "ICM_LS/12/10 | IAD_LS/3/3 | Diğer/0/0",
   "programs": [
    "IAD_LS",
    "ICM_LS"
@@ -1011,7 +1011,7 @@
    "315"
   ],
   "capacity": 15,
-  "enrolled": 15,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "IAD_LS",
@@ -1113,8 +1113,8 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 15,
-  "reserved": "ICM_LS/12/12 | IAD_LS/3/3 | Diğer/0/0",
+  "enrolled": 14,
+  "reserved": "ICM_LS/12/11 | IAD_LS/3/3 | Diğer/0/0",
   "programs": [
    "IAD_LS",
    "ICM_LS"

@@ -698,7 +698,7 @@
     "2026-2027-guz",
     "Selim Aksoy",
     40,
-    26,
+    27,
     "Çarşamba"
    ],
    [
@@ -1414,7 +1414,7 @@
     "2026-2027-guz",
     "Melek Ertogan",
     35,
-    12,
+    13,
     "Cuma"
    ],
    [
@@ -1624,11 +1624,19 @@
   "code": "DUI 214E",
   "name": "Astronomy",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Orhan Gönel",
+    20,
+    0,
+    "Perşembe"
+   ],
    [
     "2025-2026-bahar",
     "Orhan Gönel",
@@ -3377,7 +3385,7 @@
     "2026-2027-guz",
     "Cenk Ay",
     40,
-    33,
+    34,
     "Cuma"
    ],
    [
@@ -3574,14 +3582,14 @@
     "2026-2027-guz",
     "Orhan Gönel",
     35,
-    27,
+    26,
     "Çarşamba"
    ],
    [
     "2026-2027-guz",
     "Orhan Gönel",
     35,
-    26,
+    27,
     "Perşembe"
    ],
    [
@@ -5003,14 +5011,14 @@
     "2026-2027-guz",
     "Tanzer Satır",
     50,
-    36,
+    37,
     "Pazartesi"
    ],
    [
     "2026-2027-guz",
     "Tanzer Satır",
     30,
-    18,
+    19,
     "Pazartesi"
    ],
    [
@@ -5075,7 +5083,7 @@
     "2026-2027-guz",
     "Tanzer Satır",
     40,
-    33,
+    32,
     "Pazartesi"
    ]
   ]
@@ -5648,12 +5656,20 @@
   "code": "DUI 402E",
   "name": "Maritime Law II",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2018-2019-bahar",
    "2018-2019-guz",
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Arda Özkan",
+    20,
+    0,
+    "Perşembe"
+   ],
    [
     "2025-2026-bahar",
     "Arda Özkan",
@@ -6570,14 +6586,14 @@
     "2026-2027-guz",
     "Fırat Bolat",
     80,
-    52,
+    53,
     "Salı"
    ],
    [
     "2026-2027-guz",
     "Gizem Çevik",
     35,
-    13,
+    14,
     "Salı"
    ],
    [
@@ -6732,7 +6748,7 @@
     "2026-2027-guz",
     "Ayşe Nak",
     40,
-    37,
+    38,
     "Salı"
    ],
    [
@@ -6916,9 +6932,17 @@
   "code": "DUI 472E",
   "name": "Oceanography",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Ayşe Nak",
+    20,
+    0,
+    "Pazartesi"
+   ],
    [
     "2025-2026-bahar",
     "Ayşe Nak",
@@ -6950,7 +6974,7 @@
     "2026-2027-guz",
     "Cemil Yurtören",
     30,
-    20,
+    24,
     "Salı"
    ],
    [
@@ -7127,10 +7151,18 @@
   "code": "DUI 474E",
   "name": "Bridge Team and Resource Management",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-yaz",
    "2025-2026-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Cemil Yurtören",
+    20,
+    0,
+    "Salı"
+   ],
    [
     "2025-2026-yaz",
     "Cemil Yurtören",

@@ -107,7 +107,7 @@
    "A102"
   ],
   "capacity": 55,
-  "enrolled": 50,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "MAD_LS"
@@ -196,7 +196,7 @@
    "A101"
   ],
   "capacity": 85,
-  "enrolled": 59,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -792,7 +792,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 2,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1035,7 +1035,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 6,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1152,7 +1152,7 @@
    "B204"
   ],
   "capacity": 30,
-  "enrolled": 8,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -1218,7 +1218,7 @@
   "level": "LS",
   "name": "Cevher Hazırlama II",
   "method": "Ek Sınav",
-  "instructor": "-",
+  "instructor": "Mustafa Özer",
   "buildings": [
    "undeclared"
   ],
@@ -1274,7 +1274,7 @@
   "level": "LS",
   "name": "Madenlerde İş Sağlığı ve Güv.",
   "method": "Ek Sınav",
-  "instructor": "-",
+  "instructor": "Abdullah Fişne",
   "buildings": [
    "undeclared"
   ],

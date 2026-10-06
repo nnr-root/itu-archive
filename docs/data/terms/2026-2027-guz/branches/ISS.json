@@ -47,7 +47,7 @@
    "104"
   ],
   "capacity": 40,
-  "enrolled": 36,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -101,8 +101,8 @@
    "208"
   ],
   "capacity": 50,
-  "enrolled": 32,
-  "reserved": "GGP_GG_YL/5/0 | Diğer/45/32",
+  "enrolled": 35,
+  "reserved": "GGP_GG_YL/5/1 | Diğer/45/34",
   "programs": [
    "GGP_GG_YL"
   ],
@@ -184,7 +184,7 @@
    "209"
   ],
   "capacity": 25,
-  "enrolled": 13,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -211,7 +211,7 @@
    "206"
   ],
   "capacity": 25,
-  "enrolled": 6,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

@@ -1708,7 +1708,7 @@
     "2026-2027-guz",
     "Hakan Çap",
     60,
-    57,
+    58,
     "Perşembe"
    ],
    [
@@ -2455,7 +2455,7 @@
     "2026-2027-guz",
     "Leyla Tavacıoğlu",
     40,
-    18,
+    19,
     "Çarşamba"
    ],
    [
@@ -3030,18 +3030,10 @@
   "code": "DFH 226",
   "name": "Ekonomik Coğrafya",
   "terms": [
-   "2026-2027-guz",
    "2024-2025-bahar",
    "2023-2024-bahar"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Muhsin Kadıoğlu",
-    30,
-    2,
-    "Çarşamba"
-   ],
    [
     "2024-2025-bahar",
     "-",
@@ -3086,14 +3078,14 @@
     "2026-2027-guz",
     "Çağlar Karatuğ",
     40,
-    25,
+    24,
     "Çarşamba"
    ],
    [
     "2026-2027-guz",
     "Leyla Tavacıoğlu",
     65,
-    60,
+    62,
     "Salı"
    ],
    [
@@ -3590,7 +3582,6 @@
   "code": "DFH 278E",
   "name": "Maritime Economics",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-yaz",
    "2024-2025-bahar",
@@ -3602,13 +3593,6 @@
    "2018-2019-bahar"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Sinan Çakır",
-    30,
-    2,
-    "Pazartesi"
-   ],
    [
     "2025-2026-bahar",
     "Levent Kırval",
@@ -3848,7 +3832,7 @@
     "2026-2027-guz",
     "Melek Ertogan",
     30,
-    11,
+    14,
     "Çarşamba"
    ],
    [
@@ -4228,7 +4212,7 @@
     "2026-2027-guz",
     "Cenk Ay",
     30,
-    18,
+    19,
     "Perşembe"
    ],
    [
@@ -4722,13 +4706,6 @@
     "Pazartesi"
    ],
    [
-    "2026-2027-guz",
-    "Cemil Yurtören",
-    25,
-    1,
-    "Pazartesi"
-   ],
-   [
     "2025-2026-bahar",
     "Cemil Yurtören",
     20,
@@ -4831,22 +4808,6 @@
     "Tuba Keçeci",
     40,
     31,
-    "Perşembe"
-   ]
-  ]
- },
- "DFH 430E": {
-  "code": "DFH 430E",
-  "name": "Profes. Maritime Communication",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Müjgan Özenir",
-    20,
-    0,
     "Perşembe"
    ]
   ]
@@ -5188,6 +5149,7 @@
   "code": "DFH 482E",
   "name": "Cargo Handling Simulator",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -5197,6 +5159,13 @@
    "2020-2021-guz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Yunus Emre Şenol",
+    20,
+    0,
+    "Çarşamba"
+   ],
    [
     "2025-2026-bahar",
     "Yunus Emre Şenol",
@@ -5506,7 +5475,7 @@
     "2026-2027-guz",
     "Pelin Bolat",
     60,
-    51,
+    52,
     "Çarşamba"
    ],
    [
@@ -5575,14 +5544,14 @@
     "2026-2027-guz",
     "Müjgan Özenir",
     35,
-    29,
+    26,
     "Perşembe"
    ],
    [
     "2026-2027-guz",
     "Seda Çınar Alabay",
     30,
-    0,
+    6,
     "Çarşamba"
    ],
    [

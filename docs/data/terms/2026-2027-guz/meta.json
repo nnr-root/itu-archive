@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-10-06T08:57:12Z",
+ "scrapedAt": "2026-10-06T15:17:34Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5413,
- "courses": 3857,
+ "sections": 5421,
+ "courses": 3864,
  "branches": [
   {
    "code": "AAR",
@@ -117,7 +117,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 4
+   "sections": 3
   },
   {
    "code": "BIL",
@@ -174,7 +174,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 13
+   "sections": 12
   },
   {
    "code": "BVA",
@@ -315,7 +315,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 37
+   "sections": 34
   },
   {
    "code": "DNK",
@@ -336,7 +336,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 71
+   "sections": 75
   },
   {
    "code": "DUM",
@@ -457,7 +457,7 @@
     "LS",
     "LU"
    ],
-   "sections": 69
+   "sections": 66
   },
   {
    "code": "ENR",
@@ -574,7 +574,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 76
+   "sections": 82
   },
   {
    "code": "GSB",
@@ -838,7 +838,7 @@
     "LS",
     "LU"
    ],
-   "sections": 44
+   "sections": 48
   },
   {
    "code": "KMP",
@@ -1101,7 +1101,14 @@
    "levels": [
     "LS"
    ],
-   "sections": 10
+   "sections": 9
+  },
+  {
+   "code": "MST",
+   "levels": [
+    "LS"
+   ],
+   "sections": 1
   },
   {
    "code": "MTA",
@@ -1115,7 +1122,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 15
+   "sections": 16
   },
   {
    "code": "MTM",
@@ -1300,7 +1307,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 7
+   "sections": 8
   },
   {
    "code": "ROS",
@@ -1671,11 +1678,11 @@
   }
  ],
  "stats": {
-  "sections": 5413,
-  "courses": 3857,
-  "branches": 234,
-  "instructors": 1999,
-  "capacity": 263854,
-  "enrolled": 133691
+  "sections": 5421,
+  "courses": 3864,
+  "branches": 235,
+  "instructors": 2003,
+  "capacity": 263763,
+  "enrolled": 135022
  }
 }

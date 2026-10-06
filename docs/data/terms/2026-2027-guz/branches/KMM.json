@@ -178,7 +178,7 @@
    "D102"
   ],
   "capacity": 80,
-  "enrolled": 75,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -242,7 +242,7 @@
    "D201"
   ],
   "capacity": 50,
-  "enrolled": 36,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -460,7 +460,7 @@
    "K209"
   ],
   "capacity": 40,
-  "enrolled": 38,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -607,7 +607,7 @@
    "D101"
   ],
   "capacity": 20,
-  "enrolled": 22,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -1260,5 +1260,95 @@
   ],
   "prereq": "-",
   "classReq": "Detay"
+ },
+ {
+  "crn": "15931",
+  "code": "KMM 342E",
+  "branch": "KMM",
+  "level": "LS",
+  "name": "Math Modelling in Chemical Eng",
+  "method": "Ek Sınav",
+  "instructor": "Ayşe Özge Kürkçüoğlu Levitas",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15932",
+  "code": "KMM 431",
+  "branch": "KMM",
+  "level": "LS",
+  "name": "Kimya Mühendisliği Tasarımı I",
+  "method": "Ek Sınav",
+  "instructor": "Alper Sarıoğlan",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15933",
+  "code": "KMM 422E",
+  "branch": "KMM",
+  "level": "LS",
+  "name": "Chemical Engineering Desing II",
+  "method": "Ek Sınav",
+  "instructor": "Devrim Barış Kaymak",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15934",
+  "code": "KMM 462",
+  "branch": "KMM",
+  "level": "LS",
+  "name": "Kimya Mühendisliği Lab II",
+  "method": "Ek Sınav",
+  "instructor": "Yaşar Volkan Arıncı",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "08:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
  }
 ]

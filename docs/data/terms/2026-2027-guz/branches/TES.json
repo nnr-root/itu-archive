@@ -125,7 +125,7 @@
    "203B"
   ],
   "capacity": 20,
-  "enrolled": 15,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "IAD_LS"
@@ -400,8 +400,8 @@
    "CATI3"
   ],
   "capacity": 45,
-  "enrolled": 35,
-  "reserved": "ARC_LS/4/2 | ENTE_LS/4/4 | IAD_LS/4/1 | ICM_LS/4/4 | MIM_LS/8/8 | MIME_LS/6/6 | PEME_LS/5/5 | SBP_LS/5/3 | SBPE_LS/5/2 | Diğer/0/0",
+  "enrolled": 37,
+  "reserved": "ARC_LS/4/2 | ENTE_LS/4/4 | IAD_LS/4/2 | ICM_LS/4/4 | MIM_LS/8/8 | MIME_LS/6/6 | PEME_LS/5/6 | SBP_LS/5/3 | SBPE_LS/5/2 | Diğer/0/0",
   "programs": [
    "ARC_LS",
    "ENT_LS",
@@ -817,7 +817,7 @@
    "3400"
   ],
   "capacity": 500,
-  "enrolled": 98,
+  "enrolled": 99,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1432,8 +1432,8 @@
    "--"
   ],
   "capacity": 45,
-  "enrolled": 47,
-  "reserved": "ARC_LS/4/4 | ENTE_LS/4/4 | IAD_LS/4/2 | ICM_LS/4/5 | MIM_LS/8/9 | MIME_LS/6/7 | PEME_LS/5/5 | SBP_LS/5/5 | SBPE_LS/5/6 | Diğer/0/0",
+  "enrolled": 46,
+  "reserved": "ARC_LS/4/4 | ENTE_LS/4/4 | IAD_LS/4/2 | ICM_LS/4/5 | MIM_LS/8/9 | MIME_LS/6/6 | PEME_LS/5/5 | SBP_LS/5/5 | SBPE_LS/5/6 | Diğer/0/0",
   "programs": [
    "ARC_LS",
    "ENT_LS",
