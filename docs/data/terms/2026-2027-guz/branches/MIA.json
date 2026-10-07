@@ -182,7 +182,7 @@
    "D380B"
   ],
   "capacity": 30,
-  "enrolled": 29,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -230,7 +230,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 1,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -257,7 +257,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 1,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -279,6 +279,87 @@
   ],
   "times": [
    "09:00/11:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15983",
+  "code": "MIA 502E",
+  "branch": "MIA",
+  "level": "LU",
+  "name": "Num.Meth.In Fluid Flow&Heat T",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Hasan Güneş",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "13:00/15:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15984",
+  "code": "MIA 501E",
+  "branch": "MIA",
+  "level": "LU",
+  "name": "Engineering Mathematics",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Hacı Abdullah Taşdemir",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Perşembe"
+  ],
+  "times": [
+   "13:00/15:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15985",
+  "code": "MIA 596E",
+  "branch": "MIA",
+  "level": "LU",
+  "name": "Scien.Research, Ethic&Seminar",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Abdussamet Subaşı",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "18:00/19:59"
   ],
   "rooms": [
    "--"

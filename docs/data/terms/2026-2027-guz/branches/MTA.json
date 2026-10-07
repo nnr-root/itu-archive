@@ -74,7 +74,7 @@
    "D317"
   ],
   "capacity": 30,
-  "enrolled": 15,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -203,7 +203,61 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 1,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15992",
+  "code": "MTA 556E",
+  "branch": "MTA",
+  "level": "LU",
+  "name": "Modal Testing",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Osman Taha Şen",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "13:00/15:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15993",
+  "code": "MTA 558",
+  "branch": "MTA",
+  "level": "LU",
+  "name": "Optimizasyon Yöntemleri",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Akif Yavuz",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "09:00/11:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

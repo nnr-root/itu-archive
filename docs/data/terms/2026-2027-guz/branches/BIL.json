@@ -194,7 +194,7 @@
    "B207"
   ],
   "capacity": 50,
-  "enrolled": 52,
+  "enrolled": 53,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -373,7 +373,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 14,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "DUI_LS",
@@ -471,7 +471,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 75,
+  "enrolled": 74,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -671,7 +671,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 73,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -971,7 +971,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 19,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1071,7 +1071,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 73,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1671,7 +1671,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 59,
+  "enrolled": 58,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2167,7 +2167,7 @@
    "B204"
   ],
   "capacity": 50,
-  "enrolled": 50,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -2348,8 +2348,8 @@
    "D103"
   ],
   "capacity": 80,
-  "enrolled": 74,
-  "reserved": "END_LS/5/0 | ENDE_LS/5/1 | Diğer/70/73",
+  "enrolled": 75,
+  "reserved": "END_LS/5/0 | ENDE_LS/5/1 | Diğer/70/74",
   "programs": [
    "END_LS",
    "ENDE_LS",

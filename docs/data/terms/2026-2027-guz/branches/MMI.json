@@ -47,7 +47,7 @@
    "R358"
   ],
   "capacity": 30,
-  "enrolled": 18,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -141,6 +141,33 @@
   ],
   "days": [
    "Pazartesi"
+  ],
+  "times": [
+   "13:00/15:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15994",
+  "code": "MMI 576E",
+  "branch": "MMI",
+  "level": "LU",
+  "name": "Finite Eleme.Analy.in Manufac.",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "-",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Çarşamba"
   ],
   "times": [
    "13:00/15:59"

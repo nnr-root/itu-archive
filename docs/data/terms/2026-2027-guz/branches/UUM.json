@@ -19,7 +19,7 @@
   "rooms": [
    "1D10"
   ],
-  "capacity": 65,
+  "capacity": 75,
   "enrolled": 68,
   "reserved": "-",
   "programs": [],
@@ -74,7 +74,7 @@
    "1D9"
   ],
   "capacity": 40,
-  "enrolled": 18,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -155,7 +155,7 @@
    "1D10"
   ],
   "capacity": 60,
-  "enrolled": 61,
+  "enrolled": 62,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -560,7 +560,7 @@
    "ZA4"
   ],
   "capacity": 60,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

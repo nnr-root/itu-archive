@@ -109,8 +109,8 @@
    "D203"
   ],
   "capacity": 45,
-  "enrolled": 41,
-  "reserved": "GID_LS/15/22 | Diğer/30/19",
+  "enrolled": 40,
+  "reserved": "GID_LS/15/22 | Diğer/30/18",
   "programs": [
    "CEV_LS",
    "CEVE_LS",
@@ -147,8 +147,8 @@
    "D106"
   ],
   "capacity": 50,
-  "enrolled": 5,
-  "reserved": "GID_LS/40/5 | Diğer/10/0",
+  "enrolled": 4,
+  "reserved": "GID_LS/40/4 | Diğer/10/0",
   "programs": [
    "CEV_LS",
    "CEVE_LS",
@@ -332,7 +332,7 @@
    "177"
   ],
   "capacity": 90,
-  "enrolled": 87,
+  "enrolled": 86,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -422,7 +422,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 67,
+  "enrolled": 66,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -452,7 +452,7 @@
    "D204"
   ],
   "capacity": 80,
-  "enrolled": 59,
+  "enrolled": 58,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -483,7 +483,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 61,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -543,7 +543,7 @@
    "D204"
   ],
   "capacity": 80,
-  "enrolled": 59,
+  "enrolled": 58,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -573,7 +573,7 @@
    "D206"
   ],
   "capacity": 30,
-  "enrolled": 9,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -665,7 +665,7 @@
    "L200"
   ],
   "capacity": 40,
-  "enrolled": 7,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -905,7 +905,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 60,
+  "enrolled": 59,
   "reserved": "-",
   "programs": [
    "BIO_LS",

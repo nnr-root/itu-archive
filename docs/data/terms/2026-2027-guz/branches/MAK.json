@@ -80,7 +80,7 @@
    "409"
   ],
   "capacity": 45,
-  "enrolled": 10,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -230,7 +230,7 @@
    "R354"
   ],
   "capacity": 62,
-  "enrolled": 65,
+  "enrolled": 64,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -377,7 +377,7 @@
    "409"
   ],
   "capacity": 40,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -808,7 +808,7 @@
    "--"
   ],
   "capacity": 190,
-  "enrolled": 190,
+  "enrolled": 188,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -1159,7 +1159,7 @@
    "D359"
   ],
   "capacity": 60,
-  "enrolled": 32,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -1189,7 +1189,7 @@
    "D318"
   ],
   "capacity": 60,
-  "enrolled": 64,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -1484,7 +1484,7 @@
    "A101"
   ],
   "capacity": 130,
-  "enrolled": 124,
+  "enrolled": 123,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -1542,7 +1542,7 @@
    "A201"
   ],
   "capacity": 70,
-  "enrolled": 64,
+  "enrolled": 63,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -1730,7 +1730,7 @@
    "A363"
   ],
   "capacity": 120,
-  "enrolled": 102,
+  "enrolled": 101,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -1829,7 +1829,7 @@
    "A501"
   ],
   "capacity": 90,
-  "enrolled": 89,
+  "enrolled": 88,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -2018,7 +2018,7 @@
    "A101"
   ],
   "capacity": 175,
-  "enrolled": 174,
+  "enrolled": 173,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -2070,7 +2070,7 @@
   ],
   "rooms": [],
   "capacity": 180,
-  "enrolled": 173,
+  "enrolled": 172,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -2281,7 +2281,7 @@
    "A363"
   ],
   "capacity": 100,
-  "enrolled": 96,
+  "enrolled": 93,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -2623,7 +2623,7 @@
    "D355"
   ],
   "capacity": 40,
-  "enrolled": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -2655,7 +2655,7 @@
    "D374"
   ],
   "capacity": 40,
-  "enrolled": 7,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -2715,7 +2715,7 @@
    "D360"
   ],
   "capacity": 40,
-  "enrolled": 19,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -2838,7 +2838,7 @@
    "D381B"
   ],
   "capacity": 40,
-  "enrolled": 17,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -2870,7 +2870,7 @@
    "D357"
   ],
   "capacity": 40,
-  "enrolled": 8,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -2961,7 +2961,7 @@
    "D317"
   ],
   "capacity": 40,
-  "enrolled": 38,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -3053,7 +3053,7 @@
    "D368B"
   ],
   "capacity": 40,
-  "enrolled": 27,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -3327,7 +3327,7 @@
    "D331"
   ],
   "capacity": 30,
-  "enrolled": 8,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3799,7 +3799,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 1,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3909,11 +3909,38 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 10,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "MAK_LS"
   ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15995",
+  "code": "MAK 602E",
+  "branch": "MAK",
+  "level": "LU",
+  "name": "Micro Scale Heat Transfer",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Bayram Şahin",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "09:00/11:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
   "prereq": "-",
   "classReq": "-"
  }

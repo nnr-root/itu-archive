@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-06T08:58:40Z",
+ "generatedAt": "2026-10-07T08:38:29Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -23339,13 +23339,13 @@
    "code": "MAT 368",
    "name": "Matematiksel Modelleme",
    "branch": "MAT",
-   "requirement": "( MAT 232 MIN. DD Veya MAT 232E MIN. DD )"
+   "requirement": "( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya ( MAK 201E MIN. DD Veya MAK 201 MIN. DD )"
   },
   {
    "code": "MAT 368E",
    "name": "Mathematical Modeling",
    "branch": "MAT",
-   "requirement": "( MAT 232 MIN. DD Veya MAT 232E MIN. DD )"
+   "requirement": "( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya ( MAK 201E MIN. DD Veya MAK 201 MIN. DD )"
   },
   {
    "code": "MAT 374",
@@ -23363,13 +23363,13 @@
    "code": "MAT 381",
    "name": "Veri Bilimine Giriş",
    "branch": "MAT",
-   "requirement": "( MAT 116 MIN. DD Veya MAT 116E MIN. DD )"
+   "requirement": "( MAT 116 MIN. DD Veya MAT 116E MIN. DD ) Veya ( ( MAK 114 MIN. DD Veya MAK 114E MIN. DD ) Ve ( MAK 104 MIN. DD Veya MAK 104E MIN. DD ) )"
   },
   {
    "code": "MAT 381E",
    "name": "Introduction to Data Science",
    "branch": "MAT",
-   "requirement": "( MAT 116 MIN. DD Veya MAT 116E MIN. DD )"
+   "requirement": "( MAT 116 MIN. DD Veya MAT 116E MIN. DD ) Veya ( ( MAK 114 MIN. DD Veya MAK 114E MIN. DD ) Ve ( MAK 104 MIN. DD Veya MAK 104E MIN. DD ) )"
   },
   {
    "code": "MAT 386",
@@ -73123,6 +73123,14 @@
   },
   {
    "from": "MAK 104",
+   "to": "MAT 381"
+  },
+  {
+   "from": "MAK 104",
+   "to": "MAT 381E"
+  },
+  {
+   "from": "MAK 104",
    "to": "MYZ 302"
   },
   {
@@ -73167,6 +73175,14 @@
   },
   {
    "from": "MAK 104E",
+   "to": "MAT 381"
+  },
+  {
+   "from": "MAK 104E",
+   "to": "MAT 381E"
+  },
+  {
+   "from": "MAK 104E",
    "to": "MYZ 302"
   },
   {
@@ -73471,6 +73487,14 @@
   },
   {
    "from": "MAK 114",
+   "to": "MAT 381"
+  },
+  {
+   "from": "MAK 114",
+   "to": "MAT 381E"
+  },
+  {
+   "from": "MAK 114",
    "to": "MTT 102"
   },
   {
@@ -73551,6 +73575,14 @@
   },
   {
    "from": "MAK 114E",
+   "to": "MAT 381"
+  },
+  {
+   "from": "MAK 114E",
+   "to": "MAT 381E"
+  },
+  {
+   "from": "MAK 114E",
    "to": "MTT 102"
   },
   {
@@ -73794,6 +73826,14 @@
    "to": "MAK 376E"
   },
   {
+   "from": "MAK 201",
+   "to": "MAT 368"
+  },
+  {
+   "from": "MAK 201",
+   "to": "MAT 368E"
+  },
+  {
    "from": "MAK 201E",
    "to": "FIZ 321"
   },
@@ -73884,6 +73924,14 @@
   {
    "from": "MAK 201E",
    "to": "MAK 376E"
+  },
+  {
+   "from": "MAK 201E",
+   "to": "MAT 368"
+  },
+  {
+   "from": "MAK 201E",
+   "to": "MAT 368E"
   },
   {
    "from": "MAK 202",

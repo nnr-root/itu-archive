@@ -554,7 +554,7 @@
    "D104"
   ],
   "capacity": 90,
-  "enrolled": 66,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "METE_LS"
@@ -852,7 +852,7 @@
    "D203"
   ],
   "capacity": 35,
-  "enrolled": 6,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [
    "MET_LS"
@@ -941,8 +941,8 @@
    "D204"
   ],
   "capacity": 65,
-  "enrolled": 46,
-  "reserved": "MET_LS/32/4 | METE_LS/18/2 | Diğer/15/40",
+  "enrolled": 45,
+  "reserved": "MET_LS/32/3 | METE_LS/18/2 | Diğer/15/40",
   "programs": [
    "MET_LS",
    "METE_LS",
@@ -974,7 +974,7 @@
    "D102"
   ],
   "capacity": 45,
-  "enrolled": 35,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -1004,8 +1004,8 @@
    "D303"
   ],
   "capacity": 85,
-  "enrolled": 41,
-  "reserved": "MET_LS/33/0 | METE_LS/37/0 | Diğer/15/41",
+  "enrolled": 40,
+  "reserved": "MET_LS/33/0 | METE_LS/37/0 | Diğer/15/40",
   "programs": [
    "MET_LS",
    "METE_LS",
@@ -1116,7 +1116,7 @@
   "branch": "MET",
   "level": "LS",
   "name": "Tasarım Projesi",
-  "method": "Fiziksel (Yüz yüze)",
+  "method": "Ek Sınav",
   "instructor": "Murat Baydoğan",
   "buildings": [],
   "days": [],
@@ -1205,7 +1205,7 @@
    "D105"
   ],
   "capacity": 20,
-  "enrolled": 12,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1259,7 +1259,7 @@
    "D101"
   ],
   "capacity": 20,
-  "enrolled": 5,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1335,6 +1335,552 @@
    "METE_LS"
   ],
   "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15955",
+  "code": "MET 476E",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Intro. to Technical Ceramics",
+  "method": "Ek Sınav",
+  "instructor": "Filiz Şahin",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15956",
+  "code": "MET 228",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Malzeme Kimyası",
+  "method": "Ek Sınav",
+  "instructor": "Aytekin Uzunoğlu",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15957",
+  "code": "MET 346",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Met.&Malz.Pros.Mod.&Sim.",
+  "method": "Ek Sınav",
+  "instructor": "Sebahattin Gürmen",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15958",
+  "code": "MET 348",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Kalite Mühendisliği",
+  "method": "Ek Sınav",
+  "instructor": "Billur Deniz Karahan",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15959",
+  "code": "MET 364",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Ekstraktif Metalurji Lab.",
+  "method": "Ek Sınav",
+  "instructor": "Faiz Muhaffel",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15960",
+  "code": "MET 476E",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Intro. to Technical Ceramics",
+  "method": "Ek Sınav",
+  "instructor": "Filiz Şahin",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15961",
+  "code": "MET 472E",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Casting Processes",
+  "method": "Ek Sınav",
+  "instructor": "Necip Ünlü",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15962",
+  "code": "MET 442",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Kompozit Malzemelerin Tem.",
+  "method": "Ek Sınav",
+  "instructor": "Duygu Ağaoğulları",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15964",
+  "code": "MET 326E",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Chemical Metallurgy II",
+  "method": "Ek Sınav",
+  "instructor": "Cevat Bora Derin",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15965",
+  "code": "MET 348E",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Quality Engineering",
+  "method": "Ek Sınav",
+  "instructor": "Billur Deniz Karahan",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15966",
+  "code": "MET 364E",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Extractive Metallurgy Lab.",
+  "method": "Ek Sınav",
+  "instructor": "Erçin Çağan Duran",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15967",
+  "code": "MET 446E",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Envir.&Ethc.inMet.&Mat.Proces",
+  "method": "Ek Sınav",
+  "instructor": "Mehmet Şeref Sönmez",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15968",
+  "code": "MET 483",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Hasarsız Malz. Muayenesi. Gir.",
+  "method": "Ek Sınav",
+  "instructor": "Aytekin Uzunoğlu",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15969",
+  "code": "MET 328E",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Introduction to Biomaterials",
+  "method": "Ek Sınav",
+  "instructor": "Gültekin Göller",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15970",
+  "code": "MET 364E",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Extractive Metallurgy Lab.",
+  "method": "Ek Sınav",
+  "instructor": "Erçin Çağan Duran",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15971",
+  "code": "MET 442E",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Fund. of Composite Materials",
+  "method": "Ek Sınav",
+  "instructor": "Mohammadreza Nofar",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15972",
+  "code": "MET 444E",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Iron&Steel Mat.in Eng. App",
+  "method": "Ek Sınav",
+  "instructor": "Cevat Fahir Arısoy",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15973",
+  "code": "MET 446E",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Envir.&Ethc.inMet.&Mat.Proces",
+  "method": "Ek Sınav",
+  "instructor": "Mehmet Şeref Sönmez",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15974",
+  "code": "MET 472E",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Casting Processes",
+  "method": "Ek Sınav",
+  "instructor": "Necip Ünlü",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15975",
+  "code": "MET 344E",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Mech. Properties of Materials",
+  "method": "Ek Sınav",
+  "instructor": "Faiz Muhaffel",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15976",
+  "code": "MET 442",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Kompozit Malzemelerin Tem.",
+  "method": "Ek Sınav",
+  "instructor": "Duygu Ağaoğulları",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15977",
+  "code": "MET 444",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Müh.Uyg.Demir ve Çelik E.Mlz.",
+  "method": "Ek Sınav",
+  "instructor": "Cevat Fahir Arısoy",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15978",
+  "code": "MET 446",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Met.ve Malz.Pros.Çevre ve Etik",
+  "method": "Ek Sınav",
+  "instructor": "Servet İbrahim Timur",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15979",
+  "code": "MET 326",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Kimyasal Metalurji II",
+  "method": "Ek Sınav",
+  "instructor": "Servet İbrahim Timur",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "15980",
+  "code": "MET 479",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Demir ve Çelik Üretimi",
+  "method": "Ek Sınav",
+  "instructor": "Cevat Fahir Arısoy",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15981",
+  "code": "MET 464E",
+  "branch": "MET",
+  "level": "LS",
+  "name": "Princip. of Surfaca Treatment",
+  "method": "Ek Sınav",
+  "instructor": "Muhammet Kürşat Kazmanlı",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
   "classReq": "-"
  }
 ]

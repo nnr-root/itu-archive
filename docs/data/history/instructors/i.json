@@ -511,7 +511,7 @@
     "MIM 322E",
     "Conserv.of Hist. Build.\u0026Sites",
     95,
-    96
+    95
    ],
    [
     "2026-2027-guz",
@@ -762,7 +762,7 @@
     "EHB 315",
     "Sayısal İşaret İşleme",
     80,
-    79
+    78
    ],
    [
     "2026-2027-guz",
@@ -1291,7 +1291,7 @@
     "EHB 337E",
     "Theory of Electromagnetics II",
     75,
-    57
+    56
    ],
    [
     "2026-2027-guz",
@@ -3258,7 +3258,7 @@
     "EHB 415E",
     "Data Communications",
     65,
-    64
+    63
    ],
    [
     "2025-2026-guz",
@@ -4272,14 +4272,14 @@
     "FIZ 102E",
     "Physics II",
     122,
-    110
+    109
    ],
    [
     "2026-2027-guz",
     "FIZ 102E",
     "Physics II",
     90,
-    78
+    75
    ],
    [
     "2026-2027-guz",
@@ -5492,7 +5492,7 @@
     "SAV 302E",
     "Discrete Mathematics",
     32,
-    31
+    29
    ],
    [
     "2026-2027-guz",
@@ -5791,7 +5791,7 @@
     "CEV 301E",
     "Chemical Processes",
     50,
-    50
+    49
    ],
    [
     "2026-2027-guz",
@@ -6272,14 +6272,14 @@
     "ISL 363E",
     "Human Resources Management",
     80,
-    47
+    45
    ],
    [
     "2026-2027-guz",
     "ISL 421E",
     "Organizational Behaviour",
     40,
-    39
+    40
    ],
    [
     "2025-2026-bahar",
@@ -6989,7 +6989,7 @@
     "PET 409E",
     "Well Design and Completions",
     70,
-    64
+    63
    ],
    [
     "2026-2027-guz",
@@ -7751,7 +7751,7 @@
     "MAT 345E",
     "Complex Analysis",
     50,
-    40
+    39
    ],
    [
     "2024-2025-bahar",
@@ -8495,6 +8495,13 @@
     "2026-2027-guz",
     "MDK 591E",
     "Dynamical Sys.Model.\u0026Simu.",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "MDK 592",
+    "Mekanik Sist.Bilgis.Kontrolu",
     0,
     0
    ],
@@ -10774,14 +10781,14 @@
     "ALM 101",
     "German I",
     25,
-    27
+    26
    ],
    [
     "2026-2027-guz",
     "ALM 102",
     "German II",
     23,
-    23
+    22
    ],
    [
     "2026-2027-guz",
@@ -11283,7 +11290,7 @@
     "TUR 111",
     "Yabancı Öğr. İçin Türk Dili I",
     0,
-    54
+    71
    ],
    [
     "2026-2027-guz",
@@ -11297,7 +11304,7 @@
     "TUR 121",
     "Türk Dili I",
     75,
-    75
+    74
    ],
    [
     "2026-2027-guz",
@@ -11311,7 +11318,7 @@
     "TUR 121",
     "Türk Dili I",
     75,
-    75
+    74
    ],
    [
     "2026-2027-guz",
@@ -11574,7 +11581,7 @@
     "MET 485E",
     "Ceramic Manufacturing",
     45,
-    35
+    33
    ],
    [
     "2026-2027-guz",
@@ -12656,7 +12663,7 @@
     "ISL 447E",
     "Gender and Sustainability in Economics , Business and Management",
     40,
-    36
+    34
    ],
    [
     "2026-2027-guz",
@@ -13694,7 +13701,7 @@
     "MAT 103E",
     "Mathematics I",
     97,
-    94
+    93
    ],
    [
     "2026-2027-guz",
@@ -15501,7 +15508,7 @@
     "SBP 232E",
     "The City in History",
     75,
-    48
+    47
    ],
    [
     "2026-2027-guz",
@@ -16131,7 +16138,14 @@
     "ATA 121",
     "Atatürk İlk \u0026 İnkılap Trh I",
     70,
-    81
+    84
+   ],
+   [
+    "2026-2027-guz",
+    "ATA 121",
+    "Atatürk İlk \u0026 İnkılap Trh I",
+    75,
+    87
    ],
    [
     "2026-2027-guz",
@@ -16145,21 +16159,14 @@
     "ATA 121",
     "Atatürk İlk \u0026 İnkılap Trh I",
     75,
-    85
+    90
    ],
    [
     "2026-2027-guz",
     "ATA 121",
     "Atatürk İlk \u0026 İnkılap Trh I",
     75,
-    88
-   ],
-   [
-    "2026-2027-guz",
-    "ATA 121",
-    "Atatürk İlk \u0026 İnkılap Trh I",
-    75,
-    89
+    93
    ],
    [
     "2026-2027-guz",
@@ -18867,7 +18874,7 @@
     "MAK 304E",
     "Meaurement Laboratory",
     120,
-    102
+    101
    ],
    [
     "2026-2027-guz",
@@ -18881,7 +18888,7 @@
     "MAK 410",
     "Mekanik Sistemlerin Matematik Modellemesi",
     100,
-    96
+    93
    ],
    [
     "2026-2027-guz",
@@ -20354,7 +20361,7 @@
     "GMI 341E",
     "Automatic Control Systems",
     40,
-    24
+    23
    ],
    [
     "2026-2027-guz",
@@ -21081,7 +21088,7 @@
     "RUS 101",
     "Russian I",
     25,
-    25
+    24
    ],
    [
     "2026-2027-guz",

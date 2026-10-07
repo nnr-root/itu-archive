@@ -1164,5 +1164,26 @@
   ],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "15989",
+  "code": "GID 324E",
+  "branch": "GID",
+  "level": "LS",
+  "name": "Food Safety,Sanitat.&Preserv.",
+  "method": "Sınırsız Sınav",
+  "instructor": "Hatice Funda Karbancıoğlu Güler",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
  }
 ]

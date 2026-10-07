@@ -174,7 +174,7 @@
   ],
   "capacity": 80,
   "enrolled": 50,
-  "reserved": "CHZ_LS/5/2 | GIDE_LS/5/0 | GID_LS/5/2 | Diğer/65/46",
+  "reserved": "CHZ_LS/5/2 | GIDE_LS/5/0 | GID_LS/5/1 | Diğer/65/47",
   "programs": [
    "CHZ_LS",
    "GID_LS",
@@ -243,8 +243,8 @@
    "104"
   ],
   "capacity": 80,
-  "enrolled": 54,
-  "reserved": "END_LS/10/4 | ENDE_LS/10/9 | GID_LS/5/0 | GIDE_LS/5/0 | IMLE_LS/5/0 | CHZ_LS/5/1 | EFN_LS/5/5 | Diğer/35/35",
+  "enrolled": 52,
+  "reserved": "END_LS/10/3 | ENDE_LS/10/9 | GID_LS/5/0 | GIDE_LS/5/0 | IMLE_LS/5/0 | CHZ_LS/5/1 | EFN_LS/5/5 | Diğer/35/34",
   "programs": [
    "CHZ_LS",
    "EFN_LS",
@@ -595,7 +595,7 @@
    "104"
   ],
   "capacity": 80,
-  "enrolled": 78,
+  "enrolled": 77,
   "reserved": "-",
   "programs": [
    "ISL_LS",
@@ -660,8 +660,8 @@
    "203"
   ],
   "capacity": 80,
-  "enrolled": 76,
-  "reserved": "ECNE_LS/5/5 | MMD_LS/12/6 | Diğer/63/65",
+  "enrolled": 75,
+  "reserved": "ECNE_LS/5/5 | MMD_LS/12/6 | Diğer/63/64",
   "programs": [
    "ECNE_LS",
    "ENT_LS",
@@ -695,8 +695,8 @@
    "206"
   ],
   "capacity": 60,
-  "enrolled": 22,
-  "reserved": "END_LS/3/3 | ENDE_LS/5/6 | IND_LS/10/2 | Diğer/42/11",
+  "enrolled": 20,
+  "reserved": "END_LS/3/3 | ENDE_LS/5/6 | IND_LS/10/1 | Diğer/42/10",
   "programs": [
    "END_LS",
    "ENDE_LS",
@@ -728,7 +728,7 @@
    "204"
   ],
   "capacity": 80,
-  "enrolled": 47,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "ISL_LS",
@@ -788,8 +788,8 @@
    "203"
   ],
   "capacity": 80,
-  "enrolled": 63,
-  "reserved": "ECNE_LS/10/12 | EFN_LS/30/11 | Diğer/40/40",
+  "enrolled": 62,
+  "reserved": "ECNE_LS/10/12 | EFN_LS/30/11 | Diğer/40/39",
   "programs": [
    "ECNE_LS",
    "EFN_LS",
@@ -880,7 +880,7 @@
    "210"
   ],
   "capacity": 40,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "ISL_LS",
@@ -940,7 +940,7 @@
    "B04"
   ],
   "capacity": 20,
-  "enrolled": 2,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "ISL_LS",
@@ -1032,8 +1032,8 @@
    "204"
   ],
   "capacity": 80,
-  "enrolled": 77,
-  "reserved": "ECNE_LS/5/6 | YZVE_LS/5/5 | ELKE_LS/5/5 | ENTE_LS/5/0 | ELK_LS/5/5 | Diğer/55/56",
+  "enrolled": 76,
+  "reserved": "ECNE_LS/5/6 | YZVE_LS/5/4 | ELKE_LS/5/5 | ENTE_LS/5/0 | ELK_LS/5/5 | Diğer/55/56",
   "programs": [
    "ECNE_LS",
    "ELK_LS",
@@ -1067,7 +1067,7 @@
    "102"
   ],
   "capacity": 40,
-  "enrolled": 36,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "ISL_LS",
@@ -1131,7 +1131,7 @@
    "204"
   ],
   "capacity": 80,
-  "enrolled": 67,
+  "enrolled": 66,
   "reserved": "-",
   "programs": [
    "ISL_LS",
@@ -1425,7 +1425,7 @@
    "109"
   ],
   "capacity": 30,
-  "enrolled": 31,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1452,7 +1452,7 @@
    "103"
   ],
   "capacity": 40,
-  "enrolled": 31,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

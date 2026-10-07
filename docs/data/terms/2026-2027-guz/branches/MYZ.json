@@ -20,7 +20,7 @@
    "D302"
   ],
   "capacity": 30,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -111,7 +111,7 @@
    "CATI3"
   ],
   "capacity": 20,
-  "enrolled": 18,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "IAD_LS",
@@ -178,7 +178,7 @@
    "B304"
   ],
   "capacity": 30,
-  "enrolled": 15,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -240,7 +240,7 @@
    "L400"
   ],
   "capacity": 35,
-  "enrolled": 32,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "MAT_LS"
@@ -330,7 +330,7 @@
    "A204"
   ],
   "capacity": 50,
-  "enrolled": 120,
+  "enrolled": 122,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -589,7 +589,7 @@
    "D360"
   ],
   "capacity": 30,
-  "enrolled": 7,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [
    "GID_LS",

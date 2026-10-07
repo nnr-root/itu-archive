@@ -12975,7 +12975,7 @@
   "END 457E",
   "Heuristic Optimization",
   "END",
-  9
+  8
  ],
  [
   "END 458E",
@@ -16869,7 +16869,7 @@
   "GID 324E",
   "Food Safety,Sanitat.&Preserv.",
   "GID",
-  7
+  8
  ],
  [
   "GID 331E",
@@ -25707,7 +25707,7 @@
   "KMM 308E",
   "Chem Reac Eng",
   "KMM",
-  7
+  8
  ],
  [
   "KMM 311E",
@@ -25869,7 +25869,7 @@
   "KMM 434",
   "Kalite,Çevre ve Güvenlik",
   "KMM",
-  11
+  12
  ],
  [
   "KMM 434E",
@@ -25893,7 +25893,7 @@
   "KMM 448",
   "Yakıt Kimyası ve Teknolojisi",
   "KMM",
-  8
+  9
  ],
  [
   "KMM 451",
@@ -30723,7 +30723,7 @@
   "MET 228",
   "Malzeme Kimyası",
   "MET",
-  9
+  10
  ],
  [
   "MET 228E",
@@ -30813,19 +30813,19 @@
   "MET 326",
   "Kimyasal Metalurji II",
   "MET",
-  14
+  15
  ],
  [
   "MET 326E",
   "Chemical Metallurgy II",
   "MET",
-  9
+  10
  ],
  [
   "MET 328E",
   "Introduction to Biomaterials",
   "MET",
-  9
+  10
  ],
  [
   "MET 335",
@@ -30873,13 +30873,13 @@
   "MET 344E",
   "Mech. Properties of Materials",
   "MET",
-  9
+  10
  ],
  [
   "MET 346",
   "Met.&Malz.Pros.Mod.&Sim.",
   "MET",
-  9
+  10
  ],
  [
   "MET 346E",
@@ -30891,13 +30891,13 @@
   "MET 348",
   "Kalite Mühendisliği",
   "MET",
-  7
+  8
  ],
  [
   "MET 348E",
   "Quality Engineering",
   "MET",
-  9
+  10
  ],
  [
   "MET 352",
@@ -30921,13 +30921,13 @@
   "MET 364",
   "Ekstraktif Metalurji Lab.",
   "MET",
-  9
+  10
  ],
  [
   "MET 364E",
   "Extractive Metallurgy Lab.",
   "MET",
-  9
+  10
  ],
  [
   "MET 366E",
@@ -31023,25 +31023,25 @@
   "MET 442",
   "Kompozit Malzemelerin Tem.",
   "MET",
-  9
+  10
  ],
  [
   "MET 442E",
   "Fund. of Composite Materials",
   "MET",
-  9
+  10
  ],
  [
   "MET 444",
   "Müh.Uyg.Demir ve Çelik E.Mlz.",
   "MET",
-  9
+  10
  ],
  [
   "MET 444E",
   "Iron&Steel Mat.in Eng. App",
   "MET",
-  9
+  10
  ],
  [
   "MET 445E",
@@ -31053,13 +31053,13 @@
   "MET 446",
   "Met.ve Malz.Pros.Çevre ve Etik",
   "MET",
-  10
+  11
  ],
  [
   "MET 446E",
   "Envir.&Ethc.inMet.&Mat.Proces",
   "MET",
-  9
+  10
  ],
  [
   "MET 453",
@@ -31113,7 +31113,7 @@
   "MET 464E",
   "Princip. of Surfaca Treatment",
   "MET",
-  9
+  10
  ],
  [
   "MET 468E",
@@ -31125,7 +31125,7 @@
   "MET 472E",
   "Casting Processes",
   "MET",
-  9
+  10
  ],
  [
   "MET 474",
@@ -31149,7 +31149,7 @@
   "MET 476E",
   "Intro. to Technical Ceramics",
   "MET",
-  9
+  10
  ],
  [
   "MET 477E",
@@ -31161,7 +31161,7 @@
   "MET 479",
   "Demir ve Çelik Üretimi",
   "MET",
-  6
+  7
  ],
  [
   "MET 479E",
@@ -31173,7 +31173,7 @@
   "MET 483",
   "Hasarsız Malz. Muayenesi. Gir.",
   "MET",
-  7
+  8
  ],
  [
   "MET 483E",
@@ -33056,6 +33056,12 @@
  [
   "MKC 521",
   "Elastisite Teorisi",
+  "MKC",
+  1
+ ],
+ [
+  "MKC 523E",
+  "Foundations of Solid Mechanics",
   "MKC",
   1
  ],
@@ -46334,12 +46340,6 @@
  [
   "VIA 516E",
   "Customer Analytics",
-  "VIA",
-  1
- ],
- [
-  "VIA 527E",
-  "Mathematics for Machine Lear.",
   "VIA",
   1
  ],

@@ -1051,6 +1051,7 @@
   "code": "KMM 308E",
   "name": "Chem Reac Eng",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -1060,6 +1061,13 @@
    "2019-2020-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Hüseyin Enis Karahan",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Ahmet Sirkecioğlu",
@@ -1359,7 +1367,7 @@
     "2026-2027-guz",
     "Nil Özbek",
     50,
-    49,
+    48,
     "Salı"
    ],
    [
@@ -1929,6 +1937,13 @@
     ""
    ],
    [
+    "2026-2027-guz",
+    "Ayşe Özge Kürkçüoğlu Levitas",
+    0,
+    0,
+    ""
+   ],
+   [
     "2025-2026-bahar",
     "Ayşe Özge Kürkçüoğlu Levitas , / Cemile Yerlikaya",
     55,
@@ -2131,7 +2146,7 @@
     "2026-2027-guz",
     "Devrim Barış Kaymak",
     50,
-    48,
+    51,
     "Pazartesi"
    ],
    [
@@ -2267,7 +2282,7 @@
     "2026-2027-guz",
     "Burcu Selen Çağlayan , Alıreza Khataee",
     100,
-    94,
+    93,
     "Pazartesi"
    ],
    [
@@ -2490,7 +2505,7 @@
     "2026-2027-guz",
     "Ramazan Kızıl",
     20,
-    21,
+    19,
     "Çarşamba"
    ],
    [
@@ -2702,6 +2717,13 @@
    [
     "2026-2027-guz",
     "Devrim Barış Kaymak",
+    0,
+    0,
+    ""
+   ],
+   [
+    "2026-2027-guz",
+    "Hüseyin Enis Karahan",
     0,
     0,
     ""
@@ -3199,6 +3221,7 @@
   "code": "KMM 434",
   "name": "Kalite,Çevre ve Güvenlik",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -3212,6 +3235,13 @@
    "2016-2017-yaz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Nalan Erdöl Aydın",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Ahmet Alper Aydın",
@@ -3435,6 +3465,7 @@
   "code": "KMM 448",
   "name": "Yakıt Kimyası ve Teknolojisi",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2023-2024-bahar",
    "2022-2023-bahar",
@@ -3445,6 +3476,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Hanzade Açma",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Filiz Karaosmanoğlu",
@@ -3912,7 +3950,7 @@
     "2026-2027-guz",
     "Mehmet Suha Yazıcı",
     20,
-    12,
+    13,
     "Çarşamba"
    ],
    [
@@ -4170,7 +4208,7 @@
     "2026-2027-guz",
     "Ahmet Alper Aydın",
     20,
-    4,
+    3,
     "Çarşamba"
    ],
    [
@@ -4568,7 +4606,7 @@
     "2026-2027-guz",
     "Serdar Yaman",
     25,
-    10,
+    11,
     "Perşembe"
    ],
    [

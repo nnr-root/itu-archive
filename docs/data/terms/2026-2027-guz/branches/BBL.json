@@ -19,7 +19,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 25,
+  "capacity": 30,
   "enrolled": 25,
   "reserved": "-",
   "programs": [],
@@ -128,7 +128,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
