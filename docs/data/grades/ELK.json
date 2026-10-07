@@ -2059,7 +2059,7 @@
  },
  {
   "code": "ELK 343",
-  "term": "2025-2026 Fall Semester",
+  "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
   "total": 164,
   "grades": {
@@ -2131,7 +2131,7 @@
  },
  {
   "code": "ELK 343E",
-  "term": "2025-2026 Fall Semester",
+  "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
   "total": 164,
   "grades": {
@@ -2765,6 +2765,102 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ELK&dersNo=405&yil=2025"
  },
  {
+  "code": "ELK 406",
+  "term": "2025-2026 Bahar Dönemi",
+  "donem": "202620",
+  "total": 171,
+  "grades": {
+   "AA": 14,
+   "BA": 15,
+   "BA+": 18,
+   "BB": 15,
+   "BB+": 14,
+   "CB": 18,
+   "CB+": 7,
+   "CC": 19,
+   "CC+": 10,
+   "DC": 5,
+   "DC+": 12,
+   "DD": 5,
+   "DD+": 5,
+   "FF": 10,
+   "VF": 4
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ELK&dersNo=406&yil=2026"
+ },
+ {
+  "code": "ELK 406",
+  "term": "2024-2025 Bahar Dönemi",
+  "donem": "202520",
+  "total": 148,
+  "grades": {
+   "AA": 7,
+   "BA": 9,
+   "BA+": 12,
+   "BB": 13,
+   "BB+": 14,
+   "CB": 10,
+   "CB+": 13,
+   "CC": 13,
+   "CC+": 8,
+   "DC": 6,
+   "DC+": 5,
+   "DD": 5,
+   "DD+": 5,
+   "FF": 13,
+   "VF": 15
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ELK&dersNo=406&yil=2025"
+ },
+ {
+  "code": "ELK 406E",
+  "term": "2025-2026 Bahar Dönemi",
+  "donem": "202620",
+  "total": 171,
+  "grades": {
+   "AA": 14,
+   "BA": 15,
+   "BA+": 18,
+   "BB": 15,
+   "BB+": 14,
+   "CB": 18,
+   "CB+": 7,
+   "CC": 19,
+   "CC+": 10,
+   "DC": 5,
+   "DC+": 12,
+   "DD": 5,
+   "DD+": 5,
+   "FF": 10,
+   "VF": 4
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ELK&dersNo=406&yil=2026"
+ },
+ {
+  "code": "ELK 406E",
+  "term": "2024-2025 Bahar Dönemi",
+  "donem": "202520",
+  "total": 148,
+  "grades": {
+   "AA": 7,
+   "BA": 9,
+   "BA+": 12,
+   "BB": 13,
+   "BB+": 14,
+   "CB": 10,
+   "CB+": 13,
+   "CC": 13,
+   "CC+": 8,
+   "DC": 6,
+   "DC+": 5,
+   "DD": 5,
+   "DD+": 5,
+   "FF": 13,
+   "VF": 15
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ELK&dersNo=406&yil=2025"
+ },
+ {
   "code": "ELK 411",
   "term": "2023-2024 Güz Dönemi",
   "donem": "202410",
@@ -2811,102 +2907,6 @@
    "VF": 1
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ELK&dersNo=411&yil=2024"
- },
- {
-  "code": "ELK 406",
-  "term": "2025-2026 Bahar Dönemi",
-  "donem": "202620",
-  "total": 171,
-  "grades": {
-   "AA": 14,
-   "BA": 15,
-   "BA+": 18,
-   "BB": 15,
-   "BB+": 14,
-   "CB": 18,
-   "CB+": 7,
-   "CC": 19,
-   "CC+": 10,
-   "DC": 5,
-   "DC+": 12,
-   "DD": 5,
-   "DD+": 5,
-   "FF": 10,
-   "VF": 4
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ELK&dersNo=406&yil=2026"
- },
- {
-  "code": "ELK 406",
-  "term": "2024-2025 Bahar Dönemi",
-  "donem": "202520",
-  "total": 148,
-  "grades": {
-   "AA": 7,
-   "BA": 9,
-   "BA+": 12,
-   "BB": 13,
-   "BB+": 14,
-   "CB": 10,
-   "CB+": 13,
-   "CC": 13,
-   "CC+": 8,
-   "DC": 6,
-   "DC+": 5,
-   "DD": 5,
-   "DD+": 5,
-   "FF": 13,
-   "VF": 15
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ELK&dersNo=406&yil=2025"
- },
- {
-  "code": "ELK 406E",
-  "term": "2025-2026 Bahar Dönemi",
-  "donem": "202620",
-  "total": 171,
-  "grades": {
-   "AA": 14,
-   "BA": 15,
-   "BA+": 18,
-   "BB": 15,
-   "BB+": 14,
-   "CB": 18,
-   "CB+": 7,
-   "CC": 19,
-   "CC+": 10,
-   "DC": 5,
-   "DC+": 12,
-   "DD": 5,
-   "DD+": 5,
-   "FF": 10,
-   "VF": 4
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ELK&dersNo=406&yil=2026"
- },
- {
-  "code": "ELK 406E",
-  "term": "2024-2025 Bahar Dönemi",
-  "donem": "202520",
-  "total": 148,
-  "grades": {
-   "AA": 7,
-   "BA": 9,
-   "BA+": 12,
-   "BB": 13,
-   "BB+": 14,
-   "CB": 10,
-   "CB+": 13,
-   "CC": 13,
-   "CC+": 8,
-   "DC": 6,
-   "DC+": 5,
-   "DD": 5,
-   "DD+": 5,
-   "FF": 13,
-   "VF": 15
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ELK&dersNo=406&yil=2025"
  },
  {
   "code": "ELK 414",
@@ -5825,6 +5825,40 @@
  },
  {
   "code": "ELK 509",
+  "term": "2023-2024 Güz Dönemi",
+  "donem": "202410",
+  "total": 20,
+  "grades": {
+   "AA": 19,
+   "FF": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ELK&dersNo=509&yil=2024"
+ },
+ {
+  "code": "ELK 509E",
+  "term": "2025-2026 Güz Dönemi",
+  "donem": "202610",
+  "total": 19,
+  "grades": {
+   "AA": 14,
+   "BA": 3,
+   "FF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ELK&dersNo=509&yil=2026"
+ },
+ {
+  "code": "ELK 509E",
+  "term": "2024-2025 Güz Dönemi",
+  "donem": "202510",
+  "total": 17,
+  "grades": {
+   "AA": 15,
+   "FF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ELK&dersNo=509&yil=2025"
+ },
+ {
+  "code": "ELK 509E",
   "term": "2023-2024 Güz Dönemi",
   "donem": "202410",
   "total": 20,

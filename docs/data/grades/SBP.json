@@ -5193,26 +5193,5 @@
    "FF": 1
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=SBP&dersNo=625&yil=2026"
- },
- {
-  "code": "SBP 696E",
-  "term": "2024-2025 Bahar Dönemi",
-  "donem": "202520",
-  "total": 12,
-  "grades": {
-   "BL": 12
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=SBP&dersNo=696&yil=2025"
- },
- {
-  "code": "SBP 696E",
-  "term": "2024-2025 Güz Dönemi",
-  "donem": "202510",
-  "total": 14,
-  "grades": {
-   "BL": 13,
-   "BZ": 1
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=SBP&dersNo=696&yil=2025"
  }
 ]

@@ -461,7 +461,7 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=UUM&dersNo=543&yil=2024"
  },
  {
-  "code": "UUM 555",
+  "code": "UUM 555E",
   "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
   "total": 16,
@@ -477,7 +477,7 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=UUM&dersNo=555&yil=2026"
  },
  {
-  "code": "UUM 555",
+  "code": "UUM 555E",
   "term": "2024-2025 Güz Dönemi",
   "donem": "202510",
   "total": 19,
@@ -493,7 +493,7 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=UUM&dersNo=555&yil=2025"
  },
  {
-  "code": "UUM 555",
+  "code": "UUM 555E",
   "term": "2023-2024 Bahar Dönemi",
   "donem": "202420",
   "total": 13,
@@ -508,7 +508,7 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=UUM&dersNo=555&yil=2024"
  },
  {
-  "code": "UUM 555",
+  "code": "UUM 555E",
   "term": "2023-2024 Güz Dönemi",
   "donem": "202410",
   "total": 23,
@@ -697,27 +697,5 @@
    "FF": 1
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=UUM&dersNo=629&yil=2026"
- },
- {
-  "code": "UUM 696E",
-  "term": "2024-2025 Bahar Dönemi",
-  "donem": "202520",
-  "total": 12,
-  "grades": {
-   "BL": 10,
-   "BZ": 2
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=UUM&dersNo=696&yil=2025"
- },
- {
-  "code": "UUM 696E",
-  "term": "2024-2025 Güz Dönemi",
-  "donem": "202510",
-  "total": 16,
-  "grades": {
-   "BL": 14,
-   "BZ": 2
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=UUM&dersNo=696&yil=2025"
  }
 ]

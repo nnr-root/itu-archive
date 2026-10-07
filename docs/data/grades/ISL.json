@@ -1628,7 +1628,7 @@
  },
  {
   "code": "ISL 333E",
-  "term": "2025-2026 Bahar Dönemi",
+  "term": "2025-2026 Spring Semester",
   "donem": "202620",
   "total": 176,
   "grades": {
@@ -1652,7 +1652,7 @@
  },
  {
   "code": "ISL 333E",
-  "term": "2025-2026 Güz Dönemi",
+  "term": "2025-2026 Fall Semester",
   "donem": "202610",
   "total": 52,
   "grades": {
@@ -4574,7 +4574,7 @@
  },
  {
   "code": "ISL 501E",
-  "term": "2025-2026 Güz Dönemi",
+  "term": "2025-2026 Fall Semester",
   "donem": "202610",
   "total": 21,
   "grades": {
@@ -4615,7 +4615,7 @@
  },
  {
   "code": "ISL 505",
-  "term": "2025-2026 Güz Dönemi",
+  "term": "2025-2026 Fall Semester",
   "donem": "202610",
   "total": 30,
   "grades": {
@@ -4860,16 +4860,5 @@
    "VF": 1
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ISL&dersNo=603&yil=2026"
- },
- {
-  "code": "ISL 696E",
-  "term": "2025-2026 Güz Dönemi",
-  "donem": "202610",
-  "total": 10,
-  "grades": {
-   "BL": 6,
-   "BZ": 4
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=ISL&dersNo=696&yil=2026"
  }
 ]
