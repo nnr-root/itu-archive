@@ -50,7 +50,7 @@
    "D301"
   ],
   "capacity": 50,
-  "enrolled": 40,
+  "enrolled": 41,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -80,7 +80,7 @@
    "D301"
   ],
   "capacity": 50,
-  "enrolled": 40,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -230,7 +230,7 @@
    "--"
   ],
   "capacity": 10,
-  "enrolled": 0,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "MEN_LS"

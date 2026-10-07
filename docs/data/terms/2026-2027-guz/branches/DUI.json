@@ -49,7 +49,7 @@
    "--"
   ],
   "capacity": 45,
-  "enrolled": 30,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -78,7 +78,7 @@
    "--"
   ],
   "capacity": 65,
-  "enrolled": 59,
+  "enrolled": 61,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -136,7 +136,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 46,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -194,7 +194,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -542,7 +542,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 27,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -832,7 +832,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 27,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -861,7 +861,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 21,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1035,7 +1035,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 43,
+  "enrolled": 41,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1174,7 +1174,7 @@
   ],
   "rooms": [],
   "capacity": 150,
-  "enrolled": 54,
+  "enrolled": 61,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1272,7 +1272,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 24,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1301,7 +1301,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 38,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1330,7 +1330,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 38,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1736,7 +1736,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -1765,7 +1765,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 32,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -1922,7 +1922,7 @@
   ],
   "rooms": [],
   "capacity": 60,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -2009,7 +2009,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 14,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -2038,7 +2038,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 0,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -2067,7 +2067,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 0,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -2095,8 +2095,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
-  "enrolled": 0,
+  "capacity": 30,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -2125,7 +2125,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 0,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "MTM_LS"

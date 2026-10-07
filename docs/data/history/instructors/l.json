@@ -4,13 +4,6 @@
   "rows": [
    [
     "2026-2027-guz",
-    "CAB 129",
-    "4 Telli Kemençe I",
-    5,
-    0
-   ],
-   [
-    "2026-2027-guz",
     "CAB 229",
     "4 Telli Kemençe III",
     5,
@@ -22,13 +15,6 @@
     "4 Telli Kemençe I",
     5,
     1
-   ],
-   [
-    "2026-2027-guz",
-    "CAB 271",
-    "4 Telli Kemençe III",
-    5,
-    0
    ],
    [
     "2026-2027-guz",
@@ -433,7 +419,7 @@
     "ELK 101E",
     "Intr.to Electr. Eng.\u0026Eng.Eth.",
     70,
-    67
+    65
    ],
    [
     "2026-2027-guz",
@@ -1005,14 +991,14 @@
     "MIM 4087E",
     "Learning from Vernacular",
     20,
-    11
+    12
    ],
    [
     "2026-2027-guz",
     "MIM 361E",
     "Archtctrl Survey \u0026 Restrtn Std",
     18,
-    14
+    15
    ],
    [
     "2026-2027-guz",
@@ -1074,7 +1060,7 @@
     "EUT 596",
     "Bilimsel Araş.,Etik ve Seminer",
     25,
-    21
+    22
    ],
    [
     "2026-2027-guz",
@@ -2612,7 +2598,7 @@
     "MIM 351E",
     "Architectural Design V",
     15,
-    15
+    14
    ],
    [
     "2025-2026-bahar",
@@ -3389,13 +3375,6 @@
    ],
    [
     "2026-2027-guz",
-    "THO 317",
-    "Sahne Projesi I (Kredisiz)",
-    5,
-    0
-   ],
-   [
-    "2026-2027-guz",
     "THO 435",
     "Zeybek Oyun Repertuvarı I",
     10,
@@ -3495,7 +3474,7 @@
     "DZC 512",
     "Denizcilik Ekonomisi",
     20,
-    17
+    18
    ],
    [
     "2026-2027-guz",
@@ -3913,7 +3892,7 @@
     "MMI 579E",
     "Micro Electro-Mech. Sensors",
     30,
-    4
+    5
    ],
    [
     "2025-2026-bahar",
@@ -4219,7 +4198,7 @@
     "TEK 467E",
     "Synthetic \u0026Textured Yarn Prod.",
     30,
-    11
+    12
    ],
    [
     "2026-2027-guz",
@@ -4302,7 +4281,7 @@
     "MTO 353",
     "Tarım ve Orman Meteorolojisi I",
     15,
-    11
+    13
    ],
    [
     "2026-2027-guz",
@@ -4720,21 +4699,21 @@
     "DFH 228",
     "Denizcilik Psikolojisi",
     65,
-    60
+    62
    ],
    [
     "2026-2027-guz",
     "DFH 212E",
     "Human Resources Management in Maritime",
     40,
-    18
+    19
    ],
    [
     "2026-2027-guz",
     "DUM 520",
     "Deniz Ulaş.Örgütsel Psikoloji",
     20,
-    10
+    11
    ],
    [
     "2026-2027-guz",
@@ -4762,7 +4741,7 @@
     "ITB 151E",
     "Human Resources and Management",
     80,
-    58
+    59
    ],
    [
     "2025-2026-bahar",
@@ -5556,7 +5535,7 @@
     "CBM 559",
     "Su Yönetimi",
     30,
-    6
+    7
    ]
   ],
   "terms": 1

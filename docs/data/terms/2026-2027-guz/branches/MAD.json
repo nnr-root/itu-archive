@@ -20,7 +20,7 @@
    "A105"
   ],
   "capacity": 70,
-  "enrolled": 54,
+  "enrolled": 55,
   "reserved": "-",
   "programs": [
    "MAD_LS"
@@ -49,7 +49,7 @@
    "B208"
   ],
   "capacity": 80,
-  "enrolled": 40,
+  "enrolled": 41,
   "reserved": "-",
   "programs": [
    "MAD_LS"
@@ -78,7 +78,7 @@
    "B206"
   ],
   "capacity": 65,
-  "enrolled": 60,
+  "enrolled": 61,
   "reserved": "-",
   "programs": [
    "MAD_LS"
@@ -136,7 +136,7 @@
    "B207"
   ],
   "capacity": 45,
-  "enrolled": 40,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -166,7 +166,7 @@
    "B206"
   ],
   "capacity": 75,
-  "enrolled": 39,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -196,7 +196,7 @@
    "A101"
   ],
   "capacity": 85,
-  "enrolled": 59,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -226,7 +226,7 @@
    "B208"
   ],
   "capacity": 80,
-  "enrolled": 57,
+  "enrolled": 58,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -377,8 +377,8 @@
   "rooms": [
    "A203"
   ],
-  "capacity": 35,
-  "enrolled": 36,
+  "capacity": 38,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -408,7 +408,7 @@
    "B208"
   ],
   "capacity": 35,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -468,7 +468,7 @@
    "A201"
   ],
   "capacity": 65,
-  "enrolled": 64,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -627,7 +627,7 @@
    "B206"
   ],
   "capacity": 60,
-  "enrolled": 52,
+  "enrolled": 54,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -657,7 +657,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 7,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -873,7 +873,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 8,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1152,7 +1152,7 @@
    "B204"
   ],
   "capacity": 30,
-  "enrolled": 8,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "MAD_LS",

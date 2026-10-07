@@ -495,7 +495,7 @@
    "5104"
   ],
   "capacity": 130,
-  "enrolled": 74,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -524,7 +524,7 @@
    "4104"
   ],
   "capacity": 70,
-  "enrolled": 67,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "ELK_LS",
@@ -627,7 +627,7 @@
    "5105"
   ],
   "capacity": 40,
-  "enrolled": 23,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -666,7 +666,7 @@
    "5107"
   ],
   "capacity": 45,
-  "enrolled": 41,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -705,7 +705,7 @@
    "5305"
   ],
   "capacity": 50,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "CHZE_LS",
@@ -781,7 +781,7 @@
    "5307"
   ],
   "capacity": 60,
-  "enrolled": 59,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -840,7 +840,7 @@
    "5203"
   ],
   "capacity": 60,
-  "enrolled": 50,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "ELK_LS",
@@ -870,7 +870,7 @@
    "5305"
   ],
   "capacity": 50,
-  "enrolled": 49,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -1028,7 +1028,7 @@
    "5105"
   ],
   "capacity": 60,
-  "enrolled": 49,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1065,7 +1065,7 @@
    "5101"
   ],
   "capacity": 65,
-  "enrolled": 65,
+  "enrolled": 63,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1258,7 +1258,7 @@
    "5307"
   ],
   "capacity": 50,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "ELK_LS",
@@ -1441,7 +1441,7 @@
    "5303"
   ],
   "capacity": 60,
-  "enrolled": 52,
+  "enrolled": 55,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -1470,7 +1470,7 @@
    "5307"
   ],
   "capacity": 70,
-  "enrolled": 67,
+  "enrolled": 68,
   "reserved": "-",
   "programs": [
    "ELK_LS",
@@ -1677,7 +1677,7 @@
    "5301"
   ],
   "capacity": 55,
-  "enrolled": 51,
+  "enrolled": 52,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -1764,7 +1764,7 @@
    "5307"
   ],
   "capacity": 16,
-  "enrolled": 15,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -1848,7 +1848,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 86,
+  "enrolled": 85,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -2678,5 +2678,68 @@
   "programs": [],
   "prereq": "Detay",
   "classReq": "-"
+ },
+ {
+  "crn": "15999",
+  "code": "ELK 312",
+  "branch": "ELK",
+  "level": "LS",
+  "name": "Yüksek Gerilim Tekniği",
+  "method": "Ek Sınav",
+  "instructor": "Suat İlhan",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "16006",
+  "code": "ELK 453E",
+  "branch": "ELK",
+  "level": "LS",
+  "name": "Ind. Appl. of Power Electron.",
+  "method": "Ek Sınav",
+  "instructor": "Salih Barış Öztürk",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16007",
+  "code": "ELK 474E",
+  "branch": "ELK",
+  "level": "LS",
+  "name": "Power Syst. Contr. & Commun.",
+  "method": "Ek Sınav",
+  "instructor": "Cavit Fatih Küçüktezcan",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "Detay"
  }
 ]

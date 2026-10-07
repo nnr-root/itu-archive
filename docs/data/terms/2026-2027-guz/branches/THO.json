@@ -200,7 +200,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "THO_LS"
@@ -262,7 +262,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "THO_LS"
@@ -399,105 +399,6 @@
   "classReq": "-"
  },
  {
-  "crn": "11654",
-  "code": "THO 317",
-  "branch": "THO",
-  "level": "LS",
-  "name": "Sahne Projesi I (Kredisiz)",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Salim Sınar",
-  "buildings": [
-   "TMB",
-   "TMB"
-  ],
-  "days": [
-   "Perşembe",
-   "Perşembe"
-  ],
-  "times": [
-   "13:30/15:29",
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--",
-   "--"
-  ],
-  "capacity": 5,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "THO_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11655",
-  "code": "THO 317",
-  "branch": "THO",
-  "level": "LS",
-  "name": "Sahne Projesi I (Kredisiz)",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Cenap Güngör",
-  "buildings": [
-   "TMB",
-   "TMB"
-  ],
-  "days": [
-   "Perşembe",
-   "Perşembe"
-  ],
-  "times": [
-   "13:30/15:29",
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--",
-   "--"
-  ],
-  "capacity": 5,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "THO_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11656",
-  "code": "THO 317",
-  "branch": "THO",
-  "level": "LS",
-  "name": "Sahne Projesi I (Kredisiz)",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Levent Ketenci",
-  "buildings": [
-   "TMB",
-   "TMB"
-  ],
-  "days": [
-   "Perşembe",
-   "Perşembe"
-  ],
-  "times": [
-   "13:30/15:29",
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "--",
-   "--"
-  ],
-  "capacity": 5,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "THO_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "11657",
   "code": "THO 305",
   "branch": "THO",
@@ -522,40 +423,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 4,
-  "reserved": "-",
-  "programs": [
-   "THO_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11658",
-  "code": "THO 427",
-  "branch": "THO",
-  "level": "LS",
-  "name": "Horon Oyun Repertuvarı I",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Aydın Balcı",
-  "buildings": [
-   "TMB",
-   "TMB"
-  ],
-  "days": [
-   "Salı",
-   "Perşembe"
-  ],
-  "times": [
-   "10:30/12:29",
-   "10:30/12:29"
-  ],
-  "rooms": [
-   "--",
-   "--"
-  ],
-  "capacity": 10,
-  "enrolled": 1,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [
    "THO_LS"
@@ -584,7 +452,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 1,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "THO_LS"
@@ -613,7 +481,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 3,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "THO_LS"
@@ -646,7 +514,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 5,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "THO_LS"
@@ -712,7 +580,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 9,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "THO_LS"
@@ -745,7 +613,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 4,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "THO_LS"
@@ -778,7 +646,7 @@
    "--"
   ],
   "capacity": 10,
-  "enrolled": 1,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "THO_LS"
@@ -845,39 +713,6 @@
   ],
   "capacity": 10,
   "enrolled": 2,
-  "reserved": "-",
-  "programs": [
-   "THO_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11668",
-  "code": "THO 421",
-  "branch": "THO",
-  "level": "LS",
-  "name": "Azeri Oyun Repertuvarı I",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Salim Sınar",
-  "buildings": [
-   "TMB",
-   "TMB"
-  ],
-  "days": [
-   "Salı",
-   "Perşembe"
-  ],
-  "times": [
-   "10:30/12:29",
-   "10:30/12:29"
-  ],
-  "rooms": [
-   "--",
-   "--"
-  ],
-  "capacity": 10,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "THO_LS"
@@ -981,39 +816,6 @@
   "classReq": "-"
  },
  {
-  "crn": "11672",
-  "code": "THO 431",
-  "branch": "THO",
-  "level": "LS",
-  "name": "Kaşıklı Oyunlar I",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Funda Bozkurt Saygı",
-  "buildings": [
-   "TMB",
-   "TMB"
-  ],
-  "days": [
-   "Pazartesi",
-   "Salı"
-  ],
-  "times": [
-   "15:30/17:29",
-   "08:30/10:29"
-  ],
-  "rooms": [
-   "--",
-   "--"
-  ],
-  "capacity": 10,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "THO_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "11674",
   "code": "THO 409",
   "branch": "THO",
@@ -1034,69 +836,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 2,
-  "reserved": "-",
-  "programs": [
-   "THO_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11675",
-  "code": "THO 413",
-  "branch": "THO",
-  "level": "LS",
-  "name": "Jest-Mimik",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Serpil Murtezaoğlu",
-  "buildings": [
-   "TMB",
-   "TMB"
-  ],
-  "days": [
-   "Pazartesi",
-   "Salı"
-  ],
-  "times": [
-   "08:30/09:29",
-   "13:30/15:29"
-  ],
-  "rooms": [
-   "--",
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "THO_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11676",
-  "code": "THO 411",
-  "branch": "THO",
-  "level": "LS",
-  "name": "Geleneksel Giyim Kuşam I",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "İlknur Bektaş",
-  "buildings": [
-   "TMB"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "08:30/10:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "THO_LS"
@@ -1129,7 +869,7 @@
    "--"
   ],
   "capacity": 10,
-  "enrolled": 1,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "THO_LS"
@@ -1158,7 +898,7 @@
    "--"
   ],
   "capacity": 10,
-  "enrolled": 2,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "THO_LS"

@@ -147,7 +147,7 @@
    "5304"
   ],
   "capacity": 78,
-  "enrolled": 77,
+  "enrolled": 78,
   "reserved": "-",
   "programs": [
    "KOM_LS",
@@ -317,8 +317,8 @@
    "2102"
   ],
   "capacity": 70,
-  "enrolled": 70,
-  "reserved": "EEE_LS/5/5 | Diğer/65/65",
+  "enrolled": 69,
+  "reserved": "EEE_LS/5/5 | Diğer/65/64",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -464,8 +464,8 @@
    "5207"
   ],
   "capacity": 50,
-  "enrolled": 42,
-  "reserved": "EHB_LS/2/0 | EHBE_LS/3/0 | Diğer/45/42",
+  "enrolled": 44,
+  "reserved": "EHB_LS/2/1 | EHBE_LS/3/0 | Diğer/45/43",
   "programs": [
    "EHB_LS",
    "EHBE_LS",
@@ -709,8 +709,8 @@
    "5207"
   ],
   "capacity": 50,
-  "enrolled": 26,
-  "reserved": "UCK_LS/5/0 | Diğer/45/26",
+  "enrolled": 27,
+  "reserved": "UCK_LS/5/0 | Diğer/45/27",
   "programs": [
    "KOM_LS",
    "KOME_LS",
@@ -774,7 +774,7 @@
    "5203"
   ],
   "capacity": 62,
-  "enrolled": 60,
+  "enrolled": 62,
   "reserved": "-",
   "programs": [
    "KOM_LS",
@@ -806,7 +806,7 @@
    "5201"
   ],
   "capacity": 60,
-  "enrolled": 51,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "KOM_LS",
@@ -900,7 +900,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "KOM_LS",
@@ -1123,7 +1123,7 @@
    "2102"
   ],
   "capacity": 75,
-  "enrolled": 72,
+  "enrolled": 73,
   "reserved": "-",
   "programs": [
    "KOM_LS",
@@ -1185,8 +1185,8 @@
    "5105"
   ],
   "capacity": 50,
-  "enrolled": 46,
-  "reserved": "EEE_LS/5/1 | Diğer/45/45",
+  "enrolled": 47,
+  "reserved": "EEE_LS/5/1 | Diğer/45/46",
   "programs": [
    "EEE_LS",
    "KOM_LS",
@@ -1217,8 +1217,8 @@
    "5103"
   ],
   "capacity": 65,
-  "enrolled": 59,
-  "reserved": "EEE_LS/7/7 | MAK_LS/2/0 | MAKE_LS/3/0 | Diğer/53/52",
+  "enrolled": 61,
+  "reserved": "EEE_LS/7/7 | MAK_LS/2/0 | MAKE_LS/3/0 | Diğer/53/54",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -1292,8 +1292,8 @@
    "4102"
   ],
   "capacity": 70,
-  "enrolled": 62,
-  "reserved": "EEE_LS/5/1 | Diğer/65/61",
+  "enrolled": 60,
+  "reserved": "EEE_LS/5/1 | Diğer/65/59",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -1517,6 +1517,132 @@
   "name": "Industrial Automation",
   "method": "Ek Sınav",
   "instructor": "Yaprak Yalçın",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16000",
+  "code": "KON 314",
+  "branch": "KON",
+  "level": "LS",
+  "name": "Kontrol Sistem Tasarımı",
+  "method": "Ek Sınav",
+  "instructor": "Mehmet Turan Söylemez",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16001",
+  "code": "KON 419E",
+  "branch": "KON",
+  "level": "LS",
+  "name": "Control Sys. Dsgn. Project",
+  "method": "Ek Sınav",
+  "instructor": "Ali Fuat Ergenç",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "16002",
+  "code": "KON 422",
+  "branch": "KON",
+  "level": "LS",
+  "name": "Elektrikli Ulaşım Sistemleri",
+  "method": "Ek Sınav",
+  "instructor": "Yaprak Yalçın",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "16003",
+  "code": "KON 424E",
+  "branch": "KON",
+  "level": "LS",
+  "name": "Mod.&Cntrl of Biological Sys.",
+  "method": "Ek Sınav",
+  "instructor": "Emre Dincel",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16004",
+  "code": "KON 324E",
+  "branch": "KON",
+  "level": "LS",
+  "name": "Sensors&Transducers in Contr.",
+  "method": "Ek Sınav",
+  "instructor": "Ali Fuat Ergenç",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "16005",
+  "code": "KON 421",
+  "branch": "KON",
+  "level": "LS",
+  "name": "Robot Kontrolü",
+  "method": "Ek Sınav",
+  "instructor": "Sıddık Murat Yeşiloğlu",
   "buildings": [],
   "days": [],
   "times": [

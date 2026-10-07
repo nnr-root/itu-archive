@@ -557,7 +557,7 @@
     "BBL 502E",
     "Software Modeling and Design",
     40,
-    13
+    14
    ],
    [
     "2026-2027-guz",
@@ -1015,7 +1015,7 @@
     "BBF 302E",
     "Database Systems",
     80,
-    49
+    51
    ],
    [
     "2026-2027-guz",
@@ -1257,7 +1257,7 @@
     "TUR 121",
     "Türk Dili I",
     75,
-    77
+    76
    ],
    [
     "2026-2027-guz",
@@ -1285,7 +1285,7 @@
     "TUR 121",
     "Türk Dili I",
     75,
-    74
+    75
    ],
    [
     "2026-2027-guz",
@@ -1634,7 +1634,7 @@
     "MAD 111",
     "Maden Müh Giriş",
     75,
-    39
+    42
    ],
    [
     "2026-2027-guz",
@@ -1920,7 +1920,7 @@
     "DNK 201",
     "Dinamik",
     45,
-    27
+    28
    ],
    [
     "2026-2027-guz",
@@ -2476,7 +2476,7 @@
     "END 449",
     "End. Müh. Uyg. Seminer Dersi",
     300,
-    196
+    197
    ]
   ],
   "terms": 1
@@ -2543,14 +2543,14 @@
     "FIZ 101EL",
     "Physics I Laboratory",
     27,
-    28
+    29
    ],
    [
     "2026-2027-guz",
     "FIZ 101EL",
     "Physics I Laboratory",
     30,
-    25
+    26
    ],
    [
     "2026-2027-guz",
@@ -2571,7 +2571,7 @@
     "FIZ 102EL",
     "Physics II Laboratory",
     0,
-    1
+    2
    ],
    [
     "2025-2026-bahar",
@@ -2787,7 +2787,7 @@
     "ROS 301E",
     "Programming Techniques for Robotics",
     50,
-    8
+    7
    ],
    [
     "2025-2026-bahar",
@@ -2891,7 +2891,7 @@
     "MIA 596E",
     "Scien.Research, Ethic\u0026Seminar",
     0,
-    0
+    15
    ],
    [
     "2024-2025-bahar",
@@ -3279,7 +3279,7 @@
     "GIT 501",
     "Konumsal Matematik Yöntemler",
     25,
-    7
+    8
    ],
    [
     "2025-2026-bahar",
@@ -3460,7 +3460,7 @@
     "MAK 198",
     "Atölye: İşSağ.\u0026Güv. Mak.Elema.",
     200,
-    181
+    182
    ],
    [
     "2026-2027-guz",
@@ -3468,6 +3468,13 @@
     "Transport Tekniği",
     40,
     17
+   ],
+   [
+    "2026-2027-guz",
+    "MAK 200",
+    "Atölye",
+    10,
+    0
    ],
    [
     "2026-2027-guz",
@@ -4279,7 +4286,7 @@
     "MAK 4012",
     "Mekanik Sistemlerin Sayısal Analizi",
     40,
-    37
+    40
    ],
    [
     "2025-2026-yaz",
@@ -5637,20 +5644,6 @@
   "rows": [
    [
     "2026-2027-guz",
-    "CAB 107",
-    "Bağlama I",
-    5,
-    0
-   ],
-   [
-    "2026-2027-guz",
-    "CAB 407",
-    "Bağlama VII",
-    5,
-    0
-   ],
-   [
-    "2026-2027-guz",
     "CAB 157",
     "Bağlama I",
     5,
@@ -5662,13 +5655,6 @@
     "Bağlama III",
     5,
     5
-   ],
-   [
-    "2026-2027-guz",
-    "CAB 357",
-    "Bağlama V",
-    5,
-    0
    ],
    [
     "2026-2027-guz",
@@ -6087,7 +6073,7 @@
     "MAK 231",
     "Termodinamik I",
     60,
-    46
+    47
    ],
    [
     "2025-2026-bahar",
@@ -6155,7 +6141,7 @@
     "ISL 353E",
     "Marketing",
     80,
-    75
+    76
    ],
    [
     "2025-2026-bahar",
@@ -6472,7 +6458,7 @@
     "KMM 465",
     "Çevre Kimyası ve Teknolojisi",
     20,
-    3
+    2
    ],
    [
     "2025-2026-bahar",
@@ -6688,7 +6674,7 @@
     "FIZ 101",
     "Fizik I",
     120,
-    110
+    114
    ],
    [
     "2026-2027-guz",
@@ -6702,7 +6688,7 @@
     "FIZ 101EL",
     "Physics I Laboratory",
     30,
-    29
+    30
    ],
    [
     "2026-2027-guz",
@@ -6736,7 +6722,7 @@
     "ISL 244E",
     "Macroeconomics",
     60,
-    31
+    33
    ],
    [
     "2026-2027-guz",
@@ -7479,7 +7465,7 @@
     "BBF 302E",
     "Database Systems",
     80,
-    74
+    77
    ],
    [
     "2026-2027-guz",
@@ -7779,7 +7765,7 @@
     "MAT 471E",
     "Financial Mathematics",
     60,
-    38
+    39
    ],
    [
     "2025-2026-bahar",
@@ -7974,7 +7960,7 @@
     "MTO 101",
     "Meteoroloji Müh. Giriş ve Etik",
     70,
-    51
+    53
    ],
    [
     "2026-2027-guz",
@@ -8484,7 +8470,7 @@
     "EBT 515",
     "Nükleer Mühendisliğin Esasları",
     30,
-    7
+    8
    ],
    [
     "2026-2027-guz",
@@ -8546,7 +8532,7 @@
     "ICM 349E",
     "Interior Arch.Design Studio II",
     15,
-    11
+    12
    ],
    [
     "2026-2027-guz",
@@ -8769,7 +8755,7 @@
     "GEM 513",
     "Gemi Yapı Analizi",
     30,
-    11
+    12
    ],
    [
     "2026-2027-guz",
@@ -9418,7 +9404,7 @@
     "ISS 534E",
     "Financial Markets\u0026Instutions",
     25,
-    18
+    21
    ],
    [
     "2026-2027-guz",
@@ -9633,14 +9619,14 @@
     "INS 111",
     "İnşaat Müh. Giriş ve Etik",
     250,
-    134
+    135
    ],
    [
     "2026-2027-guz",
     "INS 111E",
     "Int. to Civil Eng. \u0026 Ethics",
     250,
-    77
+    79
    ],
    [
     "2025-2026-yaz",
@@ -10099,7 +10085,7 @@
     "GEM 451E",
     "Automatic Control of Ships",
     30,
-    11
+    10
    ],
    [
     "2025-2026-bahar",
@@ -10426,7 +10412,7 @@
     "EEF 281",
     "Lineer Cebir ve Uygulamaları",
     100,
-    96
+    98
    ],
    [
     "2025-2026-bahar",
@@ -10635,7 +10621,7 @@
     "ENT 446E",
     "Multimedia Design Studio",
     30,
-    31
+    30
    ],
    [
     "2026-2027-guz",
@@ -11324,7 +11310,7 @@
     "FIZ 101EL",
     "Physics I Laboratory",
     27,
-    26
+    27
    ],
    [
     "2026-2027-guz",
@@ -11359,7 +11345,7 @@
     "FIZ 4901E",
     "Physics Engeering Design I",
     500,
-    18
+    19
    ],
    [
     "2026-2027-guz",
@@ -11666,7 +11652,7 @@
     "DFH 202E",
     "Ship Emergency Response",
     45,
-    40
+    41
    ],
    [
     "2026-2027-guz",
@@ -11749,7 +11735,7 @@
     "JEO 303E",
     "Introduction to Geophysics",
     60,
-    40
+    39
    ],
    [
     "2025-2026-bahar",
@@ -11887,7 +11873,7 @@
     "KON 309E",
     "Microcontroller Systems",
     78,
-    77
+    78
    ],
    [
     "2026-2027-guz",
@@ -11908,7 +11894,7 @@
     "KON 403",
     "Kontrol Lab.",
     20,
-    20
+    21
    ],
    [
     "2026-2027-guz",
@@ -12797,14 +12783,14 @@
     "MUT 363",
     "Serbest Proje Çalışması I",
     5,
-    2
+    3
    ],
    [
     "2026-2027-guz",
     "MUT 361",
     "Çalgı Bilgisi I",
     15,
-    5
+    6
    ],
    [
     "2026-2027-guz",
@@ -14290,7 +14276,7 @@
     "BIL 112E",
     "Intr.to Prog.Language(FORTRAN)",
     20,
-    19
+    20
    ],
    [
     "2026-2027-guz",
@@ -15064,7 +15050,7 @@
     "MAK 410",
     "Mekanik Sistemlerin Matematik Modellemesi",
     100,
-    93
+    95
    ],
    [
     "2026-2027-guz",
@@ -15433,7 +15419,7 @@
     "DUI 231E",
     "Marine Communication",
     40,
-    46
+    47
    ],
    [
     "2026-2027-guz",
@@ -16054,7 +16040,7 @@
     "MKC 517E",
     "Special Topi.in Solid Mechan.",
     0,
-    0
+    5
    ],
    [
     "2025-2026-bahar",
@@ -16233,7 +16219,7 @@
     "EHB 324E",
     "Logic Design Lab.",
     30,
-    29
+    30
    ],
    [
     "2026-2027-guz",
@@ -17117,13 +17103,6 @@
   "rows": [
    [
     "2026-2027-guz",
-    "CAB 131",
-    "Keman I",
-    5,
-    2
-   ],
-   [
-    "2026-2027-guz",
     "CAB 1101",
     "Keman I",
     5,
@@ -17460,7 +17439,7 @@
     "TEK 467E",
     "Synthetic \u0026Textured Yarn Prod.",
     30,
-    11
+    12
    ],
    [
     "2026-2027-guz",
@@ -17920,7 +17899,7 @@
     "MTO 337",
     "Atmosfer Dinamiği I",
     30,
-    27
+    29
    ],
    [
     "2026-2027-guz",
@@ -18543,7 +18522,7 @@
     "CBM 535",
     "Çevre Bil.\u0026Müh.Özel Konu.",
     30,
-    21
+    22
    ],
    [
     "2026-2027-guz",
@@ -18864,7 +18843,21 @@
     "KON 218E",
     "Measurement and Sensors",
     70,
-    62
+    60
+   ],
+   [
+    "2026-2027-guz",
+    "KON 419E",
+    "Control Sys. Dsgn. Project",
+    0,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "KON 324E",
+    "Sensors\u0026Transducers in Contr.",
+    0,
+    0
    ],
    [
     "2025-2026-bahar",
@@ -21137,14 +21130,14 @@
     "MEK 205E",
     "Engineering Mechanics",
     50,
-    28
+    29
    ],
    [
     "2026-2027-guz",
     "MEK 205E",
     "Engineering Mechanics",
     50,
-    31
+    32
    ],
    [
     "2026-2027-guz",
@@ -21964,7 +21957,7 @@
     "MAT 104E",
     "Mathematics II",
     80,
-    76
+    79
    ],
    [
     "2025-2026-bahar",
@@ -23309,7 +23302,7 @@
     "MAD 361",
     "Maden Yatakları",
     65,
-    60
+    61
    ],
    [
     "2025-2026-bahar",
@@ -23338,13 +23331,6 @@
  "Ali Tüfekçi": {
   "name": "Ali Tüfekçi",
   "rows": [
-   [
-    "2026-2027-guz",
-    "CAB 113",
-    "Ney I",
-    5,
-    0
-   ],
    [
     "2026-2027-guz",
     "CAB 213",
@@ -23600,7 +23586,7 @@
     "EHB 235",
     "Kompleks Fonk Teorisi",
     95,
-    93
+    92
    ],
    [
     "2026-2027-guz",
@@ -25197,7 +25183,7 @@
     "MTR 121",
     "Makam Teorisi I",
     40,
-    38
+    39
    ],
    [
     "2026-2027-guz",
@@ -25239,14 +25225,14 @@
     "MTR 142",
     "Makam Teorisi II",
     0,
-    0
+    1
    ],
    [
     "2026-2027-guz",
     "MTR 242",
     "Makam Teorisi IV",
     0,
-    0
+    1
    ],
    [
     "2025-2026-bahar",
@@ -25378,7 +25364,7 @@
     "MAK 317",
     "Makine Mühendisleri İçin Mühendislik Ekonomisi",
     175,
-    173
+    174
    ],
    [
     "2025-2026-yaz",
@@ -26227,7 +26213,7 @@
     "UZB 103E",
     "Introduction to Astronautical Engineering and Ethics",
     50,
-    26
+    29
    ],
    [
     "2026-2027-guz",
@@ -27406,7 +27392,7 @@
     "SBP 119E",
     "Int.to Urb.\u0026Regio.Plann.\u0026Ethic",
     80,
-    78
+    80
    ],
    [
     "2026-2027-guz",
@@ -27524,7 +27510,7 @@
     "JEO 487",
     "Magmatik Petroloji",
     30,
-    8
+    9
    ],
    [
     "2026-2027-guz",
@@ -28138,7 +28124,7 @@
     "CEV 242",
     "Çevre Müh. İçin Hidroloji",
     80,
-    65
+    66
    ],
    [
     "2026-2027-guz",
@@ -28648,7 +28634,7 @@
     "BLG 463E",
     "Innov. Leadership in Comp.Eng.",
     40,
-    22
+    23
    ],
    [
     "2025-2026-bahar",
@@ -29220,7 +29206,7 @@
     "PAZ 101",
     "Fundamentals of Textiles",
     40,
-    21
+    22
    ],
    [
     "2026-2027-guz",
@@ -29478,7 +29464,7 @@
     "CAB 443",
     "Yrd.Çalgı Piyano VII",
     15,
-    8
+    9
    ],
    [
     "2026-2027-guz",
@@ -30541,14 +30527,14 @@
     "KMM 492",
     "Bitirme Çalışması",
     6,
-    1
+    2
    ],
    [
     "2026-2027-guz",
     "KMM 431",
     "Kimya Mühendisliği Tasarımı I",
     0,
-    0
+    1
    ],
    [
     "2025-2026-bahar",
@@ -30694,7 +30680,7 @@
     "MAK 202E",
     "Numerical Meth.for Mech. Eng.",
     70,
-    67
+    68
    ],
    [
     "2026-2027-guz",
@@ -31086,7 +31072,7 @@
     "YAP 617E",
     "Nonliear Behav.Renf.Conc.Mem.",
     20,
-    18
+    19
    ],
    [
     "2025-2026-bahar",
@@ -31378,14 +31364,14 @@
     "STP 506",
     "Savunma Teknolojilerinde Özel Konular",
     20,
-    7
+    8
    ],
    [
     "2026-2027-guz",
     "STP 596",
     "Bilimsel Araş.,Etik ve Seminer",
     20,
-    15
+    16
    ]
   ],
   "terms": 1
@@ -31439,14 +31425,14 @@
     "KIM 101",
     "Genel Kimya I",
     88,
-    84
+    87
    ],
    [
     "2026-2027-guz",
     "KIM 101EL",
     "General Chemistry I Lab",
     40,
-    40
+    41
    ],
    [
     "2026-2027-guz",
@@ -31717,7 +31703,7 @@
     "KMM 412",
     "Kimyasal Teknolojiler",
     100,
-    93
+    94
    ],
    [
     "2026-2027-guz",
@@ -32393,7 +32379,7 @@
     "DUI 402E",
     "Maritime Law II",
     20,
-    0
+    19
    ],
    [
     "2026-2027-guz",
@@ -32462,7 +32448,7 @@
     "EHB 208E",
     "Data Structures \u0026 Programming",
     70,
-    62
+    63
    ]
   ],
   "terms": 1
@@ -32475,7 +32461,7 @@
     "KIM 101E",
     "General Chemistry I",
     90,
-    83
+    87
    ],
    [
     "2026-2027-guz",
@@ -32759,7 +32745,7 @@
     "KIM 512E",
     "NMR Theo.\u0026App.in Org.Chem.",
     20,
-    19
+    20
    ]
   ],
   "terms": 1
@@ -32772,14 +32758,14 @@
     "HUK 201",
     "İş Hukuku",
     100,
-    80
+    81
    ],
    [
     "2026-2027-guz",
     "HUK 213",
     "İş Sağlığı ve Güvenliği Hukuku",
     100,
-    71
+    73
    ],
    [
     "2026-2027-guz",
@@ -32793,7 +32779,7 @@
     "ISL 364E",
     "Business Law",
     80,
-    62
+    63
    ],
    [
     "2025-2026-bahar",
@@ -33099,7 +33085,7 @@
     "PEM 119E",
     "Int.Landscape Architec.\u0026Ethics",
     100,
-    42
+    44
    ],
    [
     "2026-2027-guz",
@@ -33196,7 +33182,7 @@
     "MIM 4072E",
     "Architecture,Cities and Cinema",
     32,
-    37
+    38
    ],
    [
     "2025-2026-bahar",
@@ -34387,7 +34373,7 @@
     "ITB 224E",
     "Environment and Society",
     35,
-    28
+    27
    ],
    [
     "2025-2026-bahar",
@@ -34595,7 +34581,7 @@
     "TUR 121",
     "Türk Dili I",
     75,
-    76
+    75
    ],
    [
     "2026-2027-guz",
@@ -35649,7 +35635,7 @@
     "MAT 271E",
     "Probability and Statistics",
     50,
-    12
+    13
    ],
    [
     "2026-2027-guz",
@@ -35663,7 +35649,7 @@
     "TEK 345E",
     "Clothing Technology",
     45,
-    41
+    42
    ],
    [
     "2026-2027-guz",
@@ -35892,7 +35878,7 @@
     "INS 303E",
     "Soil Mechanics I",
     35,
-    35
+    36
    ],
    [
     "2026-2027-guz",
@@ -36729,7 +36715,7 @@
     "ITB 020",
     "Modernitenin Oluşumu",
     35,
-    32
+    35
    ],
    [
     "2026-2027-guz",
@@ -37042,7 +37028,7 @@
     "ING 201A",
     "Essentials of Res.Paper Writ.",
     25,
-    23
+    24
    ],
    [
     "2025-2026-bahar",
@@ -37698,7 +37684,7 @@
     "BIL 113E",
     "Intr.to Sci\u0026 Eng.Comp.(MATLAB)",
     50,
-    46
+    45
    ],
    [
     "2026-2027-guz",
@@ -37719,7 +37705,7 @@
     "GMI 132E",
     "Numerical Analy. of Eng.Syst.",
     5,
-    0
+    7
    ],
    [
     "2026-2027-guz",
@@ -38733,7 +38719,7 @@
     "MAK 612E",
     "Adv.Finite Elem. Analy.in S.M.",
     30,
-    33
+    32
    ],
    [
     "2025-2026-bahar",
@@ -39380,7 +39366,7 @@
     "MAD 232",
     "Açık İşletmeler",
     85,
-    59
+    60
    ],
    [
     "2026-2027-guz",
@@ -39831,7 +39817,7 @@
     "MUZ 486",
     "Müzik Pedagojisine Giriş",
     25,
-    7
+    8
    ],
    [
     "2026-2027-guz",
@@ -40508,7 +40494,7 @@
     "END 339",
     "Proje Yönetimi",
     50,
-    49
+    50
    ],
    [
     "2026-2027-guz",
@@ -40543,7 +40529,7 @@
     "MHY YLT",
     "Tez Çalışması",
     200,
-    13
+    14
    ],
    [
     "2025-2026-bahar",
@@ -41444,14 +41430,7 @@
     "THO 305",
     "Oyunda Yöresel Tavırlar III",
     20,
-    4
-   ],
-   [
-    "2026-2027-guz",
-    "THO 427",
-    "Horon Oyun Repertuvarı I",
-    10,
-    1
+    5
    ],
    [
     "2026-2027-guz",
@@ -41786,7 +41765,7 @@
     "BIL 113E",
     "Intr.to Sci\u0026 Eng.Comp.(MATLAB)",
     50,
-    48
+    49
    ],
    [
     "2026-2027-guz",
@@ -41800,7 +41779,7 @@
     "BIL 113E",
     "Intr.to Sci\u0026 Eng.Comp.(MATLAB)",
     50,
-    13
+    14
    ],
    [
     "2026-2027-guz",
@@ -42072,14 +42051,14 @@
     "UUM 621E",
     "Adv.Problems in Compres.Flow",
     20,
-    16
+    18
    ],
    [
     "2026-2027-guz",
     "UZB 310E",
     "Compressible Aerodynamics",
     60,
-    47
+    48
    ],
    [
     "2025-2026-bahar",
@@ -42955,7 +42934,7 @@
     "CHZ 348E",
     "Bulk Materials Handling",
     75,
-    71
+    72
    ],
    [
     "2025-2026-bahar",
@@ -43303,7 +43282,7 @@
     "KMP 199",
     "Çalgılama",
     25,
-    12
+    13
    ],
    [
     "2026-2027-guz",
@@ -43331,7 +43310,7 @@
     "KMP 198",
     "Konturpuan-Füg II",
     10,
-    2
+    3
    ],
    [
     "2025-2026-bahar",
@@ -44366,7 +44345,7 @@
     "MAK 312",
     "Ölçme Değerlendirme",
     10,
-    9
+    10
    ],
    [
     "2026-2027-guz",
@@ -44540,7 +44519,7 @@
     "DEN 101",
     "Gemi\u0026Deniz Tek.Müh.Giriş\u0026Etik",
     90,
-    69
+    70
    ],
    [
     "2026-2027-guz",
@@ -44882,7 +44861,7 @@
     "UUM 527E",
     "Rotorcraft Design I",
     40,
-    26
+    27
    ]
   ],
   "terms": 1
@@ -45137,14 +45116,14 @@
     "BEB 104",
     "Tenis Teknik ve Taktik Eğitim",
     12,
-    11
+    12
    ],
    [
     "2026-2027-guz",
     "BEB 104",
     "Tenis Teknik ve Taktik Eğitim",
     12,
-    11
+    12
    ],
    [
     "2026-2027-guz",
@@ -46072,7 +46051,7 @@
     "GEO 458E",
     "City Planning",
     95,
-    93
+    94
    ],
    [
     "2026-2027-guz",
@@ -46176,7 +46155,7 @@
     "EUT 561E",
     "Design Thinking",
     25,
-    20
+    21
    ],
    [
     "2026-2027-guz",
@@ -46572,14 +46551,14 @@
     "MAT 202E",
     "Numerical Methods",
     60,
-    29
+    30
    ],
    [
     "2026-2027-guz",
     "UUM 508E",
     "Finite Element Analy.in Struc.",
     40,
-    17
+    18
    ],
    [
     "2025-2026-yaz",
@@ -46878,7 +46857,7 @@
     "MET 455",
     "Malzeme Proses Lab.",
     90,
-    80
+    81
    ],
    [
     "2026-2027-guz",
@@ -46899,7 +46878,7 @@
     "UMT 511E",
     "Transport Phenomena in Metal.",
     25,
-    7
+    8
    ],
    [
     "2025-2026-bahar",
@@ -47534,7 +47513,7 @@
     "MBG 632E",
     "Guided Research",
     30,
-    5
+    6
    ],
    [
     "2025-2026-bahar",
@@ -48376,14 +48355,14 @@
     "ISL 437E",
     "Mod.Cross sect. \u0026 Panel Data",
     20,
-    1
+    0
    ],
    [
     "2026-2027-guz",
     "ISS 596",
     "Bilimsel Araş.,Etik ve Seminer",
     30,
-    25
+    26
    ],
    [
     "2026-2027-guz",
@@ -48800,7 +48779,7 @@
     "KMM 438",
     "İlaç Hammaddeleri Üretimi",
     20,
-    24
+    25
    ],
    [
     "2026-2027-guz",
@@ -49063,7 +49042,7 @@
     "END 341",
     "İş Etüdü ve Dizaynı",
     80,
-    66
+    65
    ],
    [
     "2026-2027-guz",
@@ -50277,7 +50256,7 @@
     "NSE 603E",
     "Radiation Proc.for Nanomateris",
     20,
-    5
+    4
    ]
   ],
   "terms": 1
@@ -50290,7 +50269,7 @@
     "GEO 608",
     "Radar ve Mikrodalga İle Uz.Alg",
     30,
-    8
+    9
    ],
    [
     "2026-2027-guz",
@@ -50625,7 +50604,7 @@
     "AKM 219E",
     "Fluid Mechanics",
     40,
-    42
+    43
    ],
    [
     "2026-2027-guz",
@@ -51556,7 +51535,7 @@
     "DUI 251",
     "Meteoroloji",
     30,
-    27
+    28
    ],
    [
     "2026-2027-guz",
@@ -51570,7 +51549,7 @@
     "DUI 472",
     "Oşinografi",
     40,
-    38
+    39
    ],
    [
     "2026-2027-guz",
@@ -51583,8 +51562,8 @@
     "2026-2027-guz",
     "DUI 472E",
     "Oceanography",
-    20,
-    0
+    30,
+    24
    ],
    [
     "2025-2026-yaz",
@@ -52219,7 +52198,7 @@
     "MIM 203E",
     "Building and Const inArch.",
     91,
-    90
+    92
    ],
    [
     "2026-2027-guz",
@@ -52621,7 +52600,7 @@
     "BIO 301E",
     "Fundamentals of Biology",
     45,
-    40
+    41
    ],
    [
     "2025-2026-guz",
@@ -53307,7 +53286,7 @@
     "SNT 107",
     "İlkçağ Anadolu Uygarlıkları",
     22,
-    20
+    21
    ],
    [
     "2025-2026-yaz",
@@ -54498,14 +54477,14 @@
     "ITB 228E",
     "Gender Studies",
     35,
-    5
+    4
    ],
    [
     "2026-2027-guz",
     "ITB 228E",
     "Gender Studies",
     35,
-    17
+    18
    ],
    [
     "2025-2026-bahar",
@@ -55013,7 +54992,7 @@
     "KIM 471",
     "Organik Kimya III",
     45,
-    23
+    22
    ],
    [
     "2026-2027-guz",
@@ -55299,7 +55278,7 @@
     "KMM 305E",
     "Heat and Mass Transfer",
     90,
-    71
+    72
    ],
    [
     "2026-2027-guz",
@@ -55313,14 +55292,14 @@
     "KMM 538E",
     "Molecular Simulati.Methods",
     14,
-    15
+    14
    ],
    [
     "2026-2027-guz",
     "KMM 342E",
     "Math Modelling in Chemical Eng",
     0,
-    0
+    1
    ],
    [
     "2026-2027-guz",
@@ -56589,14 +56568,14 @@
     "MBL 596",
     "Bilimsel Araş.,Etik ve Seminer",
     20,
-    17
+    19
    ],
    [
     "2026-2027-guz",
     "TES 111E",
     "Project I",
     20,
-    12
+    13
    ],
    [
     "2026-2027-guz",
@@ -57147,7 +57126,7 @@
     "INS 303",
     "Zemin Mekaniği I",
     35,
-    33
+    34
    ],
    [
     "2026-2027-guz",
@@ -57621,13 +57600,6 @@
  "Ayşegül Kostak Toksoy": {
   "name": "Ayşegül Kostak Toksoy",
   "rows": [
-   [
-    "2026-2027-guz",
-    "CAB 145",
-    "Kanun I",
-    5,
-    0
-   ],
    [
     "2026-2027-guz",
     "CAB 345",
@@ -58157,7 +58129,7 @@
     "KMM 224",
     "Kimya Müh.Termodinamiği",
     80,
-    76
+    75
    ],
    [
     "2026-2027-guz",

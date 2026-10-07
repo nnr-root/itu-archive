@@ -528,7 +528,7 @@
    "3D20"
   ],
   "capacity": 90,
-  "enrolled": 79,
+  "enrolled": 80,
   "reserved": "-",
   "programs": [
    "GEM_LS",
@@ -617,7 +617,7 @@
    "2D13"
   ],
   "capacity": 40,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -810,7 +810,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 24,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -1381,7 +1381,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "GEM_LS",
@@ -1411,7 +1411,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1465,7 +1465,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 11,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1744,7 +1744,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1862,7 +1862,7 @@
    "2D17"
   ],
   "capacity": 50,
-  "enrolled": 43,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -2005,7 +2005,7 @@
   ],
   "rooms": [],
   "capacity": 0,
-  "enrolled": 1,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [],
   "prereq": "Detay",
@@ -2131,7 +2131,7 @@
   ],
   "rooms": [],
   "capacity": 0,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [],
   "prereq": "Detay",
@@ -2152,7 +2152,7 @@
   ],
   "rooms": [],
   "capacity": 0,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [],
   "prereq": "Detay",
@@ -2183,7 +2183,7 @@
    "3D20"
   ],
   "capacity": 50,
-  "enrolled": 36,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -2307,7 +2307,7 @@
    "2D15"
   ],
   "capacity": 30,
-  "enrolled": 11,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "GEM_LS",
@@ -2337,7 +2337,7 @@
    "ZA3"
   ],
   "capacity": 50,
-  "enrolled": 44,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "NAE_LS"

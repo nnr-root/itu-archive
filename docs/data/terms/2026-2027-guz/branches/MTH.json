@@ -330,7 +330,7 @@
    "--"
   ],
   "capacity": 45,
-  "enrolled": 43,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "MAT_LS"
@@ -452,7 +452,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 7,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -481,11 +481,11 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 0,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
-   "MTM_LS",
-   "NAE_LS"
+   "MEN_LS",
+   "MTM_LS"
   ],
   "prereq": "-",
   "classReq": "-"

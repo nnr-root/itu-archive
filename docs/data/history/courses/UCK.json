@@ -188,7 +188,7 @@
     "2026-2027-guz",
     "Ramazan Yeniçeri",
     90,
-    73,
+    74,
     "Salı"
    ],
    [
@@ -1167,7 +1167,7 @@
     "2026-2027-guz",
     "Emre Koyuncu",
     90,
-    62,
+    63,
     "Cuma"
    ],
    [
@@ -1524,7 +1524,7 @@
     "2026-2027-guz",
     "Barış Başpınar",
     40,
-    33,
+    32,
     "Çarşamba"
    ],
    [
@@ -2875,7 +2875,7 @@
     "2026-2027-guz",
     "Onur Tunçer",
     50,
-    17,
+    18,
     "Salı"
    ],
    [
@@ -3259,7 +3259,7 @@
     "2026-2027-guz",
     "Fırat Oğuz Edis",
     75,
-    72,
+    71,
     "Pazartesi"
    ],
    [
@@ -3564,7 +3564,7 @@
     "2026-2027-guz",
     "Tahir Soyugüzel",
     85,
-    76,
+    77,
     "Salı"
    ],
    [
@@ -3670,7 +3670,7 @@
     "2026-2027-guz",
     "Tahir Soyugüzel",
     0,
-    1,
+    2,
     ""
    ],
    [
@@ -3763,6 +3763,7 @@
   "code": "UCK 427E",
   "name": "Combustion",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2025-2026-guz",
    "2024-2025-bahar",
@@ -3771,6 +3772,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Mete Budaklı",
+    0,
+    1,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Onur Tunçer",
@@ -3899,11 +3907,19 @@
   "code": "UCK 435E",
   "name": "Design of Aerospace Structures",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2019-2020-guz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Zahit Mecitoğlu",
+    0,
+    1,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Zahit Mecitoğlu , / Halit Süleyman Türkmen , / Melike Nikbay , / Hülya Cebeci , / Oğuzcan İnal",
@@ -4635,7 +4651,7 @@
     "2026-2027-guz",
     "İsmail Bayezit",
     40,
-    25,
+    24,
     "Çarşamba"
    ],
    [
@@ -4932,7 +4948,7 @@
     "2026-2027-guz",
     "Onur Tunçer",
     40,
-    26,
+    25,
     "Çarşamba"
    ],
    [

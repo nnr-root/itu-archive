@@ -20,7 +20,7 @@
    "D205"
   ],
   "capacity": 35,
-  "enrolled": 32,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -174,7 +174,7 @@
    "B37"
   ],
   "capacity": 40,
-  "enrolled": 38,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -406,7 +406,7 @@
    "210"
   ],
   "capacity": 35,
-  "enrolled": 21,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -560,7 +560,7 @@
    "103"
   ],
   "capacity": 35,
-  "enrolled": 28,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -946,7 +946,7 @@
    "D300"
   ],
   "capacity": 30,
-  "enrolled": 24,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1102,7 +1102,7 @@
    "L300"
   ],
   "capacity": 30,
-  "enrolled": 17,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1180,7 +1180,7 @@
    "B33"
   ],
   "capacity": 35,
-  "enrolled": 35,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1258,7 +1258,7 @@
    "B35"
   ],
   "capacity": 40,
-  "enrolled": 38,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1412,7 +1412,7 @@
    "B35"
   ],
   "capacity": 40,
-  "enrolled": 36,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1566,7 +1566,7 @@
    "D201"
   ],
   "capacity": 35,
-  "enrolled": 31,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1954,7 +1954,7 @@
    "D105"
   ],
   "capacity": 35,
-  "enrolled": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2108,7 +2108,7 @@
    "OBL1"
   ],
   "capacity": 30,
-  "enrolled": 32,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2880,7 +2880,7 @@
    "216"
   ],
   "capacity": 35,
-  "enrolled": 26,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3036,7 +3036,7 @@
    "317"
   ],
   "capacity": 35,
-  "enrolled": 35,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3114,7 +3114,7 @@
    "315"
   ],
   "capacity": 35,
-  "enrolled": 26,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3195,7 +3195,7 @@
    "D201"
   ],
   "capacity": 35,
-  "enrolled": 22,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3581,7 +3581,7 @@
    "D103"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3893,7 +3893,7 @@
    "B37"
   ],
   "capacity": 35,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3971,7 +3971,7 @@
    "B36"
   ],
   "capacity": 35,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -4125,7 +4125,7 @@
    "D106"
   ],
   "capacity": 30,
-  "enrolled": 22,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4203,7 +4203,7 @@
    "D106"
   ],
   "capacity": 30,
-  "enrolled": 28,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4281,7 +4281,7 @@
    "B35"
   ],
   "capacity": 35,
-  "enrolled": 29,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -4435,7 +4435,7 @@
    "B34"
   ],
   "capacity": 35,
-  "enrolled": 28,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -4743,7 +4743,7 @@
    "2D16"
   ],
   "capacity": 35,
-  "enrolled": 5,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -4897,7 +4897,7 @@
    "B33"
   ],
   "capacity": 35,
-  "enrolled": 17,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -5051,7 +5051,7 @@
    "D203"
   ],
   "capacity": 35,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -5747,7 +5747,7 @@
    "B37"
   ],
   "capacity": 35,
-  "enrolled": 32,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -5901,7 +5901,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 58,
+  "enrolled": 59,
   "reserved": "-",
   "programs": [
    "MEN_LS",
@@ -6115,7 +6115,7 @@
    "106"
   ],
   "capacity": 35,
-  "enrolled": 24,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "ADM_AT_YL",
@@ -6707,7 +6707,7 @@
    "D202"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "ADM_AT_YL",

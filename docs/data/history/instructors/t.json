@@ -41,7 +41,7 @@
     "INS 325",
     "Demiryolu Müh.",
     50,
-    50
+    53
    ],
    [
     "2025-2026-bahar",
@@ -103,14 +103,14 @@
     "UCK 423E",
     "Princip. of Aircraft Design I",
     85,
-    76
+    77
    ],
    [
     "2026-2027-guz",
     "UCK 424E",
     "Princip. of Aircraft Design II",
     0,
-    1
+    2
    ],
    [
     "2026-2027-guz",
@@ -902,7 +902,7 @@
     "ELE 525",
     "Gömülü İşletim Sistem.Tasarım",
     20,
-    7
+    8
    ],
    [
     "2025-2026-bahar",
@@ -1799,7 +1799,7 @@
     "DUI 385E",
     "Environmental Management for Ship Operations",
     40,
-    32
+    34
    ],
    [
     "2026-2027-guz",
@@ -3474,7 +3474,7 @@
     "EHB 101",
     "EHM Giriş ve Müh. Etiği",
     100,
-    56
+    57
    ],
    [
     "2026-2027-guz",
@@ -3924,13 +3924,6 @@
    ],
    [
     "2026-2027-guz",
-    "KMP 423",
-    "Türk Müziğinde Polifoni III",
-    10,
-    0
-   ],
-   [
-    "2026-2027-guz",
     "KMP 404",
     "Kompozisyon Çözümleme IV",
     10,
@@ -4059,7 +4052,7 @@
     "GMI 341E",
     "Automatic Control Systems",
     40,
-    30
+    31
    ],
    [
     "2026-2027-guz",
@@ -4636,7 +4629,7 @@
     "KMM 451",
     "Kimya Mühendisliği Lab. I",
     40,
-    39
+    41
    ],
    [
     "2026-2027-guz",
@@ -5192,14 +5185,14 @@
     "INS 218",
     "Mukavemet II",
     40,
-    38
+    39
    ],
    [
     "2026-2027-guz",
     "YAP 535",
     "Elastisite Teorisi",
     15,
-    7
+    8
    ],
    [
     "2025-2026-yaz",
@@ -6503,21 +6496,21 @@
     "ING 201A",
     "Essentials of Res.Paper Writ.",
     25,
-    17
+    18
    ],
    [
     "2026-2027-guz",
     "ING 201A",
     "Essentials of Res.Paper Writ.",
     25,
-    21
+    22
    ],
    [
     "2026-2027-guz",
     "ING 201A",
     "Essentials of Res.Paper Writ.",
     25,
-    24
+    25
    ],
    [
     "2025-2026-bahar",
@@ -6600,7 +6593,7 @@
     "TUR 121",
     "Türk Dili I",
     75,
-    74
+    75
    ],
    [
     "2026-2027-guz",
@@ -7495,7 +7488,7 @@
     "FIZ 101EL",
     "Physics I Laboratory",
     27,
-    26
+    27
    ],
    [
     "2026-2027-guz",
@@ -7871,7 +7864,7 @@
     "ISL 464E",
     "Deep Learning with Business Applications",
     50,
-    8
+    9
    ],
    [
     "2026-2027-guz",
@@ -8800,13 +8793,6 @@
   "rows": [
    [
     "2026-2027-guz",
-    "CAB 149",
-    "Gitar I",
-    5,
-    1
-   ],
-   [
-    "2026-2027-guz",
     "CAB 187",
     "Gitar I",
     5,
@@ -8818,13 +8804,6 @@
     "Gitar III",
     5,
     5
-   ],
-   [
-    "2026-2027-guz",
-    "CAB 389",
-    "Gitar V",
-    5,
-    0
    ],
    [
     "2026-2027-guz",
@@ -9324,7 +9303,7 @@
     "DUM 518",
     "Denizcilikte Risk Yönetimi",
     20,
-    10
+    11
    ],
    [
     "2026-2027-guz",
@@ -9827,7 +9806,7 @@
     "BYM YLT",
     "Tez Çalışması",
     50,
-    5
+    6
    ],
    [
     "2026-2027-guz",
@@ -10057,7 +10036,7 @@
     "KIM 101EL",
     "General Chemistry I Lab",
     30,
-    25
+    29
    ],
    [
     "2026-2027-guz",
@@ -10112,7 +10091,7 @@
     "EEF 262E",
     "Fundamentals of Electronics",
     85,
-    74
+    75
    ],
    [
     "2026-2027-guz",
@@ -11214,7 +11193,7 @@
     "GAM 515E",
     "Non-digital Games\u0026Narration",
     30,
-    27
+    28
    ]
   ],
   "terms": 1
@@ -11338,35 +11317,35 @@
     "BVA YLT",
     "Tez Çalışması",
     200,
-    43
+    45
    ],
    [
     "2026-2027-guz",
     "BVT 512",
     "Tarihte Savaş ve Teknoloji",
     10,
-    4
+    5
    ],
    [
     "2026-2027-guz",
     "BVT 606E",
     "History of ScienceTexts",
     10,
-    3
+    2
    ],
    [
     "2026-2027-guz",
     "DZC 508",
     "Bilim ve Denizcilik Tarihi",
     20,
-    15
+    14
    ],
    [
     "2026-2027-guz",
     "ITB 218",
     "Bilim ve Teknoloji Tarihi",
     35,
-    34
+    35
    ],
    [
     "2025-2026-yaz",
@@ -11666,7 +11645,7 @@
     "ISL 533",
     "Veri Madenciliği",
     30,
-    25
+    27
    ],
    [
     "2026-2027-guz",
@@ -11687,7 +11666,7 @@
     "ISL YLT",
     "Tez Çalışması",
     200,
-    35
+    36
    ],
    [
     "2025-2026-bahar",
@@ -11889,7 +11868,7 @@
     "PST 524E",
     "Polymer Processing",
     25,
-    19
+    21
    ]
   ],
   "terms": 1
@@ -13110,7 +13089,7 @@
     "JEF 111",
     "Jeofizik Mühendisliğine Giriş",
     80,
-    37
+    39
    ],
    [
     "2026-2027-guz",
@@ -13443,14 +13422,14 @@
     "MAK 307",
     "İmal Usulleri",
     120,
-    107
+    108
    ],
    [
     "2026-2027-guz",
     "MMI 565",
     "Malzemelerin Mekanik Davranışı",
     30,
-    27
+    30
    ],
    [
     "2026-2027-guz",
@@ -14028,7 +14007,7 @@
     "KMM 451",
     "Kimya Mühendisliği Lab. I",
     40,
-    39
+    41
    ],
    [
     "2026-2027-guz",
@@ -14062,7 +14041,7 @@
     "STA 204E",
     "Statics\u0026Strength of Materials",
     61,
-    67
+    68
    ],
    [
     "2025-2026-bahar",
@@ -14465,7 +14444,7 @@
     "END 331E",
     "Operations Research I",
     60,
-    67
+    60
    ],
    [
     "2025-2026-bahar",
@@ -15580,7 +15559,7 @@
     "YAP 538",
     "Sonlu Elemanlar Yöntemi",
     20,
-    18
+    19
    ],
    [
     "2024-2025-bahar",
@@ -15891,14 +15870,14 @@
     "FIZ 101E",
     "Physics I",
     140,
-    139
+    140
    ],
    [
     "2026-2027-guz",
     "FIZ 101E",
     "Physics I",
     100,
-    88
+    90
    ]
   ],
   "terms": 1
@@ -15911,14 +15890,14 @@
     "MAD 241E",
     "Blasting Tech\u0026its Applications",
     80,
-    57
+    58
    ],
    [
     "2026-2027-guz",
     "MAD 435E",
     "Aggregate Mining",
-    35,
-    36
+    38,
+    38
    ],
    [
     "2026-2027-guz",
@@ -15932,7 +15911,7 @@
     "MAD 596",
     "Bilimsel Araş.,Etik ve Seminer",
     30,
-    8
+    9
    ],
    [
     "2026-2027-guz",

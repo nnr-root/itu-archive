@@ -20,7 +20,7 @@
    "A12"
   ],
   "capacity": 70,
-  "enrolled": 60,
+  "enrolled": 63,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -197,7 +197,7 @@
    "A12"
   ],
   "capacity": 75,
-  "enrolled": 72,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -315,7 +315,7 @@
    "A12"
   ],
   "capacity": 88,
-  "enrolled": 84,
+  "enrolled": 87,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -433,7 +433,7 @@
    "A14"
   ],
   "capacity": 80,
-  "enrolled": 76,
+  "enrolled": 80,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -492,7 +492,7 @@
    "A15"
   ],
   "capacity": 80,
-  "enrolled": 75,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -551,7 +551,7 @@
    "A15"
   ],
   "capacity": 55,
-  "enrolled": 55,
+  "enrolled": 56,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -943,7 +943,7 @@
    "A14"
   ],
   "capacity": 90,
-  "enrolled": 83,
+  "enrolled": 87,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1137,7 +1137,7 @@
    "A14"
   ],
   "capacity": 107,
-  "enrolled": 105,
+  "enrolled": 106,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1431,7 +1431,7 @@
    "A35"
   ],
   "capacity": 70,
-  "enrolled": 72,
+  "enrolled": 73,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1529,7 +1529,7 @@
    "A14"
   ],
   "capacity": 80,
-  "enrolled": 76,
+  "enrolled": 77,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1661,7 +1661,7 @@
    "LAB-D"
   ],
   "capacity": 40,
-  "enrolled": 20,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2126,7 +2126,7 @@
    "LAB-D"
   ],
   "capacity": 40,
-  "enrolled": 41,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2312,7 +2312,7 @@
    "LAB-B"
   ],
   "capacity": 25,
-  "enrolled": 18,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2497,7 +2497,7 @@
    "LAB-A"
   ],
   "capacity": 30,
-  "enrolled": 25,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2865,7 +2865,7 @@
    "LAB-D"
   ],
   "capacity": 40,
-  "enrolled": 37,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3601,7 +3601,7 @@
    "LAB-C"
   ],
   "capacity": 40,
-  "enrolled": 37,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3785,7 +3785,7 @@
    "LAB-E"
   ],
   "capacity": 40,
-  "enrolled": 40,
+  "enrolled": 41,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4061,7 +4061,7 @@
    "LAB-B"
   ],
   "capacity": 30,
-  "enrolled": 26,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4153,7 +4153,7 @@
    "LAB-C"
   ],
   "capacity": 50,
-  "enrolled": 43,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "CEN_LS",
@@ -4216,7 +4216,7 @@
    "LAB-D"
   ],
   "capacity": 50,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -4254,7 +4254,7 @@
    "D205"
   ],
   "capacity": 50,
-  "enrolled": 45,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "KIM_LS",
@@ -4285,7 +4285,7 @@
    "LAB-E"
   ],
   "capacity": 40,
-  "enrolled": 31,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "KIM_LS",
@@ -4345,7 +4345,7 @@
    "D202"
   ],
   "capacity": 100,
-  "enrolled": 50,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "KIM_LS"
@@ -4438,7 +4438,7 @@
    "B34"
   ],
   "capacity": 30,
-  "enrolled": 15,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4698,7 +4698,7 @@
    "B37"
   ],
   "capacity": 50,
-  "enrolled": 23,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4833,7 +4833,7 @@
    "B33"
   ],
   "capacity": 55,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -5500,7 +5500,7 @@
    "D103"
   ],
   "capacity": 60,
-  "enrolled": 51,
+  "enrolled": 52,
   "reserved": "-",
   "programs": [
    "KIM_LS",
@@ -5560,7 +5560,7 @@
    "L200"
   ],
   "capacity": 20,
-  "enrolled": 17,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "KIM_LS",
@@ -5624,7 +5624,7 @@
    "177"
   ],
   "capacity": 90,
-  "enrolled": 86,
+  "enrolled": 85,
   "reserved": "-",
   "programs": [
    "KIM_LS",
@@ -5654,7 +5654,7 @@
    "D101"
   ],
   "capacity": 45,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "KIM_LS"
@@ -5745,7 +5745,7 @@
    "D201"
   ],
   "capacity": 20,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "KIM_LS",
@@ -5775,7 +5775,7 @@
    "D106"
   ],
   "capacity": 45,
-  "enrolled": 23,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "KIM_LS",
@@ -5805,7 +5805,7 @@
    "D103"
   ],
   "capacity": 50,
-  "enrolled": 48,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "KIM_LS"
@@ -6091,7 +6091,7 @@
    "L300"
   ],
   "capacity": 20,
-  "enrolled": 19,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6172,7 +6172,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 16,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6199,7 +6199,7 @@
    "B3_Z01-Z03"
   ],
   "capacity": 28,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6415,7 +6415,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 15,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6688,7 +6688,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "DUI_LS",
@@ -6808,7 +6808,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "DUI_LS",

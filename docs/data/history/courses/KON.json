@@ -801,7 +801,7 @@
     "2026-2027-guz",
     "Yücel Aydın , Ali Fuat Ergenç",
     70,
-    62,
+    60,
     "Perşembe"
    ],
    [
@@ -1420,7 +1420,7 @@
     "2026-2027-guz",
     "Ahmet Onat",
     78,
-    77,
+    78,
     "Salı"
    ],
    [
@@ -1701,7 +1701,7 @@
     "2026-2027-guz",
     "Gülay Öke Günel",
     70,
-    70,
+    69,
     "Pazartesi"
    ],
    [
@@ -1913,6 +1913,7 @@
   "code": "KON 314",
   "name": "Kontrol Sistem Tasarımı",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -1924,6 +1925,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Mehmet Turan Söylemez",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Mehmet Turan Söylemez",
@@ -2755,7 +2763,7 @@
     "2026-2027-guz",
     "Osman Ervan",
     50,
-    42,
+    44,
     "Çarşamba"
    ],
    [
@@ -3013,6 +3021,7 @@
   "code": "KON 324E",
   "name": "Sensors&Transducers in Contr.",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -3024,6 +3033,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Ali Fuat Ergenç",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Ali Fuat Ergenç",
@@ -3128,7 +3144,7 @@
     "2026-2027-guz",
     "Yaprak Yalçın",
     60,
-    51,
+    50,
     "Perşembe"
    ],
    [
@@ -3246,7 +3262,7 @@
     "2026-2027-guz",
     "Ahmet Onat",
     20,
-    20,
+    21,
     "Salı"
    ],
    [
@@ -3423,7 +3439,7 @@
     "2026-2027-guz",
     "Fikret Çalışkan",
     75,
-    72,
+    73,
     "Pazartesi"
    ],
    [
@@ -4536,6 +4552,7 @@
   "code": "KON 419E",
   "name": "Control Sys. Dsgn. Project",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-guz",
    "2023-2024-guz",
    "2022-2023-guz",
@@ -4547,6 +4564,13 @@
    "2017-2018-guz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Ali Fuat Ergenç",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-guz",
     "Ali Fuat Ergenç",
@@ -4616,6 +4640,7 @@
   "code": "KON 421",
   "name": "Robot Kontrolü",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2023-2024-bahar",
    "2022-2023-bahar",
@@ -4626,6 +4651,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Sıddık Murat Yeşiloğlu",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Sıddık Murat Yeşiloğlu",
@@ -4751,6 +4783,7 @@
   "code": "KON 422",
   "name": "Elektrikli Ulaşım Sistemleri",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2023-2024-guz",
    "2022-2023-guz",
@@ -4761,6 +4794,13 @@
    "2017-2018-guz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Yaprak Yalçın",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Yaprak Yalçın",
@@ -4847,6 +4887,7 @@
   "code": "KON 424E",
   "name": "Mod.&Cntrl of Biological Sys.",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -4858,6 +4899,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Emre Dincel",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Emre Dincel",
@@ -5229,7 +5277,7 @@
     "2026-2027-guz",
     "Mahdi Baradarannia",
     50,
-    46,
+    47,
     "Perşembe"
    ],
    [
@@ -5342,7 +5390,7 @@
     "2026-2027-guz",
     "Onur Akbatı",
     65,
-    59,
+    61,
     "Pazartesi"
    ],
    [
@@ -5643,7 +5691,7 @@
     "2026-2027-guz",
     "Sıddık Murat Yeşiloğlu",
     50,
-    26,
+    27,
     "Çarşamba"
    ]
   ]
@@ -5675,7 +5723,7 @@
     "2026-2027-guz",
     "Kemal Uçak",
     62,
-    60,
+    62,
     "Çarşamba"
    ]
   ]

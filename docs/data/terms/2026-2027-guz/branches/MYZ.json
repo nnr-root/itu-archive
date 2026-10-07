@@ -327,10 +327,10 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "A204"
+   "B101"
   ],
   "capacity": 50,
-  "enrolled": 122,
+  "enrolled": 124,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -361,7 +361,7 @@
    "5203"
   ],
   "capacity": 50,
-  "enrolled": 35,
+  "enrolled": 36,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -393,8 +393,8 @@
    "2104"
   ],
   "capacity": 60,
-  "enrolled": 57,
-  "reserved": "EEE_LS/5/5 | Diğer/55/52",
+  "enrolled": 58,
+  "reserved": "EEE_LS/5/5 | Diğer/55/53",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -467,7 +467,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "ENT_LS",
@@ -527,7 +527,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 19,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -589,7 +589,7 @@
    "D360"
   ],
   "capacity": 30,
-  "enrolled": 5,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -623,10 +623,12 @@
    "D318"
   ],
   "capacity": 30,
-  "enrolled": 19,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
-   "MAK_LS"
+   "MAK_LS",
+   "UCK_LS",
+   "UZBE_LS"
   ],
   "prereq": "Detay",
   "classReq": "-"
