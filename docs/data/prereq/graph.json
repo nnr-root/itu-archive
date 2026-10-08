@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-07T08:38:29Z",
+ "generatedAt": "2026-10-08T08:57:01Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -237,8 +237,18 @@
    "requirement": "( ( MIM 232 MIN. DD Veya MIM 232E MIN. DD ) Veya ( MIM 213 MIN. DD Veya MIM 213E MIN. DD ) Veya ( MIM 234 MIN. DD Veya MIM 234E MIN. DD ) Veya ARC 213E MIN. DD ) Ve ( ( MIM 242 MIN. DD Veya MIM 242E MIN. DD ) Veya ( MIM 246 MIN. DD Veya MIM 246E MIN. DD ) Veya ARC 246E MIN. DD ) Ve ( ( MIM 204 MIN. DD Veya MIM 204E MIN. DD ) Veya ( MIM 244 MIN. DD Veya MIM 244E MIN. DD ) Veya ARC 204E MIN. DD )"
   },
   {
+   "code": "BBF 102",
+   "name": "",
+   "branch": "BBF"
+  },
+  {
    "code": "BBF 102E",
    "name": "Linear Algebra and Applications",
+   "branch": "BBF"
+  },
+  {
+   "code": "BBF 103",
+   "name": "",
    "branch": "BBF"
   },
   {
@@ -257,16 +267,34 @@
    "branch": "BBF"
   },
   {
+   "code": "BBF 202",
+   "name": "Bilgisayar Mühendisliğinde Sayısal Yöntemler",
+   "branch": "BBF",
+   "requirement": "( MAT 102 MIN. DD Veya MAT 102E MIN. DD ) Veya ( MAT 104 MIN. DD Veya MAT 104E MIN. DD )"
+  },
+  {
    "code": "BBF 202E",
    "name": "Numerical Methods in Computer Engineering",
    "branch": "BBF",
    "requirement": "( MAT 102 MIN. DD Veya MAT 102E MIN. DD ) Veya ( MAT 104 MIN. DD Veya MAT 104E MIN. DD )"
   },
   {
+   "code": "BBF 203",
+   "name": "Nesneye Yönelik Programlama",
+   "branch": "BBF",
+   "requirement": "( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 105 MIN. DD Veya BIL 105E MIN. DD ) Veya ( BLG 102 MIN. DD Veya BLG 102E MIN. DD ) Veya ( EHB 110 MIN. DD Veya EHB 110E MIN. DD ) Veya KON 110E MIN. DD Veya ( YZV 102 MIN. DD Veya YZV 102E MIN. DD ) Veya YZV 104E MIN. DD Veya ( EEF 110E MIN. DD Veya EEF 110 MIN. DD )"
+  },
+  {
    "code": "BBF 203E",
    "name": "Object Oriented Programming",
    "branch": "BBF",
    "requirement": "( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 105 MIN. DD Veya BIL 105E MIN. DD ) Veya ( BLG 102 MIN. DD Veya BLG 102E MIN. DD ) Veya ( EHB 110 MIN. DD Veya EHB 110E MIN. DD ) Veya KON 110E MIN. DD Veya ( YZV 102 MIN. DD Veya YZV 102E MIN. DD ) Veya YZV 104E MIN. DD Veya ( EEF 110E MIN. DD Veya EEF 110 MIN. DD )"
+  },
+  {
+   "code": "BBF 204",
+   "name": "Biçimsel Diller ve Otomatlar",
+   "branch": "BBF",
+   "requirement": "( BLG 112 MIN. DD Veya BLG 112E MIN. DD )"
   },
   {
    "code": "BBF 204E",
@@ -281,10 +309,22 @@
    "requirement": "( ( BLG 221 MIN. DD Veya BLG 221E MIN. DD ) Veya ( BLG 223 MIN. DD Veya BLG 223E MIN. DD ) Veya ( BLG 233 MIN. DD Veya BLG 233E MIN. DD ) Veya ( YZV 201 MIN. DD Veya YZV 201E MIN. DD ) ) Ve ( ( BLG 252 MIN. DD Veya BLG 252E MIN. DD ) Veya ( YZV 201 MIN. DD Veya YZV 201E MIN. DD ) )"
   },
   {
+   "code": "BBF 302",
+   "name": "Veritabanı Sistemleri",
+   "branch": "BBF",
+   "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD ) Veya ( MUH 212 MIN. DD Veya MUH 212E MIN. DD ) Veya ( YZV 201 MIN. DD Veya YZV 201E MIN. DD )"
+  },
+  {
    "code": "BBF 302E",
    "name": "Database Systems",
    "branch": "BBF",
    "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD ) Veya ( MUH 212 MIN. DD Veya MUH 212E MIN. DD ) Veya ( YZV 201 MIN. DD Veya YZV 201E MIN. DD )"
+  },
+  {
+   "code": "BBF 303",
+   "name": "Algoritma Analizi II",
+   "branch": "BBF",
+   "requirement": "( BLG 335 MIN. DD Veya BLG 335E MIN. DD ) Veya ( BLG 381 MIN. DD Veya BLG 381E MIN. DD )"
   },
   {
    "code": "BBF 303E",
@@ -342,7 +382,7 @@
    "code": "BHB 202E",
    "name": "Hesaplamalı Bilim ve Mühendislikte Matematiksel Yöntemlere Giriş",
    "branch": "BHB",
-   "requirement": "( ( EEF 281 MIN. DD Veya EEF 281E MIN. DD ) Veya ( MAT 143 MIN. DD Veya MAT 143E MIN. DD ) Veya BBF 102E MIN. DD Veya ( VBA 210E MIN. DD Veya VBA 210 MIN. DD ) Veya ( END 210E MIN. DD Veya END 210 MIN. DD ) ) Ve ( ( MAT 103 MIN. DD Veya MAT 103E MIN. DD ) Veya ( MAT 185E MIN. DD Veya MAT 185 MIN. DD ) )"
+   "requirement": "( ( EEF 281 MIN. DD Veya EEF 281E MIN. DD ) Veya ( MAT 143 MIN. DD Veya MAT 143E MIN. DD ) Veya ( BBF 102E MIN. DD Veya BBF 102 MIN. DD ) Veya ( VBA 210E MIN. DD Veya VBA 210 MIN. DD ) Veya ( END 210E MIN. DD Veya END 210 MIN. DD ) ) Ve ( ( MAT 103 MIN. DD Veya MAT 103E MIN. DD ) Veya ( MAT 185E MIN. DD Veya MAT 185 MIN. DD ) )"
   },
   {
    "code": "BHB 203E",
@@ -360,7 +400,7 @@
    "code": "BHB 301E",
    "name": "Fourier Serileri ve Sınır Değer Problemleri",
    "branch": "BHB",
-   "requirement": "( ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya BBF 103E MIN. DD Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) ) Ve ( ( EEF 281 MIN. DD Veya EEF 281E MIN. DD ) Veya ( MAT 143 MIN. DD Veya MAT 143E MIN. DD ) Veya BBF 102E MIN. DD Veya ( VBA 210E MIN. DD Veya VBA 210 MIN. DD ) )"
+   "requirement": "( ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya ( BBF 103E MIN. DD Veya BBF 103 MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) ) Ve ( ( EEF 281 MIN. DD Veya EEF 281E MIN. DD ) Veya ( MAT 143 MIN. DD Veya MAT 143E MIN. DD ) Veya ( BBF 102E MIN. DD Veya BBF 102 MIN. DD ) Veya ( VBA 210E MIN. DD Veya VBA 210 MIN. DD ) )"
   },
   {
    "code": "BHB 302",
@@ -378,7 +418,7 @@
    "code": "BHB 304",
    "name": "Görüntü İşlemenin Temelleri",
    "branch": "BHB",
-   "requirement": "( ( EEF 281 MIN. DD Veya EEF 281E MIN. DD ) Veya ( MAT 143 MIN. DD Veya MAT 143E MIN. DD ) Veya BBF 102E MIN. DD Veya ( VBA 210E MIN. DD Veya VBA 210 MIN. DD ) Veya ( END 210E MIN. DD Veya END 210 MIN. DD ) ) Ve ( ( EEF 110E MIN. DD Veya EEF 110 MIN. DD ) Veya ( MAT 115 MIN. DD Veya MAT 115E MIN. DD ) Veya YZV 104E MIN. DD Veya ( BLG 102 MIN. DD Veya BLG 102E MIN. DD ) Veya ( BIL 100 MIN. DD Veya BIL 100E MIN. DD ) Veya ( BIL 113 MIN. DD Veya BIL 113E MIN. DD ) Veya ( VBA 113E MIN. DD Veya VBA 113 MIN. DD ) )"
+   "requirement": "( ( EEF 281 MIN. DD Veya EEF 281E MIN. DD ) Veya ( MAT 143 MIN. DD Veya MAT 143E MIN. DD ) Veya ( BBF 102E MIN. DD Veya BBF 102 MIN. DD ) Veya ( VBA 210E MIN. DD Veya VBA 210 MIN. DD ) Veya ( END 210E MIN. DD Veya END 210 MIN. DD ) ) Ve ( ( EEF 110E MIN. DD Veya EEF 110 MIN. DD ) Veya ( MAT 115 MIN. DD Veya MAT 115E MIN. DD ) Veya YZV 104E MIN. DD Veya ( BLG 102 MIN. DD Veya BLG 102E MIN. DD ) Veya ( BIL 100 MIN. DD Veya BIL 100E MIN. DD ) Veya ( BIL 113 MIN. DD Veya BIL 113E MIN. DD ) Veya ( VBA 113E MIN. DD Veya VBA 113 MIN. DD ) )"
   },
   {
    "code": "BHB 402E",
@@ -596,6 +636,12 @@
    "requirement": "( BIO 106L MIN. CC Veya BIO 106EL MIN. CC )"
   },
   {
+   "code": "BIO 210",
+   "name": "Biyologlar İçin Matematik",
+   "branch": "BIO",
+   "requirement": "( MAT 102 MIN. DD Veya MAT 102E MIN. DD ) Veya ( MAT 104 MIN. DD Veya MAT 104E MIN. DD ) Veya ( MAT 287 MIN. DD Veya MAT 287E MIN. DD )"
+  },
+  {
    "code": "BIO 210E",
    "name": "Mathematics for Biologists",
    "branch": "BIO",
@@ -678,6 +724,12 @@
    "requirement": "( BIO 111 MIN. DD Veya BIO 111E MIN. DD ) Veya ( BIO 105 MIN. DD Veya BIO 105E MIN. DD )"
   },
   {
+   "code": "BIO 232",
+   "name": "Organic Chem. for Biologists",
+   "branch": "BIO",
+   "requirement": "( KIM 101 MIN. DD Veya KIM 101E MIN. DD )"
+  },
+  {
    "code": "BIO 232E",
    "name": "Organic Chem. for Biologists",
    "branch": "BIO",
@@ -718,14 +770,26 @@
    "requirement": "( BIO 311 MIN. DD Veya BIO 311E MIN. DD )"
   },
   {
+   "code": "BIO 315",
+   "name": "Biyokimya I",
+   "branch": "BIO",
+   "requirement": "( ( BIO 207 MIN. DD Veya BIO 207E MIN. DD ) Ve ( KIM 303 MIN. DD Veya KIM 303E MIN. DD ) ) Veya ( ( BIO 211 MIN. DD Veya BIO 211E MIN. DD ) Ve ( KIM 205 MIN. DD Veya KIM 205E MIN. DD ) ) Veya ( ( BIO 211 MIN. DD Veya BIO 211E MIN. DD ) Ve ( KIM 303 MIN. DD Veya KIM 303E MIN. DD ) ) Veya ( ( BIO 207 MIN. DD Veya BIO 207E MIN. DD ) Ve ( KIM 231 MIN. DD Veya KIM 231E MIN. DD ) ) Veya ( ( BIO 207 MIN. DD Veya BIO 207E MIN. DD ) Ve ( BIO 232E MIN. DD Veya BIO 232 MIN. DD ) ) Veya ( ( BIO 211 MIN. DD Veya BIO 211E MIN. DD ) Ve ( BIO 232E MIN. DD Veya BIO 232 MIN. DD ) ) Veya ( ( BIO 207 MIN. DD Veya BIO 207E MIN. DD ) Ve ( KIM 104 MIN. DD Veya KIM 104E MIN. DD ) )"
+  },
+  {
    "code": "BIO 315E",
    "name": "Biochemistry I",
    "branch": "BIO",
-   "requirement": "( ( BIO 207 MIN. DD Veya BIO 207E MIN. DD ) Ve ( KIM 303 MIN. DD Veya KIM 303E MIN. DD ) ) Veya ( ( BIO 211 MIN. DD Veya BIO 211E MIN. DD ) Ve ( KIM 205 MIN. DD Veya KIM 205E MIN. DD ) ) Veya ( ( BIO 211 MIN. DD Veya BIO 211E MIN. DD ) Ve ( KIM 303 MIN. DD Veya KIM 303E MIN. DD ) ) Veya ( ( BIO 207 MIN. DD Veya BIO 207E MIN. DD ) Ve ( KIM 231 MIN. DD Veya KIM 231E MIN. DD ) ) Veya ( ( BIO 207 MIN. DD Veya BIO 207E MIN. DD ) Ve BIO 232E MIN. DD ) Veya ( ( BIO 211 MIN. DD Veya BIO 211E MIN. DD ) Ve BIO 232E MIN. DD ) Veya ( ( BIO 207 MIN. DD Veya BIO 207E MIN. DD ) Ve ( KIM 104 MIN. DD Veya KIM 104E MIN. DD ) )"
+   "requirement": "( ( BIO 207 MIN. DD Veya BIO 207E MIN. DD ) Ve ( KIM 303 MIN. DD Veya KIM 303E MIN. DD ) ) Veya ( ( BIO 211 MIN. DD Veya BIO 211E MIN. DD ) Ve ( KIM 205 MIN. DD Veya KIM 205E MIN. DD ) ) Veya ( ( BIO 211 MIN. DD Veya BIO 211E MIN. DD ) Ve ( KIM 303 MIN. DD Veya KIM 303E MIN. DD ) ) Veya ( ( BIO 207 MIN. DD Veya BIO 207E MIN. DD ) Ve ( KIM 231 MIN. DD Veya KIM 231E MIN. DD ) ) Veya ( ( BIO 207 MIN. DD Veya BIO 207E MIN. DD ) Ve ( BIO 232E MIN. DD Veya BIO 232 MIN. DD ) ) Veya ( ( BIO 211 MIN. DD Veya BIO 211E MIN. DD ) Ve ( BIO 232E MIN. DD Veya BIO 232 MIN. DD ) ) Veya ( ( BIO 207 MIN. DD Veya BIO 207E MIN. DD ) Ve ( KIM 104 MIN. DD Veya KIM 104E MIN. DD ) )"
   },
   {
    "code": "BIO 315EL",
    "name": "Biochemistry I Lab.",
+   "branch": "BIO",
+   "requirement": "BIO 207EL MIN. DD"
+  },
+  {
+   "code": "BIO 315L",
+   "name": "Biyokimya I Lab.",
    "branch": "BIO",
    "requirement": "BIO 207EL MIN. DD"
   },
@@ -798,6 +862,12 @@
    "requirement": "( BIO 106 MIN. DD Veya BIO 106E MIN. DD ) Veya ( BIO 112 MIN. DD Veya BIO 112E MIN. DD )"
   },
   {
+   "code": "BIO 326",
+   "name": "Mol. Evolution & Biodiversity",
+   "branch": "BIO",
+   "requirement": "( BIO 212 MIN. DD Veya BIO 212E MIN. DD )"
+  },
+  {
    "code": "BIO 326E",
    "name": "Mol. Evolution & Biodiversity",
    "branch": "BIO",
@@ -807,13 +877,13 @@
    "code": "BIO 328E",
    "name": "Biochemistry II",
    "branch": "BIO",
-   "requirement": "BIO 315E MIN. DD Veya ( BIO 311 MIN. DD Veya BIO 311E MIN. DD ) Veya ( BIO 323 MIN. DD Veya BIO 323E MIN. DD )"
+   "requirement": "( BIO 315E MIN. DD Veya BIO 315 MIN. DD ) Veya ( BIO 311 MIN. DD Veya BIO 311E MIN. DD ) Veya ( BIO 323 MIN. DD Veya BIO 323E MIN. DD )"
   },
   {
    "code": "BIO 328EL",
    "name": "Biochemistry II Lab.",
    "branch": "BIO",
-   "requirement": "BIO 315EL MIN. CC"
+   "requirement": "( BIO 315EL MIN. CC Veya BIO 315L MIN. CC )"
   },
   {
    "code": "BIO 331",
@@ -831,13 +901,13 @@
    "code": "BIO 332",
    "name": "Biyolojide Modern Teknikler",
    "branch": "BIO",
-   "requirement": "( BIO 311 MIN. DD Veya BIO 311E MIN. DD ) Veya BIO 315E MIN. DD Veya ( KIM 326E MIN. DD Veya KIM 326 MIN. DD )"
+   "requirement": "( BIO 311 MIN. DD Veya BIO 311E MIN. DD ) Veya ( BIO 315E MIN. DD Veya BIO 315 MIN. DD ) Veya ( KIM 326E MIN. DD Veya KIM 326 MIN. DD )"
   },
   {
    "code": "BIO 332E",
    "name": "Modern Techniques in Biology",
    "branch": "BIO",
-   "requirement": "( BIO 311 MIN. DD Veya BIO 311E MIN. DD ) Veya BIO 315E MIN. DD Veya ( KIM 326E MIN. DD Veya KIM 326 MIN. DD )"
+   "requirement": "( BIO 311 MIN. DD Veya BIO 311E MIN. DD ) Veya ( BIO 315E MIN. DD Veya BIO 315 MIN. DD ) Veya ( KIM 326E MIN. DD Veya KIM 326 MIN. DD )"
   },
   {
    "code": "BIO 341",
@@ -855,25 +925,25 @@
    "code": "BIO 342",
    "name": "Enzimoloji",
    "branch": "BIO",
-   "requirement": "( BIO 311 MIN. DD Veya BIO 311E MIN. DD ) Veya ( BIO 323 MIN. DD Veya BIO 323E MIN. DD ) Veya BIO 315E MIN. DD"
+   "requirement": "( BIO 311 MIN. DD Veya BIO 311E MIN. DD ) Veya ( BIO 323 MIN. DD Veya BIO 323E MIN. DD ) Veya ( BIO 315E MIN. DD Veya BIO 315 MIN. DD )"
   },
   {
    "code": "BIO 342E",
    "name": "Enzymology",
    "branch": "BIO",
-   "requirement": "( BIO 311 MIN. DD Veya BIO 311E MIN. DD ) Veya ( BIO 323 MIN. DD Veya BIO 323E MIN. DD ) Veya BIO 315E MIN. DD"
+   "requirement": "( BIO 311 MIN. DD Veya BIO 311E MIN. DD ) Veya ( BIO 323 MIN. DD Veya BIO 323E MIN. DD ) Veya ( BIO 315E MIN. DD Veya BIO 315 MIN. DD )"
   },
   {
    "code": "BIO 351",
    "name": "Biyofizik",
    "branch": "BIO",
-   "requirement": "( KIM 303 MIN. DD Veya KIM 303E MIN. DD ) Veya ( BIO 301 MIN. DD Veya BIO 301E MIN. DD ) Veya ( KIM 231 MIN. DD Veya KIM 231E MIN. DD ) Veya BIO 232E MIN. DD Veya ( KIM 104 MIN. DD Veya KIM 104E MIN. DD )"
+   "requirement": "( KIM 303 MIN. DD Veya KIM 303E MIN. DD ) Veya ( BIO 301 MIN. DD Veya BIO 301E MIN. DD ) Veya ( KIM 231 MIN. DD Veya KIM 231E MIN. DD ) Veya ( BIO 232E MIN. DD Veya BIO 232 MIN. DD ) Veya ( KIM 104 MIN. DD Veya KIM 104E MIN. DD )"
   },
   {
    "code": "BIO 351E",
    "name": "Biophysics",
    "branch": "BIO",
-   "requirement": "( KIM 303 MIN. DD Veya KIM 303E MIN. DD ) Veya ( BIO 301 MIN. DD Veya BIO 301E MIN. DD ) Veya ( KIM 231 MIN. DD Veya KIM 231E MIN. DD ) Veya BIO 232E MIN. DD Veya ( KIM 104 MIN. DD Veya KIM 104E MIN. DD )"
+   "requirement": "( KIM 303 MIN. DD Veya KIM 303E MIN. DD ) Veya ( BIO 301 MIN. DD Veya BIO 301E MIN. DD ) Veya ( KIM 231 MIN. DD Veya KIM 231E MIN. DD ) Veya ( BIO 232E MIN. DD Veya BIO 232 MIN. DD ) Veya ( KIM 104 MIN. DD Veya KIM 104E MIN. DD )"
   },
   {
    "code": "BIO 411",
@@ -921,13 +991,13 @@
    "code": "BIO 422",
    "name": "Matematiksel Biyoloji",
    "branch": "BIO",
-   "requirement": "( ( MAT 271 MIN. DD Veya MAT 271E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya BIO 210E MIN. DD ) Ve ( ( BIO 112 MIN. DD Veya BIO 112E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( BIO 106 MIN. DD Veya BIO 106E MIN. DD ) )"
+   "requirement": "( ( MAT 271 MIN. DD Veya MAT 271E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( BIO 210E MIN. DD Veya BIO 210 MIN. DD ) ) Ve ( ( BIO 112 MIN. DD Veya BIO 112E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( BIO 106 MIN. DD Veya BIO 106E MIN. DD ) )"
   },
   {
    "code": "BIO 422E",
    "name": "Matematiksel Biyoloji",
    "branch": "BIO",
-   "requirement": "( ( MAT 271 MIN. DD Veya MAT 271E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya BIO 210E MIN. DD ) Ve ( ( BIO 112 MIN. DD Veya BIO 112E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( BIO 106 MIN. DD Veya BIO 106E MIN. DD ) )"
+   "requirement": "( ( MAT 271 MIN. DD Veya MAT 271E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( BIO 210E MIN. DD Veya BIO 210 MIN. DD ) ) Ve ( ( BIO 112 MIN. DD Veya BIO 112E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( BIO 106 MIN. DD Veya BIO 106E MIN. DD ) )"
   },
   {
    "code": "BIO 432",
@@ -945,7 +1015,7 @@
    "code": "BIO 441E",
    "name": "Modelling in Biological System",
    "branch": "BIO",
-   "requirement": "( KIM 202 MIN. DD Veya KIM 202E MIN. DD ) Veya ( KIM 303 MIN. DD Veya KIM 303E MIN. DD ) Veya BIO 232E MIN. DD"
+   "requirement": "( KIM 202 MIN. DD Veya KIM 202E MIN. DD ) Veya ( KIM 303 MIN. DD Veya KIM 303E MIN. DD ) Veya ( BIO 232E MIN. DD Veya BIO 232 MIN. DD )"
   },
   {
    "code": "BIO 442",
@@ -993,13 +1063,13 @@
    "code": "BIO 462",
    "name": "Protein Yapı-İşlev İlişkileri",
    "branch": "BIO",
-   "requirement": "( BIO 311 MIN. DD Veya BIO 311E MIN. DD ) Veya BIO 315E MIN. DD"
+   "requirement": "( BIO 311 MIN. DD Veya BIO 311E MIN. DD ) Veya ( BIO 315E MIN. DD Veya BIO 315 MIN. DD )"
   },
   {
    "code": "BIO 462E",
    "name": "Prot. Struct.-Function Relat.",
    "branch": "BIO",
-   "requirement": "( BIO 311 MIN. DD Veya BIO 311E MIN. DD ) Veya BIO 315E MIN. DD"
+   "requirement": "( BIO 311 MIN. DD Veya BIO 311E MIN. DD ) Veya ( BIO 315E MIN. DD Veya BIO 315 MIN. DD )"
   },
   {
    "code": "BIO 463E",
@@ -1053,13 +1123,13 @@
    "code": "BIO 471",
    "name": "Protein Biyoteknolojisi",
    "branch": "BIO",
-   "requirement": "( BIO 311 MIN. DD Veya BIO 311E MIN. DD ) Veya BIO 315E MIN. DD"
+   "requirement": "( BIO 311 MIN. DD Veya BIO 311E MIN. DD ) Veya ( BIO 315E MIN. DD Veya BIO 315 MIN. DD )"
   },
   {
    "code": "BIO 471E",
    "name": "Protein Biotechnology",
    "branch": "BIO",
-   "requirement": "( BIO 311 MIN. DD Veya BIO 311E MIN. DD ) Veya BIO 315E MIN. DD"
+   "requirement": "( BIO 311 MIN. DD Veya BIO 311E MIN. DD ) Veya ( BIO 315E MIN. DD Veya BIO 315 MIN. DD )"
   },
   {
    "code": "BIO 472",
@@ -1760,6 +1830,12 @@
    "name": "Yapay Zeka için Programlama Dilleri",
    "branch": "BLG",
    "requirement": "( BLG 223 MIN. DD Veya BLG 223E MIN. DD ) Veya ( BLG 233 MIN. DD Veya BLG 233E MIN. DD ) Veya ( BLG 221 MIN. DD Veya BLG 221E MIN. DD )"
+  },
+  {
+   "code": "BLG 475",
+   "name": "Yazılım Kalitesi ve Sınaması",
+   "branch": "BLG",
+   "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD )"
   },
   {
    "code": "BLG 475E",
@@ -4543,8 +4619,18 @@
    "requirement": "CAB 797 MIN. CC"
   },
   {
+   "code": "CEN 102",
+   "name": "",
+   "branch": "CEN"
+  },
+  {
    "code": "CEN 102E",
    "name": "Intr to Sci&Eng Comp (C)",
+   "branch": "CEN"
+  },
+  {
+   "code": "CEN 112",
+   "name": "",
    "branch": "CEN"
   },
   {
@@ -4580,7 +4666,7 @@
    "code": "CEN 223E",
    "name": "Data Structures",
    "branch": "CEN",
-   "requirement": "( BLG 102 MIN. DD Veya BLG 102E MIN. DD ) Veya ( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 105 MIN. DD Veya BIL 105E MIN. DD ) Veya CEN 102E MIN. DD"
+   "requirement": "( BLG 102 MIN. DD Veya BLG 102E MIN. DD ) Veya ( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 105 MIN. DD Veya BIL 105E MIN. DD ) Veya ( CEN 102E MIN. DD Veya CEN 102 MIN. DD )"
   },
   {
    "code": "CEN 231",
@@ -4602,19 +4688,19 @@
    "code": "CEN 252",
    "name": "Nesneye Yönelik Programlama",
    "branch": "CEN",
-   "requirement": "( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 105 MIN. DD Veya BIL 105E MIN. DD ) Veya ( BLG 102 MIN. DD Veya BLG 102E MIN. DD ) Veya ( EHB 110 MIN. DD Veya EHB 110E MIN. DD ) Veya YZV 104E MIN. DD Veya ( YZV 102 MIN. DD Veya YZV 102E MIN. DD ) Veya KON 110E MIN. DD Veya ( EEF 110E MIN. DD Veya EEF 110 MIN. DD ) Veya CEN 102E MIN. DD"
+   "requirement": "( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 105 MIN. DD Veya BIL 105E MIN. DD ) Veya ( BLG 102 MIN. DD Veya BLG 102E MIN. DD ) Veya ( EHB 110 MIN. DD Veya EHB 110E MIN. DD ) Veya YZV 104E MIN. DD Veya ( YZV 102 MIN. DD Veya YZV 102E MIN. DD ) Veya KON 110E MIN. DD Veya ( EEF 110E MIN. DD Veya EEF 110 MIN. DD ) Veya ( CEN 102E MIN. DD Veya CEN 102 MIN. DD )"
   },
   {
    "code": "CEN 252E",
    "name": "Object Oriented Programming",
    "branch": "CEN",
-   "requirement": "( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 105 MIN. DD Veya BIL 105E MIN. DD ) Veya ( BLG 102 MIN. DD Veya BLG 102E MIN. DD ) Veya ( EHB 110 MIN. DD Veya EHB 110E MIN. DD ) Veya YZV 104E MIN. DD Veya ( YZV 102 MIN. DD Veya YZV 102E MIN. DD ) Veya KON 110E MIN. DD Veya ( EEF 110E MIN. DD Veya EEF 110 MIN. DD ) Veya CEN 102E MIN. DD"
+   "requirement": "( BIL 104 MIN. DD Veya BIL 104E MIN. DD ) Veya ( BIL 105 MIN. DD Veya BIL 105E MIN. DD ) Veya ( BLG 102 MIN. DD Veya BLG 102E MIN. DD ) Veya ( EHB 110 MIN. DD Veya EHB 110E MIN. DD ) Veya YZV 104E MIN. DD Veya ( YZV 102 MIN. DD Veya YZV 102E MIN. DD ) Veya KON 110E MIN. DD Veya ( EEF 110E MIN. DD Veya EEF 110 MIN. DD ) Veya ( CEN 102E MIN. DD Veya CEN 102 MIN. DD )"
   },
   {
    "code": "CEN 311E",
    "name": "Formal Languages and Automata",
    "branch": "CEN",
-   "requirement": "( BLG 112 MIN. DD Veya BLG 112E MIN. DD ) Veya CEN 112E MIN. DD"
+   "requirement": "( BLG 112 MIN. DD Veya BLG 112E MIN. DD ) Veya ( CEN 112E MIN. DD Veya CEN 112 MIN. DD )"
   },
   {
    "code": "CEN 312",
@@ -5810,6 +5896,11 @@
    "branch": "DEN"
   },
   {
+   "code": "DEN 101E",
+   "name": "",
+   "branch": "DEN"
+  },
+  {
    "code": "DEN 111",
    "name": "Gemi ve Deniz Müh Giriş",
    "branch": "DEN"
@@ -5852,7 +5943,13 @@
    "code": "DEN 302E",
    "name": "Deniz Araçlarının Hidrodinamiği",
    "branch": "DEN",
-   "requirement": "DEN 323E MIN. DD"
+   "requirement": "( DEN 323E MIN. DD Veya DEN 323 MIN. DD )"
+  },
+  {
+   "code": "DEN 310",
+   "name": "Direnç ve Sevk",
+   "branch": "DEN",
+   "requirement": "( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( AKM 204 MIN. DD Veya AKM 204E MIN. DD )"
   },
   {
    "code": "DEN 310E",
@@ -5895,6 +5992,12 @@
    "name": "Gemi Makinaları ve Donanımı",
    "branch": "DEN",
    "requirement": "( TER 201 MIN. DD Veya TER 201E MIN. DD )"
+  },
+  {
+   "code": "DEN 323",
+   "name": "Wave Mechanics",
+   "branch": "DEN",
+   "requirement": "( ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) ) Ve ( ( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( AKM 204 MIN. DD Veya AKM 204E MIN. DD ) )"
   },
   {
    "code": "DEN 323E",
@@ -5972,19 +6075,19 @@
    "code": "DEN 336E",
    "name": "Deniz Enerjisi Dönüşüm Sistemleri",
    "branch": "DEN",
-   "requirement": "DEN 323E MIN. DD"
+   "requirement": "( DEN 323E MIN. DD Veya DEN 323 MIN. DD )"
   },
   {
    "code": "DEN 341",
    "name": "Gemi Teorisi",
    "branch": "DEN",
-   "requirement": "( DEN 111 MIN. DD Veya DEN 111E MIN. DD ) Veya DEN 101 MIN. DD"
+   "requirement": "( DEN 111 MIN. DD Veya DEN 111E MIN. DD ) Veya ( DEN 101 MIN. DD Veya DEN 101E MIN. DD )"
   },
   {
    "code": "DEN 341E",
    "name": "Ship Theory",
    "branch": "DEN",
-   "requirement": "( DEN 111 MIN. DD Veya DEN 111E MIN. DD ) Veya DEN 101 MIN. DD"
+   "requirement": "( DEN 111 MIN. DD Veya DEN 111E MIN. DD ) Veya ( DEN 101 MIN. DD Veya DEN 101E MIN. DD )"
   },
   {
    "code": "DEN 342",
@@ -6012,7 +6115,7 @@
    "code": "DEN 348E",
    "name": "-",
    "branch": "DEN",
-   "requirement": "DEN 323E MIN. DD"
+   "requirement": "( DEN 323E MIN. DD Veya DEN 323 MIN. DD )"
   },
   {
    "code": "DEN 349E",
@@ -6031,13 +6134,13 @@
    "code": "DEN 411",
    "name": "Hidrodinamik",
    "branch": "DEN",
-   "requirement": "( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( AKM 204 MIN. DD Veya AKM 204E MIN. DD ) Veya DEN 323E MIN. DD"
+   "requirement": "( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( AKM 204 MIN. DD Veya AKM 204E MIN. DD ) Veya ( DEN 323E MIN. DD Veya DEN 323 MIN. DD )"
   },
   {
    "code": "DEN 411E",
    "name": "Hydrodynamics",
    "branch": "DEN",
-   "requirement": "( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( AKM 204 MIN. DD Veya AKM 204E MIN. DD ) Veya DEN 323E MIN. DD"
+   "requirement": "( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( AKM 204 MIN. DD Veya AKM 204E MIN. DD ) Veya ( DEN 323E MIN. DD Veya DEN 323 MIN. DD )"
   },
   {
    "code": "DEN 412E",
@@ -11097,6 +11200,12 @@
    "requirement": "( FIZ 113 MIN. DD Veya FIZ 113E MIN. DD ) Veya ( FIZ 111 MIN. DD Veya FIZ 111E MIN. DD ) Veya ( FIZ 101 MIN. DD Veya FIZ 101E MIN. DD )"
   },
   {
+   "code": "FIZ 274E",
+   "name": "Fizikçiler için Termodinamik",
+   "branch": "FIZ",
+   "requirement": "( FIZ 113 MIN. DD Veya FIZ 113E MIN. DD ) Veya ( FIZ 111 MIN. DD Veya FIZ 111E MIN. DD ) Veya ( FIZ 101 MIN. DD Veya FIZ 101E MIN. DD )"
+  },
+  {
    "code": "FIZ 282",
    "name": "Analitik Mekanik",
    "branch": "FIZ",
@@ -11202,13 +11311,13 @@
    "code": "FIZ 321",
    "name": "Fizikte Matematiksel Yönteml I",
    "branch": "FIZ",
-   "requirement": "( ( MAT 101 MIN. DD Veya MAT 101E MIN. DD ) Veya ( MAT 103 MIN. DD Veya MAT 103E MIN. DD ) ) Ve ( ( MAT 102 MIN. DD Veya MAT 102E MIN. DD ) Veya ( MAT 104 MIN. DD Veya MAT 104E MIN. DD ) ) Ve ( ( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya ( MAK 201E MIN. DD Veya MAK 201 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( KMM 210E MIN. DD Veya KMM 210 MIN. DD ) Veya ( GID 210E MIN. DD Veya GID 210 MIN. DD ) Veya ( MET 220 MIN. DD Veya MET 220E MIN. DD ) Veya ( END 210E MIN. DD Veya END 210 MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD ) Veya BIO 210E MIN. DD Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) )"
+   "requirement": "( ( MAT 101 MIN. DD Veya MAT 101E MIN. DD ) Veya ( MAT 103 MIN. DD Veya MAT 103E MIN. DD ) ) Ve ( ( MAT 102 MIN. DD Veya MAT 102E MIN. DD ) Veya ( MAT 104 MIN. DD Veya MAT 104E MIN. DD ) ) Ve ( ( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya ( MAK 201E MIN. DD Veya MAK 201 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( KMM 210E MIN. DD Veya KMM 210 MIN. DD ) Veya ( GID 210E MIN. DD Veya GID 210 MIN. DD ) Veya ( MET 220 MIN. DD Veya MET 220E MIN. DD ) Veya ( END 210E MIN. DD Veya END 210 MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD ) Veya ( BIO 210E MIN. DD Veya BIO 210 MIN. DD ) Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) )"
   },
   {
    "code": "FIZ 321E",
    "name": "Mathematical Mthds in Physc I",
    "branch": "FIZ",
-   "requirement": "( ( MAT 101 MIN. DD Veya MAT 101E MIN. DD ) Veya ( MAT 103 MIN. DD Veya MAT 103E MIN. DD ) ) Ve ( ( MAT 102 MIN. DD Veya MAT 102E MIN. DD ) Veya ( MAT 104 MIN. DD Veya MAT 104E MIN. DD ) ) Ve ( ( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya ( MAK 201E MIN. DD Veya MAK 201 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( KMM 210E MIN. DD Veya KMM 210 MIN. DD ) Veya ( GID 210E MIN. DD Veya GID 210 MIN. DD ) Veya ( MET 220 MIN. DD Veya MET 220E MIN. DD ) Veya ( END 210E MIN. DD Veya END 210 MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD ) Veya BIO 210E MIN. DD Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) )"
+   "requirement": "( ( MAT 101 MIN. DD Veya MAT 101E MIN. DD ) Veya ( MAT 103 MIN. DD Veya MAT 103E MIN. DD ) ) Ve ( ( MAT 102 MIN. DD Veya MAT 102E MIN. DD ) Veya ( MAT 104 MIN. DD Veya MAT 104E MIN. DD ) ) Ve ( ( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya ( MAK 201E MIN. DD Veya MAK 201 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( KMM 210E MIN. DD Veya KMM 210 MIN. DD ) Veya ( GID 210E MIN. DD Veya GID 210 MIN. DD ) Veya ( MET 220 MIN. DD Veya MET 220E MIN. DD ) Veya ( END 210E MIN. DD Veya END 210 MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD ) Veya ( BIO 210E MIN. DD Veya BIO 210 MIN. DD ) Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) )"
   },
   {
    "code": "FIZ 323",
@@ -12791,6 +12900,11 @@
    "requirement": "( GEO 303 MIN. DD Veya GEO 303E MIN. DD ) Veya ( JDF 361 MIN. DD Veya JDF 361E MIN. DD )"
   },
   {
+   "code": "GEO 325",
+   "name": "",
+   "branch": "GEO"
+  },
+  {
    "code": "GEO 325E",
    "name": "Databases in Engineering",
    "branch": "GEO"
@@ -12847,13 +12961,13 @@
    "code": "GEO 411",
    "name": "Konumsal Soyutlama ve Genelleştirme",
    "branch": "GEO",
-   "requirement": "( GEO 305 MIN. DD Veya GEO 305E MIN. DD ) Veya GEO 325E MIN. DD"
+   "requirement": "( GEO 305 MIN. DD Veya GEO 305E MIN. DD ) Veya ( GEO 325E MIN. DD Veya GEO 325 MIN. DD )"
   },
   {
    "code": "GEO 411E",
    "name": "Konumsal Soyutlama ve Genelleştirme",
    "branch": "GEO",
-   "requirement": "( GEO 305 MIN. DD Veya GEO 305E MIN. DD ) Veya GEO 325E MIN. DD"
+   "requirement": "( GEO 305 MIN. DD Veya GEO 305E MIN. DD ) Veya ( GEO 325E MIN. DD Veya GEO 325 MIN. DD )"
   },
   {
    "code": "GEO 413",
@@ -13040,6 +13154,11 @@
    "branch": "GID"
   },
   {
+   "code": "GID 216",
+   "name": "",
+   "branch": "GID"
+  },
+  {
    "code": "GID 216E",
    "name": "Mass and Energy Balances",
    "branch": "GID"
@@ -13055,6 +13174,11 @@
    "branch": "GID"
   },
   {
+   "code": "GID 226",
+   "name": "",
+   "branch": "GID"
+  },
+  {
    "code": "GID 226E",
    "name": "Microbiology",
    "branch": "GID"
@@ -13063,13 +13187,13 @@
    "code": "GID 312",
    "name": "Gıda Mikrobiyolojisi II",
    "branch": "GID",
-   "requirement": "( GID 222 MIN. DD Veya GID 222E MIN. DD ) Veya GID 226E MIN. DD"
+   "requirement": "( GID 222 MIN. DD Veya GID 222E MIN. DD ) Veya ( GID 226E MIN. DD Veya GID 226 MIN. DD )"
   },
   {
    "code": "GID 312E",
    "name": "Food Microbiology II",
    "branch": "GID",
-   "requirement": "( GID 222 MIN. DD Veya GID 222E MIN. DD ) Veya GID 226E MIN. DD"
+   "requirement": "( GID 222 MIN. DD Veya GID 222E MIN. DD ) Veya ( GID 226E MIN. DD Veya GID 226 MIN. DD )"
   },
   {
    "code": "GID 321",
@@ -13099,13 +13223,13 @@
    "code": "GID 323",
    "name": "Gıda Mikrobiyolojisi Lab",
    "branch": "GID",
-   "requirement": "( GID 222 MIN. DD Veya GID 222E MIN. DD ) Veya GID 226E MIN. DD"
+   "requirement": "( GID 222 MIN. DD Veya GID 222E MIN. DD ) Veya ( GID 226E MIN. DD Veya GID 226 MIN. DD )"
   },
   {
    "code": "GID 323E",
    "name": "Gıda Mikrobiyolojisi Lab",
    "branch": "GID",
-   "requirement": "( GID 222 MIN. DD Veya GID 222E MIN. DD ) Veya GID 226E MIN. DD"
+   "requirement": "( GID 222 MIN. DD Veya GID 222E MIN. DD ) Veya ( GID 226E MIN. DD Veya GID 226 MIN. DD )"
   },
   {
    "code": "GID 324E",
@@ -13222,7 +13346,7 @@
    "code": "GID 467",
    "name": "Gıda Mühendisliğinde Hesaplamalı Modelleme ve Dijital Dönüşüm",
    "branch": "GID",
-   "requirement": "( BIL 113 MIN. DD Veya BIL 113E MIN. DD ) Ve ( GID 204 MIN. DD Veya GID 204E MIN. DD ) Ve GID 216E MIN. DD"
+   "requirement": "( BIL 113 MIN. DD Veya BIL 113E MIN. DD ) Ve ( GID 204 MIN. DD Veya GID 204E MIN. DD ) Ve ( GID 216E MIN. DD Veya GID 216 MIN. DD )"
   },
   {
    "code": "GID 492",
@@ -13307,6 +13431,12 @@
   {
    "code": "GMI 131E",
    "name": "Numerical Analy. of Eng.Syst.",
+   "branch": "GMI",
+   "requirement": "( MAT 101 MIN. DD Veya MAT 101E MIN. DD ) Veya ( MAT 103 MIN. DD Veya MAT 103E MIN. DD )"
+  },
+  {
+   "code": "GMI 132",
+   "name": "Müh. Sistem. Nümerik Analizi",
    "branch": "GMI",
    "requirement": "( MAT 101 MIN. DD Veya MAT 101E MIN. DD ) Veya ( MAT 103 MIN. DD Veya MAT 103E MIN. DD )"
   },
@@ -17566,6 +17696,12 @@
    "requirement": "( JEF 222 MIN. DD Veya JEF 222E MIN. DD )"
   },
   {
+   "code": "JEF 361",
+   "name": "Marine Geophysics",
+   "branch": "JEF",
+   "requirement": "( JEF 222 MIN. DD Veya JEF 222E MIN. DD )"
+  },
+  {
    "code": "JEF 361E",
    "name": "Marine Geophysics",
    "branch": "JEF",
@@ -19415,6 +19551,12 @@
    "requirement": "( KIM 101 MIN. DD Veya KIM 101E MIN. DD ) Ve ( FIZ 101 MIN. DD Veya FIZ 101E MIN. DD )"
   },
   {
+   "code": "KMM 305",
+   "name": "Isı ve Kütle Geçişi",
+   "branch": "KMM",
+   "requirement": "( KMM 211 MIN. DD Veya KMM 211E MIN. DD ) Ve ( ( KMM 224 MIN. DD Veya KMM 224E MIN. DD ) Veya ( KMM 220 MIN. DD Veya KMM 220E MIN. DD ) )"
+  },
+  {
    "code": "KMM 305E",
    "name": "Heat and Mass Transfer",
    "branch": "KMM",
@@ -19453,6 +19595,12 @@
    "name": "Chemical Reaction Eng I",
    "branch": "KMM",
    "requirement": "( TER 201 MIN. DD Veya TER 201E MIN. DD ) Veya ( KIM 252 MIN. DD Veya KIM 252E MIN. DD ) Veya ( TER 203 MIN. DD Veya TER 203E MIN. DD )"
+  },
+  {
+   "code": "KMM 315",
+   "name": "Physical Che.for Chemical Eng.",
+   "branch": "KMM",
+   "requirement": "( KIM 101 MIN. DD Veya KIM 101E MIN. DD ) Ve ( MAT 104 MIN. DD Veya MAT 104E MIN. DD )"
   },
   {
    "code": "KMM 315E",
@@ -19594,13 +19742,13 @@
    "code": "KMM 451",
    "name": "Kimya Mühendisliği Lab. I",
    "branch": "KMM",
-   "requirement": "( ( KMM 312 MIN. DD Veya KMM 312E MIN. DD ) Veya ( KMM 308E MIN. DD Veya KMM 308 MIN. DD ) ) Ve ( ( KMM 220 MIN. DD Veya KMM 220E MIN. DD ) Veya ( AKM 207 MIN. DD Veya AKM 207E MIN. DD ) ) Ve ( ( KMM 321 MIN. DD Veya KMM 321E MIN. DD ) Veya KMM 305E MIN. DD ) Ve ( ( KMM 331 MIN. DD Veya KMM 331E MIN. DD ) Veya KMM 305E MIN. DD )"
+   "requirement": "( ( KMM 312 MIN. DD Veya KMM 312E MIN. DD ) Veya ( KMM 308E MIN. DD Veya KMM 308 MIN. DD ) ) Ve ( ( KMM 220 MIN. DD Veya KMM 220E MIN. DD ) Veya ( AKM 207 MIN. DD Veya AKM 207E MIN. DD ) ) Ve ( ( KMM 321 MIN. DD Veya KMM 321E MIN. DD ) Veya ( KMM 305E MIN. DD Veya KMM 305 MIN. DD ) ) Ve ( ( KMM 331 MIN. DD Veya KMM 331E MIN. DD ) Veya ( KMM 305E MIN. DD Veya KMM 305 MIN. DD ) )"
   },
   {
    "code": "KMM 451E",
    "name": "Chemical Engineering Lab. I",
    "branch": "KMM",
-   "requirement": "( ( KMM 312 MIN. DD Veya KMM 312E MIN. DD ) Veya ( KMM 308E MIN. DD Veya KMM 308 MIN. DD ) ) Ve ( ( KMM 220 MIN. DD Veya KMM 220E MIN. DD ) Veya ( AKM 207 MIN. DD Veya AKM 207E MIN. DD ) ) Ve ( ( KMM 321 MIN. DD Veya KMM 321E MIN. DD ) Veya KMM 305E MIN. DD ) Ve ( ( KMM 331 MIN. DD Veya KMM 331E MIN. DD ) Veya KMM 305E MIN. DD )"
+   "requirement": "( ( KMM 312 MIN. DD Veya KMM 312E MIN. DD ) Veya ( KMM 308E MIN. DD Veya KMM 308 MIN. DD ) ) Ve ( ( KMM 220 MIN. DD Veya KMM 220E MIN. DD ) Veya ( AKM 207 MIN. DD Veya AKM 207E MIN. DD ) ) Ve ( ( KMM 321 MIN. DD Veya KMM 321E MIN. DD ) Veya ( KMM 305E MIN. DD Veya KMM 305 MIN. DD ) ) Ve ( ( KMM 331 MIN. DD Veya KMM 331E MIN. DD ) Veya ( KMM 305E MIN. DD Veya KMM 305 MIN. DD ) )"
   },
   {
    "code": "KMM 462",
@@ -19618,13 +19766,13 @@
    "code": "KMM 483",
    "name": "Araştırma Projesi I",
    "branch": "KMM",
-   "requirement": "( KMM 220 MIN. DD Veya KMM 220E MIN. DD ) Ve KMM 305E MIN. DD Ve ( KMM 332 MIN. DD Veya KMM 332E MIN. DD ) Ve ( KMM 308E MIN. DD Veya KMM 308 MIN. DD )"
+   "requirement": "( KMM 220 MIN. DD Veya KMM 220E MIN. DD ) Ve ( KMM 305E MIN. DD Veya KMM 305 MIN. DD ) Ve ( KMM 332 MIN. DD Veya KMM 332E MIN. DD ) Ve ( KMM 308E MIN. DD Veya KMM 308 MIN. DD )"
   },
   {
    "code": "KMM 483E",
    "name": "Araştırma Projesi I",
    "branch": "KMM",
-   "requirement": "( KMM 220 MIN. DD Veya KMM 220E MIN. DD ) Ve KMM 305E MIN. DD Ve ( KMM 332 MIN. DD Veya KMM 332E MIN. DD ) Ve ( KMM 308E MIN. DD Veya KMM 308 MIN. DD )"
+   "requirement": "( KMM 220 MIN. DD Veya KMM 220E MIN. DD ) Ve ( KMM 305E MIN. DD Veya KMM 305 MIN. DD ) Ve ( KMM 332 MIN. DD Veya KMM 332E MIN. DD ) Ve ( KMM 308E MIN. DD Veya KMM 308 MIN. DD )"
   },
   {
    "code": "KMM 484",
@@ -22957,13 +23105,13 @@
    "code": "MAT 234",
    "name": "Kısmi Diferansiyel Denklemler",
    "branch": "MAT",
-   "requirement": "( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya BIO 210E MIN. DD Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) Veya EEE 210E MIN. DD Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya ( GEM 210E MIN. DD Veya GEM 210 MIN. DD ) Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD )"
+   "requirement": "( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( BIO 210E MIN. DD Veya BIO 210 MIN. DD ) Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) Veya EEE 210E MIN. DD Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya ( GEM 210E MIN. DD Veya GEM 210 MIN. DD ) Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD )"
   },
   {
    "code": "MAT 234E",
    "name": "Partial Differential Equations",
    "branch": "MAT",
-   "requirement": "( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya BIO 210E MIN. DD Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) Veya EEE 210E MIN. DD Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya ( GEM 210E MIN. DD Veya GEM 210 MIN. DD ) Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD )"
+   "requirement": "( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( BIO 210E MIN. DD Veya BIO 210 MIN. DD ) Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) Veya EEE 210E MIN. DD Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya ( GEM 210E MIN. DD Veya GEM 210 MIN. DD ) Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD )"
   },
   {
    "code": "MAT 242",
@@ -23237,13 +23385,13 @@
    "code": "MAT 342",
    "name": "Diferansiyel Geometri",
    "branch": "MAT",
-   "requirement": "( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya BIO 210E MIN. DD Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya EEE 210E MIN. DD Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( GEM 210E MIN. DD Veya GEM 210 MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD )"
+   "requirement": "( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya ( BIO 210E MIN. DD Veya BIO 210 MIN. DD ) Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya EEE 210E MIN. DD Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( GEM 210E MIN. DD Veya GEM 210 MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD )"
   },
   {
    "code": "MAT 342E",
    "name": "Differential Geometry",
    "branch": "MAT",
-   "requirement": "( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya BIO 210E MIN. DD Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya EEE 210E MIN. DD Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( GEM 210E MIN. DD Veya GEM 210 MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD )"
+   "requirement": "( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya ( BIO 210E MIN. DD Veya BIO 210 MIN. DD ) Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya EEE 210E MIN. DD Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( GEM 210E MIN. DD Veya GEM 210 MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD )"
   },
   {
    "code": "MAT 343",
@@ -23351,13 +23499,13 @@
    "code": "MAT 374",
    "name": "Hes. Sürekli Ortamlar Mekaniği",
    "branch": "MAT",
-   "requirement": "( FIZ 101 MIN. DD Veya FIZ 101E MIN. DD ) Ve ( ( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya BIO 210E MIN. DD Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) Veya EEE 210E MIN. DD Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya ( GEM 210E MIN. DD Veya GEM 210 MIN. DD ) Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD ) Veya ( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) )"
+   "requirement": "( FIZ 101 MIN. DD Veya FIZ 101E MIN. DD ) Ve ( ( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( BIO 210E MIN. DD Veya BIO 210 MIN. DD ) Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) Veya EEE 210E MIN. DD Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya ( GEM 210E MIN. DD Veya GEM 210 MIN. DD ) Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD ) Veya ( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) )"
   },
   {
    "code": "MAT 374E",
    "name": "Hes. Sürekli Ortamlar Mekaniği",
    "branch": "MAT",
-   "requirement": "( FIZ 101 MIN. DD Veya FIZ 101E MIN. DD ) Ve ( ( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya BIO 210E MIN. DD Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) Veya EEE 210E MIN. DD Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya ( GEM 210E MIN. DD Veya GEM 210 MIN. DD ) Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD ) Veya ( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) )"
+   "requirement": "( FIZ 101 MIN. DD Veya FIZ 101E MIN. DD ) Ve ( ( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( BIO 210E MIN. DD Veya BIO 210 MIN. DD ) Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) Veya EEE 210E MIN. DD Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya ( GEM 210E MIN. DD Veya GEM 210 MIN. DD ) Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD ) Veya ( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) )"
   },
   {
    "code": "MAT 381",
@@ -23645,13 +23793,13 @@
    "code": "MAT 471",
    "name": "Finans Matematiği",
    "branch": "MAT",
-   "requirement": "( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya BIO 210E MIN. DD Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) Veya EEE 210E MIN. DD Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya ( GEM 210E MIN. DD Veya GEM 210 MIN. DD ) Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD ) Veya ( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( END 210E MIN. DD Veya END 210 MIN. DD ) Veya ECN 207E MIN. DD"
+   "requirement": "( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya ( BIO 210E MIN. DD Veya BIO 210 MIN. DD ) Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) Veya EEE 210E MIN. DD Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya ( GEM 210E MIN. DD Veya GEM 210 MIN. DD ) Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD ) Veya ( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( END 210E MIN. DD Veya END 210 MIN. DD ) Veya ECN 207E MIN. DD"
   },
   {
    "code": "MAT 471E",
    "name": "Financial Mathematics",
    "branch": "MAT",
-   "requirement": "( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya BIO 210E MIN. DD Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) Veya EEE 210E MIN. DD Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya ( GEM 210E MIN. DD Veya GEM 210 MIN. DD ) Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD ) Veya ( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( END 210E MIN. DD Veya END 210 MIN. DD ) Veya ECN 207E MIN. DD"
+   "requirement": "( MAT 232 MIN. DD Veya MAT 232E MIN. DD ) Veya ( BIO 210E MIN. DD Veya BIO 210 MIN. DD ) Veya ( BLG 210E MIN. DD Veya BLG 210 MIN. DD ) Veya ( CEV 210 MIN. DD Veya CEV 210E MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) Veya EEE 210E MIN. DD Veya ( EEF 210E MIN. DD Veya EEF 210 MIN. DD ) Veya ( FIZ 210 MIN. DD Veya FIZ 210E MIN. DD ) Veya ( GEM 210E MIN. DD Veya GEM 210 MIN. DD ) Veya ( GEO 220E MIN. DD Veya GEO 220 MIN. DD ) Veya ( INS 210E MIN. DD Veya INS 210 MIN. DD ) Veya ( KIM 271 MIN. DD Veya KIM 271E MIN. DD ) Veya ( MAK 210 MIN. DD Veya MAK 210E MIN. DD ) Veya ( MAT 201 MIN. DD Veya MAT 201E MIN. DD ) Veya ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( END 210E MIN. DD Veya END 210 MIN. DD ) Veya ECN 207E MIN. DD"
   },
   {
    "code": "MAT 472",
@@ -26737,13 +26885,13 @@
    "code": "MTT 102",
    "name": "İleri Lineer Cebir",
    "branch": "MTT",
-   "requirement": "( MAT 143 MIN. DD Veya MAT 143E MIN. DD ) Veya ( MAT 141 MIN. DD Veya MAT 141E MIN. DD ) Veya MAT 121 MIN. DD Veya BBF 102E MIN. DD Veya ( EEF 281 MIN. DD Veya EEF 281E MIN. DD ) Veya ( MAT 261 MIN. DD Veya MAT 261E MIN. DD ) Veya MTH 281 MIN. DD Veya ( MAK 114 MIN. DD Veya MAK 114E MIN. DD )"
+   "requirement": "( MAT 143 MIN. DD Veya MAT 143E MIN. DD ) Veya ( MAT 141 MIN. DD Veya MAT 141E MIN. DD ) Veya MAT 121 MIN. DD Veya ( BBF 102E MIN. DD Veya BBF 102 MIN. DD ) Veya ( EEF 281 MIN. DD Veya EEF 281E MIN. DD ) Veya ( MAT 261 MIN. DD Veya MAT 261E MIN. DD ) Veya MTH 281 MIN. DD Veya ( MAK 114 MIN. DD Veya MAK 114E MIN. DD )"
   },
   {
    "code": "MTT 102E",
    "name": "Advanced Linear Algebra",
    "branch": "MTT",
-   "requirement": "( MAT 143 MIN. DD Veya MAT 143E MIN. DD ) Veya ( MAT 141 MIN. DD Veya MAT 141E MIN. DD ) Veya MAT 121 MIN. DD Veya BBF 102E MIN. DD Veya ( EEF 281 MIN. DD Veya EEF 281E MIN. DD ) Veya ( MAT 261 MIN. DD Veya MAT 261E MIN. DD ) Veya MTH 281 MIN. DD Veya ( MAK 114 MIN. DD Veya MAK 114E MIN. DD )"
+   "requirement": "( MAT 143 MIN. DD Veya MAT 143E MIN. DD ) Veya ( MAT 141 MIN. DD Veya MAT 141E MIN. DD ) Veya MAT 121 MIN. DD Veya ( BBF 102E MIN. DD Veya BBF 102 MIN. DD ) Veya ( EEF 281 MIN. DD Veya EEF 281E MIN. DD ) Veya ( MAT 261 MIN. DD Veya MAT 261E MIN. DD ) Veya MTH 281 MIN. DD Veya ( MAK 114 MIN. DD Veya MAK 114E MIN. DD )"
   },
   {
    "code": "MTT 201",
@@ -27657,7 +27805,7 @@
    "code": "NUM 312E",
    "name": "Thermal Hydraulics of Nuclear Reactors",
    "branch": "NUM",
-   "requirement": "( TER 201 MIN. DD Veya TER 201E MIN. DD ) Veya ( KMM 224 MIN. DD Veya KMM 224E MIN. DD ) Veya ( GEM 204 MIN. DD Veya GEM 204E MIN. DD ) Veya ( UCK 207 MIN. DD Veya UCK 207E MIN. DD ) Veya ( KIM 202 MIN. DD Veya KIM 202E MIN. DD ) Veya ( ELK 234 MIN. DD Veya ELK 234E MIN. DD ) Veya ( JEO 272 MIN. DD Veya JEO 272E MIN. DD ) Veya JEO 218 MIN. DD Veya ( JEO 212 MIN. DD Veya JEO 212E MIN. DD ) Veya ( GID 212 MIN. DD Veya GID 212E MIN. DD ) Veya GID 214 MIN. DD Veya ( MET 215 MIN. DD Veya MET 215E MIN. DD ) Veya ( UCK 212 MIN. DD Veya UCK 212E MIN. DD ) Veya ( GMI 213 MIN. DD Veya GMI 213E MIN. DD ) Veya FIZ 274 MIN. DD"
+   "requirement": "( TER 201 MIN. DD Veya TER 201E MIN. DD ) Veya ( KMM 224 MIN. DD Veya KMM 224E MIN. DD ) Veya ( GEM 204 MIN. DD Veya GEM 204E MIN. DD ) Veya ( UCK 207 MIN. DD Veya UCK 207E MIN. DD ) Veya ( KIM 202 MIN. DD Veya KIM 202E MIN. DD ) Veya ( ELK 234 MIN. DD Veya ELK 234E MIN. DD ) Veya ( JEO 272 MIN. DD Veya JEO 272E MIN. DD ) Veya JEO 218 MIN. DD Veya ( JEO 212 MIN. DD Veya JEO 212E MIN. DD ) Veya ( GID 212 MIN. DD Veya GID 212E MIN. DD ) Veya GID 214 MIN. DD Veya ( MET 215 MIN. DD Veya MET 215E MIN. DD ) Veya ( UCK 212 MIN. DD Veya UCK 212E MIN. DD ) Veya ( GMI 213 MIN. DD Veya GMI 213E MIN. DD ) Veya ( FIZ 274 MIN. DD Veya FIZ 274E MIN. DD )"
   },
   {
    "code": "NUM 314E",
@@ -27962,6 +28110,12 @@
    "branch": "PET"
   },
   {
+   "code": "PET 309",
+   "name": "Akışkan ve Kayaç Özellikleri Lab.",
+   "branch": "PET",
+   "requirement": "PET 211E MIN. DD Ve ( PET 212 MIN. DD Veya PET 212E MIN. DD )"
+  },
+  {
    "code": "PET 309E",
    "name": "Fluid and Rock Properties Lab.",
    "branch": "PET",
@@ -28025,6 +28179,12 @@
    "requirement": "( STA 204 MIN. DD Veya STA 204E MIN. DD ) Ve ( AKM 204 MIN. DD Veya AKM 204E MIN. DD )"
   },
   {
+   "code": "PET 335",
+   "name": "Well Logging I",
+   "branch": "PET",
+   "requirement": "( PET 212 MIN. DD Veya PET 212E MIN. DD )"
+  },
+  {
    "code": "PET 335E",
    "name": "Well Logging I",
    "branch": "PET",
@@ -28070,13 +28230,13 @@
    "code": "PET 346",
    "name": "Safety & Envirnmntl Protection",
    "branch": "PET",
-   "requirement": "( PET 321 MIN. DD Veya PET 321E MIN. DD ) Veya PET 309E MIN. DD"
+   "requirement": "( PET 321 MIN. DD Veya PET 321E MIN. DD ) Veya ( PET 309E MIN. DD Veya PET 309 MIN. DD )"
   },
   {
    "code": "PET 346E",
    "name": "Safety & Envirnmntl Protection",
    "branch": "PET",
-   "requirement": "( PET 321 MIN. DD Veya PET 321E MIN. DD ) Veya PET 309E MIN. DD"
+   "requirement": "( PET 321 MIN. DD Veya PET 321E MIN. DD ) Veya ( PET 309E MIN. DD Veya PET 309 MIN. DD )"
   },
   {
    "code": "PET 349E",
@@ -28115,10 +28275,16 @@
    "requirement": "( PET 212 MIN. DD Veya PET 212E MIN. DD )"
   },
   {
+   "code": "PET 416",
+   "name": "Well Logging II",
+   "branch": "PET",
+   "requirement": "PET 415E MIN. DD Veya ( PET 335E MIN. DD Veya PET 335 MIN. DD )"
+  },
+  {
    "code": "PET 416E",
    "name": "Well Logging II",
    "branch": "PET",
-   "requirement": "PET 415E MIN. DD Veya PET 335E MIN. DD"
+   "requirement": "PET 415E MIN. DD Veya ( PET 335E MIN. DD Veya PET 335 MIN. DD )"
   },
   {
    "code": "PET 417",
@@ -29136,7 +29302,7 @@
    "code": "SEC 221E",
    "name": "Fundamentals of Cryptography",
    "branch": "SEC",
-   "requirement": "BBF 103E MIN. DD"
+   "requirement": "( BBF 103E MIN. DD Veya BBF 103 MIN. DD )"
   },
   {
    "code": "SEC 311E",
@@ -29160,7 +29326,7 @@
    "code": "SEC 322E",
    "name": "Güvenli Programlama",
    "branch": "SEC",
-   "requirement": "BBF 203E MIN. DD"
+   "requirement": "( BBF 203E MIN. DD Veya BBF 203 MIN. DD )"
   },
   {
    "code": "SEC 411E",
@@ -29876,10 +30042,22 @@
    "requirement": "( TEK 221 MIN. DD Veya TEK 221E MIN. DD ) Veya ( TEK 231 MIN. DD Veya TEK 231E MIN. DD ) Veya ( TEK 233E MIN. DD Veya TEK 233 MIN. DD )"
   },
   {
+   "code": "TEK 301",
+   "name": "Nonwoven Technology",
+   "branch": "TEK",
+   "requirement": "( TEK 112 MIN. DD Veya TEK 112E MIN. DD ) Veya ( TEK 114 MIN. DD Veya TEK 114E MIN. DD ) Veya ( TEK 116E MIN. DD Veya TEK 116 MIN. DD )"
+  },
+  {
    "code": "TEK 301E",
    "name": "Nonwoven Technology",
    "branch": "TEK",
    "requirement": "( TEK 112 MIN. DD Veya TEK 112E MIN. DD ) Veya ( TEK 114 MIN. DD Veya TEK 114E MIN. DD ) Veya ( TEK 116E MIN. DD Veya TEK 116 MIN. DD )"
+  },
+  {
+   "code": "TEK 302",
+   "name": "Int.toColoration&Finishing Prc",
+   "branch": "TEK",
+   "requirement": "( TEK 211 MIN. DD Veya TEK 211E MIN. DD ) Veya ( TEK 213E MIN. DD Veya TEK 213 MIN. DD )"
   },
   {
    "code": "TEK 302E",
@@ -30143,7 +30321,7 @@
    "code": "TEK 403E",
    "name": "Textile Finishing Processes",
    "branch": "TEK",
-   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya TEK 302E MIN. DD"
+   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya ( TEK 302E MIN. DD Veya TEK 302 MIN. DD )"
   },
   {
    "code": "TEK 411",
@@ -30161,7 +30339,7 @@
    "code": "TEK 412E",
    "name": "Textile Finishing Processes",
    "branch": "TEK",
-   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya TEK 302E MIN. DD"
+   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya ( TEK 302E MIN. DD Veya TEK 302 MIN. DD )"
   },
   {
    "code": "TEK 413E",
@@ -30209,13 +30387,13 @@
    "code": "TEK 422",
    "name": "Boya ve Baskı Teknolojileri",
    "branch": "TEK",
-   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya TEK 302E MIN. DD"
+   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya ( TEK 302E MIN. DD Veya TEK 302 MIN. DD )"
   },
   {
    "code": "TEK 422E",
    "name": "Dyeing &Printing Technologies",
    "branch": "TEK",
-   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya TEK 302E MIN. DD"
+   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya ( TEK 302E MIN. DD Veya TEK 302 MIN. DD )"
   },
   {
    "code": "TEK 424E",
@@ -30335,25 +30513,25 @@
    "code": "TEK 456",
    "name": "Tekstil Terbiyesi Yardımcı Mad",
    "branch": "TEK",
-   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya TEK 302E MIN. DD"
+   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya ( TEK 302E MIN. DD Veya TEK 302 MIN. DD )"
   },
   {
    "code": "TEK 456E",
    "name": "Textile Finishing Auxiliaries",
    "branch": "TEK",
-   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya TEK 302E MIN. DD"
+   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya ( TEK 302E MIN. DD Veya TEK 302 MIN. DD )"
   },
   {
    "code": "TEK 457",
    "name": "Ön Terbiye İşlemleri",
    "branch": "TEK",
-   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya TEK 302E MIN. DD"
+   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya ( TEK 302E MIN. DD Veya TEK 302 MIN. DD )"
   },
   {
    "code": "TEK 457E",
    "name": "Pre-treatment Processes",
    "branch": "TEK",
-   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya TEK 302E MIN. DD"
+   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya ( TEK 302E MIN. DD Veya TEK 302 MIN. DD )"
   },
   {
    "code": "TEK 458",
@@ -30395,7 +30573,7 @@
    "code": "TEK 462E",
    "name": "Ecological Textiles",
    "branch": "TEK",
-   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya TEK 302E MIN. DD"
+   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya ( TEK 302E MIN. DD Veya TEK 302 MIN. DD )"
   },
   {
    "code": "TEK 463",
@@ -30461,13 +30639,13 @@
    "code": "TEK 468E",
    "name": "Textile Finishing Auxiliaries",
    "branch": "TEK",
-   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya TEK 302E MIN. DD"
+   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya ( TEK 302E MIN. DD Veya TEK 302 MIN. DD )"
   },
   {
    "code": "TEK 469E",
    "name": "Pre-treatment Processes",
    "branch": "TEK",
-   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya TEK 302E MIN. DD"
+   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya ( TEK 302E MIN. DD Veya TEK 302 MIN. DD )"
   },
   {
    "code": "TEK 470",
@@ -30557,7 +30735,7 @@
    "code": "TEK 479E",
    "name": "Dyeing &Printing Technologies",
    "branch": "TEK",
-   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya TEK 302E MIN. DD"
+   "requirement": "( TEK 312 MIN. DD Veya TEK 312E MIN. DD ) Veya ( TEK 316 MIN. DD Veya TEK 316E MIN. DD ) Veya ( TEK 302E MIN. DD Veya TEK 302 MIN. DD )"
   },
   {
    "code": "TEK 480E",
@@ -30935,6 +31113,12 @@
    "classReq": "95,00"
   },
   {
+   "code": "UCK 203",
+   "name": "Circuits, Signals and Systems",
+   "branch": "UCK",
+   "requirement": "( FIZ 102 MIN. DD Veya FIZ 102E MIN. DD )"
+  },
+  {
    "code": "UCK 203E",
    "name": "Circuits, Signals and Systems",
    "branch": "UCK",
@@ -30995,6 +31179,12 @@
    "code": "UCK 215E",
    "name": "Aerospace Materials",
    "branch": "UCK"
+  },
+  {
+   "code": "UCK 217",
+   "name": "Aerospace Materials",
+   "branch": "UCK",
+   "requirement": "( KIM 101 MIN. DD Veya KIM 101E MIN. DD )"
   },
   {
    "code": "UCK 217E",
@@ -31226,19 +31416,19 @@
    "code": "UCK 354",
    "name": "Sayısal Tasarıma Giriş",
    "branch": "UCK",
-   "requirement": "UCK 203E MIN. DD Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
+   "requirement": "( UCK 203E MIN. DD Veya UCK 203 MIN. DD ) Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
   },
   {
    "code": "UCK 354E",
    "name": "Intro to Digital Design",
    "branch": "UCK",
-   "requirement": "UCK 203E MIN. DD Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
+   "requirement": "( UCK 203E MIN. DD Veya UCK 203 MIN. DD ) Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
   },
   {
    "code": "UCK 360E",
    "name": "Automatic Control I",
    "branch": "UCK",
-   "requirement": "UCK 203E MIN. DD Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
+   "requirement": "( UCK 203E MIN. DD Veya UCK 203 MIN. DD ) Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
   },
   {
    "code": "UCK 361",
@@ -31452,13 +31642,13 @@
    "code": "UCK 448",
    "name": "Aviyonik Sistemler",
    "branch": "UCK",
-   "requirement": "UCK 203E MIN. DD Veya ( EHB 211 MIN. DD Veya EHB 211E MIN. DD ) Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
+   "requirement": "( UCK 203E MIN. DD Veya UCK 203 MIN. DD ) Veya ( EHB 211 MIN. DD Veya EHB 211E MIN. DD ) Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
   },
   {
    "code": "UCK 448E",
    "name": "Avionic Systems",
    "branch": "UCK",
-   "requirement": "UCK 203E MIN. DD Veya ( EHB 211 MIN. DD Veya EHB 211E MIN. DD ) Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
+   "requirement": "( UCK 203E MIN. DD Veya UCK 203 MIN. DD ) Veya ( EHB 211 MIN. DD Veya EHB 211E MIN. DD ) Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
   },
   {
    "code": "UCK 451",
@@ -31496,13 +31686,13 @@
    "code": "UCK 461",
    "name": "Uçak Bordo Aletleri",
    "branch": "UCK",
-   "requirement": "UCK 203E MIN. DD Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
+   "requirement": "( UCK 203E MIN. DD Veya UCK 203 MIN. DD ) Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
   },
   {
    "code": "UCK 461E",
    "name": "Flight Instruments",
    "branch": "UCK",
-   "requirement": "UCK 203E MIN. DD Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
+   "requirement": "( UCK 203E MIN. DD Veya UCK 203 MIN. DD ) Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
   },
   {
    "code": "UCK 468",
@@ -31704,13 +31894,13 @@
    "code": "UZB 341",
    "name": "Ölçme Tekniği",
    "branch": "UZB",
-   "requirement": "UCK 203E MIN. DD Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
+   "requirement": "( UCK 203E MIN. DD Veya UCK 203 MIN. DD ) Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
   },
   {
    "code": "UZB 341E",
    "name": "Measurement Techniques",
    "branch": "UZB",
-   "requirement": "UCK 203E MIN. DD Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
+   "requirement": "( UCK 203E MIN. DD Veya UCK 203 MIN. DD ) Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
   },
   {
    "code": "UZB 342E",
@@ -31834,13 +32024,13 @@
    "code": "UZB 425",
    "name": "Sayısal Kontrol Tasarımı",
    "branch": "UZB",
-   "requirement": "UCK 203E MIN. DD Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
+   "requirement": "( UCK 203E MIN. DD Veya UCK 203 MIN. DD ) Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
   },
   {
    "code": "UZB 425E",
    "name": "Digital Control Design",
    "branch": "UZB",
-   "requirement": "UCK 203E MIN. DD Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
+   "requirement": "( UCK 203E MIN. DD Veya UCK 203 MIN. DD ) Veya ( ELK 221 MIN. DD Veya ELK 221E MIN. DD )"
   },
   {
    "code": "UZB 431",
@@ -31923,6 +32113,12 @@
    "code": "VBA 115E",
    "name": "Fundamentals of Linux",
    "branch": "VBA"
+  },
+  {
+   "code": "VBA 124",
+   "name": "Nesneye Yönelik Programlama",
+   "branch": "VBA",
+   "requirement": "( VBA 113E MIN. DD Veya VBA 113 MIN. DD )"
   },
   {
    "code": "VBA 124E",
@@ -32567,6 +32763,10 @@
   },
   {
    "from": "AKM 204",
+   "to": "DEN 310"
+  },
+  {
+   "from": "AKM 204",
    "to": "DEN 310E"
   },
   {
@@ -32576,6 +32776,10 @@
   {
    "from": "AKM 204",
    "to": "DEN 312E"
+  },
+  {
+   "from": "AKM 204",
+   "to": "DEN 323"
   },
   {
    "from": "AKM 204",
@@ -32879,6 +33083,10 @@
   },
   {
    "from": "AKM 204E",
+   "to": "DEN 310"
+  },
+  {
+   "from": "AKM 204E",
    "to": "DEN 310E"
   },
   {
@@ -32888,6 +33096,10 @@
   {
    "from": "AKM 204E",
    "to": "DEN 312E"
+  },
+  {
+   "from": "AKM 204E",
+   "to": "DEN 323"
   },
   {
    "from": "AKM 204E",
@@ -33171,6 +33383,10 @@
   },
   {
    "from": "AKM 205",
+   "to": "DEN 310"
+  },
+  {
+   "from": "AKM 205",
    "to": "DEN 310E"
   },
   {
@@ -33180,6 +33396,10 @@
   {
    "from": "AKM 205",
    "to": "DEN 312E"
+  },
+  {
+   "from": "AKM 205",
+   "to": "DEN 323"
   },
   {
    "from": "AKM 205",
@@ -33459,6 +33679,10 @@
   },
   {
    "from": "AKM 205E",
+   "to": "DEN 310"
+  },
+  {
+   "from": "AKM 205E",
    "to": "DEN 310E"
   },
   {
@@ -33468,6 +33692,10 @@
   {
    "from": "AKM 205E",
    "to": "DEN 312E"
+  },
+  {
+   "from": "AKM 205E",
+   "to": "DEN 323"
   },
   {
    "from": "AKM 205E",
@@ -34254,6 +34482,26 @@
    "to": "ARC 312E"
   },
   {
+   "from": "BBF 102",
+   "to": "BHB 202E"
+  },
+  {
+   "from": "BBF 102",
+   "to": "BHB 301E"
+  },
+  {
+   "from": "BBF 102",
+   "to": "BHB 304"
+  },
+  {
+   "from": "BBF 102",
+   "to": "MTT 102"
+  },
+  {
+   "from": "BBF 102",
+   "to": "MTT 102E"
+  },
+  {
    "from": "BBF 102E",
    "to": "BHB 202E"
   },
@@ -34272,6 +34520,14 @@
   {
    "from": "BBF 102E",
    "to": "MTT 102E"
+  },
+  {
+   "from": "BBF 103",
+   "to": "BHB 301E"
+  },
+  {
+   "from": "BBF 103",
+   "to": "SEC 221E"
   },
   {
    "from": "BBF 103E",
@@ -34296,6 +34552,10 @@
   {
    "from": "BBF 201E",
    "to": "BHB 402E"
+  },
+  {
+   "from": "BBF 203",
+   "to": "SEC 322E"
   },
   {
    "from": "BBF 203E",
@@ -35091,6 +35351,10 @@
   },
   {
    "from": "BIL 104",
+   "to": "BBF 203"
+  },
+  {
+   "from": "BIL 104",
    "to": "BBF 203E"
   },
   {
@@ -35291,6 +35555,10 @@
   },
   {
    "from": "BIL 104E",
+   "to": "BBF 203"
+  },
+  {
+   "from": "BIL 104E",
    "to": "BBF 203E"
   },
   {
@@ -35488,6 +35756,10 @@
   {
    "from": "BIL 104E",
    "to": "YZV 435E"
+  },
+  {
+   "from": "BIL 105",
+   "to": "BBF 203"
   },
   {
    "from": "BIL 105",
@@ -35604,6 +35876,10 @@
   {
    "from": "BIL 105",
    "to": "YZV 448E"
+  },
+  {
+   "from": "BIL 105E",
+   "to": "BBF 203"
   },
   {
    "from": "BIL 105E",
@@ -36975,6 +37251,10 @@
   },
   {
    "from": "BIO 207",
+   "to": "BIO 315"
+  },
+  {
+   "from": "BIO 207",
    "to": "BIO 315E"
   },
   {
@@ -36988,6 +37268,10 @@
   {
    "from": "BIO 207",
    "to": "BIO 490E"
+  },
+  {
+   "from": "BIO 207E",
+   "to": "BIO 315"
   },
   {
    "from": "BIO 207E",
@@ -37011,11 +37295,63 @@
   },
   {
    "from": "BIO 207EL",
+   "to": "BIO 315L"
+  },
+  {
+   "from": "BIO 207EL",
    "to": "BIO 317EL"
   },
   {
    "from": "BIO 207EL",
    "to": "BIO 415EL"
+  },
+  {
+   "from": "BIO 210",
+   "to": "BIO 422"
+  },
+  {
+   "from": "BIO 210",
+   "to": "BIO 422E"
+  },
+  {
+   "from": "BIO 210",
+   "to": "FIZ 321"
+  },
+  {
+   "from": "BIO 210",
+   "to": "FIZ 321E"
+  },
+  {
+   "from": "BIO 210",
+   "to": "MAT 234"
+  },
+  {
+   "from": "BIO 210",
+   "to": "MAT 234E"
+  },
+  {
+   "from": "BIO 210",
+   "to": "MAT 342"
+  },
+  {
+   "from": "BIO 210",
+   "to": "MAT 342E"
+  },
+  {
+   "from": "BIO 210",
+   "to": "MAT 374"
+  },
+  {
+   "from": "BIO 210",
+   "to": "MAT 374E"
+  },
+  {
+   "from": "BIO 210",
+   "to": "MAT 471"
+  },
+  {
+   "from": "BIO 210",
+   "to": "MAT 471E"
   },
   {
    "from": "BIO 210E",
@@ -37075,6 +37411,10 @@
   },
   {
    "from": "BIO 211",
+   "to": "BIO 315"
+  },
+  {
+   "from": "BIO 211",
    "to": "BIO 315E"
   },
   {
@@ -37099,6 +37439,10 @@
   },
   {
    "from": "BIO 211E",
+   "to": "BIO 315"
+  },
+  {
+   "from": "BIO 211E",
    "to": "BIO 315E"
   },
   {
@@ -37119,6 +37463,10 @@
   },
   {
    "from": "BIO 212",
+   "to": "BIO 326"
+  },
+  {
+   "from": "BIO 212",
    "to": "BIO 326E"
   },
   {
@@ -37132,6 +37480,10 @@
   {
    "from": "BIO 212E",
    "to": "BIO 317E"
+  },
+  {
+   "from": "BIO 212E",
+   "to": "BIO 326"
   },
   {
    "from": "BIO 212E",
@@ -37192,6 +37544,30 @@
   {
    "from": "BIO 221E",
    "to": "BIO 468E"
+  },
+  {
+   "from": "BIO 232",
+   "to": "BIO 315"
+  },
+  {
+   "from": "BIO 232",
+   "to": "BIO 315E"
+  },
+  {
+   "from": "BIO 232",
+   "to": "BIO 351"
+  },
+  {
+   "from": "BIO 232",
+   "to": "BIO 351E"
+  },
+  {
+   "from": "BIO 232",
+   "to": "BIO 441E"
+  },
+  {
+   "from": "BIO 232E",
+   "to": "BIO 315"
   },
   {
    "from": "BIO 232E",
@@ -37402,6 +37778,42 @@
    "to": "BIO 481E"
   },
   {
+   "from": "BIO 315",
+   "to": "BIO 328E"
+  },
+  {
+   "from": "BIO 315",
+   "to": "BIO 332"
+  },
+  {
+   "from": "BIO 315",
+   "to": "BIO 332E"
+  },
+  {
+   "from": "BIO 315",
+   "to": "BIO 342"
+  },
+  {
+   "from": "BIO 315",
+   "to": "BIO 342E"
+  },
+  {
+   "from": "BIO 315",
+   "to": "BIO 462"
+  },
+  {
+   "from": "BIO 315",
+   "to": "BIO 462E"
+  },
+  {
+   "from": "BIO 315",
+   "to": "BIO 471"
+  },
+  {
+   "from": "BIO 315",
+   "to": "BIO 471E"
+  },
+  {
    "from": "BIO 315E",
    "to": "BIO 328E"
   },
@@ -37439,6 +37851,10 @@
   },
   {
    "from": "BIO 315EL",
+   "to": "BIO 328EL"
+  },
+  {
+   "from": "BIO 315L",
    "to": "BIO 328EL"
   },
   {
@@ -37699,6 +38115,10 @@
   },
   {
    "from": "BLG 102",
+   "to": "BBF 203"
+  },
+  {
+   "from": "BLG 102",
    "to": "BBF 203E"
   },
   {
@@ -37799,6 +38219,10 @@
   },
   {
    "from": "BLG 102E",
+   "to": "BBF 203"
+  },
+  {
+   "from": "BLG 102E",
    "to": "BBF 203E"
   },
   {
@@ -37896,6 +38320,10 @@
   {
    "from": "BLG 102E",
    "to": "YZV 448E"
+  },
+  {
+   "from": "BLG 112",
+   "to": "BBF 204"
   },
   {
    "from": "BLG 112",
@@ -37932,6 +38360,10 @@
   {
    "from": "BLG 112",
    "to": "YZV 321E"
+  },
+  {
+   "from": "BLG 112E",
+   "to": "BBF 204"
   },
   {
    "from": "BLG 112E",
@@ -39092,6 +39524,10 @@
   {
    "from": "BLG 252",
    "to": "BBF 301E"
+  },
+  {
+   "from": "BLG 252",
+   "to": "BBF 302"
   },
   {
    "from": "BLG 252",
@@ -39164,6 +39600,10 @@
   {
    "from": "BLG 252",
    "to": "BLG 468E"
+  },
+  {
+   "from": "BLG 252",
+   "to": "BLG 475"
   },
   {
    "from": "BLG 252",
@@ -39203,6 +39643,10 @@
   },
   {
    "from": "BLG 252E",
+   "to": "BBF 302"
+  },
+  {
+   "from": "BLG 252E",
    "to": "BBF 302E"
   },
   {
@@ -39272,6 +39716,10 @@
   {
    "from": "BLG 252E",
    "to": "BLG 468E"
+  },
+  {
+   "from": "BLG 252E",
+   "to": "BLG 475"
   },
   {
    "from": "BLG 252E",
@@ -39459,6 +39907,10 @@
   },
   {
    "from": "BLG 335",
+   "to": "BBF 303"
+  },
+  {
+   "from": "BLG 335",
    "to": "BBF 303E"
   },
   {
@@ -39472,6 +39924,10 @@
   {
    "from": "BLG 335",
    "to": "CEN 336E"
+  },
+  {
+   "from": "BLG 335E",
+   "to": "BBF 303"
   },
   {
    "from": "BLG 335E",
@@ -39623,6 +40079,10 @@
   },
   {
    "from": "BLG 381",
+   "to": "BBF 303"
+  },
+  {
+   "from": "BLG 381",
    "to": "BBF 303E"
   },
   {
@@ -39644,6 +40104,10 @@
   {
    "from": "BLG 381",
    "to": "CEN 336E"
+  },
+  {
+   "from": "BLG 381E",
+   "to": "BBF 303"
   },
   {
    "from": "BLG 381E",
@@ -41770,6 +42234,18 @@
    "to": "CAB 798"
   },
   {
+   "from": "CEN 102",
+   "to": "CEN 223E"
+  },
+  {
+   "from": "CEN 102",
+   "to": "CEN 252"
+  },
+  {
+   "from": "CEN 102",
+   "to": "CEN 252E"
+  },
+  {
    "from": "CEN 102E",
    "to": "CEN 223E"
   },
@@ -41780,6 +42256,10 @@
   {
    "from": "CEN 102E",
    "to": "CEN 252E"
+  },
+  {
+   "from": "CEN 112",
+   "to": "CEN 311E"
   },
   {
    "from": "CEN 112E",
@@ -43258,6 +43738,14 @@
    "to": "DEN 341E"
   },
   {
+   "from": "DEN 101E",
+   "to": "DEN 341"
+  },
+  {
+   "from": "DEN 101E",
+   "to": "DEN 341E"
+  },
+  {
    "from": "DEN 111",
    "to": "DEN 341"
   },
@@ -43300,6 +43788,10 @@
   {
    "from": "DEN 208E",
    "to": "DEN 441E"
+  },
+  {
+   "from": "DEN 210",
+   "to": "DEN 323"
   },
   {
    "from": "DEN 210",
@@ -43348,6 +43840,10 @@
   {
    "from": "DEN 210",
    "to": "MAT 471E"
+  },
+  {
+   "from": "DEN 210E",
+   "to": "DEN 323"
   },
   {
    "from": "DEN 210E",
@@ -43472,6 +43968,26 @@
   {
    "from": "DEN 320E",
    "to": "GEM 407E"
+  },
+  {
+   "from": "DEN 323",
+   "to": "DEN 302E"
+  },
+  {
+   "from": "DEN 323",
+   "to": "DEN 336E"
+  },
+  {
+   "from": "DEN 323",
+   "to": "DEN 348E"
+  },
+  {
+   "from": "DEN 323",
+   "to": "DEN 411"
+  },
+  {
+   "from": "DEN 323",
+   "to": "DEN 411E"
   },
   {
    "from": "DEN 323E",
@@ -45407,6 +45923,10 @@
   },
   {
    "from": "EEF 110",
+   "to": "BBF 203"
+  },
+  {
+   "from": "EEF 110",
    "to": "BBF 203E"
   },
   {
@@ -45496,6 +46016,10 @@
   {
    "from": "EEF 110",
    "to": "KON 445E"
+  },
+  {
+   "from": "EEF 110E",
+   "to": "BBF 203"
   },
   {
    "from": "EEF 110E",
@@ -46919,6 +47443,10 @@
   },
   {
    "from": "EHB 110",
+   "to": "BBF 203"
+  },
+  {
+   "from": "EHB 110",
    "to": "BBF 203E"
   },
   {
@@ -46976,6 +47504,10 @@
   {
    "from": "EHB 110",
    "to": "FIZ 272E"
+  },
+  {
+   "from": "EHB 110E",
+   "to": "BBF 203"
   },
   {
    "from": "EHB 110E",
@@ -53807,6 +54339,10 @@
   },
   {
    "from": "FIZ 101",
+   "to": "FIZ 274E"
+  },
+  {
+   "from": "FIZ 101",
    "to": "FIZ 282"
   },
   {
@@ -54123,6 +54659,10 @@
   },
   {
    "from": "FIZ 101E",
+   "to": "FIZ 274E"
+  },
+  {
+   "from": "FIZ 101E",
    "to": "FIZ 282"
   },
   {
@@ -54719,6 +55259,10 @@
   },
   {
    "from": "FIZ 102",
+   "to": "UCK 203"
+  },
+  {
+   "from": "FIZ 102",
    "to": "UCK 203E"
   },
   {
@@ -54996,6 +55540,10 @@
   {
    "from": "FIZ 102E",
    "to": "TEK 314E"
+  },
+  {
+   "from": "FIZ 102E",
+   "to": "UCK 203"
   },
   {
    "from": "FIZ 102E",
@@ -55607,6 +56155,10 @@
   },
   {
    "from": "FIZ 111",
+   "to": "FIZ 274E"
+  },
+  {
+   "from": "FIZ 111",
    "to": "FIZ 282"
   },
   {
@@ -55723,6 +56275,10 @@
   },
   {
    "from": "FIZ 111E",
+   "to": "FIZ 274E"
+  },
+  {
+   "from": "FIZ 111E",
    "to": "FIZ 282"
   },
   {
@@ -55815,6 +56371,10 @@
   },
   {
    "from": "FIZ 113",
+   "to": "FIZ 274E"
+  },
+  {
+   "from": "FIZ 113",
    "to": "FIZ 282"
   },
   {
@@ -55896,6 +56456,10 @@
   {
    "from": "FIZ 113E",
    "to": "FIZ 274"
+  },
+  {
+   "from": "FIZ 113E",
+   "to": "FIZ 274E"
   },
   {
    "from": "FIZ 113E",
@@ -57675,6 +58239,10 @@
   },
   {
    "from": "FIZ 274",
+   "to": "NUM 312E"
+  },
+  {
+   "from": "FIZ 274E",
    "to": "NUM 312E"
   },
   {
@@ -60402,6 +60970,14 @@
    "to": "GEO 403E"
   },
   {
+   "from": "GEO 325",
+   "to": "GEO 411"
+  },
+  {
+   "from": "GEO 325",
+   "to": "GEO 411E"
+  },
+  {
    "from": "GEO 325E",
    "to": "GEO 411"
   },
@@ -60590,6 +61166,10 @@
    "to": "NUM 312E"
   },
   {
+   "from": "GID 216",
+   "to": "GID 467"
+  },
+  {
    "from": "GID 216E",
    "to": "GID 467"
   },
@@ -60688,6 +61268,22 @@
   {
    "from": "GID 222E",
    "to": "GID 324E"
+  },
+  {
+   "from": "GID 226",
+   "to": "GID 312"
+  },
+  {
+   "from": "GID 226",
+   "to": "GID 312E"
+  },
+  {
+   "from": "GID 226",
+   "to": "GID 323"
+  },
+  {
+   "from": "GID 226",
+   "to": "GID 323E"
   },
   {
    "from": "GID 226E",
@@ -67591,6 +68187,10 @@
   },
   {
    "from": "JEF 222",
+   "to": "JEF 361"
+  },
+  {
+   "from": "JEF 222",
    "to": "JEF 361E"
   },
   {
@@ -67772,6 +68372,10 @@
   {
    "from": "JEF 222E",
    "to": "JEF 360E"
+  },
+  {
+   "from": "JEF 222E",
+   "to": "JEF 361"
   },
   {
    "from": "JEF 222E",
@@ -68663,6 +69267,10 @@
   },
   {
    "from": "KIM 101",
+   "to": "BIO 232"
+  },
+  {
+   "from": "KIM 101",
    "to": "BIO 232E"
   },
   {
@@ -68923,6 +69531,10 @@
   },
   {
    "from": "KIM 101",
+   "to": "KMM 315"
+  },
+  {
+   "from": "KIM 101",
    "to": "KMM 315E"
   },
   {
@@ -69020,6 +69632,10 @@
   {
    "from": "KIM 101",
    "to": "UCK 212E"
+  },
+  {
+   "from": "KIM 101",
+   "to": "UCK 217"
   },
   {
    "from": "KIM 101",
@@ -69043,6 +69659,10 @@
   },
   {
    "from": "KIM 101E",
+   "to": "BIO 232"
+  },
+  {
+   "from": "KIM 101E",
    "to": "BIO 232E"
   },
   {
@@ -69303,6 +69923,10 @@
   },
   {
    "from": "KIM 101E",
+   "to": "KMM 315"
+  },
+  {
+   "from": "KIM 101E",
    "to": "KMM 315E"
   },
   {
@@ -69400,6 +70024,10 @@
   {
    "from": "KIM 101E",
    "to": "UCK 212E"
+  },
+  {
+   "from": "KIM 101E",
+   "to": "UCK 217"
   },
   {
    "from": "KIM 101E",
@@ -69459,6 +70087,10 @@
   },
   {
    "from": "KIM 104",
+   "to": "BIO 315"
+  },
+  {
+   "from": "KIM 104",
    "to": "BIO 315E"
   },
   {
@@ -69548,6 +70180,10 @@
   {
    "from": "KIM 104",
    "to": "KIM 429"
+  },
+  {
+   "from": "KIM 104E",
+   "to": "BIO 315"
   },
   {
    "from": "KIM 104E",
@@ -70091,6 +70727,10 @@
   },
   {
    "from": "KIM 205",
+   "to": "BIO 315"
+  },
+  {
+   "from": "KIM 205",
    "to": "BIO 315E"
   },
   {
@@ -70180,6 +70820,10 @@
   {
    "from": "KIM 205E",
    "to": "BIO 311E"
+  },
+  {
+   "from": "KIM 205E",
+   "to": "BIO 315"
   },
   {
    "from": "KIM 205E",
@@ -70507,6 +71151,10 @@
   },
   {
    "from": "KIM 231",
+   "to": "BIO 315"
+  },
+  {
+   "from": "KIM 231",
    "to": "BIO 315E"
   },
   {
@@ -70672,6 +71320,10 @@
   {
    "from": "KIM 231",
    "to": "KIM 437E"
+  },
+  {
+   "from": "KIM 231E",
+   "to": "BIO 315"
   },
   {
    "from": "KIM 231E",
@@ -71155,6 +71807,10 @@
   },
   {
    "from": "KIM 303",
+   "to": "BIO 315"
+  },
+  {
+   "from": "KIM 303",
    "to": "BIO 315E"
   },
   {
@@ -71259,6 +71915,10 @@
   },
   {
    "from": "KIM 303E",
+   "to": "BIO 315"
+  },
+  {
+   "from": "KIM 303E",
    "to": "BIO 315E"
   },
   {
@@ -71608,6 +72268,10 @@
   {
    "from": "KMM 210E",
    "to": "MYZ 301E"
+  },
+  {
+   "from": "KMM 211",
+   "to": "KMM 305"
   },
   {
    "from": "KMM 211",
@@ -71644,6 +72308,10 @@
   {
    "from": "KMM 211",
    "to": "KMM 434E"
+  },
+  {
+   "from": "KMM 211E",
+   "to": "KMM 305"
   },
   {
    "from": "KMM 211E",
@@ -71695,6 +72363,10 @@
   },
   {
    "from": "KMM 220",
+   "to": "KMM 305"
+  },
+  {
+   "from": "KMM 220",
    "to": "KMM 305E"
   },
   {
@@ -71719,6 +72391,10 @@
   },
   {
    "from": "KMM 220E",
+   "to": "KMM 305"
+  },
+  {
+   "from": "KMM 220E",
    "to": "KMM 305E"
   },
   {
@@ -71739,6 +72415,10 @@
   },
   {
    "from": "KMM 224",
+   "to": "KMM 305"
+  },
+  {
+   "from": "KMM 224",
    "to": "KMM 305E"
   },
   {
@@ -71747,11 +72427,31 @@
   },
   {
    "from": "KMM 224E",
+   "to": "KMM 305"
+  },
+  {
+   "from": "KMM 224E",
    "to": "KMM 305E"
   },
   {
    "from": "KMM 224E",
    "to": "NUM 312E"
+  },
+  {
+   "from": "KMM 305",
+   "to": "KMM 451"
+  },
+  {
+   "from": "KMM 305",
+   "to": "KMM 451E"
+  },
+  {
+   "from": "KMM 305",
+   "to": "KMM 483"
+  },
+  {
+   "from": "KMM 305",
+   "to": "KMM 483E"
   },
   {
    "from": "KMM 305E",
@@ -72036,6 +72736,10 @@
   {
    "from": "KMP 431",
    "to": "KMP 432"
+  },
+  {
+   "from": "KON 110E",
+   "to": "BBF 203"
   },
   {
    "from": "KON 110E",
@@ -77807,6 +78511,10 @@
   },
   {
    "from": "MAT 101",
+   "to": "GMI 132"
+  },
+  {
+   "from": "MAT 101",
    "to": "GMI 132E"
   },
   {
@@ -77979,6 +78687,10 @@
   },
   {
    "from": "MAT 101E",
+   "to": "GMI 132"
+  },
+  {
+   "from": "MAT 101E",
    "to": "GMI 132E"
   },
   {
@@ -78131,7 +78843,15 @@
   },
   {
    "from": "MAT 102",
+   "to": "BBF 202"
+  },
+  {
+   "from": "MAT 102",
    "to": "BBF 202E"
+  },
+  {
+   "from": "MAT 102",
+   "to": "BIO 210"
   },
   {
    "from": "MAT 102",
@@ -78651,7 +79371,15 @@
   },
   {
    "from": "MAT 102E",
+   "to": "BBF 202"
+  },
+  {
+   "from": "MAT 102E",
    "to": "BBF 202E"
+  },
+  {
+   "from": "MAT 102E",
+   "to": "BIO 210"
   },
   {
    "from": "MAT 102E",
@@ -79212,6 +79940,10 @@
   {
    "from": "MAT 103",
    "to": "GMI 131E"
+  },
+  {
+   "from": "MAT 103",
+   "to": "GMI 132"
   },
   {
    "from": "MAT 103",
@@ -79504,6 +80236,10 @@
   {
    "from": "MAT 103E",
    "to": "GMI 131E"
+  },
+  {
+   "from": "MAT 103E",
+   "to": "GMI 132"
   },
   {
    "from": "MAT 103E",
@@ -79763,7 +80499,15 @@
   },
   {
    "from": "MAT 104",
+   "to": "BBF 202"
+  },
+  {
+   "from": "MAT 104",
    "to": "BBF 202E"
+  },
+  {
+   "from": "MAT 104",
+   "to": "BIO 210"
   },
   {
    "from": "MAT 104",
@@ -80084,6 +80828,10 @@
   {
    "from": "MAT 104",
    "to": "KMM 222E"
+  },
+  {
+   "from": "MAT 104",
+   "to": "KMM 315"
   },
   {
    "from": "MAT 104",
@@ -80447,7 +81195,15 @@
   },
   {
    "from": "MAT 104E",
+   "to": "BBF 202"
+  },
+  {
+   "from": "MAT 104E",
    "to": "BBF 202E"
+  },
+  {
+   "from": "MAT 104E",
+   "to": "BIO 210"
   },
   {
    "from": "MAT 104E",
@@ -80768,6 +81524,10 @@
   {
    "from": "MAT 104E",
    "to": "KMM 222E"
+  },
+  {
+   "from": "MAT 104E",
+   "to": "KMM 315"
   },
   {
    "from": "MAT 104E",
@@ -83635,6 +84395,10 @@
   },
   {
    "from": "MAT 210",
+   "to": "DEN 323"
+  },
+  {
+   "from": "MAT 210",
    "to": "DEN 323E"
   },
   {
@@ -84156,6 +84920,10 @@
   {
    "from": "MAT 210E",
    "to": "CEV 427E"
+  },
+  {
+   "from": "MAT 210E",
+   "to": "DEN 323"
   },
   {
    "from": "MAT 210E",
@@ -86639,6 +87407,10 @@
   },
   {
    "from": "MAT 287",
+   "to": "BIO 210"
+  },
+  {
+   "from": "MAT 287",
    "to": "BIO 210E"
   },
   {
@@ -86700,6 +87472,10 @@
   {
    "from": "MAT 287",
    "to": "SAV 302E"
+  },
+  {
+   "from": "MAT 287E",
+   "to": "BIO 210"
   },
   {
    "from": "MAT 287E",
@@ -93363,6 +94139,10 @@
   },
   {
    "from": "MUH 212",
+   "to": "BBF 302"
+  },
+  {
+   "from": "MUH 212",
    "to": "BBF 302E"
   },
   {
@@ -93404,6 +94184,10 @@
   {
    "from": "MUH 212",
    "to": "MUH 335E"
+  },
+  {
+   "from": "MUH 212E",
+   "to": "BBF 302"
   },
   {
    "from": "MUH 212E",
@@ -95639,6 +96423,10 @@
   },
   {
    "from": "PET 211E",
+   "to": "PET 309"
+  },
+  {
+   "from": "PET 211E",
    "to": "PET 309E"
   },
   {
@@ -95659,6 +96447,10 @@
   },
   {
    "from": "PET 212",
+   "to": "PET 309"
+  },
+  {
+   "from": "PET 212",
    "to": "PET 309E"
   },
   {
@@ -95668,6 +96460,10 @@
   {
    "from": "PET 212",
    "to": "PET 332E"
+  },
+  {
+   "from": "PET 212",
+   "to": "PET 335"
   },
   {
    "from": "PET 212",
@@ -95699,6 +96495,10 @@
   },
   {
    "from": "PET 212E",
+   "to": "PET 309"
+  },
+  {
+   "from": "PET 212E",
    "to": "PET 309E"
   },
   {
@@ -95708,6 +96508,10 @@
   {
    "from": "PET 212E",
    "to": "PET 332E"
+  },
+  {
+   "from": "PET 212E",
+   "to": "PET 335"
   },
   {
    "from": "PET 212E",
@@ -95736,6 +96540,14 @@
   {
    "from": "PET 212E",
    "to": "PET 436E"
+  },
+  {
+   "from": "PET 309",
+   "to": "PET 346"
+  },
+  {
+   "from": "PET 309",
+   "to": "PET 346E"
   },
   {
    "from": "PET 309E",
@@ -95854,6 +96666,18 @@
    "to": "PET 433E"
   },
   {
+   "from": "PET 335",
+   "to": "PET 416"
+  },
+  {
+   "from": "PET 335",
+   "to": "PET 416E"
+  },
+  {
+   "from": "PET 335E",
+   "to": "PET 416"
+  },
+  {
    "from": "PET 335E",
    "to": "PET 416E"
   },
@@ -95904,6 +96728,10 @@
   {
    "from": "PET 342E",
    "to": "PET 467E"
+  },
+  {
+   "from": "PET 415E",
+   "to": "PET 416"
   },
   {
    "from": "PET 415E",
@@ -98519,6 +99347,10 @@
   },
   {
    "from": "TEK 112",
+   "to": "TEK 301"
+  },
+  {
+   "from": "TEK 112",
    "to": "TEK 301E"
   },
   {
@@ -98603,6 +99435,10 @@
   },
   {
    "from": "TEK 112E",
+   "to": "TEK 301"
+  },
+  {
+   "from": "TEK 112E",
    "to": "TEK 301E"
   },
   {
@@ -98687,6 +99523,10 @@
   },
   {
    "from": "TEK 114",
+   "to": "TEK 301"
+  },
+  {
+   "from": "TEK 114",
    "to": "TEK 301E"
   },
   {
@@ -98771,6 +99611,10 @@
   },
   {
    "from": "TEK 114E",
+   "to": "TEK 301"
+  },
+  {
+   "from": "TEK 114E",
    "to": "TEK 301E"
   },
   {
@@ -98855,6 +99699,10 @@
   },
   {
    "from": "TEK 116",
+   "to": "TEK 301"
+  },
+  {
+   "from": "TEK 116",
    "to": "TEK 301E"
   },
   {
@@ -98939,6 +99787,10 @@
   },
   {
    "from": "TEK 116E",
+   "to": "TEK 301"
+  },
+  {
+   "from": "TEK 116E",
    "to": "TEK 301E"
   },
   {
@@ -98996,6 +99848,10 @@
   {
    "from": "TEK 116E",
    "to": "TEK 472E"
+  },
+  {
+   "from": "TEK 211",
+   "to": "TEK 302"
   },
   {
    "from": "TEK 211",
@@ -99051,6 +99907,10 @@
   },
   {
    "from": "TEK 211E",
+   "to": "TEK 302"
+  },
+  {
+   "from": "TEK 211E",
    "to": "TEK 302E"
   },
   {
@@ -99103,6 +99963,10 @@
   },
   {
    "from": "TEK 213",
+   "to": "TEK 302"
+  },
+  {
+   "from": "TEK 213",
    "to": "TEK 302E"
   },
   {
@@ -99152,6 +100016,10 @@
   {
    "from": "TEK 213",
    "to": "TEK 486E"
+  },
+  {
+   "from": "TEK 213E",
+   "to": "TEK 302"
   },
   {
    "from": "TEK 213E",
@@ -100064,6 +100932,54 @@
   {
    "from": "TEK 254E",
    "to": "TEK 482E"
+  },
+  {
+   "from": "TEK 302",
+   "to": "TEK 403E"
+  },
+  {
+   "from": "TEK 302",
+   "to": "TEK 412E"
+  },
+  {
+   "from": "TEK 302",
+   "to": "TEK 422"
+  },
+  {
+   "from": "TEK 302",
+   "to": "TEK 422E"
+  },
+  {
+   "from": "TEK 302",
+   "to": "TEK 456"
+  },
+  {
+   "from": "TEK 302",
+   "to": "TEK 456E"
+  },
+  {
+   "from": "TEK 302",
+   "to": "TEK 457"
+  },
+  {
+   "from": "TEK 302",
+   "to": "TEK 457E"
+  },
+  {
+   "from": "TEK 302",
+   "to": "TEK 462E"
+  },
+  {
+   "from": "TEK 302",
+   "to": "TEK 468E"
+  },
+  {
+   "from": "TEK 302",
+   "to": "TEK 469E"
+  },
+  {
+   "from": "TEK 302",
+   "to": "TEK 479E"
   },
   {
    "from": "TEK 302E",
@@ -102442,6 +103358,50 @@
    "to": "THO 202"
   },
   {
+   "from": "UCK 203",
+   "to": "UCK 354"
+  },
+  {
+   "from": "UCK 203",
+   "to": "UCK 354E"
+  },
+  {
+   "from": "UCK 203",
+   "to": "UCK 360E"
+  },
+  {
+   "from": "UCK 203",
+   "to": "UCK 448"
+  },
+  {
+   "from": "UCK 203",
+   "to": "UCK 448E"
+  },
+  {
+   "from": "UCK 203",
+   "to": "UCK 461"
+  },
+  {
+   "from": "UCK 203",
+   "to": "UCK 461E"
+  },
+  {
+   "from": "UCK 203",
+   "to": "UZB 341"
+  },
+  {
+   "from": "UCK 203",
+   "to": "UZB 341E"
+  },
+  {
+   "from": "UCK 203",
+   "to": "UZB 425"
+  },
+  {
+   "from": "UCK 203",
+   "to": "UZB 425E"
+  },
+  {
    "from": "UCK 203E",
    "to": "UCK 354"
   },
@@ -103587,6 +104547,10 @@
   },
   {
    "from": "VBA 113",
+   "to": "VBA 124"
+  },
+  {
+   "from": "VBA 113",
    "to": "VBA 124E"
   },
   {
@@ -103664,6 +104628,10 @@
   {
    "from": "VBA 113E",
    "to": "MAT 226E"
+  },
+  {
+   "from": "VBA 113E",
+   "to": "VBA 124"
   },
   {
    "from": "VBA 113E",
@@ -104011,6 +104979,10 @@
   },
   {
    "from": "YZV 102",
+   "to": "BBF 203"
+  },
+  {
+   "from": "YZV 102",
    "to": "BBF 203E"
   },
   {
@@ -104075,6 +105047,10 @@
   },
   {
    "from": "YZV 102E",
+   "to": "BBF 203"
+  },
+  {
+   "from": "YZV 102E",
    "to": "BBF 203E"
   },
   {
@@ -104136,6 +105112,10 @@
   {
    "from": "YZV 102E",
    "to": "YZV 448E"
+  },
+  {
+   "from": "YZV 104E",
+   "to": "BBF 203"
   },
   {
    "from": "YZV 104E",
@@ -104227,6 +105207,10 @@
   },
   {
    "from": "YZV 201",
+   "to": "BBF 302"
+  },
+  {
+   "from": "YZV 201",
    "to": "BBF 302E"
   },
   {
@@ -104296,6 +105280,10 @@
   {
    "from": "YZV 201E",
    "to": "BBF 301E"
+  },
+  {
+   "from": "YZV 201E",
+   "to": "BBF 302"
   },
   {
    "from": "YZV 201E",

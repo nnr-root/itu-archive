@@ -127,5 +127,26 @@
   "programs": [],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "16011",
+  "code": "MAM 598",
+  "branch": "MAM",
+  "level": "LU",
+  "name": "Proje",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Bihter Zeytuncu Gökoğlu",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 5,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
  }
 ]

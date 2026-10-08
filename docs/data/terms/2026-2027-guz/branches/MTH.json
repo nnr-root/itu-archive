@@ -330,7 +330,7 @@
    "--"
   ],
   "capacity": 45,
-  "enrolled": 45,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "MAT_LS"
@@ -418,8 +418,8 @@
    "5305"
   ],
   "capacity": 60,
-  "enrolled": 24,
-  "reserved": "ELKE_LS/3/1 | ELK_LS/2/2 | Diğer/55/21",
+  "enrolled": 22,
+  "reserved": "ELKE_LS/3/1 | ELK_LS/2/1 | Diğer/55/20",
   "programs": [
    "EHB_LS",
    "EHBE_LS",

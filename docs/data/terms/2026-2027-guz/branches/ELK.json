@@ -392,7 +392,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 26,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -900,7 +900,7 @@
    "4104"
   ],
   "capacity": 65,
-  "enrolled": 65,
+  "enrolled": 64,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -996,7 +996,7 @@
    "2106"
   ],
   "capacity": 50,
-  "enrolled": 51,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -1441,7 +1441,7 @@
    "5303"
   ],
   "capacity": 60,
-  "enrolled": 55,
+  "enrolled": 53,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -1529,7 +1529,7 @@
    "5305"
   ],
   "capacity": 50,
-  "enrolled": 16,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "ELK_LS",
@@ -1559,7 +1559,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -1677,7 +1677,7 @@
    "5301"
   ],
   "capacity": 55,
-  "enrolled": 52,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -1895,7 +1895,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 37,
+  "enrolled": 36,
   "reserved": "-",
   "programs": [
    "ELK_LS"

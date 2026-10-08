@@ -20,7 +20,7 @@
    "A12"
   ],
   "capacity": 70,
-  "enrolled": 63,
+  "enrolled": 62,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -433,7 +433,7 @@
    "A14"
   ],
   "capacity": 80,
-  "enrolled": 80,
+  "enrolled": 79,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2219,7 +2219,7 @@
    "LAB-D"
   ],
   "capacity": 25,
-  "enrolled": 21,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2589,7 +2589,7 @@
    "LAB-B"
   ],
   "capacity": 30,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4216,7 +4216,7 @@
    "LAB-D"
   ],
   "capacity": 50,
-  "enrolled": 21,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -4488,7 +4488,7 @@
    "B33"
   ],
   "capacity": 50,
-  "enrolled": 47,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4940,7 +4940,7 @@
    "D101"
   ],
   "capacity": 40,
-  "enrolled": 40,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "KIM_LS",
@@ -5008,7 +5008,7 @@
    "LAB-A"
   ],
   "capacity": 35,
-  "enrolled": 35,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "KIM_LS",
@@ -5107,7 +5107,7 @@
    "D206"
   ],
   "capacity": 30,
-  "enrolled": 10,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "KIM_LS"
@@ -5560,7 +5560,7 @@
    "L200"
   ],
   "capacity": 20,
-  "enrolled": 16,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "KIM_LS",
@@ -5592,7 +5592,7 @@
    "L200"
   ],
   "capacity": 20,
-  "enrolled": 10,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -5775,7 +5775,7 @@
    "D106"
   ],
   "capacity": 45,
-  "enrolled": 22,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "KIM_LS",
@@ -6360,8 +6360,8 @@
   "rooms": [
    "L400"
   ],
-  "capacity": 30,
-  "enrolled": 30,
+  "capacity": 35,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6988,7 +6988,7 @@
    "--"
   ],
   "capacity": 100,
-  "enrolled": 71,
+  "enrolled": 70,
   "reserved": "-",
   "programs": [
    "MEN_LS",

@@ -182,7 +182,7 @@
     "2026-2027-guz",
     "Fatma Gülen İskender , Börte Köse Mutlu",
     40,
-    40,
+    39,
     "Çarşamba"
    ],
    [
@@ -3887,7 +3887,7 @@
     "2026-2027-guz",
     "Mahmut Ekrem Karpuzcu , Mehmet Emin Paşaoğlu",
     85,
-    96,
+    97,
     "Pazartesi, Çarşamba"
    ],
    [
@@ -4405,7 +4405,7 @@
     "2026-2027-guz",
     "Mahmut Ekrem Karpuzcu",
     30,
-    14,
+    13,
     "Cuma"
    ],
    [
@@ -6123,7 +6123,7 @@
     "2026-2027-guz",
     "Burçak Kaynak Tezel , Alpaslan Ekdal , Gökşin Özyıldız",
     80,
-    80,
+    81,
     "Salı"
    ],
    [
@@ -7965,6 +7965,7 @@
   "code": "CEV 447E",
   "name": "Land Treatment Systems",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -7977,6 +7978,13 @@
    "2017-2018-guz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Mahmut Ekrem Karpuzcu",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Mahmut Ekrem Karpuzcu",

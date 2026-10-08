@@ -20,7 +20,7 @@
    "B201"
   ],
   "capacity": 40,
-  "enrolled": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -798,7 +798,7 @@
    "B103"
   ],
   "capacity": 85,
-  "enrolled": 96,
+  "enrolled": 97,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -858,7 +858,7 @@
    "B306"
   ],
   "capacity": 30,
-  "enrolled": 14,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -1074,7 +1074,7 @@
    "A104"
   ],
   "capacity": 80,
-  "enrolled": 80,
+  "enrolled": 81,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -2011,5 +2011,29 @@
   ],
   "prereq": "-",
   "classReq": "Detay"
+ },
+ {
+  "crn": "16009",
+  "code": "CEV 447E",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Land Treatment Systems",
+  "method": "Ek Sınav",
+  "instructor": "Mahmut Ekrem Karpuzcu",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CEV_LS",
+   "CEVE_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
  }
 ]

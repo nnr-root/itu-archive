@@ -439,7 +439,7 @@
    "B206"
   ],
   "capacity": 30,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "JEO_LS",
@@ -709,7 +709,7 @@
    "A302"
   ],
   "capacity": 30,
-  "enrolled": 15,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "JEO_LS"
@@ -1006,7 +1006,7 @@
    "A203"
   ],
   "capacity": 65,
-  "enrolled": 65,
+  "enrolled": 67,
   "reserved": "-",
   "programs": [
    "JEF_LS",
@@ -1038,7 +1038,7 @@
    "A102"
   ],
   "capacity": 65,
-  "enrolled": 68,
+  "enrolled": 67,
   "reserved": "-",
   "programs": [
    "JEF_LS",
@@ -1869,7 +1869,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 6,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

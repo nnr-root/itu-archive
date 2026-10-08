@@ -82,7 +82,7 @@
    "2D18"
   ],
   "capacity": 80,
-  "enrolled": 77,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -180,7 +180,7 @@
    "2D11"
   ],
   "capacity": 20,
-  "enrolled": 24,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -338,7 +338,7 @@
    "2D14"
   ],
   "capacity": 25,
-  "enrolled": 26,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -506,7 +506,7 @@
    "1D9"
   ],
   "capacity": 15,
-  "enrolled": 11,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -536,7 +536,7 @@
    "1D7"
   ],
   "capacity": 15,
-  "enrolled": 13,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -755,7 +755,7 @@
    "2D16"
   ],
   "capacity": 20,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -786,7 +786,7 @@
    "1D6"
   ],
   "capacity": 15,
-  "enrolled": 15,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "FIZ_LS",
@@ -1422,7 +1422,7 @@
    "2D11"
   ],
   "capacity": 20,
-  "enrolled": 7,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1828,7 +1828,7 @@
    "GZ101"
   ],
   "capacity": 20,
-  "enrolled": 7,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
