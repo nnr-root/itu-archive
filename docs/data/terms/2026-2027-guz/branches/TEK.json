@@ -1092,7 +1092,7 @@
   "rooms": [
    "D381A"
   ],
-  "capacity": 42,
+  "capacity": 44,
   "enrolled": 42,
   "reserved": "-",
   "programs": [
@@ -1211,7 +1211,7 @@
    "D368B"
   ],
   "capacity": 30,
-  "enrolled": 19,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "TEKE_LS"
@@ -1527,7 +1527,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
