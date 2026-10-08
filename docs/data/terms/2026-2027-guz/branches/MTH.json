@@ -330,7 +330,7 @@
    "--"
   ],
   "capacity": 45,
-  "enrolled": 44,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "MAT_LS"
@@ -388,7 +388,7 @@
    "2D16"
   ],
   "capacity": 50,
-  "enrolled": 29,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "UCK_LS",
@@ -419,7 +419,7 @@
   ],
   "capacity": 60,
   "enrolled": 22,
-  "reserved": "ELKE_LS/3/1 | ELK_LS/2/1 | Diğer/55/20",
+  "reserved": "ELKE_LS/3/1 | ELK_LS/2/2 | Diğer/55/19",
   "programs": [
    "EHB_LS",
    "EHBE_LS",
@@ -452,7 +452,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 8,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "GMI_LS"

@@ -20,7 +20,7 @@
    "B102"
   ],
   "capacity": 30,
-  "enrolled": 28,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -137,7 +137,7 @@
    "D201"
   ],
   "capacity": 40,
-  "enrolled": 30,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -226,7 +226,7 @@
    "A14"
   ],
   "capacity": 250,
-  "enrolled": 135,
+  "enrolled": 139,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -255,7 +255,7 @@
    "A14"
   ],
   "capacity": 250,
-  "enrolled": 79,
+  "enrolled": 80,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -285,7 +285,7 @@
    "--"
   ],
   "capacity": 63,
-  "enrolled": 59,
+  "enrolled": 61,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -315,7 +315,7 @@
    "--"
   ],
   "capacity": 63,
-  "enrolled": 61,
+  "enrolled": 63,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -345,7 +345,7 @@
    "--"
   ],
   "capacity": 63,
-  "enrolled": 60,
+  "enrolled": 61,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -472,7 +472,7 @@
    "B302"
   ],
   "capacity": 45,
-  "enrolled": 43,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -619,7 +619,7 @@
    "A201"
   ],
   "capacity": 60,
-  "enrolled": 67,
+  "enrolled": 66,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -648,7 +648,7 @@
    "A304"
   ],
   "capacity": 60,
-  "enrolled": 46,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -677,7 +677,7 @@
    "B205"
   ],
   "capacity": 60,
-  "enrolled": 31,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -824,7 +824,7 @@
    "A201"
   ],
   "capacity": 40,
-  "enrolled": 42,
+  "enrolled": 41,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -1265,7 +1265,7 @@
    "A305"
   ],
   "capacity": 40,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -1305,35 +1305,6 @@
   "classReq": "-"
  },
  {
-  "crn": "14528",
-  "code": "INS 301",
-  "branch": "INS",
-  "level": "LS",
-  "name": "Mühendislik Ekonomisi",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Feyzi Haznedaroğlu",
-  "buildings": [
-   "INB"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "13:30/15:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 40,
-  "enrolled": 4,
-  "reserved": "-",
-  "programs": [
-   "INS_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "14529",
   "code": "INS 301E",
   "branch": "INS",
@@ -1354,7 +1325,7 @@
    "B205"
   ],
   "capacity": 40,
-  "enrolled": 17,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -1488,7 +1459,7 @@
    "B202"
   ],
   "capacity": 35,
-  "enrolled": 44,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -1723,7 +1694,7 @@
    "A102"
   ],
   "capacity": 50,
-  "enrolled": 40,
+  "enrolled": 41,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -1912,7 +1883,7 @@
    "A302"
   ],
   "capacity": 45,
-  "enrolled": 38,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -1981,43 +1952,6 @@
   ],
   "capacity": 45,
   "enrolled": 56,
-  "reserved": "-",
-  "programs": [
-   "AIN_LS",
-   "CEV_LS",
-   "CEVE_LS",
-   "INS_LS",
-   "INSE_LS"
-  ],
-  "prereq": "Detay",
-  "classReq": "-"
- },
- {
-  "crn": "14549",
-  "code": "INS 360E",
-  "branch": "INS",
-  "level": "LS",
-  "name": "Hydraulics",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Şevket Çokgör",
-  "buildings": [
-   "INB",
-   "INB"
-  ],
-  "days": [
-   "Çarşamba",
-   "Perşembe"
-  ],
-  "times": [
-   "10:30/12:29",
-   "15:30/17:29"
-  ],
-  "rooms": [
-   "A304",
-   "A304"
-  ],
-  "capacity": 45,
-  "enrolled": 5,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2300,7 +2234,7 @@
    "A102"
   ],
   "capacity": 60,
-  "enrolled": 58,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2455,8 +2389,8 @@
    "08:30/10:29"
   ],
   "rooms": [
-   "B306",
-   "B306"
+   "A202",
+   "A202"
   ],
   "capacity": 46,
   "enrolled": 44,
@@ -2492,42 +2426,7 @@
    "A201"
   ],
   "capacity": 46,
-  "enrolled": 41,
-  "reserved": "-",
-  "programs": [
-   "AIN_LS",
-   "INS_LS",
-   "INSE_LS"
-  ],
-  "prereq": "Detay",
-  "classReq": "-"
- },
- {
-  "crn": "14565",
-  "code": "INS 336E",
-  "branch": "INS",
-  "level": "LS",
-  "name": "Theory of Structures II",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Pınar Teymür",
-  "buildings": [
-   "INB",
-   "INB"
-  ],
-  "days": [
-   "Perşembe",
-   "Cuma"
-  ],
-  "times": [
-   "10:30/12:29",
-   "10:30/12:29"
-  ],
-  "rooms": [
-   "B307",
-   "B307"
-  ],
-  "capacity": 35,
-  "enrolled": 2,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2956,7 +2855,7 @@
    "A202"
   ],
   "capacity": 40,
-  "enrolled": 19,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -2985,7 +2884,7 @@
    "B206"
   ],
   "capacity": 40,
-  "enrolled": 24,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3020,7 +2919,7 @@
    "B206"
   ],
   "capacity": 40,
-  "enrolled": 41,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3115,7 +3014,7 @@
    "B201"
   ],
   "capacity": 45,
-  "enrolled": 31,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -3487,7 +3386,7 @@
    "A102"
   ],
   "capacity": 40,
-  "enrolled": 21,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3518,7 +3417,7 @@
    "B101"
   ],
   "capacity": 150,
-  "enrolled": 144,
+  "enrolled": 147,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3589,35 +3488,6 @@
   "classReq": "-"
  },
  {
-  "crn": "14599",
-  "code": "INS 4059",
-  "branch": "INS",
-  "level": "LS",
-  "name": "Trafik Mühendisliği",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Kemal Selçuk Öğüt",
-  "buildings": [
-   "INB"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "10:30/13:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 40,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "INS_LS"
-  ],
-  "prereq": "Detay",
-  "classReq": "-"
- },
- {
   "crn": "14600",
   "code": "INS 4071",
   "branch": "INS",
@@ -3638,7 +3508,7 @@
    "B203"
   ],
   "capacity": 35,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -3698,7 +3568,7 @@
    "A103"
   ],
   "capacity": 50,
-  "enrolled": 49,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3760,7 +3630,7 @@
    "B303"
   ],
   "capacity": 20,
-  "enrolled": 19,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -3818,7 +3688,7 @@
    "B308"
   ],
   "capacity": 35,
-  "enrolled": 29,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3878,7 +3748,7 @@
    "B304"
   ],
   "capacity": 15,
-  "enrolled": 20,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -4102,7 +3972,7 @@
    "B303"
   ],
   "capacity": 40,
-  "enrolled": 29,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "AIN_LS",

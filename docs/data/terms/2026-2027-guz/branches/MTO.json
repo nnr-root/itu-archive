@@ -148,7 +148,7 @@
    "1D9"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -438,7 +438,7 @@
    "2D11"
   ],
   "capacity": 30,
-  "enrolled": 29,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -597,7 +597,7 @@
    "1D6"
   ],
   "capacity": 15,
-  "enrolled": 8,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -695,7 +695,7 @@
    "1D7"
   ],
   "capacity": 15,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -725,7 +725,7 @@
    "1D6"
   ],
   "capacity": 20,
-  "enrolled": 20,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -1497,7 +1497,7 @@
    "2D11"
   ],
   "capacity": 20,
-  "enrolled": 17,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1528,7 +1528,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1554,8 +1554,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 20,
-  "enrolled": 21,
+  "capacity": 25,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1609,7 +1609,7 @@
    "1D9"
   ],
   "capacity": 20,
-  "enrolled": 6,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1759,7 +1759,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

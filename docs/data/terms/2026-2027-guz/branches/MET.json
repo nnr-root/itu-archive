@@ -50,7 +50,7 @@
    "D301"
   ],
   "capacity": 90,
-  "enrolled": 77,
+  "enrolled": 78,
   "reserved": "-",
   "programs": [
    "MET_LS"
@@ -79,7 +79,7 @@
    "D301"
   ],
   "capacity": 90,
-  "enrolled": 65,
+  "enrolled": 66,
   "reserved": "-",
   "programs": [
    "METE_LS"
@@ -108,7 +108,7 @@
    "D103"
   ],
   "capacity": 95,
-  "enrolled": 81,
+  "enrolled": 82,
   "reserved": "-",
   "programs": [
    "MET_LS"
@@ -169,7 +169,7 @@
    "D102",
    "D102"
   ],
-  "capacity": 60,
+  "capacity": 70,
   "enrolled": 64,
   "reserved": "-",
   "programs": [
@@ -202,8 +202,8 @@
    "D104",
    "D202"
   ],
-  "capacity": 65,
-  "enrolled": 72,
+  "capacity": 80,
+  "enrolled": 74,
   "reserved": "-",
   "programs": [
    "METE_LS"
@@ -379,7 +379,7 @@
    "D104"
   ],
   "capacity": 100,
-  "enrolled": 81,
+  "enrolled": 82,
   "reserved": "-",
   "programs": [
    "ALG_YD",
@@ -673,7 +673,7 @@
    "D201"
   ],
   "capacity": 180,
-  "enrolled": 175,
+  "enrolled": 179,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -881,7 +881,7 @@
    "D102"
   ],
   "capacity": 60,
-  "enrolled": 54,
+  "enrolled": 53,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -1004,8 +1004,8 @@
    "D303"
   ],
   "capacity": 85,
-  "enrolled": 40,
-  "reserved": "MET_LS/33/0 | METE_LS/37/0 | Diğer/15/40",
+  "enrolled": 41,
+  "reserved": "MET_LS/33/1 | METE_LS/37/0 | Diğer/15/40",
   "programs": [
    "MET_LS",
    "METE_LS",
@@ -1054,7 +1054,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 78,
+  "enrolled": 79,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -1178,7 +1178,7 @@
    "D105"
   ],
   "capacity": 20,
-  "enrolled": 13,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1205,7 +1205,7 @@
    "D105"
   ],
   "capacity": 20,
-  "enrolled": 13,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1280,7 +1280,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

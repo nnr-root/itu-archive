@@ -79,8 +79,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 41,
-  "enrolled": 42,
+  "capacity": 43,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -117,8 +117,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 36,
-  "enrolled": 40,
+  "capacity": 42,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -155,8 +155,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 40,
-  "enrolled": 41,
+  "capacity": 43,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -224,7 +224,7 @@
    "B207"
   ],
   "capacity": 60,
-  "enrolled": 43,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "JEF_LS",
@@ -343,7 +343,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 22,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "DUI_LS",
@@ -430,7 +430,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "409"
+   "404"
   ],
   "capacity": 40,
   "enrolled": 8,
@@ -571,7 +571,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 34,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -871,7 +871,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 58,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1371,7 +1371,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 12,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1571,7 +1571,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 31,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1871,7 +1871,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 63,
+  "enrolled": 64,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2167,7 +2167,7 @@
    "B204"
   ],
   "capacity": 50,
-  "enrolled": 47,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -2257,7 +2257,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 23,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -2501,7 +2501,7 @@
    "B207"
   ],
   "capacity": 55,
-  "enrolled": 46,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "MAD_LS",

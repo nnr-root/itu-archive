@@ -107,7 +107,7 @@
    "A102"
   ],
   "capacity": 55,
-  "enrolled": 51,
+  "enrolled": 53,
   "reserved": "-",
   "programs": [
    "MAD_LS"
@@ -377,8 +377,8 @@
   "rooms": [
    "A203"
   ],
-  "capacity": 38,
-  "enrolled": 39,
+  "capacity": 40,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -408,7 +408,7 @@
    "B208"
   ],
   "capacity": 35,
-  "enrolled": 17,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -468,7 +468,7 @@
    "A201"
   ],
   "capacity": 65,
-  "enrolled": 63,
+  "enrolled": 64,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -627,7 +627,7 @@
    "B206"
   ],
   "capacity": 60,
-  "enrolled": 54,
+  "enrolled": 56,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -1152,7 +1152,7 @@
    "B204"
   ],
   "capacity": 0,
-  "enrolled": 4,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "MAD_LS",

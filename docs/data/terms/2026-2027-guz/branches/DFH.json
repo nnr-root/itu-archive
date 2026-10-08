@@ -20,7 +20,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -312,7 +312,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -370,7 +370,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 49,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -428,7 +428,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 57,
+  "enrolled": 58,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -457,7 +457,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 21,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -486,7 +486,7 @@
    "--"
   ],
   "capacity": 45,
-  "enrolled": 40,
+  "enrolled": 41,
   "reserved": "-",
   "programs": [
    "DUI_LS",
@@ -844,7 +844,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 33,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "MEN_LS",
@@ -941,6 +941,35 @@
   "classReq": "-"
  },
  {
+  "crn": "15831",
+  "code": "DFH 278E",
+  "branch": "DFH",
+  "level": "LS",
+  "name": "Maritime Economics",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Sinan Çakır",
+  "buildings": [
+   "DZB"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "10:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 30,
+  "enrolled": 2,
+  "reserved": "-",
+  "programs": [
+   "DUI_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
   "crn": "15860",
   "code": "DFH 494E",
   "branch": "DFH",
@@ -990,7 +1019,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 20,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "MTM_LS"

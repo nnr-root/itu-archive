@@ -331,7 +331,7 @@
    "A305"
   ],
   "capacity": 60,
-  "enrolled": 45,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -1320,36 +1320,6 @@
   "classReq": "-"
  },
  {
-  "crn": "14132",
-  "code": "CEV 449E",
-  "branch": "CEV",
-  "level": "LS",
-  "name": "Control&Autom. in Env. Facil.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hayrettin Güçlü İnsel , Türker Türken",
-  "buildings": [
-   "INB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "10:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "CEV_LS",
-   "CEVE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "14133",
   "code": "CEV 453E",
   "branch": "CEV",
@@ -1400,7 +1370,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 70,
+  "enrolled": 71,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -1429,7 +1399,7 @@
    "--"
   ],
   "capacity": 82,
-  "enrolled": 80,
+  "enrolled": 81,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -1530,7 +1500,7 @@
    "A101"
   ],
   "capacity": 30,
-  "enrolled": 12,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "CEV_LS",

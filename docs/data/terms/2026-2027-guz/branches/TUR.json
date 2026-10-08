@@ -108,7 +108,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 40,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -240,7 +240,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 80,
+  "enrolled": 79,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -512,7 +512,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 76,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -647,7 +647,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1592,7 +1592,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 76,
+  "enrolled": 74,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1862,7 +1862,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2267,7 +2267,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -4157,7 +4157,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -4697,7 +4697,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -5640,7 +5640,7 @@
    "--"
   ],
   "capacity": 90,
-  "enrolled": 92,
+  "enrolled": 93,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -5774,7 +5774,7 @@
    "--"
   ],
   "capacity": 90,
-  "enrolled": 94,
+  "enrolled": 93,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -6578,7 +6578,7 @@
    "A205"
   ],
   "capacity": 60,
-  "enrolled": 48,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -6712,7 +6712,7 @@
    "A204"
   ],
   "capacity": 60,
-  "enrolled": 46,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -6846,7 +6846,7 @@
    "A201"
   ],
   "capacity": 60,
-  "enrolled": 54,
+  "enrolled": 59,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -7182,7 +7182,7 @@
    "--"
   ],
   "capacity": 80,
-  "enrolled": 33,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "DUI_LS",

@@ -78,7 +78,7 @@
    "B205"
   ],
   "capacity": 35,
-  "enrolled": 23,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "JEO_LS",
@@ -108,7 +108,7 @@
    "B208"
   ],
   "capacity": 35,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "JEO_LS",
@@ -196,7 +196,7 @@
    "A201"
   ],
   "capacity": 60,
-  "enrolled": 38,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "JEO_LS"
@@ -559,7 +559,7 @@
    "A202"
   ],
   "capacity": 60,
-  "enrolled": 37,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "JEO_LS",
@@ -619,7 +619,7 @@
    "A105"
   ],
   "capacity": 30,
-  "enrolled": 23,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "JEO_LS",
@@ -855,7 +855,7 @@
    "315"
   ],
   "capacity": 35,
-  "enrolled": 31,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "JEO_LS"
@@ -1005,8 +1005,8 @@
   "rooms": [
    "A203"
   ],
-  "capacity": 65,
-  "enrolled": 67,
+  "capacity": 68,
+  "enrolled": 68,
   "reserved": "-",
   "programs": [
    "JEF_LS",
@@ -1069,7 +1069,7 @@
    "A204"
   ],
   "capacity": 50,
-  "enrolled": 45,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [
    "JEF_LS",
@@ -1530,7 +1530,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 18,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1869,7 +1869,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 7,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1902,6 +1902,35 @@
    "JEO_LS"
   ],
   "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16015",
+  "code": "JEO 496E",
+  "branch": "JEO",
+  "level": "LS",
+  "name": "Selected Topics in Geology",
+  "method": "Ek Sınav",
+  "instructor": "Nurgül Çelik Balcı",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Perşembe"
+  ],
+  "times": [
+   "12:30/14:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "JEO_LS"
+  ],
+  "prereq": "-",
   "classReq": "-"
  }
 ]

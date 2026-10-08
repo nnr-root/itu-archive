@@ -25,7 +25,7 @@
     "2026-2027-guz",
     "Mustafa Fahri Karabulut",
     50,
-    25,
+    26,
     "Cuma"
    ],
    [
@@ -872,7 +872,7 @@
     "2026-2027-guz",
     "Caner Güney",
     70,
-    66,
+    67,
     "Salı"
    ],
    [
@@ -3660,7 +3660,7 @@
     "2026-2027-guz",
     "Mahmut Oğuz Selbesoğlu",
     50,
-    47,
+    48,
     "Perşembe"
    ],
    [
@@ -6003,7 +6003,7 @@
     "2026-2027-guz",
     "Ahmet Özgür Doğru",
     70,
-    31,
+    32,
     "Perşembe"
    ],
    [
@@ -6337,7 +6337,7 @@
     "2026-2027-guz",
     "Muhammed Enes Atik",
     25,
-    17,
+    18,
     "Çarşamba"
    ],
    [
@@ -6554,6 +6554,7 @@
   "code": "GEO 310E",
   "name": "Remote Sensing II",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -6563,6 +6564,13 @@
    "2018-2019-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Ayşe Filiz Sunar",
+    0,
+    0,
+    "Pazartesi"
+   ],
    [
     "2025-2026-bahar",
     "Ayşe Filiz Sunar",
@@ -6970,7 +6978,7 @@
     "2026-2027-guz",
     "Ayşe Filiz Sunar",
     60,
-    56,
+    57,
     "Salı"
    ],
    [
@@ -8599,7 +8607,7 @@
     "2026-2027-guz",
     "Bihter Erol",
     75,
-    68,
+    69,
     "Perşembe"
    ],
    [
@@ -8796,14 +8804,14 @@
     "2026-2027-guz",
     "Ramazan Alper Kuçak",
     42,
-    41,
+    42,
     "Perşembe"
    ],
    [
     "2026-2027-guz",
     "Serdar Bilgi",
     40,
-    32,
+    34,
     "Perşembe"
    ],
    [
@@ -8931,14 +8939,14 @@
     "2026-2027-guz",
     "Ahmet Özgür Doğru",
     35,
-    30,
+    29,
     "Perşembe"
    ],
    [
     "2026-2027-guz",
     "Hande Demirel",
     35,
-    30,
+    31,
     "Perşembe"
    ],
    [
@@ -9390,7 +9398,6 @@
   "code": "GEO 421E",
   "name": "Urban Land Readjustment",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-guz",
    "2023-2024-guz",
    "2022-2023-guz",
@@ -9398,13 +9405,6 @@
    "2019-2020-bahar"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Muhammed Oğuzhan Mete",
-    30,
-    0,
-    "Çarşamba"
-   ],
    [
     "2025-2026-guz",
     "Muhammed Oğuzhan Mete",
@@ -9494,7 +9494,6 @@
   "code": "GEO 425E",
   "name": "Digital Image Processing II",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-guz",
    "2023-2024-guz",
    "2022-2023-guz",
@@ -9503,13 +9502,6 @@
    "2019-2020-guz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Ayşe Filiz Sunar",
-    30,
-    0,
-    "Pazartesi"
-   ],
    [
     "2025-2026-guz",
     "Ayşe Filiz Sunar",
@@ -9570,7 +9562,7 @@
     "2026-2027-guz",
     "Zaide Duran , Muhammed Enes Atik",
     40,
-    36,
+    37,
     "Perşembe"
    ],
    [
@@ -9810,22 +9802,6 @@
    ]
   ]
  },
- "GEO 442": {
-  "code": "GEO 442",
-  "name": "Geomatik Mühendisliğinde Sektörel Uygulamalar",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Reha Metin Alkan , Büşra Kartal",
-    30,
-    0,
-    "Salı"
-   ]
-  ]
- },
  "GEO 444": {
   "code": "GEO 444",
   "name": "Hesaplamalı Geometri",
@@ -10036,7 +10012,7 @@
     "2026-2027-guz",
     "Aysu Uzsayılır",
     95,
-    94,
+    95,
     "Perşembe"
    ],
    [
@@ -10105,7 +10081,7 @@
     "2026-2027-guz",
     "Mehmet İşiler",
     30,
-    26,
+    27,
     "Çarşamba"
    ],
    [
@@ -10156,7 +10132,7 @@
     "2026-2027-guz",
     "Mert Bezcioğlu",
     30,
-    15,
+    16,
     "Çarşamba"
    ],
    [
@@ -10242,8 +10218,8 @@
    [
     "2026-2027-guz",
     "Hande Demirel",
-    45,
-    45,
+    50,
+    46,
     "Perşembe"
    ],
    [
@@ -10358,7 +10334,6 @@
   "code": "GEO 468",
   "name": "UA'da Özel Konular",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2025-2026-guz",
    "2024-2025-bahar",
@@ -10374,13 +10349,6 @@
    "2018-2019-bahar"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Şinasi Kaya",
-    30,
-    2,
-    "Perşembe"
-   ],
    [
     "2025-2026-bahar",
     "Şinasi Kaya",
@@ -10968,7 +10936,7 @@
     "2026-2027-guz",
     "Himmet Karaman",
     40,
-    23,
+    24,
     "Salı"
    ],
    [
@@ -11017,7 +10985,7 @@
     "2026-2027-guz",
     "Mehmet Ufuk Özerman",
     500,
-    69,
+    70,
     ""
    ],
    [
@@ -11453,7 +11421,7 @@
     "2026-2027-guz",
     "Zaide Duran",
     30,
-    12,
+    13,
     "Pazartesi"
    ]
   ]
@@ -11501,7 +11469,7 @@
     "2026-2027-guz",
     "Orhan Akyılmaz",
     50,
-    30,
+    28,
     "Perşembe"
    ]
   ]
@@ -11645,7 +11613,7 @@
     "2026-2027-guz",
     "Çiğdem Göksel",
     30,
-    4,
+    5,
     "Salı"
    ]
   ]
@@ -11677,7 +11645,7 @@
     "2026-2027-guz",
     "Zaide Duran",
     30,
-    2,
+    0,
     "Cuma"
    ]
   ]
@@ -11917,7 +11885,7 @@
     "2026-2027-guz",
     "Turan Erden",
     200,
-    33,
+    35,
     ""
    ]
   ]

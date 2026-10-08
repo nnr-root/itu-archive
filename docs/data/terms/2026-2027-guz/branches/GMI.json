@@ -136,7 +136,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 21,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -165,7 +165,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 23,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -194,7 +194,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -310,7 +310,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 34,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -368,7 +368,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -484,7 +484,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 24,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -658,7 +658,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 32,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -716,7 +716,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -745,7 +745,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 18,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -861,7 +861,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 44,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -890,7 +890,7 @@
    "--"
   ],
   "capacity": 16,
-  "enrolled": 4,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -948,7 +948,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 5,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -1006,7 +1006,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 9,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -1075,7 +1075,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 33,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -1209,7 +1209,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 18,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "MEN_LS"
@@ -1238,7 +1238,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 18,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "MEN_LS"
@@ -1296,7 +1296,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 29,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "MEN_LS"
@@ -1325,7 +1325,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 21,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "MEN_LS"
@@ -1441,7 +1441,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "MEN_LS"
@@ -1557,7 +1557,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "MEN_LS"
@@ -1638,7 +1638,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 24,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "MEN_LS"
@@ -1696,7 +1696,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 25,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "MEN_LS"
@@ -1719,7 +1719,7 @@
   ],
   "rooms": [],
   "capacity": 60,
-  "enrolled": 21,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "MEN_LS"
@@ -1777,7 +1777,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 49,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "MEN_LS",
@@ -1807,7 +1807,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "MEN_LS"
@@ -2006,7 +2006,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 22,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -2035,7 +2035,7 @@
    "--"
   ],
   "capacity": 14,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -2155,7 +2155,7 @@
    "--"
   ],
   "capacity": 10,
-  "enrolled": 3,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [
    "MEN_LS"
@@ -2184,7 +2184,7 @@
    "--"
   ],
   "capacity": 5,
-  "enrolled": 7,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "MEN_LS"
@@ -2213,7 +2213,7 @@
    "--"
   ],
   "capacity": 10,
-  "enrolled": 6,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "MEN_LS"
@@ -2242,7 +2242,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 14,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "MEN_LS",
@@ -2272,7 +2272,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 9,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "MEN_LS",

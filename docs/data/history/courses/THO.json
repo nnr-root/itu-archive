@@ -19,7 +19,7 @@
     "2026-2027-guz",
     "Eyüp Uzunkaya",
     30,
-    25,
+    26,
     "Pazartesi"
    ],
    [
@@ -1001,7 +1001,7 @@
     "2026-2027-guz",
     "Funda Bozkurt Saygı",
     15,
-    12,
+    13,
     "Çarşamba, Perşembe"
    ],
    [
@@ -4502,7 +4502,7 @@
     "2026-2027-guz",
     "Serpil Murtezaoğlu",
     20,
-    3,
+    4,
     "Pazartesi"
    ],
    [
@@ -4616,6 +4616,7 @@
   "code": "THO 411",
   "name": "Geleneksel Giyim Kuşam I",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-yaz",
    "2025-2026-guz",
    "2024-2025-yaz",
@@ -4631,6 +4632,13 @@
    "2016-2017-yaz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "İlknur Bektaş",
+    10,
+    0,
+    "Cuma"
+   ],
    [
     "2025-2026-yaz",
     "İlknur Bektaş",

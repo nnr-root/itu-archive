@@ -1,10 +1,10 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-10-08T08:55:30Z",
+ "scrapedAt": "2026-10-08T15:42:49Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5430,
+ "sections": 5426,
  "courses": 3871,
  "branches": [
   {
@@ -202,7 +202,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 160
+   "sections": 161
   },
   {
    "code": "CBM",
@@ -223,7 +223,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 72
+   "sections": 71
   },
   {
    "code": "CHE",
@@ -315,7 +315,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 34
+   "sections": 35
   },
   {
    "code": "DNK",
@@ -545,7 +545,7 @@
     "LS",
     "LU"
    ],
-   "sections": 113
+   "sections": 110
   },
   {
    "code": "GGP",
@@ -687,7 +687,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 133
+   "sections": 129
   },
   {
    "code": "INT",
@@ -794,7 +794,7 @@
     "LS",
     "LU"
    ],
-   "sections": 68
+   "sections": 69
   },
   {
    "code": "JFM",
@@ -1520,7 +1520,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 38
+   "sections": 39
   },
   {
    "code": "TKY",
@@ -1678,11 +1678,11 @@
   }
  ],
  "stats": {
-  "sections": 5430,
+  "sections": 5426,
   "courses": 3871,
   "branches": 235,
-  "instructors": 2006,
-  "capacity": 263605,
-  "enrolled": 135842
+  "instructors": 2005,
+  "capacity": 263524,
+  "enrolled": 137143
  }
 }

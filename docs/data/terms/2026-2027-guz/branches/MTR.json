@@ -123,7 +123,7 @@
    "--"
   ],
   "capacity": 42,
-  "enrolled": 42,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [
    "MTR_LS",
@@ -164,7 +164,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "MTR_LS",
@@ -197,7 +197,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 18,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "SES_LS"
@@ -226,7 +226,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 2,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "MTR_LS"
@@ -350,7 +350,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 16,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "MTR_LS"
@@ -379,7 +379,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 13,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "MTR_LS"
@@ -408,7 +408,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 17,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "MTR_LS"
@@ -437,7 +437,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 18,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "MTR_LS"
@@ -631,7 +631,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 16,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "MTR_LS"
@@ -660,7 +660,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "MTR_LS"
@@ -689,7 +689,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 8,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "MTR_LS"
@@ -752,7 +752,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "THO_LS"
@@ -818,7 +818,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 2,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "THO_LS"
@@ -1032,7 +1032,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 35,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "MTR_LS",
@@ -1318,8 +1318,8 @@
    "--",
    "--"
   ],
-  "capacity": 40,
-  "enrolled": 43,
+  "capacity": 41,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [
    "MTR_LS",
@@ -1763,7 +1763,7 @@
    "--"
   ],
   "capacity": 10,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "MTR_LS"
@@ -1865,7 +1865,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 5,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "SES_LS"

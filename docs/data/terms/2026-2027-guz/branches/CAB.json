@@ -43,8 +43,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 22,
-  "enrolled": 23,
+  "capacity": 25,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "MTR_LS",
@@ -1233,7 +1233,7 @@
    "--"
   ],
   "capacity": 5,
-  "enrolled": 2,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "MTR_LS",
@@ -2905,8 +2905,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 25,
-  "enrolled": 25,
+  "capacity": 28,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -2969,8 +2969,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 15,
-  "enrolled": 15,
+  "capacity": 18,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -4633,6 +4633,36 @@
   "programs": [
    "CAB_LS",
    "CEB_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16012",
+  "code": "CAB 293",
+  "branch": "CAB",
+  "level": "LS",
+  "name": "Zurna III",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Cem Ekmen",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "15:30/17:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 5,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "MUZ_LS",
+   "THO_LS"
   ],
   "prereq": "Detay",
   "classReq": "-"

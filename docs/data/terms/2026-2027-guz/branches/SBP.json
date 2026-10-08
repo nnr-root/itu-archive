@@ -135,7 +135,7 @@
    "131"
   ],
   "capacity": 15,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -835,7 +835,7 @@
    "216"
   ],
   "capacity": 70,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "SBP_YD",
@@ -1610,7 +1610,7 @@
   ],
   "capacity": 45,
   "enrolled": 36,
-  "reserved": "ARC_LS/2/0 | MIM_LS/5/1 | MIME_LS/5/4 | Diğer/33/31",
+  "reserved": "ARC_LS/2/0 | MIM_LS/5/3 | MIME_LS/5/3 | Diğer/33/30",
   "programs": [
    "ARC_LS",
    "MIM_LS",
@@ -1678,8 +1678,8 @@
    "317"
   ],
   "capacity": 30,
-  "enrolled": 27,
-  "reserved": "MIM_LS/3/2 | MIME_LS/3/0 | Diğer/24/25",
+  "enrolled": 26,
+  "reserved": "MIM_LS/3/2 | MIME_LS/3/0 | Diğer/24/24",
   "programs": [
    "MIM_LS",
    "MIME_LS",

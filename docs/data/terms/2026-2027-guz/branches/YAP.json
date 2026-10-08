@@ -19,7 +19,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 38,
+  "capacity": 40,
   "enrolled": 38,
   "reserved": "-",
   "programs": [],
@@ -128,7 +128,7 @@
    "A3"
   ],
   "capacity": 30,
-  "enrolled": 15,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -154,8 +154,8 @@
   "rooms": [
    "B104"
   ],
-  "capacity": 38,
-  "enrolled": 38,
+  "capacity": 40,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -209,7 +209,7 @@
    "YAPISMNR_B"
   ],
   "capacity": 20,
-  "enrolled": 16,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -262,7 +262,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 38,
+  "capacity": 40,
   "enrolled": 38,
   "reserved": "-",
   "programs": [],
@@ -398,7 +398,7 @@
    "VURALCNMRE"
   ],
   "capacity": 20,
-  "enrolled": 8,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -440,7 +440,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 46,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
