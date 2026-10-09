@@ -53,7 +53,7 @@
    "A205"
   ],
   "capacity": 60,
-  "enrolled": 51,
+  "enrolled": 52,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -83,7 +83,7 @@
    "A202"
   ],
   "capacity": 60,
-  "enrolled": 46,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -113,7 +113,7 @@
   "rooms": [
    "A202"
   ],
-  "capacity": 50,
+  "capacity": 55,
   "enrolled": 50,
   "reserved": "-",
   "programs": [
@@ -143,8 +143,8 @@
   "rooms": [
    "A203"
   ],
-  "capacity": 50,
-  "enrolled": 50,
+  "capacity": 55,
+  "enrolled": 52,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -174,7 +174,7 @@
    "B204"
   ],
   "capacity": 80,
-  "enrolled": 71,
+  "enrolled": 73,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -234,8 +234,8 @@
   "rooms": [
    "B206"
   ],
-  "capacity": 75,
-  "enrolled": 75,
+  "capacity": 80,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -323,8 +323,8 @@
   "rooms": [
    "B208"
   ],
-  "capacity": 26,
-  "enrolled": 26,
+  "capacity": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "CHZ_LS"
@@ -490,7 +490,7 @@
    "A204"
   ],
   "capacity": 40,
-  "enrolled": 35,
+  "enrolled": 36,
   "reserved": "-",
   "programs": [
    "CHZ_LS"

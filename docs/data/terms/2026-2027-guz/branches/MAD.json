@@ -107,7 +107,7 @@
    "A102"
   ],
   "capacity": 55,
-  "enrolled": 52,
+  "enrolled": 53,
   "reserved": "-",
   "programs": [
    "MAD_LS"
@@ -136,7 +136,7 @@
    "B207"
   ],
   "capacity": 45,
-  "enrolled": 42,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -166,7 +166,7 @@
    "B206"
   ],
   "capacity": 75,
-  "enrolled": 41,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -196,7 +196,7 @@
    "A101"
   ],
   "capacity": 85,
-  "enrolled": 59,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -226,7 +226,7 @@
    "B208"
   ],
   "capacity": 80,
-  "enrolled": 56,
+  "enrolled": 57,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -287,7 +287,7 @@
    "A203"
   ],
   "capacity": 35,
-  "enrolled": 20,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -317,7 +317,7 @@
    "B208"
   ],
   "capacity": 75,
-  "enrolled": 55,
+  "enrolled": 56,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -347,7 +347,7 @@
    "B207"
   ],
   "capacity": 60,
-  "enrolled": 56,
+  "enrolled": 57,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -377,8 +377,8 @@
   "rooms": [
    "A203"
   ],
-  "capacity": 40,
-  "enrolled": 40,
+  "capacity": 42,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -438,7 +438,7 @@
    "A204"
   ],
   "capacity": 70,
-  "enrolled": 57,
+  "enrolled": 58,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -468,7 +468,7 @@
    "A201"
   ],
   "capacity": 65,
-  "enrolled": 64,
+  "enrolled": 63,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -498,7 +498,7 @@
    "A202"
   ],
   "capacity": 60,
-  "enrolled": 49,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -528,7 +528,7 @@
    "A203"
   ],
   "capacity": 55,
-  "enrolled": 52,
+  "enrolled": 53,
   "reserved": "-",
   "programs": [
    "MAD_LS",
@@ -552,7 +552,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "MAD_LS"
@@ -627,7 +627,7 @@
    "B206"
   ],
   "capacity": 60,
-  "enrolled": 56,
+  "enrolled": 57,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -711,7 +711,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 10,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -954,7 +954,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 1,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

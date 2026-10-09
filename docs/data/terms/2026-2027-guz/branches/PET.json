@@ -14,7 +14,7 @@
   ],
   "rooms": [],
   "capacity": 60,
-  "enrolled": 19,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "PETE_LS"
@@ -97,7 +97,7 @@
    "A205"
   ],
   "capacity": 30,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "PET_LS",
@@ -220,7 +220,7 @@
    "A102"
   ],
   "capacity": 70,
-  "enrolled": 65,
+  "enrolled": 66,
   "reserved": "-",
   "programs": [
    "PET_LS",
@@ -560,7 +560,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 3,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -641,7 +641,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 7,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

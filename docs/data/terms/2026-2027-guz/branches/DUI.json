@@ -107,7 +107,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 11,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -136,7 +136,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 48,
+  "enrolled": 49,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -397,7 +397,7 @@
    "--"
   ],
   "capacity": 45,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -513,7 +513,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 35,
+  "enrolled": 36,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1035,7 +1035,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 41,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1272,7 +1272,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 47,
+  "enrolled": 49,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1649,7 +1649,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -1765,7 +1765,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -2125,7 +2125,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 21,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -2142,7 +2142,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Tayfun Uyanık",
   "buildings": [
-   "undeclared"
+   "DZB"
   ],
   "days": [
    "Perşembe"
@@ -2154,7 +2154,7 @@
    "--"
   ],
   "capacity": 10,
-  "enrolled": 0,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "DUI_LS"

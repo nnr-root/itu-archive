@@ -182,7 +182,7 @@
    "1303"
   ],
   "capacity": 15,
-  "enrolled": 14,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -236,7 +236,7 @@
    "5301"
   ],
   "capacity": 40,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -344,7 +344,7 @@
    "5306"
   ],
   "capacity": 15,
-  "enrolled": 10,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -495,7 +495,7 @@
    "5104"
   ],
   "capacity": 130,
-  "enrolled": 76,
+  "enrolled": 77,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -627,7 +627,7 @@
    "5105"
   ],
   "capacity": 40,
-  "enrolled": 21,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "CHZ_LS",
@@ -705,7 +705,7 @@
    "5305"
   ],
   "capacity": 50,
-  "enrolled": 15,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "CHZE_LS",
@@ -742,7 +742,7 @@
    "5303"
   ],
   "capacity": 60,
-  "enrolled": 60,
+  "enrolled": 61,
   "reserved": "-",
   "programs": [
    "CHZE_LS",
@@ -840,7 +840,7 @@
    "5203"
   ],
   "capacity": 60,
-  "enrolled": 55,
+  "enrolled": 56,
   "reserved": "-",
   "programs": [
    "ELK_LS",
@@ -900,7 +900,7 @@
    "4104"
   ],
   "capacity": 65,
-  "enrolled": 59,
+  "enrolled": 62,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -933,7 +933,7 @@
    "5205"
   ],
   "capacity": 50,
-  "enrolled": 36,
+  "enrolled": 37,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -1028,7 +1028,7 @@
    "5105"
   ],
   "capacity": 60,
-  "enrolled": 48,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1065,7 +1065,7 @@
    "5101"
   ],
   "capacity": 65,
-  "enrolled": 63,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1102,7 +1102,7 @@
    "5104"
   ],
   "capacity": 60,
-  "enrolled": 60,
+  "enrolled": 62,
   "reserved": "-",
   "programs": [
    "ELK_LS",
@@ -1165,7 +1165,7 @@
    "2104"
   ],
   "capacity": 60,
-  "enrolled": 58,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -1225,7 +1225,7 @@
    "2102"
   ],
   "capacity": 65,
-  "enrolled": 82,
+  "enrolled": 84,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1258,7 +1258,7 @@
    "5307"
   ],
   "capacity": 50,
-  "enrolled": 28,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "ELK_LS",
@@ -1292,7 +1292,7 @@
    "6307"
   ],
   "capacity": 55,
-  "enrolled": 50,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1323,7 +1323,7 @@
    "5301"
   ],
   "capacity": 55,
-  "enrolled": 53,
+  "enrolled": 54,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -1382,7 +1382,7 @@
    "5301"
   ],
   "capacity": 55,
-  "enrolled": 62,
+  "enrolled": 63,
   "reserved": "-",
   "programs": [
    "ELK_LS",
@@ -1441,7 +1441,7 @@
    "5303"
   ],
   "capacity": 60,
-  "enrolled": 54,
+  "enrolled": 59,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -1470,7 +1470,7 @@
    "5307"
   ],
   "capacity": 70,
-  "enrolled": 70,
+  "enrolled": 69,
   "reserved": "-",
   "programs": [
    "ELK_LS",
@@ -1500,7 +1500,7 @@
    "5303"
   ],
   "capacity": 50,
-  "enrolled": 28,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -1559,7 +1559,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -1617,7 +1617,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "ELK_LS",
@@ -1677,7 +1677,7 @@
    "5301"
   ],
   "capacity": 55,
-  "enrolled": 49,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -1735,7 +1735,7 @@
    "5305"
   ],
   "capacity": 15,
-  "enrolled": 13,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -1823,8 +1823,8 @@
    "5302"
   ],
   "capacity": 60,
-  "enrolled": 58,
-  "reserved": "EEE_LS/5/3 | Diğer/55/55",
+  "enrolled": 59,
+  "reserved": "EEE_LS/5/3 | Diğer/55/56",
   "programs": [
    "EEE_LS",
    "ELK_LS",
@@ -1871,7 +1871,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 42,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "ELK_LS",
@@ -2741,5 +2741,50 @@
   "programs": [],
   "prereq": "-",
   "classReq": "Detay"
+ },
+ {
+  "crn": "16035",
+  "code": "ELK 226",
+  "branch": "ELK",
+  "level": "LS",
+  "name": "Elektrik-Elektronik Müh. Tem.",
+  "method": "Ek Sınav",
+  "instructor": "Murat İmeryüz",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 5,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "IML_LS",
+   "MAK_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16052",
+  "code": "ELK 226",
+  "branch": "ELK",
+  "level": "LS",
+  "name": "Elektrik-Elektronik Müh. Tem.",
+  "method": "Ek Sınav",
+  "instructor": "Murat İmeryüz",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
  }
 ]

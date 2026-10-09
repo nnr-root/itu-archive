@@ -20,7 +20,7 @@
     "KIM 101",
     "Genel Kimya I",
     75,
-    74
+    73
    ],
    [
     "2026-2027-guz",
@@ -137,7 +137,7 @@
     "GEO 213E",
     "Positioning Method and Systems",
     60,
-    56
+    57
    ],
    [
     "2025-2026-guz",
@@ -276,7 +276,7 @@
     "MAT 103",
     "Matematik I",
     72,
-    73
+    72
    ],
    [
     "2026-2027-guz",
@@ -450,7 +450,7 @@
     "GEO 532",
     "Kon.Baz.Sis.\u0026Mobil Har.Ya.Te.",
     30,
-    21
+    22
    ],
    [
     "2026-2027-guz",
@@ -707,14 +707,14 @@
     "CEV 301E",
     "Chemical Processes",
     50,
-    50
+    51
    ],
    [
     "2026-2027-guz",
     "CEV 347",
     "Temel İşlemler",
     80,
-    70
+    72
    ],
    [
     "2025-2026-bahar",
@@ -762,7 +762,7 @@
     "KMM 413E",
     "Biocatatlysts \u0026Their Character",
     20,
-    19
+    20
    ],
    [
     "2025-2026-bahar",
@@ -961,6 +961,27 @@
   "rows": [
    [
     "2026-2027-guz",
+    "IML 335",
+    "İmalat Planlama ve Kontrol",
+    5,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "IML 338",
+    "İmalat Sistemleri",
+    5,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "IML 326E",
+    "Manuf. of Nonmetalic Prod.",
+    5,
+    0
+   ],
+   [
+    "2026-2027-guz",
     "MAK 213",
     "Malzeme Bilimi",
     40,
@@ -971,7 +992,7 @@
     "MAK 223",
     "Malzeme Bilimi",
     85,
-    79
+    80
    ],
    [
     "2026-2027-guz",
@@ -1341,14 +1362,14 @@
     "SAV 305E",
     "Embedded System Applications for Autonomous Platforms",
     40,
-    40
+    41
    ],
    [
     "2026-2027-guz",
     "STP YLT",
     "Tez Çalışması",
     200,
-    50
+    51
    ],
    [
     "2026-2027-guz",
@@ -1383,7 +1404,7 @@
     "UCK 203E",
     "Circuits, Signals and Systems",
     90,
-    73
+    76
    ],
    [
     "2025-2026-bahar",
@@ -1849,7 +1870,7 @@
     "ISL 213E",
     "Statistics I",
     80,
-    38
+    40
    ],
    [
     "2026-2027-guz",
@@ -2163,7 +2184,7 @@
     "MMI 576E",
     "Finite Eleme.Analy.in Manufac.",
     30,
-    12
+    11
    ],
    [
     "2026-2027-guz",
@@ -2461,7 +2482,7 @@
     "KMP 195",
     "Form Bilgisi I",
     35,
-    33
+    35
    ],
    [
     "2026-2027-guz",
@@ -2474,8 +2495,8 @@
     "2026-2027-guz",
     "KMP 293",
     "Armoni I",
-    45,
-    45
+    47,
+    47
    ],
    [
     "2026-2027-guz",
@@ -2496,7 +2517,7 @@
     "KMP 457",
     "Partisyon Çözümleme I",
     25,
-    4
+    3
    ],
    [
     "2026-2027-guz",
@@ -3306,14 +3327,14 @@
     "CEV 210",
     "Mühendislik Matematiği",
     60,
-    46
+    49
    ],
    [
     "2026-2027-guz",
     "CEV 303",
     "Teknik Resim (CAD)",
     67,
-    42
+    45
    ],
    [
     "2025-2026-bahar",
@@ -3396,7 +3417,7 @@
     "INS 303",
     "Zemin Mekaniği I",
     35,
-    40
+    41
    ],
    [
     "2025-2026-bahar",
@@ -3660,14 +3681,14 @@
     "GEO 478",
     "Kamulaştırma Tekniği",
     30,
-    17
+    18
    ],
    [
     "2026-2027-guz",
     "GEO 321",
     "Özel Ölçme Uygulamaları",
     60,
-    38
+    39
    ],
    [
     "2026-2027-guz",
@@ -4114,7 +4135,7 @@
     "KMM 224",
     "Kimya Müh.Termodinamiği",
     80,
-    76
+    80
    ],
    [
     "2026-2027-guz",
@@ -4552,21 +4573,21 @@
     "ECN 401E",
     "Turkish Economy",
     80,
-    69
+    71
    ],
    [
     "2026-2027-guz",
     "ECN 433E",
     "Regulatory Econ.\u0026 Reg. Markets",
     80,
-    49
+    54
    ],
    [
     "2026-2027-guz",
     "ECN 4902E",
     "Graduation Project",
     100,
-    37
+    36
    ],
    [
     "2024-2025-bahar",
@@ -5059,7 +5080,7 @@
     "DEP 503E",
     "Structural Dynamics",
     60,
-    22
+    23
    ],
    [
     "2026-2027-guz",
@@ -5487,7 +5508,7 @@
     "CEV 347E",
     "Unit Operations",
     80,
-    69
+    71
    ],
    [
     "2026-2027-guz",
@@ -5849,7 +5870,7 @@
     "BLU 539E",
     "Spec.Topics in Applied Infor.",
     25,
-    4
+    5
    ]
   ],
   "terms": 1

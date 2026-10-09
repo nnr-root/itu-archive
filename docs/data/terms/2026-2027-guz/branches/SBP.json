@@ -318,7 +318,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 74,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -397,7 +397,7 @@
    "215"
   ],
   "capacity": 75,
-  "enrolled": 80,
+  "enrolled": 85,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -714,7 +714,7 @@
    "215"
   ],
   "capacity": 75,
-  "enrolled": 47,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [
    "SBP_YD",
@@ -1157,7 +1157,7 @@
    "D380"
   ],
   "capacity": 45,
-  "enrolled": 10,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1188,7 +1188,7 @@
    "215"
   ],
   "capacity": 65,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1450,7 +1450,7 @@
    "230"
   ],
   "capacity": 75,
-  "enrolled": 60,
+  "enrolled": 59,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1578,7 +1578,7 @@
    "315"
   ],
   "capacity": 25,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1678,8 +1678,8 @@
    "317"
   ],
   "capacity": 30,
-  "enrolled": 26,
-  "reserved": "MIM_LS/3/2 | MIME_LS/3/0 | Diğer/24/24",
+  "enrolled": 24,
+  "reserved": "MIM_LS/3/2 | MIME_LS/3/0 | Diğer/24/22",
   "programs": [
    "MIM_LS",
    "MIME_LS",
@@ -1834,7 +1834,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 31,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "SBP_LS"
@@ -1857,7 +1857,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 18,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "SBPE_LS"

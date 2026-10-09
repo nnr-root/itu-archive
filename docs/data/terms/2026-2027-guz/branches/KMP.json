@@ -14,7 +14,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 2,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -74,7 +74,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "CAB_LS",
@@ -135,8 +135,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 45,
-  "enrolled": 45,
+  "capacity": 47,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "CAB_LS",
@@ -166,8 +166,8 @@
   "rooms": [
    "--"
   ],
-  "capacity": 38,
-  "enrolled": 36,
+  "capacity": 42,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "CAB_LS",
@@ -389,7 +389,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 13,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "MTR_LS"
@@ -478,7 +478,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 4,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "MTR_LS"
@@ -1064,7 +1064,7 @@
    "--"
   ],
   "capacity": 10,
-  "enrolled": 4,
+  "enrolled": 6,
   "reserved": "-",
   "programs": [
    "CAB_LS",

@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-10-09T08:59:25Z",
+ "scrapedAt": "2026-10-09T15:22:13Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5429,
- "courses": 3870,
+ "sections": 5464,
+ "courses": 3896,
  "branches": [
   {
    "code": "AAR",
@@ -40,7 +40,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 7
+   "sections": 8
   },
   {
    "code": "ALG",
@@ -82,7 +82,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 16
+   "sections": 17
   },
   {
    "code": "BBL",
@@ -202,7 +202,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 163
+   "sections": 164
   },
   {
    "code": "CBM",
@@ -287,7 +287,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 11
+   "sections": 13
   },
   {
    "code": "DCZ",
@@ -413,7 +413,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 82
+   "sections": 83
   },
   {
    "code": "EHN",
@@ -442,7 +442,7 @@
     "LS",
     "LU"
    ],
-   "sections": 101
+   "sections": 103
   },
   {
    "code": "ENB",
@@ -659,7 +659,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 5
+   "sections": 22
   },
   {
    "code": "IMT",
@@ -903,7 +903,7 @@
     "LS",
     "LU"
    ],
-   "sections": 134
+   "sections": 143
   },
   {
    "code": "MAL",
@@ -1541,7 +1541,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 60
+   "sections": 61
   },
   {
    "code": "UAH",
@@ -1678,11 +1678,11 @@
   }
  ],
  "stats": {
-  "sections": 5429,
-  "courses": 3870,
+  "sections": 5464,
+  "courses": 3896,
   "branches": 235,
-  "instructors": 2004,
-  "capacity": 263726,
-  "enrolled": 136372
+  "instructors": 2007,
+  "capacity": 264065,
+  "enrolled": 138389
  }
 }

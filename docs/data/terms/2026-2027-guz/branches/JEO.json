@@ -20,7 +20,7 @@
    "B205"
   ],
   "capacity": 30,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "JEF_LS"
@@ -225,7 +225,7 @@
    "A101"
   ],
   "capacity": 100,
-  "enrolled": 96,
+  "enrolled": 99,
   "reserved": "-",
   "programs": [
    "JEF_LS",
@@ -286,7 +286,7 @@
    "A302"
   ],
   "capacity": 30,
-  "enrolled": 27,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "JEO_LS",
@@ -316,7 +316,7 @@
    "A202"
   ],
   "capacity": 60,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "JEO_LS",
@@ -346,7 +346,7 @@
    "A301"
   ],
   "capacity": 60,
-  "enrolled": 40,
+  "enrolled": 41,
   "reserved": "-",
   "programs": [
    "JEO_LS",
@@ -377,7 +377,7 @@
    "A302"
   ],
   "capacity": 55,
-  "enrolled": 51,
+  "enrolled": 52,
   "reserved": "-",
   "programs": [
    "JEO_LS",
@@ -470,7 +470,7 @@
    "A205"
   ],
   "capacity": 30,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "JEO_LS"
@@ -649,7 +649,7 @@
    "A201"
   ],
   "capacity": 60,
-  "enrolled": 48,
+  "enrolled": 49,
   "reserved": "-",
   "programs": [
    "JEO_LS",
@@ -709,7 +709,7 @@
    "A302"
   ],
   "capacity": 30,
-  "enrolled": 13,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "JEO_LS"
@@ -738,7 +738,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "JEO_LS"
@@ -855,7 +855,7 @@
    "315"
   ],
   "capacity": 35,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "JEO_LS"
@@ -878,7 +878,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 46,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "JEO_LS"
@@ -924,7 +924,7 @@
   ],
   "rooms": [],
   "capacity": 100,
-  "enrolled": 10,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "JEO_LS"
@@ -1101,7 +1101,7 @@
    "A202"
   ],
   "capacity": 60,
-  "enrolled": 40,
+  "enrolled": 41,
   "reserved": "-",
   "programs": [
    "JEO_LS",
@@ -1320,7 +1320,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 3,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1428,7 +1428,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 2,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1530,7 +1530,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 19,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1632,7 +1632,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 15,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1740,7 +1740,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 13,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1925,7 +1925,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "JEO_LS"

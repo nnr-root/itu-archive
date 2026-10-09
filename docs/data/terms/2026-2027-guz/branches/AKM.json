@@ -81,7 +81,7 @@
    "A201"
   ],
   "capacity": 60,
-  "enrolled": 59,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -145,7 +145,7 @@
    "A302"
   ],
   "capacity": 60,
-  "enrolled": 28,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -185,6 +185,27 @@
   "name": "Fluid Mechanics",
   "method": "Ek Sınav",
   "instructor": "Mehmet Melih Koşucu",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16056",
+  "code": "AKM 204",
+  "branch": "AKM",
+  "level": "LS",
+  "name": "Akışkanlar Mekaniği",
+  "method": "Ek Sınav",
+  "instructor": "Murat Çakan",
   "buildings": [],
   "days": [],
   "times": [

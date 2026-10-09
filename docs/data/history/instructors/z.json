@@ -314,7 +314,7 @@
     "GEO 427",
     "Fotog. Ve Laser Veri. Entg.",
     40,
-    36
+    39
    ],
    [
     "2025-2026-bahar",
@@ -1019,7 +1019,7 @@
     "EBT 553",
     "Güneş Enerjisi\u0026Dönüşüm Tekno.",
     20,
-    9
+    8
    ],
    [
     "2026-2027-guz",
@@ -1046,14 +1046,14 @@
     "EKO 201E",
     "Economics",
     300,
-    190
+    198
    ],
    [
     "2026-2027-guz",
     "EKO 201E",
     "Economics",
     300,
-    151
+    157
    ],
    [
     "2025-2026-bahar",
@@ -1601,14 +1601,14 @@
     "ELK 221E",
     "Fundamentals of Electric. Eng.",
     60,
-    60
+    61
    ],
    [
     "2026-2027-guz",
     "ELK 313E",
     "Power Transmission Lines",
     65,
-    59
+    62
    ],
    [
     "2026-2027-guz",
@@ -2182,6 +2182,13 @@
     6
    ],
    [
+    "2026-2027-guz",
+    "MAK 4054E",
+    "Digital Control System Design",
+    5,
+    0
+   ],
+   [
     "2024-2025-bahar",
     "MAK 4047E",
     "Dynamic Systms Modelling \u0026 Sim",
@@ -2395,7 +2402,7 @@
     "JEO 242",
     "Optik Mineraloji",
     30,
-    27
+    29
    ],
    [
     "2026-2027-guz",
@@ -2597,7 +2604,7 @@
     "UZB 411E",
     "Space Environment",
     105,
-    96
+    100
    ],
    [
     "2026-2027-guz",
@@ -2932,7 +2939,7 @@
     "MAT 103E",
     "Mathematics I",
     95,
-    91
+    93
    ],
    [
     "2020-2021-guz",
@@ -3576,7 +3583,7 @@
     "JEO DRT",
     "Tez Çalışması",
     200,
-    19
+    20
    ],
    [
     "2026-2027-guz",
@@ -3701,14 +3708,14 @@
     "ISL 234E",
     "Management and Organization",
     80,
-    62
+    65
    ],
    [
     "2026-2027-guz",
     "ISL 501E",
     "Advanced App.to Management",
     40,
-    30
+    31
    ],
    [
     "2026-2027-guz",
@@ -4001,14 +4008,14 @@
     "RST 501",
     "Koruma Projesi I",
     10,
-    6
+    7
    ],
    [
     "2026-2027-guz",
     "RST 509",
     "Koruma Kuramı",
     10,
-    6
+    7
    ],
    [
     "2026-2027-guz",
@@ -4022,14 +4029,14 @@
     "RST 616",
     "Kültürel Miras Yönetimi",
     10,
-    5
+    6
    ],
    [
     "2026-2027-guz",
     "RST DRT",
     "Tez Çalışması",
     200,
-    27
+    28
    ],
    [
     "2026-2027-guz",
@@ -4579,7 +4586,7 @@
     "SPL 503E",
     "Urban Planning Project I",
     30,
-    27
+    28
    ],
    [
     "2026-2027-guz",
@@ -4886,7 +4893,7 @@
     "KIM 101E",
     "General Chemistry I",
     55,
-    54
+    55
    ],
    [
     "2026-2027-guz",
@@ -4900,7 +4907,7 @@
     "KIM 203E",
     "Analytical Chemistry",
     50,
-    24
+    25
    ],
    [
     "2026-2027-guz",
@@ -4941,7 +4948,7 @@
     "MIM 209E",
     "History of Architecture I",
     130,
-    95
+    96
    ],
    [
     "2026-2027-guz",
@@ -5192,14 +5199,14 @@
     "ING 112A",
     "Basics of Academic Writing",
     28,
-    27
+    28
    ],
    [
     "2026-2027-guz",
     "ING 112A",
     "Basics of Academic Writing",
     25,
-    24
+    25
    ],
    [
     "2026-2027-guz",
@@ -5716,21 +5723,21 @@
     "MAK 405",
     "Mak. Müh. Yenilikçi Tas. Yönt.",
     80,
-    48
+    49
    ],
    [
     "2026-2027-guz",
     "MAK 4078",
     "Makina Konstrüksiyonları Esas.",
     40,
-    23
+    25
    ],
    [
     "2026-2027-guz",
     "MAK 405E",
     "Innovative Design Methods in Mechanical Engineering",
     15,
-    0
+    1
    ],
    [
     "2025-2026-bahar",
@@ -6086,7 +6093,7 @@
     "BIO 432E",
     "Microbial Physiology",
     40,
-    24
+    25
    ],
    [
     "2025-2026-bahar",
@@ -6413,7 +6420,7 @@
     "CHZ 213",
     "Zenginlstirme Önc.Haz. İşlml.",
     60,
-    51
+    52
    ],
    [
     "2026-2027-guz",
@@ -6884,7 +6891,7 @@
     "JEO 627",
     "Tektonik Deformasyon.Modellen.",
     20,
-    2
+    1
    ],
    [
     "2025-2026-guz",
@@ -7576,6 +7583,13 @@
   "name": "Zümray Ölmez",
   "rows": [
    [
+    "2026-2027-guz",
+    "EHB 422",
+    "Biyolojik İşar.Ol.\u0026Alg.Yöntem.",
+    0,
+    0
+   ],
+   [
     "2025-2026-bahar",
     "EEF 262",
     "Elektroniğin Temelleri",
@@ -7800,6 +7814,6 @@
     8
    ]
   ],
-  "terms": 18
+  "terms": 19
  }
 }

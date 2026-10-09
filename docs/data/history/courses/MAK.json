@@ -171,7 +171,7 @@
     "2026-2027-guz",
     "Bülent Bölat",
     45,
-    9,
+    11,
     "Perşembe"
    ],
    [
@@ -1298,7 +1298,7 @@
     "2026-2027-guz",
     "Cevat Erdem İmrak",
     62,
-    46,
+    48,
     "Pazartesi"
    ],
    [
@@ -1970,7 +1970,7 @@
     "2026-2027-guz",
     "Sinem Öztürk",
     65,
-    56,
+    57,
     "Perşembe"
    ],
    [
@@ -2520,7 +2520,7 @@
     "2026-2027-guz",
     "Adem Candaş , Eren Kalay",
     200,
-    179,
+    186,
     ""
    ],
    [
@@ -2602,7 +2602,7 @@
     "2026-2027-guz",
     "Erkan Günpınar",
     120,
-    70,
+    71,
     ""
    ],
    [
@@ -2655,7 +2655,7 @@
     "2026-2027-guz",
     "Adem Candaş",
     10,
-    0,
+    4,
     ""
    ],
    [
@@ -3052,7 +3052,7 @@
     "2026-2027-guz",
     "Barış Doğru",
     80,
-    75,
+    77,
     "Pazartesi, Perşembe"
    ],
    [
@@ -3111,14 +3111,14 @@
     "2026-2027-guz",
     "Hakan Öksüzoğlu",
     70,
-    61,
+    62,
     "Pazartesi"
    ],
    [
     "2026-2027-guz",
     "Alper Tolga Çalık",
     70,
-    67,
+    69,
     "Pazartesi"
    ],
    [
@@ -3373,14 +3373,14 @@
    [
     "2026-2027-guz",
     "Ata Muğan",
-    90,
-    90,
+    95,
+    92,
     "Çarşamba, Cuma"
    ],
    [
     "2026-2027-guz",
     "Mehmet Salih Dokuz",
-    90,
+    95,
     90,
     "Çarşamba, Cuma"
    ],
@@ -3482,7 +3482,7 @@
     "2026-2027-guz",
     "Uğurcan Eroğlu",
     40,
-    25,
+    28,
     "Salı"
    ],
    [
@@ -3535,14 +3535,14 @@
     "2026-2027-guz",
     "Metin Kayıtmazbatır",
     195,
-    191,
+    195,
     "Çarşamba"
    ],
    [
     "2026-2027-guz",
     "Metin Kayıtmazbatır",
     20,
-    10,
+    15,
     "Cuma"
    ],
    [
@@ -4843,11 +4843,19 @@
   "code": "MAK 216",
   "name": "Termod. & Isı İletimi",
   "terms": [
+   "2026-2027-guz",
    "2019-2020-bahar",
    "2018-2019-bahar",
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Ersin Sayar",
+    0,
+    0,
+    ""
+   ],
    [
     "2019-2020-bahar",
     "Ersin Sayar",
@@ -5741,7 +5749,7 @@
     "2026-2027-guz",
     "Ramazan Murat Tabanlı",
     85,
-    79,
+    80,
     "Pazartesi, Perşembe"
    ],
    [
@@ -7310,7 +7318,7 @@
     "2026-2027-guz",
     "Adnan Midilli",
     60,
-    47,
+    49,
     "Cuma"
    ],
    [
@@ -7350,7 +7358,7 @@
     "2026-2027-guz",
     "Turgut Yılmaz",
     95,
-    90,
+    94,
     "Perşembe"
    ],
    [
@@ -7404,14 +7412,14 @@
     "2026-2027-guz",
     "Sertaç Çadırcı , Hasan Güneş",
     70,
-    61,
+    62,
     "Pazartesi"
    ],
    [
     "2026-2027-guz",
     "Tahsin Engin",
     60,
-    32,
+    33,
     "Çarşamba"
    ],
    [
@@ -7513,7 +7521,7 @@
     "2026-2027-guz",
     "İbrahim Mehmet Palabıyık",
     80,
-    74,
+    77,
     "Çarşamba"
    ],
    [
@@ -7558,7 +7566,7 @@
     "2026-2027-guz",
     "Cemal Baykara",
     40,
-    34,
+    38,
     "Pazartesi"
    ],
    [
@@ -7583,7 +7591,7 @@
     "2026-2027-guz",
     "Bayram Şahin",
     130,
-    128,
+    130,
     "Pazartesi, Perşembe"
    ],
    [
@@ -7614,7 +7622,7 @@
     "2026-2027-guz",
     "İsmail Yalçın Uralcan",
     120,
-    97,
+    98,
     "Perşembe"
    ],
    [
@@ -7645,7 +7653,7 @@
     "2026-2027-guz",
     "Hülya Yalçın",
     65,
-    60,
+    62,
     "Çarşamba, Perşembe"
    ],
    [
@@ -7670,7 +7678,7 @@
     "2026-2027-guz",
     "Mustafa Bakkal , Turgut Gülmez",
     120,
-    107,
+    108,
     "Salı, Cuma"
    ],
    [
@@ -7702,14 +7710,14 @@
     "2026-2027-guz",
     "Haluk Erol",
     90,
-    84,
+    87,
     "Salı"
    ],
    [
     "2026-2027-guz",
     "Vahit Mermertaş",
     90,
-    71,
+    74,
     "Salı"
    ],
    [
@@ -7741,7 +7749,7 @@
     "2026-2027-guz",
     "Osman Taha Şen",
     80,
-    58,
+    62,
     "Salı"
    ],
    [
@@ -8650,6 +8658,7 @@
   "code": "MAK 314",
   "name": "Biyomalzemeler ve Biyomekanik",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -8659,6 +8668,13 @@
    "2019-2020-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Süreyya Ergün Bozdağ",
+    5,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Süreyya Ergün Bozdağ",
@@ -9132,7 +9148,7 @@
     "2026-2027-guz",
     "Ali İhsan Koca",
     185,
-    178,
+    181,
     "Perşembe"
    ]
   ]
@@ -10068,7 +10084,7 @@
     "2026-2027-guz",
     "Murat Çakan",
     140,
-    138,
+    140,
     "Pazartesi"
    ],
    [
@@ -10121,7 +10137,7 @@
     "2026-2027-guz",
     "Atakan Altınkaynak",
     40,
-    22,
+    24,
     "Çarşamba, Cuma"
    ],
    [
@@ -11573,6 +11589,7 @@
   "code": "MAK 372E",
   "name": "Intr.to Finite Element Methods",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -11585,6 +11602,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Mesut Kırca",
+    5,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Ata Muğan",
@@ -11888,6 +11912,7 @@
   "code": "MAK 378E",
   "name": "Intr.to Nanotech.& Nanosyst.",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -11899,6 +11924,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "-",
+    5,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Levent Trabzon",
@@ -12079,7 +12111,7 @@
     "2026-2027-guz",
     "Onur Keskin",
     30,
-    16,
+    14,
     "Cuma"
    ]
   ]
@@ -12213,7 +12245,7 @@
     "2026-2027-guz",
     "Atakan Altınkaynak",
     180,
-    173,
+    174,
     ""
    ]
   ]
@@ -12254,6 +12286,7 @@
   "code": "MAK 4004",
   "name": "Komp. Malz. Mekaniğine Giriş",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -12269,6 +12302,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Süreyya Ergün Bozdağ",
+    5,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Süreyya Ergün Bozdağ",
@@ -12477,7 +12517,7 @@
     "2026-2027-guz",
     "Alper Tolga Çalık",
     40,
-    37,
+    38,
     "Salı"
    ],
    [
@@ -12786,7 +12826,7 @@
     "2026-2027-guz",
     "Alaeddin Burak İrez",
     40,
-    35,
+    34,
     "Cuma"
    ],
    [
@@ -12987,7 +13027,7 @@
     "2026-2027-guz",
     "Ali Gökşenli",
     40,
-    49,
+    51,
     "Pazartesi"
    ],
    [
@@ -13320,6 +13360,7 @@
   "code": "MAK 402",
   "name": "Makina Mühendisliği Lab. II",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2023-2024-bahar",
    "2023-2024-guz",
@@ -13332,6 +13373,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "İsmail Yalçın Uralcan",
+    5,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "İsmail Yalçın Uralcan",
@@ -13610,7 +13658,7 @@
     "2026-2027-guz",
     "Murat Çakan",
     40,
-    26,
+    28,
     "Pazartesi"
    ],
    [
@@ -13911,6 +13959,7 @@
   "code": "MAK 403",
   "name": "Uygulamalı Makina Projesi",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -13929,6 +13978,13 @@
    "2017-2018-guz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Hacı Abdullah Taşdemir",
+    5,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Hacı Abdullah Taşdemir",
@@ -14671,7 +14727,7 @@
     "2026-2027-guz",
     "Murat Tosun",
     40,
-    18,
+    19,
     "Salı"
    ],
    [
@@ -15690,7 +15746,7 @@
     "2026-2027-guz",
     "Vedat Temiz , İbrahim Mehmet Palabıyık , Zeynep Parlar",
     80,
-    48,
+    49,
     "Perşembe"
    ],
    [
@@ -15894,7 +15950,7 @@
     "2026-2027-guz",
     "Özgen Akalın",
     40,
-    35,
+    39,
     "Cuma"
    ],
    [
@@ -15952,6 +16008,7 @@
   "code": "MAK 4054E",
   "name": "Digital Control System Design",
   "terms": [
+   "2026-2027-guz",
    "2024-2025-bahar",
    "2023-2024-bahar",
    "2022-2023-bahar",
@@ -15962,6 +16019,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Zeki Yağız Bayraktaroğlu",
+    5,
+    0,
+    ""
+   ],
    [
     "2024-2025-bahar",
     "-",
@@ -16047,7 +16111,7 @@
     "2026-2027-guz",
     "Osman Akın Kutlar , Hikmet Arslan",
     40,
-    43,
+    44,
     "Perşembe"
    ],
    [
@@ -16445,7 +16509,7 @@
     "2026-2027-guz",
     "Zeynep Parlar",
     15,
-    0,
+    1,
     "Salı"
    ],
    [
@@ -17120,7 +17184,7 @@
     "2026-2027-guz",
     "Zeynep Parlar",
     40,
-    23,
+    25,
     "Cuma"
    ],
    [
@@ -17224,7 +17288,7 @@
     "2026-2027-guz",
     "İsmail Yalçın Uralcan , Akif Yavuz",
     100,
-    93,
+    94,
     "Çarşamba"
    ]
   ]
@@ -17728,6 +17792,7 @@
   "code": "MAK 492",
   "name": "Bitirme Tasarım Projesi",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -17746,6 +17811,13 @@
    "2017-2018-guz"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Akif Yavuz",
+    5,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Akif Yavuz",
@@ -18069,7 +18141,7 @@
     "2026-2027-guz",
     "Ata Muğan",
     40,
-    32,
+    36,
     "Perşembe"
    ]
   ]
@@ -18085,7 +18157,7 @@
     "2026-2027-guz",
     "Ekrem Tüfekci",
     30,
-    9,
+    10,
     "Perşembe"
    ]
   ]
@@ -18236,7 +18308,7 @@
     "2026-2027-guz",
     "Vahit Mermertaş",
     100,
-    10,
+    12,
     ""
    ]
   ]
