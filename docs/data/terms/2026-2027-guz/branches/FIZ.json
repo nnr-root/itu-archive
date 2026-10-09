@@ -580,7 +580,7 @@
    "A31"
   ],
   "capacity": 90,
-  "enrolled": 65,
+  "enrolled": 64,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -780,7 +780,7 @@
    "A34"
   ],
   "capacity": 75,
-  "enrolled": 74,
+  "enrolled": 73,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -980,7 +980,7 @@
    "A32"
   ],
   "capacity": 120,
-  "enrolled": 102,
+  "enrolled": 101,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1480,7 +1480,7 @@
    "A15"
   ],
   "capacity": 100,
-  "enrolled": 100,
+  "enrolled": 99,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1680,7 +1680,7 @@
    "A12"
   ],
   "capacity": 75,
-  "enrolled": 75,
+  "enrolled": 74,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1780,7 +1780,7 @@
    "174"
   ],
   "capacity": 130,
-  "enrolled": 124,
+  "enrolled": 123,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1996,7 +1996,7 @@
    "175"
   ],
   "capacity": 122,
-  "enrolled": 114,
+  "enrolled": 113,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2104,7 +2104,7 @@
    "176"
   ],
   "capacity": 122,
-  "enrolled": 122,
+  "enrolled": 121,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2212,7 +2212,7 @@
    "A34"
   ],
   "capacity": 90,
-  "enrolled": 83,
+  "enrolled": 82,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2320,7 +2320,7 @@
    "A35"
   ],
   "capacity": 100,
-  "enrolled": 100,
+  "enrolled": 99,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2428,7 +2428,7 @@
    "A31"
   ],
   "capacity": 150,
-  "enrolled": 143,
+  "enrolled": 141,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2536,7 +2536,7 @@
    "A32"
   ],
   "capacity": 125,
-  "enrolled": 119,
+  "enrolled": 116,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2644,7 +2644,7 @@
    "A31"
   ],
   "capacity": 140,
-  "enrolled": 140,
+  "enrolled": 138,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3452,7 +3452,7 @@
    "--"
   ],
   "capacity": 27,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -8116,7 +8116,7 @@
    "--"
   ],
   "capacity": 27,
-  "enrolled": 26,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -8316,7 +8316,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 29,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -9748,7 +9748,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 23,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -10648,7 +10648,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 14,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -12195,7 +12195,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 24,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -12295,7 +12295,7 @@
    "A101"
   ],
   "capacity": 90,
-  "enrolled": 84,
+  "enrolled": 82,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -12619,7 +12619,7 @@
    "B4_Z05"
   ],
   "capacity": 30,
-  "enrolled": 11,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -13273,7 +13273,7 @@
    "--"
   ],
   "capacity": 24,
-  "enrolled": 21,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "FIZ_LS",
@@ -13303,7 +13303,7 @@
    "D104"
   ],
   "capacity": 90,
-  "enrolled": 90,
+  "enrolled": 86,
   "reserved": "-",
   "programs": [
    "FIZ_LS"
@@ -13332,7 +13332,7 @@
    "--"
   ],
   "capacity": 22,
-  "enrolled": 22,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "FIZ_LS",
@@ -13422,7 +13422,7 @@
    "--"
   ],
   "capacity": 24,
-  "enrolled": 21,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "FIZ_LS",
@@ -13720,7 +13720,7 @@
    "D104"
   ],
   "capacity": 75,
-  "enrolled": 48,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "FIZ_LS",
@@ -13787,7 +13787,7 @@
    "D101"
   ],
   "capacity": 30,
-  "enrolled": 26,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "ALG_YD",
@@ -13909,7 +13909,7 @@
    "D106"
   ],
   "capacity": 30,
-  "enrolled": 13,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "FIZ_LS",
@@ -14091,7 +14091,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 23,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "FIZ_LS"

@@ -43,7 +43,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 30,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -185,7 +185,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "CAB_LS",
@@ -217,7 +217,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "BST_LS",
@@ -253,7 +253,7 @@
    "--"
   ],
   "capacity": 35,
-  "enrolled": 33,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "CAB_LS",
@@ -1294,6 +1294,42 @@
   "reserved": "-",
   "programs": [
    "MUZ_LS"
+  ],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "16022",
+  "code": "MUZ 322",
+  "branch": "MUZ",
+  "level": "LS",
+  "name": "Alan Araştırma Metodları",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Günay Koçhan",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "09:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 10,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "CAB_LS",
+   "CEB_LS",
+   "MTR_LS",
+   "MUT_LS",
+   "MUZ_LS",
+   "MZT_LS",
+   "SES_LS",
+   "THO_LS"
   ],
   "prereq": "-",
   "classReq": "-"

@@ -49,7 +49,7 @@
    "B307"
   ],
   "capacity": 30,
-  "enrolled": 24,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -79,7 +79,7 @@
    "D201"
   ],
   "capacity": 40,
-  "enrolled": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -108,7 +108,7 @@
    "D201"
   ],
   "capacity": 40,
-  "enrolled": 41,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -285,7 +285,7 @@
    "--"
   ],
   "capacity": 63,
-  "enrolled": 61,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -648,7 +648,7 @@
    "A304"
   ],
   "capacity": 60,
-  "enrolled": 48,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -824,7 +824,7 @@
    "A201"
   ],
   "capacity": 40,
-  "enrolled": 41,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -1175,7 +1175,7 @@
    "A303"
   ],
   "capacity": 50,
-  "enrolled": 49,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -1628,7 +1628,7 @@
    "B204"
   ],
   "capacity": 45,
-  "enrolled": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -1723,7 +1723,7 @@
    "A202"
   ],
   "capacity": 50,
-  "enrolled": 70,
+  "enrolled": 69,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -1883,7 +1883,7 @@
    "A302"
   ],
   "capacity": 45,
-  "enrolled": 39,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -1947,7 +1947,7 @@
    "15:30/17:29"
   ],
   "rooms": [
-   "B205",
+   "A202",
    "B101"
   ],
   "capacity": 45,
@@ -2052,7 +2052,7 @@
    "B205"
   ],
   "capacity": 55,
-  "enrolled": 55,
+  "enrolled": 54,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2083,7 +2083,7 @@
    "A204"
   ],
   "capacity": 55,
-  "enrolled": 61,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2114,7 +2114,7 @@
    "B103"
   ],
   "capacity": 55,
-  "enrolled": 39,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -2174,7 +2174,7 @@
    "A305"
   ],
   "capacity": 50,
-  "enrolled": 49,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2296,7 +2296,7 @@
    "B306"
   ],
   "capacity": 38,
-  "enrolled": 46,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -2919,7 +2919,7 @@
    "B206"
   ],
   "capacity": 40,
-  "enrolled": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -2954,7 +2954,7 @@
    "A103"
   ],
   "capacity": 40,
-  "enrolled": 32,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -2983,7 +2983,7 @@
    "B204"
   ],
   "capacity": 50,
-  "enrolled": 40,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3101,7 +3101,7 @@
    "A303"
   ],
   "capacity": 45,
-  "enrolled": 58,
+  "enrolled": 57,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3190,7 +3190,7 @@
    "B308"
   ],
   "capacity": 45,
-  "enrolled": 33,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -3351,7 +3351,7 @@
    "A204"
   ],
   "capacity": 40,
-  "enrolled": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3386,7 +3386,7 @@
    "A102"
   ],
   "capacity": 40,
-  "enrolled": 23,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3417,7 +3417,7 @@
    "B101"
   ],
   "capacity": 150,
-  "enrolled": 147,
+  "enrolled": 144,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3537,7 +3537,7 @@
    "B202"
   ],
   "capacity": 40,
-  "enrolled": 12,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3599,7 +3599,7 @@
    "A104"
   ],
   "capacity": 20,
-  "enrolled": 24,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -3630,7 +3630,7 @@
    "B303"
   ],
   "capacity": 20,
-  "enrolled": 20,
+  "enrolled": 18,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -3773,7 +3773,7 @@
   ],
   "rooms": [],
   "capacity": 300,
-  "enrolled": 149,
+  "enrolled": 145,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -3958,7 +3958,7 @@
   "level": "LS",
   "name": "Timber Structures",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "-",
+  "instructor": "Ario Ceccotti",
   "buildings": [
    "INB"
   ],
@@ -3972,7 +3972,7 @@
    "B303"
   ],
   "capacity": 40,
-  "enrolled": 30,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "AIN_LS",

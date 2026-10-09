@@ -89,7 +89,7 @@
     "ING 112A",
     "Basics of Academic Writing",
     28,
-    17
+    16
    ],
    [
     "2026-2027-guz",
@@ -103,21 +103,21 @@
     "ING 112A",
     "Basics of Academic Writing",
     28,
-    14
-   ],
-   [
-    "2026-2027-guz",
-    "ING 201A",
-    "Essentials of Res.Paper Writ.",
-    25,
     13
    ],
    [
     "2026-2027-guz",
     "ING 201A",
     "Essentials of Res.Paper Writ.",
+    25,
+    11
+   ],
+   [
+    "2026-2027-guz",
+    "ING 201A",
+    "Essentials of Res.Paper Writ.",
     28,
-    18
+    17
    ],
    [
     "2025-2026-bahar",
@@ -920,7 +920,7 @@
     "BEB 102",
     "Yüzme Teknikleri Becerisi Öğr.",
     12,
-    6
+    5
    ],
    [
     "2026-2027-guz",
@@ -1655,7 +1655,7 @@
     "MAL 201",
     "Malzeme Bilimi",
     85,
-    81
+    79
    ],
    [
     "2026-2027-guz",
@@ -2670,7 +2670,7 @@
     "INS 405E",
     "Health\u0026Safety in Construction",
     45,
-    58
+    57
    ],
    [
     "2026-2027-guz",
@@ -3295,7 +3295,7 @@
     "MTO 225E",
     "Solar \u0026 Terrestrial Radiation",
     35,
-    34
+    33
    ],
    [
     "2026-2027-guz",
@@ -5542,7 +5542,7 @@
     "BLG 465E",
     "Real-Time Systems",
     60,
-    4
+    2
    ],
    [
     "2026-2027-guz",
@@ -5570,7 +5570,7 @@
     "BLG 465E",
     "Real-Time Systems",
     70,
-    5
+    4
    ],
    [
     "2026-2027-guz",
@@ -6247,7 +6247,7 @@
     "ELK 331E",
     "Power Electronic Circuits",
     60,
-    49
+    48
    ],
    [
     "2026-2027-guz",
@@ -6463,7 +6463,7 @@
     "IMT 505",
     "Kültür Tarihi",
     5,
-    2
+    3
    ],
    [
     "2026-2027-guz",
@@ -6964,7 +6964,7 @@
     "BIO 301E",
     "Fundamentals of Biology",
     90,
-    89
+    88
    ],
    [
     "2026-2027-guz",
@@ -7411,7 +7411,7 @@
     "SUS 302E",
     "Climate Change: Adaptation and Mitigation",
     25,
-    15
+    14
    ]
   ],
   "terms": 1
@@ -7452,7 +7452,7 @@
     "ELK 431",
     "Elektrik Makinaları Lab.",
     35,
-    35
+    34
    ],
    [
     "2026-2027-guz",
@@ -8122,7 +8122,7 @@
     "MIM 351E",
     "Architectural Design V",
     15,
-    17
+    18
    ],
    [
     "2025-2026-bahar",
@@ -8512,7 +8512,7 @@
     "GID 450",
     "Gıda Müh. Özel Konular",
     50,
-    8
+    7
    ],
    [
     "2026-2027-guz",
@@ -10201,7 +10201,7 @@
     "KMM 4901",
     "Kimya Mühendisliği Tasarımı I",
     100,
-    87
+    86
    ],
    [
     "2026-2027-guz",
@@ -10215,14 +10215,14 @@
     "KMM 547E",
     "Des.\u0026Cont.of Novel Disti.Proc.",
     12,
-    11
+    12
    ],
    [
     "2026-2027-guz",
     "KMM YLT",
     "Tez Çalışması",
     200,
-    42
+    44
    ],
    [
     "2026-2027-guz",
@@ -11169,7 +11169,7 @@
     "INS 101",
     "Teknik Resim",
     40,
-    41
+    40
    ],
    [
     "2026-2027-guz",
@@ -11361,7 +11361,7 @@
     "ITB 235",
     "Türkiye ve Avrupa Birliği",
     35,
-    28
+    23
    ],
    [
     "2025-2026-bahar",
@@ -12705,14 +12705,14 @@
     "ITB 020E",
     "Formations of Modernity",
     40,
-    38
+    36
    ],
    [
     "2026-2027-guz",
     "ITB 208E",
     "Formations of Modern Türkiye",
     40,
-    39
+    37
    ],
    [
     "2025-2026-bahar",
@@ -13032,14 +13032,14 @@
     "BHB 201E",
     "Fundamental Software of Informatics",
     40,
-    40
+    37
    ],
    [
     "2026-2027-guz",
     "BIL 100E",
     "Intr.to Prog.Language(PYTHON)",
     75,
-    77
+    76
    ],
    [
     "2025-2026-yaz",
@@ -13575,7 +13575,7 @@
     "MET 315E",
     "Fund. of Physical Metallurgy",
     180,
-    141
+    142
    ],
    [
     "2026-2027-guz",
@@ -13589,7 +13589,7 @@
     "MET 475E",
     "Powder Metallurgy",
     60,
-    53
+    52
    ],
    [
     "2026-2027-guz",
@@ -14203,7 +14203,7 @@
     "MYZ 307E",
     "Machine Learning for Electrical and Electronics Engineering",
     60,
-    48
+    44
    ],
    [
     "2025-2026-bahar",
@@ -14286,7 +14286,7 @@
     "UZB 301",
     "Ölçme Tekniği",
     36,
-    32
+    30
    ],
    [
     "2025-2026-bahar",
@@ -14549,13 +14549,6 @@
     "ALM 101",
     "German I",
     25,
-    25
-   ],
-   [
-    "2026-2027-guz",
-    "ALM 102",
-    "German II",
-    23,
     23
    ],
    [
@@ -14563,7 +14556,14 @@
     "ALM 102",
     "German II",
     23,
-    23
+    22
+   ],
+   [
+    "2026-2027-guz",
+    "ALM 102",
+    "German II",
+    23,
+    21
    ],
    [
     "2025-2026-bahar",
@@ -14604,7 +14604,7 @@
     "ING 201A",
     "Essentials of Res.Paper Writ.",
     25,
-    22
+    20
    ],
    [
     "2026-2027-guz",
@@ -14625,7 +14625,7 @@
     "ING 103N",
     "Film Studies",
     25,
-    25
+    23
    ],
    [
     "2025-2026-bahar",

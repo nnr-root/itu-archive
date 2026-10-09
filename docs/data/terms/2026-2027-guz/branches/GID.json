@@ -20,7 +20,7 @@
    "D105"
   ],
   "capacity": 75,
-  "enrolled": 58,
+  "enrolled": 55,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -145,7 +145,7 @@
    "D103"
   ],
   "capacity": 80,
-  "enrolled": 66,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -593,7 +593,7 @@
   ],
   "rooms": [],
   "capacity": 50,
-  "enrolled": 8,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "GID_LS"
@@ -622,7 +622,7 @@
    "D101"
   ],
   "capacity": 25,
-  "enrolled": 23,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -682,7 +682,7 @@
    "D106"
   ],
   "capacity": 26,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "GID_LS",
@@ -1047,7 +1047,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 15,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

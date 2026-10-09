@@ -371,22 +371,6 @@
    ]
   ]
  },
- "MIM 109": {
-  "code": "MIM 109",
-  "name": "Sanat ve Mimarlık",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Mine Çağlar",
-    25,
-    0,
-    "Çarşamba"
-   ]
-  ]
- },
  "MIM 113": {
   "code": "MIM 113",
   "name": "Statik",
@@ -790,10 +774,10 @@
   "rows": [
    [
     "2026-2027-guz",
-    "Göksenin İnalhan",
-    40,
+    "Göksenin İnalhan , Asiye Nisa Kartal",
+    20,
     1,
-    "Salı"
+    ""
    ],
    [
     "2025-2026-bahar",
@@ -965,7 +949,6 @@
   "code": "MIM 119E",
   "name": "Int.to Architecture and Ethics",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2025-2026-guz",
    "2024-2025-bahar",
@@ -983,13 +966,6 @@
    "2017-2018-guz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Asiye Nisa Kartal , Tan Kamil Gürer",
-    5,
-    0,
-    "Çarşamba"
-   ],
    [
     "2025-2026-bahar",
     "Saniye Feyza Ergün",
@@ -2291,14 +2267,14 @@
     "2026-2027-guz",
     "Ayşe Nil Türkeri , Fatih Yazıcıoğlu",
     91,
-    92,
+    93,
     "Çarşamba, Çarşamba"
    ],
    [
     "2026-2027-guz",
     "Enes Yaşa",
     74,
-    74,
+    75,
     "Çarşamba, Çarşamba"
    ],
    [
@@ -3083,7 +3059,7 @@
     "2026-2027-guz",
     "Bilge Ar",
     100,
-    92,
+    91,
     "Salı"
    ],
    [
@@ -3135,7 +3111,7 @@
     "2026-2027-guz",
     "Zeynep Kuban Tokgöz",
     130,
-    96,
+    95,
     "Salı"
    ],
    [
@@ -3341,7 +3317,7 @@
     "2026-2027-guz",
     "Ayşe Meltem Baslo",
     15,
-    17,
+    16,
     "Pazartesi, Perşembe"
    ],
    [
@@ -4143,7 +4119,7 @@
     "2026-2027-guz",
     "Hakan Tong",
     2,
-    1,
+    0,
     "Pazartesi, Perşembe"
    ],
    [
@@ -4686,7 +4662,7 @@
     "2026-2027-guz",
     "Arzu İrem Mollaahmetoğlu",
     4,
-    5,
+    4,
     "Pazartesi, Perşembe"
    ],
    [
@@ -6384,7 +6360,7 @@
     "2026-2027-guz",
     "Mehmet Serkan Yatağan",
     150,
-    105,
+    102,
     "Salı, Perşembe"
    ],
    [
@@ -8685,7 +8661,7 @@
     "2026-2027-guz",
     "Şevkiye Şence Türk , Gamze Kazancı",
     125,
-    91,
+    90,
     "Pazartesi"
    ],
    [
@@ -9772,7 +9748,7 @@
     "2026-2027-guz",
     "Meryem Birgül Çolakoğlu",
     5,
-    8,
+    9,
     "Pazartesi, Perşembe"
    ],
    [
@@ -9800,7 +9776,7 @@
     "2026-2027-guz",
     "Funda Uz",
     4,
-    4,
+    3,
     "Pazartesi, Perşembe"
    ],
    [
@@ -11404,7 +11380,7 @@
     "2026-2027-guz",
     "Ömer Dabanlı , Sakine Yıldız Salman , Mustafa Tahir Ocak",
     95,
-    52,
+    51,
     "Salı"
    ],
    [
@@ -11606,7 +11582,7 @@
     "2026-2027-guz",
     "Zeynep Eres Özdoğan , Umut Almaç , Işıl Polat Pekmezci",
     95,
-    94,
+    95,
     "Salı"
    ],
    [
@@ -12304,7 +12280,7 @@
     "2026-2027-guz",
     "Yelda Özge Doğan",
     110,
-    74,
+    75,
     "Cuma"
    ],
    [
@@ -14118,7 +14094,7 @@
     "2026-2027-guz",
     "Derya Güleç Özer",
     15,
-    17,
+    18,
     "Pazartesi, Perşembe"
    ],
    [
@@ -14153,7 +14129,7 @@
     "2026-2027-guz",
     "Sevil Yazıcı",
     14,
-    17,
+    18,
     "Pazartesi, Perşembe"
    ],
    [
@@ -15050,19 +15026,11 @@
   "code": "MIM 358",
   "name": "Yapı Koruyucu Malzemeler",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-guz",
    "2024-2025-bahar",
    "2023-2024-bahar"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Fatih Bildik",
-    20,
-    0,
-    "Salı"
-   ],
    [
     "2025-2026-guz",
     "Fatih Bildik",
@@ -15399,7 +15367,7 @@
     "2026-2027-guz",
     "Yeşim Erdal",
     18,
-    21,
+    20,
     "Cuma"
    ],
    [
@@ -15672,14 +15640,14 @@
     "2026-2027-guz",
     "Mustafa Tahir Ocak",
     18,
-    20,
+    21,
     "Cuma"
    ],
    [
     "2026-2027-guz",
     "Lana Kudumoviç",
     18,
-    18,
+    19,
     "Cuma"
    ],
    [
@@ -16731,7 +16699,7 @@
     "2026-2027-guz",
     "Göksenin İnalhan",
     25,
-    15,
+    14,
     "Salı"
    ]
   ]
@@ -17278,7 +17246,7 @@
     "2026-2027-guz",
     "Aras Neftçi",
     25,
-    9,
+    10,
     "Pazartesi"
    ],
    [
@@ -17320,7 +17288,7 @@
     "Aygül Ağır",
     20,
     1,
-    "Cuma"
+    ""
    ],
    [
     "2025-2026-guz",
@@ -17431,7 +17399,7 @@
     "2026-2027-guz",
     "Hakan Tong",
     23,
-    23,
+    22,
     "Çarşamba"
    ],
    [
@@ -17509,7 +17477,7 @@
     "2026-2027-guz",
     "Suat Apak",
     33,
-    33,
+    32,
     "Pazartesi"
    ],
    [
@@ -17579,7 +17547,7 @@
     "2026-2027-guz",
     "Atilla Aydoğdu",
     30,
-    14,
+    13,
     "Cuma"
    ],
    [
@@ -17766,9 +17734,9 @@
    [
     "2026-2027-guz",
     "Vesile Gül Cephanecigil",
-    15,
+    20,
     2,
-    "Çarşamba"
+    ""
    ],
    [
     "2025-2026-guz",
@@ -17847,7 +17815,7 @@
     "2026-2027-guz",
     "Pelin Dursun Çebi",
     18,
-    14,
+    13,
     "Perşembe"
    ],
    [
@@ -18030,7 +17998,7 @@
     "2026-2027-guz",
     "Fatma Erkök",
     23,
-    29,
+    28,
     "Salı"
    ],
    [
@@ -18075,7 +18043,7 @@
     "2026-2027-guz",
     "Halet Almıla Büyüktaşkın",
     32,
-    33,
+    32,
     "Salı"
    ],
    [
@@ -18216,7 +18184,7 @@
     "2026-2027-guz",
     "Sema Alaçam , Salih Özdemir",
     35,
-    33,
+    32,
     "Salı"
    ],
    [
@@ -18535,9 +18503,9 @@
    [
     "2026-2027-guz",
     "Tülay Karakaş",
-    0,
-    2,
-    "Çarşamba"
+    20,
+    1,
+    ""
    ],
    [
     "2025-2026-bahar",
@@ -18767,7 +18735,7 @@
     "2026-2027-guz",
     "Haluk Sesigür , Gülseren Erol Soyöz",
     33,
-    41,
+    42,
     "Perşembe"
    ],
    [
@@ -19026,7 +18994,7 @@
     "2026-2027-guz",
     "Mehmet Murat Gül",
     20,
-    6,
+    7,
     "Çarşamba"
    ],
    [
@@ -19097,7 +19065,7 @@
     "2026-2027-guz",
     "Bilge Ar",
     24,
-    47,
+    48,
     "Çarşamba"
    ],
    [
@@ -19127,7 +19095,7 @@
     "2026-2027-guz",
     "Lana Kudumoviç",
     20,
-    14,
+    15,
     "Çarşamba"
    ]
   ]
@@ -19143,7 +19111,7 @@
     "2026-2027-guz",
     "Saniye Feyza Ergün",
     24,
-    38,
+    40,
     "Pazartesi"
    ]
   ]
@@ -19824,7 +19792,7 @@
     "2026-2027-guz",
     "Sıdıka Aslıhan Şenel",
     16,
-    15,
+    14,
     "Pazartesi, Perşembe"
    ],
    [
@@ -23235,7 +23203,7 @@
     "2026-2027-guz",
     "Hakan Yaman",
     10,
-    10,
+    9,
     "Salı, Cuma"
    ],
    [
@@ -23795,7 +23763,7 @@
     "2026-2027-guz",
     "Tarık Serhat Bozkurt",
     15,
-    16,
+    17,
     "Salı, Cuma"
    ],
    [

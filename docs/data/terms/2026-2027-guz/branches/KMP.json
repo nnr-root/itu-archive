@@ -166,7 +166,7 @@
   "rooms": [
    "--"
   ],
-  "capacity": 35,
+  "capacity": 38,
   "enrolled": 36,
   "reserved": "-",
   "programs": [
@@ -448,7 +448,7 @@
    "--"
   ],
   "capacity": 10,
-  "enrolled": 3,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "BST_LS",

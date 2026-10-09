@@ -91,7 +91,7 @@
    "FOTOATOLYE"
   ],
   "capacity": 22,
-  "enrolled": 23,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -233,7 +233,7 @@
    "FOTOATOLYE"
   ],
   "capacity": 20,
-  "enrolled": 23,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -374,8 +374,8 @@
   "rooms": [
    "315"
   ],
-  "capacity": 16,
-  "enrolled": 20,
+  "capacity": 22,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -570,7 +570,7 @@
    "333"
   ],
   "capacity": 20,
-  "enrolled": 20,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -640,8 +640,8 @@
   "rooms": [
    "227B"
   ],
-  "capacity": 16,
-  "enrolled": 24,
+  "capacity": 22,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -764,8 +764,8 @@
   "rooms": [
    "227B"
   ],
-  "capacity": 16,
-  "enrolled": 23,
+  "capacity": 22,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -888,7 +888,7 @@
   "rooms": [
    "227B"
   ],
-  "capacity": 16,
+  "capacity": 22,
   "enrolled": 24,
   "reserved": "-",
   "programs": [
@@ -1012,8 +1012,8 @@
   "rooms": [
    "227B"
   ],
-  "capacity": 16,
-  "enrolled": 23,
+  "capacity": 22,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1137,7 +1137,7 @@
    "D378"
   ],
   "capacity": 22,
-  "enrolled": 22,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1350,7 +1350,7 @@
    "A201"
   ],
   "capacity": 40,
-  "enrolled": 72,
+  "enrolled": 71,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1616,7 +1616,7 @@
    "305"
   ],
   "capacity": 12,
-  "enrolled": 12,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1687,7 +1687,7 @@
    "303"
   ],
   "capacity": 22,
-  "enrolled": 21,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -1758,7 +1758,7 @@
    "309"
   ],
   "capacity": 22,
-  "enrolled": 20,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2468,7 +2468,7 @@
    "216"
   ],
   "capacity": 20,
-  "enrolled": 20,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2539,7 +2539,7 @@
    "B37"
   ],
   "capacity": 20,
-  "enrolled": 21,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2609,7 +2609,7 @@
   "rooms": [
    "320"
   ],
-  "capacity": 16,
+  "capacity": 22,
   "enrolled": 21,
   "reserved": "-",
   "programs": [
@@ -2734,7 +2734,7 @@
    "320"
   ],
   "capacity": 22,
-  "enrolled": 22,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2805,7 +2805,7 @@
    "D452"
   ],
   "capacity": 26,
-  "enrolled": 26,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -3071,7 +3071,7 @@
    "B208"
   ],
   "capacity": 25,
-  "enrolled": 25,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3210,10 +3210,10 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "L400"
+   "D206"
   ],
-  "capacity": 35,
-  "enrolled": 41,
+  "capacity": 40,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -3525,7 +3525,7 @@
    "A201"
   ],
   "capacity": 20,
-  "enrolled": 20,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3588,8 +3588,8 @@
   "rooms": [
    "A201"
   ],
-  "capacity": 18,
-  "enrolled": 22,
+  "capacity": 22,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -3777,7 +3777,7 @@
    "319"
   ],
   "capacity": 20,
-  "enrolled": 21,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -3905,7 +3905,7 @@
    "319"
   ],
   "capacity": 20,
-  "enrolled": 20,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4040,7 +4040,7 @@
    "3502"
   ],
   "capacity": 18,
-  "enrolled": 13,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "BIO_LS",

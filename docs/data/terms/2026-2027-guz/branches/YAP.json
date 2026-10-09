@@ -20,7 +20,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -101,7 +101,7 @@
    "YAPISMNR_A"
   ],
   "capacity": 20,
-  "enrolled": 11,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -128,7 +128,7 @@
    "A3"
   ],
   "capacity": 30,
-  "enrolled": 16,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -155,7 +155,7 @@
    "B104"
   ],
   "capacity": 40,
-  "enrolled": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -440,7 +440,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 47,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

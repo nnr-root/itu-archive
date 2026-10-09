@@ -194,7 +194,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 28,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -397,7 +397,7 @@
    "--"
   ],
   "capacity": 45,
-  "enrolled": 10,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -426,7 +426,7 @@
    "--"
   ],
   "capacity": 55,
-  "enrolled": 51,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -716,7 +716,7 @@
    "--"
   ],
   "capacity": 12,
-  "enrolled": 11,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1151,7 +1151,7 @@
    "--"
   ],
   "capacity": 70,
-  "enrolled": 64,
+  "enrolled": 63,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1272,7 +1272,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 43,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "DUI_LS"
@@ -1359,7 +1359,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 27,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -1417,7 +1417,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -1475,7 +1475,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 27,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -1504,7 +1504,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 22,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -1620,7 +1620,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 22,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "MTM_LS"
@@ -2131,6 +2131,35 @@
    "MTM_LS"
   ],
   "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16018",
+  "code": "DUI 232",
+  "branch": "DUI",
+  "level": "LS",
+  "name": "Gemi Elektroniği",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Tayfun Uyanık",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Perşembe"
+  ],
+  "times": [
+   "11:30/13:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 10,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "DUI_LS"
+  ],
+  "prereq": "-",
   "classReq": "-"
  }
 ]
