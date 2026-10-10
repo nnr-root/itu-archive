@@ -20,7 +20,7 @@
    "Z4"
   ],
   "capacity": 80,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "CEN_LS"
@@ -396,8 +396,8 @@
    "-/-"
   ],
   "rooms": [],
-  "capacity": 80,
-  "enrolled": 1,
+  "capacity": 0,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "CEN_LS"
