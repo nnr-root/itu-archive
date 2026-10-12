@@ -44,7 +44,7 @@
    "--"
   ],
   "capacity": 25,
-  "enrolled": 25,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "MTR_LS",
@@ -110,7 +110,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 18,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "MTR_LS",
@@ -2906,7 +2906,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 30,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "BST_LS",

@@ -113,7 +113,7 @@
    "D302"
   ],
   "capacity": 45,
-  "enrolled": 45,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -178,7 +178,7 @@
    "D102"
   ],
   "capacity": 80,
-  "enrolled": 80,
+  "enrolled": 81,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -306,7 +306,7 @@
    "D203"
   ],
   "capacity": 50,
-  "enrolled": 60,
+  "enrolled": 61,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -876,7 +876,7 @@
    "D103"
   ],
   "capacity": 68,
-  "enrolled": 64,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -903,7 +903,7 @@
    "D101"
   ],
   "capacity": 12,
-  "enrolled": 12,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1011,7 +1011,7 @@
    "D203"
   ],
   "capacity": 60,
-  "enrolled": 53,
+  "enrolled": 54,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1093,27 +1093,6 @@
   ],
   "capacity": 13,
   "enrolled": 13,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "12942",
-  "code": "KMM 696",
-  "branch": "KMM",
-  "level": "LU",
-  "name": "Bilimsel Araş.,Etik ve Seminer",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "-",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 0,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

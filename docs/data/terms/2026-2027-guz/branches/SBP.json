@@ -216,7 +216,7 @@
    "119A"
   ],
   "capacity": 15,
-  "enrolled": 6,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -624,7 +624,7 @@
    "216"
   ],
   "capacity": 75,
-  "enrolled": 35,
+  "enrolled": 36,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1321,7 +1321,7 @@
    "--"
   ],
   "capacity": 14,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "SBP_LS"
@@ -1857,7 +1857,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "SBPE_LS"
@@ -1903,7 +1903,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 1,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "SBPE_LS"
@@ -1965,7 +1965,7 @@
    "--"
   ],
   "capacity": 65,
-  "enrolled": 44,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "SBP_YD",

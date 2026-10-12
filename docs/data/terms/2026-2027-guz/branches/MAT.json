@@ -142,7 +142,7 @@
    "A12"
   ],
   "capacity": 72,
-  "enrolled": 72,
+  "enrolled": 71,
   "reserved": "-",
   "programs": [
    "CEV_LS",
@@ -572,7 +572,7 @@
    "A31"
   ],
   "capacity": 100,
-  "enrolled": 100,
+  "enrolled": 99,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -3211,7 +3211,7 @@
    "D302"
   ],
   "capacity": 50,
-  "enrolled": 56,
+  "enrolled": 57,
   "reserved": "-",
   "programs": [
    "METE_LS"
@@ -3333,7 +3333,7 @@
    "11:30/14:29"
   ],
   "rooms": [
-   "1D7"
+   "2D18"
   ],
   "capacity": 70,
   "enrolled": 61,
@@ -5002,8 +5002,8 @@
    "A34"
   ],
   "capacity": 90,
-  "enrolled": 85,
-  "reserved": "END_LS/4/3 | ENDE_LS/4/2 | ECNE_LS/5/4 | FIZ_LS/3/3 | FIZE_LS/1/0 | Diğer/73/73",
+  "enrolled": 84,
+  "reserved": "END_LS/4/3 | ENDE_LS/4/2 | ECNE_LS/5/3 | FIZ_LS/3/3 | FIZE_LS/1/0 | Diğer/73/73",
   "programs": [
    "ECNE_LS",
    "END_LS",
@@ -5520,7 +5520,7 @@
    "Z-23"
   ],
   "capacity": 70,
-  "enrolled": 22,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "CEN_LS",
@@ -5554,7 +5554,7 @@
    "B205"
   ],
   "capacity": 50,
-  "enrolled": 33,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "NAE_LS"
