@@ -66,7 +66,7 @@
   },
   {
    "branch": "BHB",
-   "courses": 5
+   "courses": 4
   },
   {
    "branch": "BIL",
@@ -98,7 +98,7 @@
   },
   {
    "branch": "BUS",
-   "courses": 49
+   "courses": 48
   },
   {
    "branch": "BVA",
@@ -114,7 +114,7 @@
   },
   {
    "branch": "CAB",
-   "courses": 466
+   "courses": 465
   },
   {
    "branch": "CBM",
@@ -134,7 +134,7 @@
   },
   {
    "branch": "CHZ",
-   "courses": 87
+   "courses": 85
   },
   {
    "branch": "CIE",
@@ -182,7 +182,7 @@
   },
   {
    "branch": "DFH",
-   "courses": 85
+   "courses": 84
   },
   {
    "branch": "DNK",
@@ -318,7 +318,7 @@
   },
   {
    "branch": "GEO",
-   "courses": 168
+   "courses": 167
   },
   {
    "branch": "GGP",
@@ -474,7 +474,7 @@
   },
   {
    "branch": "JEO",
-   "courses": 209
+   "courses": 207
   },
   {
    "branch": "JFM",
@@ -542,7 +542,7 @@
   },
   {
    "branch": "MAM",
-   "courses": 4
+   "courses": 5
   },
   {
    "branch": "MAT",
@@ -606,7 +606,7 @@
   },
   {
    "branch": "MIM",
-   "courses": 252
+   "courses": 251
   },
   {
    "branch": "MIT",
@@ -618,7 +618,7 @@
   },
   {
    "branch": "MKC",
-   "courses": 5
+   "courses": 6
   },
   {
    "branch": "MKM",
@@ -790,7 +790,7 @@
   },
   {
    "branch": "ROT",
-   "courses": 3
+   "courses": 1
   },
   {
    "branch": "RSM",
@@ -898,7 +898,7 @@
   },
   {
    "branch": "TEK",
-   "courses": 94
+   "courses": 93
   },
   {
    "branch": "TEL",
@@ -966,7 +966,7 @@
   },
   {
    "branch": "VIA",
-   "courses": 10
+   "courses": 9
   },
   {
    "branch": "YAB",
@@ -1009,7 +1009,7 @@
    "courses": 10
   }
  ],
- "generatedAt": "2026-10-05T12:41:04Z",
- "groups": 6293,
- "withContent": 7530
+ "generatedAt": "2026-10-12T13:35:49Z",
+ "groups": 6282,
+ "withContent": 7518
 }

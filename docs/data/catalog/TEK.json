@@ -916,7 +916,7 @@
   "code": "TEK 301E",
   "name": "Nonwoven Technology",
   "nameEn": "Nonwoven Technology",
-  "language": "English",
+  "language": "English/Türkçe",
   "credits": {
    "theory": 2,
    "practice": 0,
@@ -1029,7 +1029,7 @@
   "code": "TEK 302E",
   "name": "Int.toColoration&Finishing Prc",
   "nameEn": "Int.toColoration&Finishing Prc",
-  "language": "English",
+  "language": "English/Türkçe",
   "credits": {
    "theory": 1,
    "practice": 0,
@@ -3829,118 +3829,6 @@
    "Mattila, H.R., Intelligent Textiles and Clothing, Woodhead Publishing Ltd., 2006"
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=TEK&dersNo=460"
- },
- "TEK 461E": {
-  "code": "TEK 461E",
-  "name": "Yarn Production Calculations",
-  "nameEn": "Yarn Production Calculations",
-  "language": "English",
-  "credits": {
-   "theory": 2,
-   "practice": 0,
-   "lab": 0,
-   "local": 2,
-   "ects": 5
-  },
-  "description": "İplik üretim maliyeti, maliyeti etkileyen faktörler, kesikli liften iplik üretim hatlarında yer alan tüm makinaların (harman hallaç, tarak, çekme, tarama, fitil, ring eğirme ve rotor eğirme) mekanik ve prodüktivite hesapları ile yine kesikli lif iplikhanelerinde üretimin planlaması ve organizasyonu. Economics of yarn production, parameters effecting on yarns production cost, mechanical and productivity calculations related to the machines (blowroom, carding, drawing, combing, roving, rubbing, ring spinning and rotor spinning machines) used in long and short staple spinning lines, organization of short and long-staple spinning mills",
-  "outcomes": [
-   "İplik üretim maliyeti ve iplik üretim maliyetini etkileyen faktörleri tanımlayabilme,",
-   "Kısa ve uzun ştapelli lif iplikçiliğinde kullanılan makinaları ve proses akışını tanımlayabilme,",
-   "Kısa ve uzun ştapelli lif iplikçiliğinde kullanılan makinalar için geçerli mekanik ve prodüktivite denklemlerini tanımlayabilme/kullanabilme,",
-   "İlgili mekanik ve prodüktivite denklemlerini kullanarak istenen özelliklerde ürün imaline yönelik olarak uygun lif, makina ve proses kombinasyonu oluşturabilme/iplik üretimini planlayabilme, becerilerini kazanır."
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · İplik maliyet hesaplarına giriş (maliyet ve fiyat, dönüşüm maliyeti, prodüktivite, kalite)",
-   "Hafta 2 · İplik üretim yöntemleri (Karde ve penye kısa lif iplikçiliği, kamgarn, yarı kamgarn, ştrayhgarn iplik üretimi)",
-   "Hafta 3 · Harman hallaç dairesinde prodüktivite (Açma yoğunluğu, açıklık değeri, temizleme verimliliği",
-   "Hafta 4 · Pamuk tarağında prodüktivite",
-   "Hafta 5 · Yün tarağında prodüktivite",
-   "Hafta 6 · Çekme makinalarında prodüktivite (Çekim prensibi, ideal çekim, gerçek çekim)",
-   "Hafta 7 · Tarama makinalarında prodüktivite (noil yüzdesi)",
-   "Hafta 8 · Fitil makinalarında prodüktivite (fitil sarım hızı)",
-   "Hafta 9 · Ring eğirme makinalarında prodüktivite",
-   "Hafta 10 · Rotor eğirme makinalarında prodüktivite",
-   "Hafta 11 · Karde iplik eğirme işletmesi organizasyonu",
-   "Hafta 12 · Penye iplik eğirme işletmesi organizasyonu",
-   "Hafta 13 · Kamgarn ve yarıkamgarn iplik eğirme işletmesi organizasyonu",
-   "Hafta 14 · Ştrayhgarn iplik eğirme işletmesi organizasyonu"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "İplik maliyet hesaplarına giriş (maliyet ve fiyat, dönüşüm maliyeti, prodüktivite, kalite)",
-    "outcomes": "1"
-   },
-   {
-    "week": 2,
-    "topic": "İplik üretim yöntemleri (Karde ve penye kısa lif iplikçiliği, kamgarn, yarı kamgarn, ştrayhgarn iplik üretimi)",
-    "outcomes": "2"
-   },
-   {
-    "week": 3,
-    "topic": "Harman hallaç dairesinde prodüktivite (Açma yoğunluğu, açıklık değeri, temizleme verimliliği",
-    "outcomes": "2-3"
-   },
-   {
-    "week": 4,
-    "topic": "Pamuk tarağında prodüktivite",
-    "outcomes": "2-3"
-   },
-   {
-    "week": 5,
-    "topic": "Yün tarağında prodüktivite",
-    "outcomes": "2-3"
-   },
-   {
-    "week": 6,
-    "topic": "Çekme makinalarında prodüktivite (Çekim prensibi, ideal çekim, gerçek çekim)",
-    "outcomes": "2-3"
-   },
-   {
-    "week": 7,
-    "topic": "Tarama makinalarında prodüktivite (noil yüzdesi)",
-    "outcomes": "2-3"
-   },
-   {
-    "week": 8,
-    "topic": "Fitil makinalarında prodüktivite (fitil sarım hızı)",
-    "outcomes": "2-3"
-   },
-   {
-    "week": 9,
-    "topic": "Ring eğirme makinalarında prodüktivite",
-    "outcomes": "2-3"
-   },
-   {
-    "week": 10,
-    "topic": "Rotor eğirme makinalarında prodüktivite",
-    "outcomes": "2-3"
-   },
-   {
-    "week": 11,
-    "topic": "Karde iplik eğirme işletmesi organizasyonu",
-    "outcomes": "3-4"
-   },
-   {
-    "week": 12,
-    "topic": "Penye iplik eğirme işletmesi organizasyonu",
-    "outcomes": "3-4"
-   },
-   {
-    "week": 13,
-    "topic": "Kamgarn ve yarıkamgarn iplik eğirme işletmesi organizasyonu",
-    "outcomes": "3-4"
-   },
-   {
-    "week": 14,
-    "topic": "Ştrayhgarn iplik eğirme işletmesi organizasyonu",
-    "outcomes": "3-4"
-   }
-  ],
-  "textbooks": [
-   "“Fundamentals of Spun Yarn Technology”, C.A. Lawrence, CRC Press, Boca Raton, Florida, 2003"
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=TEK&dersNo=461"
  },
  "TEK 462E": {
   "code": "TEK 462E",

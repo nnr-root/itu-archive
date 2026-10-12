@@ -10154,7 +10154,7 @@
   "code": "GEO 325E",
   "name": "Databases in Engineering",
   "nameEn": "Databases in Engineering",
-  "language": "English",
+  "language": "English/Türkçe",
   "credits": {
    "theory": 2,
    "practice": 0,
@@ -12942,25 +12942,6 @@
    "Davit Cook, Robot Building for Beginners, Technology In Action, 2nd ed. 2010"
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=GEO&dersNo=440"
- },
- "GEO 442": {
-  "code": "GEO 442",
-  "name": "Geomatik Mühendisliğinde Sektörel Uygulamalar",
-  "nameEn": "Sectoral Applications in Geomatics",
-  "language": "Türkçe/English",
-  "credits": {
-   "theory": 2,
-   "practice": 0,
-   "lab": 0,
-   "local": 2,
-   "ects": 4
-  },
-  "description": "Derste, doğruluk ölçütlerinin kısa tanımı, çeşitli mühendislik yapılarının yapımı ve sonrasında gerçekleştirilecek aplikasyon ve kontrol ölçmelerinin nasıl yapılacağının anlatılması, deniz ölçmeleri ve su ortamında yapılacak olan mühendislik yapılarının aplikasyonları, bir yapının belirli bir doğrultusunun, belirli bir yöne yöneltilmesi ve genel yön tayini yöntemleri, mühendislik yapılarındaki deformasyonların belirlenmesi, Enerji, güneş panelleri-rüzgar gülleri, tarımsal uygulamalar; ilaçlama-rekolte tahmini gibi bir çok değişik problem hakkında ayrıntılı bilgiler verilecektir. Definition of accuracy measures, Concept of Layout, Point Layout and control measurements of various engineering / industrial constructions, high accuracy bathymetric measurements and layouts of various marine engineering constructions, Orientation of a structure to specific direction, way finding methods in nature, applications of energy, solar panels-wind rose, agricaltural applications, harvest estimations.",
-  "outcomes": null,
-  "textbooks": [
-   "-"
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=GEO&dersNo=442"
  },
  "GEO 444": {
   "code": "GEO 444",
