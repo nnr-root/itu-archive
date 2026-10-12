@@ -295,7 +295,7 @@
    "B204"
   ],
   "capacity": 30,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "CHZ_LS"
@@ -461,7 +461,7 @@
    "B204"
   ],
   "capacity": 35,
-  "enrolled": 30,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "MAD_LS"
@@ -567,7 +567,7 @@
    "--"
   ],
   "capacity": 100,
-  "enrolled": 100,
+  "enrolled": 99,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

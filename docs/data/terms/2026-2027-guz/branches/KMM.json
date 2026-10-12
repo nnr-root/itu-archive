@@ -82,7 +82,7 @@
    "D301"
   ],
   "capacity": 45,
-  "enrolled": 44,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -212,7 +212,7 @@
    "D301"
   ],
   "capacity": 90,
-  "enrolled": 73,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -306,7 +306,7 @@
    "D203"
   ],
   "capacity": 50,
-  "enrolled": 56,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -698,8 +698,8 @@
    "D101"
   ],
   "capacity": 25,
-  "enrolled": 11,
-  "reserved": "GID_LS/5/0 | Diğer/20/11",
+  "enrolled": 10,
+  "reserved": "GID_LS/5/0 | Diğer/20/10",
   "programs": [
    "GID_LS",
    "KMM_LS",

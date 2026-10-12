@@ -448,7 +448,7 @@
    "230"
   ],
   "capacity": 130,
-  "enrolled": 96,
+  "enrolled": 95,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -479,7 +479,7 @@
    "107"
   ],
   "capacity": 100,
-  "enrolled": 60,
+  "enrolled": 61,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -1299,7 +1299,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 4,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "MIM_LS",
@@ -1448,7 +1448,7 @@
    "213"
   ],
   "capacity": 55,
-  "enrolled": 24,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2198,8 +2198,8 @@
    "--"
   ],
   "capacity": 4,
-  "enrolled": 4,
-  "reserved": "MIM_LS/1/1 | MIME_LS/1/1 | Diğer/2/2",
+  "enrolled": 5,
+  "reserved": "MIM_LS/1/1 | MIME_LS/1/1 | Diğer/2/3",
   "programs": [
    "ARC_LS",
    "MIM_LS",
@@ -2233,8 +2233,8 @@
    "--"
   ],
   "capacity": 4,
-  "enrolled": 7,
-  "reserved": "MIM_LS/2/1 | ARC_LS/1/0 | Diğer/1/6",
+  "enrolled": 6,
+  "reserved": "MIM_LS/2/1 | ARC_LS/1/0 | Diğer/1/5",
   "programs": [
    "ARC_LS",
    "MIM_LS",
@@ -2324,7 +2324,7 @@
    "229"
   ],
   "capacity": 95,
-  "enrolled": 95,
+  "enrolled": 94,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2385,7 +2385,7 @@
    "230"
   ],
   "capacity": 110,
-  "enrolled": 76,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2898,7 +2898,7 @@
    "3403"
   ],
   "capacity": 18,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "MIM_LS",
@@ -3040,7 +3040,7 @@
   ],
   "rooms": [],
   "capacity": 20,
-  "enrolled": 1,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "ICM_LS",
@@ -3130,7 +3130,7 @@
    "311"
   ],
   "capacity": 23,
-  "enrolled": 21,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "MIM_LS"
@@ -3440,7 +3440,7 @@
    "302"
   ],
   "capacity": 32,
-  "enrolled": 42,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -3475,7 +3475,7 @@
    "303"
   ],
   "capacity": 33,
-  "enrolled": 44,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -3537,7 +3537,7 @@
    "320"
   ],
   "capacity": 24,
-  "enrolled": 49,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -3568,7 +3568,7 @@
    "CATI4"
   ],
   "capacity": 20,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -3785,7 +3785,7 @@
    "317"
   ],
   "capacity": 24,
-  "enrolled": 43,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -4881,7 +4881,7 @@
   ],
   "rooms": [],
   "capacity": 0,
-  "enrolled": 1,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "Detay",
@@ -4950,7 +4950,7 @@
    "--"
   ],
   "capacity": 18,
-  "enrolled": 20,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "MIM_LS",

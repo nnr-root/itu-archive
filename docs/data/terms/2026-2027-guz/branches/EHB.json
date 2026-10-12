@@ -358,7 +358,7 @@
    "5204"
   ],
   "capacity": 85,
-  "enrolled": 86,
+  "enrolled": 87,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -473,7 +473,7 @@
   "level": "LS",
   "name": "Theory of Complex Functions",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Kamil Karaçuha",
+  "instructor": "Kamil Karaçuha , Semih Doğu",
   "buildings": [
    "MED"
   ],
@@ -487,45 +487,7 @@
    "A16"
   ],
   "capacity": 120,
-  "enrolled": 89,
-  "reserved": "-",
-  "programs": [
-   "EEE_LS",
-   "EHB_LS",
-   "EHBE_LS",
-   "EHS_LS",
-   "ELK_LS",
-   "ELKE_LS",
-   "KOM_LS",
-   "KOME_LS",
-   "ROS_LS",
-   "ROSE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "14249",
-  "code": "EHB 235E",
-  "branch": "EHB",
-  "level": "LS",
-  "name": "Theory of Complex Functions",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Semih Doğu",
-  "buildings": [
-   "EEB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "12:30/15:29"
-  ],
-  "rooms": [
-   "5204"
-  ],
-  "capacity": 0,
-  "enrolled": 7,
+  "enrolled": 95,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1207,8 +1169,8 @@
    "5102"
   ],
   "capacity": 75,
-  "enrolled": 72,
-  "reserved": "EEE_LS/5/2 | Diğer/70/70",
+  "enrolled": 73,
+  "reserved": "EEE_LS/5/2 | Diğer/70/71",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -1559,8 +1521,8 @@
    "A14"
   ],
   "capacity": 110,
-  "enrolled": 106,
-  "reserved": "EEE_LS/12/10 | Diğer/98/96",
+  "enrolled": 105,
+  "reserved": "EEE_LS/12/10 | Diğer/98/95",
   "programs": [
    "EEE_LS",
    "EHB_LS",
@@ -2607,7 +2569,7 @@
   ],
   "rooms": [],
   "capacity": 0,
-  "enrolled": 0,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [],
   "prereq": "Detay",
@@ -2628,7 +2590,7 @@
   ],
   "rooms": [],
   "capacity": 0,
-  "enrolled": 0,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [],
   "prereq": "Detay",

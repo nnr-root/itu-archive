@@ -20,8 +20,8 @@
    "Z-22"
   ],
   "capacity": 36,
-  "enrolled": 31,
-  "reserved": "BLG_BG_DR/5/2 | BLG_BG_YL/25/24 | Diğer/6/5",
+  "enrolled": 32,
+  "reserved": "BLG_BG_DR/5/2 | BLG_BG_YL/25/25 | Diğer/6/5",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -50,8 +50,8 @@
    "Z-20"
   ],
   "capacity": 32,
-  "enrolled": 31,
-  "reserved": "BLG_BG_DR/5/2 | BLG_BG_YL/22/18 | Diğer/5/11",
+  "enrolled": 32,
+  "reserved": "BLG_BG_DR/5/2 | BLG_BG_YL/22/19 | Diğer/5/11",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -138,7 +138,7 @@
    "122"
   ],
   "capacity": 25,
-  "enrolled": 22,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -309,8 +309,8 @@
    "Z-18"
   ],
   "capacity": 43,
-  "enrolled": 41,
-  "reserved": "BLG_BG_YL/38/36 | BLG_BG_DR/2/2 | Diğer/3/3",
+  "enrolled": 42,
+  "reserved": "BLG_BG_YL/38/36 | BLG_BG_DR/2/2 | Diğer/3/4",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -650,8 +650,8 @@
    "Z-21"
   ],
   "capacity": 49,
-  "enrolled": 43,
-  "reserved": "BLG_BG_YL/32/26 | Diğer/17/17",
+  "enrolled": 42,
+  "reserved": "BLG_BG_YL/32/25 | Diğer/17/17",
   "programs": [
    "BLG_BG_YL"
   ],
@@ -916,7 +916,7 @@
    "Z-19"
   ],
   "capacity": 80,
-  "enrolled": 80,
+  "enrolled": 81,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -951,7 +951,7 @@
    "Z-18"
   ],
   "capacity": 80,
-  "enrolled": 43,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1077,7 +1077,7 @@
    "Z-16"
   ],
   "capacity": 97,
-  "enrolled": 97,
+  "enrolled": 98,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1108,7 +1108,7 @@
    "Z-18"
   ],
   "capacity": 90,
-  "enrolled": 90,
+  "enrolled": 95,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1301,8 +1301,8 @@
    "Z-17"
   ],
   "capacity": 110,
-  "enrolled": 99,
-  "reserved": "CEN_LS/8/5 | Diğer/102/94",
+  "enrolled": 102,
+  "reserved": "CEN_LS/8/5 | Diğer/102/97",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1334,8 +1334,8 @@
    "Z-20"
   ],
   "capacity": 70,
-  "enrolled": 30,
-  "reserved": "CEN_LS/8/0 | Diğer/62/30",
+  "enrolled": 31,
+  "reserved": "CEN_LS/8/0 | Diğer/62/31",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1459,8 +1459,8 @@
    "Z-17"
   ],
   "capacity": 115,
-  "enrolled": 116,
-  "reserved": "CEN_LS/8/16 | Diğer/107/100",
+  "enrolled": 117,
+  "reserved": "CEN_LS/8/16 | Diğer/107/101",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1521,8 +1521,8 @@
    "101"
   ],
   "capacity": 90,
-  "enrolled": 89,
-  "reserved": "YZVE_LS/20/24 | EHB_LS/5/1 | EHBE_LS/5/3 | CEN_LS/8/12 | Diğer/52/49",
+  "enrolled": 88,
+  "reserved": "YZVE_LS/20/24 | EHB_LS/5/1 | EHBE_LS/5/3 | CEN_LS/8/12 | Diğer/52/48",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1742,7 +1742,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 1,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -2545,7 +2545,7 @@
    "Z-22"
   ],
   "capacity": 60,
-  "enrolled": 29,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "CEN_LS"
