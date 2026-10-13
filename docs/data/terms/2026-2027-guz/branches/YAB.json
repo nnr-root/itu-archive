@@ -20,34 +20,7 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 12,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "12755",
-  "code": "YAB 615E",
-  "branch": "YAB",
-  "level": "LU",
-  "name": "Perfor.of Buil.Elem.Un.Env.Eff",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hülya Kuş , Fethiye Ecem Edis",
-  "buildings": [
-   "MMB"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "3501"
-  ],
-  "capacity": 8,
-  "enrolled": 0,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

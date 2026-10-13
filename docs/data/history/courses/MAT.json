@@ -237,7 +237,7 @@
     "2026-2027-guz",
     "Zerrin Şentürk",
     95,
-    93,
+    94,
     "Pazartesi, Salı"
    ],
    [
@@ -356,7 +356,7 @@
     "2026-2027-guz",
     "Etibar Penahli",
     30,
-    0,
+    8,
     "Salı, Çarşamba"
    ],
    [
@@ -635,14 +635,14 @@
     "2026-2027-guz",
     "Evren Tanrıöver",
     30,
-    31,
+    32,
     "Pazartesi"
    ],
    [
     "2026-2027-guz",
     "Evren Tanrıöver",
     30,
-    13,
+    14,
     "Pazartesi"
    ],
    [
@@ -3236,7 +3236,7 @@
     "2026-2027-guz",
     "Özcan Kalenderli",
     50,
-    41,
+    43,
     "Çarşamba"
    ],
    [
@@ -5227,7 +5227,7 @@
     "2026-2027-guz",
     "Kürşat Hasözdemir",
     90,
-    102,
+    103,
     "Çarşamba, Perşembe"
    ],
    [
@@ -8177,7 +8177,7 @@
     "2026-2027-guz",
     "Semra Ahmetolan",
     60,
-    60,
+    61,
     "Salı"
    ],
    [
@@ -12041,7 +12041,7 @@
     "2026-2027-guz",
     "Nurettin Cenk Turgay",
     40,
-    10,
+    11,
     "Salı, Cuma"
    ],
    [
@@ -12811,7 +12811,7 @@
     "2026-2027-guz",
     "Evren Tanrıöver",
     50,
-    50,
+    51,
     "Perşembe"
    ],
    [
@@ -13473,7 +13473,7 @@
     "2026-2027-guz",
     "Cihangir Özemir",
     50,
-    30,
+    31,
     "Çarşamba"
    ],
    [
@@ -13562,14 +13562,14 @@
     "2026-2027-guz",
     "Ersin Özuğurlu",
     65,
-    61,
+    62,
     "Pazartesi"
    ],
    [
     "2026-2027-guz",
     "Ersin Özuğurlu",
     60,
-    50,
+    51,
     "Perşembe"
    ],
    [
@@ -15301,7 +15301,7 @@
     "2026-2027-guz",
     "Ahmet Duran",
     90,
-    84,
+    86,
     "Çarşamba"
    ],
    [
@@ -16473,22 +16473,6 @@
     20,
     5,
     "Çarşamba"
-   ]
-  ]
- },
- "MAT 606E": {
-  "code": "MAT 606E",
-  "name": "Algebraic Topology",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Atabey Kaygun",
-    20,
-    2,
-    "Cuma"
    ]
   ]
  },

@@ -493,7 +493,7 @@
     "2026-2027-guz",
     "Meral Kılıç Akyılmaz , Celale Kırkın Gözükırmızı",
     70,
-    61,
+    62,
     "Salı"
    ],
    [
@@ -725,7 +725,7 @@
     "2026-2027-guz",
     "Esra Çapanoğlu Güven , Aslı Can Karaça",
     60,
-    54,
+    56,
     "Cuma"
    ],
    [
@@ -1317,7 +1317,7 @@
     "2026-2027-guz",
     "Gülay Özkan",
     2,
-    0,
+    1,
     "Çarşamba"
    ],
    [
@@ -2051,7 +2051,7 @@
     "2026-2027-guz",
     "Aslı Can Karaça",
     25,
-    22,
+    24,
     "Pazartesi"
    ],
    [
@@ -3016,7 +3016,7 @@
     "2026-2027-guz",
     "Beraat Özçelik , Merve Tomaş",
     80,
-    58,
+    59,
     "Salı"
    ],
    [
@@ -3634,7 +3634,7 @@
     "2026-2027-guz",
     "Gürbüz Güneş",
     26,
-    24,
+    25,
     "Çarşamba"
    ],
    [
@@ -3745,7 +3745,7 @@
     "2026-2027-guz",
     "Derya Kahveci Karıncaoğlu",
     25,
-    15,
+    16,
     "Salı"
    ],
    [
@@ -4266,10 +4266,10 @@
   "rows": [
    [
     "2026-2027-guz",
-    "Zeynep Tacer Caba",
-    10,
-    1,
-    "Pazartesi"
+    "-",
+    0,
+    0,
+    ""
    ]
   ]
  },
@@ -4302,22 +4302,6 @@
     20,
     19,
     "Salı"
-   ]
-  ]
- },
- "GID 523E": {
-  "code": "GID 523E",
-  "name": "Advanced Techn.in Dairy Proces",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Meral Kılıç Akyılmaz",
-    10,
-    1,
-    "Perşembe"
    ]
   ]
  },

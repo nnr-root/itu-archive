@@ -138,7 +138,7 @@
    "122"
   ],
   "capacity": 25,
-  "enrolled": 21,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -951,7 +951,7 @@
    "Z-18"
   ],
   "capacity": 80,
-  "enrolled": 48,
+  "enrolled": 53,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1108,7 +1108,7 @@
    "Z-18"
   ],
   "capacity": 90,
-  "enrolled": 95,
+  "enrolled": 99,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1301,8 +1301,8 @@
    "Z-17"
   ],
   "capacity": 110,
-  "enrolled": 102,
-  "reserved": "CEN_LS/8/5 | Diğer/102/97",
+  "enrolled": 100,
+  "reserved": "CEN_LS/8/5 | Diğer/102/95",
   "programs": [
    "BLG_LS",
    "BLGE_LS",

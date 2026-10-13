@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-10-13T02:06:15Z",
+ "scrapedAt": "2026-10-13T09:22:40Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5462,
- "courses": 3895,
+ "sections": 5437,
+ "courses": 3870,
  "branches": [
   {
    "code": "AAR",
@@ -216,7 +216,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 14
+   "sections": 13
   },
   {
    "code": "CEV",
@@ -371,7 +371,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 41
+   "sections": 40
   },
   {
    "code": "ECN",
@@ -560,7 +560,7 @@
     "LS",
     "LU"
    ],
-   "sections": 42
+   "sections": 41
   },
   {
    "code": "GIT",
@@ -744,7 +744,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 15
+   "sections": 14
   },
   {
    "code": "ITA",
@@ -794,7 +794,7 @@
     "LS",
     "LU"
    ],
-   "sections": 70
+   "sections": 55
   },
   {
    "code": "JFM",
@@ -925,7 +925,7 @@
     "LS",
     "LU"
    ],
-   "sections": 126
+   "sections": 125
   },
   {
    "code": "MBA",
@@ -1214,7 +1214,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 15
+   "sections": 13
   },
   {
    "code": "NAE",
@@ -1484,7 +1484,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 7
+   "sections": 6
   },
   {
    "code": "TEK",
@@ -1611,14 +1611,14 @@
    "levels": [
     "LUI"
    ],
-   "sections": 9
+   "sections": 8
   },
   {
    "code": "YAB",
    "levels": [
     "LU"
    ],
-   "sections": 4
+   "sections": 3
   },
   {
    "code": "YAN",
@@ -1678,11 +1678,11 @@
   }
  ],
  "stats": {
-  "sections": 5462,
-  "courses": 3895,
+  "sections": 5437,
+  "courses": 3870,
   "branches": 235,
-  "instructors": 2007,
-  "capacity": 263994,
-  "enrolled": 139117
+  "instructors": 1995,
+  "capacity": 263586,
+  "enrolled": 139524
  }
 }

@@ -9126,22 +9126,6 @@
    ]
   ]
  },
- "JEO 555E": {
-  "code": "JEO 555E",
-  "name": "Evaluation of Groundwaters",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "İrfan Yolcubal",
-    20,
-    0,
-    "Çarşamba"
-   ]
-  ]
- },
  "JEO 565E": {
   "code": "JEO 565E",
   "name": "Geochemical Analysis Methods",
@@ -9155,38 +9139,6 @@
     20,
     17,
     "Çarşamba"
-   ]
-  ]
- },
- "JEO 567": {
-  "code": "JEO 567",
-  "name": "Hava Fotoğraflarının Yorumu",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Cenk Yaltırak , Ufuk Tarı",
-    20,
-    0,
-    "Pazartesi"
-   ]
-  ]
- },
- "JEO 569": {
-  "code": "JEO 569",
-  "name": "Jeokimya ve Sağlık",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Yüksel Örgün Tutay",
-    0,
-    0,
-    "Perşembe"
    ]
   ]
  },
@@ -9238,22 +9190,6 @@
    ]
   ]
  },
- "JEO 580": {
-  "code": "JEO 580",
-  "name": "Kil Minerolojisi",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Bala Ekinci Şans",
-    20,
-    1,
-    "Cuma"
-   ]
-  ]
- },
  "JEO 581": {
   "code": "JEO 581",
   "name": "Jeo.Zam.Boyu.Karbo.Plat.&Res.",
@@ -9266,86 +9202,6 @@
     "Kürşad Kadir Eriş",
     20,
     3,
-    "Cuma"
-   ]
-  ]
- },
- "JEO 583": {
-  "code": "JEO 583",
-  "name": "Deniz Tabanında Jeoloj.Harit.",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Cenk Yaltırak",
-    20,
-    0,
-    "Cuma"
-   ]
-  ]
- },
- "JEO 585": {
-  "code": "JEO 585",
-  "name": "Marmara Denizi&Çevresi.Jeol.",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Cenk Yaltırak",
-    20,
-    0,
-    "Cuma"
-   ]
-  ]
- },
- "JEO 587": {
-  "code": "JEO 587",
-  "name": "Uygulamalı Jeoloj.Harita.Tek.",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Hüsnü Serdar Akyüz",
-    20,
-    0,
-    "Cuma"
-   ]
-  ]
- },
- "JEO 589E": {
-  "code": "JEO 589E",
-  "name": "Special Topics in Geol.Eng.",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Amr Abdelnasser Alı Khalıl",
-    0,
-    0,
-    "Pazartesi"
-   ]
-  ]
- },
- "JEO 591E": {
-  "code": "JEO 591E",
-  "name": "Geol.of Unconv.Hydroc.Resour.",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Sedat İnan",
-    20,
-    0,
     "Cuma"
    ]
   ]
@@ -9382,22 +9238,6 @@
    ]
   ]
  },
- "JEO 601E": {
-  "code": "JEO 601E",
-  "name": "Ground Water Hydraulics",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "İrfan Yolcubal",
-    20,
-    0,
-    "Perşembe"
-   ]
-  ]
- },
  "JEO 603": {
   "code": "JEO 603",
   "name": "Mühendislik Jeolojisinde Seçme Konular",
@@ -9411,54 +9251,6 @@
     20,
     4,
     "Çarşamba"
-   ]
-  ]
- },
- "JEO 612E": {
-  "code": "JEO 612E",
-  "name": "Regional Tectonics of Asia",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Cengiz Zabcı , Gürsel Sunal",
-    20,
-    0,
-    "Cuma"
-   ]
-  ]
- },
- "JEO 613": {
-  "code": "JEO 613",
-  "name": "Magmatik Pet.Seçme Konular",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Zekiye Karacık , Fatma Gülmez Yıldırım",
-    20,
-    0,
-    "Salı"
-   ]
-  ]
- },
- "JEO 623E": {
-  "code": "JEO 623E",
-  "name": "Low-Temperature Geochemistry",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Nurgül Çelik Balcı",
-    20,
-    1,
-    "Salı"
    ]
   ]
  },
@@ -9478,22 +9270,6 @@
    ]
   ]
  },
- "JEO 629": {
-  "code": "JEO 629",
-  "name": "Uygulamalı Maden Jeolojisi",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Mustafa Kumral",
-    20,
-    0,
-    "Çarşamba"
-   ]
-  ]
- },
  "JEO 631": {
   "code": "JEO 631",
   "name": "Karbonat Çökelme Ortamları",
@@ -9507,22 +9283,6 @@
     20,
     1,
     "Pazartesi"
-   ]
-  ]
- },
- "JEO 633E": {
-  "code": "JEO 633E",
-  "name": "The Early Earth System",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Nurgül Çelik Balcı",
-    20,
-    1,
-    "Perşembe"
    ]
   ]
  },

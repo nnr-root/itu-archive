@@ -1111,114 +1111,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13226",
-  "code": "JEO 585",
-  "branch": "JEO",
-  "level": "LU",
-  "name": "Marmara Denizi&Çevresi.Jeol.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Cenk Yaltırak",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "14:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13227",
-  "code": "JEO 587",
-  "branch": "JEO",
-  "level": "LU",
-  "name": "Uygulamalı Jeoloj.Harita.Tek.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hüsnü Serdar Akyüz",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13228",
-  "code": "JEO 589E",
-  "branch": "JEO",
-  "level": "LU",
-  "name": "Special Topics in Geol.Eng.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Amr Abdelnasser Alı Khalıl",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 0,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13229",
-  "code": "JEO 591E",
-  "branch": "JEO",
-  "level": "LU",
-  "name": "Geol.of Unconv.Hydroc.Resour.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Sedat İnan",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "14:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13230",
   "code": "JEO 593",
   "branch": "JEO",
@@ -1273,33 +1165,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13232",
-  "code": "JEO 601E",
-  "branch": "JEO",
-  "level": "LU",
-  "name": "Ground Water Hydraulics",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "İrfan Yolcubal",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13233",
   "code": "JEO 603",
   "branch": "JEO",
@@ -1321,87 +1186,6 @@
   ],
   "capacity": 20,
   "enrolled": 4,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13234",
-  "code": "JEO 612E",
-  "branch": "JEO",
-  "level": "LU",
-  "name": "Regional Tectonics of Asia",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Cengiz Zabcı , Gürsel Sunal",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "14:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13235",
-  "code": "JEO 613",
-  "branch": "JEO",
-  "level": "LU",
-  "name": "Magmatik Pet.Seçme Konular",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Zekiye Karacık , Fatma Gülmez Yıldırım",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13236",
-  "code": "JEO 623E",
-  "branch": "JEO",
-  "level": "LU",
-  "name": "Low-Temperature Geochemistry",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Nurgül Çelik Balcı",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "14:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 1,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1435,33 +1219,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13238",
-  "code": "JEO 629",
-  "branch": "JEO",
-  "level": "LU",
-  "name": "Uygulamalı Maden Jeolojisi",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Mustafa Kumral",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13239",
   "code": "JEO 631",
   "branch": "JEO",
@@ -1477,33 +1234,6 @@
   ],
   "times": [
    "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 1,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13240",
-  "code": "JEO 633E",
-  "branch": "JEO",
-  "level": "LU",
-  "name": "The Early Earth System",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Nurgül Çelik Balcı",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "09:30/12:29"
   ],
   "rooms": [
    "--"
@@ -1585,33 +1315,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13245",
-  "code": "JEO 555E",
-  "branch": "JEO",
-  "level": "LU",
-  "name": "Evaluation of Groundwaters",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "İrfan Yolcubal",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "09:00/11:59"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13247",
   "code": "JEO 565E",
   "branch": "JEO",
@@ -1633,60 +1336,6 @@
   ],
   "capacity": 20,
   "enrolled": 17,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13248",
-  "code": "JEO 567",
-  "branch": "JEO",
-  "level": "LU",
-  "name": "Hava Fotoğraflarının Yorumu",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Cenk Yaltırak , Ufuk Tarı",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "12:30/15:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13249",
-  "code": "JEO 569",
-  "branch": "JEO",
-  "level": "LU",
-  "name": "Jeokimya ve Sağlık",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Yüksel Örgün Tutay",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 0,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1768,60 +1417,6 @@
   ],
   "capacity": 20,
   "enrolled": 3,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13255",
-  "code": "JEO 580",
-  "branch": "JEO",
-  "level": "LU",
-  "name": "Kil Minerolojisi",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Bala Ekinci Şans",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "14:00/16:59"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 1,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13256",
-  "code": "JEO 583",
-  "branch": "JEO",
-  "level": "LU",
-  "name": "Deniz Tabanında Jeoloj.Harit.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Cenk Yaltırak",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "10:00/12:59"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

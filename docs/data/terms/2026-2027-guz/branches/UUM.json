@@ -155,7 +155,7 @@
    "1D10"
   ],
   "capacity": 70,
-  "enrolled": 70,
+  "enrolled": 71,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -217,10 +217,10 @@
  },
  {
   "crn": "13312",
-  "code": "UUM 555E",
+  "code": "UUM 555",
   "branch": "UUM",
   "level": "LU",
-  "name": "Additi.Manuf.&3D Printer Tec.",
+  "name": "Eklemeli İmalat&3B Yazıcı Tek.",
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Raşid Ahmed Yıldız",
   "buildings": [

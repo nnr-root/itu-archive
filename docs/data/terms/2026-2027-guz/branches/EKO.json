@@ -20,7 +20,7 @@
    "--"
   ],
   "capacity": 300,
-  "enrolled": 200,
+  "enrolled": 201,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -123,7 +123,7 @@
    "--"
   ],
   "capacity": 300,
-  "enrolled": 187,
+  "enrolled": 188,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -329,7 +329,7 @@
    "--"
   ],
   "capacity": 300,
-  "enrolled": 245,
+  "enrolled": 246,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -535,7 +535,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 0,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "IEBE_LS"
