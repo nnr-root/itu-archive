@@ -400,7 +400,7 @@
    "08:30/11:29"
   ],
   "rooms": [
-   "D300"
+   "OBL1"
   ],
   "capacity": 70,
   "enrolled": 20,
@@ -1271,7 +1271,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 35,
+  "enrolled": 34,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2412,7 +2412,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 7,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "IEBE_LS"
@@ -2501,7 +2501,7 @@
    "B207"
   ],
   "capacity": 55,
-  "enrolled": 51,
+  "enrolled": 53,
   "reserved": "-",
   "programs": [
    "MAD_LS",

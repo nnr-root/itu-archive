@@ -315,7 +315,7 @@
    "A12"
   ],
   "capacity": 88,
-  "enrolled": 88,
+  "enrolled": 87,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -2497,7 +2497,7 @@
    "LAB-A"
   ],
   "capacity": 30,
-  "enrolled": 29,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -4426,7 +4426,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Esma Sezer",
   "buildings": [
-   "MED"
+   "FEB"
   ],
   "days": [
    "Pazartesi"
@@ -4435,7 +4435,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "B34"
+   "B3_Z01-Z03"
   ],
   "capacity": 30,
   "enrolled": 17,

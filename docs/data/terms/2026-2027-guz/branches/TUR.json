@@ -20,7 +20,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 51,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -108,7 +108,7 @@
    "--"
   ],
   "capacity": 50,
-  "enrolled": 47,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [
    "AIN_LS",
@@ -240,7 +240,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 82,
+  "enrolled": 83,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -647,7 +647,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 77,
+  "enrolled": 78,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2942,7 +2942,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 79,
+  "enrolled": 78,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -5237,7 +5237,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 75,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -7246,7 +7246,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 0,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "IEBE_LS"

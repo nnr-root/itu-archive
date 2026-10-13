@@ -165,8 +165,8 @@
    "101"
   ],
   "capacity": 31,
-  "enrolled": 20,
-  "reserved": "BLG_BG_YL/22/16 | BLG_BG_DR/3/1 | Diğer/6/3",
+  "enrolled": 21,
+  "reserved": "BLG_BG_YL/22/17 | BLG_BG_DR/3/1 | Diğer/6/3",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -369,8 +369,8 @@
    "Z-21"
   ],
   "capacity": 28,
-  "enrolled": 16,
-  "reserved": "BLG_BG_DR/12/4 | BLG_BG_YL/12/8 | Diğer/4/4",
+  "enrolled": 17,
+  "reserved": "BLG_BG_DR/12/4 | BLG_BG_YL/12/9 | Diğer/4/4",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -706,8 +706,8 @@
    "Z-22"
   ],
   "capacity": 37,
-  "enrolled": 35,
-  "reserved": "BLG_BG_DR/2/1 | BLG_BG_YL/32/31 | Diğer/3/3",
+  "enrolled": 36,
+  "reserved": "BLG_BG_DR/2/1 | BLG_BG_YL/32/32 | Diğer/3/3",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -790,8 +790,8 @@
    "102"
   ],
   "capacity": 40,
-  "enrolled": 12,
-  "reserved": "BLG_BG_YL/35/7 | Diğer/5/5",
+  "enrolled": 13,
+  "reserved": "BLG_BG_YL/35/8 | Diğer/5/5",
   "programs": [
    "BLG_BG_YL"
   ],
@@ -951,7 +951,7 @@
    "Z-18"
   ],
   "capacity": 80,
-  "enrolled": 53,
+  "enrolled": 55,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1026,37 +1026,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12478",
-  "code": "BLG 231E",
-  "branch": "BLG",
-  "level": "LS",
-  "name": "Digital Circuits",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Mustafa Ersel Kamaşak",
-  "buildings": [
-   "BBB"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 0,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "BLG_LS",
-   "BLGE_LS",
-   "SECE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12486",
   "code": "BLG 212E",
   "branch": "BLG",
@@ -1108,7 +1077,7 @@
    "Z-18"
   ],
   "capacity": 90,
-  "enrolled": 99,
+  "enrolled": 101,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1268,8 +1237,8 @@
    "Z-21"
   ],
   "capacity": 70,
-  "enrolled": 35,
-  "reserved": "CEN_LS/8/0 | Diğer/62/35",
+  "enrolled": 36,
+  "reserved": "CEN_LS/8/0 | Diğer/62/36",
   "programs": [
    "BLG_LS",
    "BLG_LS",
@@ -1787,39 +1756,6 @@
   "classReq": "-"
  },
  {
-  "crn": "14186",
-  "code": "BLG 351E",
-  "branch": "BLG",
-  "level": "LS",
-  "name": "Microcomputer Lab.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "-",
-  "buildings": [
-   "BBB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "14:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 0,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "BLG_LS",
-   "BLG_LS",
-   "BLGE_LS",
-   "CEN_LS",
-   "CES_LS"
-  ],
-  "prereq": "Detay",
-  "classReq": "-"
- },
- {
   "crn": "14985",
   "code": "BLG 353E",
   "branch": "BLG",
@@ -1840,7 +1776,7 @@
    "Z-23"
   ],
   "capacity": 20,
-  "enrolled": 4,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [
    "BLG_LS",

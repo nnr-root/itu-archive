@@ -524,7 +524,7 @@
    "429"
   ],
   "capacity": 25,
-  "enrolled": 25,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -3884,7 +3884,7 @@
    "267"
   ],
   "capacity": 28,
-  "enrolled": 24,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -5816,7 +5816,7 @@
    "270"
   ],
   "capacity": 28,
-  "enrolled": 27,
+  "enrolled": 26,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -13627,7 +13627,7 @@
    "--"
   ],
   "capacity": 26,
-  "enrolled": 26,
+  "enrolled": 27,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -14172,7 +14172,7 @@
    "--"
   ],
   "capacity": 3500,
-  "enrolled": 818,
+  "enrolled": 819,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -14973,7 +14973,7 @@
    "--"
   ],
   "capacity": 300,
-  "enrolled": 62,
+  "enrolled": 63,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -15038,7 +15038,7 @@
    "1303"
   ],
   "capacity": 40,
-  "enrolled": 28,
+  "enrolled": 29,
   "reserved": "-",
   "programs": [
    "EHN_LS"
@@ -15183,7 +15183,7 @@
    "268"
   ],
   "capacity": 25,
-  "enrolled": 14,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -15267,7 +15267,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 3,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [
    "IEBE_LS"
