@@ -461,34 +461,5 @@
   ],
   "prereq": "Detay",
   "classReq": "-"
- },
- {
-  "crn": "15203",
-  "code": "YZV 312E",
-  "branch": "YZV",
-  "level": "LS",
-  "name": "Data Mining",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Tuğçe Bilen",
-  "buildings": [
-   "BBB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "12:30/15:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 5,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "YZVE_LS"
-  ],
-  "prereq": "Detay",
-  "classReq": "-"
  }
 ]

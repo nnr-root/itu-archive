@@ -845,18 +845,12 @@
   "name": "Cevher Haz. Tesis Tasarımı",
   "method": "Ek Sınav",
   "instructor": "Hüseyin Baştürkcü",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Salı"
-  ],
+  "buildings": [],
+  "days": [],
   "times": [
-   "08:30/12:29"
+   "-/-"
   ],
-  "rooms": [
-   "--"
-  ],
+  "rooms": [],
   "capacity": 0,
   "enrolled": 1,
   "reserved": "-",

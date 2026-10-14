@@ -54,33 +54,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12717",
-  "code": "DTM 532E",
-  "branch": "DTM",
-  "level": "LU",
-  "name": "Oil Spill Mode.,Ana.&Resp.Tec.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Şafak Nur Ertürk Bozkurtoğlu",
-  "buildings": [
-   "MEDC"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "1D4"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12718",
   "code": "DTM 533",
   "branch": "DTM",

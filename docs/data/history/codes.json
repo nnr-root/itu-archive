@@ -531,7 +531,7 @@
   "BEB 114",
   "Futsal Temel Beceri Eğitim",
   "BEB",
-  17
+  16
  ],
  [
   "BEB 115",
@@ -573,7 +573,7 @@
   "BEB 140",
   "Picklebal",
   "BEB",
-  3
+  2
  ],
  [
   "BEB 141",
@@ -1773,7 +1773,7 @@
   "BLG 492E",
   "Graduation Project",
   "BLG",
-  17
+  16
  ],
  [
   "BLG 501E",
@@ -3201,7 +3201,7 @@
   "CAB 188",
   "Gitar II",
   "CAB",
-  10
+  9
  ],
  [
   "CAB 188E",
@@ -3585,7 +3585,7 @@
   "CAB 244",
   "Yrd.Çalgı Piyano IV",
   "CAB",
-  17
+  16
  ],
  [
   "CAB 245",
@@ -3687,7 +3687,7 @@
   "CAB 260",
   "Ud IV",
   "CAB",
-  11
+  10
  ],
  [
   "CAB 261",
@@ -3813,7 +3813,7 @@
   "CAB 280",
   "Koltuk Davul II",
   "CAB",
-  10
+  9
  ],
  [
   "CAB 281",
@@ -3855,7 +3855,7 @@
   "CAB 288",
   "Gitar IV",
   "CAB",
-  10
+  9
  ],
  [
   "CAB 289",
@@ -4113,7 +4113,7 @@
   "CAB 332",
   "Keman VI",
   "CAB",
-  9
+  8
  ],
  [
   "CAB 333",
@@ -4197,7 +4197,7 @@
   "CAB 344",
   "Yrd.Çalgı Piyano VI",
   "CAB",
-  17
+  16
  ],
  [
   "CAB 345",
@@ -4245,7 +4245,7 @@
   "CAB 352",
   "Kanun VI",
   "CAB",
-  9
+  8
  ],
  [
   "CAB 353",
@@ -4593,7 +4593,7 @@
   "CAB 419",
   "Klarnet VII",
   "CAB",
-  9
+  8
  ],
  [
   "CAB 420",
@@ -4665,7 +4665,7 @@
   "CAB 431",
   "Keman VII",
   "CAB",
-  8
+  7
  ],
  [
   "CAB 4312",
@@ -4677,7 +4677,7 @@
   "CAB 432",
   "Keman VIII",
   "CAB",
-  9
+  8
  ],
  [
   "CAB 433",
@@ -4761,7 +4761,7 @@
   "CAB 444",
   "Yrd.Çalgı Piyano VIII",
   "CAB",
-  19
+  18
  ],
  [
   "CAB 445",
@@ -4803,7 +4803,7 @@
   "CAB 451",
   "Kanun VII",
   "CAB",
-  8
+  7
  ],
  [
   "CAB 452",
@@ -5079,7 +5079,7 @@
   "CAB 724",
   "Oda Müziği IV",
   "CAB",
-  8
+  7
  ],
  [
   "CAB 729",
@@ -5163,7 +5163,7 @@
   "CAB 746",
   "Toplu Uygulama IV (TSM)",
   "CAB",
-  10
+  9
  ],
  [
   "CAB 751",
@@ -5199,7 +5199,7 @@
   "CAB 756",
   "Toplu Uygulama VI (TSM)",
   "CAB",
-  10
+  9
  ],
  [
   "CAB 758",
@@ -5241,7 +5241,7 @@
   "CAB 766",
   "Toplu Uygulama VIII (TSM)",
   "CAB",
-  10
+  9
  ],
  [
   "CAB 769",
@@ -6273,7 +6273,7 @@
   "CEV 433",
   "Tehlikeli Atık Yönetimi",
   "CEV",
-  10
+  9
  ],
  [
   "CEV 433E",
@@ -8040,18 +8040,6 @@
   1
  ],
  [
-  "DEP 611",
-  "Yüksek Binal.Sismik Davranışı",
-  "DEP",
-  1
- ],
- [
-  "DEP 613E",
-  "Seismic Isolation of Structur.",
-  "DEP",
-  1
- ],
- [
   "DEP 615E",
   "Stru.He.Mo.in Earthq.En.",
   "DEP",
@@ -8630,12 +8618,6 @@
  [
   "DTM 516E",
   "Deep Learning for Marine Technology",
-  "DTM",
-  1
- ],
- [
-  "DTM 532E",
-  "Oil Spill Mode.,Ana.&Resp.Tec.",
   "DTM",
   1
  ],
@@ -9705,7 +9687,7 @@
   "ECN 302E",
   "Econometrics II",
   "ECN",
-  9
+  10
  ],
  [
   "ECN 303E",
@@ -9729,7 +9711,7 @@
   "ECN 307E",
   "Game Theory",
   "ECN",
-  9
+  10
  ],
  [
   "ECN 308E",
@@ -9765,7 +9747,7 @@
   "ECN 314E",
   "Financial Economics",
   "ECN",
-  9
+  10
  ],
  [
   "ECN 401E",
@@ -9777,7 +9759,7 @@
   "ECN 402E",
   "Project Appraisal",
   "ECN",
-  9
+  10
  ],
  [
   "ECN 407E",
@@ -9801,7 +9783,7 @@
   "ECN 412E",
   "Environmental Economics",
   "ECN",
-  9
+  10
  ],
  [
   "ECN 413E",
@@ -9831,13 +9813,13 @@
   "ECN 421E",
   "Experimental Economics",
   "ECN",
-  9
+  10
  ],
  [
   "ECN 430E",
   "Income Distribution & Poverty",
   "ECN",
-  5
+  6
  ],
  [
   "ECN 431E",
@@ -9849,7 +9831,7 @@
   "ECN 432E",
   "Labor Economics",
   "ECN",
-  10
+  11
  ],
  [
   "ECN 433E",
@@ -10779,7 +10761,7 @@
   "EHB 421",
   "Tıp Elektroniğine Giriş",
   "EHB",
-  9
+  8
  ],
  [
   "EHB 422",
@@ -11103,13 +11085,13 @@
   "EHB 492",
   "Bitirme Projesi",
   "EHB",
-  18
+  17
  ],
  [
   "EHB 492E",
   "Graduation Project",
   "EHB",
-  17
+  16
  ],
  [
   "EHN 101",
@@ -11901,7 +11883,7 @@
   "ELK 492E",
   "Graduation Design Project",
   "ELK",
-  16
+  15
  ],
  [
   "ELK 493",
@@ -12072,32 +12054,8 @@
   1
  ],
  [
-  "ENB 507E",
-  "Exp.Charac.of Bio.Treat.Syst.",
-  "ENB",
-  1
- ],
- [
-  "ENB 509E",
-  "Bio.Processing of Solid Wastes",
-  "ENB",
-  1
- ],
- [
-  "ENB 510E",
-  "Biodegradation of Indust.Waste",
-  "ENB",
-  1
- ],
- [
   "ENB DRT",
   "Tez Çalışması",
-  "ENB",
-  1
- ],
- [
-  "ENB YET",
-  "Yeterlik Aşaması",
   "ENB",
   1
  ],
@@ -12549,7 +12507,7 @@
   "END 412",
   "İnsan Kaynakları Yönetiminin Temelleri",
   "END",
-  9
+  10
  ],
  [
   "END 412E",
@@ -12932,12 +12890,6 @@
  [
   "END 601E",
   "Stochastic Models in Op.Res.",
-  "END",
-  1
- ],
- [
-  "END 604E",
-  "G.Decision Making Under M.Crit",
   "END",
   1
  ],
@@ -13725,7 +13677,7 @@
   "EUT 492",
   "Bitirme Çalışması",
   "EUT",
-  16
+  15
  ],
  [
   "EUT 492E",
@@ -14325,7 +14277,7 @@
   "FIZ 431E",
   "Solid State Physics I",
   "FIZ",
-  12
+  11
  ],
  [
   "FIZ 433E",
@@ -14720,30 +14672,6 @@
  [
   "GDP 504",
   "Dans Notasyon Sistemleri",
-  "GDP",
-  1
- ],
- [
-  "GDP 505",
-  "Karşılama-Hora Performansı",
-  "GDP",
-  1
- ],
- [
-  "GDP 513",
-  "Türkiye'de Halk Dans.Çalış.",
-  "GDP",
-  1
- ],
- [
-  "GDP 514",
-  "Gelen.Dans Mü.Tür Biçim&Ritim",
-  "GDP",
-  1
- ],
- [
-  "GDP 520",
-  "Sahne Performansı",
   "GDP",
   1
  ],
@@ -15384,12 +15312,6 @@
   1
  ],
  [
-  "GEM 615",
-  "Yüzen Yapıların Titreşimi",
-  "GEM",
-  1
- ],
- [
   "GEM DRT",
   "Tez Çalışması",
   "GEM",
@@ -15447,7 +15369,7 @@
   "GEO 105E",
   "Intro. to Geomat. Engineering",
   "GEO",
-  8
+  7
  ],
  [
   "GEO 106E",
@@ -15579,7 +15501,7 @@
   "GEO 205E",
   "Engineering Ethics",
   "GEO",
-  8
+  7
  ],
  [
   "GEO 206",
@@ -16268,12 +16190,6 @@
  [
   "GEO 513",
   "Matematik İsta.&Hipotez Testlr",
-  "GEO",
-  1
- ],
- [
-  "GEO 515E",
-  "Comp. Graphics&Data Visualizat",
   "GEO",
   1
  ],
@@ -17919,13 +17835,13 @@
   "GMI 492",
   "Tasarım Projesi",
   "GMI",
-  15
+  14
  ],
  [
   "GMI 492E",
   "Design Project",
   "GMI",
-  15
+  14
  ],
  [
   "GSB 313",
@@ -19269,7 +19185,7 @@
   "IML 4902",
   "İmalat Müh. Tasarımı II",
   "IML",
-  10
+  9
  ],
  [
   "IML 4902E",
@@ -20829,7 +20745,7 @@
   "INS 492E",
   "Engineering Design Project",
   "INS",
-  16
+  15
  ],
  [
   "INS 494E",
@@ -21282,12 +21198,6 @@
   9
  ],
  [
-  "ISL 437E",
-  "Mod.Cross sect. & Panel Data",
-  "ISL",
-  1
- ],
- [
   "ISL 439E",
   "Int.to Mach.Learn.with Bus.App",
   "ISL",
@@ -21411,7 +21321,7 @@
   "ISL 4901",
   "İşletme Müh. Tasarım Projesi I",
   "ISL",
-  13
+  12
  ],
  [
   "ISL 4901E",
@@ -21423,7 +21333,7 @@
   "ISL 4902",
   "İşletme Müh.Tasarım Projesi II",
   "ISL",
-  13
+  12
  ],
  [
   "ISL 4902E",
@@ -21435,13 +21345,13 @@
   "ISL 492",
   "İşletme Müh. Tasarım Prj.",
   "ISL",
-  18
+  17
  ],
  [
   "ISL 492E",
   "Management Eng. Design Project",
   "ISL",
-  16
+  15
  ],
  [
   "ISL 501E",
@@ -23979,7 +23889,7 @@
   "JEO 492",
   "Bitirme Tasarım Projesi",
   "JEO",
-  17
+  16
  ],
  [
   "JEO 492E",
@@ -25143,13 +25053,13 @@
   "KIM 492",
   "Bitirme Çalışması",
   "KIM",
-  16
+  15
  ],
  [
   "KIM 492E",
   "Graduation Project",
   "KIM",
-  17
+  16
  ],
  [
   "KIM 503",
@@ -25827,7 +25737,7 @@
   "KMP 114",
   "Klasik Armoni II",
   "KMP",
-  9
+  8
  ],
  [
   "KMP 115",
@@ -25875,7 +25785,7 @@
   "KMP 196",
   "Form Bilgisi II",
   "KMP",
-  10
+  9
  ],
  [
   "KMP 197",
@@ -25917,7 +25827,7 @@
   "KMP 204",
   "Türk Müziği Literatürü II",
   "KMP",
-  9
+  8
  ],
  [
   "KMP 205",
@@ -25983,7 +25893,7 @@
   "KMP 302",
   "Kompozisyon VI",
   "KMP",
-  9
+  8
  ],
  [
   "KMP 303",
@@ -26043,7 +25953,7 @@
   "KMP 312",
   "Türk Makam Müzğnde Kompzsyn",
   "KMP",
-  9
+  8
  ],
  [
   "KMP 3122",
@@ -26121,7 +26031,7 @@
   "KMP 362",
   "Türk MzğndeFrmBlg.ve Çzmlme II",
   "KMP",
-  10
+  9
  ],
  [
   "KMP 362E",
@@ -26661,13 +26571,13 @@
   "KON 409",
   "Bitirme Tasarım Prj. Giriş",
   "KON",
-  16
+  15
  ],
  [
   "KON 409E",
   "Int. to Senior Design Project",
   "KON",
-  16
+  15
  ],
  [
   "KON 411",
@@ -30231,7 +30141,7 @@
   "MEK 207",
   "Mühendislik Mekaniği",
   "MEK",
-  13
+  12
  ],
  [
   "MEN 201",
@@ -30267,7 +30177,7 @@
   "MEN 302",
   "Onboard Training",
   "MEN",
-  15
+  14
  ],
  [
   "MEN 311",
@@ -30897,7 +30807,7 @@
   "MET 492E",
   "Design Project",
   "MET",
-  18
+  17
  ],
  [
   "MET 603E",
@@ -31149,7 +31059,7 @@
   "MIM 122E",
   "Ancient&Byzantine Architecture",
   "MIM",
-  11
+  10
  ],
  [
   "MIM 125",
@@ -31293,7 +31203,7 @@
   "MIM 221E",
   "Hstry of Turkish Architecture",
   "MIM",
-  11
+  10
  ],
  [
   "MIM 222",
@@ -31305,7 +31215,7 @@
   "MIM 222E",
   "Histry of Europn Architecture",
   "MIM",
-  13
+  12
  ],
  [
   "MIM 223E",
@@ -31347,7 +31257,7 @@
   "MIM 234E",
   "Reinforced Concrete Structures",
   "MIM",
-  6
+  5
  ],
  [
   "MIM 242",
@@ -31425,7 +31335,7 @@
   "MIM 271",
   "Yapı Statiği",
   "MIM",
-  11
+  10
  ],
  [
   "MIM 271E",
@@ -31905,7 +31815,7 @@
   "MIM 4024",
   "Taşıyıcı Sistem Tasarımı",
   "MIM",
-  2
+  1
  ],
  [
   "MIM 4025",
@@ -31941,7 +31851,7 @@
   "MIM 4032",
   "Tarihte Bahçe Tasarımları&Mim.",
   "MIM",
-  5
+  4
  ],
  [
   "MIM 4034",
@@ -32121,7 +32031,7 @@
   "MIM 4066E",
   "Generating Livable Environment",
   "MIM",
-  8
+  7
  ],
  [
   "MIM 4069E",
@@ -32547,7 +32457,7 @@
   "MIM 492",
   "Bitirme Çalışması",
   "MIM",
-  16
+  15
  ],
  [
   "MIM 492E",
@@ -33339,7 +33249,7 @@
   "MRE 330",
   "Long Term Sea Training",
   "MRE",
-  20
+  19
  ],
  [
   "MRE 342",
@@ -33447,7 +33357,7 @@
   "MRE 492",
   "Design Project",
   "MRE",
-  14
+  13
  ],
  [
   "MRT 101",
@@ -34167,7 +34077,7 @@
   "MTM 211",
   "Onboard Training-I",
   "MTM",
-  18
+  17
  ],
  [
   "MTM 212",
@@ -34185,7 +34095,7 @@
   "MTM 302",
   "Onboard Training-III",
   "MTM",
-  19
+  18
  ],
  [
   "MTM 311",
@@ -34953,13 +34863,13 @@
   "MTO 492",
   "Bitirme Çalışması",
   "MTO",
-  17
+  16
  ],
  [
   "MTO 492E",
   "Graduation Project",
   "MTO",
-  16
+  15
  ],
  [
   "MTO 494",
@@ -35121,7 +35031,7 @@
   "MTR 104",
   "Müzik Teorisi II",
   "MTR",
-  12
+  11
  ],
  [
   "MTR 104E",
@@ -35151,7 +35061,7 @@
   "MTR 122",
   "Makam Teorisi II",
   "MTR",
-  12
+  11
  ],
  [
   "MTR 123",
@@ -35283,7 +35193,7 @@
   "MTR 208",
   "Teori Uygulama II",
   "MTR",
-  12
+  11
  ],
  [
   "MTR 221",
@@ -35295,7 +35205,7 @@
   "MTR 222",
   "Makam Teorisi IV",
   "MTR",
-  14
+  13
  ],
  [
   "MTR 223",
@@ -35307,7 +35217,7 @@
   "MTR 224",
   "Müzik Teorisi IV",
   "MTR",
-  12
+  11
  ],
  [
   "MTR 231",
@@ -35427,7 +35337,7 @@
   "MTR 318",
   "Müzikte Metin Çözümlemeleri II",
   "MTR",
-  12
+  11
  ],
  [
   "MTR 321",
@@ -35487,7 +35397,7 @@
   "MTR 406",
   "Dikte ve Deşifre II",
   "MTR",
-  16
+  15
  ],
  [
   "MTR 407",
@@ -35511,7 +35421,7 @@
   "MTR 432",
   "Dikte Deşifre II",
   "MTR",
-  14
+  13
  ],
  [
   "MTR 433",
@@ -35523,13 +35433,7 @@
   "MTR 434",
   "Eser Çözümleme II",
   "MTR",
-  12
- ],
- [
-  "MTR 435",
-  "Yazma Müzik Eserleri",
-  "MTR",
-  1
+  11
  ],
  [
   "MTR 435E",
@@ -35559,7 +35463,7 @@
   "MTR 444",
   "Eser Çözümleme II",
   "MTR",
-  12
+  11
  ],
  [
   "MTR 492",
@@ -35979,7 +35883,7 @@
   "MUT 132",
   "Akustik II",
   "MUT",
-  9
+  8
  ],
  [
   "MUT 141",
@@ -36021,7 +35925,7 @@
   "MUT 201",
   "Kemane Yapımı",
   "MUT",
-  12
+  11
  ],
  [
   "MUT 202",
@@ -36141,7 +36045,7 @@
   "MUT 311",
   "Gitar Yapımı",
   "MUT",
-  12
+  11
  ],
  [
   "MUT 3117",
@@ -36159,7 +36063,7 @@
   "MUT 313",
   "Çalgı Süsleme Sanatı",
   "MUT",
-  12
+  11
  ],
  [
   "MUT 3131",
@@ -36237,7 +36141,7 @@
   "MUT 376",
   "Tar Yapımı",
   "MUT",
-  9
+  8
  ],
  [
   "MUT 381",
@@ -36261,13 +36165,13 @@
   "MUT 386",
   "Serbest Proje Çalışması II",
   "MUT",
-  10
+  9
  ],
  [
   "MUT 388",
   "Müzik Tek.Tasarım & Geliştirme",
   "MUT",
-  10
+  9
  ],
  [
   "MUT 390",
@@ -36291,7 +36195,7 @@
   "MUT 403",
   "Bendir Yapımı",
   "MUT",
-  12
+  11
  ],
  [
   "MUT 411",
@@ -36363,7 +36267,7 @@
   "MUT 451",
   "Sahne Kayıt Teknikleri",
   "MUT",
-  8
+  7
  ],
  [
   "MUT 452",
@@ -36399,7 +36303,7 @@
   "MUT 486",
   "Serbest Proje Çalışması IV",
   "MUT",
-  15
+  14
  ],
  [
   "MUT 490",
@@ -36483,7 +36387,7 @@
   "MUZ 122",
   "Müzik Tarihi II",
   "MUZ",
-  9
+  8
  ],
  [
   "MUZ 132",
@@ -36735,7 +36639,7 @@
   "MUZ 342",
   "Seminer II",
   "MUZ",
-  9
+  8
  ],
  [
   "MUZ 342E",
@@ -36981,7 +36885,7 @@
   "MUZ 437",
   "Bibliyografya Çalışmaları",
   "MUZ",
-  2
+  1
  ],
  [
   "MUZ 441",
@@ -36999,7 +36903,7 @@
   "MUZ 442",
   "Seminer IV",
   "MUZ",
-  15
+  14
  ],
  [
   "MUZ 442E",
@@ -37029,7 +36933,7 @@
   "MUZ 446",
   "Dünya Vokal Kültürleri",
   "MUZ",
-  11
+  10
  ],
  [
   "MUZ 447",
@@ -37119,7 +37023,7 @@
   "MUZ 476",
   "Türk Halk Müziği Bilgileri II",
   "MUZ",
-  10
+  9
  ],
  [
   "MUZ 477",
@@ -38451,7 +38355,7 @@
   "PEM 256E",
   "Planting Design Studio",
   "PEM",
-  4
+  3
  ],
  [
   "PEM 303E",
@@ -38493,7 +38397,7 @@
   "PEM 316E",
   "Urban Land. Pln& Design",
   "PEM",
-  10
+  9
  ],
  [
   "PEM 317E",
@@ -38523,7 +38427,7 @@
   "PEM 324E",
   "Landscape Management",
   "PEM",
-  10
+  9
  ],
  [
   "PEM 327E",
@@ -38571,7 +38475,7 @@
   "PEM 356E",
   "Rural Landscape Plan.&Design",
   "PEM",
-  8
+  7
  ],
  [
   "PEM 368E",
@@ -38691,7 +38595,7 @@
   "PEM 422E",
   "Professional Practice & Ethics",
   "PEM",
-  4
+  3
  ],
  [
   "PEM 429E",
@@ -38721,7 +38625,7 @@
   "PEM 492E",
   "Graduation Project",
   "PEM",
-  18
+  17
  ],
  [
   "PEM 501E",
@@ -40593,13 +40497,13 @@
   "SBP 492",
   "Bitirme Çalışması",
   "SBP",
-  15
+  14
  ],
  [
   "SBP 492E",
   "Final Project",
   "SBP",
-  14
+  13
  ],
  [
   "SBP 497E",
@@ -41121,7 +41025,7 @@
   "SES 222",
   "Koro II (Kredisiz)",
   "SES",
-  9
+  8
  ],
  [
   "SES 231",
@@ -41133,7 +41037,7 @@
   "SES 232",
   "Ağız ve Hançere Teknikleri II",
   "SES",
-  10
+  9
  ],
  [
   "SES 233",
@@ -41217,7 +41121,7 @@
   "SES 308",
   "Yöre Ağızları II",
   "SES",
-  12
+  11
  ],
  [
   "SES 309",
@@ -41319,7 +41223,7 @@
   "SES 322",
   "Koro IV(Kredisiz)",
   "SES",
-  9
+  8
  ],
  [
   "SES 3313",
@@ -41649,7 +41553,7 @@
   "SES 422",
   "Koro VI (Kredisiz)",
   "SES",
-  10
+  9
  ],
  [
   "SES 423",
@@ -41727,7 +41631,7 @@
   "SES 436",
   "Yrd. Repertuvar IV (TSM)",
   "SES",
-  10
+  9
  ],
  [
   "SES 451",
@@ -41805,7 +41709,7 @@
   "SES 472",
   "Koro II",
   "SES",
-  2
+  1
  ],
  [
   "SES 473",
@@ -41966,12 +41870,6 @@
  [
   "SMK 303",
   "Kayıt Teknolojilerine Giriş",
-  "SMK",
-  1
- ],
- [
-  "SMK 342",
-  "Ses Düzenleme ve Post Prodüksiyon",
   "SMK",
   1
  ],
@@ -43272,12 +43170,6 @@
   8
  ],
  [
-  "TEK 460E",
-  "Technical Yarns",
-  "TEK",
-  1
- ],
- [
   "TEK 462E",
   "Ecological Textiles",
   "TEK",
@@ -43296,12 +43188,6 @@
   7
  ],
  [
-  "TEK 465E",
-  "Knitting Technology II",
-  "TEK",
-  1
- ],
- [
   "TEK 466E",
   "Heat Transfer",
   "TEK",
@@ -43316,12 +43202,6 @@
  [
   "TEK 468E",
   "Textile Finishing Auxiliaries",
-  "TEK",
-  1
- ],
- [
-  "TEK 469E",
-  "Pre-treatment Processes",
   "TEK",
   1
  ],
@@ -43389,7 +43269,7 @@
   "TEK 485E",
   "Cost Accounting",
   "TEK",
-  10
+  9
  ],
  [
   "TEK 486E",
@@ -43419,7 +43299,7 @@
   "TEK 492E",
   "Senior Design Project",
   "TEK",
-  17
+  16
  ],
  [
   "TEK 501E",
@@ -44031,7 +43911,7 @@
   "THO 306",
   "Oyunda Yöresel Tavırlar IV",
   "THO",
-  11
+  10
  ],
  [
   "THO 307",
@@ -44043,7 +43923,7 @@
   "THO 308",
   "Oyun Repertuvarı IV",
   "THO",
-  11
+  10
  ],
  [
   "THO 309",
@@ -44097,7 +43977,7 @@
   "THO 312",
   "Oyun Analizi II",
   "THO",
-  14
+  13
  ],
  [
   "THO 3124",
@@ -44115,7 +43995,7 @@
   "THO 314",
   "Koreoloji II",
   "THO",
-  11
+  10
  ],
  [
   "THO 317",
@@ -44205,7 +44085,7 @@
   "THO 412",
   "Geleneksel Giyim Kuşam II",
   "THO",
-  12
+  11
  ],
  [
   "THO 4122",
@@ -44580,18 +44460,6 @@
   1
  ],
  [
-  "TMK 347",
-  "Ses Eğitimi I",
-  "TMK",
-  1
- ],
- [
-  "TMK 349",
-  "Piyano I",
-  "TMK",
-  1
- ],
- [
   "TMK 365",
   "Türk Halk Oyunları Repertuarı I",
   "TMK",
@@ -44600,18 +44468,6 @@
  [
   "TMK 369",
   "Çalgı Bakım ve Onarım Bilgisi",
-  "TMK",
-  1
- ],
- [
-  "TMK 370",
-  "Batı Müziğinde Besteciliğe Giriş",
-  "TMK",
-  1
- ],
- [
-  "TMK 373",
-  "Temel Müzik Prodüksiyonu Teknikleri",
   "TMK",
   1
  ],
@@ -45153,7 +45009,7 @@
   "UCK 492",
   "Bitirme Çalışması",
   "UCK",
-  17
+  16
  ],
  [
   "UCK 492E",
@@ -45735,13 +45591,13 @@
   "UZB 492",
   "Bitirme Çalışması",
   "UZB",
-  16
+  15
  ],
  [
   "UZB 492E",
   "Graduation Project",
   "UZB",
-  18
+  17
  ],
  [
   "UZM 501E",
@@ -46407,7 +46263,7 @@
   "YZV 312E",
   "Data Mining",
   "YZV",
-  3
+  2
  ],
  [
   "YZV 321E",

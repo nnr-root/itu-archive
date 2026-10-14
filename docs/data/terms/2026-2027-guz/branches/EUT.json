@@ -925,29 +925,6 @@
   "classReq": "-"
  },
  {
-  "crn": "14757",
-  "code": "EUT 492",
-  "branch": "EUT",
-  "level": "LS",
-  "name": "Bitirme Çalışması",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ahmet Hamurcu",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 50,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "EUT_LS"
-  ],
-  "prereq": "Detay",
-  "classReq": "Detay"
- },
- {
   "crn": "14758",
   "code": "EUT 4902E",
   "branch": "EUT",

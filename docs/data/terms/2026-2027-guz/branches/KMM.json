@@ -20,7 +20,7 @@
    "D304"
   ],
   "capacity": 100,
-  "enrolled": 78,
+  "enrolled": 79,
   "reserved": "-",
   "programs": [
    "KMM_LS"
@@ -53,7 +53,7 @@
    "D104"
   ],
   "capacity": 70,
-  "enrolled": 71,
+  "enrolled": 72,
   "reserved": "-",
   "programs": [
    "KMM_LS"
@@ -82,7 +82,7 @@
    "D301"
   ],
   "capacity": 45,
-  "enrolled": 45,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "KMM_LS",
@@ -1311,18 +1311,12 @@
   "name": "Kimya Mühendisliği Lab II",
   "method": "Ek Sınav",
   "instructor": "Yaşar Volkan Arıncı",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Salı"
-  ],
+  "buildings": [],
+  "days": [],
   "times": [
-   "08:30/12:29"
+   "-/-"
   ],
-  "rooms": [
-   "--"
-  ],
+  "rooms": [],
   "capacity": 0,
   "enrolled": 1,
   "reserved": "-",

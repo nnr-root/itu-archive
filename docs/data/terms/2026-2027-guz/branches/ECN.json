@@ -181,7 +181,7 @@
    "203"
   ],
   "capacity": 80,
-  "enrolled": 50,
+  "enrolled": 49,
   "reserved": "-",
   "programs": [
    "ECNE_LS"
@@ -515,5 +515,173 @@
   ],
   "prereq": "Detay",
   "classReq": "Detay"
+ },
+ {
+  "crn": "16062",
+  "code": "ECN 307E",
+  "branch": "ECN",
+  "level": "LS",
+  "name": "Game Theory",
+  "method": "Sınırsız Sınav",
+  "instructor": "Sinan Ertemel",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16063",
+  "code": "ECN 302E",
+  "branch": "ECN",
+  "level": "LS",
+  "name": "Econometrics II",
+  "method": "Ek Sınav",
+  "instructor": "Osman Doğan",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16064",
+  "code": "ECN 412E",
+  "branch": "ECN",
+  "level": "LS",
+  "name": "Environmental Economics",
+  "method": "Ek Sınav",
+  "instructor": "Umut Kuruüzüm",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16065",
+  "code": "ECN 432E",
+  "branch": "ECN",
+  "level": "LS",
+  "name": "Labor Economics",
+  "method": "Ek Sınav",
+  "instructor": "Şerife Genç İleri",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16066",
+  "code": "ECN 402E",
+  "branch": "ECN",
+  "level": "LS",
+  "name": "Project Appraisal",
+  "method": "Ek Sınav",
+  "instructor": "Zehra Atik",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16067",
+  "code": "ECN 421E",
+  "branch": "ECN",
+  "level": "LS",
+  "name": "Experimental Economics",
+  "method": "Ek Sınav",
+  "instructor": "Tolga Yuret",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16071",
+  "code": "ECN 314E",
+  "branch": "ECN",
+  "level": "LS",
+  "name": "Financial Economics",
+  "method": "Ek Sınav",
+  "instructor": "Resul Aydemir",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16073",
+  "code": "ECN 430E",
+  "branch": "ECN",
+  "level": "LS",
+  "name": "Income Distribution & Poverty",
+  "method": "Ek Sınav",
+  "instructor": "Umut Kuruüzüm",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
  }
 ]

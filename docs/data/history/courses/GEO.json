@@ -500,7 +500,6 @@
   "code": "GEO 105E",
   "name": "Intro. to Geomat. Engineering",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-guz",
    "2023-2024-guz",
    "2022-2023-guz",
@@ -510,13 +509,6 @@
    "2018-2019-guz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Çiğdem Göksel",
-    20,
-    0,
-    "Pazartesi"
-   ],
    [
     "2025-2026-guz",
     "Çiğdem Göksel",
@@ -2487,7 +2479,6 @@
   "code": "GEO 205E",
   "name": "Engineering Ethics",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-guz",
    "2023-2024-guz",
    "2022-2023-guz",
@@ -2497,13 +2488,6 @@
    "2018-2019-guz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Çiğdem Göksel",
-    20,
-    0,
-    "Perşembe"
-   ],
    [
     "2025-2026-guz",
     "Çiğdem Göksel",
@@ -4217,7 +4201,7 @@
     "2026-2027-guz",
     "Hasan Tonbul",
     85,
-    82,
+    81,
     "Salı"
    ],
    [
@@ -6569,7 +6553,7 @@
     "Ayşe Filiz Sunar",
     0,
     1,
-    "Pazartesi"
+    ""
    ],
    [
     "2025-2026-bahar",
@@ -11471,22 +11455,6 @@
     50,
     28,
     "Perşembe"
-   ]
-  ]
- },
- "GEO 515E": {
-  "code": "GEO 515E",
-  "name": "Comp. Graphics&Data Visualizat",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Ergin Tarı",
-    30,
-    0,
-    "Salı"
    ]
   ]
  },

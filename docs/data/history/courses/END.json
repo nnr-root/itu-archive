@@ -3272,7 +3272,7 @@
     "2026-2027-guz",
     "Burhaneddin Sandıkçı",
     50,
-    40,
+    39,
     "Pazartesi"
    ],
    [
@@ -4742,7 +4742,7 @@
     "2026-2027-guz",
     "Başar Öztayşi",
     50,
-    47,
+    46,
     "Cuma"
    ],
    [
@@ -5389,7 +5389,7 @@
     "2026-2027-guz",
     "Emre Çevikcan",
     80,
-    71,
+    72,
     "Pazartesi"
    ],
    [
@@ -5454,6 +5454,7 @@
   "code": "END 412",
   "name": "İnsan Kaynakları Yönetiminin Temelleri",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -5465,6 +5466,13 @@
    "2017-2018-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Cemil Ceylan",
+    0,
+    0,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Cemil Ceylan",
@@ -7595,7 +7603,7 @@
     "2026-2027-guz",
     "Şeyda Serdar Asan",
     50,
-    41,
+    40,
     "Çarşamba"
    ]
   ]
@@ -9266,7 +9274,7 @@
     "2026-2027-guz",
     "Hatice Tekiner Moğulkoç",
     34,
-    21,
+    20,
     "Çarşamba"
    ]
   ]
@@ -9298,7 +9306,7 @@
     "2026-2027-guz",
     "Seda Yanık Özbay",
     33,
-    15,
+    16,
     "Perşembe"
    ]
   ]
@@ -9364,22 +9372,6 @@
     16,
     16,
     "Pazartesi"
-   ]
-  ]
- },
- "END 604E": {
-  "code": "END 604E",
-  "name": "G.Decision Making Under M.Crit",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Özgür Kabak",
-    12,
-    0,
-    "Çarşamba"
    ]
   ]
  },

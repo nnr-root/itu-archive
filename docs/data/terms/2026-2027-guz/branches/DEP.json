@@ -189,33 +189,6 @@
   "classReq": "-"
  },
  {
-  "crn": "11828",
-  "code": "DEP 611",
-  "branch": "DEP",
-  "level": "LU",
-  "name": "Yüksek Binal.Sismik Davranışı",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Zeynep Değer",
-  "buildings": [
-   "INB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "11829",
   "code": "DEP 510E",
   "branch": "DEP",
@@ -237,33 +210,6 @@
   ],
   "capacity": 30,
   "enrolled": 16,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11830",
-  "code": "DEP 613E",
-  "branch": "DEP",
-  "level": "LU",
-  "name": "Seismic Isolation of Structur.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Pınar Özdemir Çağlayan",
-  "buildings": [
-   "INB"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

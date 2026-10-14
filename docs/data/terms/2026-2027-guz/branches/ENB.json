@@ -81,87 +81,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13497",
-  "code": "ENB 507E",
-  "branch": "ENB",
-  "level": "LU",
-  "name": "Exp.Charac.of Bio.Treat.Syst.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Özlem Karahan Özgün , Fatma Fatoş Babuna , Mahmut Altınbaş",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13499",
-  "code": "ENB 509E",
-  "branch": "ENB",
-  "level": "LU",
-  "name": "Bio.Processing of Solid Wastes",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Osman Atilla Arıkan , Hüseyin Güven",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13501",
-  "code": "ENB 510E",
-  "branch": "ENB",
-  "level": "LU",
-  "name": "Biodegradation of Indust.Waste",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Fatma Fatoş Babuna , Fatma Gülen İskender , Serdar Doğruel",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13503",
   "code": "ENB DRT",
   "branch": "ENB",
@@ -176,28 +95,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 5,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13505",
-  "code": "ENB YET",
-  "branch": "ENB",
-  "level": "LU",
-  "name": "Yeterlik Aşaması",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Mahmut Altınbaş",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 200,
-  "enrolled": 0,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

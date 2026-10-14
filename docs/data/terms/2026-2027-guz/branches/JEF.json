@@ -505,20 +505,14 @@
   "name": "Seismic Prospecting",
   "method": "Ek Sınav",
   "instructor": "Hülya Kurt",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
+  "buildings": [],
+  "days": [],
   "times": [
-   "08:30/12:29"
+   "-/-"
   ],
-  "rooms": [
-   "--"
-  ],
+  "rooms": [],
   "capacity": 0,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "JEF_LS"

@@ -578,7 +578,7 @@
    "102"
   ],
   "capacity": 50,
-  "enrolled": 40,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "ECNE_LS",
@@ -850,7 +850,7 @@
    "103"
   ],
   "capacity": 50,
-  "enrolled": 47,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "END_LS",
@@ -941,7 +941,7 @@
    "109"
   ],
   "capacity": 80,
-  "enrolled": 71,
+  "enrolled": 72,
   "reserved": "-",
   "programs": [
    "ENDE_LS"
@@ -1303,7 +1303,7 @@
    "204"
   ],
   "capacity": 50,
-  "enrolled": 41,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "END_LS",
@@ -1612,7 +1612,7 @@
    "202"
   ],
   "capacity": 34,
-  "enrolled": 21,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1666,7 +1666,7 @@
    "B12"
   ],
   "capacity": 33,
-  "enrolled": 15,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1775,33 +1775,6 @@
   ],
   "capacity": 16,
   "enrolled": 16,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "12916",
-  "code": "END 604E",
-  "branch": "END",
-  "level": "LU",
-  "name": "G.Decision Making Under M.Crit",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Özgür Kabak",
-  "buildings": [
-   "MSB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "B20"
-  ],
-  "capacity": 12,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1927,6 +1900,27 @@
    "IND_LS",
    "MAT_LS"
   ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16068",
+  "code": "END 412",
+  "branch": "END",
+  "level": "LS",
+  "name": "İnsan Kaynakları Yönetiminin Temelleri",
+  "method": "Ek Sınav",
+  "instructor": "Cemil Ceylan",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
   "prereq": "Detay",
   "classReq": "-"
  }

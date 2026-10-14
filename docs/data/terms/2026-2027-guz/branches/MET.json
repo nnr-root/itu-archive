@@ -1134,30 +1134,6 @@
   "classReq": "Detay"
  },
  {
-  "crn": "11015",
-  "code": "MET 492E",
-  "branch": "MET",
-  "level": "LS",
-  "name": "Design Project",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Murat Baydoğan",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 50,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "MET_LS",
-   "METE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "Detay"
- },
- {
   "crn": "11969",
   "code": "MET 610E",
   "branch": "MET",

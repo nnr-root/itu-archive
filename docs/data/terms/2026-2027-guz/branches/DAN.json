@@ -206,7 +206,7 @@
   ],
   "rooms": [],
   "capacity": 0,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -290,7 +290,7 @@
   ],
   "rooms": [],
   "capacity": 0,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -316,5 +316,26 @@
   "programs": [],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "16072",
+  "code": "DAN 301",
+  "branch": "DAN",
+  "level": "LS",
+  "name": "Kariyer Danışmanlığı",
+  "method": "Ek Sınav",
+  "instructor": "Zehra Atik",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "Detay"
  }
 ]

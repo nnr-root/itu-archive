@@ -1133,35 +1133,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12879",
-  "code": "TEK 460E",
-  "branch": "TEK",
-  "level": "LS",
-  "name": "Technical Yarns",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Fatma Banu Nergis",
-  "buildings": [
-   "MKB"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "08:30/10:29"
-  ],
-  "rooms": [
-   "D381A"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "TEKE_LS"
-  ],
-  "prereq": "Detay",
-  "classReq": "-"
- },
- {
   "crn": "12894",
   "code": "TEK 462E",
   "branch": "TEK",
@@ -1182,7 +1153,7 @@
    "D361B"
   ],
   "capacity": 30,
-  "enrolled": 30,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "TEKE_LS"
@@ -1212,35 +1183,6 @@
   ],
   "capacity": 30,
   "enrolled": 22,
-  "reserved": "-",
-  "programs": [
-   "TEKE_LS"
-  ],
-  "prereq": "Detay",
-  "classReq": "-"
- },
- {
-  "crn": "12904",
-  "code": "TEK 465E",
-  "branch": "TEK",
-  "level": "LS",
-  "name": "Knitting Technology II",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Levent Önal",
-  "buildings": [
-   "MKB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "08:30/10:29"
-  ],
-  "rooms": [
-   "D380A"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "TEKE_LS"
@@ -1298,36 +1240,7 @@
    "D368B"
   ],
   "capacity": 30,
-  "enrolled": 30,
-  "reserved": "-",
-  "programs": [
-   "TEKE_LS"
-  ],
-  "prereq": "Detay",
-  "classReq": "-"
- },
- {
-  "crn": "12921",
-  "code": "TEK 469E",
-  "branch": "TEK",
-  "level": "LS",
-  "name": "Pre-treatment Processes",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Berdan Kalav",
-  "buildings": [
-   "MKB"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "14:30/16:29"
-  ],
-  "rooms": [
-   "D376"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "TEKE_LS"
@@ -1363,60 +1276,6 @@
   ],
   "prereq": "Detay",
   "classReq": "-"
- },
- {
-  "crn": "12947",
-  "code": "TEK 485E",
-  "branch": "TEK",
-  "level": "LS",
-  "name": "Cost Accounting",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Emel Önder Karaoğlu",
-  "buildings": [
-   "MKB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "D378"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "TEK_LS",
-   "TEKE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "12948",
-  "code": "TEK 492E",
-  "branch": "TEK",
-  "level": "LS",
-  "name": "Senior Design Project",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Burçak Karagüzel Kayaoğlu",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 200,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "TEK_LS",
-   "TEKE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "Detay"
  },
  {
   "crn": "12950",

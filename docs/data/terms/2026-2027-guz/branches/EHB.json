@@ -487,7 +487,7 @@
    "A16"
   ],
   "capacity": 120,
-  "enrolled": 95,
+  "enrolled": 91,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -583,7 +583,7 @@
    "5202"
   ],
   "capacity": 91,
-  "enrolled": 91,
+  "enrolled": 92,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -796,7 +796,7 @@
    "--"
   ],
   "capacity": 48,
-  "enrolled": 55,
+  "enrolled": 54,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -833,7 +833,7 @@
    "--"
   ],
   "capacity": 48,
-  "enrolled": 53,
+  "enrolled": 54,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -904,7 +904,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 23,
+  "enrolled": 22,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1535,30 +1535,6 @@
   "classReq": "-"
  },
  {
-  "crn": "14281",
-  "code": "EHB 421",
-  "branch": "EHB",
-  "level": "LS",
-  "name": "Tıp Elektroniğine Giriş",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "-",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 0,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "EHB_LS",
-   "ELE_LS"
-  ],
-  "prereq": "Detay",
-  "classReq": "-"
- },
- {
   "crn": "14283",
   "code": "EHB 428E",
   "branch": "EHB",
@@ -1998,7 +1974,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 47,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [
    "EHB_LS"
@@ -2077,88 +2053,6 @@
    "EHB_LS",
    "EHBE_LS",
    "EHS_LS"
-  ],
-  "prereq": "Detay",
-  "classReq": "-"
- },
- {
-  "crn": "14300",
-  "code": "EHB 492",
-  "branch": "EHB",
-  "level": "LS",
-  "name": "Bitirme Projesi",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hakan Ali Çırpan",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 50,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "EHB_LS"
-  ],
-  "prereq": "-",
-  "classReq": "Detay"
- },
- {
-  "crn": "14301",
-  "code": "EHB 492E",
-  "branch": "EHB",
-  "level": "LS",
-  "name": "Graduation Project",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hakan Ali Çırpan",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 50,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "EHB_LS",
-   "EHBE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "Detay"
- },
- {
-  "crn": "14647",
-  "code": "EHB 315E",
-  "branch": "EHB",
-  "level": "LS",
-  "name": "Digital Signal Processing",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Mehmet Can",
-  "buildings": [
-   "EEB"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "4102"
-  ],
-  "capacity": 0,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "EEE_LS",
-   "EHB_LS",
-   "EHBE_LS",
-   "EHS_LS",
-   "ELK_LS",
-   "ELKE_LS",
-   "TEL_LS"
   ],
   "prereq": "Detay",
   "classReq": "-"

@@ -608,7 +608,7 @@
     "2026-2027-guz",
     "Hür Bersam Sidal , Ferhan Çebi",
     80,
-    76,
+    77,
     "Pazartesi"
    ],
    [
@@ -1192,7 +1192,7 @@
     "2026-2027-guz",
     "Zeynep Erden Bayazıt",
     80,
-    86,
+    87,
     "Pazartesi"
    ],
    [
@@ -1631,7 +1631,7 @@
     "2026-2027-guz",
     "Aziz Kemal Konyalıoğlu",
     80,
-    45,
+    46,
     "Salı"
    ],
    [
@@ -1757,7 +1757,7 @@
     "2026-2027-guz",
     "Oktay Taş , Cumhur Enis Ekinci",
     80,
-    90,
+    91,
     "Perşembe"
    ],
    [
@@ -3270,7 +3270,7 @@
     "2026-2027-guz",
     "Deniz Tunçalp , Mehmet Erçek",
     80,
-    66,
+    68,
     "Perşembe"
    ],
    [
@@ -3433,7 +3433,7 @@
     "2026-2027-guz",
     "Mehmet Fatih Hocaoğlu",
     60,
-    50,
+    51,
     "Perşembe"
    ],
    [
@@ -3723,7 +3723,7 @@
     "2026-2027-guz",
     "Ulaş Baysal",
     80,
-    81,
+    80,
     "Çarşamba"
    ],
    [
@@ -3923,22 +3923,6 @@
     "Sabriye Saime Kayam",
     30,
     5,
-    "Çarşamba"
-   ]
-  ]
- },
- "ISL 437E": {
-  "code": "ISL 437E",
-  "name": "Mod.Cross sect. & Panel Data",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Ayşe Aylin Bayar",
-    20,
-    0,
     "Çarşamba"
    ]
   ]
@@ -5034,7 +5018,6 @@
   "code": "ISL 4901",
   "name": "İşletme Müh. Tasarım Projesi I",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2025-2026-guz",
    "2024-2025-bahar",
@@ -5049,13 +5032,6 @@
    "2019-2020-guz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Osman Taylan",
-    500,
-    0,
-    ""
-   ],
    [
     "2025-2026-bahar",
     "Osman Taylan",
@@ -5250,7 +5226,6 @@
   "code": "ISL 4902",
   "name": "İşletme Müh.Tasarım Projesi II",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2025-2026-guz",
    "2024-2025-bahar",
@@ -5265,13 +5240,6 @@
    "2019-2020-bahar"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Osman Taylan",
-    500,
-    0,
-    ""
-   ],
    [
     "2025-2026-bahar",
     "Osman Taylan",
@@ -5466,7 +5434,6 @@
   "code": "ISL 492",
   "name": "İşletme Müh. Tasarım Prj.",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2025-2026-guz",
    "2024-2025-bahar",
@@ -5486,13 +5453,6 @@
    "2017-2018-guz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Osman Taylan",
-    500,
-    0,
-    ""
-   ],
    [
     "2025-2026-bahar",
     "Osman Taylan",
@@ -5625,7 +5585,6 @@
   "code": "ISL 492E",
   "name": "Management Eng. Design Project",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-guz",
    "2023-2024-bahar",
    "2023-2024-guz",
@@ -5643,13 +5602,6 @@
    "2017-2018-guz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Osman Taylan",
-    500,
-    0,
-    ""
-   ],
    [
     "2025-2026-guz",
     "Hatice Camgöz Akdağ",

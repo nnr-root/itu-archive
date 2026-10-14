@@ -658,7 +658,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 49,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -1013,52 +1013,6 @@
   ],
   "prereq": "Detay",
   "classReq": "-"
- },
- {
-  "crn": "11313",
-  "code": "GMI 492E",
-  "branch": "GMI",
-  "level": "LS",
-  "name": "Design Project",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Çağlar Karatuğ",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 100,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "GMIE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "Detay"
- },
- {
-  "crn": "11317",
-  "code": "GMI 492",
-  "branch": "GMI",
-  "level": "LS",
-  "name": "Tasarım Projesi",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Çağlar Karatuğ",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 100,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "GMI_LS"
-  ],
-  "prereq": "-",
-  "classReq": "Detay"
  },
  {
   "crn": "11318",
@@ -2035,7 +1989,7 @@
    "--"
   ],
   "capacity": 14,
-  "enrolled": 19,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [
    "GMI_LS"
@@ -2184,7 +2138,7 @@
    "--"
   ],
   "capacity": 5,
-  "enrolled": 10,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "MEN_LS"

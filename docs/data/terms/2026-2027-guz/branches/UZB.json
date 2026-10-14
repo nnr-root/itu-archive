@@ -86,7 +86,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 10,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [
    "MET_LS",
@@ -645,54 +645,6 @@
   ],
   "prereq": "Detay",
   "classReq": "-"
- },
- {
-  "crn": "11746",
-  "code": "UZB 492",
-  "branch": "UZB",
-  "level": "LS",
-  "name": "Bitirme Çalışması",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Alim Rüstem Aslan",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 50,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "UZB_LS"
-  ],
-  "prereq": "-",
-  "classReq": "Detay"
- },
- {
-  "crn": "11747",
-  "code": "UZB 492E",
-  "branch": "UZB",
-  "level": "LS",
-  "name": "Graduation Project",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Alim Rüstem Aslan",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 50,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "UZB_LS",
-   "UZB_LS",
-   "UZBE_LS"
-  ],
-  "prereq": "-",
-  "classReq": "Detay"
  },
  {
   "crn": "11848",

@@ -890,7 +890,6 @@
   "code": "MTR 104",
   "name": "Müzik Teorisi II",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -904,13 +903,6 @@
    "2016-2017-yaz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Ayşecan Olgun",
-    0,
-    0,
-    ""
-   ],
    [
     "2025-2026-bahar",
     "Ayşecan Olgun",
@@ -1550,7 +1542,6 @@
   "code": "MTR 122",
   "name": "Makam Teorisi II",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -1564,13 +1555,6 @@
    "2016-2017-yaz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Ali İhsan Alemli",
-    0,
-    0,
-    ""
-   ],
    [
     "2025-2026-bahar",
     "Ali İhsan Alemli",
@@ -3892,7 +3876,6 @@
   "code": "MTR 208",
   "name": "Teori Uygulama II",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -3906,13 +3889,6 @@
    "2016-2017-yaz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Süleyman Şenel",
-    0,
-    0,
-    ""
-   ],
    [
     "2025-2026-bahar",
     "Süleyman Şenel",
@@ -4091,7 +4067,6 @@
   "code": "MTR 222",
   "name": "Makam Teorisi IV",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -4107,13 +4082,6 @@
    "2016-2017-yaz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Ahmet Serhat Turunç",
-    0,
-    0,
-    ""
-   ],
    [
     "2025-2026-bahar",
     "Ahmet Serhat Turunç",
@@ -4298,7 +4266,6 @@
   "code": "MTR 224",
   "name": "Müzik Teorisi IV",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -4312,13 +4279,6 @@
    "2016-2017-yaz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Orkun Zafer Özgelen",
-    0,
-    0,
-    ""
-   ],
    [
     "2025-2026-bahar",
     "Orkun Zafer Özgelen",
@@ -6306,7 +6266,6 @@
   "code": "MTR 318",
   "name": "Müzikte Metin Çözümlemeleri II",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -6320,13 +6279,6 @@
    "2016-2017-yaz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Celal Volkan Kaya",
-    0,
-    0,
-    ""
-   ],
    [
     "2025-2026-bahar",
     "Kemal Hasan Karnal",
@@ -7187,7 +7139,6 @@
   "code": "MTR 406",
   "name": "Dikte ve Deşifre II",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -7205,13 +7156,6 @@
    "2016-2017-yaz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Metin Eke",
-    0,
-    0,
-    ""
-   ],
    [
     "2025-2026-bahar",
     "Metin Eke",
@@ -7709,7 +7653,6 @@
   "code": "MTR 432",
   "name": "Dikte Deşifre II",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -7725,13 +7668,6 @@
    "2016-2017-yaz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Cem Ekmen",
-    0,
-    0,
-    ""
-   ],
    [
     "2025-2026-bahar",
     "Cem Ekmen",
@@ -7951,7 +7887,6 @@
   "code": "MTR 434",
   "name": "Eser Çözümleme II",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -7965,13 +7900,6 @@
    "2016-2017-yaz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Neşe Yeşim Altınel Çoban",
-    0,
-    0,
-    ""
-   ],
    [
     "2025-2026-bahar",
     "Neşe Yeşim Altınel Çoban",
@@ -8048,22 +7976,6 @@
     25,
     14,
     "Salı"
-   ]
-  ]
- },
- "MTR 435": {
-  "code": "MTR 435",
-  "name": "Yazma Müzik Eserleri",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Eylül Doğan",
-    25,
-    0,
-    "Çarşamba"
    ]
   ]
  },
@@ -8411,7 +8323,6 @@
   "code": "MTR 444",
   "name": "Eser Çözümleme II",
   "terms": [
-   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -8425,13 +8336,6 @@
    "2016-2017-yaz"
   ],
   "rows": [
-   [
-    "2026-2027-guz",
-    "Neşe Yeşim Altınel Çoban",
-    0,
-    0,
-    ""
-   ],
    [
     "2025-2026-bahar",
     "Neşe Yeşim Altınel Çoban",

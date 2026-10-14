@@ -520,51 +520,5 @@
   ],
   "prereq": "-",
   "classReq": "-"
- },
- {
-  "crn": "11323",
-  "code": "MRE 330",
-  "branch": "MRE",
-  "level": "LS",
-  "name": "Long Term Sea Training",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ata Bilgili",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 200,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "SGM_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11324",
-  "code": "MRE 492",
-  "branch": "MRE",
-  "level": "LS",
-  "name": "Design Project",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ata Bilgili",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 10,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "SGM_LS"
-  ],
-  "prereq": "-",
-  "classReq": "Detay"
  }
 ]

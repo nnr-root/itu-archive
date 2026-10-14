@@ -20,7 +20,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 106,
+  "enrolled": 107,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -398,7 +398,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 95,
+  "enrolled": 94,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -590,7 +590,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 86,
+  "enrolled": 88,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2526,7 +2526,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 84,
+  "enrolled": 85,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -3408,7 +3408,7 @@
    "B202"
   ],
   "capacity": 75,
-  "enrolled": 76,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -5927,46 +5927,6 @@
    "EHN_LS",
    "MBI_LS",
    "MSS_LS",
-   "SBL_LS",
-   "SDU_LS",
-   "SED_LS",
-   "SGI_LS",
-   "SGM_LS",
-   "SIN_LS",
-   "SIS_LS",
-   "SMT_LS",
-   "STP_LS"
-  ],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "12259",
-  "code": "ATA 102",
-  "branch": "ATA",
-  "level": "LS",
-  "name": "Atatürk İlk & İnkılap Trh II",
-  "method": "Sanal (Çevrimiçi/Online)",
-  "instructor": "İsmail Kandil",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "11:30/13:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 0,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "AIN_LS",
-   "EHN_LS",
-   "MBI_LS",
    "SBL_LS",
    "SDU_LS",
    "SED_LS",

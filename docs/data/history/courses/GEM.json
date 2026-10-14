@@ -301,7 +301,7 @@
     "2026-2027-guz",
     "Bahadır Uğurlu",
     45,
-    30,
+    29,
     "Çarşamba, Perşembe"
    ],
    [
@@ -3557,7 +3557,7 @@
     "2026-2027-guz",
     "Erdem Üçer",
     0,
-    1,
+    0,
     ""
    ],
    [
@@ -5288,27 +5288,6 @@
   "rows": [
    [
     "2026-2027-guz",
-    "Ahmet Ergin",
-    3,
-    0,
-    ""
-   ],
-   [
-    "2026-2027-guz",
-    "Ali Can Takinacı",
-    3,
-    0,
-    ""
-   ],
-   [
-    "2026-2027-guz",
-    "Bahadır Uğurlu",
-    3,
-    0,
-    ""
-   ],
-   [
-    "2026-2027-guz",
     "Cihad Delen",
     3,
     1,
@@ -5323,37 +5302,9 @@
    ],
    [
     "2026-2027-guz",
-    "Emin Korkut",
-    3,
-    0,
-    ""
-   ],
-   [
-    "2026-2027-guz",
     "Erdem Üçer",
     3,
     3,
-    ""
-   ],
-   [
-    "2026-2027-guz",
-    "Ertekin Bayraktarkatal",
-    3,
-    0,
-    ""
-   ],
-   [
-    "2026-2027-guz",
-    "Fuzuli Ağrı Akçay",
-    3,
-    0,
-    ""
-   ],
-   [
-    "2026-2027-guz",
-    "Gökhan Tansel Tayyar",
-    3,
-    0,
     ""
    ],
    [
@@ -5365,44 +5316,9 @@
    ],
    [
     "2026-2027-guz",
-    "Murat Emre Demir",
-    3,
-    0,
-    ""
-   ],
-   [
-    "2026-2027-guz",
-    "Mustafa Erden Yıldızdağ",
-    3,
-    0,
-    ""
-   ],
-   [
-    "2026-2027-guz",
-    "Münir Cansın Özden",
-    3,
-    0,
-    ""
-   ],
-   [
-    "2026-2027-guz",
     "Oğuz Salim Söğüt",
     3,
     3,
-    ""
-   ],
-   [
-    "2026-2027-guz",
-    "Osman Azmi Özsoysal",
-    3,
-    0,
-    ""
-   ],
-   [
-    "2026-2027-guz",
-    "Şakir Bal",
-    3,
-    0,
     ""
    ],
    [
@@ -6589,22 +6505,6 @@
     30,
     1,
     "Pazartesi"
-   ]
-  ]
- },
- "GEM 615": {
-  "code": "GEM 615",
-  "name": "Yüzen Yapıların Titreşimi",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Bahadır Uğurlu",
-    30,
-    0,
-    "Cuma"
    ]
   ]
  },

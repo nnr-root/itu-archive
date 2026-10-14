@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-10-14T07:34:02Z",
+ "scrapedAt": "2026-10-14T13:49:52Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5393,
- "courses": 3829,
+ "sections": 5194,
+ "courses": 3696,
  "branches": [
   {
    "code": "AAR",
@@ -75,7 +75,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 59
+   "sections": 58
   },
   {
    "code": "BBF",
@@ -96,7 +96,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 51
+   "sections": 38
   },
   {
    "code": "BEN",
@@ -124,7 +124,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 45
+   "sections": 47
   },
   {
    "code": "BIO",
@@ -139,7 +139,7 @@
     "LS",
     "LU"
    ],
-   "sections": 91
+   "sections": 90
   },
   {
    "code": "BLU",
@@ -202,7 +202,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 164
+   "sections": 144
   },
   {
    "code": "CBM",
@@ -223,7 +223,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 71
+   "sections": 70
   },
   {
    "code": "CHE",
@@ -287,7 +287,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 13
+   "sections": 14
   },
   {
    "code": "DCZ",
@@ -301,14 +301,14 @@
    "levels": [
     "LS"
    ],
-   "sections": 51
+   "sections": 40
   },
   {
    "code": "DEP",
    "levels": [
     "LU"
    ],
-   "sections": 15
+   "sections": 13
   },
   {
    "code": "DFH",
@@ -329,7 +329,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 10
+   "sections": 9
   },
   {
    "code": "DUI",
@@ -378,7 +378,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 17
+   "sections": 25
   },
   {
    "code": "EEE",
@@ -392,7 +392,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 37
+   "sections": 36
   },
   {
    "code": "EFN",
@@ -413,7 +413,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 82
+   "sections": 78
   },
   {
    "code": "EHN",
@@ -442,14 +442,14 @@
     "LS",
     "LU"
    ],
-   "sections": 103
+   "sections": 98
   },
   {
    "code": "ENB",
    "levels": [
     "LU"
    ],
-   "sections": 9
+   "sections": 5
   },
   {
    "code": "END",
@@ -493,7 +493,7 @@
     "LS",
     "LU"
    ],
-   "sections": 33
+   "sections": 32
   },
   {
    "code": "FIZ",
@@ -501,7 +501,7 @@
     "LS",
     "LU"
    ],
-   "sections": 199
+   "sections": 197
   },
   {
    "code": "FRA",
@@ -522,14 +522,14 @@
    "levels": [
     "LU"
    ],
-   "sections": 12
+   "sections": 11
   },
   {
    "code": "GDP",
    "levels": [
     "LU"
    ],
-   "sections": 12
+   "sections": 5
   },
   {
    "code": "GEM",
@@ -537,7 +537,7 @@
     "LS",
     "LU"
    ],
-   "sections": 87
+   "sections": 74
   },
   {
    "code": "GEO",
@@ -545,7 +545,7 @@
     "LS",
     "LU"
    ],
-   "sections": 110
+   "sections": 107
   },
   {
    "code": "GGP",
@@ -574,7 +574,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 82
+   "sections": 80
   },
   {
    "code": "GSB",
@@ -659,7 +659,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 22
+   "sections": 20
   },
   {
    "code": "IMT",
@@ -687,7 +687,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 129
+   "sections": 128
   },
   {
    "code": "INT",
@@ -730,7 +730,7 @@
     "LS",
     "LU"
    ],
-   "sections": 60
+   "sections": 55
   },
   {
    "code": "ISP",
@@ -794,7 +794,7 @@
     "LS",
     "LU"
    ],
-   "sections": 55
+   "sections": 54
   },
   {
    "code": "JFM",
@@ -830,7 +830,7 @@
     "LS",
     "LU"
    ],
-   "sections": 149
+   "sections": 147
   },
   {
    "code": "KMM",
@@ -845,7 +845,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 38
+   "sections": 31
   },
   {
    "code": "KOM",
@@ -859,7 +859,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 55
+   "sections": 53
   },
   {
    "code": "KOR",
@@ -981,14 +981,14 @@
    "levels": [
     "LS"
    ],
-   "sections": 8
+   "sections": 7
   },
   {
    "code": "MEN",
    "levels": [
     "LS"
    ],
-   "sections": 4
+   "sections": 3
   },
   {
    "code": "MET",
@@ -996,7 +996,7 @@
     "LS",
     "LU"
    ],
-   "sections": 73
+   "sections": 72
   },
   {
    "code": "MHN",
@@ -1024,7 +1024,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 154
+   "sections": 140
   },
   {
    "code": "MIT",
@@ -1094,7 +1094,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 20
+   "sections": 18
   },
   {
    "code": "MRT",
@@ -1129,7 +1129,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 4
+   "sections": 2
   },
   {
    "code": "MTO",
@@ -1137,14 +1137,14 @@
     "LS",
     "LU"
    ],
-   "sections": 69
+   "sections": 60
   },
   {
    "code": "MTR",
    "levels": [
     "LS"
    ],
-   "sections": 64
+   "sections": 53
   },
   {
    "code": "MTS",
@@ -1179,14 +1179,14 @@
    "levels": [
     "LS"
    ],
-   "sections": 49
+   "sections": 38
   },
   {
    "code": "MUZ",
    "levels": [
     "LS"
    ],
-   "sections": 45
+   "sections": 39
   },
   {
    "code": "MYE",
@@ -1264,7 +1264,7 @@
     "LS",
     "LU"
    ],
-   "sections": 48
+   "sections": 42
   },
   {
    "code": "PET",
@@ -1279,7 +1279,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 12
+   "sections": 10
   },
   {
    "code": "PST",
@@ -1364,7 +1364,7 @@
     "LS",
     "LU"
    ],
-   "sections": 65
+   "sections": 63
   },
   {
    "code": "SEC",
@@ -1385,7 +1385,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 68
+   "sections": 60
   },
   {
    "code": "SGI",
@@ -1399,7 +1399,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 3
+   "sections": 2
   },
   {
    "code": "SNT",
@@ -1492,7 +1492,7 @@
     "LS",
     "LU"
    ],
-   "sections": 58
+   "sections": 53
   },
   {
    "code": "TEL",
@@ -1520,7 +1520,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 40
+   "sections": 34
   },
   {
    "code": "TKY",
@@ -1534,7 +1534,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 9
+   "sections": 5
   },
   {
    "code": "TUR",
@@ -1555,14 +1555,14 @@
    "levels": [
     "LS"
    ],
-   "sections": 39
+   "sections": 38
   },
   {
    "code": "ULP",
    "levels": [
     "LS"
    ],
-   "sections": 22
+   "sections": 21
   },
   {
    "code": "ULS",
@@ -1590,7 +1590,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 27
+   "sections": 25
   },
   {
    "code": "UZM",
@@ -1660,7 +1660,7 @@
    "levels": [
     "LS"
    ],
-   "sections": 17
+   "sections": 16
   },
   {
    "code": "ZER",
@@ -1678,11 +1678,11 @@
   }
  ],
  "stats": {
-  "sections": 5393,
-  "courses": 3829,
+  "sections": 5194,
+  "courses": 3696,
   "branches": 235,
-  "instructors": 1983,
-  "capacity": 262496,
-  "enrolled": 139721
+  "instructors": 1972,
+  "capacity": 254530,
+  "enrolled": 139788
  }
 }
