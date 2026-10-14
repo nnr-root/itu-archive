@@ -655,60 +655,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13726",
-  "code": "CHZ 524",
-  "branch": "CHZ",
-  "level": "LU",
-  "name": "Cevher Hazır.Bilg.Uygu.&Progr.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Kudret Tahsin Perek , Emrah Tuğcan Tuzcu",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 0,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13727",
-  "code": "CHZ 596",
-  "branch": "CHZ",
-  "level": "LU",
-  "name": "Bilimsel Araş.,Etik ve Seminer",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Orhan Özdemir",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "13:30/15:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 0,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13728",
   "code": "CHZ 596E",
   "branch": "CHZ",
@@ -859,27 +805,6 @@
   "rooms": [],
   "capacity": 200,
   "enrolled": 12,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13738",
-  "code": "CHZ YET",
-  "branch": "CHZ",
-  "level": "LU",
-  "name": "Yeterlik Aşaması",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Murat Olgaç Kangal",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 0,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

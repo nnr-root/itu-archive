@@ -1,20 +1,4 @@
 {
- "ABM 604E": {
-  "code": "ABM 604E",
-  "name": "Hydro-Meteorological Disasters: Floods and Droughts",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Ömer Ekmekcioğlu",
-    20,
-    0,
-    "Pazartesi"
-   ]
-  ]
- },
  "ABM 605E": {
   "code": "ABM 605E",
   "name": "Mitigation in Man-made/Technological Disasters: Engineering Approaches",
@@ -44,38 +28,6 @@
     20,
     3,
     "Perşembe"
-   ]
-  ]
- },
- "ABM 608E": {
-  "code": "ABM 608E",
-  "name": "Mitigation in Nature-Induced Disasters: Engineering Approaches",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Abdullah Can Zülfikar",
-    20,
-    0,
-    "Pazartesi"
-   ]
-  ]
- },
- "ABM DRT": {
-  "code": "ABM DRT",
-  "name": "Tez Çalışması",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Ömer Ekmekcioğlu",
-    200,
-    0,
-    ""
    ]
   ]
  },

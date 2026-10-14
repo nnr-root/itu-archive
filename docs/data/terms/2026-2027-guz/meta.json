@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-10-13T23:46:08Z",
+ "scrapedAt": "2026-10-14T07:34:02Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5434,
- "courses": 3869,
+ "sections": 5393,
+ "courses": 3829,
  "branches": [
   {
    "code": "AAR",
@@ -19,7 +19,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 6
+   "sections": 3
   },
   {
    "code": "ADM",
@@ -33,7 +33,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 13
+   "sections": 10
   },
   {
    "code": "AKM",
@@ -61,7 +61,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 4
+   "sections": 3
   },
   {
    "code": "ARC",
@@ -89,7 +89,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 11
+   "sections": 10
   },
   {
    "code": "BEB",
@@ -110,7 +110,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 9
+   "sections": 8
   },
   {
    "code": "BHB",
@@ -146,14 +146,14 @@
    "levels": [
     "LU"
    ],
-   "sections": 17
+   "sections": 14
   },
   {
    "code": "BPL",
    "levels": [
     "LU"
    ],
-   "sections": 9
+   "sections": 5
   },
   {
    "code": "BTK",
@@ -188,7 +188,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 14
+   "sections": 13
   },
   {
    "code": "BYM",
@@ -209,7 +209,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 23
+   "sections": 18
   },
   {
    "code": "CEN",
@@ -238,7 +238,7 @@
     "LS",
     "LU"
    ],
-   "sections": 34
+   "sections": 31
   },
   {
    "code": "CIE",
@@ -343,7 +343,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 24
+   "sections": 22
   },
   {
    "code": "DUY",
@@ -371,7 +371,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 40
+   "sections": 34
   },
   {
    "code": "ECN",
@@ -744,7 +744,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 14
+   "sections": 13
   },
   {
    "code": "ITA",
@@ -1235,7 +1235,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 17
+   "sections": 10
   },
   {
    "code": "NUM",
@@ -1678,11 +1678,11 @@
   }
  ],
  "stats": {
-  "sections": 5434,
-  "courses": 3869,
+  "sections": 5393,
+  "courses": 3829,
   "branches": 235,
-  "instructors": 1995,
-  "capacity": 263581,
-  "enrolled": 139670
+  "instructors": 1983,
+  "capacity": 262496,
+  "enrolled": 139721
  }
 }

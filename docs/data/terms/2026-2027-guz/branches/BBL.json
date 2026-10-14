@@ -250,32 +250,5 @@
   "programs": [],
   "prereq": "-",
   "classReq": "-"
- },
- {
-  "crn": "15801",
-  "code": "BBL 540E",
-  "branch": "BBL",
-  "level": "LU",
-  "name": "Quantum Data Structures and Algorithms",
-  "method": "Sanal (Çevrimiçi/Online)",
-  "instructor": "Deniz Türkpençe",
-  "buildings": [
-   "Online/Çevrimiçi"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "17:00/19:59"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 0,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
  }
 ]

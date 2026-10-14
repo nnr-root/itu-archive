@@ -218,27 +218,6 @@
   "classReq": "-"
  },
  {
-  "crn": "11945",
-  "code": "ISS 598",
-  "branch": "ISS",
-  "level": "LU",
-  "name": "Proje",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Kaya Tokmakçıoğlu",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "11946",
   "code": "ISS YLT",
   "branch": "ISS",

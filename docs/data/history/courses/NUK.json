@@ -31,22 +31,6 @@
    ]
   ]
  },
- "NUK 515E": {
-  "code": "NUK 515E",
-  "name": "Thermodynamic Analysis of Nuclear Power Plants",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Ahmet Durmayaz",
-    20,
-    0,
-    "Cuma"
-   ]
-  ]
- },
  "NUK 517E": {
   "code": "NUK 517E",
   "name": "Fundamentals of Plasma Physics",
@@ -75,102 +59,6 @@
     "Sema Erentürk",
     20,
     4,
-    "Salı"
-   ]
-  ]
- },
- "NUK 521E": {
-  "code": "NUK 521E",
-  "name": "Radiometric Techniques in Environmental Analysis",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Ayşe Nur Esen",
-    20,
-    0,
-    "Çarşamba"
-   ]
-  ]
- },
- "NUK 525": {
-  "code": "NUK 525",
-  "name": "Endüstri ve Tıpta Radyoizotop Uygulamaları",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Nesrin Altınsoy , Recep Bıyık",
-    20,
-    1,
-    "Perşembe"
-   ]
-  ]
- },
- "NUK 527": {
-  "code": "NUK 527",
-  "name": "Radyasyonla Görüntüleme",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "İskender Atilla Reyhancan",
-    20,
-    0,
-    "Perşembe"
-   ]
-  ]
- },
- "NUK 529E": {
-  "code": "NUK 529E",
-  "name": "Radiological Materials",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Nilgün Baydoğan",
-    20,
-    0,
-    "Pazartesi"
-   ]
-  ]
- },
- "NUK 531E": {
-  "code": "NUK 531E",
-  "name": "Radiochemistry",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Ayşe Nur Esen",
-    20,
-    0,
-    "Cuma"
-   ]
-  ]
- },
- "NUK 533": {
-  "code": "NUK 533",
-  "name": "Radyobiyoloji",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Nesrin Altınsoy , Sema Erentürk",
-    20,
-    0,
     "Salı"
    ]
   ]
@@ -217,7 +105,7 @@
    [
     "2026-2027-guz",
     "İskender Atilla Reyhancan",
-    10,
+    20,
     1,
     "Cuma"
    ]

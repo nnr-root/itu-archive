@@ -108,33 +108,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12247",
-  "code": "AFY 522",
-  "branch": "AFY",
-  "level": "LU",
-  "name": "Yangın Risk ve Acil Durum Yönetimi",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hikmet İskender",
-  "buildings": [
-   "AYB"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12248",
   "code": "AFY 542",
   "branch": "AFY",
@@ -189,33 +162,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12257",
-  "code": "AFY 563E",
-  "branch": "AFY",
-  "level": "LU",
-  "name": "Earthquake Hazard Management",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Abdullah Can Zülfikar",
-  "buildings": [
-   "AYB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "14:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12258",
   "code": "AFY 583E",
   "branch": "AFY",
@@ -237,33 +183,6 @@
   ],
   "capacity": 20,
   "enrolled": 5,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "12261",
-  "code": "AFY 567E",
-  "branch": "AFY",
-  "level": "LU",
-  "name": "Ear.War.Rap.Res.Sys.inDis.Mng.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Abdullah Can Zülfikar",
-  "buildings": [
-   "AYB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "12:30/15:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

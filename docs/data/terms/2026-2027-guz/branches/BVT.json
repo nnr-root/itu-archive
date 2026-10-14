@@ -54,33 +54,6 @@
   "classReq": "-"
  },
  {
-  "crn": "14939",
-  "code": "BVT 504E",
-  "branch": "BVT",
-  "level": "LU",
-  "name": "Scientific Revolution",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hasan Karataş",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "11:30/14:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 10,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "14940",
   "code": "BVT 512",
   "branch": "BVT",

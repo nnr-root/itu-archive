@@ -4542,7 +4542,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -4569,7 +4569,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 41,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6001,7 +6001,7 @@
    "--"
   ],
   "capacity": 75,
-  "enrolled": 76,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "ARC_LS",

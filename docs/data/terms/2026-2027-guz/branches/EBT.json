@@ -189,33 +189,6 @@
   "classReq": "-"
  },
  {
-  "crn": "14009",
-  "code": "EBT 601E",
-  "branch": "EBT",
-  "level": "LU",
-  "name": "Multi-Phase Flows",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ahmet Durmayaz",
-  "buildings": [
-   "ENB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "14011",
   "code": "EBT 503E",
   "branch": "EBT",
@@ -405,33 +378,6 @@
   "classReq": "-"
  },
  {
-  "crn": "14045",
-  "code": "EBT 546",
-  "branch": "EBT",
-  "level": "LU",
-  "name": "Enerji Bilim&Teknol.Özel Konu.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Anıl Erdoğan",
-  "buildings": [
-   "ENB"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "14046",
   "code": "EBT 525E",
   "branch": "EBT",
@@ -513,33 +459,6 @@
   "classReq": "-"
  },
  {
-  "crn": "14051",
-  "code": "EBT 607E",
-  "branch": "EBT",
-  "level": "LU",
-  "name": "Plasma Physics&Fusion Applica.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Nilgün Baydoğan",
-  "buildings": [
-   "ENB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 15,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "14053",
   "code": "EBT 516E",
   "branch": "EBT",
@@ -561,33 +480,6 @@
   ],
   "capacity": 20,
   "enrolled": 7,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "14056",
-  "code": "EBT 627",
-  "branch": "EBT",
-  "level": "LU",
-  "name": "Radyoaktif İzleme Teknikleri",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Nesrin Altınsoy",
-  "buildings": [
-   "ENB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 10,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -696,33 +588,6 @@
   ],
   "capacity": 20,
   "enrolled": 4,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "14066",
-  "code": "EBT 567",
-  "branch": "EBT",
-  "level": "LU",
-  "name": "Elektromanyetik Enerji Hasatlama",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Bilal Tütüncü",
-  "buildings": [
-   "ENB"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 10,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -858,33 +723,6 @@
   ],
   "capacity": 20,
   "enrolled": 8,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "14073",
-  "code": "EBT 546E",
-  "branch": "EBT",
-  "level": "LU",
-  "name": "Speci.Topics in Energ.Sci&Tec.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Erol Kam",
-  "buildings": [
-   "ENB"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

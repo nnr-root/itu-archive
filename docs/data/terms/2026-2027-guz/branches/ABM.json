@@ -1,32 +1,5 @@
 [
  {
-  "crn": "12269",
-  "code": "ABM 604E",
-  "branch": "ABM",
-  "level": "LU",
-  "name": "Hydro-Meteorological Disasters: Floods and Droughts",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ömer Ekmekcioğlu",
-  "buildings": [
-   "AYB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12271",
   "code": "ABM 607",
   "branch": "ABM",
@@ -96,54 +69,6 @@
   "rooms": [],
   "capacity": 200,
   "enrolled": 4,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "12276",
-  "code": "ABM DRT",
-  "branch": "ABM",
-  "level": "LU",
-  "name": "Tez Çalışması",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ömer Ekmekcioğlu",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 200,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "14987",
-  "code": "ABM 608E",
-  "branch": "ABM",
-  "level": "LU",
-  "name": "Mitigation in Nature-Induced Disasters: Engineering Approaches",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Abdullah Can Zülfikar",
-  "buildings": [
-   "AYB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "11:30/14:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

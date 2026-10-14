@@ -1,20 +1,4 @@
 {
- "CBM 501": {
-  "code": "CBM 501",
-  "name": "Fizikokimyasal Proses.&Arıtma",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Nuray Işık Kabdaşlı",
-    30,
-    0,
-    "Pazartesi"
-   ]
-  ]
- },
  "CBM 501E": {
   "code": "CBM 501E",
   "name": "Physicoch. Proc. and Treatment",
@@ -44,22 +28,6 @@
     30,
     18,
     "Perşembe"
-   ]
-  ]
- },
- "CBM 514": {
-  "code": "CBM 514",
-  "name": "Çevre Sis.Koku ve Emisyon Kont",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Kadir Alp",
-    30,
-    0,
-    "Pazartesi"
    ]
   ]
  },
@@ -108,38 +76,6 @@
     30,
     22,
     "Salı"
-   ]
-  ]
- },
- "CBM 539": {
-  "code": "CBM 539",
-  "name": "Hava Kirlenmesi",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Sadullah Levent Kuzu , Burçak Kaynak Tezel",
-    30,
-    0,
-    "Cuma"
-   ]
-  ]
- },
- "CBM 542E": {
-  "code": "CBM 542E",
-  "name": "Eutrophication",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Melike Gürel",
-    30,
-    0,
-    "Perşembe"
    ]
   ]
  },
@@ -234,7 +170,7 @@
     "2026-2027-guz",
     "Sadullah Levent Kuzu",
     30,
-    23,
+    24,
     "Çarşamba"
    ]
   ]
@@ -284,22 +220,6 @@
     30,
     3,
     "Cuma"
-   ]
-  ]
- },
- "CBM 627": {
-  "code": "CBM 627",
-  "name": "Evsel ve Endüstriyel Atıksuların Kimyasal Arıtımı",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Nuray Işık Kabdaşlı",
-    30,
-    0,
-    "Çarşamba"
    ]
   ]
  },
