@@ -706,8 +706,8 @@
    "Z-22"
   ],
   "capacity": 37,
-  "enrolled": 36,
-  "reserved": "BLG_BG_DR/2/1 | BLG_BG_YL/32/32 | Diğer/3/3",
+  "enrolled": 35,
+  "reserved": "BLG_BG_DR/2/1 | BLG_BG_YL/32/31 | Diğer/3/3",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -1077,7 +1077,7 @@
    "Z-18"
   ],
   "capacity": 90,
-  "enrolled": 106,
+  "enrolled": 107,
   "reserved": "-",
   "programs": [
    "BLG_LS",
