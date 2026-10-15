@@ -1864,7 +1864,7 @@
    "A11"
   ],
   "capacity": 150,
-  "enrolled": 150,
+  "enrolled": 149,
   "reserved": "-",
   "programs": [
    "ARC_LS",
@@ -2017,7 +2017,7 @@
    "D202"
   ],
   "capacity": 85,
-  "enrolled": 86,
+  "enrolled": 85,
   "reserved": "-",
   "programs": [
    "BIOE_LS",
@@ -3306,7 +3306,7 @@
    "ZA1"
   ],
   "capacity": 70,
-  "enrolled": 60,
+  "enrolled": 59,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -3336,7 +3336,7 @@
    "2D18"
   ],
   "capacity": 70,
-  "enrolled": 61,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [
    "IBM_LS",
@@ -3400,7 +3400,7 @@
    "1D5"
   ],
   "capacity": 45,
-  "enrolled": 45,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -3924,7 +3924,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 10,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
