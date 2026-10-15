@@ -459,33 +459,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12514",
-  "code": "MYE 544E",
-  "branch": "MYE",
-  "level": "LU",
-  "name": "Independent Study 2",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Eray Altınbüken",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "11:30/14:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 40,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12515",
   "code": "MYE 544E",
   "branch": "MYE",
