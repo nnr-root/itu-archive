@@ -439,7 +439,7 @@
    "A201"
   ],
   "capacity": 65,
-  "enrolled": 65,
+  "enrolled": 66,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -872,7 +872,7 @@
    "A501"
   ],
   "capacity": 20,
-  "enrolled": 2,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -1003,7 +1003,7 @@
    "D361A"
   ],
   "capacity": 40,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -1159,7 +1159,7 @@
    "D359"
   ],
   "capacity": 60,
-  "enrolled": 31,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -1219,7 +1219,7 @@
    "D331"
   ],
   "capacity": 60,
-  "enrolled": 53,
+  "enrolled": 55,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -1248,7 +1248,7 @@
    "D361A"
   ],
   "capacity": 40,
-  "enrolled": 38,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -1278,7 +1278,7 @@
    "D353"
   ],
   "capacity": 70,
-  "enrolled": 62,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -1395,7 +1395,7 @@
    "D360"
   ],
   "capacity": 60,
-  "enrolled": 50,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -1542,7 +1542,7 @@
    "A201"
   ],
   "capacity": 70,
-  "enrolled": 62,
+  "enrolled": 63,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -1633,7 +1633,7 @@
    "R354"
   ],
   "capacity": 80,
-  "enrolled": 82,
+  "enrolled": 81,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -1699,7 +1699,7 @@
    "A363"
   ],
   "capacity": 130,
-  "enrolled": 134,
+  "enrolled": 135,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -1765,7 +1765,7 @@
    "A363"
   ],
   "capacity": 120,
-  "enrolled": 108,
+  "enrolled": 107,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -1799,7 +1799,7 @@
    "D317"
   ],
   "capacity": 70,
-  "enrolled": 49,
+  "enrolled": 52,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -1921,7 +1921,7 @@
    "D351"
   ],
   "capacity": 50,
-  "enrolled": 46,
+  "enrolled": 48,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -1955,7 +1955,7 @@
    "D317"
   ],
   "capacity": 70,
-  "enrolled": 64,
+  "enrolled": 68,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -1985,7 +1985,7 @@
    "D361B"
   ],
   "capacity": 10,
-  "enrolled": 11,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -2099,7 +2099,7 @@
    "A201"
   ],
   "capacity": 70,
-  "enrolled": 67,
+  "enrolled": 70,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -2135,7 +2135,7 @@
    "R358"
   ],
   "capacity": 40,
-  "enrolled": 24,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -2170,7 +2170,7 @@
    "A363"
   ],
   "capacity": 50,
-  "enrolled": 41,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -2199,7 +2199,7 @@
    "D357"
   ],
   "capacity": 50,
-  "enrolled": 50,
+  "enrolled": 54,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -2304,7 +2304,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 157,
+  "enrolled": 158,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -2352,7 +2352,7 @@
   ],
   "rooms": [],
   "capacity": 120,
-  "enrolled": 95,
+  "enrolled": 97,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -2382,7 +2382,7 @@
    "D351"
   ],
   "capacity": 80,
-  "enrolled": 49,
+  "enrolled": 52,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -2405,7 +2405,7 @@
   ],
   "rooms": [],
   "capacity": 120,
-  "enrolled": 84,
+  "enrolled": 88,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -2531,7 +2531,7 @@
    "D381A"
   ],
   "capacity": 40,
-  "enrolled": 15,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -2562,7 +2562,7 @@
    "D361A"
   ],
   "capacity": 40,
-  "enrolled": 29,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -2625,7 +2625,7 @@
    "D355"
   ],
   "capacity": 40,
-  "enrolled": 40,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -2720,7 +2720,7 @@
    "D360"
   ],
   "capacity": 40,
-  "enrolled": 19,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -2813,7 +2813,7 @@
    "D357"
   ],
   "capacity": 40,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -2843,7 +2843,7 @@
    "D381B"
   ],
   "capacity": 40,
-  "enrolled": 14,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -2998,7 +2998,7 @@
    "D357"
   ],
   "capacity": 40,
-  "enrolled": 44,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -3028,7 +3028,7 @@
    "D351"
   ],
   "capacity": 40,
-  "enrolled": 55,
+  "enrolled": 58,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -3090,7 +3090,7 @@
    "D361B"
   ],
   "capacity": 40,
-  "enrolled": 40,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -3119,7 +3119,7 @@
    "D361A"
   ],
   "capacity": 40,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -3488,7 +3488,7 @@
    "D381B"
   ],
   "capacity": 40,
-  "enrolled": 31,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -3695,7 +3695,7 @@
    "D374"
   ],
   "capacity": 15,
-  "enrolled": 2,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "MSS_LS"
@@ -3861,7 +3861,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 14,
+  "enrolled": 13,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -3991,7 +3991,7 @@
   ],
   "rooms": [],
   "capacity": 0,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -4016,7 +4016,7 @@
   ],
   "rooms": [],
   "capacity": 5,
-  "enrolled": 0,
+  "enrolled": 5,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -4039,7 +4039,7 @@
   ],
   "rooms": [],
   "capacity": 5,
-  "enrolled": 0,
+  "enrolled": 1,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -4062,7 +4062,7 @@
   ],
   "rooms": [],
   "capacity": 5,
-  "enrolled": 0,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [
    "IML_LS",

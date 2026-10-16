@@ -236,7 +236,7 @@
    "5301"
   ],
   "capacity": 45,
-  "enrolled": 41,
+  "enrolled": 42,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -831,7 +831,7 @@
    "5305"
   ],
   "capacity": 50,
-  "enrolled": 50,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -957,7 +957,7 @@
    "2106"
   ],
   "capacity": 50,
-  "enrolled": 50,
+  "enrolled": 51,
   "reserved": "-",
   "programs": [
    "EHB_LS",
@@ -1026,7 +1026,7 @@
    "5101"
   ],
   "capacity": 65,
-  "enrolled": 64,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1186,7 +1186,7 @@
    "2102"
   ],
   "capacity": 65,
-  "enrolled": 85,
+  "enrolled": 87,
   "reserved": "-",
   "programs": [
    "EEE_LS",
@@ -1725,7 +1725,7 @@
    "5307"
   ],
   "capacity": 16,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -1809,7 +1809,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 84,
+  "enrolled": 82,
   "reserved": "-",
   "programs": [
    "ELK_LS"
@@ -1832,7 +1832,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 45,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "ELK_LS",
@@ -2505,7 +2505,7 @@
   ],
   "rooms": [],
   "capacity": 0,
-  "enrolled": 1,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -2630,32 +2630,8 @@
    "-/-"
   ],
   "rooms": [],
-  "capacity": 5,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [
-   "IML_LS",
-   "MAK_LS"
-  ],
-  "prereq": "Detay",
-  "classReq": "-"
- },
- {
-  "crn": "16052",
-  "code": "ELK 226",
-  "branch": "ELK",
-  "level": "LS",
-  "name": "Elektrik-Elektronik Müh. Tem.",
-  "method": "Ek Sınav",
-  "instructor": "Murat İmeryüz",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
   "capacity": 0,
-  "enrolled": 0,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [],
   "prereq": "Detay",

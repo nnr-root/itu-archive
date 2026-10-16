@@ -566,8 +566,8 @@
    "Z-22"
   ],
   "capacity": 50,
-  "enrolled": 42,
-  "reserved": "BLG_BG_DR/2/2 | BLG_BG_YL/43/36 | Diğer/5/4",
+  "enrolled": 43,
+  "reserved": "BLG_BG_DR/2/2 | BLG_BG_YL/43/36 | Diğer/5/5",
   "programs": [
    "BLG_BG_DR",
    "BLG_BG_YL"
@@ -1015,7 +1015,7 @@
    "Z-20"
   ],
   "capacity": 80,
-  "enrolled": 79,
+  "enrolled": 78,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1077,7 +1077,7 @@
    "Z-18"
   ],
   "capacity": 90,
-  "enrolled": 108,
+  "enrolled": 109,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1172,7 +1172,7 @@
    "--"
   ],
   "capacity": 60,
-  "enrolled": 62,
+  "enrolled": 61,
   "reserved": "-",
   "programs": [
    "BLG_LS",
@@ -1428,8 +1428,8 @@
    "Z-17"
   ],
   "capacity": 115,
-  "enrolled": 116,
-  "reserved": "CEN_LS/8/16 | Diğer/107/100",
+  "enrolled": 117,
+  "reserved": "CEN_LS/8/16 | Diğer/107/101",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -1491,7 +1491,7 @@
   ],
   "capacity": 90,
   "enrolled": 87,
-  "reserved": "YZVE_LS/20/24 | EHB_LS/5/1 | EHBE_LS/5/3 | CEN_LS/8/12 | Diğer/52/47",
+  "reserved": "YZVE_LS/20/25 | EHB_LS/5/1 | EHBE_LS/5/3 | CEN_LS/8/11 | Diğer/52/47",
   "programs": [
    "BLG_LS",
    "BLGE_LS",
@@ -2131,7 +2131,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -2185,7 +2185,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 11,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -2212,7 +2212,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 3,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -2347,7 +2347,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 8,
+  "enrolled": 9,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -2401,7 +2401,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 2,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -2484,7 +2484,7 @@
    "--"
   ],
   "capacity": 70,
-  "enrolled": 4,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [
    "BLG_LS",
