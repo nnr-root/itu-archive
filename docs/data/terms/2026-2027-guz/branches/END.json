@@ -1923,5 +1923,26 @@
   "programs": [],
   "prereq": "Detay",
   "classReq": "-"
+ },
+ {
+  "crn": "16075",
+  "code": "END 364",
+  "branch": "END",
+  "level": "LS",
+  "name": "İş Psikolojisi",
+  "method": "Ek Sınav",
+  "instructor": "Salim Atay",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
  }
 ]
