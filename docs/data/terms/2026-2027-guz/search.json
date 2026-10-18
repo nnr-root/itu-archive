@@ -401,7 +401,7 @@
   "Abdullah Esen",
   "Cuma 08:30/10:29",
   75,
-  77,
+  78,
   "LS",
   "Sanal (Çevrimiçi/Online)",
   [
@@ -41582,7 +41582,7 @@
   "Mehmet Cem Güçlü",
   "Salı 09:30/11:29",
   25,
-  24,
+  25,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -73112,45 +73112,6 @@
   []
  ],
  [
-  "11912",
-  "SRM 501E",
-  "Manuf.Proc.in Ceramic Material",
-  "SRM",
-  "Filiz Şahin",
-  "Pazartesi 13:30/16:29",
-  15,
-  14,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "11913",
-  "SRM 596",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "SRM",
-  "Demet Aydoğmuş",
-  "Çarşamba 15:30/17:29",
-  10,
-  2,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "11914",
-  "SRM 514E",
-  "Dielectrics and Electroceramics",
-  "SRM",
-  "Filiz Şahin , Sedat Alkoy",
-  "Perşembe 13:00/15:59",
-  10,
-  5,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "11915",
   "MKM 503E",
   "Mechatronic System Components",
@@ -75670,19 +75631,6 @@
    "ECNE_LS",
    "VBAE_LS"
   ]
- ],
- [
-  "12127",
-  "RBT 596",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "RBT",
-  "Recep Bıyık",
-  "Cuma 14:00/15:59",
-  10,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
  ],
  [
   "12128",
@@ -83099,97 +83047,6 @@
   ]
  ],
  [
-  "12657",
-  "TEK 509",
-  "Tekstil Mak. Tasar.&İmalat Es.",
-  "TEK",
-  "Ali Demir",
-  "Cuma 14:00/16:59",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12658",
-  "TEK 511",
-  "Teknik Tekstiller",
-  "TEK",
-  "Ali Kılıç , Özlem İpek Kalaoğlu Altan",
-  "Salı 09:30/12:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12660",
-  "TEK 531",
-  "Tekstil Malzeme.Güç Tutuşurluk",
-  "TEK",
-  "Berdan Kalav",
-  "Salı 09:30/12:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12661",
-  "TEK 543",
-  "Mühendis.İleri Araş.Yöntem.",
-  "TEK",
-  "Emel Önder Karaoğlu",
-  "Perşembe 09:30/12:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12662",
-  "TEK 611",
-  "Çözgülü Örme Kumaş Geometrisi",
-  "TEK",
-  "Cevza Candan",
-  "Pazartesi 13:30/16:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12664",
-  "TEK 613",
-  "Mühendislikte İstatistik Met.",
-  "TEK",
-  "Emel Önder Karaoğlu",
-  "Salı 13:30/16:29",
-  15,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12665",
-  "TEK 501E",
-  "Textile Quality",
-  "TEK",
-  "Hale Karakaş",
-  "Çarşamba 12:30/15:29",
-  30,
-  12,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "12666",
   "TES 111E",
   "Project I",
@@ -83204,32 +83061,6 @@
    "PEM_LS",
    "PEME_LS"
   ]
- ],
- [
-  "12667",
-  "TEK 503E",
-  "Textile Printing",
-  "TEK",
-  "Berdan Kalav",
-  "Cuma 09:30/12:29",
-  30,
-  6,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12668",
-  "TEK 507E",
-  "Yarn Geometry",
-  "TEK",
-  "Nazan Okur",
-  "Salı 09:30/12:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
  ],
  [
   "12669",
@@ -83248,19 +83079,6 @@
   ]
  ],
  [
-  "12670",
-  "TEK 529E",
-  "Speci.Stru&Proce.in theText.In",
-  "TEK",
-  "Ömer Berk Berkalp",
-  "Pazartesi 09:30/12:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "12671",
   "TES 111E",
   "Project I",
@@ -83275,32 +83093,6 @@
    "PEM_LS",
    "PEME_LS"
   ]
- ],
- [
-  "12672",
-  "TEK 533E",
-  "Smart Materials in Textile",
-  "TEK",
-  "Emel Önder Karaoğlu",
-  "Salı 09:30/12:29",
-  30,
-  4,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12673",
-  "TEK 535E",
-  "Market.&Cons.Beha.in App.Ind.",
-  "TEK",
-  "Canan Sarıçam , Nazan Okur",
-  "Cuma 09:30/12:29",
-  30,
-  7,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
  ],
  [
   "12674",
@@ -83355,19 +83147,6 @@
   ]
  ],
  [
-  "12676",
-  "TEK 539E",
-  "E-Textiles&Werable Compu.Sys.",
-  "TEK",
-  "Umut Kıvanç Şahin , Özgür Atalay",
-  "Pazartesi 09:30/12:29",
-  30,
-  6,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "12677",
   "TES 113E",
   "Basic Design and Visual Arts",
@@ -83396,19 +83175,6 @@
   ]
  ],
  [
-  "12678",
-  "TEK 541E",
-  "Sustai.&Life Cyc. Asse.in Tex.",
-  "TEK",
-  "Hale Karakaş",
-  "Pazartesi 09:30/12:29",
-  30,
-  2,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "12679",
   "PEM 119E",
   "Int.Landscape Architec.&Ethics",
@@ -83423,58 +83189,6 @@
    "PEM_LS",
    "PEME_LS"
   ]
- ],
- [
-  "12680",
-  "TEK 545E",
-  "Ecofriendly Text.Dyeing&Finis.",
-  "TEK",
-  "Umut Kıvanç Şahin",
-  "Salı 13:30/16:29",
-  30,
-  6,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12681",
-  "TEK 596E",
-  "Scien.Rese., Ethic&Seminar",
-  "TEK",
-  "Yeşim Beceren",
-  "Perşembe 09:30/11:29",
-  30,
-  5,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12682",
-  "TEK 603E",
-  "Science of Clothing Comfort",
-  "TEK",
-  "Hasabelrasol Abdelbagi Mohamed Ahmed",
-  "Salı 13:30/16:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12683",
-  "TEK 615E",
-  "Special Topics in Textile Eng.",
-  "TEK",
-  "Hasabelrasol Abdelbagi Mohamed Ahmed",
-  "Çarşamba 09:30/12:29",
-  15,
-  1,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
  ],
  [
   "12684",
@@ -86528,45 +86242,6 @@
   ]
  ],
  [
-  "12998",
-  "STR 503E",
-  "Historiography",
-  "STR",
-  "Aslıhan Erkmen Birkandan",
-  "Perşembe 11:30/14:29",
-  15,
-  8,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12999",
-  "STR 502E",
-  "Philosophy of Art&Aesthetics",
-  "STR",
-  "Geoff Bove",
-  "Perşembe 14:30/17:29",
-  10,
-  7,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13000",
-  "STR 504",
-  "Sanat Tarihinde Araş.Yönt.",
-  "STR",
-  "Zeynep Kuban Tokgöz",
-  "Salı 09:30/12:29",
-  20,
-  6,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13001",
   "KON 4902",
   "Kontrol&Otom. Müh.Tasarımı II",
@@ -86581,32 +86256,6 @@
    "KOM_LS",
    "KOME_LS"
   ]
- ],
- [
-  "13002",
-  "STR 516",
-  "Cumh.Dön.Türkiyesi Görsel Snt.",
-  "STR",
-  "Deniz Çalışır Pençe",
-  "Pazartesi 13:30/16:29",
-  15,
-  1,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13003",
-  "STR 520E",
-  "Far Eastern Arts",
-  "STR",
-  "Mıyukı Aokı Gırardellı",
-  "Salı 12:30/15:29",
-  20,
-  4,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
  ],
  [
   "13004",
@@ -86625,45 +86274,6 @@
    "ROS_LS",
    "ROSE_LS"
   ]
- ],
- [
-  "13005",
-  "STR 525",
-  "Sanat Tarihi ve Kültür",
-  "STR",
-  "Aslıhan Erkmen Birkandan",
-  "Perşembe 08:30/11:29",
-  20,
-  4,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13006",
-  "STR 596",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "STR",
-  "Aslıhan Erkmen Birkandan",
-  "Çarşamba 12:30/14:29",
-  10,
-  3,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13007",
-  "STR 617E",
-  "Archeology of Istanbul",
-  "STR",
-  "Zeynep Kuban Tokgöz",
-  "Çarşamba 09:30/12:29",
-  15,
-  11,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
  ],
  [
   "13009",
@@ -88371,253 +87981,6 @@
    "UZBE_LS",
    "YZVE_LS"
   ]
- ],
- [
-  "13123",
-  "SBP 611",
-  "Konut Alanı Yerseçim Modelleri",
-  "SBP",
-  "Funda Yirmibeşoğlu",
-  "Perşembe 13:30/16:29",
-  15,
-  1,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13124",
-  "SBP 625",
-  "Şehir ve Bölge Plan.Öz.Kon.",
-  "SBP",
-  "Yasin Bektaş",
-  "Salı 09:30/12:29",
-  15,
-  7,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13125",
-  "SBP 603",
-  "Şehirsel Büyüme",
-  "SBP",
-  "Ebru Kerimoğlu",
-  "Salı 09:30/12:29",
-  15,
-  1,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13126",
-  "SBP 609E",
-  "Advanced Planning Techniques",
-  "SBP",
-  "Hasan Serdar Kaya",
-  "Pazartesi 09:30/12:29",
-  15,
-  1,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13128",
-  "SBP 606E",
-  "Culture and Urban Space",
-  "SBP",
-  "Eda Yücesoy",
-  "Çarşamba 09:30/12:29",
-  15,
-  15,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13129",
-  "SBP 613E",
-  "Urban Systems",
-  "SBP",
-  "Tüzin Baycan",
-  "Salı 13:30/16:29",
-  15,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13130",
-  "SBP 635E",
-  "Research Design and Validity",
-  "SBP",
-  "İmge Akçakaya Waıte Jr",
-  "Salı 09:30/12:29",
-  15,
-  7,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13131",
-  "SBP 604E",
-  "Development Planning",
-  "SBP",
-  "Emine Ferhan Gezici Korten",
-  "Perşembe 13:30/16:29",
-  15,
-  2,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13132",
-  "SBP 636",
-  "Optimizas.&Mekân.Plan.Uyg.",
-  "SBP",
-  "Mehmet Küçükmehmetoğlu",
-  "Pazartesi 09:30/12:29",
-  15,
-  1,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13133",
-  "SBP 628",
-  "Yerel Eko.Geli.Polit.&Plan.",
-  "SBP",
-  "Elif Alkay",
-  "Salı 09:30/12:29",
-  15,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13134",
-  "SBP DRT",
-  "Tez Çalışması",
-  "SBP",
-  "Fatih Terzi",
-  "",
-  200,
-  75,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13135",
-  "SBP YET",
-  "Yeterlik Aşaması",
-  "SBP",
-  "Fatih Terzi",
-  "",
-  200,
-  10,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13136",
-  "SPL 502E",
-  "Advanced GIS in Urban Planning",
-  "SPL",
-  "Fatih Terzi",
-  "Cuma 09:30/12:29",
-  15,
-  11,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13137",
-  "SPL 503E",
-  "Urban Planning Project I",
-  "SPL",
-  "Zeynep Günay , Eda Yücesoy",
-  "Perşembe 13:30/16:29",
-  30,
-  28,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13138",
-  "SPL 506E",
-  "Applied Statistics",
-  "SPL",
-  "Turgay Kerem Koramaz",
-  "Salı 09:30/12:29",
-  25,
-  23,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13139",
-  "SPL 504",
-  "Konut Politikası",
-  "SPL",
-  "Elif Alkay",
-  "Çarşamba 13:30/16:29",
-  15,
-  1,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13140",
-  "SPL 507",
-  "Şehirlerin Yeniden Yapılanması",
-  "SPL",
-  "Zeynep Günay",
-  "Pazartesi 13:30/16:29",
-  15,
-  15,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13141",
-  "SPL 511E",
-  "Planning Theory and Policy",
-  "SPL",
-  "Başak Demireş Özkul",
-  "Cuma 09:30/12:29",
-  30,
-  28,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13142",
-  "SPL 596E",
-  "Scien.Rese., Ethic&Seminar",
-  "SPL",
-  "Rumeysa Ceylan Çalışkan",
-  "Perşembe 10:30/12:29",
-  15,
-  8,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
  ],
  [
   "13145",
@@ -91243,123 +90606,6 @@
   ]
  ],
  [
-  "13385",
-  "STD 631E",
-  "The Politics of Emotions",
-  "STD",
-  "Gürcan Koçan",
-  "Salı 09:30/12:29",
-  20,
-  4,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13387",
-  "STD YET",
-  "Yeterlik Aşaması",
-  "STD",
-  "Giovanni Filippo Mion",
-  "",
-  200,
-  2,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13388",
-  "STD DRT",
-  "Thesis",
-  "STD",
-  "Giovanni Filippo Mion",
-  "",
-  200,
-  5,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13389",
-  "SYC 503E",
-  "Formation of the Modern State",
-  "SYC",
-  "Elvan Gülöksüz",
-  "Pazartesi 09:30/12:29",
-  20,
-  10,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13390",
-  "SYC 502E",
-  "Globalizat.&Internat.Relations",
-  "SYC",
-  "Emine Aslı Çalkıvik",
-  "Pazartesi 13:30/16:29",
-  20,
-  11,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13391",
-  "SYC 510E",
-  "Political Thought in Modern Turkey",
-  "SYC",
-  "Umut Uzer",
-  "Salı 14:30/17:29",
-  20,
-  12,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13392",
-  "SYC 596E",
-  "Scientific Research., Ethics and Seminar",
-  "SYC",
-  "Görkem Giray",
-  "Çarşamba 10:30/12:29",
-  20,
-  4,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13393",
-  "SYC 506E",
-  "Political Geography",
-  "SYC",
-  "Elvan Gülöksüz",
-  "Perşembe 09:30/12:29",
-  20,
-  10,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13395",
-  "SYC YLT",
-  "Thesis",
-  "SYC",
-  "Umut Uzer",
-  "",
-  200,
-  6,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13396",
   "DCZ 523",
   "Denizcilik Sektörü ve Sürdürülebilir Kalkınma Politikaları",
@@ -93016,19 +92262,6 @@
   []
  ],
  [
-  "13539",
-  "SRM YLT",
-  "Tez Çalışması",
-  "SRM",
-  "Filiz Şahin",
-  "",
-  200,
-  4,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13540",
   "UMT YLT",
   "Tez Çalışması",
@@ -93241,58 +92474,6 @@
    "MIM_LS",
    "MIME_LS"
   ]
- ],
- [
-  "13558",
-  "TEK 513",
-  "Tekstil End. Renk Ölçümü",
-  "TEK",
-  "Nevin Çiğdem Gürsoy , Pelin Altay",
-  "Cuma 09:30/12:29",
-  30,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13559",
-  "TEK YLT",
-  "Tez Çalışması",
-  "TEK",
-  "Nazan Okur",
-  "",
-  200,
-  11,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13560",
-  "TEK DRT",
-  "Tez Çalışması",
-  "TEK",
-  "Nazan Okur",
-  "",
-  200,
-  15,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13561",
-  "TEK YET",
-  "Yeterlik Aşaması",
-  "TEK",
-  "Nazan Okur",
-  "",
-  200,
-  1,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
  ],
  [
   "13562",
@@ -94526,45 +93707,6 @@
   ]
  ],
  [
-  "13651",
-  "STR YLT",
-  "Tez Çalışması",
-  "STR",
-  "Aslıhan Erkmen Birkandan",
-  "",
-  200,
-  2,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13652",
-  "STR DRT",
-  "Tez Çalışması",
-  "STR",
-  "Aslıhan Erkmen Birkandan",
-  "",
-  200,
-  9,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13653",
-  "STR YET",
-  "Yeterlik Aşaması",
-  "STR",
-  "Aslıhan Erkmen Birkandan",
-  "",
-  200,
-  2,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13654",
   "MIM 209",
   "Mimarlık Tarihi I",
@@ -94694,19 +93836,6 @@
   [
    "MIM_LS"
   ]
- ],
- [
-  "13663",
-  "SPL YLT",
-  "Tez Çalışması",
-  "SPL",
-  "Turgay Kerem Koramaz",
-  "",
-  200,
-  15,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
  ],
  [
   "13664",
@@ -96702,45 +95831,6 @@
   ]
  ],
  [
-  "13810",
-  "SUS 503E",
-  "Sustainability Develop.Funda.",
-  "SUS",
-  "Ebru Acuner Türet , Kadriye Elif Maçin",
-  "Çarşamba 09:30/12:29",
-  20,
-  20,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13811",
-  "SUS 509E",
-  "Philosophy of Scie.for Susta.",
-  "SUS",
-  "Burak Barutçu",
-  "Perşembe 13:30/16:29",
-  26,
-  26,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13812",
-  "SUS YLT",
-  "Thesis",
-  "SUS",
-  "Ebru Acuner Türet",
-  "",
-  100,
-  53,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13813",
   "EBT 543E",
   "Energy&Natural Resources Law",
@@ -96953,162 +96043,6 @@
   "",
   500,
   23,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13832",
-  "RST 523E",
-  "Deter.&Cons.of Trad.Buil.Mate.",
-  "RST",
-  "Işıl Polat Pekmezci",
-  "Pazartesi 09:30/12:29",
-  10,
-  10,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13833",
-  "RST 513",
-  "Koruma Teknik ve Yöntemleri",
-  "RST",
-  "Umut Almaç",
-  "Pazartesi 13:30/16:29",
-  12,
-  7,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13834",
-  "RST 607",
-  "Anıtlarda Yeniden Yapım Sorunl",
-  "RST",
-  "Yegan Kahya Sayar",
-  "Pazartesi 13:30/16:29",
-  10,
-  3,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13835",
-  "RST 501",
-  "Koruma Projesi I",
-  "RST",
-  "Yegan Kahya Sayar , Zeynep Eres Özdoğan , Işıl Polat Pekmezci , Umut Almaç , Ömer Dabanlı , Lana Kudumoviç , Sakine Yıldız Salman , Mustafa Tahir Ocak",
-  "Salı 13:30/16:29",
-  10,
-  7,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13836",
-  "RST 509",
-  "Koruma Kuramı",
-  "RST",
-  "Yegan Kahya Sayar , Zeynep Eres Özdoğan",
-  "Çarşamba 09:30/12:29",
-  10,
-  7,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13837",
-  "RST 521E",
-  "Advanced Methods in Arch.Sur.",
-  "RST",
-  "Umut Almaç , Mustafa Tahir Ocak",
-  "Çarşamba 13:30/16:29",
-  12,
-  8,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13838",
-  "RST 596",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "RST",
-  "Zeynep Eres Özdoğan",
-  "Çarşamba 13:30/15:29",
-  15,
-  8,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13840",
-  "RST 609E",
-  "Conser.of Modern Achite.Herit.",
-  "RST",
-  "Sakine Yıldız Salman",
-  "Perşembe 09:30/12:29",
-  10,
-  3,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13841",
-  "RST 616",
-  "Kültürel Miras Yönetimi",
-  "RST",
-  "Zeynep Eres Özdoğan",
-  "Perşembe 13:30/16:29",
-  10,
-  6,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13842",
-  "RST DRT",
-  "Tez Çalışması",
-  "RST",
-  "Zeynep Eres Özdoğan",
-  "",
-  200,
-  28,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13843",
-  "RST YLT",
-  "Tez Çalışması",
-  "RST",
-  "Zeynep Eres Özdoğan",
-  "",
-  200,
-  20,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13844",
-  "RST YET",
-  "Yeterlik Aşaması",
-  "RST",
-  "Zeynep Eres Özdoğan",
-  "",
-  200,
-  6,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -97943,7 +96877,7 @@
   "Ahmet Levent Subaşı",
   "",
   500,
-  20,
+  21,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -101655,58 +100589,6 @@
   ]
  ],
  [
-  "14187",
-  "STP 506",
-  "Savunma Teknolojilerinde Özel Konular",
-  "STP",
-  "Alptekin Yıldız",
-  "Salı 08:30/11:29",
-  20,
-  8,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "14189",
-  "STP 506",
-  "Savunma Teknolojilerinde Özel Konular",
-  "STP",
-  "İbrahim Özkol",
-  "Cuma 14:30/17:29",
-  20,
-  18,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "14190",
-  "STP 596",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "STP",
-  "Alptekin Yıldız",
-  "Çarşamba 09:30/11:29",
-  20,
-  18,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "14191",
-  "STP YLT",
-  "Tez Çalışması",
-  "STP",
-  "Ramazan Yeniçeri",
-  "",
-  200,
-  51,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "14193",
   "MIM 4038",
   "Konut Planlaması & Tasrm Sorn",
@@ -101725,32 +100607,6 @@
   ]
  ],
  [
-  "14194",
-  "STP 605E",
-  "Nanomat.&Nanoen.Adv.Com.St.",
-  "STP",
-  "-",
-  "Salı 14:30/17:29",
-  20,
-  1,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "14195",
-  "STP 606E",
-  "Embed.&Real-Time Avi.Sys.",
-  "STP",
-  "Ramazan Yeniçeri",
-  "Pazartesi 14:30/17:29",
-  20,
-  9,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "14196",
   "MIM 4040",
   "Programlama Mantığına Giriş",
@@ -101766,19 +100622,6 @@
   ]
  ],
  [
-  "14198",
-  "STP 609E",
-  "Advanced Topics in Defence Technologies",
-  "STP",
-  "Uğur Kokal",
-  "Cuma 08:30/11:29",
-  20,
-  9,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "14199",
   "MIM 4042",
   "Geç Osmanlı Mimarlığı",
@@ -101792,45 +100635,6 @@
   [
    "MIM_LS"
   ]
- ],
- [
-  "14201",
-  "STP 610E",
-  "Thermal Power Systems in Defence Technologies",
-  "STP",
-  "Ramazan Yeniçeri",
-  "Perşembe 08:30/11:29",
-  20,
-  2,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "14202",
-  "STP YET",
-  "Yeterlik Aşaması",
-  "STP",
-  "Ramazan Yeniçeri",
-  "",
-  200,
-  0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "14203",
-  "STP DRT",
-  "Tez Çalışması",
-  "STP",
-  "Ramazan Yeniçeri",
-  "",
-  200,
-  4,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
  ],
  [
   "14204",
@@ -109600,32 +108404,6 @@
   ]
  ],
  [
-  "14620",
-  "RSM 596",
-  "Bilimsel Araş.,Etik ve Seminer",
-  "RSM",
-  "Serhat Boynukalın",
-  "Çarşamba 09:30/11:29",
-  20,
-  8,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "14621",
-  "RSM 503",
-  "Raylı Sistemlerin Mühendisliği",
-  "RSM",
-  "Oğuz Tengilimoğlu , Serhat Boynukalın , Süreyya Ergün Bozdağ",
-  "Çarşamba 14:30/17:29",
-  20,
-  12,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "14622",
   "SEC 312E",
   "Applied Cryptography",
@@ -109656,19 +108434,6 @@
   ]
  ],
  [
-  "14626",
-  "RSM 507",
-  "Demiryolu Güvenliği",
-  "RSM",
-  "Abdülkadir Ünal",
-  "Salı 13:30/16:29",
-  20,
-  5,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "14627",
   "ISE 302",
   "Operating Systems",
@@ -109682,32 +108447,6 @@
   [
    "SBL_LS"
   ]
- ],
- [
-  "14628",
-  "RSM 508E",
-  "Plan.&Project Manag.Rail.Inve.",
-  "RSM",
-  "Berna Çalışkan",
-  "Cuma 09:30/12:29",
-  20,
-  8,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "14629",
-  "RSM 511E",
-  "Railway Signalling Systems",
-  "RSM",
-  "Mehmet Turan Söylemez , Serhat Boynukalın",
-  "Salı 09:30/12:29",
-  20,
-  5,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
  ],
  [
   "14630",
@@ -109738,19 +108477,6 @@
   [
    "SBL_LS"
   ]
- ],
- [
-  "14632",
-  "RSM YLT",
-  "Tez Çalışması",
-  "RSM",
-  "Oğuz Tengilimoğlu",
-  "",
-  20,
-  13,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
  ],
  [
   "14633",
@@ -113563,7 +112289,7 @@
   "Füsun Zengin",
   "Pazartesi 14:30/17:29 | Salı 08:30/11:29",
   35,
-  36,
+  37,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -114405,19 +113131,6 @@
   "Pazartesi 09:30/12:29",
   20,
   2,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "14912",
-  "STD 607E",
-  "Art and Politics",
-  "STD",
-  "Gürcan Koçan",
-  "Pazartesi 09:30/12:29",
-  20,
-  6,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -121217,7 +119930,7 @@
   "Çiğdem Özkan Aygün",
   "Perşembe 11:30/14:29",
   30,
-  32,
+  33,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -127890,19 +126603,6 @@
   "Perşembe 09:00/11:59",
   0,
   0,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "15734",
-  "RBT YLT",
-  "Tez Çalışması",
-  "RBT",
-  "İskender Atilla Reyhancan",
-  "",
-  200,
-  3,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
