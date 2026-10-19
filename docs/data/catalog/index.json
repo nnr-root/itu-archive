@@ -6,11 +6,11 @@
   },
   {
    "branch": "ABM",
-   "courses": 4
+   "courses": 2
   },
   {
    "branch": "AFY",
-   "courses": 12
+   "courses": 9
   },
   {
    "branch": "AKM",
@@ -26,7 +26,7 @@
   },
   {
    "branch": "ANT",
-   "courses": 3
+   "courses": 2
   },
   {
    "branch": "ARB",
@@ -82,11 +82,11 @@
   },
   {
    "branch": "BLU",
-   "courses": 14
+   "courses": 11
   },
   {
    "branch": "BPL",
-   "courses": 8
+   "courses": 4
   },
   {
    "branch": "BTK",
@@ -106,7 +106,7 @@
   },
   {
    "branch": "BVT",
-   "courses": 11
+   "courses": 10
   },
   {
    "branch": "BYM",
@@ -118,11 +118,11 @@
   },
   {
    "branch": "CBM",
-   "courses": 20
+   "courses": 15
   },
   {
    "branch": "CEN",
-   "courses": 24
+   "courses": 23
   },
   {
    "branch": "CEV",
@@ -134,7 +134,7 @@
   },
   {
    "branch": "CHZ",
-   "courses": 85
+   "courses": 83
   },
   {
    "branch": "CIE",
@@ -178,7 +178,7 @@
   },
   {
    "branch": "DEP",
-   "courses": 12
+   "courses": 10
   },
   {
    "branch": "DFH",
@@ -190,7 +190,7 @@
   },
   {
    "branch": "DTM",
-   "courses": 7
+   "courses": 6
   },
   {
    "branch": "DUI",
@@ -198,7 +198,7 @@
   },
   {
    "branch": "DUM",
-   "courses": 21
+   "courses": 18
   },
   {
    "branch": "DUY",
@@ -214,7 +214,7 @@
   },
   {
    "branch": "EBT",
-   "courses": 38
+   "courses": 31
   },
   {
    "branch": "ECN",
@@ -262,11 +262,11 @@
   },
   {
    "branch": "ENB",
-   "courses": 6
+   "courses": 3
   },
   {
    "branch": "END",
-   "courses": 140
+   "courses": 139
   },
   {
    "branch": "ENR",
@@ -306,7 +306,7 @@
   },
   {
    "branch": "GDP",
-   "courses": 8
+   "courses": 4
   },
   {
    "branch": "GED",
@@ -314,11 +314,11 @@
   },
   {
    "branch": "GEM",
-   "courses": 103
+   "courses": 102
   },
   {
    "branch": "GEO",
-   "courses": 167
+   "courses": 166
   },
   {
    "branch": "GGP",
@@ -326,7 +326,7 @@
   },
   {
    "branch": "GID",
-   "courses": 89
+   "courses": 88
   },
   {
    "branch": "GIT",
@@ -434,7 +434,7 @@
   },
   {
    "branch": "ISL",
-   "courses": 75
+   "courses": 74
   },
   {
    "branch": "ISP",
@@ -442,7 +442,7 @@
   },
   {
    "branch": "ISS",
-   "courses": 12
+   "courses": 10
   },
   {
    "branch": "ITA",
@@ -474,7 +474,7 @@
   },
   {
    "branch": "JEO",
-   "courses": 207
+   "courses": 192
   },
   {
    "branch": "JFM",
@@ -498,7 +498,7 @@
   },
   {
    "branch": "KMM",
-   "courses": 80
+   "courses": 79
   },
   {
    "branch": "KMP",
@@ -546,7 +546,7 @@
   },
   {
    "branch": "MAT",
-   "courses": 150
+   "courses": 149
   },
   {
    "branch": "MBA",
@@ -678,7 +678,7 @@
   },
   {
    "branch": "MTR",
-   "courses": 81
+   "courses": 80
   },
   {
    "branch": "MTS",
@@ -722,7 +722,7 @@
   },
   {
    "branch": "MZJ",
-   "courses": 14
+   "courses": 12
   },
   {
    "branch": "NAE",
@@ -738,7 +738,7 @@
   },
   {
    "branch": "NUK",
-   "courses": 14
+   "courses": 7
   },
   {
    "branch": "NUM",
@@ -838,7 +838,7 @@
   },
   {
    "branch": "SMK",
-   "courses": 3
+   "courses": 2
   },
   {
    "branch": "SNT",
@@ -886,7 +886,7 @@
   },
   {
    "branch": "SYC",
-   "courses": 6
+   "courses": 5
   },
   {
    "branch": "TDW",
@@ -898,7 +898,7 @@
   },
   {
    "branch": "TEK",
-   "courses": 93
+   "courses": 90
   },
   {
    "branch": "TEL",
@@ -922,7 +922,7 @@
   },
   {
    "branch": "TMK",
-   "courses": 9
+   "courses": 5
   },
   {
    "branch": "TUR",
@@ -966,11 +966,11 @@
   },
   {
    "branch": "VIA",
-   "courses": 9
+   "courses": 8
   },
   {
    "branch": "YAB",
-   "courses": 2
+   "courses": 1
   },
   {
    "branch": "YAN",
@@ -1009,7 +1009,7 @@
    "courses": 10
   }
  ],
- "generatedAt": "2026-10-12T13:35:49Z",
- "groups": 6282,
- "withContent": 7518
+ "generatedAt": "2026-10-19T11:14:34Z",
+ "groups": 6200,
+ "withContent": 7431
 }

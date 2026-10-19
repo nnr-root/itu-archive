@@ -4337,25 +4337,6 @@
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ISL&dersNo=435"
  },
- "ISL 437E": {
-  "code": "ISL 437E",
-  "name": "Mod.Cross sect. & Panel Data",
-  "nameEn": "Mod.Cross sect. & Panel Data",
-  "language": "English",
-  "credits": {
-   "theory": 3,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 5
-  },
-  "description": "",
-  "outcomes": null,
-  "textbooks": [
-   "-"
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ISL&dersNo=437"
- },
  "ISL 439E": {
   "code": "ISL 439E",
   "name": "Int.to Mach.Learn.with Bus.App",

@@ -435,24 +435,5 @@
    "-"
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEN&dersNo=411"
- },
- "CEN 4901E": {
-  "code": "CEN 4901E",
-  "name": "Bilgisayar Mühendisliği Tasarımı I",
-  "nameEn": "Computer Engineering Design I",
-  "language": "English",
-  "credits": {
-   "theory": 1,
-   "practice": 4,
-   "lab": 0,
-   "local": 3,
-   "ects": 8
-  },
-  "description": "- -",
-  "outcomes": null,
-  "textbooks": [
-   "-"
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=CEN&dersNo=4901"
  }
 }
