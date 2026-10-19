@@ -28293,7 +28293,7 @@
   "MAK 4032E",
   "Metal Forming",
   "MAK",
-  11
+  12
  ],
  [
   "MAK 4033E",
@@ -28341,7 +28341,7 @@
   "MAK 4038E",
   "Power Plants",
   "MAK",
-  11
+  12
  ],
  [
   "MAK 4039E",
@@ -35775,7 +35775,7 @@
   "MUK 207",
   "Mukavemet",
   "MUK",
-  1
+  2
  ],
  [
   "MUK 207E",
@@ -39252,6 +39252,18 @@
   1
  ],
  [
+  "RBT 596",
+  "Bilimsel Araş.,Etik ve Seminer",
+  "RBT",
+  1
+ ],
+ [
+  "RBT YLT",
+  "Tez Çalışması",
+  "RBT",
+  1
+ ],
+ [
   "RES 101",
   "Teknik Resim",
   "RES",
@@ -39339,6 +39351,114 @@
   "ROT 507E",
   "Structural Dynamics",
   "ROT",
+  1
+ ],
+ [
+  "RSM 503",
+  "Raylı Sistemlerin Mühendisliği",
+  "RSM",
+  1
+ ],
+ [
+  "RSM 507",
+  "Demiryolu Güvenliği",
+  "RSM",
+  1
+ ],
+ [
+  "RSM 508E",
+  "Plan.&Project Manag.Rail.Inve.",
+  "RSM",
+  1
+ ],
+ [
+  "RSM 511E",
+  "Railway Signalling Systems",
+  "RSM",
+  1
+ ],
+ [
+  "RSM 596",
+  "Bilimsel Araş.,Etik ve Seminer",
+  "RSM",
+  1
+ ],
+ [
+  "RSM YLT",
+  "Tez Çalışması",
+  "RSM",
+  1
+ ],
+ [
+  "RST 501",
+  "Koruma Projesi I",
+  "RST",
+  1
+ ],
+ [
+  "RST 509",
+  "Koruma Kuramı",
+  "RST",
+  1
+ ],
+ [
+  "RST 513",
+  "Koruma Teknik ve Yöntemleri",
+  "RST",
+  1
+ ],
+ [
+  "RST 521E",
+  "Advanced Methods in Arch.Sur.",
+  "RST",
+  1
+ ],
+ [
+  "RST 523E",
+  "Deter.&Cons.of Trad.Buil.Mate.",
+  "RST",
+  1
+ ],
+ [
+  "RST 596",
+  "Bilimsel Araş.,Etik ve Seminer",
+  "RST",
+  1
+ ],
+ [
+  "RST 607",
+  "Anıtlarda Yeniden Yapım Sorunl",
+  "RST",
+  1
+ ],
+ [
+  "RST 609E",
+  "Conser.of Modern Achite.Herit.",
+  "RST",
+  1
+ ],
+ [
+  "RST 616",
+  "Kültürel Miras Yönetimi",
+  "RST",
+  1
+ ],
+ [
+  "RST DRT",
+  "Tez Çalışması",
+  "RST",
+  1
+ ],
+ [
+  "RST YET",
+  "Yeterlik Aşaması",
+  "RST",
+  1
+ ],
+ [
+  "RST YLT",
+  "Tez Çalışması",
+  "RST",
   1
  ],
  [
@@ -40384,6 +40504,78 @@
   "Rural Settlements and Problems",
   "SBP",
   4
+ ],
+ [
+  "SBP 603",
+  "Şehirsel Büyüme",
+  "SBP",
+  1
+ ],
+ [
+  "SBP 604E",
+  "Development Planning",
+  "SBP",
+  1
+ ],
+ [
+  "SBP 606E",
+  "Culture and Urban Space",
+  "SBP",
+  1
+ ],
+ [
+  "SBP 609E",
+  "Advanced Planning Techniques",
+  "SBP",
+  1
+ ],
+ [
+  "SBP 611",
+  "Konut Alanı Yerseçim Modelleri",
+  "SBP",
+  1
+ ],
+ [
+  "SBP 613E",
+  "Urban Systems",
+  "SBP",
+  1
+ ],
+ [
+  "SBP 625",
+  "Şehir ve Bölge Plan.Öz.Kon.",
+  "SBP",
+  1
+ ],
+ [
+  "SBP 628",
+  "Yerel Eko.Geli.Polit.&Plan.",
+  "SBP",
+  1
+ ],
+ [
+  "SBP 635E",
+  "Research Design and Validity",
+  "SBP",
+  1
+ ],
+ [
+  "SBP 636",
+  "Optimizas.&Mekân.Plan.Uyg.",
+  "SBP",
+  1
+ ],
+ [
+  "SBP DRT",
+  "Tez Çalışması",
+  "SBP",
+  1
+ ],
+ [
+  "SBP YET",
+  "Yeterlik Aşaması",
+  "SBP",
+  1
  ],
  [
   "SEC 113E",
@@ -41904,6 +42096,78 @@
   9
  ],
  [
+  "SPL 502E",
+  "Advanced GIS in Urban Planning",
+  "SPL",
+  1
+ ],
+ [
+  "SPL 503E",
+  "Urban Planning Project I",
+  "SPL",
+  1
+ ],
+ [
+  "SPL 504",
+  "Konut Politikası",
+  "SPL",
+  1
+ ],
+ [
+  "SPL 506E",
+  "Applied Statistics",
+  "SPL",
+  1
+ ],
+ [
+  "SPL 507",
+  "Şehirlerin Yeniden Yapılanması",
+  "SPL",
+  1
+ ],
+ [
+  "SPL 511E",
+  "Planning Theory and Policy",
+  "SPL",
+  1
+ ],
+ [
+  "SPL 596E",
+  "Scien.Rese., Ethic&Seminar",
+  "SPL",
+  1
+ ],
+ [
+  "SPL YLT",
+  "Tez Çalışması",
+  "SPL",
+  1
+ ],
+ [
+  "SRM 501E",
+  "Manuf.Proc.in Ceramic Material",
+  "SRM",
+  1
+ ],
+ [
+  "SRM 514E",
+  "Dielectrics and Electroceramics",
+  "SRM",
+  1
+ ],
+ [
+  "SRM 596",
+  "Bilimsel Araş.,Etik ve Seminer",
+  "SRM",
+  1
+ ],
+ [
+  "SRM YLT",
+  "Tez Çalışması",
+  "SRM",
+  1
+ ],
+ [
   "SSI 501",
   "Etik (Uyum) ve Uluslararası İlişkiler",
   "SSI",
@@ -41964,6 +42228,30 @@
   18
  ],
  [
+  "STD 607E",
+  "Art and Politics",
+  "STD",
+  1
+ ],
+ [
+  "STD 631E",
+  "The Politics of Emotions",
+  "STD",
+  1
+ ],
+ [
+  "STD DRT",
+  "Thesis",
+  "STD",
+  1
+ ],
+ [
+  "STD YET",
+  "Yeterlik Aşaması",
+  "STD",
+  1
+ ],
+ [
   "STI 101",
   "Statistics I",
   "STI",
@@ -41974,6 +42262,126 @@
   "Statistics II",
   "STI",
   8
+ ],
+ [
+  "STP 506",
+  "Savunma Teknolojilerinde Özel Konular",
+  "STP",
+  1
+ ],
+ [
+  "STP 596",
+  "Bilimsel Araş.,Etik ve Seminer",
+  "STP",
+  1
+ ],
+ [
+  "STP 605E",
+  "Nanomat.&Nanoen.Adv.Com.St.",
+  "STP",
+  1
+ ],
+ [
+  "STP 606E",
+  "Embed.&Real-Time Avi.Sys.",
+  "STP",
+  1
+ ],
+ [
+  "STP 609E",
+  "Advanced Topics in Defence Technologies",
+  "STP",
+  1
+ ],
+ [
+  "STP 610E",
+  "Thermal Power Systems in Defence Technologies",
+  "STP",
+  1
+ ],
+ [
+  "STP DRT",
+  "Tez Çalışması",
+  "STP",
+  1
+ ],
+ [
+  "STP YET",
+  "Yeterlik Aşaması",
+  "STP",
+  1
+ ],
+ [
+  "STP YLT",
+  "Tez Çalışması",
+  "STP",
+  1
+ ],
+ [
+  "STR 502E",
+  "Philosophy of Art&Aesthetics",
+  "STR",
+  1
+ ],
+ [
+  "STR 503E",
+  "Historiography",
+  "STR",
+  1
+ ],
+ [
+  "STR 504",
+  "Sanat Tarihinde Araş.Yönt.",
+  "STR",
+  1
+ ],
+ [
+  "STR 516",
+  "Cumh.Dön.Türkiyesi Görsel Snt.",
+  "STR",
+  1
+ ],
+ [
+  "STR 520E",
+  "Far Eastern Arts",
+  "STR",
+  1
+ ],
+ [
+  "STR 525",
+  "Sanat Tarihi ve Kültür",
+  "STR",
+  1
+ ],
+ [
+  "STR 596",
+  "Bilimsel Araş.,Etik ve Seminer",
+  "STR",
+  1
+ ],
+ [
+  "STR 617E",
+  "Archeology of Istanbul",
+  "STR",
+  1
+ ],
+ [
+  "STR DRT",
+  "Tez Çalışması",
+  "STR",
+  1
+ ],
+ [
+  "STR YET",
+  "Yeterlik Aşaması",
+  "STR",
+  1
+ ],
+ [
+  "STR YLT",
+  "Tez Çalışması",
+  "STR",
+  1
  ],
  [
   "SUS 301E",
@@ -42009,6 +42417,60 @@
   "SUS 404E",
   "Sustainable Supply Chain and Logistics Management",
   "SUS",
+  1
+ ],
+ [
+  "SUS 503E",
+  "Sustainability Develop.Funda.",
+  "SUS",
+  1
+ ],
+ [
+  "SUS 509E",
+  "Philosophy of Scie.for Susta.",
+  "SUS",
+  1
+ ],
+ [
+  "SUS YLT",
+  "Thesis",
+  "SUS",
+  1
+ ],
+ [
+  "SYC 502E",
+  "Globalizat.&Internat.Relations",
+  "SYC",
+  1
+ ],
+ [
+  "SYC 503E",
+  "Formation of the Modern State",
+  "SYC",
+  1
+ ],
+ [
+  "SYC 506E",
+  "Political Geography",
+  "SYC",
+  1
+ ],
+ [
+  "SYC 510E",
+  "Political Thought in Modern Turkey",
+  "SYC",
+  1
+ ],
+ [
+  "SYC 596E",
+  "Scientific Research., Ethics and Seminar",
+  "SYC",
+  1
+ ],
+ [
+  "SYC YLT",
+  "Thesis",
+  "SYC",
   1
  ],
  [
@@ -42832,6 +43294,138 @@
   "Senior Design Project",
   "TEK",
   16
+ ],
+ [
+  "TEK 501E",
+  "Textile Quality",
+  "TEK",
+  1
+ ],
+ [
+  "TEK 503E",
+  "Textile Printing",
+  "TEK",
+  1
+ ],
+ [
+  "TEK 507E",
+  "Yarn Geometry",
+  "TEK",
+  1
+ ],
+ [
+  "TEK 509",
+  "Tekstil Mak. Tasar.&İmalat Es.",
+  "TEK",
+  1
+ ],
+ [
+  "TEK 511",
+  "Teknik Tekstiller",
+  "TEK",
+  1
+ ],
+ [
+  "TEK 513",
+  "Tekstil End. Renk Ölçümü",
+  "TEK",
+  1
+ ],
+ [
+  "TEK 529E",
+  "Speci.Stru&Proce.in theText.In",
+  "TEK",
+  1
+ ],
+ [
+  "TEK 531",
+  "Tekstil Malzeme.Güç Tutuşurluk",
+  "TEK",
+  1
+ ],
+ [
+  "TEK 533E",
+  "Smart Materials in Textile",
+  "TEK",
+  1
+ ],
+ [
+  "TEK 535E",
+  "Market.&Cons.Beha.in App.Ind.",
+  "TEK",
+  1
+ ],
+ [
+  "TEK 539E",
+  "E-Textiles&Werable Compu.Sys.",
+  "TEK",
+  1
+ ],
+ [
+  "TEK 541E",
+  "Sustai.&Life Cyc. Asse.in Tex.",
+  "TEK",
+  1
+ ],
+ [
+  "TEK 543",
+  "Mühendis.İleri Araş.Yöntem.",
+  "TEK",
+  1
+ ],
+ [
+  "TEK 545E",
+  "Ecofriendly Text.Dyeing&Finis.",
+  "TEK",
+  1
+ ],
+ [
+  "TEK 596E",
+  "Scien.Rese., Ethic&Seminar",
+  "TEK",
+  1
+ ],
+ [
+  "TEK 603E",
+  "Science of Clothing Comfort",
+  "TEK",
+  1
+ ],
+ [
+  "TEK 611",
+  "Çözgülü Örme Kumaş Geometrisi",
+  "TEK",
+  1
+ ],
+ [
+  "TEK 613",
+  "Mühendislikte İstatistik Met.",
+  "TEK",
+  1
+ ],
+ [
+  "TEK 615E",
+  "Special Topics in Textile Eng.",
+  "TEK",
+  1
+ ],
+ [
+  "TEK DRT",
+  "Tez Çalışması",
+  "TEK",
+  1
+ ],
+ [
+  "TEK YET",
+  "Yeterlik Aşaması",
+  "TEK",
+  1
+ ],
+ [
+  "TEK YLT",
+  "Tez Çalışması",
+  "TEK",
+  1
  ],
  [
   "TEL 232",

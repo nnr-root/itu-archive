@@ -284,7 +284,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 184,
+  "enrolled": 183,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -493,7 +493,7 @@
   ],
   "rooms": [],
   "capacity": 120,
-  "enrolled": 70,
+  "enrolled": 71,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -1189,7 +1189,7 @@
    "D318"
   ],
   "capacity": 60,
-  "enrolled": 65,
+  "enrolled": 66,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -1307,7 +1307,7 @@
    "D381A"
   ],
   "capacity": 10,
-  "enrolled": 9,
+  "enrolled": 10,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -2907,7 +2907,7 @@
    "D361B"
   ],
   "capacity": 40,
-  "enrolled": 15,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [
    "MAK_LS",
@@ -3308,7 +3308,7 @@
    "D331"
   ],
   "capacity": 30,
-  "enrolled": 7,
+  "enrolled": 8,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3517,7 +3517,7 @@
    "D360"
   ],
   "capacity": 15,
-  "enrolled": 6,
+  "enrolled": 7,
   "reserved": "-",
   "programs": [
    "MSS_LS"
@@ -3608,7 +3608,7 @@
    "D376"
   ],
   "capacity": 15,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "MSS_LS"
@@ -4194,5 +4194,47 @@
   ],
   "prereq": "Detay",
   "classReq": "Detay"
+ },
+ {
+  "crn": "16079",
+  "code": "MAK 4032E",
+  "branch": "MAK",
+  "level": "LS",
+  "name": "Metal Forming",
+  "method": "Ek Sınav",
+  "instructor": "Canan Gamze Güleryüz Parasız",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 2,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "Detay"
+ },
+ {
+  "crn": "16080",
+  "code": "MAK 4038E",
+  "branch": "MAK",
+  "level": "LS",
+  "name": "Power Plants",
+  "method": "Ek Sınav",
+  "instructor": "Ayşegül Abuşoğlu",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 1,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
  }
 ]

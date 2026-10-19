@@ -1,27 +1,10 @@
 {
- "durationSec": 657,
- "failedBranches": [
-  "SPL (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=98: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=98\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "ROT (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=230: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=230\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "RBT (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=201: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=201\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "RSM (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=204: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=204\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "RST (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=92: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=92\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "RTZ (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=93: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=93\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "SBP (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=21: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=21\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "SRM (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=80: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=80\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "STR (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=119: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=119\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "SSY (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=240: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=240\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "STY (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=236: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=236\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "STD (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=206: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=206\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "STP (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=101: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=101\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "SYC (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=166: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=166\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "SUS (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=303: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=303\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "TEK (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=13: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=13\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
- ],
- "lastRunAt": "2026-10-18T22:39:14Z",
- "lastSuccessAt": "2026-10-18T22:39:14Z",
- "mode": "hafif",
- "partial": true,
- "prevSections": 5191,
- "sections": 5091
+ "durationSec": 149,
+ "failedBranches": null,
+ "lastRunAt": "2026-10-19T07:46:08Z",
+ "lastSuccessAt": "2026-10-19T07:46:08Z",
+ "mode": "tam",
+ "partial": false,
+ "prevSections": 5091,
+ "sections": 5195
 }

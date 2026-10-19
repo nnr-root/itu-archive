@@ -2462,7 +2462,7 @@
     "END 449",
     "End. Müh. Uyg. Seminer Dersi",
     300,
-    204
+    205
    ]
   ],
   "terms": 1
@@ -3002,7 +3002,7 @@
     "BLG 337E",
     "Principles of Computer Comm.",
     70,
-    36
+    37
    ],
    [
     "2026-2027-guz",
@@ -3100,6 +3100,13 @@
     "Mekatronik Mühendis.Özel Kon.",
     30,
     19
+   ],
+   [
+    "2026-2027-guz",
+    "RSM 507",
+    "Demiryolu Güvenliği",
+    20,
+    5
    ]
   ],
   "terms": 1
@@ -3439,7 +3446,7 @@
     "MAK 198",
     "Atölye: İşSağ.\u0026Güv. Mak.Elema.",
     200,
-    184
+    183
    ],
    [
     "2026-2027-guz",
@@ -6079,7 +6086,7 @@
     "AAR 631",
     "Savunma Sanayinde İleri Elektrik-Elektronik Mühendisliği Uygulamaları",
     0,
-    4
+    5
    ],
    [
     "2025-2026-bahar",
@@ -11254,7 +11261,7 @@
     "FIZ 411",
     "Elektromanyetik Teori I",
     75,
-    56
+    57
    ],
    [
     "2026-2027-guz",
@@ -14935,6 +14942,13 @@
   "rows": [
    [
     "2026-2027-guz",
+    "DAN 102",
+    "Girişimcilik \u0026 Kariyer Danış.",
+    0,
+    1
+   ],
+   [
+    "2026-2027-guz",
     "IML 4901",
     "İmalat Müh. Tasarımı I",
     5,
@@ -17321,6 +17335,13 @@
     "Fiber Formation",
     25,
     5
+   ],
+   [
+    "2026-2027-guz",
+    "TEK 509",
+    "Tekstil Mak. Tasar.\u0026İmalat Es.",
+    30,
+    0
    ],
    [
     "2026-2027-guz",
@@ -19884,7 +19905,7 @@
     "MMI YLT",
     "Tez Çalışması",
     100,
-    14
+    13
    ],
    [
     "2025-2026-yaz",
@@ -21026,6 +21047,13 @@
     "Fiber Formation",
     25,
     5
+   ],
+   [
+    "2026-2027-guz",
+    "TEK 511",
+    "Teknik Tekstiller",
+    30,
+    0
    ],
    [
     "2026-2027-guz",
@@ -23039,7 +23067,7 @@
     "DNK 201E",
     "Dynamics",
     70,
-    74
+    75
    ],
    [
     "2026-2027-guz",
@@ -23460,14 +23488,14 @@
     "TEL 503",
     "Uygulamalı Elektromany.Kuramı",
     40,
-    24
+    23
    ],
    [
     "2026-2027-guz",
     "TEL 503E",
     "Applied EM Theory",
     0,
-    7
+    10
    ],
    [
     "2025-2026-bahar",
@@ -29059,7 +29087,7 @@
     "MAL 201E",
     "Materials Science",
     40,
-    11
+    12
    ],
    [
     "2026-2027-guz",
@@ -31202,6 +31230,26 @@
   ],
   "terms": 15
  },
+ "Alptekin Yıldız": {
+  "name": "Alptekin Yıldız",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "STP 506",
+    "Savunma Teknolojilerinde Özel Konular",
+    20,
+    8
+   ],
+   [
+    "2026-2027-guz",
+    "STP 596",
+    "Bilimsel Araş.,Etik ve Seminer",
+    20,
+    18
+   ]
+  ],
+  "terms": 1
+ },
  "Altan Bal": {
   "name": "Altan Bal",
   "rows": [
@@ -32604,7 +32652,7 @@
     "ISL 364E",
     "Business Law",
     80,
-    69
+    70
    ],
    [
     "2025-2026-bahar",
@@ -33585,7 +33633,7 @@
     "MTS 501E",
     "Thresholds of 20th Century",
     15,
-    11
+    12
    ],
    [
     "2025-2026-bahar",
@@ -34385,7 +34433,7 @@
     "TUR 121",
     "Türk Dili I",
     75,
-    77
+    76
    ],
    [
     "2026-2027-guz",
@@ -35453,7 +35501,7 @@
     "MAT 271E",
     "Probability and Statistics",
     50,
-    11
+    12
    ],
    [
     "2026-2027-guz",
@@ -36520,6 +36568,48 @@
     "Modernitenin Oluşumu",
     35,
     33
+   ],
+   [
+    "2026-2027-guz",
+    "STR 503E",
+    "Historiography",
+    15,
+    8
+   ],
+   [
+    "2026-2027-guz",
+    "STR 525",
+    "Sanat Tarihi ve Kültür",
+    20,
+    4
+   ],
+   [
+    "2026-2027-guz",
+    "STR 596",
+    "Bilimsel Araş.,Etik ve Seminer",
+    10,
+    3
+   ],
+   [
+    "2026-2027-guz",
+    "STR YLT",
+    "Tez Çalışması",
+    200,
+    2
+   ],
+   [
+    "2026-2027-guz",
+    "STR DRT",
+    "Tez Çalışması",
+    200,
+    9
+   ],
+   [
+    "2026-2027-guz",
+    "STR YET",
+    "Yeterlik Aşaması",
+    200,
+    2
    ],
    [
     "2025-2026-bahar",
@@ -46730,7 +46820,7 @@
     "ITB 218",
     "Bilim ve Teknoloji Tarihi",
     35,
-    43
+    44
    ],
    [
     "2025-2026-yaz",
@@ -48054,7 +48144,7 @@
     "ISL 233E",
     "Microeconomics",
     60,
-    58
+    59
    ],
    [
     "2026-2027-guz",
@@ -49989,7 +50079,7 @@
     "GEO 310E",
     "Remote Sensing II",
     0,
-    1
+    2
    ],
    [
     "2025-2026-bahar",
@@ -52902,7 +52992,7 @@
     "BLG 475E",
     "Software Quality and Testing",
     0,
-    1
+    0
    ],
    [
     "2025-2026-bahar",
@@ -56066,6 +56156,13 @@
     "Energy Management",
     40,
     10
+   ],
+   [
+    "2026-2027-guz",
+    "MAK 4038E",
+    "Power Plants",
+    0,
+    1
    ],
    [
     "2026-2027-guz",

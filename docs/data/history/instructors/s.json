@@ -327,7 +327,7 @@
     "ING 100",
     "EAP Through Global Goals",
     28,
-    35
+    36
    ],
    [
     "2026-2027-guz",
@@ -3910,6 +3910,20 @@
     53
    ],
    [
+    "2026-2027-guz",
+    "RST 501",
+    "Koruma Projesi I",
+    10,
+    7
+   ],
+   [
+    "2026-2027-guz",
+    "RST 609E",
+    "Conser.of Modern Achite.Herit.",
+    10,
+    3
+   ],
+   [
     "2025-2026-bahar",
     "MIM 361",
     "Rölöve ve Restorasyon Stüdyosu",
@@ -4931,7 +4945,7 @@
     "MIM 4056E",
     "Design \u0026 Fabric.Tech. in Arch.",
     35,
-    32
+    33
    ]
   ],
   "terms": 1
@@ -6637,7 +6651,7 @@
     "BLG 443E",
     "Discrete Event Simulation",
     0,
-    4
+    3
    ],
    [
     "2026-2027-guz",
@@ -7034,7 +7048,7 @@
     "YZV 406E",
     "Robotics",
     85,
-    86
+    87
    ],
    [
     "2025-2026-bahar",
@@ -7068,7 +7082,7 @@
     "MIM 4089E",
     "Traditional and Contemporary Turkish House",
     24,
-    43
+    44
    ],
    [
     "2026-2027-guz",
@@ -10927,6 +10941,19 @@
   ],
   "terms": 8
  },
+ "Sedat Alkoy": {
+  "name": "Sedat Alkoy",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "SRM 514E",
+    "Dielectrics and Electroceramics",
+    10,
+    5
+   ]
+  ],
+  "terms": 1
+ },
  "Sedat Kömürcü": {
   "name": "Sedat Kömürcü",
   "rows": [
@@ -11566,7 +11593,7 @@
     "BVA 501E",
     "Advances in Data Science",
     50,
-    49
+    48
    ],
    [
     "2026-2027-guz",
@@ -11697,7 +11724,7 @@
     "MAT 201E",
     "Differential Equations",
     123,
-    166
+    167
    ],
    [
     "2025-2026-yaz",
@@ -11808,7 +11835,7 @@
     "MAT 103E",
     "Mathematics I",
     115,
-    120
+    121
    ],
    [
     "2026-2027-guz",
@@ -14566,7 +14593,7 @@
     "MIM 4056E",
     "Design \u0026 Fabric.Tech. in Arch.",
     35,
-    32
+    33
    ],
    [
     "2025-2026-bahar",
@@ -16401,7 +16428,7 @@
     "MAK 333E",
     "System Dynamics and Control",
     15,
-    14
+    15
    ],
    [
     "2026-2027-guz",
@@ -23131,6 +23158,33 @@
   ],
   "terms": 2
  },
+ "Serhat Boynukalın": {
+  "name": "Serhat Boynukalın",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "RSM 596",
+    "Bilimsel Araş.,Etik ve Seminer",
+    20,
+    8
+   ],
+   [
+    "2026-2027-guz",
+    "RSM 503",
+    "Raylı Sistemlerin Mühendisliği",
+    20,
+    12
+   ],
+   [
+    "2026-2027-guz",
+    "RSM 511E",
+    "Railway Signalling Systems",
+    20,
+    5
+   ]
+  ],
+  "terms": 1
+ },
  "Serhat Sarpel": {
   "name": "Serhat Sarpel",
   "rows": [
@@ -27022,7 +27076,7 @@
     "MAK 229E",
     "Fluid Mechanics II",
     15,
-    6
+    7
    ],
    [
     "2026-2027-guz",
@@ -29476,7 +29530,7 @@
     "MAT 104E",
     "Mathematics II",
     145,
-    145
+    146
    ],
    [
     "2026-2027-guz",
@@ -42018,6 +42072,13 @@
     7
    ],
    [
+    "2026-2027-guz",
+    "RSM 503",
+    "Raylı Sistemlerin Mühendisliği",
+    20,
+    12
+   ],
+   [
     "2025-2026-bahar",
     "MAK 206",
     "Mukavemet II",
@@ -42969,7 +43030,7 @@
     "MTS DRT",
     "Tez Çalışması",
     200,
-    82
+    81
    ],
    [
     "2026-2027-guz",
@@ -47931,7 +47992,7 @@
     "JEO 301",
     "Metamorfik Kayaç Petrografisi",
     60,
-    35
+    36
    ],
    [
     "2026-2027-guz",
@@ -47945,7 +48006,7 @@
     "JEO 4901",
     "Jeoloji Müh. Tasarımı I",
     100,
-    47
+    48
    ],
    [
     "2026-2027-guz",
@@ -48967,7 +49028,7 @@
     "BLG 472E",
     "Computer Security",
     110,
-    81
+    82
    ],
    [
     "2026-2027-guz",
@@ -52301,7 +52362,7 @@
     "YAB DRT",
     "Tez Çalışması",
     200,
-    52
+    51
    ],
    [
     "2026-2027-guz",

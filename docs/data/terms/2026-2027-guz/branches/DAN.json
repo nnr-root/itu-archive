@@ -337,5 +337,26 @@
   "programs": [],
   "prereq": "-",
   "classReq": "Detay"
+ },
+ {
+  "crn": "16078",
+  "code": "DAN 102",
+  "branch": "DAN",
+  "level": "LS",
+  "name": "Girişimcilik & Kariyer Danış.",
+  "method": "Ek Sınav",
+  "instructor": "Akif Yavuz",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 1,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
  }
 ]

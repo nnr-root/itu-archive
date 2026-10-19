@@ -280,8 +280,8 @@
    "203"
   ],
   "capacity": 60,
-  "enrolled": 58,
-  "reserved": "MMD_LS/5/1 | Diğer/55/57",
+  "enrolled": 59,
+  "reserved": "MMD_LS/5/1 | Diğer/55/58",
   "programs": [
    "ISL_LS",
    "ISLE_LS",
@@ -342,8 +342,8 @@
    "B13"
   ],
   "capacity": 80,
-  "enrolled": 88,
-  "reserved": "ECNE_LS/5/11 | GID_LS/3/7 | GIDE_LS/5/0 | MMD_LS/5/0 | Diğer/62/70",
+  "enrolled": 89,
+  "reserved": "ECNE_LS/5/11 | GID_LS/3/8 | GIDE_LS/5/0 | MMD_LS/5/0 | Diğer/62/70",
   "programs": [
    "ECNE_LS",
    "GID_LS",
@@ -788,8 +788,8 @@
    "203"
   ],
   "capacity": 80,
-  "enrolled": 69,
-  "reserved": "ECNE_LS/10/15 | EFN_LS/30/11 | Diğer/40/43",
+  "enrolled": 70,
+  "reserved": "ECNE_LS/10/16 | EFN_LS/30/11 | Diğer/40/43",
   "programs": [
    "ECNE_LS",
    "EFN_LS",
@@ -1248,7 +1248,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 141,
+  "enrolled": 142,
   "reserved": "-",
   "programs": [
    "ISL_LS",

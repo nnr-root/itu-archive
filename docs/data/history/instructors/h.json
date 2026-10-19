@@ -130,7 +130,7 @@
     "ELE 505E",
     "L-volt. Anal. Integ.Cir.Desig",
     0,
-    8
+    11
    ],
    [
     "2025-2026-yaz",
@@ -2576,7 +2576,7 @@
     "TEL 502E",
     "Detection and Estimation Theo.",
     0,
-    10
+    11
    ],
    [
     "2025-2026-bahar",
@@ -5961,7 +5961,7 @@
     "JEO 304E",
     "Fundamentals of Mining",
     55,
-    52
+    53
    ],
    [
     "2026-2027-guz",
@@ -8555,6 +8555,20 @@
    ],
    [
     "2026-2027-guz",
+    "TEK 501E",
+    "Textile Quality",
+    30,
+    12
+   ],
+   [
+    "2026-2027-guz",
+    "TEK 541E",
+    "Sustai.\u0026Life Cyc. Asse.in Tex.",
+    30,
+    2
+   ],
+   [
+    "2026-2027-guz",
     "TEK 307E",
     "Textile and Garment Testing",
     35,
@@ -9163,7 +9177,7 @@
     "MIM 208E",
     "Structural Analysis\u0026 Design I",
     65,
-    67
+    66
    ],
    [
     "2026-2027-guz",
@@ -9177,7 +9191,7 @@
     "MIM 4053E",
     "Tall Building Structures",
     32,
-    32
+    31
    ],
    [
     "2025-2026-bahar",
@@ -12373,7 +12387,7 @@
     "MIM 4074E",
     "Stru.Sys.Pro.of Mon.\u0026Hist.Cons",
     33,
-    44
+    45
    ],
    [
     "2026-2027-guz",
@@ -16028,7 +16042,7 @@
     "INS 107E",
     "Int. to Prog. Lang. (Python)",
     63,
-    62
+    61
    ],
    [
     "2026-2027-guz",
@@ -16078,6 +16092,20 @@
  "Hasabelrasol Abdelbagi Mohamed Ahmed": {
   "name": "Hasabelrasol Abdelbagi Mohamed Ahmed",
   "rows": [
+   [
+    "2026-2027-guz",
+    "TEK 603E",
+    "Science of Clothing Comfort",
+    30,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "TEK 615E",
+    "Special Topics in Textile Eng.",
+    15,
+    1
+   ],
    [
     "2026-2027-guz",
     "YTT 513E",
@@ -17258,7 +17286,7 @@
     "MAK 229E",
     "Fluid Mechanics II",
     15,
-    6
+    7
    ],
    [
     "2026-2027-guz",
@@ -18495,6 +18523,13 @@
  "Hasan Serdar Kaya": {
   "name": "Hasan Serdar Kaya",
   "rows": [
+   [
+    "2026-2027-guz",
+    "SBP 609E",
+    "Advanced Planning Techniques",
+    15,
+    1
+   ],
    [
     "2026-2027-guz",
     "SBP 411",
@@ -27144,14 +27179,14 @@
     "BLG 467E",
     "Computer Vision",
     115,
-    117
+    116
    ],
    [
     "2026-2027-guz",
     "BLG 453E",
     "Computer Vision",
     0,
-    1
+    2
    ],
    [
     "2026-2027-guz",
@@ -34406,7 +34441,7 @@
     "UZB 112E",
     "Computer Aided Drafting",
     40,
-    25
+    26
    ],
    [
     "2026-2027-guz",
