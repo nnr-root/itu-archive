@@ -2238,7 +2238,7 @@
     "ITB 205E",
     "Philosophy",
     35,
-    39
+    40
    ],
    [
     "2026-2027-guz",
@@ -3048,7 +3048,7 @@
     "HUK 201",
     "İş Hukuku",
     100,
-    72
+    74
    ],
    [
     "2026-2027-guz",
@@ -5360,7 +5360,7 @@
     "INS 332",
     "Temel İnşaatı I",
     38,
-    48
+    50
    ],
    [
     "2026-2027-guz",
@@ -7765,14 +7765,14 @@
     "CEV 427",
     "Çevre Modellemesi Esasları",
     80,
-    82
+    83
    ],
    [
     "2026-2027-guz",
     "CEV 427E",
     "Environmental Model.Principles",
     83,
-    82
+    83
    ],
    [
     "2025-2026-bahar",
@@ -14423,7 +14423,7 @@
     "INS 4037",
     "Ahşap Yapılar",
     40,
-    31
+    32
    ],
    [
     "2025-2026-bahar",
@@ -15504,14 +15504,14 @@
     "CEV 472E",
     "Opr.of Wastewater Treat.Plants",
     0,
-    0
+    1
    ],
    [
     "2026-2027-guz",
     "ENB 501E",
     "Fundamentals of Env.Biotech. I",
     30,
-    3
+    4
    ],
    [
     "2025-2026-bahar",
@@ -15838,7 +15838,7 @@
     "TUR 121",
     "Türk Dili I",
     75,
-    77
+    76
    ],
    [
     "2026-2027-guz",
@@ -20448,14 +20448,14 @@
     "PEM 411E",
     "Landscape Design IV",
     13,
-    14
+    15
    ],
    [
     "2026-2027-guz",
     "PEM 4022E",
     "Urban Furniture and Space",
     32,
-    28
+    29
    ],
    [
     "2026-2027-guz",
@@ -24380,6 +24380,20 @@
   "name": "Gürşat Altun",
   "rows": [
    [
+    "2026-2027-guz",
+    "PET 409E",
+    "Well Design and Completions",
+    70,
+    68
+   ],
+   [
+    "2026-2027-guz",
+    "PET 333E",
+    "Drilling Engineering",
+    70,
+    55
+   ],
+   [
     "2025-2026-bahar",
     "PET 433E",
     "Well Control",
@@ -24674,7 +24688,7 @@
     20
    ]
   ],
-  "terms": 17
+  "terms": 18
  },
  "Güven Kömürgöz Kırış": {
   "name": "Güven Kömürgöz Kırış",

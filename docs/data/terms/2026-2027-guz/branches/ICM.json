@@ -316,7 +316,7 @@
    "303"
   ],
   "capacity": 20,
-  "enrolled": 24,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [
    "IAD_LS",
@@ -1113,8 +1113,8 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 14,
-  "reserved": "ICM_LS/12/11 | IAD_LS/3/3 | Diğer/0/0",
+  "enrolled": 15,
+  "reserved": "ICM_LS/12/11 | IAD_LS/3/3 | Diğer/0/1",
   "programs": [
    "IAD_LS",
    "ICM_LS"
