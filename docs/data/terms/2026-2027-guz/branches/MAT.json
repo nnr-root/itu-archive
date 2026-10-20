@@ -2573,7 +2573,7 @@
    "14:30/16:29"
   ],
   "rooms": [
-   "A11",
+   "A13",
    "A11"
   ],
   "capacity": 80,
@@ -3093,7 +3093,7 @@
    "OBL3"
   ],
   "capacity": 30,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [
    "MAT_LS"
@@ -4022,7 +4022,7 @@
    "D102"
   ],
   "capacity": 90,
-  "enrolled": 34,
+  "enrolled": 35,
   "reserved": "-",
   "programs": [
    "MAT_LS"
@@ -4123,7 +4123,7 @@
    "D202"
   ],
   "capacity": 55,
-  "enrolled": 39,
+  "enrolled": 40,
   "reserved": "-",
   "programs": [
    "MAT_LS",
@@ -4191,7 +4191,7 @@
    "D300"
   ],
   "capacity": 50,
-  "enrolled": 42,
+  "enrolled": 43,
   "reserved": "-",
   "programs": [
    "MAT_LS"
@@ -5589,7 +5589,7 @@
    "2D17"
   ],
   "capacity": 45,
-  "enrolled": 44,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [
    "GEM_LS"
@@ -5805,7 +5805,7 @@
    "D452"
   ],
   "capacity": 30,
-  "enrolled": 1,
+  "enrolled": 0,
   "reserved": "-",
   "programs": [
    "CEV_LS",

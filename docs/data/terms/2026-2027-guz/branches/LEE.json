@@ -224,7 +224,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Görkem Giray",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Çarşamba"
@@ -233,9 +233,7 @@
    "14:30/16:29"
   ],
   "rooms": [
-   "İlgili",
-   "Bölümce",
-   "Açıklanacak"
+   "--"
   ],
   "capacity": 200,
   "enrolled": 87,
@@ -253,7 +251,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Emel Önder Karaoğlu",
   "buildings": [
-   "undeclared"
+   "MKB"
   ],
   "days": [
    "Çarşamba"
@@ -262,9 +260,7 @@
    "14:30/16:29"
   ],
   "rooms": [
-   "İlgili",
-   "Bölümce",
-   "Açıklanacak"
+   "A363"
   ],
   "capacity": 200,
   "enrolled": 132,

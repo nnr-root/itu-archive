@@ -524,7 +524,7 @@
    "B104"
   ],
   "capacity": 80,
-  "enrolled": 64,
+  "enrolled": 65,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -1133,7 +1133,7 @@
    "A105"
   ],
   "capacity": 70,
-  "enrolled": 72,
+  "enrolled": 73,
   "reserved": "-",
   "programs": [
    "CEV_LS"
@@ -1975,6 +1975,27 @@
    "CEVE_LS"
   ],
   "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "16081",
+  "code": "CEV 304",
+  "branch": "CEV",
+  "level": "LS",
+  "name": "Temel İşlemler&Prosesler Lab.",
+  "method": "Ek Sınav",
+  "instructor": "Seval Sözen",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 1,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
   "classReq": "-"
  }
 ]

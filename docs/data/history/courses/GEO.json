@@ -270,7 +270,7 @@
     "2026-2027-guz",
     "Mehmet İşiler",
     40,
-    27,
+    28,
     "Perşembe"
    ],
    [
@@ -3556,6 +3556,7 @@
   "code": "GEO 212E",
   "name": "Engineering Surveying",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-yaz",
    "2025-2026-bahar",
    "2024-2025-yaz",
@@ -3566,6 +3567,13 @@
    "2022-2023-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Mehmet İşiler",
+    0,
+    1,
+    ""
+   ],
    [
     "2025-2026-yaz",
     "Volkan Özbey",
@@ -5320,6 +5328,7 @@
   "code": "GEO 302E",
   "name": "Land Management",
   "terms": [
+   "2026-2027-guz",
    "2025-2026-bahar",
    "2024-2025-bahar",
    "2023-2024-bahar",
@@ -5331,6 +5340,13 @@
    "2018-2019-bahar"
   ],
   "rows": [
+   [
+    "2026-2027-guz",
+    "Mehmet İşiler",
+    0,
+    1,
+    ""
+   ],
    [
     "2025-2026-bahar",
     "Mehmet İşiler",
@@ -11081,7 +11097,7 @@
     "2026-2027-guz",
     "Mehmet Ufuk Özerman",
     500,
-    43,
+    44,
     ""
    ],
    [

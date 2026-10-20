@@ -973,7 +973,7 @@
    "B307"
   ],
   "capacity": 40,
-  "enrolled": 27,
+  "enrolled": 28,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -1675,7 +1675,7 @@
   ],
   "rooms": [],
   "capacity": 500,
-  "enrolled": 43,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "GEO_LS",
@@ -3164,6 +3164,48 @@
    "GEO_LS",
    "GEOE_LS"
   ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16082",
+  "code": "GEO 212E",
+  "branch": "GEO",
+  "level": "LS",
+  "name": "Engineering Surveying",
+  "method": "Ek Sınav",
+  "instructor": "Mehmet İşiler",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 1,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
+  "crn": "16083",
+  "code": "GEO 302E",
+  "branch": "GEO",
+  "level": "LS",
+  "name": "Land Management",
+  "method": "Ek Sınav",
+  "instructor": "Mehmet İşiler",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 1,
+  "reserved": "-",
+  "programs": [],
   "prereq": "Detay",
   "classReq": "-"
  }
