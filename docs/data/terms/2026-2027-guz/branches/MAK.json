@@ -200,7 +200,7 @@
    "R354"
   ],
   "capacity": 62,
-  "enrolled": 48,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -284,7 +284,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 183,
+  "enrolled": 181,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -3780,7 +3780,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 0,
+  "enrolled": 2,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3834,7 +3834,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 1,
+  "enrolled": 3,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

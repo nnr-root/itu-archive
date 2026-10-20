@@ -318,7 +318,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 75,
+  "enrolled": 76,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -366,7 +366,7 @@
    "215"
   ],
   "capacity": 80,
-  "enrolled": 79,
+  "enrolled": 80,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -397,7 +397,7 @@
    "215"
   ],
   "capacity": 75,
-  "enrolled": 85,
+  "enrolled": 86,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -774,7 +774,7 @@
    "230"
   ],
   "capacity": 70,
-  "enrolled": 49,
+  "enrolled": 50,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -805,7 +805,7 @@
    "216"
   ],
   "capacity": 70,
-  "enrolled": 30,
+  "enrolled": 31,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1919,7 +1919,7 @@
    "--"
   ],
   "capacity": 65,
-  "enrolled": 45,
+  "enrolled": 46,
   "reserved": "-",
   "programs": [
    "SBP_YD",

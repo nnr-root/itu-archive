@@ -263,8 +263,8 @@
    "101"
   ],
   "capacity": 80,
-  "enrolled": 114,
-  "reserved": "IND_LS/25/34 | Diğer/55/80",
+  "enrolled": 115,
+  "reserved": "IND_LS/25/34 | Diğer/55/81",
   "programs": [
    "ENDE_LS",
    "IND_LS"
@@ -421,8 +421,8 @@
    "101"
   ],
   "capacity": 80,
-  "enrolled": 90,
-  "reserved": "IND_LS/15/17 | ECNE_LS/5/2 | Diğer/60/71",
+  "enrolled": 91,
+  "reserved": "IND_LS/15/17 | ECNE_LS/5/2 | Diğer/60/72",
   "programs": [
    "ECNE_LS",
    "END_LS",
@@ -1117,7 +1117,7 @@
    "B13"
   ],
   "capacity": 80,
-  "enrolled": 91,
+  "enrolled": 92,
   "reserved": "-",
   "programs": [
    "ENDE_LS"
