@@ -1,7 +1,7 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-10-21T07:34:28Z",
+ "scrapedAt": "2026-10-21T13:55:23Z",
  "source": "itu-archive",
  "live": true,
  "sections": 5199,
@@ -1264,7 +1264,7 @@
     "LS",
     "LU"
    ],
-   "sections": 42
+   "sections": 43
   },
   {
    "code": "PET",
@@ -1462,7 +1462,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 10
+   "sections": 9
   },
   {
    "code": "STR",
@@ -1682,7 +1682,7 @@
   "courses": 3704,
   "branches": 235,
   "instructors": 1976,
-  "capacity": 254465,
-  "enrolled": 140959
+  "capacity": 254265,
+  "enrolled": 140969
  }
 }

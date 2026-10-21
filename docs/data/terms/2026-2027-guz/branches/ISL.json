@@ -206,8 +206,8 @@
    "103"
   ],
   "capacity": 80,
-  "enrolled": 62,
-  "reserved": "END_LS/10/7 | ENDE_LS/10/11 | GID_LS/5/2 | GIDE_LS/5/0 | IMLE_LS/5/0 | CHZ_LS/5/0 | EFN_LS/5/6 | Diğer/35/36",
+  "enrolled": 61,
+  "reserved": "END_LS/10/7 | ENDE_LS/10/11 | GID_LS/5/2 | GIDE_LS/5/0 | IMLE_LS/5/0 | CHZ_LS/5/0 | EFN_LS/5/5 | Diğer/35/36",
   "programs": [
    "CHZ_LS",
    "EFN_LS",
@@ -1302,7 +1302,7 @@
    "109"
   ],
   "capacity": 40,
-  "enrolled": 32,
+  "enrolled": 33,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1329,7 +1329,7 @@
    "103"
   ],
   "capacity": 40,
-  "enrolled": 37,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -1356,7 +1356,7 @@
    "B12"
   ],
   "capacity": 30,
-  "enrolled": 10,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

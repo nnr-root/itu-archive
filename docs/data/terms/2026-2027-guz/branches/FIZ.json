@@ -2644,7 +2644,7 @@
    "A31"
   ],
   "capacity": 140,
-  "enrolled": 137,
+  "enrolled": 138,
   "reserved": "-",
   "programs": [
    "BIO_LS",
@@ -13014,7 +13014,7 @@
    "D102"
   ],
   "capacity": 80,
-  "enrolled": 76,
+  "enrolled": 75,
   "reserved": "-",
   "programs": [
    "FIZ_LS"
@@ -13487,7 +13487,7 @@
    "D202"
   ],
   "capacity": 60,
-  "enrolled": 37,
+  "enrolled": 38,
   "reserved": "-",
   "programs": [
    "FIZ_LS",
@@ -13556,7 +13556,7 @@
    "D102"
   ],
   "capacity": 80,
-  "enrolled": 77,
+  "enrolled": 78,
   "reserved": "-",
   "programs": [
    "FIZ_LS",
@@ -13620,7 +13620,7 @@
    "D104"
   ],
   "capacity": 75,
-  "enrolled": 58,
+  "enrolled": 59,
   "reserved": "-",
   "programs": [
    "FIZ_LS",
@@ -14098,7 +14098,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 3,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

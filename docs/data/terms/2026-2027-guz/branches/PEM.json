@@ -1257,5 +1257,26 @@
   "programs": [],
   "prereq": "-",
   "classReq": "-"
+ },
+ {
+  "crn": "16085",
+  "code": "PEM 492E",
+  "branch": "PEM",
+  "level": "LS",
+  "name": "Graduation Project",
+  "method": "Ek Sınav",
+  "instructor": "Melih Bozkurt",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 1,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "Detay",
+  "classReq": "Detay"
  }
 ]

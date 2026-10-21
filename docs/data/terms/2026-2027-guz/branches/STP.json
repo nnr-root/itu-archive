@@ -210,27 +210,6 @@
   "classReq": "-"
  },
  {
-  "crn": "14202",
-  "code": "STP YET",
-  "branch": "STP",
-  "level": "LU",
-  "name": "Yeterlik Aşaması",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ramazan Yeniçeri",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 200,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "14203",
   "code": "STP DRT",
   "branch": "STP",
