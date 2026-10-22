@@ -625,8 +625,8 @@
    "104"
   ],
   "capacity": 80,
-  "enrolled": 95,
-  "reserved": "ECNE_LS/5/11 | MMD_LS/12/11 | Diğer/63/73",
+  "enrolled": 96,
+  "reserved": "ECNE_LS/5/11 | MMD_LS/12/11 | Diğer/63/74",
   "programs": [
    "ECNE_LS",
    "ENT_LS",
@@ -1587,7 +1587,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 21,
+  "enrolled": 20,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

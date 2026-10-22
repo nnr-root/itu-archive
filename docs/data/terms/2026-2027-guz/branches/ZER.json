@@ -25,32 +25,5 @@
   "programs": [],
   "prereq": "-",
   "classReq": "-"
- },
- {
-  "crn": "11836",
-  "code": "ZER 505E",
-  "branch": "ZER",
-  "level": "LU",
-  "name": "Waste-to-Energy: Utilizing Urban and Rural Waste for Power and Heat Generation",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ayşegül Abuşoğlu",
-  "buildings": [
-   "MKB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "D368B"
-  ],
-  "capacity": 20,
-  "enrolled": 2,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
  }
 ]
