@@ -224,7 +224,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Görkem Giray",
   "buildings": [
-   "MKB"
+   "undeclared"
   ],
   "days": [
    "Çarşamba"
@@ -251,7 +251,7 @@
   "method": "Fiziksel (Yüz yüze)",
   "instructor": "Emel Önder Karaoğlu",
   "buildings": [
-   "MKB"
+   "undeclared"
   ],
   "days": [
    "Çarşamba"
@@ -260,7 +260,7 @@
    "14:30/16:29"
   ],
   "rooms": [
-   "A363"
+   "--"
   ],
   "capacity": 200,
   "enrolled": 132,
