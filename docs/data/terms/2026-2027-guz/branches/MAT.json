@@ -5403,7 +5403,7 @@
    "2D13"
   ],
   "capacity": 50,
-  "enrolled": 43,
+  "enrolled": 44,
   "reserved": "-",
   "programs": [
    "NAE_LS"
@@ -5464,10 +5464,7 @@
   "enrolled": 50,
   "reserved": "-",
   "programs": [
-   "BLG_LS",
-   "BLGE_LS",
-   "CEN_LS",
-   "YZVE_LS"
+   "CEN_LS"
   ],
   "prereq": "Detay",
   "classReq": "-"
@@ -5560,7 +5557,7 @@
    "--"
   ],
   "capacity": 30,
-  "enrolled": 18,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "IEBE_LS"

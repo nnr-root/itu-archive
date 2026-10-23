@@ -442,7 +442,7 @@
    "A102"
   ],
   "capacity": 40,
-  "enrolled": 51,
+  "enrolled": 52,
   "reserved": "-",
   "programs": [
    "INS_LS",
@@ -3724,7 +3724,7 @@
   "programs": [
    "INS_LS"
   ],
-  "prereq": "-",
+  "prereq": "Detay",
   "classReq": "-"
  },
  {
