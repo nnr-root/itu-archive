@@ -2320,8 +2320,8 @@
    "--"
   ],
   "capacity": 15,
-  "enrolled": 20,
-  "reserved": "MIM_LS/9/0 | MIME_LS/5/2 | ARC_LS/1/0 | Diğer/0/18",
+  "enrolled": 19,
+  "reserved": "MIM_LS/9/0 | MIME_LS/5/2 | ARC_LS/1/0 | Diğer/0/17",
   "programs": [
    "ARC_LS",
    "MIM_LS",
@@ -3316,7 +3316,7 @@
    "320"
   ],
   "capacity": 24,
-  "enrolled": 52,
+  "enrolled": 53,
   "reserved": "-",
   "programs": [
    "ARC_LS",

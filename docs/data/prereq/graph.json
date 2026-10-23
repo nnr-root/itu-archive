@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T07:33:09Z",
+ "generatedAt": "2026-10-23T07:28:32Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -11420,6 +11420,12 @@
    "requirement": "( FIZ 221 MIN. DD Veya FIZ 221E MIN. DD ) Veya ( FIZ 213L MIN. DD Veya FIZ 213EL MIN. DD ) Veya ( FIZ 102L MIN. DD Veya FIZ 102EL MIN. DD ) Veya ( FIZ 106L MIN. DD Veya FIZ 106EL MIN. DD ) Veya ( FIZ 116EL MIN. DD Veya FIZ 116L MIN. DD )"
   },
   {
+   "code": "FIZ 374L",
+   "name": "Fizikte Deneysel Yöntemler Lab.",
+   "branch": "FIZ",
+   "requirement": "( FIZ 221 MIN. DD Veya FIZ 221E MIN. DD ) Veya ( FIZ 213L MIN. DD Veya FIZ 213EL MIN. DD ) Veya ( FIZ 102L MIN. DD Veya FIZ 102EL MIN. DD ) Veya ( FIZ 106L MIN. DD Veya FIZ 106EL MIN. DD ) Veya ( FIZ 116EL MIN. DD Veya FIZ 116L MIN. DD )"
+  },
+  {
    "code": "FIZ 381",
    "name": "Klasik Mekanik II",
    "branch": "FIZ",
@@ -14830,6 +14836,11 @@
    "branch": "IML"
   },
   {
+   "code": "IML 206E",
+   "name": "",
+   "branch": "IML"
+  },
+  {
    "code": "IML 211E",
    "name": "Malzemelerin İmalat Özellikleri",
    "branch": "IML",
@@ -17973,6 +17984,12 @@
    "branch": "JEO"
   },
   {
+   "code": "JEO 204",
+   "name": "Petrog. of Magmatic Rocks",
+   "branch": "JEO",
+   "requirement": "( JEO 242 MIN. DD Veya JEO 242E MIN. DD )"
+  },
+  {
    "code": "JEO 204E",
    "name": "Petrog. of Magmatic Rocks",
    "branch": "JEO",
@@ -18015,6 +18032,11 @@
   {
    "code": "JEO 218",
    "name": "Jeolojide Termodinamik",
+   "branch": "JEO"
+  },
+  {
+   "code": "JEO 218E",
+   "name": "",
    "branch": "JEO"
   },
   {
@@ -18080,6 +18102,11 @@
    "requirement": "( JEO 242 MIN. DD Veya JEO 242E MIN. DD )"
   },
   {
+   "code": "JEO 303",
+   "name": "",
+   "branch": "JEO"
+  },
+  {
    "code": "JEO 303E",
    "name": "Introduction to Geophysics",
    "branch": "JEO"
@@ -18092,6 +18119,11 @@
   {
    "code": "JEO 305E",
    "name": "Geochemistry",
+   "branch": "JEO"
+  },
+  {
+   "code": "JEO 307",
+   "name": "",
    "branch": "JEO"
   },
   {
@@ -18132,13 +18164,13 @@
    "code": "JEO 330",
    "name": "Maden Yatakları",
    "branch": "JEO",
-   "requirement": "( ( JEO 305 MIN. DD Veya JEO 305E MIN. DD ) Veya JEO 307E MIN. DD ) Ve ( JEO 211 MIN. DD Veya JEO 211E MIN. DD )"
+   "requirement": "( ( JEO 305 MIN. DD Veya JEO 305E MIN. DD ) Veya ( JEO 307E MIN. DD Veya JEO 307 MIN. DD ) ) Ve ( JEO 211 MIN. DD Veya JEO 211E MIN. DD )"
   },
   {
    "code": "JEO 330E",
    "name": "Maden Yatakları",
    "branch": "JEO",
-   "requirement": "( ( JEO 305 MIN. DD Veya JEO 305E MIN. DD ) Veya JEO 307E MIN. DD ) Ve ( JEO 211 MIN. DD Veya JEO 211E MIN. DD )"
+   "requirement": "( ( JEO 305 MIN. DD Veya JEO 305E MIN. DD ) Veya ( JEO 307E MIN. DD Veya JEO 307 MIN. DD ) ) Ve ( JEO 211 MIN. DD Veya JEO 211E MIN. DD )"
   },
   {
    "code": "JEO 343",
@@ -18219,6 +18251,12 @@
    "requirement": "( JEO 114 MIN. DD Veya JEO 114E MIN. DD ) Veya ( JEO 117 MIN. DD Veya JEO 117E MIN. DD ) Veya ( JEO 112 MIN. DD Veya JEO 112E MIN. DD ) Veya ( JEO 115 MIN. DD Veya JEO 115E MIN. DD )"
   },
   {
+   "code": "JEO 362E",
+   "name": "Hidrojeoloji",
+   "branch": "JEO",
+   "requirement": "( JEO 114 MIN. DD Veya JEO 114E MIN. DD ) Veya ( JEO 117 MIN. DD Veya JEO 117E MIN. DD ) Veya ( JEO 112 MIN. DD Veya JEO 112E MIN. DD ) Veya ( JEO 115 MIN. DD Veya JEO 115E MIN. DD )"
+  },
+  {
    "code": "JEO 365",
    "name": "Uygulamalı Zemin Mekaniği",
    "branch": "JEO",
@@ -18237,6 +18275,12 @@
   },
   {
    "code": "JEO 371",
+   "name": "Jeoistatistik",
+   "branch": "JEO",
+   "requirement": "( MAT 101 MIN. DD Veya MAT 101E MIN. DD ) Veya ( MAT 103 MIN. DD Veya MAT 103E MIN. DD )"
+  },
+  {
+   "code": "JEO 371E",
    "name": "Jeoistatistik",
    "branch": "JEO",
    "requirement": "( MAT 101 MIN. DD Veya MAT 101E MIN. DD ) Veya ( MAT 103 MIN. DD Veya MAT 103E MIN. DD )"
@@ -18269,7 +18313,7 @@
    "code": "JEO 386E",
    "name": "Applied Geophysics",
    "branch": "JEO",
-   "requirement": "JEO 303E MIN. DD"
+   "requirement": "( JEO 303E MIN. DD Veya JEO 303 MIN. DD )"
   },
   {
    "code": "JEO 390E",
@@ -18371,13 +18415,13 @@
    "code": "JEO 479",
    "name": "Geochemistry of Natural Waters",
    "branch": "JEO",
-   "requirement": "( JEO 305 MIN. DD Veya JEO 305E MIN. DD ) Veya JEO 307E MIN. DD"
+   "requirement": "( JEO 305 MIN. DD Veya JEO 305E MIN. DD ) Veya ( JEO 307E MIN. DD Veya JEO 307 MIN. DD )"
   },
   {
    "code": "JEO 479E",
    "name": "Geochemistry of Natural Waters",
    "branch": "JEO",
-   "requirement": "( JEO 305 MIN. DD Veya JEO 305E MIN. DD ) Veya JEO 307E MIN. DD"
+   "requirement": "( JEO 305 MIN. DD Veya JEO 305E MIN. DD ) Veya ( JEO 307E MIN. DD Veya JEO 307 MIN. DD )"
   },
   {
    "code": "JEO 480E",
@@ -21402,13 +21446,13 @@
    "code": "MAK 312",
    "name": "Ölçme Değerlendirme",
    "branch": "MAK",
-   "requirement": "( ( MUK 209 MIN. DD Veya MUK 209E MIN. DD ) Veya ( MUK 205 MIN. DD Veya MUK 205E MIN. DD ) Veya ( MEK 205 MIN. DD Veya MEK 205E MIN. DD ) Veya ( MEK 207 MIN. DD Veya MEK 207E MIN. DD ) Veya ( MAK 219 MIN. DD Veya MAK 219E MIN. DD ) ) Ve ( ( TER 205 MIN. DD Veya TER 205E MIN. DD ) Veya IML 205 MIN. DD Veya ( MAK 212 MIN. DD Veya MAK 212E MIN. DD ) Veya ( MAK 216 MIN. DD Veya MAK 216E MIN. DD ) Veya ( MAK 218 MIN. DD Veya MAK 218E MIN. DD ) Veya ( MAK 215 MIN. DD Veya MAK 215E MIN. DD ) ) Ve ( ( MAK 228 MIN. DD Veya MAK 228E MIN. DD ) Veya ( AKM 208 MIN. DD Veya AKM 208E MIN. DD ) Veya ( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya IML 206 MIN. DD )"
+   "requirement": "( ( MUK 209 MIN. DD Veya MUK 209E MIN. DD ) Veya ( MUK 205 MIN. DD Veya MUK 205E MIN. DD ) Veya ( MEK 205 MIN. DD Veya MEK 205E MIN. DD ) Veya ( MEK 207 MIN. DD Veya MEK 207E MIN. DD ) Veya ( MAK 219 MIN. DD Veya MAK 219E MIN. DD ) ) Ve ( ( TER 205 MIN. DD Veya TER 205E MIN. DD ) Veya IML 205 MIN. DD Veya ( MAK 212 MIN. DD Veya MAK 212E MIN. DD ) Veya ( MAK 216 MIN. DD Veya MAK 216E MIN. DD ) Veya ( MAK 218 MIN. DD Veya MAK 218E MIN. DD ) Veya ( MAK 215 MIN. DD Veya MAK 215E MIN. DD ) ) Ve ( ( MAK 228 MIN. DD Veya MAK 228E MIN. DD ) Veya ( AKM 208 MIN. DD Veya AKM 208E MIN. DD ) Veya ( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( IML 206 MIN. DD Veya IML 206E MIN. DD ) )"
   },
   {
    "code": "MAK 312E",
    "name": "Measurement Systems",
    "branch": "MAK",
-   "requirement": "( ( MUK 209 MIN. DD Veya MUK 209E MIN. DD ) Veya ( MUK 205 MIN. DD Veya MUK 205E MIN. DD ) Veya ( MEK 205 MIN. DD Veya MEK 205E MIN. DD ) Veya ( MEK 207 MIN. DD Veya MEK 207E MIN. DD ) Veya ( MAK 219 MIN. DD Veya MAK 219E MIN. DD ) ) Ve ( ( TER 205 MIN. DD Veya TER 205E MIN. DD ) Veya IML 205 MIN. DD Veya ( MAK 212 MIN. DD Veya MAK 212E MIN. DD ) Veya ( MAK 216 MIN. DD Veya MAK 216E MIN. DD ) Veya ( MAK 218 MIN. DD Veya MAK 218E MIN. DD ) Veya ( MAK 215 MIN. DD Veya MAK 215E MIN. DD ) ) Ve ( ( MAK 228 MIN. DD Veya MAK 228E MIN. DD ) Veya ( AKM 208 MIN. DD Veya AKM 208E MIN. DD ) Veya ( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya IML 206 MIN. DD )"
+   "requirement": "( ( MUK 209 MIN. DD Veya MUK 209E MIN. DD ) Veya ( MUK 205 MIN. DD Veya MUK 205E MIN. DD ) Veya ( MEK 205 MIN. DD Veya MEK 205E MIN. DD ) Veya ( MEK 207 MIN. DD Veya MEK 207E MIN. DD ) Veya ( MAK 219 MIN. DD Veya MAK 219E MIN. DD ) ) Ve ( ( TER 205 MIN. DD Veya TER 205E MIN. DD ) Veya IML 205 MIN. DD Veya ( MAK 212 MIN. DD Veya MAK 212E MIN. DD ) Veya ( MAK 216 MIN. DD Veya MAK 216E MIN. DD ) Veya ( MAK 218 MIN. DD Veya MAK 218E MIN. DD ) Veya ( MAK 215 MIN. DD Veya MAK 215E MIN. DD ) ) Ve ( ( MAK 228 MIN. DD Veya MAK 228E MIN. DD ) Veya ( AKM 208 MIN. DD Veya AKM 208E MIN. DD ) Veya ( AKM 205 MIN. DD Veya AKM 205E MIN. DD ) Veya ( IML 206 MIN. DD Veya IML 206E MIN. DD ) )"
   },
   {
    "code": "MAK 313",
@@ -27805,7 +27849,7 @@
    "code": "NUM 312E",
    "name": "Thermal Hydraulics of Nuclear Reactors",
    "branch": "NUM",
-   "requirement": "( TER 201 MIN. DD Veya TER 201E MIN. DD ) Veya ( KMM 224 MIN. DD Veya KMM 224E MIN. DD ) Veya ( GEM 204 MIN. DD Veya GEM 204E MIN. DD ) Veya ( UCK 207 MIN. DD Veya UCK 207E MIN. DD ) Veya ( KIM 202 MIN. DD Veya KIM 202E MIN. DD ) Veya ( ELK 234 MIN. DD Veya ELK 234E MIN. DD ) Veya ( JEO 272 MIN. DD Veya JEO 272E MIN. DD ) Veya JEO 218 MIN. DD Veya ( JEO 212 MIN. DD Veya JEO 212E MIN. DD ) Veya ( GID 212 MIN. DD Veya GID 212E MIN. DD ) Veya GID 214 MIN. DD Veya ( MET 215 MIN. DD Veya MET 215E MIN. DD ) Veya ( UCK 212 MIN. DD Veya UCK 212E MIN. DD ) Veya ( GMI 213 MIN. DD Veya GMI 213E MIN. DD ) Veya ( FIZ 274 MIN. DD Veya FIZ 274E MIN. DD )"
+   "requirement": "( TER 201 MIN. DD Veya TER 201E MIN. DD ) Veya ( KMM 224 MIN. DD Veya KMM 224E MIN. DD ) Veya ( GEM 204 MIN. DD Veya GEM 204E MIN. DD ) Veya ( UCK 207 MIN. DD Veya UCK 207E MIN. DD ) Veya ( KIM 202 MIN. DD Veya KIM 202E MIN. DD ) Veya ( ELK 234 MIN. DD Veya ELK 234E MIN. DD ) Veya ( JEO 272 MIN. DD Veya JEO 272E MIN. DD ) Veya ( JEO 218 MIN. DD Veya JEO 218E MIN. DD ) Veya ( JEO 212 MIN. DD Veya JEO 212E MIN. DD ) Veya ( GID 212 MIN. DD Veya GID 212E MIN. DD ) Veya GID 214 MIN. DD Veya ( MET 215 MIN. DD Veya MET 215E MIN. DD ) Veya ( UCK 212 MIN. DD Veya UCK 212E MIN. DD ) Veya ( GMI 213 MIN. DD Veya GMI 213E MIN. DD ) Veya ( FIZ 274 MIN. DD Veya FIZ 274E MIN. DD )"
   },
   {
    "code": "NUM 314E",
@@ -55619,6 +55663,10 @@
   },
   {
    "from": "FIZ 102EL",
+   "to": "FIZ 374L"
+  },
+  {
+   "from": "FIZ 102EL",
    "to": "FIZ 471"
   },
   {
@@ -55700,6 +55748,10 @@
   {
    "from": "FIZ 102L",
    "to": "FIZ 374EL"
+  },
+  {
+   "from": "FIZ 102L",
+   "to": "FIZ 374L"
   },
   {
    "from": "FIZ 102L",
@@ -56042,6 +56094,10 @@
    "to": "FIZ 374EL"
   },
   {
+   "from": "FIZ 106EL",
+   "to": "FIZ 374L"
+  },
+  {
    "from": "FIZ 106L",
    "to": "FIZ 215EL"
   },
@@ -56092,6 +56148,10 @@
   {
    "from": "FIZ 106L",
    "to": "FIZ 374EL"
+  },
+  {
+   "from": "FIZ 106L",
+   "to": "FIZ 374L"
   },
   {
    "from": "FIZ 111",
@@ -56674,6 +56734,10 @@
    "to": "FIZ 374EL"
   },
   {
+   "from": "FIZ 116EL",
+   "to": "FIZ 374L"
+  },
+  {
    "from": "FIZ 116L",
    "to": "FIZ 215EL"
   },
@@ -56684,6 +56748,10 @@
   {
    "from": "FIZ 116L",
    "to": "FIZ 374EL"
+  },
+  {
+   "from": "FIZ 116L",
+   "to": "FIZ 374L"
   },
   {
    "from": "FIZ 121",
@@ -57538,6 +57606,10 @@
    "to": "FIZ 374EL"
   },
   {
+   "from": "FIZ 213EL",
+   "to": "FIZ 374L"
+  },
+  {
    "from": "FIZ 213L",
    "to": "FIZ 215EL"
   },
@@ -57572,6 +57644,10 @@
   {
    "from": "FIZ 213L",
    "to": "FIZ 374EL"
+  },
+  {
+   "from": "FIZ 213L",
+   "to": "FIZ 374L"
   },
   {
    "from": "FIZ 214",
@@ -57690,8 +57766,16 @@
    "to": "FIZ 374EL"
   },
   {
+   "from": "FIZ 221",
+   "to": "FIZ 374L"
+  },
+  {
    "from": "FIZ 221E",
    "to": "FIZ 374EL"
+  },
+  {
+   "from": "FIZ 221E",
+   "to": "FIZ 374L"
   },
   {
    "from": "FIZ 231",
@@ -63562,6 +63646,14 @@
    "to": "MAK 312E"
   },
   {
+   "from": "IML 206E",
+   "to": "MAK 312"
+  },
+  {
+   "from": "IML 206E",
+   "to": "MAK 312E"
+  },
+  {
    "from": "IML 212",
    "to": "IML 322"
   },
@@ -68583,6 +68675,10 @@
   },
   {
    "from": "JEO 112",
+   "to": "JEO 362E"
+  },
+  {
+   "from": "JEO 112",
    "to": "JEO 431"
   },
   {
@@ -68624,6 +68720,10 @@
   {
    "from": "JEO 112E",
    "to": "JEO 362"
+  },
+  {
+   "from": "JEO 112E",
+   "to": "JEO 362E"
   },
   {
    "from": "JEO 112E",
@@ -68679,6 +68779,10 @@
   },
   {
    "from": "JEO 114",
+   "to": "JEO 362E"
+  },
+  {
+   "from": "JEO 114",
    "to": "JEO 431"
   },
   {
@@ -68715,6 +68819,10 @@
   },
   {
    "from": "JEO 114E",
+   "to": "JEO 362E"
+  },
+  {
+   "from": "JEO 114E",
    "to": "JEO 431"
   },
   {
@@ -68751,6 +68859,10 @@
   },
   {
    "from": "JEO 115",
+   "to": "JEO 362E"
+  },
+  {
+   "from": "JEO 115",
    "to": "JEO 431"
   },
   {
@@ -68784,6 +68896,10 @@
   {
    "from": "JEO 115E",
    "to": "JEO 362"
+  },
+  {
+   "from": "JEO 115E",
+   "to": "JEO 362E"
   },
   {
    "from": "JEO 115E",
@@ -68806,8 +68922,16 @@
    "to": "JEO 362"
   },
   {
+   "from": "JEO 117",
+   "to": "JEO 362E"
+  },
+  {
    "from": "JEO 117E",
    "to": "JEO 362"
+  },
+  {
+   "from": "JEO 117E",
+   "to": "JEO 362E"
   },
   {
    "from": "JEO 211",
@@ -68910,12 +69034,20 @@
    "to": "NUM 312E"
   },
   {
+   "from": "JEO 218E",
+   "to": "NUM 312E"
+  },
+  {
    "from": "JEO 222",
    "to": "JEO 365"
   },
   {
    "from": "JEO 222E",
    "to": "JEO 365"
+  },
+  {
+   "from": "JEO 242",
+   "to": "JEO 204"
   },
   {
    "from": "JEO 242",
@@ -68948,6 +69080,10 @@
   {
    "from": "JEO 242",
    "to": "JEO 349E"
+  },
+  {
+   "from": "JEO 242E",
+   "to": "JEO 204"
   },
   {
    "from": "JEO 242E",
@@ -69074,6 +69210,10 @@
    "to": "JEO 359"
   },
   {
+   "from": "JEO 303",
+   "to": "JEO 386E"
+  },
+  {
    "from": "JEO 303E",
    "to": "JEO 386E"
   },
@@ -69116,6 +69256,22 @@
   {
    "from": "JEO 305E",
    "to": "JEO 480E"
+  },
+  {
+   "from": "JEO 307",
+   "to": "JEO 330"
+  },
+  {
+   "from": "JEO 307",
+   "to": "JEO 330E"
+  },
+  {
+   "from": "JEO 307",
+   "to": "JEO 479"
+  },
+  {
+   "from": "JEO 307",
+   "to": "JEO 479E"
   },
   {
    "from": "JEO 307E",
@@ -78539,6 +78695,10 @@
   },
   {
    "from": "MAT 101",
+   "to": "JEO 371E"
+  },
+  {
+   "from": "MAT 101",
    "to": "KIM 252"
   },
   {
@@ -78712,6 +78872,10 @@
   {
    "from": "MAT 101E",
    "to": "JEO 371"
+  },
+  {
+   "from": "MAT 101E",
+   "to": "JEO 371E"
   },
   {
    "from": "MAT 101E",
@@ -79980,6 +80144,10 @@
   {
    "from": "MAT 103",
    "to": "JEO 371"
+  },
+  {
+   "from": "MAT 103",
+   "to": "JEO 371E"
   },
   {
    "from": "MAT 103",
@@ -80276,6 +80444,10 @@
   {
    "from": "MAT 103E",
    "to": "JEO 371"
+  },
+  {
+   "from": "MAT 103E",
+   "to": "JEO 371E"
   },
   {
    "from": "MAT 103E",
