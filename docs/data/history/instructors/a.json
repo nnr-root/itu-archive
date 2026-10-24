@@ -6035,6 +6035,13 @@
   "rows": [
    [
     "2026-2027-guz",
+    "EBT 503E",
+    "Advanced Thermodynamics",
+    20,
+    9
+   ],
+   [
+    "2026-2027-guz",
     "LEE 905",
     "İnovas.Teknik.\u0026Patent Süreç.",
     25,
@@ -7037,10 +7044,24 @@
   "rows": [
    [
     "2026-2027-guz",
+    "ELK 613E",
+    "Applied Superconductivity",
+    15,
+    14
+   ],
+   [
+    "2026-2027-guz",
     "ELK 333E",
     "Intr. to Nuclear Engineering",
     60,
     65
+   ],
+   [
+    "2026-2027-guz",
+    "ELK 613E",
+    "Applied Superconductivity",
+    0,
+    6
    ],
    [
     "2025-2026-bahar",
@@ -8418,6 +8439,20 @@
   "rows": [
    [
     "2026-2027-guz",
+    "EBT 515",
+    "Nükleer Mühendisliğin Esasları",
+    30,
+    8
+   ],
+   [
+    "2026-2027-guz",
+    "EBT 516E",
+    "Nuclear Reactor Engineering",
+    20,
+    7
+   ],
+   [
+    "2026-2027-guz",
     "NUK DRT",
     "Tez Çalışması",
     200,
@@ -8672,6 +8707,13 @@
     "Gemi İnş.\u0026Gem.Mak. Müh.Tas.II",
     70,
     8
+   ],
+   [
+    "2026-2027-guz",
+    "GEM 513",
+    "Gemi Yapı Analizi",
+    30,
+    12
    ],
    [
     "2026-2027-guz",
@@ -10520,6 +10562,20 @@
    ],
    [
     "2026-2027-guz",
+    "EUT 512E",
+    "Directed Studies in Design",
+    5,
+    2
+   ],
+   [
+    "2026-2027-guz",
+    "EUT 611E",
+    "Technology-Driven Design Research",
+    10,
+    4
+   ],
+   [
+    "2026-2027-guz",
     "EUT 419E",
     "Industrial Design Studio IV",
     38,
@@ -11541,6 +11597,20 @@
     "Maritime Practical Studies",
     12,
     9
+   ],
+   [
+    "2026-2027-guz",
+    "DUM 533E",
+    "Maritime Similator Studies",
+    10,
+    7
+   ],
+   [
+    "2026-2027-guz",
+    "DUM 613E",
+    "Troublesho.Model.in Mar.Sy.",
+    10,
+    2
    ],
    [
     "2026-2027-guz",
@@ -17398,6 +17468,13 @@
  "Ali Demirci": {
   "name": "Ali Demirci",
   "rows": [
+   [
+    "2026-2027-guz",
+    "GAM 502E",
+    "Essential Mathema.for Games",
+    30,
+    24
+   ],
    [
     "2026-2027-guz",
     "MAT 501E",
@@ -31553,6 +31630,26 @@
   ],
   "terms": 2
  },
+ "Anıl Erdoğan": {
+  "name": "Anıl Erdoğan",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "EBT 561E",
+    "Hydrogen Ener.Techn.\u0026Analysis",
+    25,
+    7
+   ],
+   [
+    "2026-2027-guz",
+    "EBT 507E",
+    "Fundamentals of Power Generat.",
+    21,
+    21
+   ]
+  ],
+  "terms": 1
+ },
  "Anıl Soylu": {
   "name": "Anıl Soylu",
   "rows": [
@@ -31595,6 +31692,19 @@
     "Polimer Kimyası ve Teknolojisi",
     25,
     19
+   ]
+  ],
+  "terms": 1
+ },
+ "Anıl Özdemirli": {
+  "name": "Anıl Özdemirli",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "ELE 504E",
+    "Digital MOS Inte.Circuit Des.",
+    40,
+    27
    ]
   ],
   "terms": 1
@@ -32137,6 +32247,20 @@
     "Maritime Law II",
     20,
     20
+   ],
+   [
+    "2026-2027-guz",
+    "DUM 601",
+    "Deniz Sigorta Hukuku\u0026Analizi",
+    10,
+    5
+   ],
+   [
+    "2026-2027-guz",
+    "DZC 516",
+    "Marina Yönetimi",
+    25,
+    21
    ],
    [
     "2026-2027-guz",
@@ -33349,6 +33473,19 @@
   ],
   "terms": 22
  },
+ "Asena Kumsal Şen Bayram": {
+  "name": "Asena Kumsal Şen Bayram",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "GAM 516E",
+    "Serious Games",
+    30,
+    5
+   ]
+  ],
+  "terms": 1
+ },
  "Asim Kırca": {
   "name": "Asim Kırca",
   "rows": [
@@ -34263,6 +34400,13 @@
     "Apply.Data Sci.\u0026Mach. Learning",
     40,
     26
+   ],
+   [
+    "2026-2027-guz",
+    "GAM 517E",
+    "3D Perception",
+    30,
+    18
    ],
    [
     "2025-2026-bahar",
@@ -39053,6 +39197,19 @@
   ],
   "terms": 17
  },
+ "Atakan Selamoğlu": {
+  "name": "Atakan Selamoğlu",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "GEM 532E",
+    "Spe.Top.in Nava.Arch.\u0026Mar.Eng.",
+    30,
+    7
+   ]
+  ],
+  "terms": 1
+ },
  "Ataç Başçetin": {
   "name": "Ataç Başçetin",
   "rows": [
@@ -40176,6 +40333,13 @@
     "Proje Yönetimi",
     50,
     46
+   ],
+   [
+    "2026-2027-guz",
+    "END 596",
+    "Bilimsel Araş.,Etik ve Seminer",
+    40,
+    23
    ],
    [
     "2026-2027-guz",
@@ -45805,6 +45969,20 @@
    ],
    [
     "2026-2027-guz",
+    "EUT 561E",
+    "Design Thinking",
+    25,
+    23
+   ],
+   [
+    "2026-2027-guz",
+    "EUT 512E",
+    "Directed Studies in Design",
+    5,
+    3
+   ],
+   [
+    "2026-2027-guz",
     "EUT 319E",
     "Industrial Design Studio II",
     23,
@@ -49896,6 +50074,13 @@
  "Ayşe Filiz Sunar": {
   "name": "Ayşe Filiz Sunar",
   "rows": [
+   [
+    "2026-2027-guz",
+    "GEO 608",
+    "Radar ve Mikrodalga İle Uz.Alg",
+    30,
+    9
+   ],
    [
     "2026-2027-guz",
     "GEO 208E",
@@ -57707,6 +57892,13 @@
  "Ayşegül Meriçboyu": {
   "name": "Ayşegül Meriçboyu",
   "rows": [
+   [
+    "2026-2027-guz",
+    "EBT 539",
+    "Enerji, Çevre ve Hukuku",
+    30,
+    30
+   ],
    [
     "2026-2027-guz",
     "KMM 224",

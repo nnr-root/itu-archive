@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-10-23T23:23:26Z",
+ "scrapedAt": "2026-10-24T07:16:01Z",
  "source": "itu-archive",
  "live": true,
- "sections": 4960,
- "courses": 3481,
+ "sections": 5198,
+ "courses": 3703,
  "branches": [
   {
    "code": "AAR",
@@ -325,11 +325,25 @@
    "sections": 10
   },
   {
+   "code": "DTM",
+   "levels": [
+    "LU"
+   ],
+   "sections": 9
+  },
+  {
    "code": "DUI",
    "levels": [
     "LS"
    ],
    "sections": 76
+  },
+  {
+   "code": "DUM",
+   "levels": [
+    "LU"
+   ],
+   "sections": 21
   },
   {
    "code": "DUY",
@@ -339,11 +353,25 @@
    "sections": 5
   },
   {
+   "code": "DZC",
+   "levels": [
+    "LU"
+   ],
+   "sections": 20
+  },
+  {
    "code": "EAS",
    "levels": [
     "LS"
    ],
    "sections": 2
+  },
+  {
+   "code": "EBT",
+   "levels": [
+    "LU"
+   ],
+   "sections": 34
   },
   {
    "code": "ECN",
@@ -402,18 +430,34 @@
    "sections": 6
   },
   {
+   "code": "ELE",
+   "levels": [
+    "LU"
+   ],
+   "sections": 20
+  },
+  {
    "code": "ELK",
    "levels": [
-    "LS"
+    "LS",
+    "LU"
    ],
-   "sections": 69
+   "sections": 97
+  },
+  {
+   "code": "ENB",
+   "levels": [
+    "LU"
+   ],
+   "sections": 5
   },
   {
    "code": "END",
    "levels": [
-    "LS"
+    "LS",
+    "LU"
    ],
-   "sections": 54
+   "sections": 67
   },
   {
    "code": "ENR",
@@ -446,16 +490,18 @@
   {
    "code": "EUT",
    "levels": [
-    "LS"
+    "LS",
+    "LU"
    ],
-   "sections": 16
+   "sections": 32
   },
   {
    "code": "FIZ",
    "levels": [
-    "LS"
+    "LS",
+    "LU"
    ],
-   "sections": 184
+   "sections": 197
   },
   {
    "code": "FRA",
@@ -472,18 +518,34 @@
    "sections": 2
   },
   {
+   "code": "GAM",
+   "levels": [
+    "LU"
+   ],
+   "sections": 11
+  },
+  {
+   "code": "GDP",
+   "levels": [
+    "LU"
+   ],
+   "sections": 5
+  },
+  {
    "code": "GEM",
    "levels": [
-    "LS"
+    "LS",
+    "LU"
    ],
-   "sections": 61
+   "sections": 74
   },
   {
    "code": "GEO",
    "levels": [
-    "LS"
+    "LS",
+    "LU"
    ],
-   "sections": 79
+   "sections": 109
   },
   {
    "code": "GGP",
@@ -1616,30 +1678,11 @@
   }
  ],
  "stats": {
-  "sections": 4960,
-  "courses": 3481,
-  "branches": 227,
-  "instructors": 1927,
-  "capacity": 241981,
-  "enrolled": 137700
- },
- "partial": true,
- "failedBranches": [
-  "ELE (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=59: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=59\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "DZC (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=249: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=249\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "DYS (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=284: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=284\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "DTM (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=68: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=68\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "ELK (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=1: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=1\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "EBT (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=131: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=131\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "DUM (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=105: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=105\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "ENB (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=76: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=76\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "ENT (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=225: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=225\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "END (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=15: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=15\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "GAM (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=246: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=246\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "GEO (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=74: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=74\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "GEM (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=11: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=11\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "EUT (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=22: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=22\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "FIZ (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=28: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=28\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
-  "GDP (LU): https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=247: 5 deneme sonrası başarısız: Get \"https://obs.itu.edu.tr/public/DersProgram/DersProgramSearch?programSeviyeTipiAnahtari=LU&dersBransKoduId=247\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
- ]
+  "sections": 5198,
+  "courses": 3703,
+  "branches": 235,
+  "instructors": 1976,
+  "capacity": 254245,
+  "enrolled": 140926
+ }
 }

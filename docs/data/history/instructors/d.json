@@ -6209,10 +6209,31 @@
   "rows": [
    [
     "2026-2027-guz",
+    "ELK 506E",
+    "A.Design of Swit M.Power Suppl",
+    15,
+    12
+   ],
+   [
+    "2026-2027-guz",
     "ELK 331E",
     "Power Electronic Circuits",
     60,
     51
+   ],
+   [
+    "2026-2027-guz",
+    "ELK 503E",
+    "Power Electronic Systems",
+    0,
+    6
+   ],
+   [
+    "2026-2027-guz",
+    "ELK 506E",
+    "A.Design of Swit M.Power Suppl",
+    0,
+    8
    ],
    [
     "2025-2026-bahar",
@@ -7345,6 +7366,13 @@
   "rows": [
    [
     "2026-2027-guz",
+    "EBT 617",
+    "Enerji Bilim\u0026Tek.İleri Konular",
+    10,
+    3
+   ],
+   [
+    "2026-2027-guz",
     "SUS 302E",
     "Climate Change: Adaptation and Mitigation",
     25,
@@ -7356,6 +7384,20 @@
  "Derya Ahmet Kocabaş": {
   "name": "Derya Ahmet Kocabaş",
   "rows": [
+   [
+    "2026-2027-guz",
+    "ELK 507",
+    "Elektrik Makinalarında Harm.",
+    20,
+    17
+   ],
+   [
+    "2026-2027-guz",
+    "ELK 503E",
+    "Power Electronic Systems",
+    60,
+    55
+   ],
    [
     "2026-2027-guz",
     "ELK 331",
@@ -7376,6 +7418,13 @@
     "Elektrik Makinaları Lab.",
     35,
     34
+   ],
+   [
+    "2026-2027-guz",
+    "ELK 503E",
+    "Power Electronic Systems",
+    0,
+    0
    ],
    [
     "2026-2027-guz",
@@ -14405,6 +14454,26 @@
     "Vis.Comm.I:Visualiz.\u0026Tch.Drw.",
     0,
     24
+   ]
+  ],
+  "terms": 1
+ },
+ "Duygu Utkucu": {
+  "name": "Duygu Utkucu",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "EBT 525E",
+    "Passive Solar Energy Systems",
+    20,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "EBT 557E",
+    "Energy Systems for Buildings",
+    20,
+    4
    ]
   ],
   "terms": 1

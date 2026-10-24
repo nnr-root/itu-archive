@@ -9238,5 +9238,213 @@
     "Pazartesi"
    ]
   ]
+ },
+ "END 500E": {
+  "code": "END 500E",
+  "name": "Engineering Mathematics",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Erkan Işıklı",
+    40,
+    41,
+    "Salı"
+   ]
+  ]
+ },
+ "END 506E": {
+  "code": "END 506E",
+  "name": "Advanced Engineering Economics",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Cengiz Kahraman",
+    40,
+    42,
+    "Pazartesi"
+   ]
+  ]
+ },
+ "END 508E": {
+  "code": "END 508E",
+  "name": "Mathematical Programming",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Hatice Tekiner Moğulkoç",
+    34,
+    20,
+    "Çarşamba"
+   ]
+  ]
+ },
+ "END 513": {
+  "code": "END 513",
+  "name": "İleri Istatistiksel Analiz",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Umut Asan",
+    35,
+    36,
+    "Salı"
+   ]
+  ]
+ },
+ "END 557E": {
+  "code": "END 557E",
+  "name": "Heuristic Optimization Methods",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Seda Yanık Özbay",
+    33,
+    16,
+    "Perşembe"
+   ]
+  ]
+ },
+ "END 559": {
+  "code": "END 559",
+  "name": "Depo Tasarımı ve Yönetimi",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Murat Baskak",
+    20,
+    6,
+    "Salı"
+   ]
+  ]
+ },
+ "END 574E": {
+  "code": "END 574E",
+  "name": "Business Intell.&Mac.Lear.App.",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Ömer Faruk Beyca",
+    60,
+    61,
+    "Pazartesi"
+   ]
+  ]
+ },
+ "END 596": {
+  "code": "END 596",
+  "name": "Bilimsel Araş.,Etik ve Seminer",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Ayberk Soyer",
+    40,
+    23,
+    "Cuma"
+   ]
+  ]
+ },
+ "END 601E": {
+  "code": "END 601E",
+  "name": "Stochastic Models in Op.Res.",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Esra Baş",
+    16,
+    16,
+    "Pazartesi"
+   ]
+  ]
+ },
+ "END 606E": {
+  "code": "END 606E",
+  "name": "Fuzzy Logic and Modelling",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Cengiz Kahraman",
+    22,
+    17,
+    "Pazartesi"
+   ]
+  ]
+ },
+ "END DRT": {
+  "code": "END DRT",
+  "name": "Tez Çalışması",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Başar Öztayşi",
+    200,
+    29,
+    ""
+   ]
+  ]
+ },
+ "END YET": {
+  "code": "END YET",
+  "name": "Yeterlik Aşaması",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Başar Öztayşi",
+    200,
+    6,
+    ""
+   ]
+  ]
+ },
+ "END YLT": {
+  "code": "END YLT",
+  "name": "Tez Çalışması",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Başar Öztayşi",
+    200,
+    28,
+    ""
+   ]
+  ]
  }
 }

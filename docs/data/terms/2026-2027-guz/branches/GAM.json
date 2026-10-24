@@ -1,0 +1,293 @@
+[
+ {
+  "crn": "14029",
+  "code": "GAM 501E",
+  "branch": "GAM",
+  "level": "LU",
+  "name": "Introd.to Game Design&Devel.",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Hüseyin Kutay Tinç",
+  "buildings": [
+   "MED"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "09:30/12:29"
+  ],
+  "rooms": [
+   "A13"
+  ],
+  "capacity": 35,
+  "enrolled": 35,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "14030",
+  "code": "GAM 502E",
+  "branch": "GAM",
+  "level": "LU",
+  "name": "Essential Mathema.for Games",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Ali Demirci",
+  "buildings": [
+   "MED"
+  ],
+  "days": [
+   "Pazartesi"
+  ],
+  "times": [
+   "09:30/12:29"
+  ],
+  "rooms": [
+   "B34"
+  ],
+  "capacity": 30,
+  "enrolled": 24,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "14031",
+  "code": "GAM 504E",
+  "branch": "GAM",
+  "level": "LU",
+  "name": "Ess.of 3D mo.for v.g.:f.de.im.",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Emirhan Coşkun",
+  "buildings": [
+   "BBB"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "09:30/12:29"
+  ],
+  "rooms": [
+   "121"
+  ],
+  "capacity": 30,
+  "enrolled": 17,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "14032",
+  "code": "GAM 505E",
+  "branch": "GAM",
+  "level": "LU",
+  "name": "Programming for Games",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Sema Alaçam , Mehmet Tahir Sandıkkaya , Salih Özdemir",
+  "buildings": [
+   "MED"
+  ],
+  "days": [
+   "Perşembe"
+  ],
+  "times": [
+   "09:30/12:29"
+  ],
+  "rooms": [
+   "B34"
+  ],
+  "capacity": 30,
+  "enrolled": 20,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "14033",
+  "code": "GAM 506EC",
+  "branch": "GAM",
+  "level": "LU",
+  "name": "Spec.Topics in Game Des.&Dev.",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Hüseyin Kutay Tinç",
+  "buildings": [
+   "MED"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "14:00/16:59"
+  ],
+  "rooms": [
+   "A13"
+  ],
+  "capacity": 30,
+  "enrolled": 16,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "14034",
+  "code": "GAM 515E",
+  "branch": "GAM",
+  "level": "LU",
+  "name": "Non-digital Games&Narration",
+  "method": "Sanal (Çevrimiçi/Online)",
+  "instructor": "Tunca Zeki Berkkurt",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Cuma"
+  ],
+  "times": [
+   "14:00/16:59"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 30,
+  "enrolled": 27,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "14035",
+  "code": "GAM 516E",
+  "branch": "GAM",
+  "level": "LU",
+  "name": "Serious Games",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Oğuz Orkun Doma , Asena Kumsal Şen Bayram",
+  "buildings": [
+   "MEDC"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "09:30/12:29"
+  ],
+  "rooms": [
+   "1D9"
+  ],
+  "capacity": 30,
+  "enrolled": 5,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "14036",
+  "code": "GAM 517E",
+  "branch": "GAM",
+  "level": "LU",
+  "name": "3D Perception",
+  "method": "Sanal (Çevrimiçi/Online)",
+  "instructor": "Aslı Kanan",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Perşembe"
+  ],
+  "times": [
+   "13:30/16:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 30,
+  "enrolled": 18,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "14037",
+  "code": "GAM 520E",
+  "branch": "GAM",
+  "level": "LU",
+  "name": "Guided Research",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Sema Alaçam",
+  "buildings": [
+   "undeclared"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "09:30/12:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 30,
+  "enrolled": 2,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "14038",
+  "code": "GAM 596E",
+  "branch": "GAM",
+  "level": "LU",
+  "name": "Scien.Rese., Ethic&Seminar",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Sema Alaçam , Bülent Arıkan",
+  "buildings": [
+   "MED"
+  ],
+  "days": [
+   "Çarşamba"
+  ],
+  "times": [
+   "13:30/15:29"
+  ],
+  "rooms": [
+   "A35"
+  ],
+  "capacity": 30,
+  "enrolled": 9,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
+  "crn": "15609",
+  "code": "GAM YLT",
+  "branch": "GAM",
+  "level": "LU",
+  "name": "Tez Çalışması",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Sema Alaçam",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 200,
+  "enrolled": 39,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ }
+]

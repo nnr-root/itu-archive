@@ -126,6 +126,13 @@
     11
    ],
    [
+    "2026-2027-guz",
+    "ELE 505E",
+    "L-volt. Anal. Integ.Cir.Desig",
+    0,
+    17
+   ],
+   [
     "2025-2026-yaz",
     "EEF 262E",
     "Fundamentals of Electronics",
@@ -2559,6 +2566,13 @@
    ],
    [
     "2026-2027-guz",
+    "ELE 696",
+    "Bilimsel Araş.,Etik ve Seminer",
+    0,
+    4
+   ],
+   [
+    "2026-2027-guz",
     "TEL 502E",
     "Detection and Estimation Theo.",
     0,
@@ -3136,6 +3150,13 @@
  "Hakan Demirel": {
   "name": "Hakan Demirel",
   "rows": [
+   [
+    "2026-2027-guz",
+    "DUM 624E",
+    "Modelling\u0026Simulati.in Mariti.",
+    10,
+    7
+   ],
    [
     "2026-2027-guz",
     "GMI 114",
@@ -7940,6 +7961,19 @@
   ],
   "terms": 14
  },
+ "Hakkı Celalettin Asım Şengör": {
+  "name": "Hakkı Celalettin Asım Şengör",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "DTM 610E",
+    "Spec.Top.in Shipbu.\u0026Oce.Eng.",
+    20,
+    4
+   ]
+  ],
+  "terms": 1
+ },
  "Hakkı Karakaş": {
   "name": "Hakkı Karakaş",
   "rows": [
@@ -7996,6 +8030,13 @@
     "Physics I Laboratory",
     30,
     31
+   ],
+   [
+    "2026-2027-guz",
+    "FIZ 503E",
+    "Mathematical Methods in Phy",
+    30,
+    8
    ],
    [
     "2020-2021-bahar",
@@ -15209,6 +15250,13 @@
   "rows": [
    [
     "2026-2027-guz",
+    "EBT 503E",
+    "Advanced Thermodynamics",
+    20,
+    9
+   ],
+   [
+    "2026-2027-guz",
     "TER 201E",
     "Thermodynamics",
     61,
@@ -15697,6 +15745,13 @@
   "rows": [
    [
     "2026-2027-guz",
+    "EBT 509",
+    "Kömür Bilimi ve Teknolojisi",
+    10,
+    9
+   ],
+   [
+    "2026-2027-guz",
     "KMM 483",
     "Araştırma Projesi I",
     100,
@@ -16070,6 +16125,19 @@
     "Comfort of High Perform.Tex.",
     30,
     1
+   ]
+  ],
+  "terms": 1
+ },
+ "Hasan Bora Usluer": {
+  "name": "Hasan Bora Usluer",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "DUM 531E",
+    "Chartering and Brokering",
+    20,
+    6
    ]
   ],
   "terms": 1
@@ -24462,6 +24530,33 @@
   ],
   "terms": 13
  },
+ "Hatice Sözer": {
+  "name": "Hatice Sözer",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "EBT 551E",
+    "Zero Energy Buildings",
+    20,
+    18
+   ],
+   [
+    "2026-2027-guz",
+    "EBT 525E",
+    "Passive Solar Energy Systems",
+    20,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "EBT 557E",
+    "Energy Systems for Buildings",
+    20,
+    4
+   ]
+  ],
+  "terms": 1
+ },
  "Hatice Tekiner Moğulkoç": {
   "name": "Hatice Tekiner Moğulkoç",
   "rows": [
@@ -24471,6 +24566,13 @@
     "Theory of Probability",
     80,
     87
+   ],
+   [
+    "2026-2027-guz",
+    "END 508E",
+    "Mathematical Programming",
+    34,
+    20
    ],
    [
     "2026-2027-guz",
@@ -31970,6 +32072,26 @@
    ]
   ],
   "terms": 4
+ },
+ "Hüseyin Kutay Tinç": {
+  "name": "Hüseyin Kutay Tinç",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "GAM 501E",
+    "Introd.to Game Design\u0026Devel.",
+    35,
+    35
+   ],
+   [
+    "2026-2027-guz",
+    "GAM 506EC",
+    "Spec.Topics in Game Des.\u0026Dev.",
+    30,
+    16
+   ]
+  ],
+  "terms": 1
  },
  "Hüseyin Kızıl": {
   "name": "Hüseyin Kızıl",

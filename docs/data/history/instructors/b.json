@@ -366,6 +366,13 @@
    ],
    [
     "2026-2027-guz",
+    "GEM 509",
+    "Mühendislikte Matem.Yöntemler",
+    30,
+    2
+   ],
+   [
+    "2026-2027-guz",
     "MUK 210",
     "Mukavemet II",
     0,
@@ -5767,6 +5774,20 @@
    ],
    [
     "2026-2027-guz",
+    "DUM 501E",
+    "Engineering Mathematics",
+    20,
+    13
+   ],
+   [
+    "2026-2027-guz",
+    "DZC 502",
+    "Denizci.Sektör.Kariyer Plan.",
+    20,
+    19
+   ],
+   [
+    "2026-2027-guz",
     "MAT 103",
     "Matematik I",
     75,
@@ -6697,6 +6718,27 @@
     "Management Information Systems",
     50,
     44
+   ],
+   [
+    "2026-2027-guz",
+    "END YLT",
+    "Tez Çalışması",
+    200,
+    28
+   ],
+   [
+    "2026-2027-guz",
+    "END DRT",
+    "Tez Çalışması",
+    200,
+    29
+   ],
+   [
+    "2026-2027-guz",
+    "END YET",
+    "Yeterlik Aşaması",
+    200,
+    6
    ],
    [
     "2025-2026-guz",
@@ -8730,6 +8772,13 @@
     "Elektrik Enerjisi Üretimi",
     60,
     58
+   ],
+   [
+    "2026-2027-guz",
+    "ELK 514",
+    "Güç Sistemlerinde Optimizasyon",
+    0,
+    4
    ],
    [
     "2026-2027-guz",
@@ -12564,6 +12613,13 @@
  "Bihter Erol": {
   "name": "Bihter Erol",
   "rows": [
+   [
+    "2026-2027-guz",
+    "GEO 626E",
+    "Advanced Physical Geodesy",
+    30,
+    4
+   ],
    [
     "2026-2027-guz",
     "GEO 203E",
@@ -17284,6 +17340,41 @@
    ],
    [
     "2026-2027-guz",
+    "EBT 527E",
+    "Wind Energy\u0026Conversion Tech.",
+    30,
+    27
+   ],
+   [
+    "2026-2027-guz",
+    "EBT 507E",
+    "Fundamentals of Power Generat.",
+    21,
+    21
+   ],
+   [
+    "2026-2027-guz",
+    "EBT DRT",
+    "Tez Çalışması",
+    200,
+    21
+   ],
+   [
+    "2026-2027-guz",
+    "EBT YET",
+    "Yeterlik Aşaması",
+    200,
+    3
+   ],
+   [
+    "2026-2027-guz",
+    "EBT YLT",
+    "Tez Çalışması",
+    200,
+    43
+   ],
+   [
+    "2026-2027-guz",
     "SUS 509E",
     "Philosophy of Scie.for Susta.",
     26,
@@ -17676,6 +17767,20 @@
     "Deniz Suyu Kimyası",
     0,
     0
+   ],
+   [
+    "2026-2027-guz",
+    "DTM 507E",
+    "Numerical Techn.Eng.Problems",
+    30,
+    25
+   ],
+   [
+    "2026-2027-guz",
+    "DTM 533",
+    "Sualtı Araş.Bil.Dalış Teknik.",
+    20,
+    4
    ],
    [
     "2026-2027-guz",
@@ -18201,6 +18306,20 @@
   "rows": [
    [
     "2026-2027-guz",
+    "EBT 616E",
+    "Energy Storage Technolog.",
+    20,
+    4
+   ],
+   [
+    "2026-2027-guz",
+    "EBT 596",
+    "Bilimsel Araş.,Etik ve Seminer",
+    30,
+    17
+   ],
+   [
+    "2026-2027-guz",
     "NSE 612E",
     "2-Dimensional Advanced Materials",
     20,
@@ -18505,6 +18624,13 @@
  "Burak Zincir": {
   "name": "Burak Zincir",
   "rows": [
+   [
+    "2026-2027-guz",
+    "DUM 539E",
+    "Alterna.Fuels in Mariti.Trans.",
+    20,
+    2
+   ],
    [
     "2026-2027-guz",
     "GMI 477E",
@@ -19599,6 +19725,13 @@
     "Ship Mod.Tst.\u0026OceanographyLab.",
     0,
     0
+   ],
+   [
+    "2026-2027-guz",
+    "DTM 501E",
+    "Advanced Marine Hydrodynamics",
+    30,
+    28
    ],
    [
     "2025-2026-bahar",
@@ -23556,6 +23689,19 @@
   ],
   "terms": 7
  },
+ "Bükem Tanören": {
+  "name": "Bükem Tanören",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "FIZ 651E",
+    "Speci.Topic.in Conden.Mat.Ph.I",
+    30,
+    4
+   ]
+  ],
+  "terms": 1
+ },
  "Bülent Arslantaş": {
   "name": "Bülent Arslantaş",
   "rows": [
@@ -23690,6 +23836,13 @@
     "Tez Çalışması",
     200,
     4
+   ],
+   [
+    "2026-2027-guz",
+    "GAM 596E",
+    "Scien.Rese., Ethic\u0026Seminar",
+    30,
+    9
    ],
    [
     "2026-2027-guz",
@@ -24660,6 +24813,13 @@
     "Data Analysis for Marine Applications",
     20,
     10
+   ],
+   [
+    "2026-2027-guz",
+    "DTM 516E",
+    "Deep Learning for Marine Technology",
+    30,
+    8
    ]
   ],
   "terms": 1

@@ -4161,6 +4161,13 @@
   "rows": [
    [
     "2026-2027-guz",
+    "ELK 605E",
+    "Vector Control of A.C Machines",
+    20,
+    15
+   ],
+   [
+    "2026-2027-guz",
     "ELK 331E",
     "Power Electronic Circuits",
     65,
@@ -4172,6 +4179,13 @@
     "Dsgn of Power Electr Circuits",
     60,
     62
+   ],
+   [
+    "2026-2027-guz",
+    "ELK 605E",
+    "Vector Control of A.C Machines",
+    0,
+    5
    ],
    [
     "2026-2027-guz",
@@ -4912,6 +4926,13 @@
  "Salih Özdemir": {
   "name": "Salih Özdemir",
   "rows": [
+   [
+    "2026-2027-guz",
+    "GAM 505E",
+    "Programming for Games",
+    30,
+    20
+   ],
    [
     "2026-2027-guz",
     "MBL 516E",
@@ -10256,6 +10277,13 @@
   "rows": [
    [
     "2026-2027-guz",
+    "END 557E",
+    "Heuristic Optimization Methods",
+    33,
+    16
+   ],
+   [
+    "2026-2027-guz",
     "END 331E",
     "Operations Research I",
     0,
@@ -13600,6 +13628,13 @@
    ],
    [
     "2026-2027-guz",
+    "GEM 612E",
+    "Advanced Topics in Naval Architecture and Marine Engineering",
+    30,
+    1
+   ],
+   [
+    "2026-2027-guz",
     "GEM 411",
     "Gemi Tasarımı Projesi I",
     0,
@@ -14513,6 +14548,34 @@
   "rows": [
    [
     "2026-2027-guz",
+    "GAM 505E",
+    "Programming for Games",
+    30,
+    20
+   ],
+   [
+    "2026-2027-guz",
+    "GAM 520E",
+    "Guided Research",
+    30,
+    2
+   ],
+   [
+    "2026-2027-guz",
+    "GAM 596E",
+    "Scien.Rese., Ethic\u0026Seminar",
+    30,
+    9
+   ],
+   [
+    "2026-2027-guz",
+    "GAM YLT",
+    "Tez Çalışması",
+    200,
+    39
+   ],
+   [
+    "2026-2027-guz",
     "MBL 516E",
     "Intera.Tools\u0026Enviro.in Dig.De.",
     20,
@@ -14860,6 +14923,13 @@
  "Sema Erentürk": {
   "name": "Sema Erentürk",
   "rows": [
+   [
+    "2026-2027-guz",
+    "EBT 625",
+    "Nükleer Atık Yönetimi",
+    15,
+    1
+   ],
    [
     "2026-2027-guz",
     "NSE 603E",
@@ -19493,6 +19563,27 @@
    ],
    [
     "2026-2027-guz",
+    "DTM YLT",
+    "Tez Çalışması",
+    200,
+    13
+   ],
+   [
+    "2026-2027-guz",
+    "DTM DRT",
+    "Tez Çalışması",
+    200,
+    16
+   ],
+   [
+    "2026-2027-guz",
+    "DTM YET",
+    "Yeterlik Aşaması",
+    200,
+    2
+   ],
+   [
+    "2026-2027-guz",
     "MYZ 308E",
     "Artificial Intelligence in Marine Technology",
     25,
@@ -19875,6 +19966,13 @@
  "Serdar Bilgi": {
   "name": "Serdar Bilgi",
   "rows": [
+   [
+    "2026-2027-guz",
+    "GEO 511",
+    "Bilgi Teknolojileri ve CBS",
+    50,
+    20
+   ],
    [
     "2026-2027-guz",
     "GEO 403",
@@ -20917,6 +21015,20 @@
   "rows": [
    [
     "2026-2027-guz",
+    "GEO 503",
+    "Uydu Jeodezisi",
+    30,
+    5
+   ],
+   [
+    "2026-2027-guz",
+    "GEO 617E",
+    "GPS Deform.Monitoring\u0026Analysis",
+    30,
+    0
+   ],
+   [
+    "2026-2027-guz",
     "GEO 203",
     "Koord. Sist. Ve Jeodezi I",
     50,
@@ -21948,6 +22060,13 @@
  "Serdar Yaman": {
   "name": "Serdar Yaman",
   "rows": [
+   [
+    "2026-2027-guz",
+    "EBT 509",
+    "Kömür Bilimi ve Teknolojisi",
+    10,
+    9
+   ],
    [
     "2026-2027-guz",
     "KMM 411E",
@@ -25322,6 +25441,13 @@
   "name": "Sermin Onaygil",
   "rows": [
    [
+    "2026-2027-guz",
+    "EBT 535",
+    "Endüstride Enerji Yönetimi",
+    20,
+    19
+   ],
+   [
     "2020-2021-guz",
     "EUT 339E",
     "Bsc.Dsgn.Prc.of Lighting Lumn.",
@@ -25350,7 +25476,7 @@
     28
    ]
   ],
-  "terms": 4
+  "terms": 5
  },
  "Serna Uçar Hatipoğlu": {
   "name": "Serna Uçar Hatipoğlu",
@@ -27808,6 +27934,19 @@
   ],
   "terms": 20
  },
+ "Servin Füsun Tut Haklıdır": {
+  "name": "Servin Füsun Tut Haklıdır",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "EBT 529E",
+    "Geothermal Energy",
+    20,
+    4
+   ]
+  ],
+  "terms": 1
+ },
  "Seval Eroğlu": {
   "name": "Seval Eroğlu",
   "rows": [
@@ -28665,6 +28804,13 @@
     1
    ],
    [
+    "2026-2027-guz",
+    "ENB 506E",
+    "Research Writing in E.Science",
+    30,
+    5
+   ],
+   [
     "2025-2026-bahar",
     "CEV 302E",
     "Biological Processes",
@@ -28875,6 +29021,27 @@
   "rows": [
    [
     "2026-2027-guz",
+    "EBT 549E",
+    "Solar Thermal Power Plants",
+    20,
+    4
+   ],
+   [
+    "2026-2027-guz",
+    "EBT 503E",
+    "Advanced Thermodynamics",
+    20,
+    9
+   ],
+   [
+    "2026-2027-guz",
+    "EBT 616E",
+    "Energy Storage Technolog.",
+    20,
+    4
+   ],
+   [
+    "2026-2027-guz",
     "SUS 303E",
     "Ecology \u0026 Environmental Sustainability",
     30,
@@ -29080,6 +29247,13 @@
     "Physics I Laboratory",
     27,
     27
+   ],
+   [
+    "2026-2027-guz",
+    "FIZ 596E",
+    "Scien.Rese., Ethic\u0026Seminar",
+    30,
+    12
    ],
    [
     "2026-2027-guz",
@@ -30994,6 +31168,27 @@
     "Physics I Laboratory",
     27,
     27
+   ],
+   [
+    "2026-2027-guz",
+    "FIZ DRT",
+    "Tez Çalışması",
+    500,
+    17
+   ],
+   [
+    "2026-2027-guz",
+    "FIZ YET",
+    "Yeterlik Aşaması",
+    500,
+    8
+   ],
+   [
+    "2026-2027-guz",
+    "FIZ YLT",
+    "Tez Çalışması",
+    500,
+    23
    ],
    [
     "2026-2027-guz",
@@ -39548,6 +39743,13 @@
    ],
    [
     "2026-2027-guz",
+    "ELK 509E",
+    "High Voltage Measurement Technique",
+    0,
+    7
+   ],
+   [
+    "2026-2027-guz",
     "ELK 463E",
     "Overvolt. \u0026 Insulation Coord.",
     0,
@@ -42474,6 +42676,13 @@
     "Digital System Design Applic.",
     21,
     20
+   ],
+   [
+    "2026-2027-guz",
+    "ELE 609E",
+    "Low-Power Electron.Sys.Design",
+    40,
+    15
    ],
    [
     "2025-2026-bahar",
@@ -45983,6 +46192,41 @@
     "Gemi İnş.\u0026Gem.Mak. Müh.Tas.II",
     70,
     8
+   ],
+   [
+    "2026-2027-guz",
+    "GEM 517E",
+    "Boundary Elem.Meth.Ship Hydro.",
+    30,
+    6
+   ],
+   [
+    "2026-2027-guz",
+    "GEM 596E",
+    "Scien.Rese., Ethic\u0026Seminar",
+    30,
+    7
+   ],
+   [
+    "2026-2027-guz",
+    "GEM DRT",
+    "Tez Çalışması",
+    200,
+    12
+   ],
+   [
+    "2026-2027-guz",
+    "GEM YET",
+    "Yeterlik Aşaması",
+    200,
+    1
+   ],
+   [
+    "2026-2027-guz",
+    "GEM YLT",
+    "Tez Çalışması",
+    200,
+    16
    ],
    [
     "2026-2027-guz",
@@ -53262,6 +53506,13 @@
  "Şükran Emel Önal": {
   "name": "Şükran Emel Önal",
   "rows": [
+   [
+    "2026-2027-guz",
+    "ELK 509",
+    "Yüksek Gerilim Ölçme Tekniği",
+    15,
+    15
+   ],
    [
     "2026-2027-guz",
     "ELK 405",

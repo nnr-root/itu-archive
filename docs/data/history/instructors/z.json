@@ -283,6 +283,27 @@
   "rows": [
    [
     "2026-2027-guz",
+    "GEO 507",
+    "Mühendislik Fotogrametrisi",
+    30,
+    13
+   ],
+   [
+    "2026-2027-guz",
+    "GEO 601",
+    "Fotog.Veri Elde Et.Donanım.Kal",
+    30,
+    0
+   ],
+   [
+    "2026-2027-guz",
+    "GEO 614E",
+    "Photo.Trian.\u0026Error Sources",
+    30,
+    0
+   ],
+   [
+    "2026-2027-guz",
     "GEO 309",
     "Fotogrametri I",
     25,
@@ -989,6 +1010,26 @@
    ]
   ],
   "terms": 17
+ },
+ "Zehir Fatih Öztürk": {
+  "name": "Zehir Fatih Öztürk",
+  "rows": [
+   [
+    "2026-2027-guz",
+    "EBT 553",
+    "Güneş Enerjisi\u0026Dönüşüm Tekno.",
+    20,
+    7
+   ],
+   [
+    "2026-2027-guz",
+    "EBT 615",
+    "Güneş Hücreleri Fiziği",
+    20,
+    1
+   ]
+  ],
+  "terms": 1
  },
  "Zehra Atik": {
   "name": "Zehra Atik",
@@ -7082,6 +7123,13 @@
  "Zuhal Er": {
   "name": "Zuhal Er",
   "rows": [
+   [
+    "2026-2027-guz",
+    "DUM 636E",
+    "Marine and Other Floating Solar Energy Systems",
+    10,
+    3
+   ],
    [
     "2026-2027-guz",
     "FIZ 443",

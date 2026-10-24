@@ -6347,5 +6347,213 @@
     ""
    ]
   ]
+ },
+ "GEM 501E": {
+  "code": "GEM 501E",
+  "name": "Num.Tech.For Engin.Problems",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Uğur Oral Ünal",
+    30,
+    22,
+    "Salı"
+   ]
+  ]
+ },
+ "GEM 509": {
+  "code": "GEM 509",
+  "name": "Mühendislikte Matem.Yöntemler",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Bahadır Uğurlu",
+    30,
+    2,
+    "Salı"
+   ]
+  ]
+ },
+ "GEM 513": {
+  "code": "GEM 513",
+  "name": "Gemi Yapı Analizi",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Ahmet Ergin , Ertekin Bayraktarkatal",
+    30,
+    12,
+    "Pazartesi"
+   ]
+  ]
+ },
+ "GEM 515": {
+  "code": "GEM 515",
+  "name": "Gem.Mak.Sist.Tas.&Optimizasyon",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Osman Azmi Özsoysal",
+    30,
+    15,
+    "Pazartesi"
+   ]
+  ]
+ },
+ "GEM 517E": {
+  "code": "GEM 517E",
+  "name": "Boundary Elem.Meth.Ship Hydro.",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Şakir Bal",
+    30,
+    6,
+    "Cuma"
+   ]
+  ]
+ },
+ "GEM 532E": {
+  "code": "GEM 532E",
+  "name": "Spe.Top.in Nava.Arch.&Mar.Eng.",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Atakan Selamoğlu",
+    30,
+    7,
+    "Pazartesi"
+   ]
+  ]
+ },
+ "GEM 533": {
+  "code": "GEM 533",
+  "name": "Deniz Taşıtları.Dinam.Stabili.",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Erdem Üçer",
+    30,
+    20,
+    "Pazartesi"
+   ]
+  ]
+ },
+ "GEM 536": {
+  "code": "GEM 536",
+  "name": "Yapısal Anal.için Sayıs.Yönt.",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Mustafa Erden Yıldızdağ",
+    30,
+    6,
+    "Perşembe"
+   ]
+  ]
+ },
+ "GEM 596E": {
+  "code": "GEM 596E",
+  "name": "Scien.Rese., Ethic&Seminar",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Şakir Bal",
+    30,
+    7,
+    "Çarşamba"
+   ]
+  ]
+ },
+ "GEM 612E": {
+  "code": "GEM 612E",
+  "name": "Advanced Topics in Naval Architecture and Marine Engineering",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Uğur Oral Ünal , Selma Ergin",
+    30,
+    1,
+    "Pazartesi"
+   ]
+  ]
+ },
+ "GEM DRT": {
+  "code": "GEM DRT",
+  "name": "Tez Çalışması",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Şakir Bal",
+    200,
+    12,
+    ""
+   ]
+  ]
+ },
+ "GEM YET": {
+  "code": "GEM YET",
+  "name": "Yeterlik Aşaması",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Şakir Bal",
+    200,
+    1,
+    ""
+   ]
+  ]
+ },
+ "GEM YLT": {
+  "code": "GEM YLT",
+  "name": "Tez Çalışması",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Şakir Bal",
+    200,
+    16,
+    ""
+   ]
+  ]
  }
 }
