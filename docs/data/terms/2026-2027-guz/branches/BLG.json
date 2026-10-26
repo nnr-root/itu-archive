@@ -855,7 +855,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 108,
+  "enrolled": 109,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -2104,7 +2104,7 @@
    "--"
   ],
   "capacity": 0,
-  "enrolled": 11,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -2257,7 +2257,7 @@
    "undeclared"
   ],
   "days": [
-   "Pazartesi"
+   "Cuma"
   ],
   "times": [
    "14:00/16:59"
