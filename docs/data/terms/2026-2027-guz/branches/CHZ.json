@@ -461,7 +461,7 @@
    "B204"
   ],
   "capacity": 35,
-  "enrolled": 31,
+  "enrolled": 32,
   "reserved": "-",
   "programs": [
    "MAD_LS"
@@ -742,9 +742,9 @@
   "level": "LU",
   "name": "Aglomerasyon Teknolojileri",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Alim Gül",
+  "instructor": "Alim Gül , Şükriye Beste Aydın",
   "buildings": [
-   "undeclared"
+   "MDB"
   ],
   "days": [
    "Pazartesi"

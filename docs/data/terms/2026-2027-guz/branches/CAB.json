@@ -4051,6 +4051,33 @@
   "classReq": "-"
  },
  {
+  "crn": "15773",
+  "code": "CAB 160",
+  "branch": "CAB",
+  "level": "LS",
+  "name": "Ud II",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Sarper Eroğlu",
+  "buildings": [],
+  "days": [],
+  "times": [
+   "-/-"
+  ],
+  "rooms": [],
+  "capacity": 0,
+  "enrolled": 0,
+  "reserved": "-",
+  "programs": [
+   "MTR_LS",
+   "MUT_LS",
+   "MUZ_LS",
+   "MZT_LS",
+   "SES_LS"
+  ],
+  "prereq": "Detay",
+  "classReq": "-"
+ },
+ {
   "crn": "15890",
   "code": "CAB 773",
   "branch": "CAB",
