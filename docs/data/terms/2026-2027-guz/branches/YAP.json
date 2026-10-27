@@ -270,53 +270,20 @@
   "classReq": "-"
  },
  {
-  "crn": "12318",
-  "code": "YAP 532",
-  "branch": "YAP",
-  "level": "LU",
-  "name": "Deneysel Mekanik",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Osman Bulut",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 15,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12319",
   "code": "YAP 554",
   "branch": "YAP",
   "level": "LU",
   "name": "Beton Malzeme Bilimi",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hakan Nuri Atahan , Ünal Anıl Doğan",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Salı"
-  ],
+  "instructor": "-",
+  "buildings": [],
+  "days": [],
   "times": [
-   "09:30/12:29"
+   "-/-"
   ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 15,
+  "rooms": [],
+  "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
   "programs": [],

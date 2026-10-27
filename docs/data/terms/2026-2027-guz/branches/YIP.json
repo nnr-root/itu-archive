@@ -54,33 +54,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12859",
-  "code": "YIP 503",
-  "branch": "YIP",
-  "level": "LU",
-  "name": "Yüklen.Firma.Finan.Rapor.&Çöz.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Feyzi Haznedaroğlu",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12860",
   "code": "YIP 505E",
   "branch": "YIP",
@@ -156,33 +129,6 @@
   ],
   "capacity": 15,
   "enrolled": 13,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "12863",
-  "code": "YIP 516E",
-  "branch": "YIP",
-  "level": "LU",
-  "name": "Cost Management",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Esin Ergen Pehlevan",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 15,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

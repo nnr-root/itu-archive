@@ -54,33 +54,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12377",
-  "code": "MDP 605E",
-  "branch": "MDP",
-  "level": "LU",
-  "name": "Composition Project 3",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Reuben De Lautour",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "14:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 40,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12522",
   "code": "MDP 603E",
   "branch": "MDP",
@@ -216,33 +189,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12553",
-  "code": "MDP 625E",
-  "branch": "MDP",
-  "level": "LU",
-  "name": "Individual Research Top.Musc 1",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ozan Sarıer",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 40,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12555",
   "code": "MDP 625E",
   "branch": "MDP",
@@ -291,33 +237,6 @@
   ],
   "capacity": 40,
   "enrolled": 2,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "12558",
-  "code": "MDP 669E",
-  "branch": "MDP",
-  "level": "LU",
-  "name": "Advanced Production",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Taylan Özdemir",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "11:30/14:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 40,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

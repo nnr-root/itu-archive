@@ -1,32 +1,5 @@
 [
  {
-  "crn": "12809",
-  "code": "ULS 520E",
-  "branch": "ULS",
-  "level": "LU",
-  "name": "Traffic Management",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Kemal Selçuk Öğüt",
-  "buildings": [
-   "INB"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "14:00/16:59"
-  ],
-  "rooms": [
-   "ULAŞTIRM_A"
-  ],
-  "capacity": 15,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12847",
   "code": "ULS 517E",
   "branch": "ULS",

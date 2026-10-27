@@ -1,59 +1,5 @@
 [
  {
-  "crn": "12969",
-  "code": "KBM 603E",
-  "branch": "KBM",
-  "level": "LU",
-  "name": "Offshore Engineering",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Şevket Çokgör",
-  "buildings": [
-   "HLB"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 10,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "12971",
-  "code": "KBM 502",
-  "branch": "KBM",
-  "level": "LU",
-  "name": "Liman Yap.Planl.& Tasarımı",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Şevket Çokgör",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 10,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12972",
   "code": "KBM 504E",
   "branch": "KBM",
@@ -156,14 +102,14 @@
   "level": "LU",
   "name": "Yeterlik Aşaması",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Yavuz Selim Güçlü",
+  "instructor": "-",
   "buildings": [],
   "days": [],
   "times": [
    "-/-"
   ],
   "rooms": [],
-  "capacity": 200,
+  "capacity": 0,
   "enrolled": 0,
   "reserved": "-",
   "programs": [],

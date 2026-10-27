@@ -81,33 +81,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13977",
-  "code": "EBT 537",
-  "branch": "EBT",
-  "level": "LU",
-  "name": "Enerji Kalitesi",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Önder Güler",
-  "buildings": [
-   "ENB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13978",
   "code": "EBT 549E",
   "branch": "EBT",
@@ -372,33 +345,6 @@
   ],
   "capacity": 30,
   "enrolled": 8,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "14046",
-  "code": "EBT 525E",
-  "branch": "EBT",
-  "level": "LU",
-  "name": "Passive Solar Energy Systems",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hatice Sözer , Duygu Utkucu",
-  "buildings": [
-   "ENB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

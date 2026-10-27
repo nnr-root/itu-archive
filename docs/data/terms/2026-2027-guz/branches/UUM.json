@@ -351,33 +351,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13317",
-  "code": "UUM 556E",
-  "branch": "UUM",
-  "level": "LU",
-  "name": "Advanced Thermodynamics",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Onur Tunçer",
-  "buildings": [
-   "MEDC"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "14:30/17:29"
-  ],
-  "rooms": [
-   "1D9"
-  ],
-  "capacity": 40,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13318",
   "code": "UUM 628",
   "branch": "UUM",

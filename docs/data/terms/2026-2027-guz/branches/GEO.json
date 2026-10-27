@@ -378,33 +378,6 @@
   "classReq": "-"
  },
  {
-  "crn": "11895",
-  "code": "GEO 601",
-  "branch": "GEO",
-  "level": "LU",
-  "name": "Fotog.Veri Elde Et.Donanım.Kal",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Zaide Duran",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "11896",
   "code": "GEO 605",
   "branch": "GEO",
@@ -507,141 +480,6 @@
   ],
   "capacity": 30,
   "enrolled": 7,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11900",
-  "code": "GEO 612",
-  "branch": "GEO",
-  "level": "LU",
-  "name": "Jeodezik Ağların Analizi",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Mert Bezcioğlu",
-  "buildings": [
-   "INB"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "B305"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11901",
-  "code": "GEO 614E",
-  "branch": "GEO",
-  "level": "LU",
-  "name": "Photo.Trian.&Error Sources",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Zaide Duran",
-  "buildings": [
-   "INB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "B305"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11902",
-  "code": "GEO 616E",
-  "branch": "GEO",
-  "level": "LU",
-  "name": "State Mod.Kalman Filt.&Smooth.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Esra Erten",
-  "buildings": [
-   "INB"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "11:30/14:29"
-  ],
-  "rooms": [
-   "B305"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11903",
-  "code": "GEO 617E",
-  "branch": "GEO",
-  "level": "LU",
-  "name": "GPS Deform.Monitoring&Analysis",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ergin Tarı , Serdar Erol",
-  "buildings": [
-   "INB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "B307"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11904",
-  "code": "GEO 618E",
-  "branch": "GEO",
-  "level": "LU",
-  "name": "Close Range Photog.&Machn.Vis.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Muhammed Enes Atik",
-  "buildings": [
-   "INB"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "A3"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -3114,33 +2952,6 @@
    "HTAE_LS"
   ],
   "prereq": "Detay",
-  "classReq": "-"
- },
- {
-  "crn": "15653",
-  "code": "GEO 615E",
-  "branch": "GEO",
-  "level": "LU",
-  "name": "Curve and Surface Fitting Meth",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Mustafa Fahri Karabulut",
-  "buildings": [
-   "INB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "13:00/15:59"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
   "classReq": "-"
  },
  {

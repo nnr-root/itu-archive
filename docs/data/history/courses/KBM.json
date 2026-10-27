@@ -1,20 +1,4 @@
 {
- "KBM 502": {
-  "code": "KBM 502",
-  "name": "Liman Yap.Planl.& Tasarımı",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Şevket Çokgör",
-    10,
-    0,
-    "Pazartesi"
-   ]
-  ]
- },
  "KBM 504E": {
   "code": "KBM 504E",
   "name": "Coastal Sediment Transport",
@@ -63,22 +47,6 @@
    ]
   ]
  },
- "KBM 603E": {
-  "code": "KBM 603E",
-  "name": "Offshore Engineering",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Şevket Çokgör",
-    10,
-    0,
-    "Salı"
-   ]
-  ]
- },
  "KBM DRT": {
   "code": "KBM DRT",
   "name": "Tez Çalışması",
@@ -104,8 +72,8 @@
   "rows": [
    [
     "2026-2027-guz",
-    "Yavuz Selim Güçlü",
-    200,
+    "-",
+    0,
     0,
     ""
    ]

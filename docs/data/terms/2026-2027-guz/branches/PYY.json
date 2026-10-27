@@ -156,27 +156,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13267",
-  "code": "PYY YET",
-  "branch": "PYY",
-  "level": "LU",
-  "name": "Yeterlik Aşaması",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Fatma Pınar Çakmak",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 200,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13268",
   "code": "PYY YLT",
   "branch": "PYY",
