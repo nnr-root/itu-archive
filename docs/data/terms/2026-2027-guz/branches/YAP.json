@@ -270,27 +270,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12319",
-  "code": "YAP 554",
-  "branch": "YAP",
-  "level": "LU",
-  "name": "Beton Malzeme Bilimi",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "-",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 0,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12320",
   "code": "YAP 561",
   "branch": "YAP",

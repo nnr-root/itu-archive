@@ -1205,27 +1205,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13893",
-  "code": "MTO 575",
-  "branch": "MTO",
-  "level": "LU",
-  "name": "İklim Risk Yönetimi",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "-",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 0,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13895",
   "code": "MTO 503",
   "branch": "MTO",
@@ -1413,33 +1392,6 @@
   ],
   "capacity": 20,
   "enrolled": 7,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13908",
-  "code": "MTO 607E",
-  "branch": "MTO",
-  "level": "LU",
-  "name": "Inst.&Data Pro.Tec.in Sp.Weat.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Zerefşan Kaymaz",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

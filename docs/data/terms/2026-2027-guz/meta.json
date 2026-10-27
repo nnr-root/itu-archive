@@ -1,11 +1,11 @@
 {
  "term": "2026-2027 Güz Dönemi",
  "slug": "2026-2027-guz",
- "scrapedAt": "2026-10-27T07:47:28Z",
+ "scrapedAt": "2026-10-27T14:38:27Z",
  "source": "itu-archive",
  "live": true,
- "sections": 5160,
- "courses": 3667,
+ "sections": 5080,
+ "courses": 3594,
  "branches": [
   {
    "code": "AAR",
@@ -139,14 +139,14 @@
     "LS",
     "LU"
    ],
-   "sections": 90
+   "sections": 89
   },
   {
    "code": "BLU",
    "levels": [
     "LU"
    ],
-   "sections": 14
+   "sections": 13
   },
   {
    "code": "BPL",
@@ -357,7 +357,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 20
+   "sections": 19
   },
   {
    "code": "EAS",
@@ -442,7 +442,7 @@
     "LS",
     "LU"
    ],
-   "sections": 97
+   "sections": 93
   },
   {
    "code": "ENB",
@@ -529,7 +529,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 5
+   "sections": 3
   },
   {
    "code": "GEM",
@@ -560,14 +560,14 @@
     "LS",
     "LU"
    ],
-   "sections": 41
+   "sections": 40
   },
   {
    "code": "GIT",
    "levels": [
     "LU"
    ],
-   "sections": 21
+   "sections": 14
   },
   {
    "code": "GMI",
@@ -666,7 +666,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 12
+   "sections": 8
   },
   {
    "code": "IND",
@@ -779,7 +779,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 17
+   "sections": 12
   },
   {
    "code": "JEF",
@@ -815,7 +815,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 6
+   "sections": 4
   },
   {
    "code": "KET",
@@ -830,7 +830,7 @@
     "LS",
     "LU"
    ],
-   "sections": 147
+   "sections": 142
   },
   {
    "code": "KMM",
@@ -838,7 +838,7 @@
     "LS",
     "LU"
    ],
-   "sections": 52
+   "sections": 51
   },
   {
    "code": "KMP",
@@ -895,7 +895,7 @@
     "LS",
     "LU"
    ],
-   "sections": 47
+   "sections": 36
   },
   {
    "code": "MAK",
@@ -903,7 +903,7 @@
     "LS",
     "LU"
    ],
-   "sections": 145
+   "sections": 143
   },
   {
    "code": "MAL",
@@ -1059,7 +1059,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 9
+   "sections": 7
   },
   {
    "code": "MMD",
@@ -1137,7 +1137,7 @@
     "LS",
     "LU"
    ],
-   "sections": 60
+   "sections": 58
   },
   {
    "code": "MTR",
@@ -1193,7 +1193,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 24
+   "sections": 20
   },
   {
    "code": "MYL",
@@ -1272,7 +1272,7 @@
     "LS",
     "LU"
    ],
-   "sections": 26
+   "sections": 23
   },
   {
    "code": "PHY",
@@ -1300,7 +1300,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 2
+   "sections": 1
   },
   {
    "code": "RES",
@@ -1364,7 +1364,7 @@
     "LS",
     "LU"
    ],
-   "sections": 63
+   "sections": 61
   },
   {
    "code": "SEC",
@@ -1420,7 +1420,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 8
+   "sections": 7
   },
   {
    "code": "SRM",
@@ -1492,7 +1492,7 @@
     "LS",
     "LU"
    ],
-   "sections": 54
+   "sections": 44
   },
   {
    "code": "TEL",
@@ -1527,7 +1527,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 10
+   "sections": 8
   },
   {
    "code": "TMK",
@@ -1632,7 +1632,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 17
+   "sections": 16
   },
   {
    "code": "YIP",
@@ -1653,7 +1653,7 @@
    "levels": [
     "LU"
    ],
-   "sections": 15
+   "sections": 11
   },
   {
    "code": "YZV",
@@ -1674,15 +1674,15 @@
    "levels": [
     "LU"
    ],
-   "sections": 12
+   "sections": 11
   }
  ],
  "stats": {
-  "sections": 5160,
-  "courses": 3667,
+  "sections": 5080,
+  "courses": 3594,
   "branches": 235,
-  "instructors": 1969,
-  "capacity": 252560,
-  "enrolled": 140957
+  "instructors": 1963,
+  "capacity": 250409,
+  "enrolled": 140966
  }
 }

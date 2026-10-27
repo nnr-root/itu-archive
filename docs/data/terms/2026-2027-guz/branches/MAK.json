@@ -970,7 +970,7 @@
    "--"
   ],
   "capacity": 40,
-  "enrolled": 14,
+  "enrolled": 15,
   "reserved": "-",
   "programs": [
    "MAK_LS"
@@ -2531,7 +2531,7 @@
    "D381A"
   ],
   "capacity": 40,
-  "enrolled": 16,
+  "enrolled": 17,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -2720,7 +2720,7 @@
    "D360"
   ],
   "capacity": 40,
-  "enrolled": 23,
+  "enrolled": 24,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -3028,7 +3028,7 @@
    "D351"
   ],
   "capacity": 40,
-  "enrolled": 58,
+  "enrolled": 59,
   "reserved": "-",
   "programs": [
    "IML_LS",
@@ -3153,54 +3153,6 @@
   ],
   "capacity": 30,
   "enrolled": 6,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "15036",
-  "code": "MAK 692E",
-  "branch": "MAK",
-  "level": "LU",
-  "name": "Statis.Thermodyn.of Ther.Sys.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Seyhan Onbaşıoğlu",
-  "buildings": [
-   "MKB"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "D368A"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "15037",
-  "code": "MAK 605",
-  "branch": "MAK",
-  "level": "LU",
-  "name": "Türbomak.Aero-Termodinamiği",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "-",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 0,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

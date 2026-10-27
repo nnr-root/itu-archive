@@ -4788,22 +4788,6 @@
    ]
   ]
  },
- "MAD 509": {
-  "code": "MAD 509",
-  "name": "Mad.&Tün.Delme Patlama Son Gel",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Türker Hüdaverdi",
-    30,
-    0,
-    "Pazartesi"
-   ]
-  ]
- },
  "MAD 512E": {
   "code": "MAD 512E",
   "name": "Economic Analysis in Mining",
@@ -4816,22 +4800,6 @@
     "Muhammet Mustafa Kahraman",
     30,
     11,
-    "Salı"
-   ]
-  ]
- },
- "MAD 513": {
-  "code": "MAD 513",
-  "name": "Sert Kayaçta Mekan.Kazı&Mekan.",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Cemal Balcı",
-    30,
-    0,
     "Salı"
    ]
   ]
@@ -4852,54 +4820,6 @@
    ]
   ]
  },
- "MAD 557E": {
-  "code": "MAD 557E",
-  "name": "Cement Raw Materials&Prepar.",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Hasan Ergin",
-    30,
-    0,
-    "Salı"
-   ]
-  ]
- },
- "MAD 559": {
-  "code": "MAD 559",
-  "name": "Maden&Tünel Kazı Mak.Tas.Para.",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Ömür Acaroğlu Ergün",
-    30,
-    0,
-    "Perşembe"
-   ]
-  ]
- },
- "MAD 563E": {
-  "code": "MAD 563E",
-  "name": "Special Topics in Mining Eng.",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Deniz Tumaç",
-    30,
-    0,
-    "Pazartesi"
-   ]
-  ]
- },
  "MAD 596": {
   "code": "MAD 596",
   "name": "Bilimsel Araş.,Etik ve Seminer",
@@ -4913,54 +4833,6 @@
     30,
     9,
     "Perşembe"
-   ]
-  ]
- },
- "MAD 602": {
-  "code": "MAD 602",
-  "name": "Ocak Yangın.Gaz Püskür&Patlama",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Abdullah Fişne",
-    30,
-    0,
-    "Cuma"
-   ]
-  ]
- },
- "MAD 603E": {
-  "code": "MAD 603E",
-  "name": "Rock Cut.Mech.in Mine&Tun.Exca",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Deniz Tumaç",
-    30,
-    0,
-    "Pazartesi"
-   ]
-  ]
- },
- "MAD 605E": {
-  "code": "MAD 605E",
-  "name": "Microtunnelling",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Hanifi Çopur",
-    30,
-    0,
-    "Cuma"
    ]
   ]
  },
@@ -4980,22 +4852,6 @@
    ]
   ]
  },
- "MAD 623": {
-  "code": "MAD 623",
-  "name": "Maden&Tünel.İleri Sağlam.Yönt.",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Hakan Tunçdemir",
-    30,
-    0,
-    "Cuma"
-   ]
-  ]
- },
  "MAD 625": {
   "code": "MAD 625",
   "name": "İleri Kaya Mekaniği",
@@ -5012,22 +4868,6 @@
    ]
   ]
  },
- "MAD 627E": {
-  "code": "MAD 627E",
-  "name": "Methan.Co.in Underg.Mine.&Tun.",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Abdullah Fişne",
-    30,
-    0,
-    "Çarşamba"
-   ]
-  ]
- },
  "MAD DRT": {
   "code": "MAD DRT",
   "name": "Tez Çalışması",
@@ -5040,22 +4880,6 @@
     "Hanifi Çopur",
     200,
     8,
-    ""
-   ]
-  ]
- },
- "MAD YET": {
-  "code": "MAD YET",
-  "name": "Yeterlik Aşaması",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Hanifi Çopur",
-    200,
-    0,
     ""
    ]
   ]

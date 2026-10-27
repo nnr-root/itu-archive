@@ -54,33 +54,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12963",
-  "code": "BLU 520",
-  "branch": "BLU",
-  "level": "LU",
-  "name": "Katılımcı Demokrasi ve Siyasette Bilişim",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Alper Özkök",
-  "buildings": [
-   "BEB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 25,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12967",
   "code": "BLU 541E",
   "branch": "BLU",

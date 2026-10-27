@@ -775,27 +775,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13179",
-  "code": "GID 512E",
-  "branch": "GID",
-  "level": "LU",
-  "name": "Fudament.of Baking&Pasta Proc.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "-",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 0,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13180",
   "code": "GID 513",
   "branch": "GID",

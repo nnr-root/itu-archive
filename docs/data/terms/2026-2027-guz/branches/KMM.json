@@ -910,33 +910,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12935",
-  "code": "KMM 612E",
-  "branch": "KMM",
-  "level": "LU",
-  "name": "Advan.Mass Tran.in Chem.Eng.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Melek Mümine Erol Taygun",
-  "buildings": [
-   "KMB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "GZ102"
-  ],
-  "capacity": 12,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12936",
   "code": "KMM 538E",
   "branch": "KMM",

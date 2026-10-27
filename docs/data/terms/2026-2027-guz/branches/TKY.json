@@ -21,33 +21,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13282",
-  "code": "TKY 505",
-  "branch": "TKY",
-  "level": "LU",
-  "name": "Türk Müziği Teorisi:Makam&Usul",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Nilgün Doğrusöz Dişiaçık",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13283",
   "code": "TKY 507",
   "branch": "TKY",
@@ -90,33 +63,6 @@
   "rooms": [],
   "capacity": 20,
   "enrolled": 2,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13286",
-  "code": "TKY 501",
-  "branch": "TKY",
-  "level": "LU",
-  "name": "Yeni Akımlar ve Müzik",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ozan Baysal",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

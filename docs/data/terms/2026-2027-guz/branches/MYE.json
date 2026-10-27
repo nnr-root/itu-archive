@@ -162,33 +162,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12494",
-  "code": "MYE 505E",
-  "branch": "MYE",
-  "level": "LU",
-  "name": "History of Eurogen.Art Music 2",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Paul Alister Whitehead",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "11:30/14:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 40,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12498",
   "code": "MYE 5096E",
   "branch": "MYE",
@@ -270,33 +243,6 @@
   "classReq": "-"
  },
  {
-  "crn": "12503",
-  "code": "MYE 522E",
-  "branch": "MYE",
-  "level": "LU",
-  "name": "Compos.-Individual Instr. 2",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Emmanouıl Ekmektsoglou",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 40,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "12505",
   "code": "MYE 522E",
   "branch": "MYE",
@@ -372,33 +318,6 @@
   ],
   "capacity": 40,
   "enrolled": 2,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "12509",
-  "code": "MYE 527E",
-  "branch": "MYE",
-  "level": "LU",
-  "name": "Independent Study 1",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Robert Olıver Beahrs",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 40,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -534,33 +453,6 @@
   ],
   "capacity": 40,
   "enrolled": 2,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "12519",
-  "code": "MYE 581E",
-  "branch": "MYE",
-  "level": "LU",
-  "name": "Location Recording",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Gökhan Deneç",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "14:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 40,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

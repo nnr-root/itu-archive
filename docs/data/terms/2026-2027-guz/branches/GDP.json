@@ -1,59 +1,5 @@
 [
  {
-  "crn": "13400",
-  "code": "GDP 503",
-  "branch": "GDP",
-  "level": "LU",
-  "name": "Geleneksel Dans.Çalgısal Eşlik",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Eyüp Uzunkaya",
-  "buildings": [
-   "TMB"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13408",
-  "code": "GDP 502E",
-  "branch": "GDP",
-  "level": "LU",
-  "name": "Dance Anthroplogy",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Fatma Belma Oğul",
-  "buildings": [
-   "TMB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13411",
   "code": "GDP 596",
   "branch": "GDP",

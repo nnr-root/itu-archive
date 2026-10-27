@@ -664,33 +664,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13337",
-  "code": "MAD 509",
-  "branch": "MAD",
-  "level": "LU",
-  "name": "Mad.&Tün.Delme Patlama Son Gel",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Türker Hüdaverdi",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "11:30/14:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13338",
   "code": "MAD 512E",
   "branch": "MAD",
@@ -712,33 +685,6 @@
   ],
   "capacity": 30,
   "enrolled": 11,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13339",
-  "code": "MAD 513",
-  "branch": "MAD",
-  "level": "LU",
-  "name": "Sert Kayaçta Mekan.Kazı&Mekan.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Cemal Balcı",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -772,87 +718,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13341",
-  "code": "MAD 557E",
-  "branch": "MAD",
-  "level": "LU",
-  "name": "Cement Raw Materials&Prepar.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hasan Ergin",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "11:30/14:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13342",
-  "code": "MAD 559",
-  "branch": "MAD",
-  "level": "LU",
-  "name": "Maden&Tünel Kazı Mak.Tas.Para.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Ömür Acaroğlu Ergün",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13343",
-  "code": "MAD 563E",
-  "branch": "MAD",
-  "level": "LU",
-  "name": "Special Topics in Mining Eng.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Deniz Tumaç",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13344",
   "code": "MAD 596",
   "branch": "MAD",
@@ -874,87 +739,6 @@
   ],
   "capacity": 30,
   "enrolled": 9,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13345",
-  "code": "MAD 602",
-  "branch": "MAD",
-  "level": "LU",
-  "name": "Ocak Yangın.Gaz Püskür&Patlama",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Abdullah Fişne",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "14:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13346",
-  "code": "MAD 603E",
-  "branch": "MAD",
-  "level": "LU",
-  "name": "Rock Cut.Mech.in Mine&Tun.Exca",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Deniz Tumaç",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "14:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13347",
-  "code": "MAD 605E",
-  "branch": "MAD",
-  "level": "LU",
-  "name": "Microtunnelling",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hanifi Çopur",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "14:30/17:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -988,33 +772,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13349",
-  "code": "MAD 623",
-  "branch": "MAD",
-  "level": "LU",
-  "name": "Maden&Tünel.İleri Sağlam.Yönt.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hakan Tunçdemir",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "315"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13350",
   "code": "MAD 625",
   "branch": "MAD",
@@ -1042,33 +799,6 @@
   "classReq": "-"
  },
  {
-  "crn": "13351",
-  "code": "MAD 627E",
-  "branch": "MAD",
-  "level": "LU",
-  "name": "Methan.Co.in Underg.Mine.&Tun.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Abdullah Fişne",
-  "buildings": [
-   "MDB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 30,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "13353",
   "code": "MAD DRT",
   "branch": "MAD",
@@ -1084,27 +814,6 @@
   "rooms": [],
   "capacity": 200,
   "enrolled": 8,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13354",
-  "code": "MAD YET",
-  "branch": "MAD",
-  "level": "LU",
-  "name": "Yeterlik Aşaması",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hanifi Çopur",
-  "buildings": [],
-  "days": [],
-  "times": [
-   "-/-"
-  ],
-  "rooms": [],
-  "capacity": 200,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

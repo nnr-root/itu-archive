@@ -5995,33 +5995,6 @@
   "classReq": "-"
  },
  {
-  "crn": "11856",
-  "code": "KIM 504E",
-  "branch": "KIM",
-  "level": "LU",
-  "name": "Electroanalytical Methods",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "İpek Becerik",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "11857",
   "code": "KIM 512E",
   "branch": "KIM",
@@ -6265,33 +6238,6 @@
   "classReq": "-"
  },
  {
-  "crn": "11866",
-  "code": "KIM 537",
-  "branch": "KIM",
-  "level": "LU",
-  "name": "Doğal&Sentetik Makromoleküller",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Nilgün Kızılcan",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "11867",
   "code": "KIM 539",
   "branch": "KIM",
@@ -6421,87 +6367,6 @@
   ],
   "capacity": 20,
   "enrolled": 17,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11872",
-  "code": "KIM 608",
-  "branch": "KIM",
-  "level": "LU",
-  "name": "Ftalosiyaninler ve Uygulam.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Mukaddes Özçeşmeci",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "13:30/16:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11873",
-  "code": "KIM 615E",
-  "branch": "KIM",
-  "level": "LU",
-  "name": "Cyclization Reac.with Metals",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Barış Yücel",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Cuma"
-  ],
-  "times": [
-   "14:00/16:59"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11874",
-  "code": "KIM 620E",
-  "branch": "KIM",
-  "level": "LU",
-  "name": "Contem.The.in Poly.Chem.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Kerem Kaya",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "12:30/15:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 0,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

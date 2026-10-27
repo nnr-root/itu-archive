@@ -4596,7 +4596,7 @@
     "2026-2027-guz",
     "Ersin Sayar",
     40,
-    14,
+    15,
     "Cuma"
    ],
    [
@@ -9622,7 +9622,7 @@
     "2026-2027-guz",
     "Senem Kurşun",
     40,
-    16,
+    17,
     "Perşembe, Perşembe"
    ],
    [
@@ -13027,7 +13027,7 @@
     "2026-2027-guz",
     "Ali Gökşenli",
     40,
-    58,
+    59,
     "Pazartesi"
    ],
    [
@@ -14735,7 +14735,7 @@
     "2026-2027-guz",
     "Murat Tosun",
     40,
-    23,
+    24,
     "Salı"
    ],
    [
@@ -18098,22 +18098,6 @@
    ]
   ]
  },
- "MAK 605": {
-  "code": "MAK 605",
-  "name": "Türbomak.Aero-Termodinamiği",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "-",
-    0,
-    0,
-    ""
-   ]
-  ]
- },
  "MAK 608E": {
   "code": "MAK 608E",
   "name": "Modelling of Turbulance",
@@ -18262,22 +18246,6 @@
     30,
     10,
     "Perşembe"
-   ]
-  ]
- },
- "MAK 692E": {
-  "code": "MAK 692E",
-  "name": "Statis.Thermodyn.of Ther.Sys.",
-  "terms": [
-   "2026-2027-guz"
-  ],
-  "rows": [
-   [
-    "2026-2027-guz",
-    "Seyhan Onbaşıoğlu",
-    30,
-    0,
-    "Salı"
    ]
   ]
  },
