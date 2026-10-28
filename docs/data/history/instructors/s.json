@@ -32050,6 +32050,13 @@
   "rows": [
    [
     "2026-2027-guz",
+    "FIZ 101EL",
+    "Physics I Laboratory",
+    30,
+    38
+   ],
+   [
+    "2026-2027-guz",
     "FIZ 214",
     "Dalgalar Fiziği",
     75,
@@ -38323,27 +38330,6 @@
   "name": "Sinem Şaşmaz",
   "rows": [
    [
-    "2026-2027-guz",
-    "FIZ 102E",
-    "Physics II",
-    125,
-    120
-   ],
-   [
-    "2026-2027-guz",
-    "FIZ 101EL",
-    "Physics I Laboratory",
-    25,
-    23
-   ],
-   [
-    "2026-2027-guz",
-    "FIZ 101EL",
-    "Physics I Laboratory",
-    30,
-    38
-   ],
-   [
     "2025-2026-guz",
     "MYZ 310E",
     "Machine Learning in Physics",
@@ -38358,7 +38344,7 @@
     30
    ]
   ],
-  "terms": 3
+  "terms": 2
  },
  "Soner Aydınlık": {
   "name": "Soner Aydınlık",
