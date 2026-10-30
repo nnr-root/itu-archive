@@ -313,10 +313,10 @@
   "branch": "ISS",
   "level": "LU",
   "name": "Fikri-Sanayi Mülkiyet Hukuku",
-  "method": "Fiziksel (Yüz yüze)",
+  "method": "Sanal (Çevrimiçi/Online)",
   "instructor": "Özgür Öztürk",
   "buildings": [
-   "MSB"
+   "Online/Çevrimiçi"
   ],
   "days": [
    "Salı"
@@ -325,10 +325,10 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "B11"
+   "--"
   ],
   "capacity": 25,
-  "enrolled": 4,
+  "enrolled": 11,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

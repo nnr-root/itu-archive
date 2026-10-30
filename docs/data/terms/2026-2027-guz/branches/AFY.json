@@ -140,10 +140,10 @@
   "branch": "AFY",
   "level": "LU",
   "name": "Building Disaster Resilient Communities",
-  "method": "Fiziksel (Yüz yüze)",
+  "method": "Sanal (Çevrimiçi/Online)",
   "instructor": "Abdullah Can Zülfikar",
   "buildings": [
-   "AYB"
+   "Online/Çevrimiçi"
   ],
   "days": [
    "Salı"
@@ -155,7 +155,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 6,
+  "enrolled": 12,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
