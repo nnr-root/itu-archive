@@ -82425,19 +82425,6 @@
   ]
  ],
  [
-  "12642",
-  "YTT 503E",
-  "Innovative&Func.Mat.&Prod.",
-  "YTT",
-  "Emel Önder Karaoğlu , Cevza Candan",
-  "Çarşamba 11:30/14:29",
-  30,
-  1,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "12644",
   "YTT 507E",
   "Polymers for Techn.Textiles",
@@ -82498,19 +82485,6 @@
   "Perşembe 11:30/14:29",
   30,
   5,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "12650",
-  "YTT 519E",
-  "Military Textiles",
-  "YTT",
-  "Özlem İpek Kalaoğlu Altan , Aslı Tunçay Atalay",
-  "Çarşamba 08:30/11:29",
-  30,
-  1,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -87551,32 +87525,6 @@
   []
  ],
  [
-  "13125",
-  "SBP 603",
-  "Şehirsel Büyüme",
-  "SBP",
-  "Ebru Kerimoğlu",
-  "Salı 09:30/12:29",
-  15,
-  1,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
-  "13126",
-  "SBP 609E",
-  "Advanced Planning Techniques",
-  "SBP",
-  "Hasan Serdar Kaya",
-  "Pazartesi 09:30/12:29",
-  15,
-  1,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
- ],
- [
   "13128",
   "SBP 606E",
   "Culture and Urban Space",
@@ -87828,7 +87776,7 @@
   "PST 530E",
   "Polymer Characterization",
   "PST",
-  "Tuba Çakır Çanak , Cüneyt Hüseyin Ünlü",
+  "Tuba Çakır Çanak",
   "Pazartesi 08:30/11:29",
   25,
   13,
@@ -93512,7 +93460,7 @@
   "Halit Süleyman Türkmen",
   "",
   200,
-  20,
+  21,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
@@ -110439,7 +110387,7 @@
   "Layıka Ney Ece Arıburun Kırca",
   "Cuma 09:30/12:29",
   40,
-  36,
+  35,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -110479,7 +110427,7 @@
   "Naz Gürpınar",
   "Cuma 09:30/12:29",
   30,
-  30,
+  31,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -110651,7 +110599,7 @@
   "Ekrem Cem Alppay",
   "Pazartesi 09:30/12:29",
   100,
-  95,
+  94,
   "LS",
   "Fiziksel (Yüz yüze)",
   [
@@ -125669,7 +125617,7 @@
   "Distributed Systems",
   "BLG",
   "Deniz Turgay Altılar",
-  "Çarşamba 08:30/11:59",
+  "Çarşamba 08:30/11:29",
   0,
   16,
   "LU",
@@ -125910,7 +125858,7 @@
   "Bilimsel Araş.,Etik ve Seminer",
   "ELK",
   "Mustafa Bağrıyanık",
-  "Cuma 09:00/11:59",
+  "Cuma 09:00/10:59",
   0,
   9,
   "LU",
@@ -126211,7 +126159,7 @@
   "Scien.Research, Ethic&Seminar",
   "MIA",
   "Abdussamet Subaşı",
-  "Pazartesi 13:00/15:59",
+  "Pazartesi 13:00/14:59",
   0,
   15,
   "LU",
@@ -126498,7 +126446,7 @@
   "Bilimsel Araş.,Etik ve Seminer",
   "MBM",
   "Nuri Solak",
-  "Pazartesi 09:00/11:59",
+  "Pazartesi 09:00/10:59",
   0,
   5,
   "LU",
@@ -127407,19 +127355,6 @@
    "MUT_LS",
    "MZT_LS"
   ]
- ],
- [
-  "15839",
-  "BTT 598",
-  "Proje",
-  "BTT",
-  "Sevil Hatice Baltalı Tırpan",
-  "",
-  1,
-  1,
-  "LU",
-  "Fiziksel (Yüz yüze)",
-  []
  ],
  [
   "15840",
@@ -130910,6 +130845,19 @@
   "Pazartesi 17:30/20:29",
   0,
   23,
+  "LU",
+  "Fiziksel (Yüz yüze)",
+  []
+ ],
+ [
+  "16087",
+  "BTT 598",
+  "Proje",
+  "BTT",
+  "Sevil Hatice Baltalı Tırpan",
+  "",
+  5,
+  1,
   "LU",
   "Fiziksel (Yüz yüze)",
   []
