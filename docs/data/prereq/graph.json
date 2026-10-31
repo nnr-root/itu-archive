@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T08:36:42Z",
+ "generatedAt": "2026-10-31T08:24:49Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -6146,7 +6146,7 @@
    "code": "DEN 412E",
    "name": "Underwater Acoustics",
    "branch": "DEN",
-   "requirement": "( ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) ) Ve ( ( DNK 201 MIN. DD Veya DNK 201E MIN. DD ) Veya ( DNK 203 MIN. DD Veya DNK 203E MIN. DD ) )"
+   "requirement": "( ( MAT 210 MIN. DD Veya MAT 210E MIN. DD ) Veya ( DEN 210E MIN. DD Veya DEN 210 MIN. DD ) )"
   },
   {
    "code": "DEN 421",
@@ -44283,10 +44283,6 @@
   },
   {
    "from": "DNK 201",
-   "to": "DEN 412E"
-  },
-  {
-   "from": "DNK 201",
    "to": "DEN 427"
   },
   {
@@ -44460,10 +44456,6 @@
   {
    "from": "DNK 201E",
    "to": "DEN 214"
-  },
-  {
-   "from": "DNK 201E",
-   "to": "DEN 412E"
   },
   {
    "from": "DNK 201E",
@@ -44643,10 +44635,6 @@
   },
   {
    "from": "DNK 203",
-   "to": "DEN 412E"
-  },
-  {
-   "from": "DNK 203",
    "to": "DEN 427"
   },
   {
@@ -44748,10 +44736,6 @@
   {
    "from": "DNK 203E",
    "to": "DEN 214"
-  },
-  {
-   "from": "DNK 203E",
-   "to": "DEN 412E"
   },
   {
    "from": "DNK 203E",
