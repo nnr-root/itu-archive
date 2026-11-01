@@ -30,24 +30,16 @@
       ],
       "options": [
        {
-        "code": "END 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
         "code": "END 596E",
         "name": "Scientific Research, Ethic and Seminar"
-       },
-       {
-        "code": "IKY 596",
-        "name": "Bilimsel Araştırma, Etik ve Seminer"
        },
        {
         "code": "MHY 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "MHY 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
+        "code": "IKY 596",
+        "name": "Bilimsel Araştırma, Etik ve Seminer"
        }
       ]
      }
@@ -66,14 +58,6 @@
         "name": "Engineering Mathematics"
        },
        {
-        "code": "END 500",
-        "name": "Mühendislik Matematiği"
-       },
-       {
-        "code": "MHY 510",
-        "name": "Mühendislik Matematiği"
-       },
-       {
         "code": "MHY 510E",
         "name": "Engineering Mathematics"
        }
@@ -90,23 +74,15 @@
       ],
       "options": [
        {
-        "code": "END 505E",
-        "name": "Sequencing&Sche.in Manufa."
-       },
-       {
-        "code": "END 505",
-        "name": "Üretimde Sıralama ve Çizel."
-       },
-       {
         "code": "END 506E",
         "name": "Advanced Engineering Economics"
        },
        {
-        "code": "END 508E",
-        "name": "Mathematical Programming"
+        "code": "END 505E",
+        "name": "Sequencing&Sche.in Manufa."
        },
        {
-        "code": "END 508",
+        "code": "END 508E",
         "name": "Mathematical Programming"
        },
        {
@@ -126,20 +102,12 @@
       ],
       "options": [
        {
-        "code": "END 505",
-        "name": "Üretimde Sıralama ve Çizel."
-       },
-       {
-        "code": "END 505E",
-        "name": "Sequencing&Sche.in Manufa."
-       },
-       {
         "code": "END 506E",
         "name": "Advanced Engineering Economics"
        },
        {
-        "code": "END 508",
-        "name": "Mathematical Programming"
+        "code": "END 505E",
+        "name": "Sequencing&Sche.in Manufa."
        },
        {
         "code": "END 508E",
@@ -162,20 +130,12 @@
       ],
       "options": [
        {
-        "code": "END 505",
-        "name": "Üretimde Sıralama ve Çizel."
-       },
-       {
-        "code": "END 505E",
-        "name": "Sequencing&Sche.in Manufa."
-       },
-       {
         "code": "END 506E",
         "name": "Advanced Engineering Economics"
        },
        {
-        "code": "END 508",
-        "name": "Mathematical Programming"
+        "code": "END 505E",
+        "name": "Sequencing&Sche.in Manufa."
        },
        {
         "code": "END 508E",
@@ -198,24 +158,24 @@
       ],
       "options": [
        {
-        "code": "BVA 509E",
-        "name": "Machine Learni.with Big Data"
-       },
-       {
-        "code": "BVA 511E",
-        "name": "Time Series and Forecasting"
-       },
-       {
         "code": "BVA 527E",
         "name": "Mathematics for Machine Learning"
+       },
+       {
+        "code": "BVA 529E",
+        "name": "Reinforce.Lear.for Busi.App."
        },
        {
         "code": "BVA 528E",
         "name": "Deep Learning App in Business"
        },
        {
-        "code": "BVA 529E",
-        "name": "Reinforce.Lear.for Busi.App."
+        "code": "BVA 509E",
+        "name": "Machine Learni.with Big Data"
+       },
+       {
+        "code": "BVA 511E",
+        "name": "Time Series and Forecasting"
        }
       ]
      }

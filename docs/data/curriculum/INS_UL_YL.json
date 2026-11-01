@@ -30,36 +30,24 @@
       ],
       "options": [
        {
-        "code": "HSK 596E",
+        "code": "YAP 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "HSK 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
+        "code": "ULS 596E",
+        "name": "Scientific Research, Ethic and Seminar"
        },
        {
-        "code": "ULS 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
+        "code": "ZMG 596E",
+        "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "YAP 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "YAP 596E",
+        "code": "HSK 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
         "code": "YIP 596",
         "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "ZMG 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "ZMG 596E",
-        "name": "Scien.Rese., Ethic&Seminar"
        }
       ]
      }
@@ -74,12 +62,12 @@
       ],
       "options": [
        {
-        "code": "ULS 501E",
-        "name": "Mathe.&Sta.Meth.in Tran.Eng."
-       },
-       {
         "code": "YAP 501E",
         "name": "Engineering Mathematics"
+       },
+       {
+        "code": "ULS 501E",
+        "name": "Mathe.&Sta.Meth.in Tran.Eng."
        },
        {
         "code": "YIP 501E",
@@ -98,32 +86,28 @@
       ],
       "options": [
        {
-        "code": "ULS 503E",
-        "name": "Transport Infrastructure Anal."
+        "code": "ULS 512",
+        "name": "Demiryolu Üstyapısı Hesaplam."
        },
        {
         "code": "ULS 505E",
         "name": "Transportation Sys. Analysis"
        },
        {
-        "code": "ULS 506",
-        "name": "Karayolu ve Havaalanı Üst.Tas."
-       },
-       {
-        "code": "ULS 511",
-        "name": "Ulaştırma Ekonomisi"
-       },
-       {
-        "code": "ULS 512",
-        "name": "Demiryolu Üstyapısı Hesaplam."
-       },
-       {
-        "code": "ULS 515",
-        "name": "Trafik Tekniği Etüdleri"
+        "code": "ULS 506E",
+        "name": "Design.of Road&Airport Pavem."
        },
        {
         "code": "ULS 515E",
         "name": "Traffic Technics and Studies"
+       },
+       {
+        "code": "ULS 503E",
+        "name": "Transport Infrastructure Anal."
+       },
+       {
+        "code": "ULS 511",
+        "name": "Ulaştırma Ekonomisi"
        }
       ]
      }
@@ -138,32 +122,28 @@
       ],
       "options": [
        {
-        "code": "ULS 503E",
-        "name": "Transport Infrastructure Anal."
+        "code": "ULS 512",
+        "name": "Demiryolu Üstyapısı Hesaplam."
        },
        {
         "code": "ULS 505E",
         "name": "Transportation Sys. Analysis"
        },
        {
-        "code": "ULS 506",
-        "name": "Karayolu ve Havaalanı Üst.Tas."
-       },
-       {
-        "code": "ULS 511",
-        "name": "Ulaştırma Ekonomisi"
-       },
-       {
-        "code": "ULS 512",
-        "name": "Demiryolu Üstyapısı Hesaplam."
+        "code": "ULS 506E",
+        "name": "Design.of Road&Airport Pavem."
        },
        {
         "code": "ULS 515E",
         "name": "Traffic Technics and Studies"
        },
        {
-        "code": "ULS 515",
-        "name": "Trafik Tekniği Etüdleri"
+        "code": "ULS 503E",
+        "name": "Transport Infrastructure Anal."
+       },
+       {
+        "code": "ULS 511",
+        "name": "Ulaştırma Ekonomisi"
        }
       ]
      }
@@ -178,32 +158,28 @@
       ],
       "options": [
        {
-        "code": "ULS 503E",
-        "name": "Transport Infrastructure Anal."
+        "code": "ULS 512",
+        "name": "Demiryolu Üstyapısı Hesaplam."
        },
        {
         "code": "ULS 505E",
         "name": "Transportation Sys. Analysis"
        },
        {
-        "code": "ULS 506",
-        "name": "Karayolu ve Havaalanı Üst.Tas."
-       },
-       {
-        "code": "ULS 511",
-        "name": "Ulaştırma Ekonomisi"
-       },
-       {
-        "code": "ULS 512",
-        "name": "Demiryolu Üstyapısı Hesaplam."
-       },
-       {
-        "code": "ULS 515",
-        "name": "Trafik Tekniği Etüdleri"
+        "code": "ULS 506E",
+        "name": "Design.of Road&Airport Pavem."
        },
        {
         "code": "ULS 515E",
         "name": "Traffic Technics and Studies"
+       },
+       {
+        "code": "ULS 503E",
+        "name": "Transport Infrastructure Anal."
+       },
+       {
+        "code": "ULS 511",
+        "name": "Ulaştırma Ekonomisi"
        }
       ]
      }

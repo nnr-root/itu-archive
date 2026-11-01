@@ -121,80 +121,80 @@
       ],
       "options": [
        {
-        "code": "CAB 1013",
-        "name": "Viyola I"
+        "code": "CAB 151E",
+        "name": "Kanun I"
        },
        {
-        "code": "CAB 1101",
-        "name": "Keman I"
+        "code": "CAB 163E",
+        "name": "Mey I"
+       },
+       {
+        "code": "CAB 169E",
+        "name": "3 Strings Kemençe I"
+       },
+       {
+        "code": "CAB 1013E",
+        "name": "Viola I"
+       },
+       {
+        "code": "CAB 1101E",
+        "name": "Violin I"
+       },
+       {
+        "code": "CAB 155E",
+        "name": "Tar I"
        },
        {
         "code": "CAB 1183",
         "name": "Kontrbas I"
        },
        {
-        "code": "CAB 151",
-        "name": "Kanun I"
+        "code": "CAB 165E",
+        "name": "Kaval I"
+       },
+       {
+        "code": "CAB 161E",
+        "name": "Ney I"
        },
        {
         "code": "CAB 153",
         "name": "Tanbur I"
        },
        {
-        "code": "CAB 155",
-        "name": "Tar I"
-       },
-       {
-        "code": "CAB 157",
-        "name": "Bağlama I"
-       },
-       {
-        "code": "CAB 159",
+        "code": "CAB 159E",
         "name": "Ud I"
-       },
-       {
-        "code": "CAB 161",
-        "name": "Ney I"
-       },
-       {
-        "code": "CAB 163",
-        "name": "Mey I"
-       },
-       {
-        "code": "CAB 165",
-        "name": "Kaval I"
        },
        {
         "code": "CAB 167",
         "name": "Klarnet I"
        },
        {
-        "code": "CAB 169",
-        "name": "3 Telli Kemençe I"
+        "code": "CAB 157E",
+        "name": "Bağlama I"
        },
        {
-        "code": "CAB 171",
-        "name": "4 Telli Kemençe I"
-       },
-       {
-        "code": "CAB 175",
+        "code": "CAB 175E",
         "name": "Kemane I"
+       },
+       {
+        "code": "CAB 187E",
+        "name": "Guitar I"
        },
        {
         "code": "CAB 181",
         "name": "Kudüm I"
        },
        {
-        "code": "CAB 187",
-        "name": "Gitar I"
+        "code": "CAB 195E",
+        "name": "Violoncello I"
        },
        {
-        "code": "CAB 191",
+        "code": "CAB 171E",
+        "name": "4 Strings Kemençe I"
+       },
+       {
+        "code": "CAB 191E",
         "name": "Lavta I"
-       },
-       {
-        "code": "CAB 195",
-        "name": "Viyolonsel I"
        }
       ]
      }
@@ -288,19 +288,11 @@
       ],
       "options": [
        {
-        "code": "CAB 1014",
-        "name": "Viyola II"
+        "code": "CAB 1014E",
+        "name": "Viola II"
        },
        {
-        "code": "CAB 1102",
-        "name": "Keman II"
-       },
-       {
-        "code": "CAB 1184",
-        "name": "Kontrbas II"
-       },
-       {
-        "code": "CAB 152",
+        "code": "CAB 152E",
         "name": "Kanun II"
        },
        {
@@ -308,27 +300,23 @@
         "name": "Tanbur II"
        },
        {
-        "code": "CAB 156",
-        "name": "Tar II"
-       },
-       {
-        "code": "CAB 158",
-        "name": "Bağlama II"
-       },
-       {
-        "code": "CAB 160",
-        "name": "Ud II"
-       },
-       {
-        "code": "CAB 162",
+        "code": "CAB 162E",
         "name": "Ney II"
        },
        {
-        "code": "CAB 164",
+        "code": "CAB 164E",
         "name": "Mey II"
        },
        {
-        "code": "CAB 166",
+        "code": "CAB 172E",
+        "name": "4 Strings Kemençe II"
+       },
+       {
+        "code": "CAB 158E",
+        "name": "Bağlama II"
+       },
+       {
+        "code": "CAB 166E",
         "name": "Kaval II"
        },
        {
@@ -336,32 +324,44 @@
         "name": "Klarnet II"
        },
        {
-        "code": "CAB 170",
-        "name": "3 Telli Kemençe II"
+        "code": "CAB 188E",
+        "name": "Guitar II"
        },
        {
-        "code": "CAB 172",
-        "name": "4 Telli Kemençe II"
+        "code": "CAB 160E",
+        "name": "Ud II"
        },
        {
-        "code": "CAB 176",
+        "code": "CAB 176E",
         "name": "Kemane II"
+       },
+       {
+        "code": "CAB 170E",
+        "name": "3 Strings Kemençe II"
+       },
+       {
+        "code": "CAB 1102E",
+        "name": "Violin II"
+       },
+       {
+        "code": "CAB 1184",
+        "name": "Kontrbas II"
+       },
+       {
+        "code": "CAB 156E",
+        "name": "Tar II"
        },
        {
         "code": "CAB 182",
         "name": "Kudüm II"
        },
        {
-        "code": "CAB 188",
-        "name": "Gitar II"
-       },
-       {
-        "code": "CAB 192",
+        "code": "CAB 192E",
         "name": "Lavta II"
        },
        {
-        "code": "CAB 196",
-        "name": "Viyolonsel II"
+        "code": "CAB 196E",
+        "name": "Violoncello II"
        }
       ]
      }
@@ -376,84 +376,36 @@
       ],
       "options": [
        {
-        "code": "BEB 120",
-        "name": "Spor ve Temel Bilimler"
-       },
-       {
-        "code": "BEB 121",
-        "name": "Spor ve Teknoloji"
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
-       },
-       {
-        "code": "HUK 216",
-        "name": "Telekomünikasyon Hukuku"
-       },
-       {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
-       },
-       {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
-       },
-       {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
         "code": "ISL 465E",
         "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ITB 020",
-        "name": "Modernitenin Oluşumu"
+        "code": "ING 103SC",
+        "name": "Science Communication"
        },
        {
-        "code": "ITB 020E",
-        "name": "Formations of Modernity"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
-        "code": "ITB 037",
-        "name": "Bilgi, Dil ve Mantık"
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "ITB 037E",
         "name": "Knowledge, Language & Logic"
-       },
-       {
-        "code": "ITB 087",
-        "name": "Medya ve Toplum"
        },
        {
         "code": "ITB 087E",
@@ -464,260 +416,180 @@
         "name": "International.Rel.and Globali."
        },
        {
-        "code": "ITB 094",
-        "name": "Uluslararası İlişkilerve Küreselleşme"
-       },
-       {
         "code": "ITB 095E",
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 095",
-        "name": "Teknoloji, Politika ve Hukuk"
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
        },
        {
-        "code": "ITB 143",
-        "name": "Durrel ve Said:Oryanta.Uyg ve"
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+        "code": "HUK 218E",
+        "name": "Commercial Law"
        },
        {
-        "code": "ITB 151",
-        "name": "İnsan Kaynakları Yönetimi"
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
        },
        {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 171",
-        "name": "Bilim, Teknoloji ve Toplum"
-       },
-       {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 179",
-        "name": "İçiçe Ayr.Ede.:Vizyone,Seyf.,A"
-       },
-       {
-        "code": "ITB 201",
-        "name": "İnsan ve Topl. Bilim. Giriş"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 202",
-        "name": "Dünya Tarihi"
-       },
-       {
-        "code": "ITB 203",
-        "name": "Sosyoloji"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 204",
-        "name": "Siyaset Bilimi"
-       },
-       {
-        "code": "ITB 205",
-        "name": "Felsefe"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
-       },
-       {
-        "code": "ITB 206E",
-        "name": "Issues in World Politics"
-       },
-       {
-        "code": "ITB 206",
-        "name": "Dünya Politikasında Meseleler"
-       },
-       {
-        "code": "ITB 207",
-        "name": "Osmanlı Tarihi"
-       },
-       {
-        "code": "ITB 207E",
-        "name": "Ottoman History"
-       },
-       {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
-        "code": "ITB 208",
-        "name": "Modern Türkiye'nin Oluşumu"
-       },
-       {
-        "code": "ITB 209",
-        "name": "Türkiye ve Dünya"
-       },
-       {
-        "code": "ITB 209E",
-        "name": "Türkiye in World Affairs"
-       },
-       {
-        "code": "ITB 211E",
-        "name": "Istanbul:Hist.,Art and Society"
-       },
-       {
         "code": "ITB 212E",
         "name": "Art,Culture and Society"
-       },
-       {
-        "code": "ITB 213",
-        "name": "Edebiyat ve Toplum"
-       },
-       {
-        "code": "ITB 213E",
-        "name": "Toplics in Literature and Society"
-       },
-       {
-        "code": "ITB 214",
-        "name": "Modern Ortadoğu"
-       },
-       {
-        "code": "ITB 214E",
-        "name": "The Modern Middle East"
-       },
-       {
-        "code": "ITB 215",
-        "name": "Tarih ve Toplum"
-       },
-       {
-        "code": "ITB 215E",
-        "name": "Topics in Hist.and Society"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
-       },
-       {
-        "code": "ITB 216",
-        "name": "Ekonomi ve Toplum"
-       },
-       {
-        "code": "ITB 217E",
-        "name": "Engineering Ethics"
-       },
-       {
-        "code": "ITB 217",
-        "name": "Mühendislik Etiği"
-       },
-       {
-        "code": "ITB 218E",
-        "name": "History of Science&Technology"
-       },
-       {
-        "code": "ITB 218",
-        "name": "Bilim ve Teknoloji Tarihi"
-       },
-       {
-        "code": "ITB 219",
-        "name": "Etik"
-       },
-       {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 220",
-        "name": "Psikoloji"
-       },
-       {
-        "code": "ITB 221",
-        "name": "Anadolu Arkeolojisi"
-       },
-       {
-        "code": "ITB 222",
-        "name": "Kent ve Toplum"
-       },
-       {
-        "code": "ITB 222E",
-        "name": "City and Society"
-       },
-       {
-        "code": "ITB 224",
-        "name": "Çevre ve Toplum"
-       },
-       {
-        "code": "ITB 224E",
-        "name": "Environment and Society"
-       },
-       {
-        "code": "ITB 226E",
-        "name": "Philosophy of Art"
-       },
-       {
-        "code": "ITB 227",
-        "name": "Siyaset Teorisi"
-       },
-       {
-        "code": "ITB 227E",
-        "name": "Political Theory"
-       },
-       {
-        "code": "ITB 228",
-        "name": "Toplumsal Cinsiyet Çalışmaları"
        },
        {
         "code": "ITB 228E",
         "name": "Gender Studies"
        },
        {
-        "code": "ITB 230",
-        "name": "Afet Bilinci"
+        "code": "ITB 206E",
+        "name": "Issues in World Politics"
+       },
+       {
+        "code": "ITB 207E",
+        "name": "Ottoman History"
+       },
+       {
+        "code": "ITB 209E",
+        "name": "Türkiye in World Affairs"
+       },
+       {
+        "code": "ITB 217E",
+        "name": "Engineering Ethics"
+       },
+       {
+        "code": "ITB 233E",
+        "name": "Anthropology"
+       },
+       {
+        "code": "ITB 203E",
+        "name": "Sociology"
+       },
+       {
+        "code": "ITB 230E",
+        "name": "Disaster Awareness"
        },
        {
         "code": "ITB 231E",
         "name": "Volunteering Studies"
        },
        {
-        "code": "ITB 231",
-        "name": "Gönüllülük Çalışmaları"
+        "code": "ITB 234E",
+        "name": "The Rise of Civilizations"
        },
        {
-        "code": "ITB 233",
-        "name": "Antropoloji"
+        "code": "ITB 213E",
+        "name": "Toplics in Literature and Society"
        },
        {
-        "code": "ITB 234",
-        "name": "Medeniyetlerin Doğuşu"
+        "code": "ITB 219E",
+        "name": "Ethics"
+       },
+       {
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "ITB 214E",
+        "name": "The Modern Middle East"
+       },
+       {
+        "code": "ITB 215E",
+        "name": "Topics in Hist.and Society"
+       },
+       {
+        "code": "ITB 226E",
+        "name": "Philosophy of Art"
+       },
+       {
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
+       },
+       {
+        "code": "ITB 222E",
+        "name": "City and Society"
+       },
+       {
+        "code": "ITB 224E",
+        "name": "Environment and Society"
+       },
+       {
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
+       },
+       {
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
+       },
+       {
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
+        "code": "ITB 227E",
+        "name": "Political Theory"
+       },
+       {
+        "code": "BEB 121",
+        "name": "Spor ve Teknoloji"
+       },
+       {
+        "code": "BEB 120",
+        "name": "Spor ve Temel Bilimler"
        },
        {
         "code": "ITB 235E",
         "name": "Türkiye and EuropeanUnion"
-       },
-       {
-        "code": "ITB 235",
-        "name": "Türkiye ve Avrupa Birliği"
        }
       ]
      }
@@ -835,80 +707,80 @@
       ],
       "options": [
        {
-        "code": "CAB 2013",
-        "name": "Viyola III"
+        "code": "CAB 2101E",
+        "name": "Violin III"
        },
        {
-        "code": "CAB 2101",
-        "name": "Keman III"
+        "code": "CAB 251E",
+        "name": "Kanun III"
+       },
+       {
+        "code": "CAB 2013E",
+        "name": "Viola III"
+       },
+       {
+        "code": "CAB 257E",
+        "name": "Bağlama III"
        },
        {
         "code": "CAB 2183",
         "name": "Kontrbas III"
        },
        {
-        "code": "CAB 251",
-        "name": "Kanun III"
-       },
-       {
-        "code": "CAB 253",
-        "name": "Tanbur III"
-       },
-       {
-        "code": "CAB 255",
-        "name": "Tar III"
-       },
-       {
-        "code": "CAB 257",
-        "name": "Bağlama III"
-       },
-       {
-        "code": "CAB 259",
+        "code": "CAB 259E",
         "name": "Ud III"
        },
        {
-        "code": "CAB 261",
-        "name": "Ney III"
-       },
-       {
-        "code": "CAB 263",
+        "code": "CAB 263E",
         "name": "Mey III"
        },
        {
-        "code": "CAB 265",
+        "code": "CAB 265E",
         "name": "Kaval III"
        },
        {
-        "code": "CAB 267",
-        "name": "Klarnet III"
+        "code": "CAB 261E",
+        "name": "Ney III"
        },
        {
-        "code": "CAB 269",
-        "name": "3 Telli Kemençe III"
+        "code": "CAB 255E",
+        "name": "Tar III"
        },
        {
-        "code": "CAB 271",
-        "name": "4 Telli Kemençe III"
-       },
-       {
-        "code": "CAB 275",
-        "name": "Kemane III"
+        "code": "CAB 271E",
+        "name": "4 Strings Kemençe III"
        },
        {
         "code": "CAB 281",
         "name": "Def"
        },
        {
-        "code": "CAB 287",
-        "name": "Gitar III"
+        "code": "CAB 253",
+        "name": "Tanbur III"
        },
        {
-        "code": "CAB 291",
+        "code": "CAB 275E",
+        "name": "Kemane III"
+       },
+       {
+        "code": "CAB 287E",
+        "name": "Guitar III"
+       },
+       {
+        "code": "CAB 291E",
         "name": "Lavta III"
        },
        {
-        "code": "CAB 295",
-        "name": "Viyolonsel III"
+        "code": "CAB 295E",
+        "name": "Violoncello III"
+       },
+       {
+        "code": "CAB 267",
+        "name": "Klarnet III"
+       },
+       {
+        "code": "CAB 269E",
+        "name": "3 Strings Kemençe III"
        }
       ]
      }
@@ -1026,80 +898,80 @@
       ],
       "options": [
        {
-        "code": "CAB 2014",
-        "name": "Viyola IV"
+        "code": "CAB 2102E",
+        "name": "Violin IV"
        },
        {
-        "code": "CAB 2102",
-        "name": "Keman IV"
+        "code": "CAB 2014E",
+        "name": "Viola IV"
        },
        {
         "code": "CAB 2184",
         "name": "Kontrbas IV"
        },
        {
-        "code": "CAB 252",
-        "name": "Kanun IV"
-       },
-       {
         "code": "CAB 254",
         "name": "Tanbur IV"
        },
        {
-        "code": "CAB 256",
-        "name": "Tar IV"
-       },
-       {
-        "code": "CAB 258",
-        "name": "Bağlama IV"
-       },
-       {
-        "code": "CAB 260",
-        "name": "Ud IV"
-       },
-       {
-        "code": "CAB 262",
+        "code": "CAB 262E",
         "name": "Ney IV"
        },
        {
-        "code": "CAB 264",
-        "name": "Mey IV"
-       },
-       {
-        "code": "CAB 266",
+        "code": "CAB 266E",
         "name": "Kaval IV"
        },
        {
-        "code": "CAB 268",
-        "name": "Klarnet IV"
+        "code": "CAB 288E",
+        "name": "Guitar IV"
        },
        {
-        "code": "CAB 270",
-        "name": "3 Telli Kemence IV"
+        "code": "CAB 256E",
+        "name": "Tar IV"
        },
        {
-        "code": "CAB 272",
-        "name": "4 Telli Kemençe IV"
+        "code": "CAB 252E",
+        "name": "Kanun IV"
        },
        {
-        "code": "CAB 276",
+        "code": "CAB 260E",
+        "name": "Ud IV"
+       },
+       {
+        "code": "CAB 258E",
+        "name": "Bağlama IV"
+       },
+       {
+        "code": "CAB 270E",
+        "name": "3 Strings Kemençe IV"
+       },
+       {
+        "code": "CAB 276E",
         "name": "Kemane IV"
+       },
+       {
+        "code": "CAB 264E",
+        "name": "Mey IV"
        },
        {
         "code": "CAB 282",
         "name": "Bendir"
        },
        {
-        "code": "CAB 288",
-        "name": "Gitar IV"
+        "code": "CAB 268",
+        "name": "Klarnet IV"
        },
        {
-        "code": "CAB 292",
+        "code": "CAB 272E",
+        "name": "4 Strings Kemençe IV"
+       },
+       {
+        "code": "CAB 292E",
         "name": "Lavta IV"
        },
        {
-        "code": "CAB 296",
-        "name": "Viyolonsel IV"
+        "code": "CAB 296E",
+        "name": "Violoncello IV"
        }
       ]
      }
@@ -1213,28 +1085,40 @@
         "name": "Keman V"
        },
        {
-        "code": "CAB 3183",
-        "name": "Kontrbas V"
-       },
-       {
         "code": "CAB 351",
         "name": "Kanun V"
        },
        {
-        "code": "CAB 353",
-        "name": "Tanbur V"
+        "code": "CAB 365",
+        "name": "Kaval V"
        },
        {
-        "code": "CAB 355",
-        "name": "Tar V"
+        "code": "CAB 379",
+        "name": "Asmalı Davul I"
+       },
+       {
+        "code": "CAB 375",
+        "name": "Kemane V"
        },
        {
         "code": "CAB 357",
         "name": "Bağlama V"
        },
        {
+        "code": "CAB 355",
+        "name": "Tar V"
+       },
+       {
         "code": "CAB 359",
         "name": "Ud V"
+       },
+       {
+        "code": "CAB 391",
+        "name": "Lavta V"
+       },
+       {
+        "code": "CAB 353",
+        "name": "Tanbur V"
        },
        {
         "code": "CAB 361",
@@ -1245,40 +1129,28 @@
         "name": "Mey V"
        },
        {
-        "code": "CAB 365",
-        "name": "Kaval V"
-       },
-       {
-        "code": "CAB 367",
-        "name": "Klarnet V"
-       },
-       {
-        "code": "CAB 369",
-        "name": "3 Telli Kemence V"
-       },
-       {
-        "code": "CAB 371",
-        "name": "4 Telli Kemençe V"
-       },
-       {
-        "code": "CAB 375",
-        "name": "Kemane V"
-       },
-       {
-        "code": "CAB 379",
-        "name": "Asmalı Davul I"
+        "code": "CAB 395",
+        "name": "Viyolonsel V"
        },
        {
         "code": "CAB 389",
         "name": "Gitar V"
        },
        {
-        "code": "CAB 391",
-        "name": "Lavta V"
+        "code": "CAB 367",
+        "name": "Klarnet V"
        },
        {
-        "code": "CAB 395",
-        "name": "Viyolonsel V"
+        "code": "CAB 371",
+        "name": "4 Telli Kemençe V"
+       },
+       {
+        "code": "CAB 3183",
+        "name": "Kontrbas V"
+       },
+       {
+        "code": "CAB 369",
+        "name": "3 Telli Kemence V"
        }
       ]
      }
@@ -1294,16 +1166,12 @@
       ],
       "options": [
        {
-        "code": "CAB 185",
-        "name": "Piyano Eşlik I"
+        "code": "KMP 351E",
+        "name": "Turkish Music Literature"
        },
        {
-        "code": "KMP 351",
-        "name": "Türk Müziği Literatürü"
-       },
-       {
-        "code": "MTR 321",
-        "name": "Müzikte Metin Çözümlemeleri I"
+        "code": "CAB 185E",
+        "name": "Piano Accompaniment I"
        },
        {
         "code": "MUZ 231",
@@ -1314,12 +1182,16 @@
         "name": "Müzik Paleografyası"
        },
        {
+        "code": "MUZ 497E",
+        "name": "Introduction to Philosophy of Music"
+       },
+       {
         "code": "MUZ 493",
         "name": "Çağdaş Müzik Paleografyası"
        },
        {
-        "code": "MUZ 497",
-        "name": "Müzik Felsefesine Giriş"
+        "code": "MTR 321",
+        "name": "Müzikte Metin Çözümlemeleri I"
        }
       ]
      }
@@ -1334,76 +1206,32 @@
       ],
       "options": [
        {
-        "code": "BEB 120",
-        "name": "Spor ve Temel Bilimler"
-       },
-       {
-        "code": "BEB 121",
-        "name": "Spor ve Teknoloji"
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
-       },
-       {
-        "code": "HUK 216",
-        "name": "Telekomünikasyon Hukuku"
-       },
-       {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
-       },
-       {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
-       },
-       {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
         "code": "ISL 465E",
         "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ITB 020E",
-        "name": "Formations of Modernity"
+        "code": "ING 103SC",
+        "name": "Science Communication"
        },
        {
-        "code": "ITB 020",
-        "name": "Modernitenin Oluşumu"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
-        "code": "ITB 037",
-        "name": "Bilgi, Dil ve Mantık"
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "ITB 037E",
@@ -1414,14 +1242,6 @@
         "name": "Media and Society"
        },
        {
-        "code": "ITB 087",
-        "name": "Medya ve Toplum"
-       },
-       {
-        "code": "ITB 094",
-        "name": "Uluslararası İlişkilerve Küreselleşme"
-       },
-       {
         "code": "ITB 094E",
         "name": "International.Rel.and Globali."
        },
@@ -1430,192 +1250,104 @@
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 095",
-        "name": "Teknoloji, Politika ve Hukuk"
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
        },
        {
-        "code": "ITB 143",
-        "name": "Durrel ve Said:Oryanta.Uyg ve"
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+        "code": "HUK 218E",
+        "name": "Commercial Law"
+       },
+       {
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
        },
        {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 151",
-        "name": "İnsan Kaynakları Yönetimi"
+        "code": "ITB 212E",
+        "name": "Art,Culture and Society"
        },
        {
-        "code": "ITB 171",
-        "name": "Bilim, Teknoloji ve Toplum"
-       },
-       {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179",
-        "name": "İçiçe Ayr.Ede.:Vizyone,Seyf.,A"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 201",
-        "name": "İnsan ve Topl. Bilim. Giriş"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 202",
-        "name": "Dünya Tarihi"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 203",
-        "name": "Sosyoloji"
-       },
-       {
-        "code": "ITB 204",
-        "name": "Siyaset Bilimi"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
-       },
-       {
-        "code": "ITB 205",
-        "name": "Felsefe"
-       },
-       {
-        "code": "ITB 206",
-        "name": "Dünya Politikasında Meseleler"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
         "code": "ITB 206E",
         "name": "Issues in World Politics"
        },
        {
-        "code": "ITB 207",
-        "name": "Osmanlı Tarihi"
-       },
-       {
         "code": "ITB 207E",
         "name": "Ottoman History"
-       },
-       {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
-        "code": "ITB 208",
-        "name": "Modern Türkiye'nin Oluşumu"
        },
        {
         "code": "ITB 209E",
         "name": "Türkiye in World Affairs"
        },
        {
-        "code": "ITB 209",
-        "name": "Türkiye ve Dünya"
+        "code": "ITB 217E",
+        "name": "Engineering Ethics"
        },
        {
-        "code": "ITB 211E",
-        "name": "Istanbul:Hist.,Art and Society"
+        "code": "ITB 233E",
+        "name": "Anthropology"
        },
        {
-        "code": "ITB 212E",
-        "name": "Art,Culture and Society"
+        "code": "ITB 203E",
+        "name": "Sociology"
        },
        {
-        "code": "ITB 213",
-        "name": "Edebiyat ve Toplum"
+        "code": "ITB 230E",
+        "name": "Disaster Awareness"
+       },
+       {
+        "code": "ITB 231E",
+        "name": "Volunteering Studies"
+       },
+       {
+        "code": "ITB 234E",
+        "name": "The Rise of Civilizations"
        },
        {
         "code": "ITB 213E",
         "name": "Toplics in Literature and Society"
        },
        {
-        "code": "ITB 214",
-        "name": "Modern Ortadoğu"
+        "code": "ITB 219E",
+        "name": "Ethics"
+       },
+       {
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 211E",
+        "name": "Istanbul:Hist.,Art and Society"
        },
        {
         "code": "ITB 214E",
         "name": "The Modern Middle East"
        },
        {
-        "code": "ITB 215",
-        "name": "Tarih ve Toplum"
-       },
-       {
         "code": "ITB 215E",
         "name": "Topics in Hist.and Society"
        },
        {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
-       },
-       {
-        "code": "ITB 216",
-        "name": "Ekonomi ve Toplum"
-       },
-       {
-        "code": "ITB 217",
-        "name": "Mühendislik Etiği"
-       },
-       {
-        "code": "ITB 217E",
-        "name": "Engineering Ethics"
+        "code": "ITB 226E",
+        "name": "Philosophy of Art"
        },
        {
         "code": "ITB 218E",
         "name": "History of Science&Technology"
-       },
-       {
-        "code": "ITB 218",
-        "name": "Bilim ve Teknoloji Tarihi"
-       },
-       {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 219",
-        "name": "Etik"
-       },
-       {
-        "code": "ITB 220",
-        "name": "Psikoloji"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 221",
-        "name": "Anadolu Arkeolojisi"
-       },
-       {
-        "code": "ITB 222",
-        "name": "Kent ve Toplum"
        },
        {
         "code": "ITB 222E",
@@ -1626,56 +1358,68 @@
         "name": "Environment and Society"
        },
        {
-        "code": "ITB 224",
-        "name": "Çevre ve Toplum"
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
        },
        {
-        "code": "ITB 226E",
-        "name": "Philosophy of Art"
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
        },
        {
-        "code": "ITB 227",
-        "name": "Siyaset Teorisi"
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
        },
        {
         "code": "ITB 227E",
         "name": "Political Theory"
        },
        {
-        "code": "ITB 228E",
-        "name": "Gender Studies"
+        "code": "BEB 121",
+        "name": "Spor ve Teknoloji"
        },
        {
-        "code": "ITB 228",
-        "name": "Toplumsal Cinsiyet Çalışmaları"
-       },
-       {
-        "code": "ITB 230",
-        "name": "Afet Bilinci"
-       },
-       {
-        "code": "ITB 231E",
-        "name": "Volunteering Studies"
-       },
-       {
-        "code": "ITB 231",
-        "name": "Gönüllülük Çalışmaları"
-       },
-       {
-        "code": "ITB 233",
-        "name": "Antropoloji"
-       },
-       {
-        "code": "ITB 234",
-        "name": "Medeniyetlerin Doğuşu"
+        "code": "BEB 120",
+        "name": "Spor ve Temel Bilimler"
        },
        {
         "code": "ITB 235E",
         "name": "Türkiye and EuropeanUnion"
-       },
-       {
-        "code": "ITB 235",
-        "name": "Türkiye ve Avrupa Birliği"
        }
       ]
      }
@@ -1793,24 +1537,36 @@
       ],
       "options": [
        {
-        "code": "CAB 3014",
-        "name": "Viyola VI"
+        "code": "CAB 3184",
+        "name": "Kontrbas VI"
        },
        {
         "code": "CAB 3102",
         "name": "KemanVI"
        },
        {
-        "code": "CAB 3184",
-        "name": "Kontrbas VI"
-       },
-       {
         "code": "CAB 352",
         "name": "Kanun VI"
        },
        {
-        "code": "CAB 354",
+        "code": "CAB 370",
+        "name": "3 Telli Kemence VI"
+       },
+       {
+        "code": "CAB 354E",
         "name": "Tanbur VI"
+       },
+       {
+        "code": "CAB 362",
+        "name": "Ney VI"
+       },
+       {
+        "code": "CAB 364",
+        "name": "Mey VI"
+       },
+       {
+        "code": "CAB 380",
+        "name": "Asmalı Davul II"
        },
        {
         "code": "CAB 356",
@@ -1825,48 +1581,36 @@
         "name": "Ud VI"
        },
        {
-        "code": "CAB 362",
-        "name": "Ney VI"
-       },
-       {
-        "code": "CAB 364",
-        "name": "Mey VI"
-       },
-       {
         "code": "CAB 366",
         "name": "Kaval VI"
-       },
-       {
-        "code": "CAB 368",
-        "name": "Klarnet VI"
-       },
-       {
-        "code": "CAB 370",
-        "name": "3 Telli Kemence VI"
        },
        {
         "code": "CAB 372",
         "name": "4 Telli Kemençe VI"
        },
        {
-        "code": "CAB 376",
-        "name": "Kemane VI"
-       },
-       {
-        "code": "CAB 380",
-        "name": "Asmalı Davul II"
+        "code": "CAB 368",
+        "name": "Klarnet VI"
        },
        {
         "code": "CAB 386",
         "name": "Gitar VI"
        },
        {
-        "code": "CAB 388",
-        "name": "Lavta VI"
-       },
-       {
         "code": "CAB 396",
         "name": "Viyolonsel VI"
+       },
+       {
+        "code": "CAB 3014",
+        "name": "Viyola VI"
+       },
+       {
+        "code": "CAB 376",
+        "name": "Kemane VI"
+       },
+       {
+        "code": "CAB 388",
+        "name": "Lavta VI"
        }
       ]
      }
@@ -1887,32 +1631,32 @@
         "name": "Piyano Eşlik II"
        },
        {
-        "code": "MTR 322",
-        "name": "Müzikte Metin Çözümlemeleri II"
-       },
-       {
-        "code": "MTR 324",
-        "name": "Türk Müziğinde Dönemler"
-       },
-       {
-        "code": "MUZ 132",
-        "name": "Müzikolojiye Giriş"
+        "code": "MUZ 312E",
+        "name": "Introduction to World Music Culture"
        },
        {
         "code": "MUZ 232",
         "name": "Osmanlıca II"
        },
        {
-        "code": "MUZ 312",
-        "name": "Dünya Müzik Kültürlerine Giriş"
+        "code": "MUZ 132",
+        "name": "Müzikolojiye Giriş"
        },
        {
-        "code": "MUZ 322",
-        "name": "Alan Araştırma Metodları"
+        "code": "MUZ 322E",
+        "name": "Fieldwork"
        },
        {
-        "code": "MUZ 480",
-        "name": "Türkiye'de Popüler Müzige Gir."
+        "code": "MUZ 480E",
+        "name": "Introduction to Popular Music in Türkiye"
+       },
+       {
+        "code": "MTR 322",
+        "name": "Müzikte Metin Çözümlemeleri II"
+       },
+       {
+        "code": "MTR 324",
+        "name": "Türk Müziğinde Dönemler"
        },
        {
         "code": "MUZ 498",
@@ -2009,6 +1753,10 @@
       ],
       "options": [
        {
+        "code": "CAB 4183",
+        "name": "Kontrbas VII"
+       },
+       {
         "code": "CAB 4013",
         "name": "Viyola VII"
        },
@@ -2017,28 +1765,20 @@
         "name": "Keman VII"
        },
        {
-        "code": "CAB 4183",
-        "name": "Kontrbas VII"
-       },
-       {
-        "code": "CAB 451",
-        "name": "Kanun VII"
-       },
-       {
-        "code": "CAB 453",
-        "name": "Tanbur VII"
-       },
-       {
         "code": "CAB 455",
         "name": "Tar VII"
        },
        {
-        "code": "CAB 457",
-        "name": "Bağlama VII"
+        "code": "CAB 467",
+        "name": "Klarnet VII"
        },
        {
-        "code": "CAB 459",
-        "name": "Ud VII"
+        "code": "CAB 485",
+        "name": "Gitar VII"
+       },
+       {
+        "code": "CAB 453",
+        "name": "Tanbur VII"
        },
        {
         "code": "CAB 461",
@@ -2053,10 +1793,6 @@
         "name": "Kaval VII"
        },
        {
-        "code": "CAB 467",
-        "name": "Klarnet VII"
-       },
-       {
         "code": "CAB 469",
         "name": "3 Telli Kemençe VII"
        },
@@ -2069,20 +1805,28 @@
         "name": "Kemane VII"
        },
        {
-        "code": "CAB 479",
-        "name": "Koltuk Davulu"
-       },
-       {
-        "code": "CAB 485",
-        "name": "Gitar VII"
+        "code": "CAB 495",
+        "name": "Viyolonsel VII"
        },
        {
         "code": "CAB 487",
         "name": "Lavta VII"
        },
        {
-        "code": "CAB 495",
-        "name": "Viyolonsel VII"
+        "code": "CAB 479",
+        "name": "Koltuk Davulu"
+       },
+       {
+        "code": "CAB 459",
+        "name": "Ud VII"
+       },
+       {
+        "code": "CAB 451",
+        "name": "Kanun VII"
+       },
+       {
+        "code": "CAB 457",
+        "name": "Bağlama VII"
        }
       ]
      }
@@ -2099,16 +1843,16 @@
       ],
       "options": [
        {
-        "code": "CAB 285",
-        "name": "Piyano Eşlik III"
-       },
-       {
-        "code": "KMP 199",
-        "name": "Çalgılama"
+        "code": "SES 471E",
+        "name": "Chorus I"
        },
        {
         "code": "KMP 455",
         "name": "Caz Armonisi I"
+       },
+       {
+        "code": "KMP 199",
+        "name": "Çalgılama"
        },
        {
         "code": "KMP 457",
@@ -2119,20 +1863,20 @@
         "name": "İleri Armoni I"
        },
        {
-        "code": "MUZ 321",
-        "name": "Organolojiye Giriş"
+        "code": "CAB 285",
+        "name": "Piyano Eşlik III"
        },
        {
-        "code": "MUZ 375",
-        "name": "Tarihi Nota Yazım Sistemleri"
+        "code": "MUZ 321E",
+        "name": "Introduction to Organology"
        },
        {
-        "code": "MUZ 379",
-        "name": "Dini Müzik I"
+        "code": "MUZ 379E",
+        "name": "Religious Music I"
        },
        {
-        "code": "SES 471",
-        "name": "Koro I"
+        "code": "MUZ 375E",
+        "name": "Historical Music Notation Systems"
        }
       ]
      }
@@ -2147,228 +1891,132 @@
       ],
       "options": [
        {
-        "code": "BEB 120",
-        "name": "Spor ve Temel Bilimler"
-       },
-       {
-        "code": "BEB 121",
-        "name": "Spor ve Teknoloji"
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
-       },
-       {
-        "code": "HUK 216",
-        "name": "Telekomünikasyon Hukuku"
-       },
-       {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
-       },
-       {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
-       },
-       {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
         "code": "ISL 465E",
         "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ITB 020",
-        "name": "Modernitenin Oluşumu"
+        "code": "ING 103SC",
+        "name": "Science Communication"
        },
        {
-        "code": "ITB 020E",
-        "name": "Formations of Modernity"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
+       },
+       {
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "ITB 037E",
         "name": "Knowledge, Language & Logic"
        },
        {
-        "code": "ITB 037",
-        "name": "Bilgi, Dil ve Mantık"
-       },
-       {
-        "code": "ITB 087",
-        "name": "Medya ve Toplum"
-       },
-       {
         "code": "ITB 087E",
         "name": "Media and Society"
-       },
-       {
-        "code": "ITB 094",
-        "name": "Uluslararası İlişkilerve Küreselleşme"
        },
        {
         "code": "ITB 094E",
         "name": "International.Rel.and Globali."
        },
        {
-        "code": "ITB 095",
-        "name": "Teknoloji, Politika ve Hukuk"
-       },
-       {
         "code": "ITB 095E",
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
        },
        {
-        "code": "ITB 143",
-        "name": "Durrel ve Said:Oryanta.Uyg ve"
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
+       },
+       {
+        "code": "HUK 218E",
+        "name": "Commercial Law"
+       },
+       {
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
        },
        {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 151",
-        "name": "İnsan Kaynakları Yönetimi"
+        "code": "ITB 212E",
+        "name": "Art,Culture and Society"
        },
        {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 171",
-        "name": "Bilim, Teknoloji ve Toplum"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 179",
-        "name": "İçiçe Ayr.Ede.:Vizyone,Seyf.,A"
-       },
-       {
-        "code": "ITB 201",
-        "name": "İnsan ve Topl. Bilim. Giriş"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 202",
-        "name": "Dünya Tarihi"
-       },
-       {
-        "code": "ITB 203",
-        "name": "Sosyoloji"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204",
-        "name": "Siyaset Bilimi"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
-       },
-       {
-        "code": "ITB 205",
-        "name": "Felsefe"
-       },
-       {
-        "code": "ITB 206",
-        "name": "Dünya Politikasında Meseleler"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
         "code": "ITB 206E",
         "name": "Issues in World Politics"
        },
        {
-        "code": "ITB 207",
-        "name": "Osmanlı Tarihi"
-       },
-       {
         "code": "ITB 207E",
         "name": "Ottoman History"
-       },
-       {
-        "code": "ITB 208",
-        "name": "Modern Türkiye'nin Oluşumu"
-       },
-       {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
-        "code": "ITB 209",
-        "name": "Türkiye ve Dünya"
        },
        {
         "code": "ITB 209E",
         "name": "Türkiye in World Affairs"
        },
        {
-        "code": "ITB 211E",
-        "name": "Istanbul:Hist.,Art and Society"
+        "code": "ITB 217E",
+        "name": "Engineering Ethics"
        },
        {
-        "code": "ITB 212E",
-        "name": "Art,Culture and Society"
+        "code": "ITB 233E",
+        "name": "Anthropology"
+       },
+       {
+        "code": "ITB 203E",
+        "name": "Sociology"
+       },
+       {
+        "code": "ITB 230E",
+        "name": "Disaster Awareness"
+       },
+       {
+        "code": "ITB 231E",
+        "name": "Volunteering Studies"
+       },
+       {
+        "code": "ITB 234E",
+        "name": "The Rise of Civilizations"
        },
        {
         "code": "ITB 213E",
         "name": "Toplics in Literature and Society"
        },
        {
-        "code": "ITB 213",
-        "name": "Edebiyat ve Toplum"
+        "code": "ITB 219E",
+        "name": "Ethics"
        },
        {
-        "code": "ITB 214",
-        "name": "Modern Ortadoğu"
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 211E",
+        "name": "Istanbul:Hist.,Art and Society"
        },
        {
         "code": "ITB 214E",
@@ -2379,116 +2027,84 @@
         "name": "Topics in Hist.and Society"
        },
        {
-        "code": "ITB 215",
-        "name": "Tarih ve Toplum"
-       },
-       {
-        "code": "ITB 216",
-        "name": "Ekonomi ve Toplum"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
-       },
-       {
-        "code": "ITB 217",
-        "name": "Mühendislik Etiği"
-       },
-       {
-        "code": "ITB 217E",
-        "name": "Engineering Ethics"
+        "code": "ITB 226E",
+        "name": "Philosophy of Art"
        },
        {
         "code": "ITB 218E",
         "name": "History of Science&Technology"
        },
        {
-        "code": "ITB 218",
-        "name": "Bilim ve Teknoloji Tarihi"
-       },
-       {
-        "code": "ITB 219",
-        "name": "Etik"
-       },
-       {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 220",
-        "name": "Psikoloji"
-       },
-       {
-        "code": "ITB 221",
-        "name": "Anadolu Arkeolojisi"
-       },
-       {
         "code": "ITB 222E",
         "name": "City and Society"
-       },
-       {
-        "code": "ITB 222",
-        "name": "Kent ve Toplum"
-       },
-       {
-        "code": "ITB 224",
-        "name": "Çevre ve Toplum"
        },
        {
         "code": "ITB 224E",
         "name": "Environment and Society"
        },
        {
-        "code": "ITB 226E",
-        "name": "Philosophy of Art"
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
+       },
+       {
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
+       },
+       {
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
        },
        {
         "code": "ITB 227E",
         "name": "Political Theory"
        },
        {
-        "code": "ITB 227",
-        "name": "Siyaset Teorisi"
+        "code": "BEB 121",
+        "name": "Spor ve Teknoloji"
        },
        {
-        "code": "ITB 228",
-        "name": "Toplumsal Cinsiyet Çalışmaları"
-       },
-       {
-        "code": "ITB 228E",
-        "name": "Gender Studies"
-       },
-       {
-        "code": "ITB 230",
-        "name": "Afet Bilinci"
-       },
-       {
-        "code": "ITB 231",
-        "name": "Gönüllülük Çalışmaları"
-       },
-       {
-        "code": "ITB 231E",
-        "name": "Volunteering Studies"
-       },
-       {
-        "code": "ITB 233",
-        "name": "Antropoloji"
-       },
-       {
-        "code": "ITB 234",
-        "name": "Medeniyetlerin Doğuşu"
+        "code": "BEB 120",
+        "name": "Spor ve Temel Bilimler"
        },
        {
         "code": "ITB 235E",
         "name": "Türkiye and EuropeanUnion"
-       },
-       {
-        "code": "ITB 235",
-        "name": "Türkiye ve Avrupa Birliği"
        }
       ]
      }
@@ -2589,16 +2205,20 @@
         "name": "Keman VIII"
        },
        {
-        "code": "CAB 4184",
-        "name": "Kontrbas VIII"
+        "code": "CAB 464",
+        "name": "Mey VIII"
        },
        {
         "code": "CAB 452",
         "name": "Kanun VIII"
        },
        {
-        "code": "CAB 454",
-        "name": "Tanbur VIII"
+        "code": "CAB 486",
+        "name": "Gitar VIII"
+       },
+       {
+        "code": "CAB 460",
+        "name": "Ud VIII"
        },
        {
         "code": "CAB 456",
@@ -2609,22 +2229,6 @@
         "name": "Bağlama VIII"
        },
        {
-        "code": "CAB 460",
-        "name": "Ud VIII"
-       },
-       {
-        "code": "CAB 462",
-        "name": "Ney VIII"
-       },
-       {
-        "code": "CAB 464",
-        "name": "Mey VIII"
-       },
-       {
-        "code": "CAB 466",
-        "name": "Kaval VIII"
-       },
-       {
         "code": "CAB 468",
         "name": "Klarnet VIII"
        },
@@ -2633,20 +2237,20 @@
         "name": "3 Telli Kemençe VIII"
        },
        {
-        "code": "CAB 472",
-        "name": "4 Telli Kemençe VIII"
+        "code": "CAB 454",
+        "name": "Tanbur VIII"
        },
        {
-        "code": "CAB 476",
-        "name": "Kemane VIII"
+        "code": "CAB 466",
+        "name": "Kaval VIII"
        },
        {
         "code": "CAB 480",
         "name": "Kenar"
        },
        {
-        "code": "CAB 486",
-        "name": "Gitar VIII"
+        "code": "CAB 472",
+        "name": "4 Telli Kemençe VIII"
        },
        {
         "code": "CAB 490",
@@ -2655,6 +2259,18 @@
        {
         "code": "CAB 496",
         "name": "Viyolonsel VIII"
+       },
+       {
+        "code": "CAB 4184",
+        "name": "Kontrbas VIII"
+       },
+       {
+        "code": "CAB 462",
+        "name": "Ney VIII"
+       },
+       {
+        "code": "CAB 476",
+        "name": "Kemane VIII"
        }
       ]
      }
@@ -2670,32 +2286,32 @@
       ],
       "options": [
        {
-        "code": "CAB 286",
-        "name": "Piyano Eşlik IV"
+        "code": "SES 472",
+        "name": "Koro II"
        },
        {
         "code": "KMP 456",
         "name": "Caz Armonisi II"
        },
        {
-        "code": "KMP 458",
-        "name": "Partisyon Çözümleme II"
-       },
-       {
         "code": "KMP 474",
         "name": "İleri Armoni II"
        },
        {
-        "code": "MUZ 380",
-        "name": "Dini Müzik II"
+        "code": "CAB 286",
+        "name": "Piyano Eşlik IV"
        },
        {
-        "code": "MUZ 494",
-        "name": "Müzik Sosyolojisine Giriş"
+        "code": "MUZ 380E",
+        "name": "Religious Music II"
        },
        {
-        "code": "SES 472",
-        "name": "Koro II"
+        "code": "MUZ 494E",
+        "name": "Introduction to Music Sociology"
+       },
+       {
+        "code": "KMP 458",
+        "name": "Partisyon Çözümleme II"
        }
       ]
      }
@@ -2710,76 +2326,32 @@
       ],
       "options": [
        {
-        "code": "BEB 120",
-        "name": "Spor ve Temel Bilimler"
-       },
-       {
-        "code": "BEB 121",
-        "name": "Spor ve Teknoloji"
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
-       },
-       {
-        "code": "HUK 216",
-        "name": "Telekomünikasyon Hukuku"
-       },
-       {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
-       },
-       {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
-       },
-       {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
         "code": "ISL 465E",
         "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ITB 020E",
-        "name": "Formations of Modernity"
+        "code": "ING 103SC",
+        "name": "Science Communication"
        },
        {
-        "code": "ITB 020",
-        "name": "Modernitenin Oluşumu"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
-        "code": "ITB 037",
-        "name": "Bilgi, Dil ve Mantık"
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "ITB 037E",
@@ -2790,14 +2362,6 @@
         "name": "Media and Society"
        },
        {
-        "code": "ITB 087",
-        "name": "Medya ve Toplum"
-       },
-       {
-        "code": "ITB 094",
-        "name": "Uluslararası İlişkilerve Küreselleşme"
-       },
-       {
         "code": "ITB 094E",
         "name": "International.Rel.and Globali."
        },
@@ -2806,192 +2370,104 @@
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 095",
-        "name": "Teknoloji, Politika ve Hukuk"
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
        },
        {
-        "code": "ITB 143",
-        "name": "Durrel ve Said:Oryanta.Uyg ve"
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+        "code": "HUK 218E",
+        "name": "Commercial Law"
+       },
+       {
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
        },
        {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 151",
-        "name": "İnsan Kaynakları Yönetimi"
+        "code": "ITB 212E",
+        "name": "Art,Culture and Society"
        },
        {
-        "code": "ITB 171",
-        "name": "Bilim, Teknoloji ve Toplum"
-       },
-       {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179",
-        "name": "İçiçe Ayr.Ede.:Vizyone,Seyf.,A"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 201",
-        "name": "İnsan ve Topl. Bilim. Giriş"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 202",
-        "name": "Dünya Tarihi"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 203",
-        "name": "Sosyoloji"
-       },
-       {
-        "code": "ITB 204",
-        "name": "Siyaset Bilimi"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
-       },
-       {
-        "code": "ITB 205",
-        "name": "Felsefe"
-       },
-       {
-        "code": "ITB 206",
-        "name": "Dünya Politikasında Meseleler"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
         "code": "ITB 206E",
         "name": "Issues in World Politics"
        },
        {
-        "code": "ITB 207",
-        "name": "Osmanlı Tarihi"
-       },
-       {
         "code": "ITB 207E",
         "name": "Ottoman History"
-       },
-       {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
-        "code": "ITB 208",
-        "name": "Modern Türkiye'nin Oluşumu"
        },
        {
         "code": "ITB 209E",
         "name": "Türkiye in World Affairs"
        },
        {
-        "code": "ITB 209",
-        "name": "Türkiye ve Dünya"
+        "code": "ITB 217E",
+        "name": "Engineering Ethics"
        },
        {
-        "code": "ITB 211E",
-        "name": "Istanbul:Hist.,Art and Society"
+        "code": "ITB 233E",
+        "name": "Anthropology"
        },
        {
-        "code": "ITB 212E",
-        "name": "Art,Culture and Society"
+        "code": "ITB 203E",
+        "name": "Sociology"
        },
        {
-        "code": "ITB 213",
-        "name": "Edebiyat ve Toplum"
+        "code": "ITB 230E",
+        "name": "Disaster Awareness"
+       },
+       {
+        "code": "ITB 231E",
+        "name": "Volunteering Studies"
+       },
+       {
+        "code": "ITB 234E",
+        "name": "The Rise of Civilizations"
        },
        {
         "code": "ITB 213E",
         "name": "Toplics in Literature and Society"
        },
        {
-        "code": "ITB 214",
-        "name": "Modern Ortadoğu"
+        "code": "ITB 219E",
+        "name": "Ethics"
+       },
+       {
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 211E",
+        "name": "Istanbul:Hist.,Art and Society"
        },
        {
         "code": "ITB 214E",
         "name": "The Modern Middle East"
        },
        {
-        "code": "ITB 215",
-        "name": "Tarih ve Toplum"
-       },
-       {
         "code": "ITB 215E",
         "name": "Topics in Hist.and Society"
        },
        {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
-       },
-       {
-        "code": "ITB 216",
-        "name": "Ekonomi ve Toplum"
-       },
-       {
-        "code": "ITB 217",
-        "name": "Mühendislik Etiği"
-       },
-       {
-        "code": "ITB 217E",
-        "name": "Engineering Ethics"
+        "code": "ITB 226E",
+        "name": "Philosophy of Art"
        },
        {
         "code": "ITB 218E",
         "name": "History of Science&Technology"
-       },
-       {
-        "code": "ITB 218",
-        "name": "Bilim ve Teknoloji Tarihi"
-       },
-       {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 219",
-        "name": "Etik"
-       },
-       {
-        "code": "ITB 220",
-        "name": "Psikoloji"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 221",
-        "name": "Anadolu Arkeolojisi"
-       },
-       {
-        "code": "ITB 222",
-        "name": "Kent ve Toplum"
        },
        {
         "code": "ITB 222E",
@@ -3002,56 +2478,68 @@
         "name": "Environment and Society"
        },
        {
-        "code": "ITB 224",
-        "name": "Çevre ve Toplum"
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
        },
        {
-        "code": "ITB 226E",
-        "name": "Philosophy of Art"
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
        },
        {
-        "code": "ITB 227",
-        "name": "Siyaset Teorisi"
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
        },
        {
         "code": "ITB 227E",
         "name": "Political Theory"
        },
        {
-        "code": "ITB 228E",
-        "name": "Gender Studies"
+        "code": "BEB 121",
+        "name": "Spor ve Teknoloji"
        },
        {
-        "code": "ITB 228",
-        "name": "Toplumsal Cinsiyet Çalışmaları"
-       },
-       {
-        "code": "ITB 230",
-        "name": "Afet Bilinci"
-       },
-       {
-        "code": "ITB 231",
-        "name": "Gönüllülük Çalışmaları"
-       },
-       {
-        "code": "ITB 231E",
-        "name": "Volunteering Studies"
-       },
-       {
-        "code": "ITB 233",
-        "name": "Antropoloji"
-       },
-       {
-        "code": "ITB 234",
-        "name": "Medeniyetlerin Doğuşu"
+        "code": "BEB 120",
+        "name": "Spor ve Temel Bilimler"
        },
        {
         "code": "ITB 235E",
         "name": "Türkiye and EuropeanUnion"
-       },
-       {
-        "code": "ITB 235",
-        "name": "Türkiye ve Avrupa Birliği"
        }
       ]
      }

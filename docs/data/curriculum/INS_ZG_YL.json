@@ -30,35 +30,23 @@
       ],
       "options": [
        {
-        "code": "HSK 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "HSK 596E",
-        "name": "Scien.Rese., Ethic&Seminar"
-       },
-       {
-        "code": "ULS 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "YAP 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
         "code": "YAP 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "YIP 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
+        "code": "ULS 596E",
+        "name": "Scientific Research, Ethic and Seminar"
        },
        {
         "code": "ZMG 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "ZMG 596",
+        "code": "HSK 596E",
+        "name": "Scien.Rese., Ethic&Seminar"
+       },
+       {
+        "code": "YIP 596",
         "name": "Bilimsel Araş.,Etik ve Seminer"
        }
       ]
@@ -74,12 +62,12 @@
       ],
       "options": [
        {
-        "code": "ULS 501E",
-        "name": "Mathe.&Sta.Meth.in Tran.Eng."
-       },
-       {
         "code": "YAP 501E",
         "name": "Engineering Mathematics"
+       },
+       {
+        "code": "ULS 501E",
+        "name": "Mathe.&Sta.Meth.in Tran.Eng."
        },
        {
         "code": "YIP 501E",
@@ -102,12 +90,12 @@
         "name": "Experimentel Soil Mechanics"
        },
        {
-        "code": "ZMG 507E",
-        "name": "Enginering Properties of Soils"
-       },
-       {
         "code": "ZMG 509E",
         "name": "Advanced Foundation Eng."
+       },
+       {
+        "code": "ZMG 507E",
+        "name": "Enginering Properties of Soils"
        }
       ]
      }
@@ -126,12 +114,12 @@
         "name": "Experimentel Soil Mechanics"
        },
        {
-        "code": "ZMG 507E",
-        "name": "Enginering Properties of Soils"
-       },
-       {
         "code": "ZMG 509E",
         "name": "Advanced Foundation Eng."
+       },
+       {
+        "code": "ZMG 507E",
+        "name": "Enginering Properties of Soils"
        }
       ]
      }
@@ -150,12 +138,12 @@
         "name": "Experimentel Soil Mechanics"
        },
        {
-        "code": "ZMG 507E",
-        "name": "Enginering Properties of Soils"
-       },
-       {
         "code": "ZMG 509E",
         "name": "Advanced Foundation Eng."
+       },
+       {
+        "code": "ZMG 507E",
+        "name": "Enginering Properties of Soils"
        }
       ]
      }

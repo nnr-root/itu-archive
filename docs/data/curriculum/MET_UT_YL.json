@@ -40,6 +40,18 @@
       ],
       "options": [
        {
+        "code": "KMM 511E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "PET 519E",
+        "name": "Advanced Engineering Mathemath"
+       },
+       {
+        "code": "YAP 501E",
+        "name": "Engineering Mathematics"
+       },
+       {
         "code": "CHZ 511",
         "name": "Mühendislik Matematiği"
        },
@@ -48,11 +60,11 @@
         "name": "Mühendislik Matematiği"
        },
        {
-        "code": "KMM 511E",
+        "code": "MTA 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MDK 501E",
+        "code": "MOT 501E",
         "name": "Engineering Mathematics"
        },
        {
@@ -64,27 +76,15 @@
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MKS 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
         "code": "MMI 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MOT 501E",
+        "code": "MDK 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MTA 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
-        "code": "PET 519E",
-        "name": "Advanced Engineering Mathemath"
-       },
-       {
-        "code": "YAP 501E",
+        "code": "MKS 501E",
         "name": "Engineering Mathematics"
        }
       ]
@@ -100,12 +100,12 @@
       ],
       "options": [
        {
-        "code": "UMT 508",
-        "name": "Proses Metalurjisi"
-       },
-       {
         "code": "UMT 509E",
         "name": "The Basic Diag.in Extra.Metal."
+       },
+       {
+        "code": "UMT 508",
+        "name": "Proses Metalurjisi"
        },
        {
         "code": "UMT 511E",
@@ -124,12 +124,12 @@
       ],
       "options": [
        {
-        "code": "UMT 508",
-        "name": "Proses Metalurjisi"
-       },
-       {
         "code": "UMT 509E",
         "name": "The Basic Diag.in Extra.Metal."
+       },
+       {
+        "code": "UMT 508",
+        "name": "Proses Metalurjisi"
        },
        {
         "code": "UMT 511E",
@@ -148,12 +148,12 @@
       ],
       "options": [
        {
-        "code": "UMT 508",
-        "name": "Proses Metalurjisi"
-       },
-       {
         "code": "UMT 509E",
         "name": "The Basic Diag.in Extra.Metal."
+       },
+       {
+        "code": "UMT 508",
+        "name": "Proses Metalurjisi"
        },
        {
         "code": "UMT 511E",

@@ -273,6 +273,14 @@
       ],
       "options": [
        {
+        "code": "BLG 112E",
+        "name": "Discrete Mathematics"
+       },
+       {
+        "code": "FIZ 201E",
+        "name": "Modern Physics"
+       },
+       {
         "code": "BIO 301E",
         "name": "Fundamentals of Biology"
        },
@@ -281,24 +289,16 @@
         "name": "Fundamentals of Biotechnology"
        },
        {
-        "code": "BLG 112E",
-        "name": "Discrete Mathematics"
-       },
-       {
-        "code": "EHB 227E",
-        "name": "Introduction to Optics"
+        "code": "MAL 201E",
+        "name": "Materials Science"
        },
        {
         "code": "EHB 235E",
         "name": "Theory of Complex Functions"
        },
        {
-        "code": "FIZ 201E",
-        "name": "Modern Physics"
-       },
-       {
-        "code": "MAL 201E",
-        "name": "Materials Science"
+        "code": "EHB 227E",
+        "name": "Introduction to Optics"
        }
       ]
      }
@@ -315,6 +315,14 @@
       ],
       "options": [
        {
+        "code": "ELK 336E",
+        "name": "Quantum Computation"
+       },
+       {
+        "code": "STA 201E",
+        "name": "Statics"
+       },
+       {
         "code": "DNK 201E",
         "name": "Dynamics"
        },
@@ -323,16 +331,8 @@
         "name": "Data Structures & Programming"
        },
        {
-        "code": "ELK 336E",
-        "name": "Quantum Computation"
-       },
-       {
         "code": "ELK 363E",
         "name": "Engineering Drawing"
-       },
-       {
-        "code": "STA 201E",
-        "name": "Statics"
        }
       ]
      }
@@ -413,14 +413,6 @@
       ],
       "options": [
        {
-        "code": "DNK 201E",
-        "name": "Dynamics"
-       },
-       {
-        "code": "EHB 208E",
-        "name": "Data Structures & Programming"
-       },
-       {
         "code": "ELK 234E",
         "name": "Thermodynamics &Hydrodynamics"
        },
@@ -431,6 +423,14 @@
        {
         "code": "KON 218E",
         "name": "Measurement and Sensors"
+       },
+       {
+        "code": "DNK 201E",
+        "name": "Dynamics"
+       },
+       {
+        "code": "EHB 208E",
+        "name": "Data Structures & Programming"
        }
       ]
      }
@@ -498,18 +498,6 @@
       ],
       "options": [
        {
-        "code": "EHB 315E",
-        "name": "Digital Signal Processing"
-       },
-       {
-        "code": "EHB 335E",
-        "name": "Analog Electronic Circuits"
-       },
-       {
-        "code": "EHB 337E",
-        "name": "Theory of Electromagnetics II"
-       },
-       {
         "code": "ELK 331E",
         "name": "Power Electronic Circuits"
        },
@@ -520,6 +508,18 @@
        {
         "code": "KON 214E",
         "name": "System Modelling&Simulation"
+       },
+       {
+        "code": "EHB 315E",
+        "name": "Digital Signal Processing"
+       },
+       {
+        "code": "EHB 335E",
+        "name": "Analog Electronic Circuits"
+       },
+       {
+        "code": "EHB 337E",
+        "name": "Theory of Electromagnetics II"
        }
       ]
      }
@@ -534,18 +534,6 @@
       ],
       "options": [
        {
-        "code": "EHB 315E",
-        "name": "Digital Signal Processing"
-       },
-       {
-        "code": "EHB 335E",
-        "name": "Analog Electronic Circuits"
-       },
-       {
-        "code": "EHB 337E",
-        "name": "Theory of Electromagnetics II"
-       },
-       {
         "code": "ELK 331E",
         "name": "Power Electronic Circuits"
        },
@@ -556,6 +544,18 @@
        {
         "code": "KON 214E",
         "name": "System Modelling&Simulation"
+       },
+       {
+        "code": "EHB 315E",
+        "name": "Digital Signal Processing"
+       },
+       {
+        "code": "EHB 335E",
+        "name": "Analog Electronic Circuits"
+       },
+       {
+        "code": "EHB 337E",
+        "name": "Theory of Electromagnetics II"
        }
       ]
      }
@@ -588,8 +588,24 @@
       ],
       "options": [
        {
-        "code": "EHB 308E",
-        "name": "Communication II"
+        "code": "ELK 312E",
+        "name": "High Voltage Technique"
+       },
+       {
+        "code": "ELK 356E",
+        "name": "Electrical Machines"
+       },
+       {
+        "code": "ELK 322E",
+        "name": "Power Transmission Systems"
+       },
+       {
+        "code": "KON 306E",
+        "name": "Computer Controlled Systems"
+       },
+       {
+        "code": "KON 314E",
+        "name": "Control System Design"
        },
        {
         "code": "EHB 322E",
@@ -600,24 +616,8 @@
         "name": "Microwave Engineering"
        },
        {
-        "code": "ELK 312E",
-        "name": "High Voltage Technique"
-       },
-       {
-        "code": "ELK 322E",
-        "name": "Power Transmission Systems"
-       },
-       {
-        "code": "ELK 356E",
-        "name": "Electrical Machines"
-       },
-       {
-        "code": "KON 306E",
-        "name": "Computer Controlled Systems"
-       },
-       {
-        "code": "KON 314E",
-        "name": "Control System Design"
+        "code": "EHB 308E",
+        "name": "Communication II"
        }
       ]
      }
@@ -633,8 +633,24 @@
       ],
       "options": [
        {
-        "code": "EHB 308E",
-        "name": "Communication II"
+        "code": "ELK 312E",
+        "name": "High Voltage Technique"
+       },
+       {
+        "code": "ELK 356E",
+        "name": "Electrical Machines"
+       },
+       {
+        "code": "ELK 322E",
+        "name": "Power Transmission Systems"
+       },
+       {
+        "code": "KON 306E",
+        "name": "Computer Controlled Systems"
+       },
+       {
+        "code": "KON 314E",
+        "name": "Control System Design"
        },
        {
         "code": "EHB 322E",
@@ -645,24 +661,8 @@
         "name": "Microwave Engineering"
        },
        {
-        "code": "ELK 312E",
-        "name": "High Voltage Technique"
-       },
-       {
-        "code": "ELK 322E",
-        "name": "Power Transmission Systems"
-       },
-       {
-        "code": "ELK 356E",
-        "name": "Electrical Machines"
-       },
-       {
-        "code": "KON 306E",
-        "name": "Computer Controlled Systems"
-       },
-       {
-        "code": "KON 314E",
-        "name": "Control System Design"
+        "code": "EHB 308E",
+        "name": "Communication II"
        }
       ]
      }
@@ -677,38 +677,6 @@
       ],
       "options": [
        {
-        "code": "EHB 326E",
-        "name": "Intr.to Embedded Systems"
-       },
-       {
-        "code": "EHB 405E",
-        "name": "Analog Integrated Circuits"
-       },
-       {
-        "code": "EHB 419E",
-        "name": "Digital System Design"
-       },
-       {
-        "code": "EHB 428E",
-        "name": "Industrial Electronics"
-       },
-       {
-        "code": "EHB 455E",
-        "name": "Microcontroller Based Sys.Des."
-       },
-       {
-        "code": "EHB 456E",
-        "name": "Antennas"
-       },
-       {
-        "code": "EHB 465E",
-        "name": "Fiberoptic Com. Systems"
-       },
-       {
-        "code": "ELK 308E",
-        "name": "Comp. Networks for Power Syst."
-       },
-       {
         "code": "ELK 336E",
         "name": "Quantum Computation"
        },
@@ -721,24 +689,56 @@
         "name": "Ind. Appl. of Power Electron."
        },
        {
-        "code": "KON 323E",
-        "name": "Sys.Eng.&Saf.-Critic. Sys.Des."
-       },
-       {
         "code": "KON 324E",
         "name": "Sensors&Transducers in Contr."
-       },
-       {
-        "code": "KON 417E",
-        "name": "Servo Motors"
        },
        {
         "code": "KON 428E",
         "name": "Intr. to Optimal Control"
        },
        {
+        "code": "KON 417E",
+        "name": "Servo Motors"
+       },
+       {
         "code": "KON 436E",
         "name": "Int.to Nonlinear Control Syst."
+       },
+       {
+        "code": "EHB 428E",
+        "name": "Industrial Electronics"
+       },
+       {
+        "code": "EHB 405E",
+        "name": "Analog Integrated Circuits"
+       },
+       {
+        "code": "EHB 326E",
+        "name": "Intr.to Embedded Systems"
+       },
+       {
+        "code": "EHB 465E",
+        "name": "Fiberoptic Com. Systems"
+       },
+       {
+        "code": "EHB 419E",
+        "name": "Digital System Design"
+       },
+       {
+        "code": "EHB 456E",
+        "name": "Antennas"
+       },
+       {
+        "code": "ELK 308E",
+        "name": "Comp. Networks for Power Syst."
+       },
+       {
+        "code": "KON 323E",
+        "name": "Sys.Eng.&Saf.-Critic. Sys.Des."
+       },
+       {
+        "code": "EHB 455E",
+        "name": "Microcontroller Based Sys.Des."
        },
        {
         "code": "MYZ 307E",
@@ -757,38 +757,6 @@
       ],
       "options": [
        {
-        "code": "EHB 326E",
-        "name": "Intr.to Embedded Systems"
-       },
-       {
-        "code": "EHB 405E",
-        "name": "Analog Integrated Circuits"
-       },
-       {
-        "code": "EHB 419E",
-        "name": "Digital System Design"
-       },
-       {
-        "code": "EHB 428E",
-        "name": "Industrial Electronics"
-       },
-       {
-        "code": "EHB 455E",
-        "name": "Microcontroller Based Sys.Des."
-       },
-       {
-        "code": "EHB 456E",
-        "name": "Antennas"
-       },
-       {
-        "code": "EHB 465E",
-        "name": "Fiberoptic Com. Systems"
-       },
-       {
-        "code": "ELK 308E",
-        "name": "Comp. Networks for Power Syst."
-       },
-       {
         "code": "ELK 336E",
         "name": "Quantum Computation"
        },
@@ -801,24 +769,56 @@
         "name": "Ind. Appl. of Power Electron."
        },
        {
-        "code": "KON 323E",
-        "name": "Sys.Eng.&Saf.-Critic. Sys.Des."
-       },
-       {
         "code": "KON 324E",
         "name": "Sensors&Transducers in Contr."
-       },
-       {
-        "code": "KON 417E",
-        "name": "Servo Motors"
        },
        {
         "code": "KON 428E",
         "name": "Intr. to Optimal Control"
        },
        {
+        "code": "KON 417E",
+        "name": "Servo Motors"
+       },
+       {
         "code": "KON 436E",
         "name": "Int.to Nonlinear Control Syst."
+       },
+       {
+        "code": "EHB 428E",
+        "name": "Industrial Electronics"
+       },
+       {
+        "code": "EHB 405E",
+        "name": "Analog Integrated Circuits"
+       },
+       {
+        "code": "EHB 326E",
+        "name": "Intr.to Embedded Systems"
+       },
+       {
+        "code": "EHB 465E",
+        "name": "Fiberoptic Com. Systems"
+       },
+       {
+        "code": "EHB 419E",
+        "name": "Digital System Design"
+       },
+       {
+        "code": "EHB 456E",
+        "name": "Antennas"
+       },
+       {
+        "code": "ELK 308E",
+        "name": "Comp. Networks for Power Syst."
+       },
+       {
+        "code": "KON 323E",
+        "name": "Sys.Eng.&Saf.-Critic. Sys.Des."
+       },
+       {
+        "code": "EHB 455E",
+        "name": "Microcontroller Based Sys.Des."
        },
        {
         "code": "MYZ 307E",
@@ -837,14 +837,6 @@
       ],
       "options": [
        {
-        "code": "SNT 103E",
-        "name": "Drawing"
-       },
-       {
-        "code": "SNT 104E",
-        "name": "Mythology and Art"
-       },
-       {
         "code": "SNT 105E",
         "name": "Film Art"
        },
@@ -853,48 +845,12 @@
         "name": "Traditional Turkish Art&Crafts"
        },
        {
-        "code": "SNT 107E",
-        "name": "Ancient Civilizat.in Anatolia"
-       },
-       {
-        "code": "SNT 112E",
-        "name": "Theater"
-       },
-       {
-        "code": "SNT 113E",
-        "name": "Art and Interpretation"
+        "code": "SNT 103E",
+        "name": "Drawing"
        },
        {
         "code": "SNT 114E",
         "name": "Contemporary Art"
-       },
-       {
-        "code": "SNT 116E",
-        "name": "The Art of Communication"
-       },
-       {
-        "code": "SNT 117E",
-        "name": "Jazz Appreciation"
-       },
-       {
-        "code": "SNT 121E",
-        "name": "World Music Cultures"
-       },
-       {
-        "code": "SNT 123E",
-        "name": "Film Production"
-       },
-       {
-        "code": "SNT 211E",
-        "name": "Istanbul:Hist.,Art and Society"
-       },
-       {
-        "code": "SNT 212E",
-        "name": "Art,Culture and Society"
-       },
-       {
-        "code": "SNT 215E",
-        "name": "Balkan Musics"
        },
        {
         "code": "SNT 226E",
@@ -903,6 +859,50 @@
        {
         "code": "SNT 227E",
         "name": "Sound and Society"
+       },
+       {
+        "code": "SNT 112E",
+        "name": "Theater"
+       },
+       {
+        "code": "SNT 116E",
+        "name": "The Art of Communication"
+       },
+       {
+        "code": "SNT 212E",
+        "name": "Art,Culture and Society"
+       },
+       {
+        "code": "SNT 104E",
+        "name": "Mythology and Art"
+       },
+       {
+        "code": "SNT 107E",
+        "name": "Ancient Civilizat.in Anatolia"
+       },
+       {
+        "code": "SNT 123E",
+        "name": "Film Production"
+       },
+       {
+        "code": "SNT 113E",
+        "name": "Art and Interpretation"
+       },
+       {
+        "code": "SNT 117E",
+        "name": "Jazz Appreciation"
+       },
+       {
+        "code": "SNT 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "SNT 215E",
+        "name": "Balkan Musics"
+       },
+       {
+        "code": "SNT 121E",
+        "name": "World Music Cultures"
        }
       ]
      }
@@ -946,170 +946,6 @@
       ],
       "options": [
        {
-        "code": "EHB 315E",
-        "name": "Digital Signal Processing"
-       },
-       {
-        "code": "EHB 326E",
-        "name": "Intr.to Embedded Systems"
-       },
-       {
-        "code": "EHB 334E",
-        "name": "Random Signals and Noise"
-       },
-       {
-        "code": "EHB 335E",
-        "name": "Analog Electronic Circuits"
-       },
-       {
-        "code": "EHB 337E",
-        "name": "Theory of Electromagnetics II"
-       },
-       {
-        "code": "EHB 354E",
-        "name": "Object Oriented Programming"
-       },
-       {
-        "code": "EHB 405E",
-        "name": "Analog Integrated Circuits"
-       },
-       {
-        "code": "EHB 408E",
-        "name": "Wireless Com.Networks"
-       },
-       {
-        "code": "EHB 413E",
-        "name": "VLSI Circuit Design I"
-       },
-       {
-        "code": "EHB 415E",
-        "name": "Data Communications"
-       },
-       {
-        "code": "EHB 417E",
-        "name": "RF Microelectronics"
-       },
-       {
-        "code": "EHB 418E",
-        "name": "RF Electronics Applications"
-       },
-       {
-        "code": "EHB 419E",
-        "name": "Digital System Design"
-       },
-       {
-        "code": "EHB 420E",
-        "name": "Artificial Neural Networks"
-       },
-       {
-        "code": "EHB 422E",
-        "name": "The Origin and Sensing Methods of Biological Signals"
-       },
-       {
-        "code": "EHB 425E",
-        "name": "VLSI Circuit Design II"
-       },
-       {
-        "code": "EHB 426E",
-        "name": "Microelectr.Analog Syst.Design"
-       },
-       {
-        "code": "EHB 427E",
-        "name": "Microelectronics Technology"
-       },
-       {
-        "code": "EHB 428E",
-        "name": "Industrial Electronics"
-       },
-       {
-        "code": "EHB 429E",
-        "name": "Communication Electronic Circuits"
-       },
-       {
-        "code": "EHB 431E",
-        "name": "Design & Appl.Digital Com.Sys."
-       },
-       {
-        "code": "EHB 433E",
-        "name": "Digital Filters and Systems"
-       },
-       {
-        "code": "EHB 436E",
-        "name": "Digital System Design Applic."
-       },
-       {
-        "code": "EHB 442E",
-        "name": "Semiconductor Devices"
-       },
-       {
-        "code": "EHB 451E",
-        "name": "Active Microwave Circuits"
-       },
-       {
-        "code": "EHB 453E",
-        "name": "Intr.to Mobile Communications"
-       },
-       {
-        "code": "EHB 455E",
-        "name": "Microcontroller Based Sys.Des."
-       },
-       {
-        "code": "EHB 456E",
-        "name": "Antennas"
-       },
-       {
-        "code": "EHB 458E",
-        "name": "Microwave Measurement Methods and Applications"
-       },
-       {
-        "code": "EHB 461E",
-        "name": "Communication Tech. and Syst."
-       },
-       {
-        "code": "EHB 464E",
-        "name": "Satellite Communications"
-       },
-       {
-        "code": "EHB 465E",
-        "name": "Fiberoptic Com. Systems"
-       },
-       {
-        "code": "EHB 466E",
-        "name": "Remote Sensing"
-       },
-       {
-        "code": "EHB 467E",
-        "name": "Radar Systems"
-       },
-       {
-        "code": "EHB 468E",
-        "name": "Principles of Electromagnetic Compatibility Measurements"
-       },
-       {
-        "code": "EHB 472E",
-        "name": "Image Processing Fundamentals"
-       },
-       {
-        "code": "EHB 473E",
-        "name": "Microwave and RF Communication"
-       },
-       {
-        "code": "EHB 474E",
-        "name": "Introduction to Optimization"
-       },
-       {
-        "code": "EHB 475E",
-        "name": "Digital Speech Processing"
-       },
-       {
-        "code": "EHB 477E",
-        "name": "Fundm.of Electrmgn.Compt."
-       },
-       {
-        "code": "EHB 481E",
-        "name": "Des.&Applic.of Basic Comm.Sys."
-       },
-       {
         "code": "ELK 313E",
         "name": "Power Transmission Lines"
        },
@@ -1118,20 +954,12 @@
         "name": "Power Electronic Circuits"
        },
        {
-        "code": "ELK 334E",
-        "name": "Dsgn of Power Electr Circuits"
+        "code": "ELK 473E",
+        "name": "Disch.Pheno.in High Volt.Tech."
        },
        {
         "code": "ELK 336E",
         "name": "Quantum Computation"
-       },
-       {
-        "code": "ELK 343E",
-        "name": "Electromech. Energy Conversion"
-       },
-       {
-        "code": "ELK 415E",
-        "name": "Digital Protection&Signalling"
        },
        {
         "code": "ELK 463E",
@@ -1142,16 +970,24 @@
         "name": "Engr. & Project Management"
        },
        {
+        "code": "ELK 343E",
+        "name": "Electromech. Energy Conversion"
+       },
+       {
+        "code": "ELK 334E",
+        "name": "Dsgn of Power Electr Circuits"
+       },
+       {
         "code": "ELK 472E",
         "name": "Renewable Energy Systems"
        },
        {
-        "code": "ELK 473E",
-        "name": "Disch.Pheno.in High Volt.Tech."
+        "code": "ELK 415E",
+        "name": "Digital Protection&Signalling"
        },
        {
-        "code": "KON 414E",
-        "name": "Principles of Robot Autonomy"
+        "code": "KON 435E",
+        "name": "Industrial Data Communications"
        },
        {
         "code": "KON 422E",
@@ -1162,12 +998,176 @@
         "name": "Process Control"
        },
        {
-        "code": "KON 435E",
-        "name": "Industrial Data Communications"
-       },
-       {
         "code": "KON 437E",
         "name": "Motion Control Systems"
+       },
+       {
+        "code": "EHB 418E",
+        "name": "RF Electronics Applications"
+       },
+       {
+        "code": "EHB 436E",
+        "name": "Digital System Design Applic."
+       },
+       {
+        "code": "EHB 426E",
+        "name": "Microelectr.Analog Syst.Design"
+       },
+       {
+        "code": "EHB 315E",
+        "name": "Digital Signal Processing"
+       },
+       {
+        "code": "EHB 481E",
+        "name": "Des.&Applic.of Basic Comm.Sys."
+       },
+       {
+        "code": "EHB 428E",
+        "name": "Industrial Electronics"
+       },
+       {
+        "code": "EHB 453E",
+        "name": "Intr.to Mobile Communications"
+       },
+       {
+        "code": "EHB 405E",
+        "name": "Analog Integrated Circuits"
+       },
+       {
+        "code": "EHB 415E",
+        "name": "Data Communications"
+       },
+       {
+        "code": "EHB 417E",
+        "name": "RF Microelectronics"
+       },
+       {
+        "code": "EHB 431E",
+        "name": "Design & Appl.Digital Com.Sys."
+       },
+       {
+        "code": "EHB 433E",
+        "name": "Digital Filters and Systems"
+       },
+       {
+        "code": "EHB 334E",
+        "name": "Random Signals and Noise"
+       },
+       {
+        "code": "EHB 326E",
+        "name": "Intr.to Embedded Systems"
+       },
+       {
+        "code": "EHB 464E",
+        "name": "Satellite Communications"
+       },
+       {
+        "code": "EHB 422E",
+        "name": "The Origin and Sensing Methods of Biological Signals"
+       },
+       {
+        "code": "EHB 425E",
+        "name": "VLSI Circuit Design II"
+       },
+       {
+        "code": "EHB 427E",
+        "name": "Microelectronics Technology"
+       },
+       {
+        "code": "EHB 335E",
+        "name": "Analog Electronic Circuits"
+       },
+       {
+        "code": "EHB 420E",
+        "name": "Artificial Neural Networks"
+       },
+       {
+        "code": "EHB 465E",
+        "name": "Fiberoptic Com. Systems"
+       },
+       {
+        "code": "EHB 473E",
+        "name": "Microwave and RF Communication"
+       },
+       {
+        "code": "EHB 408E",
+        "name": "Wireless Com.Networks"
+       },
+       {
+        "code": "EHB 419E",
+        "name": "Digital System Design"
+       },
+       {
+        "code": "EHB 429E",
+        "name": "Communication Electronic Circuits"
+       },
+       {
+        "code": "EHB 467E",
+        "name": "Radar Systems"
+       },
+       {
+        "code": "EHB 458E",
+        "name": "Microwave Measurement Methods and Applications"
+       },
+       {
+        "code": "EHB 468E",
+        "name": "Principles of Electromagnetic Compatibility Measurements"
+       },
+       {
+        "code": "EHB 466E",
+        "name": "Remote Sensing"
+       },
+       {
+        "code": "EHB 475E",
+        "name": "Digital Speech Processing"
+       },
+       {
+        "code": "EHB 456E",
+        "name": "Antennas"
+       },
+       {
+        "code": "EHB 474E",
+        "name": "Introduction to Optimization"
+       },
+       {
+        "code": "EHB 413E",
+        "name": "VLSI Circuit Design I"
+       },
+       {
+        "code": "EHB 442E",
+        "name": "Semiconductor Devices"
+       },
+       {
+        "code": "EHB 451E",
+        "name": "Active Microwave Circuits"
+       },
+       {
+        "code": "EHB 472E",
+        "name": "Image Processing Fundamentals"
+       },
+       {
+        "code": "EHB 477E",
+        "name": "Fundm.of Electrmgn.Compt."
+       },
+       {
+        "code": "KON 414E",
+        "name": "Principles of Robot Autonomy"
+       },
+       {
+        "code": "EHB 337E",
+        "name": "Theory of Electromagnetics II"
+       },
+       {
+        "code": "EHB 455E",
+        "name": "Microcontroller Based Sys.Des."
+       },
+       {
+        "code": "EHB 461E",
+        "name": "Communication Tech. and Syst."
+       },
+       {
+        "code": "EHB 354E",
+        "name": "Object Oriented Programming"
        },
        {
         "code": "MYZ 307E",
@@ -1186,170 +1186,6 @@
       ],
       "options": [
        {
-        "code": "EHB 315E",
-        "name": "Digital Signal Processing"
-       },
-       {
-        "code": "EHB 326E",
-        "name": "Intr.to Embedded Systems"
-       },
-       {
-        "code": "EHB 334E",
-        "name": "Random Signals and Noise"
-       },
-       {
-        "code": "EHB 335E",
-        "name": "Analog Electronic Circuits"
-       },
-       {
-        "code": "EHB 337E",
-        "name": "Theory of Electromagnetics II"
-       },
-       {
-        "code": "EHB 354E",
-        "name": "Object Oriented Programming"
-       },
-       {
-        "code": "EHB 405E",
-        "name": "Analog Integrated Circuits"
-       },
-       {
-        "code": "EHB 408E",
-        "name": "Wireless Com.Networks"
-       },
-       {
-        "code": "EHB 413E",
-        "name": "VLSI Circuit Design I"
-       },
-       {
-        "code": "EHB 415E",
-        "name": "Data Communications"
-       },
-       {
-        "code": "EHB 417E",
-        "name": "RF Microelectronics"
-       },
-       {
-        "code": "EHB 418E",
-        "name": "RF Electronics Applications"
-       },
-       {
-        "code": "EHB 419E",
-        "name": "Digital System Design"
-       },
-       {
-        "code": "EHB 420E",
-        "name": "Artificial Neural Networks"
-       },
-       {
-        "code": "EHB 422E",
-        "name": "The Origin and Sensing Methods of Biological Signals"
-       },
-       {
-        "code": "EHB 425E",
-        "name": "VLSI Circuit Design II"
-       },
-       {
-        "code": "EHB 426E",
-        "name": "Microelectr.Analog Syst.Design"
-       },
-       {
-        "code": "EHB 427E",
-        "name": "Microelectronics Technology"
-       },
-       {
-        "code": "EHB 428E",
-        "name": "Industrial Electronics"
-       },
-       {
-        "code": "EHB 429E",
-        "name": "Communication Electronic Circuits"
-       },
-       {
-        "code": "EHB 431E",
-        "name": "Design & Appl.Digital Com.Sys."
-       },
-       {
-        "code": "EHB 433E",
-        "name": "Digital Filters and Systems"
-       },
-       {
-        "code": "EHB 436E",
-        "name": "Digital System Design Applic."
-       },
-       {
-        "code": "EHB 442E",
-        "name": "Semiconductor Devices"
-       },
-       {
-        "code": "EHB 451E",
-        "name": "Active Microwave Circuits"
-       },
-       {
-        "code": "EHB 453E",
-        "name": "Intr.to Mobile Communications"
-       },
-       {
-        "code": "EHB 455E",
-        "name": "Microcontroller Based Sys.Des."
-       },
-       {
-        "code": "EHB 456E",
-        "name": "Antennas"
-       },
-       {
-        "code": "EHB 458E",
-        "name": "Microwave Measurement Methods and Applications"
-       },
-       {
-        "code": "EHB 461E",
-        "name": "Communication Tech. and Syst."
-       },
-       {
-        "code": "EHB 464E",
-        "name": "Satellite Communications"
-       },
-       {
-        "code": "EHB 465E",
-        "name": "Fiberoptic Com. Systems"
-       },
-       {
-        "code": "EHB 466E",
-        "name": "Remote Sensing"
-       },
-       {
-        "code": "EHB 467E",
-        "name": "Radar Systems"
-       },
-       {
-        "code": "EHB 468E",
-        "name": "Principles of Electromagnetic Compatibility Measurements"
-       },
-       {
-        "code": "EHB 472E",
-        "name": "Image Processing Fundamentals"
-       },
-       {
-        "code": "EHB 473E",
-        "name": "Microwave and RF Communication"
-       },
-       {
-        "code": "EHB 474E",
-        "name": "Introduction to Optimization"
-       },
-       {
-        "code": "EHB 475E",
-        "name": "Digital Speech Processing"
-       },
-       {
-        "code": "EHB 477E",
-        "name": "Fundm.of Electrmgn.Compt."
-       },
-       {
-        "code": "EHB 481E",
-        "name": "Des.&Applic.of Basic Comm.Sys."
-       },
-       {
         "code": "ELK 313E",
         "name": "Power Transmission Lines"
        },
@@ -1358,20 +1194,12 @@
         "name": "Power Electronic Circuits"
        },
        {
-        "code": "ELK 334E",
-        "name": "Dsgn of Power Electr Circuits"
+        "code": "ELK 473E",
+        "name": "Disch.Pheno.in High Volt.Tech."
        },
        {
         "code": "ELK 336E",
         "name": "Quantum Computation"
-       },
-       {
-        "code": "ELK 343E",
-        "name": "Electromech. Energy Conversion"
-       },
-       {
-        "code": "ELK 415E",
-        "name": "Digital Protection&Signalling"
        },
        {
         "code": "ELK 463E",
@@ -1382,16 +1210,24 @@
         "name": "Engr. & Project Management"
        },
        {
+        "code": "ELK 343E",
+        "name": "Electromech. Energy Conversion"
+       },
+       {
+        "code": "ELK 334E",
+        "name": "Dsgn of Power Electr Circuits"
+       },
+       {
         "code": "ELK 472E",
         "name": "Renewable Energy Systems"
        },
        {
-        "code": "ELK 473E",
-        "name": "Disch.Pheno.in High Volt.Tech."
+        "code": "ELK 415E",
+        "name": "Digital Protection&Signalling"
        },
        {
-        "code": "KON 414E",
-        "name": "Principles of Robot Autonomy"
+        "code": "KON 435E",
+        "name": "Industrial Data Communications"
        },
        {
         "code": "KON 422E",
@@ -1402,12 +1238,176 @@
         "name": "Process Control"
        },
        {
-        "code": "KON 435E",
-        "name": "Industrial Data Communications"
-       },
-       {
         "code": "KON 437E",
         "name": "Motion Control Systems"
+       },
+       {
+        "code": "EHB 418E",
+        "name": "RF Electronics Applications"
+       },
+       {
+        "code": "EHB 436E",
+        "name": "Digital System Design Applic."
+       },
+       {
+        "code": "EHB 426E",
+        "name": "Microelectr.Analog Syst.Design"
+       },
+       {
+        "code": "EHB 315E",
+        "name": "Digital Signal Processing"
+       },
+       {
+        "code": "EHB 481E",
+        "name": "Des.&Applic.of Basic Comm.Sys."
+       },
+       {
+        "code": "EHB 428E",
+        "name": "Industrial Electronics"
+       },
+       {
+        "code": "EHB 453E",
+        "name": "Intr.to Mobile Communications"
+       },
+       {
+        "code": "EHB 405E",
+        "name": "Analog Integrated Circuits"
+       },
+       {
+        "code": "EHB 415E",
+        "name": "Data Communications"
+       },
+       {
+        "code": "EHB 417E",
+        "name": "RF Microelectronics"
+       },
+       {
+        "code": "EHB 431E",
+        "name": "Design & Appl.Digital Com.Sys."
+       },
+       {
+        "code": "EHB 433E",
+        "name": "Digital Filters and Systems"
+       },
+       {
+        "code": "EHB 334E",
+        "name": "Random Signals and Noise"
+       },
+       {
+        "code": "EHB 326E",
+        "name": "Intr.to Embedded Systems"
+       },
+       {
+        "code": "EHB 464E",
+        "name": "Satellite Communications"
+       },
+       {
+        "code": "EHB 422E",
+        "name": "The Origin and Sensing Methods of Biological Signals"
+       },
+       {
+        "code": "EHB 425E",
+        "name": "VLSI Circuit Design II"
+       },
+       {
+        "code": "EHB 427E",
+        "name": "Microelectronics Technology"
+       },
+       {
+        "code": "EHB 335E",
+        "name": "Analog Electronic Circuits"
+       },
+       {
+        "code": "EHB 420E",
+        "name": "Artificial Neural Networks"
+       },
+       {
+        "code": "EHB 465E",
+        "name": "Fiberoptic Com. Systems"
+       },
+       {
+        "code": "EHB 473E",
+        "name": "Microwave and RF Communication"
+       },
+       {
+        "code": "EHB 408E",
+        "name": "Wireless Com.Networks"
+       },
+       {
+        "code": "EHB 419E",
+        "name": "Digital System Design"
+       },
+       {
+        "code": "EHB 429E",
+        "name": "Communication Electronic Circuits"
+       },
+       {
+        "code": "EHB 467E",
+        "name": "Radar Systems"
+       },
+       {
+        "code": "EHB 458E",
+        "name": "Microwave Measurement Methods and Applications"
+       },
+       {
+        "code": "EHB 468E",
+        "name": "Principles of Electromagnetic Compatibility Measurements"
+       },
+       {
+        "code": "EHB 466E",
+        "name": "Remote Sensing"
+       },
+       {
+        "code": "EHB 475E",
+        "name": "Digital Speech Processing"
+       },
+       {
+        "code": "EHB 456E",
+        "name": "Antennas"
+       },
+       {
+        "code": "EHB 474E",
+        "name": "Introduction to Optimization"
+       },
+       {
+        "code": "EHB 413E",
+        "name": "VLSI Circuit Design I"
+       },
+       {
+        "code": "EHB 442E",
+        "name": "Semiconductor Devices"
+       },
+       {
+        "code": "EHB 451E",
+        "name": "Active Microwave Circuits"
+       },
+       {
+        "code": "EHB 472E",
+        "name": "Image Processing Fundamentals"
+       },
+       {
+        "code": "EHB 477E",
+        "name": "Fundm.of Electrmgn.Compt."
+       },
+       {
+        "code": "KON 414E",
+        "name": "Principles of Robot Autonomy"
+       },
+       {
+        "code": "EHB 337E",
+        "name": "Theory of Electromagnetics II"
+       },
+       {
+        "code": "EHB 455E",
+        "name": "Microcontroller Based Sys.Des."
+       },
+       {
+        "code": "EHB 461E",
+        "name": "Communication Tech. and Syst."
+       },
+       {
+        "code": "EHB 354E",
+        "name": "Object Oriented Programming"
        },
        {
         "code": "MYZ 307E",
@@ -1426,170 +1426,6 @@
       ],
       "options": [
        {
-        "code": "EHB 315E",
-        "name": "Digital Signal Processing"
-       },
-       {
-        "code": "EHB 326E",
-        "name": "Intr.to Embedded Systems"
-       },
-       {
-        "code": "EHB 334E",
-        "name": "Random Signals and Noise"
-       },
-       {
-        "code": "EHB 335E",
-        "name": "Analog Electronic Circuits"
-       },
-       {
-        "code": "EHB 337E",
-        "name": "Theory of Electromagnetics II"
-       },
-       {
-        "code": "EHB 354E",
-        "name": "Object Oriented Programming"
-       },
-       {
-        "code": "EHB 405E",
-        "name": "Analog Integrated Circuits"
-       },
-       {
-        "code": "EHB 408E",
-        "name": "Wireless Com.Networks"
-       },
-       {
-        "code": "EHB 413E",
-        "name": "VLSI Circuit Design I"
-       },
-       {
-        "code": "EHB 415E",
-        "name": "Data Communications"
-       },
-       {
-        "code": "EHB 417E",
-        "name": "RF Microelectronics"
-       },
-       {
-        "code": "EHB 418E",
-        "name": "RF Electronics Applications"
-       },
-       {
-        "code": "EHB 419E",
-        "name": "Digital System Design"
-       },
-       {
-        "code": "EHB 420E",
-        "name": "Artificial Neural Networks"
-       },
-       {
-        "code": "EHB 422E",
-        "name": "The Origin and Sensing Methods of Biological Signals"
-       },
-       {
-        "code": "EHB 425E",
-        "name": "VLSI Circuit Design II"
-       },
-       {
-        "code": "EHB 426E",
-        "name": "Microelectr.Analog Syst.Design"
-       },
-       {
-        "code": "EHB 427E",
-        "name": "Microelectronics Technology"
-       },
-       {
-        "code": "EHB 428E",
-        "name": "Industrial Electronics"
-       },
-       {
-        "code": "EHB 429E",
-        "name": "Communication Electronic Circuits"
-       },
-       {
-        "code": "EHB 431E",
-        "name": "Design & Appl.Digital Com.Sys."
-       },
-       {
-        "code": "EHB 433E",
-        "name": "Digital Filters and Systems"
-       },
-       {
-        "code": "EHB 436E",
-        "name": "Digital System Design Applic."
-       },
-       {
-        "code": "EHB 442E",
-        "name": "Semiconductor Devices"
-       },
-       {
-        "code": "EHB 451E",
-        "name": "Active Microwave Circuits"
-       },
-       {
-        "code": "EHB 453E",
-        "name": "Intr.to Mobile Communications"
-       },
-       {
-        "code": "EHB 455E",
-        "name": "Microcontroller Based Sys.Des."
-       },
-       {
-        "code": "EHB 456E",
-        "name": "Antennas"
-       },
-       {
-        "code": "EHB 458E",
-        "name": "Microwave Measurement Methods and Applications"
-       },
-       {
-        "code": "EHB 461E",
-        "name": "Communication Tech. and Syst."
-       },
-       {
-        "code": "EHB 464E",
-        "name": "Satellite Communications"
-       },
-       {
-        "code": "EHB 465E",
-        "name": "Fiberoptic Com. Systems"
-       },
-       {
-        "code": "EHB 466E",
-        "name": "Remote Sensing"
-       },
-       {
-        "code": "EHB 467E",
-        "name": "Radar Systems"
-       },
-       {
-        "code": "EHB 468E",
-        "name": "Principles of Electromagnetic Compatibility Measurements"
-       },
-       {
-        "code": "EHB 472E",
-        "name": "Image Processing Fundamentals"
-       },
-       {
-        "code": "EHB 473E",
-        "name": "Microwave and RF Communication"
-       },
-       {
-        "code": "EHB 474E",
-        "name": "Introduction to Optimization"
-       },
-       {
-        "code": "EHB 475E",
-        "name": "Digital Speech Processing"
-       },
-       {
-        "code": "EHB 477E",
-        "name": "Fundm.of Electrmgn.Compt."
-       },
-       {
-        "code": "EHB 481E",
-        "name": "Des.&Applic.of Basic Comm.Sys."
-       },
-       {
         "code": "ELK 313E",
         "name": "Power Transmission Lines"
        },
@@ -1598,20 +1434,12 @@
         "name": "Power Electronic Circuits"
        },
        {
-        "code": "ELK 334E",
-        "name": "Dsgn of Power Electr Circuits"
+        "code": "ELK 473E",
+        "name": "Disch.Pheno.in High Volt.Tech."
        },
        {
         "code": "ELK 336E",
         "name": "Quantum Computation"
-       },
-       {
-        "code": "ELK 343E",
-        "name": "Electromech. Energy Conversion"
-       },
-       {
-        "code": "ELK 415E",
-        "name": "Digital Protection&Signalling"
        },
        {
         "code": "ELK 463E",
@@ -1622,28 +1450,200 @@
         "name": "Engr. & Project Management"
        },
        {
+        "code": "ELK 343E",
+        "name": "Electromech. Energy Conversion"
+       },
+       {
+        "code": "ELK 334E",
+        "name": "Dsgn of Power Electr Circuits"
+       },
+       {
         "code": "ELK 472E",
         "name": "Renewable Energy Systems"
        },
        {
-        "code": "ELK 473E",
-        "name": "Disch.Pheno.in High Volt.Tech."
-       },
-       {
-        "code": "KON 414E",
-        "name": "Principles of Robot Autonomy"
-       },
-       {
-        "code": "KON 422E",
-        "name": "Electrical Transport Systems"
+        "code": "ELK 415E",
+        "name": "Digital Protection&Signalling"
        },
        {
         "code": "KON 435E",
         "name": "Industrial Data Communications"
        },
        {
+        "code": "KON 422E",
+        "name": "Electrical Transport Systems"
+       },
+       {
         "code": "KON 437E",
         "name": "Motion Control Systems"
+       },
+       {
+        "code": "EHB 418E",
+        "name": "RF Electronics Applications"
+       },
+       {
+        "code": "EHB 436E",
+        "name": "Digital System Design Applic."
+       },
+       {
+        "code": "EHB 426E",
+        "name": "Microelectr.Analog Syst.Design"
+       },
+       {
+        "code": "EHB 315E",
+        "name": "Digital Signal Processing"
+       },
+       {
+        "code": "EHB 481E",
+        "name": "Des.&Applic.of Basic Comm.Sys."
+       },
+       {
+        "code": "EHB 428E",
+        "name": "Industrial Electronics"
+       },
+       {
+        "code": "EHB 453E",
+        "name": "Intr.to Mobile Communications"
+       },
+       {
+        "code": "EHB 405E",
+        "name": "Analog Integrated Circuits"
+       },
+       {
+        "code": "EHB 415E",
+        "name": "Data Communications"
+       },
+       {
+        "code": "EHB 417E",
+        "name": "RF Microelectronics"
+       },
+       {
+        "code": "EHB 431E",
+        "name": "Design & Appl.Digital Com.Sys."
+       },
+       {
+        "code": "EHB 433E",
+        "name": "Digital Filters and Systems"
+       },
+       {
+        "code": "EHB 334E",
+        "name": "Random Signals and Noise"
+       },
+       {
+        "code": "EHB 326E",
+        "name": "Intr.to Embedded Systems"
+       },
+       {
+        "code": "EHB 464E",
+        "name": "Satellite Communications"
+       },
+       {
+        "code": "EHB 422E",
+        "name": "The Origin and Sensing Methods of Biological Signals"
+       },
+       {
+        "code": "EHB 425E",
+        "name": "VLSI Circuit Design II"
+       },
+       {
+        "code": "EHB 427E",
+        "name": "Microelectronics Technology"
+       },
+       {
+        "code": "EHB 335E",
+        "name": "Analog Electronic Circuits"
+       },
+       {
+        "code": "EHB 420E",
+        "name": "Artificial Neural Networks"
+       },
+       {
+        "code": "EHB 465E",
+        "name": "Fiberoptic Com. Systems"
+       },
+       {
+        "code": "EHB 473E",
+        "name": "Microwave and RF Communication"
+       },
+       {
+        "code": "EHB 408E",
+        "name": "Wireless Com.Networks"
+       },
+       {
+        "code": "EHB 419E",
+        "name": "Digital System Design"
+       },
+       {
+        "code": "EHB 429E",
+        "name": "Communication Electronic Circuits"
+       },
+       {
+        "code": "EHB 467E",
+        "name": "Radar Systems"
+       },
+       {
+        "code": "EHB 458E",
+        "name": "Microwave Measurement Methods and Applications"
+       },
+       {
+        "code": "EHB 468E",
+        "name": "Principles of Electromagnetic Compatibility Measurements"
+       },
+       {
+        "code": "EHB 466E",
+        "name": "Remote Sensing"
+       },
+       {
+        "code": "EHB 475E",
+        "name": "Digital Speech Processing"
+       },
+       {
+        "code": "EHB 456E",
+        "name": "Antennas"
+       },
+       {
+        "code": "EHB 474E",
+        "name": "Introduction to Optimization"
+       },
+       {
+        "code": "EHB 413E",
+        "name": "VLSI Circuit Design I"
+       },
+       {
+        "code": "EHB 442E",
+        "name": "Semiconductor Devices"
+       },
+       {
+        "code": "EHB 451E",
+        "name": "Active Microwave Circuits"
+       },
+       {
+        "code": "EHB 472E",
+        "name": "Image Processing Fundamentals"
+       },
+       {
+        "code": "EHB 477E",
+        "name": "Fundm.of Electrmgn.Compt."
+       },
+       {
+        "code": "KON 414E",
+        "name": "Principles of Robot Autonomy"
+       },
+       {
+        "code": "EHB 337E",
+        "name": "Theory of Electromagnetics II"
+       },
+       {
+        "code": "EHB 455E",
+        "name": "Microcontroller Based Sys.Des."
+       },
+       {
+        "code": "EHB 461E",
+        "name": "Communication Tech. and Syst."
+       },
+       {
+        "code": "EHB 354E",
+        "name": "Object Oriented Programming"
        },
        {
         "code": "MYZ 307E",
@@ -1691,52 +1691,56 @@
       ],
       "options": [
        {
-        "code": "EHB 334E",
-        "name": "Random Signals and Noise"
+        "code": "ELK 356E",
+        "name": "Electrical Machines"
        },
        {
-        "code": "EHB 354E",
-        "name": "Object Oriented Programming"
+        "code": "ELK 474E",
+        "name": "Power Syst. Contr. & Commun."
        },
        {
-        "code": "EHB 405E",
-        "name": "Analog Integrated Circuits"
+        "code": "ELK 336E",
+        "name": "Quantum Computation"
        },
        {
-        "code": "EHB 408E",
-        "name": "Wireless Com.Networks"
+        "code": "ELK 428E",
+        "name": "Electric and Hybrid Vehicles"
        },
        {
-        "code": "EHB 419E",
-        "name": "Digital System Design"
+        "code": "ELK 488E",
+        "name": "Electric Drive Systems"
        },
        {
-        "code": "EHB 425E",
-        "name": "VLSI Circuit Design II"
+        "code": "ELK 472E",
+        "name": "Renewable Energy Systems"
+       },
+       {
+        "code": "ELK 496E",
+        "name": "Power Syst. Dyn. & Stability"
+       },
+       {
+        "code": "ELK 453E",
+        "name": "Ind. Appl. of Power Electron."
+       },
+       {
+        "code": "KON 421E",
+        "name": "Robot Control"
+       },
+       {
+        "code": "KON 426E",
+        "name": "Intelligent Control Systems"
+       },
+       {
+        "code": "KON 424E",
+        "name": "Mod.&Cntrl of Biological Sys."
        },
        {
         "code": "EHB 426E",
         "name": "Microelectr.Analog Syst.Design"
        },
        {
-        "code": "EHB 427E",
-        "name": "Microelectronics Technology"
-       },
-       {
         "code": "EHB 428E",
         "name": "Industrial Electronics"
-       },
-       {
-        "code": "EHB 429E",
-        "name": "Communication Electronic Circuits"
-       },
-       {
-        "code": "EHB 431E",
-        "name": "Design & Appl.Digital Com.Sys."
-       },
-       {
-        "code": "EHB 433E",
-        "name": "Digital Filters and Systems"
        },
        {
         "code": "EHB 437E",
@@ -1747,24 +1751,48 @@
         "name": "Comp.Aided Devices in Medicine"
        },
        {
-        "code": "EHB 445E",
-        "name": "Medical Instrumentation,Design and Applications"
+        "code": "EHB 405E",
+        "name": "Analog Integrated Circuits"
        },
        {
-        "code": "EHB 456E",
-        "name": "Antennas"
+        "code": "EHB 431E",
+        "name": "Design & Appl.Digital Com.Sys."
+       },
+       {
+        "code": "EHB 433E",
+        "name": "Digital Filters and Systems"
+       },
+       {
+        "code": "EHB 334E",
+        "name": "Random Signals and Noise"
        },
        {
         "code": "EHB 464E",
         "name": "Satellite Communications"
        },
        {
+        "code": "EHB 425E",
+        "name": "VLSI Circuit Design II"
+       },
+       {
+        "code": "EHB 427E",
+        "name": "Microelectronics Technology"
+       },
+       {
         "code": "EHB 465E",
         "name": "Fiberoptic Com. Systems"
        },
        {
-        "code": "EHB 466E",
-        "name": "Remote Sensing"
+        "code": "EHB 408E",
+        "name": "Wireless Com.Networks"
+       },
+       {
+        "code": "EHB 419E",
+        "name": "Digital System Design"
+       },
+       {
+        "code": "EHB 429E",
+        "name": "Communication Electronic Circuits"
        },
        {
         "code": "EHB 467E",
@@ -1775,72 +1803,44 @@
         "name": "Principles of Electromagnetic Compatibility Measurements"
        },
        {
-        "code": "EHB 472E",
-        "name": "Image Processing Fundamentals"
-       },
-       {
-        "code": "EHB 474E",
-        "name": "Introduction to Optimization"
+        "code": "EHB 466E",
+        "name": "Remote Sensing"
        },
        {
         "code": "EHB 475E",
         "name": "Digital Speech Processing"
        },
        {
+        "code": "EHB 456E",
+        "name": "Antennas"
+       },
+       {
+        "code": "EHB 474E",
+        "name": "Introduction to Optimization"
+       },
+       {
+        "code": "EHB 445E",
+        "name": "Medical Instrumentation,Design and Applications"
+       },
+       {
+        "code": "EHB 472E",
+        "name": "Image Processing Fundamentals"
+       },
+       {
         "code": "ELK 308E",
         "name": "Comp. Networks for Power Syst."
-       },
-       {
-        "code": "ELK 336E",
-        "name": "Quantum Computation"
-       },
-       {
-        "code": "ELK 356E",
-        "name": "Electrical Machines"
        },
        {
         "code": "ELK 406E",
         "name": "Distribution of Electr. Energy"
        },
        {
-        "code": "ELK 428E",
-        "name": "Electric and Hybrid Vehicles"
-       },
-       {
-        "code": "ELK 453E",
-        "name": "Ind. Appl. of Power Electron."
-       },
-       {
-        "code": "ELK 472E",
-        "name": "Renewable Energy Systems"
-       },
-       {
-        "code": "ELK 474E",
-        "name": "Power Syst. Contr. & Commun."
-       },
-       {
-        "code": "ELK 488E",
-        "name": "Electric Drive Systems"
-       },
-       {
-        "code": "ELK 496E",
-        "name": "Power Syst. Dyn. & Stability"
-       },
-       {
-        "code": "KON 421E",
-        "name": "Robot Control"
-       },
-       {
-        "code": "KON 424E",
-        "name": "Mod.&Cntrl of Biological Sys."
-       },
-       {
-        "code": "KON 426E",
-        "name": "Intelligent Control Systems"
-       },
-       {
         "code": "KON 429E",
         "name": "Autonomous Vehicles"
+       },
+       {
+        "code": "EHB 354E",
+        "name": "Object Oriented Programming"
        }
       ]
      }
@@ -1855,52 +1855,56 @@
       ],
       "options": [
        {
-        "code": "EHB 334E",
-        "name": "Random Signals and Noise"
+        "code": "ELK 356E",
+        "name": "Electrical Machines"
        },
        {
-        "code": "EHB 354E",
-        "name": "Object Oriented Programming"
+        "code": "ELK 474E",
+        "name": "Power Syst. Contr. & Commun."
        },
        {
-        "code": "EHB 405E",
-        "name": "Analog Integrated Circuits"
+        "code": "ELK 336E",
+        "name": "Quantum Computation"
        },
        {
-        "code": "EHB 408E",
-        "name": "Wireless Com.Networks"
+        "code": "ELK 428E",
+        "name": "Electric and Hybrid Vehicles"
        },
        {
-        "code": "EHB 419E",
-        "name": "Digital System Design"
+        "code": "ELK 488E",
+        "name": "Electric Drive Systems"
        },
        {
-        "code": "EHB 425E",
-        "name": "VLSI Circuit Design II"
+        "code": "ELK 472E",
+        "name": "Renewable Energy Systems"
+       },
+       {
+        "code": "ELK 496E",
+        "name": "Power Syst. Dyn. & Stability"
+       },
+       {
+        "code": "ELK 453E",
+        "name": "Ind. Appl. of Power Electron."
+       },
+       {
+        "code": "KON 421E",
+        "name": "Robot Control"
+       },
+       {
+        "code": "KON 426E",
+        "name": "Intelligent Control Systems"
+       },
+       {
+        "code": "KON 424E",
+        "name": "Mod.&Cntrl of Biological Sys."
        },
        {
         "code": "EHB 426E",
         "name": "Microelectr.Analog Syst.Design"
        },
        {
-        "code": "EHB 427E",
-        "name": "Microelectronics Technology"
-       },
-       {
         "code": "EHB 428E",
         "name": "Industrial Electronics"
-       },
-       {
-        "code": "EHB 429E",
-        "name": "Communication Electronic Circuits"
-       },
-       {
-        "code": "EHB 431E",
-        "name": "Design & Appl.Digital Com.Sys."
-       },
-       {
-        "code": "EHB 433E",
-        "name": "Digital Filters and Systems"
        },
        {
         "code": "EHB 437E",
@@ -1911,24 +1915,48 @@
         "name": "Comp.Aided Devices in Medicine"
        },
        {
-        "code": "EHB 445E",
-        "name": "Medical Instrumentation,Design and Applications"
+        "code": "EHB 405E",
+        "name": "Analog Integrated Circuits"
        },
        {
-        "code": "EHB 456E",
-        "name": "Antennas"
+        "code": "EHB 431E",
+        "name": "Design & Appl.Digital Com.Sys."
+       },
+       {
+        "code": "EHB 433E",
+        "name": "Digital Filters and Systems"
+       },
+       {
+        "code": "EHB 334E",
+        "name": "Random Signals and Noise"
        },
        {
         "code": "EHB 464E",
         "name": "Satellite Communications"
        },
        {
+        "code": "EHB 425E",
+        "name": "VLSI Circuit Design II"
+       },
+       {
+        "code": "EHB 427E",
+        "name": "Microelectronics Technology"
+       },
+       {
         "code": "EHB 465E",
         "name": "Fiberoptic Com. Systems"
        },
        {
-        "code": "EHB 466E",
-        "name": "Remote Sensing"
+        "code": "EHB 408E",
+        "name": "Wireless Com.Networks"
+       },
+       {
+        "code": "EHB 419E",
+        "name": "Digital System Design"
+       },
+       {
+        "code": "EHB 429E",
+        "name": "Communication Electronic Circuits"
        },
        {
         "code": "EHB 467E",
@@ -1939,72 +1967,44 @@
         "name": "Principles of Electromagnetic Compatibility Measurements"
        },
        {
-        "code": "EHB 472E",
-        "name": "Image Processing Fundamentals"
-       },
-       {
-        "code": "EHB 474E",
-        "name": "Introduction to Optimization"
+        "code": "EHB 466E",
+        "name": "Remote Sensing"
        },
        {
         "code": "EHB 475E",
         "name": "Digital Speech Processing"
        },
        {
+        "code": "EHB 456E",
+        "name": "Antennas"
+       },
+       {
+        "code": "EHB 474E",
+        "name": "Introduction to Optimization"
+       },
+       {
+        "code": "EHB 445E",
+        "name": "Medical Instrumentation,Design and Applications"
+       },
+       {
+        "code": "EHB 472E",
+        "name": "Image Processing Fundamentals"
+       },
+       {
         "code": "ELK 308E",
         "name": "Comp. Networks for Power Syst."
-       },
-       {
-        "code": "ELK 336E",
-        "name": "Quantum Computation"
-       },
-       {
-        "code": "ELK 356E",
-        "name": "Electrical Machines"
        },
        {
         "code": "ELK 406E",
         "name": "Distribution of Electr. Energy"
        },
        {
-        "code": "ELK 428E",
-        "name": "Electric and Hybrid Vehicles"
-       },
-       {
-        "code": "ELK 453E",
-        "name": "Ind. Appl. of Power Electron."
-       },
-       {
-        "code": "ELK 472E",
-        "name": "Renewable Energy Systems"
-       },
-       {
-        "code": "ELK 474E",
-        "name": "Power Syst. Contr. & Commun."
-       },
-       {
-        "code": "ELK 488E",
-        "name": "Electric Drive Systems"
-       },
-       {
-        "code": "ELK 496E",
-        "name": "Power Syst. Dyn. & Stability"
-       },
-       {
-        "code": "KON 421E",
-        "name": "Robot Control"
-       },
-       {
-        "code": "KON 424E",
-        "name": "Mod.&Cntrl of Biological Sys."
-       },
-       {
-        "code": "KON 426E",
-        "name": "Intelligent Control Systems"
-       },
-       {
         "code": "KON 429E",
         "name": "Autonomous Vehicles"
+       },
+       {
+        "code": "EHB 354E",
+        "name": "Object Oriented Programming"
        }
       ]
      }
@@ -2019,204 +2019,40 @@
       ],
       "options": [
        {
-        "code": "ALM 101",
-        "name": "Almanca I"
-       },
-       {
-        "code": "ALM 102",
-        "name": "Almanca II"
-       },
-       {
-        "code": "ALM 201",
-        "name": "Almanca III"
-       },
-       {
-        "code": "ALM 202",
-        "name": "Almanca IV"
-       },
-       {
-        "code": "ALM 301",
-        "name": "Almanca V"
-       },
-       {
-        "code": "ALM 302",
-        "name": "Almanca VI"
-       },
-       {
-        "code": "ALM 401",
-        "name": "Almanca VII"
-       },
-       {
-        "code": "ARB 101",
-        "name": "Arapça I"
-       },
-       {
-        "code": "ARB 102",
-        "name": "Arapça II"
-       },
-       {
-        "code": "BEB 120",
-        "name": "Spor ve Temel Bilimler"
-       },
-       {
-        "code": "BEB 121",
-        "name": "Spor ve Teknoloji"
-       },
-       {
-        "code": "CIN 101",
-        "name": "Çince I"
-       },
-       {
-        "code": "CIN 102",
-        "name": "Çince II"
-       },
-       {
-        "code": "CIN 201",
-        "name": "Çince III"
-       },
-       {
-        "code": "EKO 201E",
-        "name": "Economics"
-       },
-       {
-        "code": "FRA 101",
-        "name": "Fransızca I"
-       },
-       {
-        "code": "FRA 102",
-        "name": "Fransızca II"
-       },
-       {
-        "code": "FRA 201",
-        "name": "Fransızca III"
-       },
-       {
-        "code": "FRA 202",
-        "name": "Fransızca IV"
-       },
-       {
-        "code": "FRA 301",
-        "name": "Fransızca V"
-       },
-       {
-        "code": "FRA 302",
-        "name": "Fransızca VI"
-       },
-       {
-        "code": "HUK 201",
-        "name": "İş Hukuku"
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
-       },
-       {
-        "code": "HUK 216",
-        "name": "Telekomünikasyon Hukuku"
-       },
-       {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
-       },
-       {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
-       },
-       {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103DD",
-        "name": "Decoding Discourse: Language, Power, and Ideology"
-       },
-       {
-        "code": "ING 103H",
-        "name": "Public Presentations"
-       },
-       {
-        "code": "ING 103I",
-        "name": "Short Stories"
-       },
-       {
-        "code": "ING 103N",
-        "name": "Film Studies"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
         "code": "ISL 465E",
         "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ISP 101",
-        "name": "İspanyolca I"
+        "code": "ING 103H",
+        "name": "Public Presentations"
        },
        {
-        "code": "ISP 102",
-        "name": "İspanyolca II"
+        "code": "ING 103SC",
+        "name": "Science Communication"
        },
        {
-        "code": "ISP 201",
-        "name": "İspanyolca III"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
-        "code": "ISP 202",
-        "name": "İspanyolca IV"
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
        },
        {
-        "code": "ISP 301",
-        "name": "İspanyolca V"
+        "code": "HUK 201E",
+        "name": "Labor Law"
        },
        {
-        "code": "ISP 302",
-        "name": "İspanyolca VI"
-       },
-       {
-        "code": "ITA 101",
-        "name": "İtalyanca I"
-       },
-       {
-        "code": "ITA 102",
-        "name": "İtalyanca II"
-       },
-       {
-        "code": "ITA 201",
-        "name": "İtalyanca III"
-       },
-       {
-        "code": "ITA 202",
-        "name": "İtalyanca IV"
-       },
-       {
-        "code": "ITA 301",
-        "name": "İtalyanca V"
-       },
-       {
-        "code": "ITB 020E",
-        "name": "Formations of Modernity"
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "ITB 037E",
@@ -2235,40 +2071,28 @@
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+        "code": "ING 103N",
+        "name": "Film Studies"
+       },
+       {
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
+       },
+       {
+        "code": "HUK 218E",
+        "name": "Commercial Law"
+       },
+       {
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
        },
        {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
         "code": "ITB 206E",
@@ -2279,68 +2103,20 @@
         "name": "Ottoman History"
        },
        {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
         "code": "ITB 209E",
         "name": "Türkiye in World Affairs"
-       },
-       {
-        "code": "ITB 213E",
-        "name": "Toplics in Literature and Society"
-       },
-       {
-        "code": "ITB 214E",
-        "name": "The Modern Middle East"
-       },
-       {
-        "code": "ITB 215E",
-        "name": "Topics in Hist.and Society"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
        },
        {
         "code": "ITB 217E",
         "name": "Engineering Ethics"
        },
        {
-        "code": "ITB 218E",
-        "name": "History of Science&Technology"
+        "code": "ITB 233E",
+        "name": "Anthropology"
        },
        {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 221E",
-        "name": "Anatolian Archaeology"
-       },
-       {
-        "code": "ITB 222E",
-        "name": "City and Society"
-       },
-       {
-        "code": "ITB 224E",
-        "name": "Environment and Society"
-       },
-       {
-        "code": "ITB 225E",
-        "name": "Intercultural Citizenship Education"
-       },
-       {
-        "code": "ITB 227E",
-        "name": "Political Theory"
-       },
-       {
-        "code": "ITB 228E",
-        "name": "Gender Studies"
+        "code": "ITB 203E",
+        "name": "Sociology"
        },
        {
         "code": "ITB 230E",
@@ -2351,120 +2127,120 @@
         "name": "Volunteering Studies"
        },
        {
-        "code": "ITB 233E",
-        "name": "Anthropology"
+        "code": "ITB 213E",
+        "name": "Toplics in Literature and Society"
        },
        {
-        "code": "ITB 235E",
-        "name": "Türkiye and EuropeanUnion"
+        "code": "ITB 219E",
+        "name": "Ethics"
        },
        {
-        "code": "JPN 101",
-        "name": "Japonca I"
+        "code": "ING 103I",
+        "name": "Short Stories"
        },
        {
-        "code": "JPN 102",
-        "name": "Japonca II"
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
        },
        {
-        "code": "JPN 201",
-        "name": "Japonca III"
+        "code": "ITB 202E",
+        "name": "World History"
        },
        {
-        "code": "JPN 202",
-        "name": "Japonca IV"
+        "code": "ITB 214E",
+        "name": "The Modern Middle East"
        },
        {
-        "code": "KOR 101",
-        "name": "Korece I"
+        "code": "ITB 215E",
+        "name": "Topics in Hist.and Society"
        },
        {
-        "code": "KOR 102",
-        "name": "Korece II"
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
        },
        {
-        "code": "RUS 101",
-        "name": "Rusça I"
+        "code": "ITB 222E",
+        "name": "City and Society"
        },
        {
-        "code": "RUS 102",
-        "name": "Rusça II"
+        "code": "ITB 224E",
+        "name": "Environment and Society"
        },
        {
-        "code": "RUS 201",
-        "name": "Rusça III"
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
        },
        {
-        "code": "RUS 202",
-        "name": "Rusça IV"
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
        },
        {
-        "code": "SNT 101E",
-        "name": "Looking at the Art of Sculpture"
+        "code": "ITB 205E",
+        "name": "Philosophy"
        },
        {
-        "code": "SNT 102E",
-        "name": "Photography"
+        "code": "EKO 201E",
+        "name": "Economics"
        },
        {
-        "code": "SNT 103E",
-        "name": "Drawing"
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
        },
        {
-        "code": "SNT 104E",
-        "name": "Mythology and Art"
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
+        "code": "ITB 227E",
+        "name": "Political Theory"
        },
        {
         "code": "SNT 105E",
         "name": "Film Art"
        },
        {
+        "code": "SNT 101E",
+        "name": "Looking at the Art of Sculpture"
+       },
+       {
         "code": "SNT 106E",
         "name": "Traditional Turkish Art&Crafts"
        },
        {
-        "code": "SNT 107E",
-        "name": "Ancient Civilizat.in Anatolia"
-       },
-       {
-        "code": "SNT 112E",
-        "name": "Theater"
-       },
-       {
-        "code": "SNT 113E",
-        "name": "Art and Interpretation"
+        "code": "SNT 103E",
+        "name": "Drawing"
        },
        {
         "code": "SNT 114E",
         "name": "Contemporary Art"
-       },
-       {
-        "code": "SNT 116E",
-        "name": "The Art of Communication"
-       },
-       {
-        "code": "SNT 117E",
-        "name": "Jazz Appreciation"
-       },
-       {
-        "code": "SNT 121E",
-        "name": "World Music Cultures"
-       },
-       {
-        "code": "SNT 123E",
-        "name": "Film Production"
-       },
-       {
-        "code": "SNT 211E",
-        "name": "Istanbul:Hist.,Art and Society"
-       },
-       {
-        "code": "SNT 212E",
-        "name": "Art,Culture and Society"
-       },
-       {
-        "code": "SNT 215E",
-        "name": "Balkan Musics"
        },
        {
         "code": "SNT 226E",
@@ -2473,6 +2249,230 @@
        {
         "code": "SNT 227E",
         "name": "Sound and Society"
+       },
+       {
+        "code": "SNT 112E",
+        "name": "Theater"
+       },
+       {
+        "code": "SNT 116E",
+        "name": "The Art of Communication"
+       },
+       {
+        "code": "SNT 212E",
+        "name": "Art,Culture and Society"
+       },
+       {
+        "code": "SNT 104E",
+        "name": "Mythology and Art"
+       },
+       {
+        "code": "SNT 107E",
+        "name": "Ancient Civilizat.in Anatolia"
+       },
+       {
+        "code": "SNT 123E",
+        "name": "Film Production"
+       },
+       {
+        "code": "SNT 113E",
+        "name": "Art and Interpretation"
+       },
+       {
+        "code": "SNT 102E",
+        "name": "Photography"
+       },
+       {
+        "code": "SNT 117E",
+        "name": "Jazz Appreciation"
+       },
+       {
+        "code": "SNT 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "SNT 215E",
+        "name": "Balkan Musics"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "I"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "III"
+       },
+       {
+        "code": "BEB 121",
+        "name": "Spor ve Teknoloji"
+       },
+       {
+        "code": "BEB 120",
+        "name": "Spor ve Temel Bilimler"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "IV"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "VI"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "I"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "I"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "V"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "III"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "III"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "V"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "III"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "IV"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "V"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "III"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "III"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "V"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "II"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "II"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "II"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "IV"
+       },
+       {
+        "code": "SNT 121E",
+        "name": "World Music Cultures"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VII"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "I"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "III"
+       },
+       {
+        "code": "ARB 101",
+        "name": "Arapça I"
+       },
+       {
+        "code": "ARB 102",
+        "name": "Arapça II"
+       },
+       {
+        "code": "ITB 225E",
+        "name": "Intercultural Citizenship Education"
+       },
+       {
+        "code": "ITB 235E",
+        "name": "Türkiye and EuropeanUnion"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "IV"
+       },
+       {
+        "code": "ING 103DD",
+        "name": "Decoding Discourse: Language, Power, and Ideology"
+       },
+       {
+        "code": "KOR Korece",
+        "name": "I"
+       },
+       {
+        "code": "KOR Korece",
+        "name": "II"
        }
       ]
      }

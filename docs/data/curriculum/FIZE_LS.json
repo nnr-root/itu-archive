@@ -184,8 +184,28 @@
       ],
       "options": [
        {
-        "code": "ING 102",
-        "name": "English II"
+        "code": "ING 103H",
+        "name": "Public Presentations"
+       },
+       {
+        "code": "ING 103G",
+        "name": "Business Communications"
+       },
+       {
+        "code": "ING 103P",
+        "name": "Poetry"
+       },
+       {
+        "code": "ING 103B",
+        "name": "Business English"
+       },
+       {
+        "code": "ING 103AD",
+        "name": "Advanced English for Engineers"
+       },
+       {
+        "code": "ING 103O",
+        "name": "Psychology"
        },
        {
         "code": "ING 103A",
@@ -196,28 +216,8 @@
         "name": "Urban Ecology"
        },
        {
-        "code": "ING 103AD",
-        "name": "Advanced English for Engineers"
-       },
-       {
-        "code": "ING 103B",
-        "name": "Business English"
-       },
-       {
         "code": "ING 103C",
         "name": "Great Moments in Science"
-       },
-       {
-        "code": "ING 103G",
-        "name": "Business Communications"
-       },
-       {
-        "code": "ING 103H",
-        "name": "Public Presentations"
-       },
-       {
-        "code": "ING 103I",
-        "name": "Short Stories"
        },
        {
         "code": "ING 103L",
@@ -228,12 +228,12 @@
         "name": "Film Studies"
        },
        {
-        "code": "ING 103O",
-        "name": "Psychology"
+        "code": "ING 102",
+        "name": "English II"
        },
        {
-        "code": "ING 103P",
-        "name": "Poetry"
+        "code": "ING 103I",
+        "name": "Short Stories"
        }
       ]
      }
@@ -424,92 +424,8 @@
       ],
       "options": [
        {
-        "code": "AKM 204E",
-        "name": "Fluid Mechanics"
-       },
-       {
-        "code": "BIO 215E",
-        "name": "Biochemistry"
-       },
-       {
-        "code": "BIO 224E",
-        "name": "Molecular Biology"
-       },
-       {
-        "code": "BIO 301E",
-        "name": "Fundamentals of Biology"
-       },
-       {
-        "code": "BIO 302E",
-        "name": "Fundamentals of Biotechnology"
-       },
-       {
-        "code": "BIO 351E",
-        "name": "Biophysics"
-       },
-       {
-        "code": "BIO 422E",
-        "name": "Mathematical Biology"
-       },
-       {
-        "code": "DNK 201E",
-        "name": "Dynamics"
-       },
-       {
-        "code": "FIZ 202E",
-        "name": "Electronics II"
-       },
-       {
-        "code": "FIZ 425E",
-        "name": "Comput. Anlys.of Phys.Sys."
-       },
-       {
-        "code": "FIZ 437E",
-        "name": "Stat.Lear.from Data:App.inPhy."
-       },
-       {
-        "code": "FIZ 457E",
-        "name": "Optics I"
-       },
-       {
-        "code": "GID 441E",
-        "name": "Process Control"
-       },
-       {
-        "code": "KIM 207E",
-        "name": "Inorganic Chemistry"
-       },
-       {
-        "code": "KIM 214E",
-        "name": "Structure and Properties of Polymers"
-       },
-       {
-        "code": "KMM 485E",
-        "name": "Polymer Chemistry and Technology"
-       },
-       {
-        "code": "MAK 311E",
-        "name": "Heat Transfer"
-       },
-       {
-        "code": "MAL 201E",
-        "name": "Materials Science"
-       },
-       {
-        "code": "MAT 271E",
-        "name": "Probability and Statistics"
-       },
-       {
-        "code": "MAT 417E",
-        "name": "Theory of Surfaces"
-       },
-       {
-        "code": "MAT 418E",
-        "name": "Optimization"
-       },
-       {
-        "code": "MAT 467E",
-        "name": "Boundary Value Problems"
+        "code": "MET 415E",
+        "name": "Non-Destructive Testing"
        },
        {
         "code": "MET 221E",
@@ -520,52 +436,136 @@
         "name": "Materials Science II"
        },
        {
-        "code": "MET 415E",
-        "name": "Non-Destructive Testing"
+        "code": "KMM 485E",
+        "name": "Polymer Chemistry and Technology"
+       },
+       {
+        "code": "GID 441E",
+        "name": "Process Control"
+       },
+       {
+        "code": "MAK 311E",
+        "name": "Heat Transfer"
        },
        {
         "code": "MTO 262E",
         "name": "Solar and Terrestrial Radiation"
        },
        {
-        "code": "MTO 335E",
-        "name": "Physics of Upper Atmosphere"
+        "code": "MTO 487E",
+        "name": "Int. to Computer Graphics"
        },
        {
         "code": "MTO 458E",
         "name": "Introduction to Planetary Atmospheres"
        },
        {
-        "code": "MTO 487E",
-        "name": "Int. to Computer Graphics"
+        "code": "MTO 335E",
+        "name": "Physics of Upper Atmosphere"
        },
        {
-        "code": "MTO 497E",
-        "name": "Atmospheric Optics and Acoustics"
+        "code": "MAT 418E",
+        "name": "Optimization"
        },
        {
-        "code": "MUH 212E",
-        "name": "Data Structures"
+        "code": "UZB 437E",
+        "name": "Introduction to Robotics"
        },
        {
-        "code": "MUH 324E",
-        "name": "Advanced Numerical Methods"
+        "code": "KIM 214E",
+        "name": "Structure and Properties of Polymers"
+       },
+       {
+        "code": "KIM 207E",
+        "name": "Inorganic Chemistry"
+       },
+       {
+        "code": "MAT 467E",
+        "name": "Boundary Value Problems"
+       },
+       {
+        "code": "FIZ 425E",
+        "name": "Comput. Anlys.of Phys.Sys."
+       },
+       {
+        "code": "MAT 417E",
+        "name": "Theory of Surfaces"
+       },
+       {
+        "code": "BIO 301E",
+        "name": "Fundamentals of Biology"
+       },
+       {
+        "code": "FIZ 457E",
+        "name": "Optics I"
+       },
+       {
+        "code": "FIZ 202E",
+        "name": "Electronics II"
        },
        {
         "code": "MUH 334E",
         "name": "Computing Algorithms"
        },
        {
-        "code": "MUK 201E",
-        "name": "Strength of Materials I"
+        "code": "BIO 215E",
+        "name": "Biochemistry"
+       },
+       {
+        "code": "MUH 212E",
+        "name": "Data Structures"
+       },
+       {
+        "code": "BIO 351E",
+        "name": "Biophysics"
+       },
+       {
+        "code": "MUH 324E",
+        "name": "Advanced Numerical Methods"
+       },
+       {
+        "code": "BIO 224E",
+        "name": "Molecular Biology"
+       },
+       {
+        "code": "BIO 422E",
+        "name": "Mathematical Biology"
+       },
+       {
+        "code": "BIO 302E",
+        "name": "Fundamentals of Biotechnology"
        },
        {
         "code": "STA 202E",
         "name": "Statics"
        },
        {
-        "code": "UZB 437E",
-        "name": "Introduction to Robotics"
+        "code": "MUK 201E",
+        "name": "Strength of Materials I"
+       },
+       {
+        "code": "MAL 201E",
+        "name": "Materials Science"
+       },
+       {
+        "code": "MTO 497E",
+        "name": "Atmospheric Optics and Acoustics"
+       },
+       {
+        "code": "MAT 271E",
+        "name": "Probability and Statistics"
+       },
+       {
+        "code": "FIZ 437E",
+        "name": "Stat.Lear.from Data:App.inPhy."
+       },
+       {
+        "code": "AKM 204E",
+        "name": "Fluid Mechanics"
+       },
+       {
+        "code": "DNK 201E",
+        "name": "Dynamics"
        }
       ]
      }
@@ -652,18 +652,6 @@
         "name": "Quality Management Tools&Tech."
        },
        {
-        "code": "SNT 102E",
-        "name": "Photography"
-       },
-       {
-        "code": "SNT 103E",
-        "name": "Drawing"
-       },
-       {
-        "code": "SNT 104E",
-        "name": "Mythology and Art"
-       },
-       {
         "code": "SNT 105E",
         "name": "Film Art"
        },
@@ -672,48 +660,12 @@
         "name": "Traditional Turkish Art&Crafts"
        },
        {
-        "code": "SNT 107E",
-        "name": "Ancient Civilizat.in Anatolia"
-       },
-       {
-        "code": "SNT 112E",
-        "name": "Theater"
-       },
-       {
-        "code": "SNT 113E",
-        "name": "Art and Interpretation"
+        "code": "SNT 103E",
+        "name": "Drawing"
        },
        {
         "code": "SNT 114E",
         "name": "Contemporary Art"
-       },
-       {
-        "code": "SNT 116E",
-        "name": "The Art of Communication"
-       },
-       {
-        "code": "SNT 117E",
-        "name": "Jazz Appreciation"
-       },
-       {
-        "code": "SNT 121E",
-        "name": "World Music Cultures"
-       },
-       {
-        "code": "SNT 123E",
-        "name": "Film Production"
-       },
-       {
-        "code": "SNT 211E",
-        "name": "Istanbul:Hist.,Art and Society"
-       },
-       {
-        "code": "SNT 212E",
-        "name": "Art,Culture and Society"
-       },
-       {
-        "code": "SNT 215E",
-        "name": "Balkan Musics"
        },
        {
         "code": "SNT 226E",
@@ -722,6 +674,54 @@
        {
         "code": "SNT 227E",
         "name": "Sound and Society"
+       },
+       {
+        "code": "SNT 112E",
+        "name": "Theater"
+       },
+       {
+        "code": "SNT 116E",
+        "name": "The Art of Communication"
+       },
+       {
+        "code": "SNT 212E",
+        "name": "Art,Culture and Society"
+       },
+       {
+        "code": "SNT 104E",
+        "name": "Mythology and Art"
+       },
+       {
+        "code": "SNT 107E",
+        "name": "Ancient Civilizat.in Anatolia"
+       },
+       {
+        "code": "SNT 123E",
+        "name": "Film Production"
+       },
+       {
+        "code": "SNT 113E",
+        "name": "Art and Interpretation"
+       },
+       {
+        "code": "SNT 102E",
+        "name": "Photography"
+       },
+       {
+        "code": "SNT 117E",
+        "name": "Jazz Appreciation"
+       },
+       {
+        "code": "SNT 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "SNT 215E",
+        "name": "Balkan Musics"
+       },
+       {
+        "code": "SNT 121E",
+        "name": "World Music Cultures"
        }
       ]
      }
@@ -808,36 +808,68 @@
       ],
       "options": [
        {
-        "code": "AKM 204E",
-        "name": "Fluid Mechanics"
+        "code": "MET 415E",
+        "name": "Non-Destructive Testing"
        },
        {
-        "code": "BIO 215E",
-        "name": "Biochemistry"
+        "code": "MET 221E",
+        "name": "Materials Science I"
        },
        {
-        "code": "BIO 224E",
-        "name": "Molecular Biology"
+        "code": "MET 232E",
+        "name": "Materials Science II"
        },
        {
-        "code": "BIO 301E",
-        "name": "Fundamentals of Biology"
+        "code": "KMM 485E",
+        "name": "Polymer Chemistry and Technology"
        },
        {
-        "code": "BIO 302E",
-        "name": "Fundamentals of Biotechnology"
+        "code": "GID 441E",
+        "name": "Process Control"
        },
        {
-        "code": "BIO 351E",
-        "name": "Biophysics"
+        "code": "MAK 311E",
+        "name": "Heat Transfer"
        },
        {
-        "code": "BIO 422E",
-        "name": "Mathematical Biology"
+        "code": "MTO 262E",
+        "name": "Solar and Terrestrial Radiation"
        },
        {
-        "code": "DNK 201E",
-        "name": "Dynamics"
+        "code": "MTO 487E",
+        "name": "Int. to Computer Graphics"
+       },
+       {
+        "code": "MTO 458E",
+        "name": "Introduction to Planetary Atmospheres"
+       },
+       {
+        "code": "MTO 335E",
+        "name": "Physics of Upper Atmosphere"
+       },
+       {
+        "code": "UZB 332E",
+        "name": "Communication Systems I"
+       },
+       {
+        "code": "MAT 418E",
+        "name": "Optimization"
+       },
+       {
+        "code": "UZB 437E",
+        "name": "Introduction to Robotics"
+       },
+       {
+        "code": "KIM 214E",
+        "name": "Structure and Properties of Polymers"
+       },
+       {
+        "code": "KIM 207E",
+        "name": "Inorganic Chemistry"
+       },
+       {
+        "code": "MAT 467E",
+        "name": "Boundary Value Problems"
        },
        {
         "code": "FIZ 335E",
@@ -852,42 +884,6 @@
         "name": "Comput. Anlys.of Phys.Sys."
        },
        {
-        "code": "FIZ 437E",
-        "name": "Stat.Lear.from Data:App.inPhy."
-       },
-       {
-        "code": "FIZ 457E",
-        "name": "Optics I"
-       },
-       {
-        "code": "GID 441E",
-        "name": "Process Control"
-       },
-       {
-        "code": "KIM 207E",
-        "name": "Inorganic Chemistry"
-       },
-       {
-        "code": "KIM 214E",
-        "name": "Structure and Properties of Polymers"
-       },
-       {
-        "code": "KMM 485E",
-        "name": "Polymer Chemistry and Technology"
-       },
-       {
-        "code": "MAK 311E",
-        "name": "Heat Transfer"
-       },
-       {
-        "code": "MAL 201E",
-        "name": "Materials Science"
-       },
-       {
-        "code": "MAT 271E",
-        "name": "Probability and Statistics"
-       },
-       {
         "code": "MAT 335E",
         "name": "Programming Algorithms"
        },
@@ -896,60 +892,44 @@
         "name": "Theory of Surfaces"
        },
        {
-        "code": "MAT 418E",
-        "name": "Optimization"
+        "code": "BIO 301E",
+        "name": "Fundamentals of Biology"
        },
        {
-        "code": "MAT 467E",
-        "name": "Boundary Value Problems"
-       },
-       {
-        "code": "MET 221E",
-        "name": "Materials Science I"
-       },
-       {
-        "code": "MET 232E",
-        "name": "Materials Science II"
-       },
-       {
-        "code": "MET 415E",
-        "name": "Non-Destructive Testing"
-       },
-       {
-        "code": "MTO 262E",
-        "name": "Solar and Terrestrial Radiation"
-       },
-       {
-        "code": "MTO 335E",
-        "name": "Physics of Upper Atmosphere"
-       },
-       {
-        "code": "MTO 458E",
-        "name": "Introduction to Planetary Atmospheres"
-       },
-       {
-        "code": "MTO 487E",
-        "name": "Int. to Computer Graphics"
-       },
-       {
-        "code": "MTO 497E",
-        "name": "Atmospheric Optics and Acoustics"
-       },
-       {
-        "code": "MUH 212E",
-        "name": "Data Structures"
-       },
-       {
-        "code": "MUH 324E",
-        "name": "Advanced Numerical Methods"
+        "code": "FIZ 457E",
+        "name": "Optics I"
        },
        {
         "code": "MUH 334E",
         "name": "Computing Algorithms"
        },
        {
-        "code": "MUK 201E",
-        "name": "Strength of Materials I"
+        "code": "BIO 215E",
+        "name": "Biochemistry"
+       },
+       {
+        "code": "MUH 212E",
+        "name": "Data Structures"
+       },
+       {
+        "code": "BIO 351E",
+        "name": "Biophysics"
+       },
+       {
+        "code": "MUH 324E",
+        "name": "Advanced Numerical Methods"
+       },
+       {
+        "code": "BIO 224E",
+        "name": "Molecular Biology"
+       },
+       {
+        "code": "BIO 422E",
+        "name": "Mathematical Biology"
+       },
+       {
+        "code": "BIO 302E",
+        "name": "Fundamentals of Biotechnology"
        },
        {
         "code": "MUK 202E",
@@ -960,16 +940,36 @@
         "name": "Statics"
        },
        {
+        "code": "MUK 201E",
+        "name": "Strength of Materials I"
+       },
+       {
+        "code": "MAL 201E",
+        "name": "Materials Science"
+       },
+       {
+        "code": "MTO 497E",
+        "name": "Atmospheric Optics and Acoustics"
+       },
+       {
+        "code": "MAT 271E",
+        "name": "Probability and Statistics"
+       },
+       {
+        "code": "FIZ 437E",
+        "name": "Stat.Lear.from Data:App.inPhy."
+       },
+       {
+        "code": "AKM 204E",
+        "name": "Fluid Mechanics"
+       },
+       {
+        "code": "DNK 201E",
+        "name": "Dynamics"
+       },
+       {
         "code": "TEL 366E",
         "name": "Communication Basics and Systems"
-       },
-       {
-        "code": "UZB 332E",
-        "name": "Communication Systems I"
-       },
-       {
-        "code": "UZB 437E",
-        "name": "Introduction to Robotics"
        }
       ]
      }
@@ -1017,36 +1017,36 @@
       ],
       "options": [
        {
-        "code": "BIO 301E",
-        "name": "Fundamentals of Biology"
-       },
-       {
-        "code": "BIO 302E",
-        "name": "Fundamentals of Biotechnology"
-       },
-       {
-        "code": "BIO 422E",
-        "name": "Mathematical Biology"
-       },
-       {
         "code": "BLG 361E",
         "name": "Database Management Systems"
        },
        {
-        "code": "DNK 201E",
-        "name": "Dynamics"
+        "code": "MTO 487E",
+        "name": "Int. to Computer Graphics"
+       },
+       {
+        "code": "MAT 418E",
+        "name": "Optimization"
+       },
+       {
+        "code": "UZB 437E",
+        "name": "Introduction to Robotics"
+       },
+       {
+        "code": "KIM 214E",
+        "name": "Structure and Properties of Polymers"
+       },
+       {
+        "code": "MAT 467E",
+        "name": "Boundary Value Problems"
        },
        {
         "code": "FIZ 335E",
         "name": "Ultrasound Physics and Applications"
        },
        {
-        "code": "FIZ 413E",
-        "name": "Solid State Electronics"
-       },
-       {
-        "code": "FIZ 423E",
-        "name": "X-Rays Refraction"
+        "code": "FIZ 453E",
+        "name": "Quantum Mechanics III"
        },
        {
         "code": "FIZ 424E",
@@ -1057,32 +1057,36 @@
         "name": "Comput. Anlys.of Phys.Sys."
        },
        {
-        "code": "FIZ 431E",
-        "name": "Solid State Physics I"
+        "code": "FIZ 445E",
+        "name": "Magnetic Properties of Matter"
        },
        {
-        "code": "FIZ 433E",
-        "name": "Nuclear Physics I"
+        "code": "FIZ 431E",
+        "name": "Solid State Physics I"
        },
        {
         "code": "FIZ 435E",
         "name": "Proc. Data f.Comp.Monitor Exp."
        },
        {
-        "code": "FIZ 437E",
-        "name": "Stat.Lear.from Data:App.inPhy."
+        "code": "FIZ 454E",
+        "name": "Health Physics"
        },
        {
-        "code": "FIZ 441E",
-        "name": "Selected Prob. in Comp. Phy."
+        "code": "MAT 417E",
+        "name": "Theory of Surfaces"
+       },
+       {
+        "code": "BIO 301E",
+        "name": "Fundamentals of Biology"
+       },
+       {
+        "code": "FIZ 413E",
+        "name": "Solid State Electronics"
        },
        {
         "code": "FIZ 443E",
         "name": "Solar Energy Physics &Tech. I"
-       },
-       {
-        "code": "FIZ 445E",
-        "name": "Magnetic Properties of Matter"
        },
        {
         "code": "FIZ 447E",
@@ -1093,68 +1097,44 @@
         "name": "Physics in Our Daily Life"
        },
        {
-        "code": "FIZ 453E",
-        "name": "Quantum Mechanics III"
-       },
-       {
-        "code": "FIZ 454E",
-        "name": "Health Physics"
-       },
-       {
         "code": "FIZ 457E",
         "name": "Optics I"
        },
        {
-        "code": "FIZ 458E",
-        "name": "Optics II"
-       },
-       {
-        "code": "FIZ 463E",
-        "name": "Astrophysics I"
-       },
-       {
-        "code": "FIZ 473E",
-        "name": "Spectral Analysis Methods"
-       },
-       {
-        "code": "KIM 214E",
-        "name": "Structure and Properties of Polymers"
-       },
-       {
-        "code": "MAT 417E",
-        "name": "Theory of Surfaces"
-       },
-       {
-        "code": "MAT 418E",
-        "name": "Optimization"
-       },
-       {
-        "code": "MAT 467E",
-        "name": "Boundary Value Problems"
-       },
-       {
-        "code": "MTO 487E",
-        "name": "Int. to Computer Graphics"
-       },
-       {
-        "code": "MUH 212E",
-        "name": "Data Structures"
-       },
-       {
-        "code": "MUH 324E",
-        "name": "Advanced Numerical Methods"
+        "code": "FIZ 423E",
+        "name": "X-Rays Refraction"
        },
        {
         "code": "MUH 334E",
         "name": "Computing Algorithms"
        },
        {
+        "code": "MUH 212E",
+        "name": "Data Structures"
+       },
+       {
+        "code": "FIZ 473E",
+        "name": "Spectral Analysis Methods"
+       },
+       {
+        "code": "MUH 324E",
+        "name": "Advanced Numerical Methods"
+       },
+       {
+        "code": "FIZ 463E",
+        "name": "Astrophysics I"
+       },
+       {
+        "code": "BIO 422E",
+        "name": "Mathematical Biology"
+       },
+       {
         "code": "MUH 413E",
         "name": "Theory of Elasticity"
        },
        {
-        "code": "MUK 201E",
-        "name": "Strength of Materials I"
+        "code": "BIO 302E",
+        "name": "Fundamentals of Biotechnology"
        },
        {
         "code": "MUK 202E",
@@ -1165,8 +1145,28 @@
         "name": "Statics"
        },
        {
-        "code": "UZB 437E",
-        "name": "Introduction to Robotics"
+        "code": "MUK 201E",
+        "name": "Strength of Materials I"
+       },
+       {
+        "code": "FIZ 433E",
+        "name": "Nuclear Physics I"
+       },
+       {
+        "code": "FIZ 437E",
+        "name": "Stat.Lear.from Data:App.inPhy."
+       },
+       {
+        "code": "FIZ 441E",
+        "name": "Selected Prob. in Comp. Phy."
+       },
+       {
+        "code": "FIZ 458E",
+        "name": "Optics II"
+       },
+       {
+        "code": "DNK 201E",
+        "name": "Dynamics"
        }
       ]
      }
@@ -1184,36 +1184,28 @@
       ],
       "options": [
        {
-        "code": "BIO 301E",
-        "name": "Fundamentals of Biology"
-       },
-       {
-        "code": "BIO 302E",
-        "name": "Fundamentals of Biotechnology"
-       },
-       {
-        "code": "BIO 422E",
-        "name": "Mathematical Biology"
-       },
-       {
         "code": "BLG 361E",
         "name": "Database Management Systems"
        },
        {
-        "code": "DNK 201E",
-        "name": "Dynamics"
+        "code": "MTO 487E",
+        "name": "Int. to Computer Graphics"
+       },
+       {
+        "code": "UZB 437E",
+        "name": "Introduction to Robotics"
+       },
+       {
+        "code": "KIM 214E",
+        "name": "Structure and Properties of Polymers"
        },
        {
         "code": "FIZ 335E",
         "name": "Ultrasound Physics and Applications"
        },
        {
-        "code": "FIZ 413E",
-        "name": "Solid State Electronics"
-       },
-       {
-        "code": "FIZ 423E",
-        "name": "X-Rays Refraction"
+        "code": "FIZ 453E",
+        "name": "Quantum Mechanics III"
        },
        {
         "code": "FIZ 424E",
@@ -1224,32 +1216,32 @@
         "name": "Comput. Anlys.of Phys.Sys."
        },
        {
-        "code": "FIZ 431E",
-        "name": "Solid State Physics I"
+        "code": "FIZ 445E",
+        "name": "Magnetic Properties of Matter"
        },
        {
-        "code": "FIZ 433E",
-        "name": "Nuclear Physics I"
+        "code": "FIZ 431E",
+        "name": "Solid State Physics I"
        },
        {
         "code": "FIZ 435E",
         "name": "Proc. Data f.Comp.Monitor Exp."
        },
        {
-        "code": "FIZ 437E",
-        "name": "Stat.Lear.from Data:App.inPhy."
+        "code": "FIZ 454E",
+        "name": "Health Physics"
        },
        {
-        "code": "FIZ 441E",
-        "name": "Selected Prob. in Comp. Phy."
+        "code": "BIO 301E",
+        "name": "Fundamentals of Biology"
+       },
+       {
+        "code": "FIZ 413E",
+        "name": "Solid State Electronics"
        },
        {
         "code": "FIZ 443E",
         "name": "Solar Energy Physics &Tech. I"
-       },
-       {
-        "code": "FIZ 445E",
-        "name": "Magnetic Properties of Matter"
        },
        {
         "code": "FIZ 447E",
@@ -1260,56 +1252,44 @@
         "name": "Physics in Our Daily Life"
        },
        {
-        "code": "FIZ 453E",
-        "name": "Quantum Mechanics III"
-       },
-       {
-        "code": "FIZ 454E",
-        "name": "Health Physics"
-       },
-       {
         "code": "FIZ 457E",
         "name": "Optics I"
        },
        {
-        "code": "FIZ 458E",
-        "name": "Optics II"
-       },
-       {
-        "code": "FIZ 463E",
-        "name": "Astrophysics I"
-       },
-       {
-        "code": "FIZ 473E",
-        "name": "Spectral Analysis Methods"
-       },
-       {
-        "code": "KIM 214E",
-        "name": "Structure and Properties of Polymers"
-       },
-       {
-        "code": "MTO 487E",
-        "name": "Int. to Computer Graphics"
-       },
-       {
-        "code": "MUH 212E",
-        "name": "Data Structures"
-       },
-       {
-        "code": "MUH 324E",
-        "name": "Advanced Numerical Methods"
+        "code": "FIZ 423E",
+        "name": "X-Rays Refraction"
        },
        {
         "code": "MUH 334E",
         "name": "Computing Algorithms"
        },
        {
+        "code": "MUH 212E",
+        "name": "Data Structures"
+       },
+       {
+        "code": "FIZ 473E",
+        "name": "Spectral Analysis Methods"
+       },
+       {
+        "code": "MUH 324E",
+        "name": "Advanced Numerical Methods"
+       },
+       {
+        "code": "FIZ 463E",
+        "name": "Astrophysics I"
+       },
+       {
+        "code": "BIO 422E",
+        "name": "Mathematical Biology"
+       },
+       {
         "code": "MUH 413E",
         "name": "Theory of Elasticity"
        },
        {
-        "code": "MUK 201E",
-        "name": "Strength of Materials I"
+        "code": "BIO 302E",
+        "name": "Fundamentals of Biotechnology"
        },
        {
         "code": "MUK 202E",
@@ -1320,8 +1300,28 @@
         "name": "Statics"
        },
        {
-        "code": "UZB 437E",
-        "name": "Introduction to Robotics"
+        "code": "MUK 201E",
+        "name": "Strength of Materials I"
+       },
+       {
+        "code": "FIZ 433E",
+        "name": "Nuclear Physics I"
+       },
+       {
+        "code": "FIZ 437E",
+        "name": "Stat.Lear.from Data:App.inPhy."
+       },
+       {
+        "code": "FIZ 441E",
+        "name": "Selected Prob. in Comp. Phy."
+       },
+       {
+        "code": "FIZ 458E",
+        "name": "Optics II"
+       },
+       {
+        "code": "DNK 201E",
+        "name": "Dynamics"
        }
       ]
      }
@@ -1343,20 +1343,20 @@
         "name": "Database Management Systems"
        },
        {
-        "code": "DNK 201E",
-        "name": "Dynamics"
+        "code": "MTO 487E",
+        "name": "Int. to Computer Graphics"
+       },
+       {
+        "code": "UZB 437E",
+        "name": "Introduction to Robotics"
        },
        {
         "code": "FIZ 335E",
         "name": "Ultrasound Physics and Applications"
        },
        {
-        "code": "FIZ 413E",
-        "name": "Solid State Electronics"
-       },
-       {
-        "code": "FIZ 423E",
-        "name": "X-Rays Refraction"
+        "code": "FIZ 453E",
+        "name": "Quantum Mechanics III"
        },
        {
         "code": "FIZ 424E",
@@ -1367,32 +1367,24 @@
         "name": "Comput. Anlys.of Phys.Sys."
        },
        {
-        "code": "FIZ 431E",
-        "name": "Solid State Physics I"
+        "code": "FIZ 445E",
+        "name": "Magnetic Properties of Matter"
        },
        {
-        "code": "FIZ 433E",
-        "name": "Nuclear Physics I"
+        "code": "FIZ 431E",
+        "name": "Solid State Physics I"
        },
        {
         "code": "FIZ 435E",
         "name": "Proc. Data f.Comp.Monitor Exp."
        },
        {
-        "code": "FIZ 437E",
-        "name": "Stat.Lear.from Data:App.inPhy."
-       },
-       {
-        "code": "FIZ 441E",
-        "name": "Selected Prob. in Comp. Phy."
+        "code": "FIZ 413E",
+        "name": "Solid State Electronics"
        },
        {
         "code": "FIZ 443E",
         "name": "Solar Energy Physics &Tech. I"
-       },
-       {
-        "code": "FIZ 445E",
-        "name": "Magnetic Properties of Matter"
        },
        {
         "code": "FIZ 447E",
@@ -1403,48 +1395,36 @@
         "name": "Physics in Our Daily Life"
        },
        {
-        "code": "FIZ 453E",
-        "name": "Quantum Mechanics III"
-       },
-       {
         "code": "FIZ 457E",
         "name": "Optics I"
        },
        {
-        "code": "FIZ 458E",
-        "name": "Optics II"
-       },
-       {
-        "code": "FIZ 463E",
-        "name": "Astrophysics I"
-       },
-       {
-        "code": "FIZ 473E",
-        "name": "Spectral Analysis Methods"
-       },
-       {
-        "code": "MTO 487E",
-        "name": "Int. to Computer Graphics"
-       },
-       {
-        "code": "MUH 212E",
-        "name": "Data Structures"
-       },
-       {
-        "code": "MUH 324E",
-        "name": "Advanced Numerical Methods"
+        "code": "FIZ 423E",
+        "name": "X-Rays Refraction"
        },
        {
         "code": "MUH 334E",
         "name": "Computing Algorithms"
        },
        {
-        "code": "MUH 413E",
-        "name": "Theory of Elasticity"
+        "code": "MUH 212E",
+        "name": "Data Structures"
        },
        {
-        "code": "MUK 201E",
-        "name": "Strength of Materials I"
+        "code": "FIZ 473E",
+        "name": "Spectral Analysis Methods"
+       },
+       {
+        "code": "MUH 324E",
+        "name": "Advanced Numerical Methods"
+       },
+       {
+        "code": "FIZ 463E",
+        "name": "Astrophysics I"
+       },
+       {
+        "code": "MUH 413E",
+        "name": "Theory of Elasticity"
        },
        {
         "code": "MUK 202E",
@@ -1455,8 +1435,28 @@
         "name": "Statics"
        },
        {
-        "code": "UZB 437E",
-        "name": "Introduction to Robotics"
+        "code": "MUK 201E",
+        "name": "Strength of Materials I"
+       },
+       {
+        "code": "FIZ 433E",
+        "name": "Nuclear Physics I"
+       },
+       {
+        "code": "FIZ 437E",
+        "name": "Stat.Lear.from Data:App.inPhy."
+       },
+       {
+        "code": "FIZ 441E",
+        "name": "Selected Prob. in Comp. Phy."
+       },
+       {
+        "code": "FIZ 458E",
+        "name": "Optics II"
+       },
+       {
+        "code": "DNK 201E",
+        "name": "Dynamics"
        }
       ]
      }
@@ -1471,64 +1471,36 @@
       ],
       "options": [
        {
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
+       },
+       {
         "code": "END 329E",
         "name": "Quality Management Tools&Tech."
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
-       },
-       {
-        "code": "HUK 216",
-        "name": "Telekomünikasyon Hukuku"
-       },
-       {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
-       },
-       {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
-       },
-       {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
        },
        {
         "code": "ISL 465E",
         "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ITB 020E",
-        "name": "Formations of Modernity"
+        "code": "ING 103SC",
+        "name": "Science Communication"
+       },
+       {
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
+       },
+       {
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "ITB 037E",
@@ -1547,40 +1519,28 @@
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
+       },
+       {
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
+       },
+       {
+        "code": "HUK 218E",
+        "name": "Commercial Law"
+       },
+       {
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
        },
        {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
         "code": "ITB 206E",
@@ -1591,60 +1551,20 @@
         "name": "Ottoman History"
        },
        {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
         "code": "ITB 209E",
         "name": "Türkiye in World Affairs"
-       },
-       {
-        "code": "ITB 213E",
-        "name": "Toplics in Literature and Society"
-       },
-       {
-        "code": "ITB 215E",
-        "name": "Topics in Hist.and Society"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
        },
        {
         "code": "ITB 217E",
         "name": "Engineering Ethics"
        },
        {
-        "code": "ITB 218E",
-        "name": "History of Science&Technology"
+        "code": "ITB 233E",
+        "name": "Anthropology"
        },
        {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 221E",
-        "name": "Anatolian Archaeology"
-       },
-       {
-        "code": "ITB 222E",
-        "name": "City and Society"
-       },
-       {
-        "code": "ITB 224E",
-        "name": "Environment and Society"
-       },
-       {
-        "code": "ITB 227E",
-        "name": "Political Theory"
-       },
-       {
-        "code": "ITB 228E",
-        "name": "Gender Studies"
+        "code": "ITB 203E",
+        "name": "Sociology"
        },
        {
         "code": "ITB 230E",
@@ -1655,12 +1575,92 @@
         "name": "Volunteering Studies"
        },
        {
-        "code": "ITB 233E",
-        "name": "Anthropology"
-       },
-       {
         "code": "ITB 234E",
         "name": "The Rise of Civilizations"
+       },
+       {
+        "code": "ITB 213E",
+        "name": "Toplics in Literature and Society"
+       },
+       {
+        "code": "ITB 219E",
+        "name": "Ethics"
+       },
+       {
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 215E",
+        "name": "Topics in Hist.and Society"
+       },
+       {
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
+       },
+       {
+        "code": "ITB 222E",
+        "name": "City and Society"
+       },
+       {
+        "code": "ITB 224E",
+        "name": "Environment and Society"
+       },
+       {
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
+       },
+       {
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
+       },
+       {
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
+        "code": "ITB 227E",
+        "name": "Political Theory"
        }
       ]
      }
@@ -1700,20 +1700,20 @@
         "name": "Database Management Systems"
        },
        {
-        "code": "DNK 201E",
-        "name": "Dynamics"
+        "code": "MTO 487E",
+        "name": "Int. to Computer Graphics"
+       },
+       {
+        "code": "UZB 437E",
+        "name": "Introduction to Robotics"
+       },
+       {
+        "code": "MAT 337E",
+        "name": "Web Programming"
        },
        {
         "code": "FIZ 335E",
         "name": "Ultrasound Physics and Applications"
-       },
-       {
-        "code": "FIZ 416E",
-        "name": "Classical Field Theory"
-       },
-       {
-        "code": "FIZ 425E",
-        "name": "Comput. Anlys.of Phys.Sys."
        },
        {
         "code": "FIZ 426E",
@@ -1724,20 +1724,20 @@
         "name": "Microprocessors"
        },
        {
-        "code": "FIZ 436E",
-        "name": "Solid State Physics II"
-       },
-       {
-        "code": "FIZ 442E",
-        "name": "Optics and Photonic Crystals"
-       },
-       {
-        "code": "FIZ 444E",
-        "name": "Measurements and Characterization"
-       },
-       {
         "code": "FIZ 446E",
         "name": "Particle Physics"
+       },
+       {
+        "code": "FIZ 494E",
+        "name": "General Relativity"
+       },
+       {
+        "code": "FIZ 425E",
+        "name": "Comput. Anlys.of Phys.Sys."
+       },
+       {
+        "code": "FIZ 436E",
+        "name": "Solid State Physics II"
        },
        {
         "code": "FIZ 454E",
@@ -1748,8 +1748,64 @@
         "name": "Atomic ve Molecular Physics"
        },
        {
+        "code": "MAT 335E",
+        "name": "Programming Algorithms"
+       },
+       {
+        "code": "FIZ 444E",
+        "name": "Measurements and Characterization"
+       },
+       {
         "code": "FIZ 457E",
         "name": "Optics I"
+       },
+       {
+        "code": "FIZ 496E",
+        "name": "Nuclear Physics II"
+       },
+       {
+        "code": "MUH 334E",
+        "name": "Computing Algorithms"
+       },
+       {
+        "code": "FIZ 442E",
+        "name": "Optics and Photonic Crystals"
+       },
+       {
+        "code": "FIZ 474E",
+        "name": "Optical Properties of Solids"
+       },
+       {
+        "code": "FIZ 476E",
+        "name": "Solar Energy Physics &Tech. II"
+       },
+       {
+        "code": "MUH 212E",
+        "name": "Data Structures"
+       },
+       {
+        "code": "MUH 324E",
+        "name": "Advanced Numerical Methods"
+       },
+       {
+        "code": "MUH 413E",
+        "name": "Theory of Elasticity"
+       },
+       {
+        "code": "MUK 202E",
+        "name": "Strength of Materials II"
+       },
+       {
+        "code": "STA 202E",
+        "name": "Statics"
+       },
+       {
+        "code": "MUK 201E",
+        "name": "Strength of Materials I"
+       },
+       {
+        "code": "FIZ 416E",
+        "name": "Classical Field Theory"
        },
        {
         "code": "FIZ 458E",
@@ -1764,68 +1820,12 @@
         "name": "Astrophysics II"
        },
        {
-        "code": "FIZ 474E",
-        "name": "Optical Properties of Solids"
-       },
-       {
-        "code": "FIZ 476E",
-        "name": "Solar Energy Physics &Tech. II"
-       },
-       {
         "code": "FIZ 486E",
         "name": "Crystal Growth Technics"
        },
        {
-        "code": "FIZ 494E",
-        "name": "General Relativity"
-       },
-       {
-        "code": "FIZ 496E",
-        "name": "Nuclear Physics II"
-       },
-       {
-        "code": "MAT 335E",
-        "name": "Programming Algorithms"
-       },
-       {
-        "code": "MAT 337E",
-        "name": "Web Programming"
-       },
-       {
-        "code": "MTO 487E",
-        "name": "Int. to Computer Graphics"
-       },
-       {
-        "code": "MUH 212E",
-        "name": "Data Structures"
-       },
-       {
-        "code": "MUH 324E",
-        "name": "Advanced Numerical Methods"
-       },
-       {
-        "code": "MUH 334E",
-        "name": "Computing Algorithms"
-       },
-       {
-        "code": "MUH 413E",
-        "name": "Theory of Elasticity"
-       },
-       {
-        "code": "MUK 201E",
-        "name": "Strength of Materials I"
-       },
-       {
-        "code": "MUK 202E",
-        "name": "Strength of Materials II"
-       },
-       {
-        "code": "STA 202E",
-        "name": "Statics"
-       },
-       {
-        "code": "UZB 437E",
-        "name": "Introduction to Robotics"
+        "code": "DNK 201E",
+        "name": "Dynamics"
        }
       ]
      }
@@ -1847,16 +1847,20 @@
         "name": "Database Management Systems"
        },
        {
-        "code": "DNK 201E",
-        "name": "Dynamics"
+        "code": "MTO 487E",
+        "name": "Int. to Computer Graphics"
+       },
+       {
+        "code": "UZB 437E",
+        "name": "Introduction to Robotics"
+       },
+       {
+        "code": "MAT 337E",
+        "name": "Web Programming"
        },
        {
         "code": "FIZ 335E",
         "name": "Ultrasound Physics and Applications"
-       },
-       {
-        "code": "FIZ 425E",
-        "name": "Comput. Anlys.of Phys.Sys."
        },
        {
         "code": "FIZ 426E",
@@ -1867,20 +1871,20 @@
         "name": "Microprocessors"
        },
        {
-        "code": "FIZ 436E",
-        "name": "Solid State Physics II"
-       },
-       {
-        "code": "FIZ 442E",
-        "name": "Optics and Photonic Crystals"
-       },
-       {
-        "code": "FIZ 444E",
-        "name": "Measurements and Characterization"
-       },
-       {
         "code": "FIZ 446E",
         "name": "Particle Physics"
+       },
+       {
+        "code": "FIZ 494E",
+        "name": "General Relativity"
+       },
+       {
+        "code": "FIZ 425E",
+        "name": "Comput. Anlys.of Phys.Sys."
+       },
+       {
+        "code": "FIZ 436E",
+        "name": "Solid State Physics II"
        },
        {
         "code": "FIZ 454E",
@@ -1891,8 +1895,60 @@
         "name": "Atomic ve Molecular Physics"
        },
        {
+        "code": "MAT 335E",
+        "name": "Programming Algorithms"
+       },
+       {
+        "code": "FIZ 444E",
+        "name": "Measurements and Characterization"
+       },
+       {
         "code": "FIZ 457E",
         "name": "Optics I"
+       },
+       {
+        "code": "FIZ 496E",
+        "name": "Nuclear Physics II"
+       },
+       {
+        "code": "MUH 334E",
+        "name": "Computing Algorithms"
+       },
+       {
+        "code": "FIZ 442E",
+        "name": "Optics and Photonic Crystals"
+       },
+       {
+        "code": "FIZ 474E",
+        "name": "Optical Properties of Solids"
+       },
+       {
+        "code": "FIZ 476E",
+        "name": "Solar Energy Physics &Tech. II"
+       },
+       {
+        "code": "MUH 212E",
+        "name": "Data Structures"
+       },
+       {
+        "code": "MUH 324E",
+        "name": "Advanced Numerical Methods"
+       },
+       {
+        "code": "MUH 413E",
+        "name": "Theory of Elasticity"
+       },
+       {
+        "code": "MUK 202E",
+        "name": "Strength of Materials II"
+       },
+       {
+        "code": "STA 202E",
+        "name": "Statics"
+       },
+       {
+        "code": "MUK 201E",
+        "name": "Strength of Materials I"
        },
        {
         "code": "FIZ 458E",
@@ -1907,68 +1963,12 @@
         "name": "Astrophysics II"
        },
        {
-        "code": "FIZ 474E",
-        "name": "Optical Properties of Solids"
-       },
-       {
-        "code": "FIZ 476E",
-        "name": "Solar Energy Physics &Tech. II"
-       },
-       {
         "code": "FIZ 486E",
         "name": "Crystal Growth Technics"
        },
        {
-        "code": "FIZ 494E",
-        "name": "General Relativity"
-       },
-       {
-        "code": "FIZ 496E",
-        "name": "Nuclear Physics II"
-       },
-       {
-        "code": "MAT 335E",
-        "name": "Programming Algorithms"
-       },
-       {
-        "code": "MAT 337E",
-        "name": "Web Programming"
-       },
-       {
-        "code": "MTO 487E",
-        "name": "Int. to Computer Graphics"
-       },
-       {
-        "code": "MUH 212E",
-        "name": "Data Structures"
-       },
-       {
-        "code": "MUH 324E",
-        "name": "Advanced Numerical Methods"
-       },
-       {
-        "code": "MUH 334E",
-        "name": "Computing Algorithms"
-       },
-       {
-        "code": "MUH 413E",
-        "name": "Theory of Elasticity"
-       },
-       {
-        "code": "MUK 201E",
-        "name": "Strength of Materials I"
-       },
-       {
-        "code": "MUK 202E",
-        "name": "Strength of Materials II"
-       },
-       {
-        "code": "STA 202E",
-        "name": "Statics"
-       },
-       {
-        "code": "UZB 437E",
-        "name": "Introduction to Robotics"
+        "code": "DNK 201E",
+        "name": "Dynamics"
        }
       ]
      }
@@ -1991,20 +1991,20 @@
         "name": "Database Management Systems"
        },
        {
-        "code": "DNK 201E",
-        "name": "Dynamics"
+        "code": "MTO 487E",
+        "name": "Int. to Computer Graphics"
+       },
+       {
+        "code": "UZB 437E",
+        "name": "Introduction to Robotics"
+       },
+       {
+        "code": "MAT 337E",
+        "name": "Web Programming"
        },
        {
         "code": "FIZ 335E",
         "name": "Ultrasound Physics and Applications"
-       },
-       {
-        "code": "FIZ 416E",
-        "name": "Classical Field Theory"
-       },
-       {
-        "code": "FIZ 425E",
-        "name": "Comput. Anlys.of Phys.Sys."
        },
        {
         "code": "FIZ 426E",
@@ -2015,20 +2015,20 @@
         "name": "Microprocessors"
        },
        {
-        "code": "FIZ 436E",
-        "name": "Solid State Physics II"
-       },
-       {
-        "code": "FIZ 442E",
-        "name": "Optics and Photonic Crystals"
-       },
-       {
-        "code": "FIZ 444E",
-        "name": "Measurements and Characterization"
-       },
-       {
         "code": "FIZ 446E",
         "name": "Particle Physics"
+       },
+       {
+        "code": "FIZ 494E",
+        "name": "General Relativity"
+       },
+       {
+        "code": "FIZ 425E",
+        "name": "Comput. Anlys.of Phys.Sys."
+       },
+       {
+        "code": "FIZ 436E",
+        "name": "Solid State Physics II"
        },
        {
         "code": "FIZ 454E",
@@ -2039,8 +2039,64 @@
         "name": "Atomic ve Molecular Physics"
        },
        {
+        "code": "MAT 335E",
+        "name": "Programming Algorithms"
+       },
+       {
+        "code": "FIZ 444E",
+        "name": "Measurements and Characterization"
+       },
+       {
         "code": "FIZ 457E",
         "name": "Optics I"
+       },
+       {
+        "code": "FIZ 496E",
+        "name": "Nuclear Physics II"
+       },
+       {
+        "code": "MUH 334E",
+        "name": "Computing Algorithms"
+       },
+       {
+        "code": "FIZ 442E",
+        "name": "Optics and Photonic Crystals"
+       },
+       {
+        "code": "FIZ 474E",
+        "name": "Optical Properties of Solids"
+       },
+       {
+        "code": "FIZ 476E",
+        "name": "Solar Energy Physics &Tech. II"
+       },
+       {
+        "code": "MUH 212E",
+        "name": "Data Structures"
+       },
+       {
+        "code": "MUH 324E",
+        "name": "Advanced Numerical Methods"
+       },
+       {
+        "code": "MUH 413E",
+        "name": "Theory of Elasticity"
+       },
+       {
+        "code": "MUK 202E",
+        "name": "Strength of Materials II"
+       },
+       {
+        "code": "STA 202E",
+        "name": "Statics"
+       },
+       {
+        "code": "MUK 201E",
+        "name": "Strength of Materials I"
+       },
+       {
+        "code": "FIZ 416E",
+        "name": "Classical Field Theory"
        },
        {
         "code": "FIZ 458E",
@@ -2055,68 +2111,12 @@
         "name": "Astrophysics II"
        },
        {
-        "code": "FIZ 474E",
-        "name": "Optical Properties of Solids"
-       },
-       {
-        "code": "FIZ 476E",
-        "name": "Solar Energy Physics &Tech. II"
-       },
-       {
         "code": "FIZ 486E",
         "name": "Crystal Growth Technics"
        },
        {
-        "code": "FIZ 494E",
-        "name": "General Relativity"
-       },
-       {
-        "code": "FIZ 496E",
-        "name": "Nuclear Physics II"
-       },
-       {
-        "code": "MAT 335E",
-        "name": "Programming Algorithms"
-       },
-       {
-        "code": "MAT 337E",
-        "name": "Web Programming"
-       },
-       {
-        "code": "MTO 487E",
-        "name": "Int. to Computer Graphics"
-       },
-       {
-        "code": "MUH 212E",
-        "name": "Data Structures"
-       },
-       {
-        "code": "MUH 324E",
-        "name": "Advanced Numerical Methods"
-       },
-       {
-        "code": "MUH 334E",
-        "name": "Computing Algorithms"
-       },
-       {
-        "code": "MUH 413E",
-        "name": "Theory of Elasticity"
-       },
-       {
-        "code": "MUK 201E",
-        "name": "Strength of Materials I"
-       },
-       {
-        "code": "MUK 202E",
-        "name": "Strength of Materials II"
-       },
-       {
-        "code": "STA 202E",
-        "name": "Statics"
-       },
-       {
-        "code": "UZB 437E",
-        "name": "Introduction to Robotics"
+        "code": "DNK 201E",
+        "name": "Dynamics"
        }
       ]
      }
@@ -2139,20 +2139,20 @@
         "name": "Database Management Systems"
        },
        {
-        "code": "DNK 201E",
-        "name": "Dynamics"
+        "code": "MTO 487E",
+        "name": "Int. to Computer Graphics"
+       },
+       {
+        "code": "UZB 437E",
+        "name": "Introduction to Robotics"
+       },
+       {
+        "code": "MAT 337E",
+        "name": "Web Programming"
        },
        {
         "code": "FIZ 335E",
         "name": "Ultrasound Physics and Applications"
-       },
-       {
-        "code": "FIZ 416E",
-        "name": "Classical Field Theory"
-       },
-       {
-        "code": "FIZ 425E",
-        "name": "Comput. Anlys.of Phys.Sys."
        },
        {
         "code": "FIZ 426E",
@@ -2163,20 +2163,20 @@
         "name": "Microprocessors"
        },
        {
-        "code": "FIZ 436E",
-        "name": "Solid State Physics II"
-       },
-       {
-        "code": "FIZ 442E",
-        "name": "Optics and Photonic Crystals"
-       },
-       {
-        "code": "FIZ 444E",
-        "name": "Measurements and Characterization"
-       },
-       {
         "code": "FIZ 446E",
         "name": "Particle Physics"
+       },
+       {
+        "code": "FIZ 494E",
+        "name": "General Relativity"
+       },
+       {
+        "code": "FIZ 425E",
+        "name": "Comput. Anlys.of Phys.Sys."
+       },
+       {
+        "code": "FIZ 436E",
+        "name": "Solid State Physics II"
        },
        {
         "code": "FIZ 454E",
@@ -2187,8 +2187,64 @@
         "name": "Atomic ve Molecular Physics"
        },
        {
+        "code": "MAT 335E",
+        "name": "Programming Algorithms"
+       },
+       {
+        "code": "FIZ 444E",
+        "name": "Measurements and Characterization"
+       },
+       {
         "code": "FIZ 457E",
         "name": "Optics I"
+       },
+       {
+        "code": "FIZ 496E",
+        "name": "Nuclear Physics II"
+       },
+       {
+        "code": "MUH 334E",
+        "name": "Computing Algorithms"
+       },
+       {
+        "code": "FIZ 442E",
+        "name": "Optics and Photonic Crystals"
+       },
+       {
+        "code": "FIZ 474E",
+        "name": "Optical Properties of Solids"
+       },
+       {
+        "code": "FIZ 476E",
+        "name": "Solar Energy Physics &Tech. II"
+       },
+       {
+        "code": "MUH 212E",
+        "name": "Data Structures"
+       },
+       {
+        "code": "MUH 324E",
+        "name": "Advanced Numerical Methods"
+       },
+       {
+        "code": "MUH 413E",
+        "name": "Theory of Elasticity"
+       },
+       {
+        "code": "MUK 202E",
+        "name": "Strength of Materials II"
+       },
+       {
+        "code": "STA 202E",
+        "name": "Statics"
+       },
+       {
+        "code": "MUK 201E",
+        "name": "Strength of Materials I"
+       },
+       {
+        "code": "FIZ 416E",
+        "name": "Classical Field Theory"
        },
        {
         "code": "FIZ 458E",
@@ -2203,68 +2259,12 @@
         "name": "Astrophysics II"
        },
        {
-        "code": "FIZ 474E",
-        "name": "Optical Properties of Solids"
-       },
-       {
-        "code": "FIZ 476E",
-        "name": "Solar Energy Physics &Tech. II"
-       },
-       {
         "code": "FIZ 486E",
         "name": "Crystal Growth Technics"
        },
        {
-        "code": "FIZ 494E",
-        "name": "General Relativity"
-       },
-       {
-        "code": "FIZ 496E",
-        "name": "Nuclear Physics II"
-       },
-       {
-        "code": "MAT 335E",
-        "name": "Programming Algorithms"
-       },
-       {
-        "code": "MAT 337E",
-        "name": "Web Programming"
-       },
-       {
-        "code": "MTO 487E",
-        "name": "Int. to Computer Graphics"
-       },
-       {
-        "code": "MUH 212E",
-        "name": "Data Structures"
-       },
-       {
-        "code": "MUH 324E",
-        "name": "Advanced Numerical Methods"
-       },
-       {
-        "code": "MUH 334E",
-        "name": "Computing Algorithms"
-       },
-       {
-        "code": "MUH 413E",
-        "name": "Theory of Elasticity"
-       },
-       {
-        "code": "MUK 201E",
-        "name": "Strength of Materials I"
-       },
-       {
-        "code": "MUK 202E",
-        "name": "Strength of Materials II"
-       },
-       {
-        "code": "STA 202E",
-        "name": "Statics"
-       },
-       {
-        "code": "UZB 437E",
-        "name": "Introduction to Robotics"
+        "code": "DNK 201E",
+        "name": "Dynamics"
        }
       ]
      }
@@ -2279,64 +2279,36 @@
       ],
       "options": [
        {
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
+       },
+       {
         "code": "END 329E",
         "name": "Quality Management Tools&Tech."
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
-       },
-       {
-        "code": "HUK 216",
-        "name": "Telekomünikasyon Hukuku"
-       },
-       {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
-       },
-       {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
-       },
-       {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
        },
        {
         "code": "ISL 465E",
         "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ITB 020E",
-        "name": "Formations of Modernity"
+        "code": "ING 103SC",
+        "name": "Science Communication"
+       },
+       {
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
+       },
+       {
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "ITB 037E",
@@ -2355,40 +2327,28 @@
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
+       },
+       {
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
+       },
+       {
+        "code": "HUK 218E",
+        "name": "Commercial Law"
+       },
+       {
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
        },
        {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
         "code": "ITB 206E",
@@ -2399,60 +2359,20 @@
         "name": "Ottoman History"
        },
        {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
         "code": "ITB 209E",
         "name": "Türkiye in World Affairs"
-       },
-       {
-        "code": "ITB 213E",
-        "name": "Toplics in Literature and Society"
-       },
-       {
-        "code": "ITB 215E",
-        "name": "Topics in Hist.and Society"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
        },
        {
         "code": "ITB 217E",
         "name": "Engineering Ethics"
        },
        {
-        "code": "ITB 218E",
-        "name": "History of Science&Technology"
+        "code": "ITB 233E",
+        "name": "Anthropology"
        },
        {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 221E",
-        "name": "Anatolian Archaeology"
-       },
-       {
-        "code": "ITB 222E",
-        "name": "City and Society"
-       },
-       {
-        "code": "ITB 224E",
-        "name": "Environment and Society"
-       },
-       {
-        "code": "ITB 227E",
-        "name": "Political Theory"
-       },
-       {
-        "code": "ITB 228E",
-        "name": "Gender Studies"
+        "code": "ITB 203E",
+        "name": "Sociology"
        },
        {
         "code": "ITB 230E",
@@ -2463,12 +2383,92 @@
         "name": "Volunteering Studies"
        },
        {
-        "code": "ITB 233E",
-        "name": "Anthropology"
-       },
-       {
         "code": "ITB 234E",
         "name": "The Rise of Civilizations"
+       },
+       {
+        "code": "ITB 213E",
+        "name": "Toplics in Literature and Society"
+       },
+       {
+        "code": "ITB 219E",
+        "name": "Ethics"
+       },
+       {
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 215E",
+        "name": "Topics in Hist.and Society"
+       },
+       {
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
+       },
+       {
+        "code": "ITB 222E",
+        "name": "City and Society"
+       },
+       {
+        "code": "ITB 224E",
+        "name": "Environment and Society"
+       },
+       {
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
+       },
+       {
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
+       },
+       {
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
+        "code": "ITB 227E",
+        "name": "Political Theory"
        }
       ]
      }

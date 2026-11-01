@@ -40,23 +40,39 @@
       ],
       "options": [
        {
-        "code": "GEM 509",
-        "name": "Mühendislikte Matem.Yöntemler"
+        "code": "KMM 511E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "GEM 509E",
+        "name": "Mathematical Methods in Eng."
+       },
+       {
+        "code": "YAP 501E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "UMT 501E",
+        "name": "Engineering Mathematics"
        },
        {
         "code": "JFM 501",
         "name": "Mühendislik Matematiği"
        },
        {
-        "code": "KMM 511E",
-        "name": "Engineering Mathematics"
-       },
-       {
         "code": "MAM 507",
         "name": "Mühendislik Matematiği"
        },
        {
-        "code": "MDK 501E",
+        "code": "UUM 535E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "MTA 501E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "MOT 501E",
         "name": "Engineering Mathematics"
        },
        {
@@ -68,31 +84,15 @@
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MKS 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
         "code": "MMI 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MOT 501",
-        "name": "Mühendislik Matematiği"
-       },
-       {
-        "code": "MTA 501E",
+        "code": "MDK 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "UMT 501",
-        "name": "Mühendislik Matematiği"
-       },
-       {
-        "code": "UUM 535E",
-        "name": "Engineering Mathematics"
-       },
-       {
-        "code": "YAP 501E",
+        "code": "MKS 501E",
         "name": "Engineering Mathematics"
        }
       ]
@@ -108,20 +108,20 @@
       ],
       "options": [
        {
-        "code": "MTO 502E",
-        "name": "Advanced Synoptic Meteorology"
-       },
-       {
-        "code": "MTO 504",
-        "name": "Atmosferde Işınım Geçişi"
+        "code": "MTO 515E",
+        "name": "Advanced Dynamic Meteorology"
        },
        {
         "code": "MTO 509E",
         "name": "Clouds Physics and Dynamics"
        },
        {
-        "code": "MTO 515",
-        "name": "İleri Dinamik Meteoroloji"
+        "code": "MTO 502E",
+        "name": "Advanced Synoptic Meteorology"
+       },
+       {
+        "code": "MTO 504E",
+        "name": "Atmospheric Radiation Transfer"
        }
       ]
      }
@@ -136,20 +136,20 @@
       ],
       "options": [
        {
-        "code": "MTO 502E",
-        "name": "Advanced Synoptic Meteorology"
-       },
-       {
-        "code": "MTO 504",
-        "name": "Atmosferde Işınım Geçişi"
+        "code": "MTO 515E",
+        "name": "Advanced Dynamic Meteorology"
        },
        {
         "code": "MTO 509E",
         "name": "Clouds Physics and Dynamics"
        },
        {
-        "code": "MTO 515",
-        "name": "İleri Dinamik Meteoroloji"
+        "code": "MTO 502E",
+        "name": "Advanced Synoptic Meteorology"
+       },
+       {
+        "code": "MTO 504E",
+        "name": "Atmospheric Radiation Transfer"
        }
       ]
      }
@@ -164,20 +164,20 @@
       ],
       "options": [
        {
-        "code": "MTO 502E",
-        "name": "Advanced Synoptic Meteorology"
-       },
-       {
-        "code": "MTO 504",
-        "name": "Atmosferde Işınım Geçişi"
+        "code": "MTO 515E",
+        "name": "Advanced Dynamic Meteorology"
        },
        {
         "code": "MTO 509E",
         "name": "Clouds Physics and Dynamics"
        },
        {
-        "code": "MTO 515",
-        "name": "İleri Dinamik Meteoroloji"
+        "code": "MTO 502E",
+        "name": "Advanced Synoptic Meteorology"
+       },
+       {
+        "code": "MTO 504E",
+        "name": "Atmospheric Radiation Transfer"
        }
       ]
      }

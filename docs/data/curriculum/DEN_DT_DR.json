@@ -5,7 +5,7 @@
  "level": "DR",
  "planLabel": "Gemi ve Deniz Teknolojisi Mühendisliği Doktora Programı 2022-2023 / Bahar Dönemi Sonrası",
  "totalCredits": "21,00",
- "totalEcts": "195,00",
+ "totalEcts": "225,00",
  "totalEctsComputed": true,
  "semesters": [
   {
@@ -43,28 +43,64 @@
      "elective": {
       "title": "Zorunlu Seçmeli ABD Dersi I",
       "groupId": "10199",
-      "options": null
+      "credits": "3",
+      "ects": [
+       7.5
+      ],
+      "options": [
+       {
+        "code": "LEE 903E",
+        "name": "Project Cycle Management"
+       }
+      ]
      }
     },
     {
      "elective": {
       "title": "Zorunlu Seçmeli ABD Dersi II",
       "groupId": "10200",
-      "options": null
+      "credits": "3",
+      "ects": [
+       7.5
+      ],
+      "options": [
+       {
+        "code": "LEE 903E",
+        "name": "Project Cycle Management"
+       }
+      ]
      }
     },
     {
      "elective": {
       "title": "Zorunlu Seçmeli ABD Dersi III",
       "groupId": "10201",
-      "options": null
+      "credits": "3",
+      "ects": [
+       7.5
+      ],
+      "options": [
+       {
+        "code": "LEE 903E",
+        "name": "Project Cycle Management"
+       }
+      ]
      }
     },
     {
      "elective": {
       "title": "Zorunlu Seçmeli ABD Dersi IV",
       "groupId": "10202",
-      "options": null
+      "credits": "3",
+      "ects": [
+       7.5
+      ],
+      "options": [
+       {
+        "code": "LEE 903E",
+        "name": "Project Cycle Management"
+       }
+      ]
      }
     },
     {
@@ -77,48 +113,24 @@
       ],
       "options": [
        {
-        "code": "LEE 901",
-        "name": "Akademik Girişimcilik"
-       },
-       {
         "code": "LEE 901E",
         "name": "Academic Entrepreneurship"
-       },
-       {
-        "code": "LEE 903",
-        "name": "Proje Döngüsü Yönetimi"
-       },
-       {
-        "code": "LEE 903E",
-        "name": "Project Cycle Management"
-       },
-       {
-        "code": "LEE 904",
-        "name": "Yönlendirilmiş Çalışmalar"
-       },
-       {
-        "code": "LEE 904E",
-        "name": "Directed Studies"
-       },
-       {
-        "code": "LEE 905",
-        "name": "İnovas.Teknik.&Patent Süreç."
        },
        {
         "code": "LEE 905E",
         "name": "Inovations Techniques and Patent Processes"
        },
        {
-        "code": "LEE 906",
-        "name": "Yaratıcı Endüstriler için Blokzincir Teknolojisi"
+        "code": "LEE 903E",
+        "name": "Project Cycle Management"
+       },
+       {
+        "code": "LEE 904E",
+        "name": "Directed Studies"
        },
        {
         "code": "LEE 906E",
         "name": "Blockchain Technology for Creative Industries"
-       },
-       {
-        "code": "LEE 907",
-        "name": "Teknoloji Etiği"
        },
        {
         "code": "LEE 907E",

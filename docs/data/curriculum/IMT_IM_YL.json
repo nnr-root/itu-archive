@@ -158,16 +158,16 @@
       ],
       "options": [
        {
-        "code": "IMT 512E",
-        "name": "Human Scienc.Interior Architec"
-       },
-       {
         "code": "IMT 513E",
         "name": "Critic.Debate inDesign&Theory"
        },
        {
         "code": "IMT 515E",
         "name": "Methodo&Techni.in Digit.Desig."
+       },
+       {
+        "code": "IMT 512E",
+        "name": "Human Scienc.Interior Architec"
        }
       ]
      }

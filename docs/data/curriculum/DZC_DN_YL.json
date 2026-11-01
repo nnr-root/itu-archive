@@ -44,14 +44,6 @@
         "name": "Denizcilikte İnsan Faktörü"
        },
        {
-        "code": "DZC 504",
-        "name": "Denizcilik.Kalite Sist.&Stan."
-       },
-       {
-        "code": "DZC 508",
-        "name": "Bilim ve Denizcilik Tarihi"
-       },
-       {
         "code": "DZC 509",
         "name": "Denizcilik Çalışma.Araş.Yön."
        },
@@ -60,8 +52,16 @@
         "name": "Denizci.Stra.İnsan Kayn.Yön."
        },
        {
+        "code": "DZC 508",
+        "name": "Bilim ve Denizcilik Tarihi"
+       },
+       {
         "code": "DZC 511",
         "name": "Ulaştırma&Denizcilik Politika."
+       },
+       {
+        "code": "DZC 504",
+        "name": "Denizcilik.Kalite Sist.&Stan."
        },
        {
         "code": "DZC 516",
@@ -84,14 +84,6 @@
         "name": "Denizcilikte İnsan Faktörü"
        },
        {
-        "code": "DZC 504",
-        "name": "Denizcilik.Kalite Sist.&Stan."
-       },
-       {
-        "code": "DZC 508",
-        "name": "Bilim ve Denizcilik Tarihi"
-       },
-       {
         "code": "DZC 509",
         "name": "Denizcilik Çalışma.Araş.Yön."
        },
@@ -100,8 +92,16 @@
         "name": "Denizci.Stra.İnsan Kayn.Yön."
        },
        {
+        "code": "DZC 508",
+        "name": "Bilim ve Denizcilik Tarihi"
+       },
+       {
         "code": "DZC 511",
         "name": "Ulaştırma&Denizcilik Politika."
+       },
+       {
+        "code": "DZC 504",
+        "name": "Denizcilik.Kalite Sist.&Stan."
        },
        {
         "code": "DZC 516",
@@ -124,14 +124,6 @@
         "name": "Denizcilikte İnsan Faktörü"
        },
        {
-        "code": "DZC 504",
-        "name": "Denizcilik.Kalite Sist.&Stan."
-       },
-       {
-        "code": "DZC 508",
-        "name": "Bilim ve Denizcilik Tarihi"
-       },
-       {
         "code": "DZC 509",
         "name": "Denizcilik Çalışma.Araş.Yön."
        },
@@ -140,8 +132,16 @@
         "name": "Denizci.Stra.İnsan Kayn.Yön."
        },
        {
+        "code": "DZC 508",
+        "name": "Bilim ve Denizcilik Tarihi"
+       },
+       {
         "code": "DZC 511",
         "name": "Ulaştırma&Denizcilik Politika."
+       },
+       {
+        "code": "DZC 504",
+        "name": "Denizcilik.Kalite Sist.&Stan."
        },
        {
         "code": "DZC 516",
@@ -164,14 +164,6 @@
         "name": "Denizcilikte İnsan Faktörü"
        },
        {
-        "code": "DZC 504",
-        "name": "Denizcilik.Kalite Sist.&Stan."
-       },
-       {
-        "code": "DZC 508",
-        "name": "Bilim ve Denizcilik Tarihi"
-       },
-       {
         "code": "DZC 509",
         "name": "Denizcilik Çalışma.Araş.Yön."
        },
@@ -180,8 +172,16 @@
         "name": "Denizci.Stra.İnsan Kayn.Yön."
        },
        {
+        "code": "DZC 508",
+        "name": "Bilim ve Denizcilik Tarihi"
+       },
+       {
         "code": "DZC 511",
         "name": "Ulaştırma&Denizcilik Politika."
+       },
+       {
+        "code": "DZC 504",
+        "name": "Denizcilik.Kalite Sist.&Stan."
        },
        {
         "code": "DZC 516",
@@ -200,10 +200,6 @@
       ],
       "options": [
        {
-        "code": "DZC 501",
-        "name": "Denizci.Alanı.Bilişsel Ergo."
-       },
-       {
         "code": "DZC 502",
         "name": "Denizci.Sektör.Kariyer Plan."
        },
@@ -212,76 +208,60 @@
         "name": "Denizcilikte İnsan Faktörü"
        },
        {
-        "code": "DZC 504",
-        "name": "Denizcilik.Kalite Sist.&Stan."
-       },
-       {
-        "code": "DZC 505",
-        "name": "Hizmet Yönetimi"
-       },
-       {
-        "code": "DZC 506",
-        "name": "Örgütsel Davranış ve Psikoloji"
-       },
-       {
         "code": "DZC 507E",
         "name": "Applied Project Management in Maritime Studies"
-       },
-       {
-        "code": "DZC 507",
-        "name": "Denizcilik Çalı.Uygu.Proje Yö."
-       },
-       {
-        "code": "DZC 508",
-        "name": "Bilim ve Denizcilik Tarihi"
-       },
-       {
-        "code": "DZC 509",
-        "name": "Denizcilik Çalışma.Araş.Yön."
-       },
-       {
-        "code": "DZC 510",
-        "name": "Denizci.Stra.İnsan Kayn.Yön."
-       },
-       {
-        "code": "DZC 511",
-        "name": "Ulaştırma&Denizcilik Politika."
-       },
-       {
-        "code": "DZC 512",
-        "name": "Denizcilik Ekonomisi"
-       },
-       {
-        "code": "DZC 513",
-        "name": "E-Lojistik"
-       },
-       {
-        "code": "DZC 514",
-        "name": "Fizibilite Analizi"
-       },
-       {
-        "code": "DZC 515",
-        "name": "Liman Politikaları"
-       },
-       {
-        "code": "DZC 516",
-        "name": "Marina Yönetimi"
-       },
-       {
-        "code": "DZC 517",
-        "name": "Tedarik Zinciri Yöne.&Stra."
        },
        {
         "code": "DZC 518",
         "name": "Yönetim Ekonomisi"
        },
        {
+        "code": "DZC 610",
+        "name": "Denizci.Kriz Müda.Biliş.Mode"
+       },
+       {
+        "code": "DZC 602E",
+        "name": "Maritime Environmental Manag."
+       },
+       {
+        "code": "DZC 603E",
+        "name": "Maritime Security Intelligence"
+       },
+       {
+        "code": "DZC 604",
+        "name": "Denizcilik Eğitim.Ölç.&Değer."
+       },
+       {
+        "code": "DZC 607",
+        "name": "Denizcilik Sektör.Veri Yapı."
+       },
+       {
+        "code": "DZC 509",
+        "name": "Denizcilik Çalışma.Araş.Yön."
+       },
+       {
+        "code": "DZC 517",
+        "name": "Tedarik Zinciri Yöne.&Stra."
+       },
+       {
         "code": "DZC 519",
         "name": "Denizel Alanda Siber Güvenlik"
        },
        {
-        "code": "DZC 520",
-        "name": "Denizel Enerji Güvenliği"
+        "code": "DZC 611E",
+        "name": "Corp.Soc.Resp.in Mariti.Sector"
+       },
+       {
+        "code": "DZC 613E",
+        "name": "Maritime Gover.&Policy-Making"
+       },
+       {
+        "code": "DZC 621E",
+        "name": "International Relations&Sea"
+       },
+       {
+        "code": "DZC 510",
+        "name": "Denizci.Stra.İnsan Kayn.Yön."
        },
        {
         "code": "DZC 521",
@@ -292,48 +272,8 @@
         "name": "Denizcilikte Güvenlik Yönetimi"
        },
        {
-        "code": "DZC 524E",
-        "name": "Maritime Emergency Management"
-       },
-       {
-        "code": "DZC 524",
-        "name": "Denizcilikte Acil Durum Yönet."
-       },
-       {
-        "code": "DZC 601E",
-        "name": "Euro.Uni.&Its Tran.-Marit.Pol."
-       },
-       {
-        "code": "DZC 602E",
-        "name": "Maritime Environmental Manag."
-       },
-       {
-        "code": "DZC 602",
-        "name": "Deniz Çevresi Yönetimi"
-       },
-       {
-        "code": "DZC 603E",
-        "name": "Maritime Security Intelligence"
-       },
-       {
-        "code": "DZC 603",
-        "name": "Deniz Güvenliği İstihbaratı"
-       },
-       {
-        "code": "DZC 604",
-        "name": "Denizcilik Eğitim.Ölç.&Değer."
-       },
-       {
         "code": "DZC 605",
         "name": "Denizcilikte İş Sağlığı&Güven."
-       },
-       {
-        "code": "DZC 606",
-        "name": "Denizcilikte Güvenlik Operasyonları"
-       },
-       {
-        "code": "DZC 607",
-        "name": "Denizcilik Sektör.Veri Yapı."
        },
        {
         "code": "DZC 608",
@@ -344,26 +284,6 @@
         "name": "Denizcilik.İnsan Kay.Ana.&Met."
        },
        {
-        "code": "DZC 610",
-        "name": "Denizci.Kriz Müda.Biliş.Mode"
-       },
-       {
-        "code": "DZC 611E",
-        "name": "Corp.Soc.Resp.in Mariti.Sector"
-       },
-       {
-        "code": "DZC 611",
-        "name": "Denizci.Sektör.Kur.Sos.Sorum."
-       },
-       {
-        "code": "DZC 612E",
-        "name": "Energy Manag.in Marit.Sector"
-       },
-       {
-        "code": "DZC 613E",
-        "name": "Maritime Gover.&Policy-Making"
-       },
-       {
         "code": "DZC 614",
         "name": "Denizci.İnsan Faktörü&Psikol."
        },
@@ -372,16 +292,76 @@
         "name": "Deniz Lojistiğinde Sürdürüle."
        },
        {
+        "code": "DZC 505",
+        "name": "Hizmet Yönetimi"
+       },
+       {
+        "code": "DZC 506",
+        "name": "Örgütsel Davranış ve Psikoloji"
+       },
+       {
+        "code": "DZC 508",
+        "name": "Bilim ve Denizcilik Tarihi"
+       },
+       {
+        "code": "DZC 511",
+        "name": "Ulaştırma&Denizcilik Politika."
+       },
+       {
+        "code": "DZC 504",
+        "name": "Denizcilik.Kalite Sist.&Stan."
+       },
+       {
+        "code": "DZC 501",
+        "name": "Denizci.Alanı.Bilişsel Ergo."
+       },
+       {
+        "code": "DZC 513E",
+        "name": "DZC 513 E-Lojistik"
+       },
+       {
+        "code": "DZC 612E",
+        "name": "Energy Manag.in Marit.Sector"
+       },
+       {
+        "code": "DZC 515",
+        "name": "Liman Politikaları"
+       },
+       {
         "code": "DZC 616",
         "name": "Denizcilikte Bilişim Sistem."
        },
        {
-        "code": "DZC 617",
-        "name": "Küresel Lojis.Ağ Mode.&Poli."
-       },
-       {
         "code": "DZC 618E",
         "name": "Liner Ship Fleet Planning"
+       },
+       {
+        "code": "DZC 512",
+        "name": "Denizcilik Ekonomisi"
+       },
+       {
+        "code": "DZC 514",
+        "name": "Fizibilite Analizi"
+       },
+       {
+        "code": "DZC 516",
+        "name": "Marina Yönetimi"
+       },
+       {
+        "code": "DZC 520",
+        "name": "Denizel Enerji Güvenliği"
+       },
+       {
+        "code": "DZC 601E",
+        "name": "Euro.Uni.&Its Tran.-Marit.Pol."
+       },
+       {
+        "code": "DZC 606",
+        "name": "Denizcilikte Güvenlik Operasyonları"
+       },
+       {
+        "code": "DZC 617",
+        "name": "Küresel Lojis.Ağ Mode.&Poli."
        },
        {
         "code": "DZC 619",
@@ -392,20 +372,12 @@
         "name": "Denizcilik End.Teda.Zinc.Yön."
        },
        {
-        "code": "DZC 621E",
-        "name": "International Relations&Sea"
-       },
-       {
-        "code": "DZC 621",
-        "name": "Uluslarar.İlişki.&Deniz.Eko."
-       },
-       {
         "code": "DZC 623E",
         "name": "Maritime Psychology"
        },
        {
-        "code": "DZC 623",
-        "name": "Maritime Psychology"
+        "code": "DZC 524E",
+        "name": "Maritime Emergency Management"
        }
       ]
      }
@@ -420,10 +392,6 @@
       ],
       "options": [
        {
-        "code": "DZC 501",
-        "name": "Denizci.Alanı.Bilişsel Ergo."
-       },
-       {
         "code": "DZC 502",
         "name": "Denizci.Sektör.Kariyer Plan."
        },
@@ -432,76 +400,60 @@
         "name": "Denizcilikte İnsan Faktörü"
        },
        {
-        "code": "DZC 504",
-        "name": "Denizcilik.Kalite Sist.&Stan."
-       },
-       {
-        "code": "DZC 505",
-        "name": "Hizmet Yönetimi"
-       },
-       {
-        "code": "DZC 506",
-        "name": "Örgütsel Davranış ve Psikoloji"
-       },
-       {
         "code": "DZC 507E",
         "name": "Applied Project Management in Maritime Studies"
-       },
-       {
-        "code": "DZC 507",
-        "name": "Denizcilik Çalı.Uygu.Proje Yö."
-       },
-       {
-        "code": "DZC 508",
-        "name": "Bilim ve Denizcilik Tarihi"
-       },
-       {
-        "code": "DZC 509",
-        "name": "Denizcilik Çalışma.Araş.Yön."
-       },
-       {
-        "code": "DZC 510",
-        "name": "Denizci.Stra.İnsan Kayn.Yön."
-       },
-       {
-        "code": "DZC 511",
-        "name": "Ulaştırma&Denizcilik Politika."
-       },
-       {
-        "code": "DZC 512",
-        "name": "Denizcilik Ekonomisi"
-       },
-       {
-        "code": "DZC 513",
-        "name": "E-Lojistik"
-       },
-       {
-        "code": "DZC 514",
-        "name": "Fizibilite Analizi"
-       },
-       {
-        "code": "DZC 515",
-        "name": "Liman Politikaları"
-       },
-       {
-        "code": "DZC 516",
-        "name": "Marina Yönetimi"
-       },
-       {
-        "code": "DZC 517",
-        "name": "Tedarik Zinciri Yöne.&Stra."
        },
        {
         "code": "DZC 518",
         "name": "Yönetim Ekonomisi"
        },
        {
+        "code": "DZC 610",
+        "name": "Denizci.Kriz Müda.Biliş.Mode"
+       },
+       {
+        "code": "DZC 602E",
+        "name": "Maritime Environmental Manag."
+       },
+       {
+        "code": "DZC 603E",
+        "name": "Maritime Security Intelligence"
+       },
+       {
+        "code": "DZC 604",
+        "name": "Denizcilik Eğitim.Ölç.&Değer."
+       },
+       {
+        "code": "DZC 607",
+        "name": "Denizcilik Sektör.Veri Yapı."
+       },
+       {
+        "code": "DZC 509",
+        "name": "Denizcilik Çalışma.Araş.Yön."
+       },
+       {
+        "code": "DZC 517",
+        "name": "Tedarik Zinciri Yöne.&Stra."
+       },
+       {
         "code": "DZC 519",
         "name": "Denizel Alanda Siber Güvenlik"
        },
        {
-        "code": "DZC 520",
-        "name": "Denizel Enerji Güvenliği"
+        "code": "DZC 611E",
+        "name": "Corp.Soc.Resp.in Mariti.Sector"
+       },
+       {
+        "code": "DZC 613E",
+        "name": "Maritime Gover.&Policy-Making"
+       },
+       {
+        "code": "DZC 621E",
+        "name": "International Relations&Sea"
+       },
+       {
+        "code": "DZC 510",
+        "name": "Denizci.Stra.İnsan Kayn.Yön."
        },
        {
         "code": "DZC 521",
@@ -512,48 +464,8 @@
         "name": "Denizcilikte Güvenlik Yönetimi"
        },
        {
-        "code": "DZC 524E",
-        "name": "Maritime Emergency Management"
-       },
-       {
-        "code": "DZC 524",
-        "name": "Denizcilikte Acil Durum Yönet."
-       },
-       {
-        "code": "DZC 601E",
-        "name": "Euro.Uni.&Its Tran.-Marit.Pol."
-       },
-       {
-        "code": "DZC 602E",
-        "name": "Maritime Environmental Manag."
-       },
-       {
-        "code": "DZC 602",
-        "name": "Deniz Çevresi Yönetimi"
-       },
-       {
-        "code": "DZC 603E",
-        "name": "Maritime Security Intelligence"
-       },
-       {
-        "code": "DZC 603",
-        "name": "Deniz Güvenliği İstihbaratı"
-       },
-       {
-        "code": "DZC 604",
-        "name": "Denizcilik Eğitim.Ölç.&Değer."
-       },
-       {
         "code": "DZC 605",
         "name": "Denizcilikte İş Sağlığı&Güven."
-       },
-       {
-        "code": "DZC 606",
-        "name": "Denizcilikte Güvenlik Operasyonları"
-       },
-       {
-        "code": "DZC 607",
-        "name": "Denizcilik Sektör.Veri Yapı."
        },
        {
         "code": "DZC 608",
@@ -564,26 +476,6 @@
         "name": "Denizcilik.İnsan Kay.Ana.&Met."
        },
        {
-        "code": "DZC 610",
-        "name": "Denizci.Kriz Müda.Biliş.Mode"
-       },
-       {
-        "code": "DZC 611E",
-        "name": "Corp.Soc.Resp.in Mariti.Sector"
-       },
-       {
-        "code": "DZC 611",
-        "name": "Denizci.Sektör.Kur.Sos.Sorum."
-       },
-       {
-        "code": "DZC 612E",
-        "name": "Energy Manag.in Marit.Sector"
-       },
-       {
-        "code": "DZC 613E",
-        "name": "Maritime Gover.&Policy-Making"
-       },
-       {
         "code": "DZC 614",
         "name": "Denizci.İnsan Faktörü&Psikol."
        },
@@ -592,16 +484,76 @@
         "name": "Deniz Lojistiğinde Sürdürüle."
        },
        {
+        "code": "DZC 505",
+        "name": "Hizmet Yönetimi"
+       },
+       {
+        "code": "DZC 506",
+        "name": "Örgütsel Davranış ve Psikoloji"
+       },
+       {
+        "code": "DZC 508",
+        "name": "Bilim ve Denizcilik Tarihi"
+       },
+       {
+        "code": "DZC 511",
+        "name": "Ulaştırma&Denizcilik Politika."
+       },
+       {
+        "code": "DZC 504",
+        "name": "Denizcilik.Kalite Sist.&Stan."
+       },
+       {
+        "code": "DZC 501",
+        "name": "Denizci.Alanı.Bilişsel Ergo."
+       },
+       {
+        "code": "DZC 513E",
+        "name": "DZC 513 E-Lojistik"
+       },
+       {
+        "code": "DZC 612E",
+        "name": "Energy Manag.in Marit.Sector"
+       },
+       {
+        "code": "DZC 515",
+        "name": "Liman Politikaları"
+       },
+       {
         "code": "DZC 616",
         "name": "Denizcilikte Bilişim Sistem."
        },
        {
-        "code": "DZC 617",
-        "name": "Küresel Lojis.Ağ Mode.&Poli."
-       },
-       {
         "code": "DZC 618E",
         "name": "Liner Ship Fleet Planning"
+       },
+       {
+        "code": "DZC 512",
+        "name": "Denizcilik Ekonomisi"
+       },
+       {
+        "code": "DZC 514",
+        "name": "Fizibilite Analizi"
+       },
+       {
+        "code": "DZC 516",
+        "name": "Marina Yönetimi"
+       },
+       {
+        "code": "DZC 520",
+        "name": "Denizel Enerji Güvenliği"
+       },
+       {
+        "code": "DZC 601E",
+        "name": "Euro.Uni.&Its Tran.-Marit.Pol."
+       },
+       {
+        "code": "DZC 606",
+        "name": "Denizcilikte Güvenlik Operasyonları"
+       },
+       {
+        "code": "DZC 617",
+        "name": "Küresel Lojis.Ağ Mode.&Poli."
        },
        {
         "code": "DZC 619",
@@ -612,20 +564,12 @@
         "name": "Denizcilik End.Teda.Zinc.Yön."
        },
        {
-        "code": "DZC 621E",
-        "name": "International Relations&Sea"
-       },
-       {
-        "code": "DZC 621",
-        "name": "Uluslarar.İlişki.&Deniz.Eko."
-       },
-       {
         "code": "DZC 623E",
         "name": "Maritime Psychology"
        },
        {
-        "code": "DZC 623",
-        "name": "Maritime Psychology"
+        "code": "DZC 524E",
+        "name": "Maritime Emergency Management"
        }
       ]
      }
@@ -640,10 +584,6 @@
       ],
       "options": [
        {
-        "code": "DZC 501",
-        "name": "Denizci.Alanı.Bilişsel Ergo."
-       },
-       {
         "code": "DZC 502",
         "name": "Denizci.Sektör.Kariyer Plan."
        },
@@ -652,76 +592,60 @@
         "name": "Denizcilikte İnsan Faktörü"
        },
        {
-        "code": "DZC 504",
-        "name": "Denizcilik.Kalite Sist.&Stan."
-       },
-       {
-        "code": "DZC 505",
-        "name": "Hizmet Yönetimi"
-       },
-       {
-        "code": "DZC 506",
-        "name": "Örgütsel Davranış ve Psikoloji"
-       },
-       {
         "code": "DZC 507E",
         "name": "Applied Project Management in Maritime Studies"
-       },
-       {
-        "code": "DZC 507",
-        "name": "Denizcilik Çalı.Uygu.Proje Yö."
-       },
-       {
-        "code": "DZC 508",
-        "name": "Bilim ve Denizcilik Tarihi"
-       },
-       {
-        "code": "DZC 509",
-        "name": "Denizcilik Çalışma.Araş.Yön."
-       },
-       {
-        "code": "DZC 510",
-        "name": "Denizci.Stra.İnsan Kayn.Yön."
-       },
-       {
-        "code": "DZC 511",
-        "name": "Ulaştırma&Denizcilik Politika."
-       },
-       {
-        "code": "DZC 512",
-        "name": "Denizcilik Ekonomisi"
-       },
-       {
-        "code": "DZC 513",
-        "name": "E-Lojistik"
-       },
-       {
-        "code": "DZC 514",
-        "name": "Fizibilite Analizi"
-       },
-       {
-        "code": "DZC 515",
-        "name": "Liman Politikaları"
-       },
-       {
-        "code": "DZC 516",
-        "name": "Marina Yönetimi"
-       },
-       {
-        "code": "DZC 517",
-        "name": "Tedarik Zinciri Yöne.&Stra."
        },
        {
         "code": "DZC 518",
         "name": "Yönetim Ekonomisi"
        },
        {
+        "code": "DZC 610",
+        "name": "Denizci.Kriz Müda.Biliş.Mode"
+       },
+       {
+        "code": "DZC 602E",
+        "name": "Maritime Environmental Manag."
+       },
+       {
+        "code": "DZC 603E",
+        "name": "Maritime Security Intelligence"
+       },
+       {
+        "code": "DZC 604",
+        "name": "Denizcilik Eğitim.Ölç.&Değer."
+       },
+       {
+        "code": "DZC 607",
+        "name": "Denizcilik Sektör.Veri Yapı."
+       },
+       {
+        "code": "DZC 509",
+        "name": "Denizcilik Çalışma.Araş.Yön."
+       },
+       {
+        "code": "DZC 517",
+        "name": "Tedarik Zinciri Yöne.&Stra."
+       },
+       {
         "code": "DZC 519",
         "name": "Denizel Alanda Siber Güvenlik"
        },
        {
-        "code": "DZC 520",
-        "name": "Denizel Enerji Güvenliği"
+        "code": "DZC 611E",
+        "name": "Corp.Soc.Resp.in Mariti.Sector"
+       },
+       {
+        "code": "DZC 613E",
+        "name": "Maritime Gover.&Policy-Making"
+       },
+       {
+        "code": "DZC 621E",
+        "name": "International Relations&Sea"
+       },
+       {
+        "code": "DZC 510",
+        "name": "Denizci.Stra.İnsan Kayn.Yön."
        },
        {
         "code": "DZC 521",
@@ -732,48 +656,8 @@
         "name": "Denizcilikte Güvenlik Yönetimi"
        },
        {
-        "code": "DZC 524E",
-        "name": "Maritime Emergency Management"
-       },
-       {
-        "code": "DZC 524",
-        "name": "Denizcilikte Acil Durum Yönet."
-       },
-       {
-        "code": "DZC 601E",
-        "name": "Euro.Uni.&Its Tran.-Marit.Pol."
-       },
-       {
-        "code": "DZC 602E",
-        "name": "Maritime Environmental Manag."
-       },
-       {
-        "code": "DZC 602",
-        "name": "Deniz Çevresi Yönetimi"
-       },
-       {
-        "code": "DZC 603E",
-        "name": "Maritime Security Intelligence"
-       },
-       {
-        "code": "DZC 603",
-        "name": "Deniz Güvenliği İstihbaratı"
-       },
-       {
-        "code": "DZC 604",
-        "name": "Denizcilik Eğitim.Ölç.&Değer."
-       },
-       {
         "code": "DZC 605",
         "name": "Denizcilikte İş Sağlığı&Güven."
-       },
-       {
-        "code": "DZC 606",
-        "name": "Denizcilikte Güvenlik Operasyonları"
-       },
-       {
-        "code": "DZC 607",
-        "name": "Denizcilik Sektör.Veri Yapı."
        },
        {
         "code": "DZC 608",
@@ -784,26 +668,6 @@
         "name": "Denizcilik.İnsan Kay.Ana.&Met."
        },
        {
-        "code": "DZC 610",
-        "name": "Denizci.Kriz Müda.Biliş.Mode"
-       },
-       {
-        "code": "DZC 611E",
-        "name": "Corp.Soc.Resp.in Mariti.Sector"
-       },
-       {
-        "code": "DZC 611",
-        "name": "Denizci.Sektör.Kur.Sos.Sorum."
-       },
-       {
-        "code": "DZC 612E",
-        "name": "Energy Manag.in Marit.Sector"
-       },
-       {
-        "code": "DZC 613E",
-        "name": "Maritime Gover.&Policy-Making"
-       },
-       {
         "code": "DZC 614",
         "name": "Denizci.İnsan Faktörü&Psikol."
        },
@@ -812,16 +676,76 @@
         "name": "Deniz Lojistiğinde Sürdürüle."
        },
        {
+        "code": "DZC 505",
+        "name": "Hizmet Yönetimi"
+       },
+       {
+        "code": "DZC 506",
+        "name": "Örgütsel Davranış ve Psikoloji"
+       },
+       {
+        "code": "DZC 508",
+        "name": "Bilim ve Denizcilik Tarihi"
+       },
+       {
+        "code": "DZC 511",
+        "name": "Ulaştırma&Denizcilik Politika."
+       },
+       {
+        "code": "DZC 504",
+        "name": "Denizcilik.Kalite Sist.&Stan."
+       },
+       {
+        "code": "DZC 501",
+        "name": "Denizci.Alanı.Bilişsel Ergo."
+       },
+       {
+        "code": "DZC 513E",
+        "name": "DZC 513 E-Lojistik"
+       },
+       {
+        "code": "DZC 612E",
+        "name": "Energy Manag.in Marit.Sector"
+       },
+       {
+        "code": "DZC 515",
+        "name": "Liman Politikaları"
+       },
+       {
         "code": "DZC 616",
         "name": "Denizcilikte Bilişim Sistem."
        },
        {
-        "code": "DZC 617",
-        "name": "Küresel Lojis.Ağ Mode.&Poli."
-       },
-       {
         "code": "DZC 618E",
         "name": "Liner Ship Fleet Planning"
+       },
+       {
+        "code": "DZC 512",
+        "name": "Denizcilik Ekonomisi"
+       },
+       {
+        "code": "DZC 514",
+        "name": "Fizibilite Analizi"
+       },
+       {
+        "code": "DZC 516",
+        "name": "Marina Yönetimi"
+       },
+       {
+        "code": "DZC 520",
+        "name": "Denizel Enerji Güvenliği"
+       },
+       {
+        "code": "DZC 601E",
+        "name": "Euro.Uni.&Its Tran.-Marit.Pol."
+       },
+       {
+        "code": "DZC 606",
+        "name": "Denizcilikte Güvenlik Operasyonları"
+       },
+       {
+        "code": "DZC 617",
+        "name": "Küresel Lojis.Ağ Mode.&Poli."
        },
        {
         "code": "DZC 619",
@@ -832,20 +756,12 @@
         "name": "Denizcilik End.Teda.Zinc.Yön."
        },
        {
-        "code": "DZC 621E",
-        "name": "International Relations&Sea"
-       },
-       {
-        "code": "DZC 621",
-        "name": "Uluslarar.İlişki.&Deniz.Eko."
-       },
-       {
         "code": "DZC 623E",
         "name": "Maritime Psychology"
        },
        {
-        "code": "DZC 623",
-        "name": "Maritime Psychology"
+        "code": "DZC 524E",
+        "name": "Maritime Emergency Management"
        }
       ]
      }
@@ -860,10 +776,6 @@
       ],
       "options": [
        {
-        "code": "DZC 501",
-        "name": "Denizci.Alanı.Bilişsel Ergo."
-       },
-       {
         "code": "DZC 502",
         "name": "Denizci.Sektör.Kariyer Plan."
        },
@@ -872,76 +784,60 @@
         "name": "Denizcilikte İnsan Faktörü"
        },
        {
-        "code": "DZC 504",
-        "name": "Denizcilik.Kalite Sist.&Stan."
-       },
-       {
-        "code": "DZC 505",
-        "name": "Hizmet Yönetimi"
-       },
-       {
-        "code": "DZC 506",
-        "name": "Örgütsel Davranış ve Psikoloji"
-       },
-       {
         "code": "DZC 507E",
         "name": "Applied Project Management in Maritime Studies"
-       },
-       {
-        "code": "DZC 507",
-        "name": "Denizcilik Çalı.Uygu.Proje Yö."
-       },
-       {
-        "code": "DZC 508",
-        "name": "Bilim ve Denizcilik Tarihi"
-       },
-       {
-        "code": "DZC 509",
-        "name": "Denizcilik Çalışma.Araş.Yön."
-       },
-       {
-        "code": "DZC 510",
-        "name": "Denizci.Stra.İnsan Kayn.Yön."
-       },
-       {
-        "code": "DZC 511",
-        "name": "Ulaştırma&Denizcilik Politika."
-       },
-       {
-        "code": "DZC 512",
-        "name": "Denizcilik Ekonomisi"
-       },
-       {
-        "code": "DZC 513",
-        "name": "E-Lojistik"
-       },
-       {
-        "code": "DZC 514",
-        "name": "Fizibilite Analizi"
-       },
-       {
-        "code": "DZC 515",
-        "name": "Liman Politikaları"
-       },
-       {
-        "code": "DZC 516",
-        "name": "Marina Yönetimi"
-       },
-       {
-        "code": "DZC 517",
-        "name": "Tedarik Zinciri Yöne.&Stra."
        },
        {
         "code": "DZC 518",
         "name": "Yönetim Ekonomisi"
        },
        {
+        "code": "DZC 610",
+        "name": "Denizci.Kriz Müda.Biliş.Mode"
+       },
+       {
+        "code": "DZC 602E",
+        "name": "Maritime Environmental Manag."
+       },
+       {
+        "code": "DZC 603E",
+        "name": "Maritime Security Intelligence"
+       },
+       {
+        "code": "DZC 604",
+        "name": "Denizcilik Eğitim.Ölç.&Değer."
+       },
+       {
+        "code": "DZC 607",
+        "name": "Denizcilik Sektör.Veri Yapı."
+       },
+       {
+        "code": "DZC 509",
+        "name": "Denizcilik Çalışma.Araş.Yön."
+       },
+       {
+        "code": "DZC 517",
+        "name": "Tedarik Zinciri Yöne.&Stra."
+       },
+       {
         "code": "DZC 519",
         "name": "Denizel Alanda Siber Güvenlik"
        },
        {
-        "code": "DZC 520",
-        "name": "Denizel Enerji Güvenliği"
+        "code": "DZC 611E",
+        "name": "Corp.Soc.Resp.in Mariti.Sector"
+       },
+       {
+        "code": "DZC 613E",
+        "name": "Maritime Gover.&Policy-Making"
+       },
+       {
+        "code": "DZC 621E",
+        "name": "International Relations&Sea"
+       },
+       {
+        "code": "DZC 510",
+        "name": "Denizci.Stra.İnsan Kayn.Yön."
        },
        {
         "code": "DZC 521",
@@ -952,48 +848,8 @@
         "name": "Denizcilikte Güvenlik Yönetimi"
        },
        {
-        "code": "DZC 524E",
-        "name": "Maritime Emergency Management"
-       },
-       {
-        "code": "DZC 524",
-        "name": "Denizcilikte Acil Durum Yönet."
-       },
-       {
-        "code": "DZC 601E",
-        "name": "Euro.Uni.&Its Tran.-Marit.Pol."
-       },
-       {
-        "code": "DZC 602E",
-        "name": "Maritime Environmental Manag."
-       },
-       {
-        "code": "DZC 602",
-        "name": "Deniz Çevresi Yönetimi"
-       },
-       {
-        "code": "DZC 603E",
-        "name": "Maritime Security Intelligence"
-       },
-       {
-        "code": "DZC 603",
-        "name": "Deniz Güvenliği İstihbaratı"
-       },
-       {
-        "code": "DZC 604",
-        "name": "Denizcilik Eğitim.Ölç.&Değer."
-       },
-       {
         "code": "DZC 605",
         "name": "Denizcilikte İş Sağlığı&Güven."
-       },
-       {
-        "code": "DZC 606",
-        "name": "Denizcilikte Güvenlik Operasyonları"
-       },
-       {
-        "code": "DZC 607",
-        "name": "Denizcilik Sektör.Veri Yapı."
        },
        {
         "code": "DZC 608",
@@ -1004,26 +860,6 @@
         "name": "Denizcilik.İnsan Kay.Ana.&Met."
        },
        {
-        "code": "DZC 610",
-        "name": "Denizci.Kriz Müda.Biliş.Mode"
-       },
-       {
-        "code": "DZC 611E",
-        "name": "Corp.Soc.Resp.in Mariti.Sector"
-       },
-       {
-        "code": "DZC 611",
-        "name": "Denizci.Sektör.Kur.Sos.Sorum."
-       },
-       {
-        "code": "DZC 612E",
-        "name": "Energy Manag.in Marit.Sector"
-       },
-       {
-        "code": "DZC 613E",
-        "name": "Maritime Gover.&Policy-Making"
-       },
-       {
         "code": "DZC 614",
         "name": "Denizci.İnsan Faktörü&Psikol."
        },
@@ -1032,16 +868,76 @@
         "name": "Deniz Lojistiğinde Sürdürüle."
        },
        {
+        "code": "DZC 505",
+        "name": "Hizmet Yönetimi"
+       },
+       {
+        "code": "DZC 506",
+        "name": "Örgütsel Davranış ve Psikoloji"
+       },
+       {
+        "code": "DZC 508",
+        "name": "Bilim ve Denizcilik Tarihi"
+       },
+       {
+        "code": "DZC 511",
+        "name": "Ulaştırma&Denizcilik Politika."
+       },
+       {
+        "code": "DZC 504",
+        "name": "Denizcilik.Kalite Sist.&Stan."
+       },
+       {
+        "code": "DZC 501",
+        "name": "Denizci.Alanı.Bilişsel Ergo."
+       },
+       {
+        "code": "DZC 513E",
+        "name": "DZC 513 E-Lojistik"
+       },
+       {
+        "code": "DZC 612E",
+        "name": "Energy Manag.in Marit.Sector"
+       },
+       {
+        "code": "DZC 515",
+        "name": "Liman Politikaları"
+       },
+       {
         "code": "DZC 616",
         "name": "Denizcilikte Bilişim Sistem."
        },
        {
-        "code": "DZC 617",
-        "name": "Küresel Lojis.Ağ Mode.&Poli."
-       },
-       {
         "code": "DZC 618E",
         "name": "Liner Ship Fleet Planning"
+       },
+       {
+        "code": "DZC 512",
+        "name": "Denizcilik Ekonomisi"
+       },
+       {
+        "code": "DZC 514",
+        "name": "Fizibilite Analizi"
+       },
+       {
+        "code": "DZC 516",
+        "name": "Marina Yönetimi"
+       },
+       {
+        "code": "DZC 520",
+        "name": "Denizel Enerji Güvenliği"
+       },
+       {
+        "code": "DZC 601E",
+        "name": "Euro.Uni.&Its Tran.-Marit.Pol."
+       },
+       {
+        "code": "DZC 606",
+        "name": "Denizcilikte Güvenlik Operasyonları"
+       },
+       {
+        "code": "DZC 617",
+        "name": "Küresel Lojis.Ağ Mode.&Poli."
        },
        {
         "code": "DZC 619",
@@ -1052,20 +948,12 @@
         "name": "Denizcilik End.Teda.Zinc.Yön."
        },
        {
-        "code": "DZC 621E",
-        "name": "International Relations&Sea"
-       },
-       {
-        "code": "DZC 621",
-        "name": "Uluslarar.İlişki.&Deniz.Eko."
-       },
-       {
         "code": "DZC 623E",
         "name": "Maritime Psychology"
        },
        {
-        "code": "DZC 623",
-        "name": "Maritime Psychology"
+        "code": "DZC 524E",
+        "name": "Maritime Emergency Management"
        }
       ]
      }

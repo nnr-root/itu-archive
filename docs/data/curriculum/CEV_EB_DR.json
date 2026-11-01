@@ -1,15 +1,15 @@
 {
  "programCode": "CEV_EB_DR",
- "programName": "Çevre Biyoteknolojisi Doktora",
+ "programName": "Çevre Biyoteknolojisi (İngilizce) Doktora",
  "faculty": "Lisansüstü Eğitim Enstitüsü",
  "level": "DR",
- "planLabel": "Çevre Biyoteknolojisi Doktora Programı 2022-2023 / Bahar Dönemi Sonrası",
+ "planLabel": "Çevre Biyoteknolojisi (İngilizce) Doktora Programı 2022-2023 / Bahar Dönemi Sonrası",
  "totalCredits": "21,00",
  "totalEcts": "195,00",
  "totalEctsComputed": true,
  "semesters": [
   {
-   "title": "Çevre Biyoteknolojisi Doktora",
+   "title": "Çevre Biyoteknolojisi (İngilizce) Doktora",
    "items": [
     {
      "course": {
@@ -77,48 +77,24 @@
       ],
       "options": [
        {
-        "code": "LEE 901",
-        "name": "Akademik Girişimcilik"
-       },
-       {
         "code": "LEE 901E",
         "name": "Academic Entrepreneurship"
-       },
-       {
-        "code": "LEE 903",
-        "name": "Proje Döngüsü Yönetimi"
-       },
-       {
-        "code": "LEE 903E",
-        "name": "Project Cycle Management"
-       },
-       {
-        "code": "LEE 904",
-        "name": "Yönlendirilmiş Çalışmalar"
-       },
-       {
-        "code": "LEE 904E",
-        "name": "Directed Studies"
-       },
-       {
-        "code": "LEE 905",
-        "name": "İnovas.Teknik.&Patent Süreç."
        },
        {
         "code": "LEE 905E",
         "name": "Inovations Techniques and Patent Processes"
        },
        {
-        "code": "LEE 906",
-        "name": "Yaratıcı Endüstriler için Blokzincir Teknolojisi"
+        "code": "LEE 903E",
+        "name": "Project Cycle Management"
+       },
+       {
+        "code": "LEE 904E",
+        "name": "Directed Studies"
        },
        {
         "code": "LEE 906E",
         "name": "Blockchain Technology for Creative Industries"
-       },
-       {
-        "code": "LEE 907",
-        "name": "Teknoloji Etiği"
        },
        {
         "code": "LEE 907E",

@@ -40,6 +40,18 @@
       ],
       "options": [
        {
+        "code": "KMM 511E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "PET 519E",
+        "name": "Advanced Engineering Mathemath"
+       },
+       {
+        "code": "YAP 501E",
+        "name": "Engineering Mathematics"
+       },
+       {
         "code": "CHZ 511",
         "name": "Mühendislik Matematiği"
        },
@@ -48,11 +60,11 @@
         "name": "Mühendislik Matematiği"
        },
        {
-        "code": "KMM 511E",
+        "code": "MTA 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MDK 501E",
+        "code": "MOT 501E",
         "name": "Engineering Mathematics"
        },
        {
@@ -64,27 +76,15 @@
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MKS 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
         "code": "MMI 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MOT 501E",
+        "code": "MDK 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MTA 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
-        "code": "PET 519E",
-        "name": "Advanced Engineering Mathemath"
-       },
-       {
-        "code": "YAP 501E",
+        "code": "MKS 501E",
         "name": "Engineering Mathematics"
        }
       ]
@@ -100,6 +100,14 @@
       ],
       "options": [
        {
+        "code": "SRM 513E",
+        "name": "Characterization of Ceramic Materials-II"
+       },
+       {
+        "code": "SRM 511E",
+        "name": "Character.of Ceramic Mater.-I"
+       },
+       {
         "code": "SRM 501E",
         "name": "Manuf.Proc.in Ceramic Material"
        },
@@ -110,14 +118,6 @@
        {
         "code": "SRM 506E",
         "name": "Structure and Proper. of Sil."
-       },
-       {
-        "code": "SRM 511E",
-        "name": "Character.of Ceramic Mater.-I"
-       },
-       {
-        "code": "SRM 513",
-        "name": "Seramik Malzeme.Karak.-II"
        }
       ]
      }
@@ -132,6 +132,14 @@
       ],
       "options": [
        {
+        "code": "SRM 513E",
+        "name": "Characterization of Ceramic Materials-II"
+       },
+       {
+        "code": "SRM 511E",
+        "name": "Character.of Ceramic Mater.-I"
+       },
+       {
         "code": "SRM 501E",
         "name": "Manuf.Proc.in Ceramic Material"
        },
@@ -142,14 +150,6 @@
        {
         "code": "SRM 506E",
         "name": "Structure and Proper. of Sil."
-       },
-       {
-        "code": "SRM 511E",
-        "name": "Character.of Ceramic Mater.-I"
-       },
-       {
-        "code": "SRM 513",
-        "name": "Seramik Malzeme.Karak.-II"
        }
       ]
      }
@@ -164,6 +164,14 @@
       ],
       "options": [
        {
+        "code": "SRM 513E",
+        "name": "Characterization of Ceramic Materials-II"
+       },
+       {
+        "code": "SRM 511E",
+        "name": "Character.of Ceramic Mater.-I"
+       },
+       {
         "code": "SRM 501E",
         "name": "Manuf.Proc.in Ceramic Material"
        },
@@ -174,14 +182,6 @@
        {
         "code": "SRM 506E",
         "name": "Structure and Proper. of Sil."
-       },
-       {
-        "code": "SRM 511E",
-        "name": "Character.of Ceramic Mater.-I"
-       },
-       {
-        "code": "SRM 513",
-        "name": "Seramik Malzeme.Karak.-II"
        }
       ]
      }

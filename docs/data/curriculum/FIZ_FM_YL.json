@@ -60,28 +60,24 @@
       ],
       "options": [
        {
-        "code": "FIZ 501E",
-        "name": "Electromagnetic Theory"
-       },
-       {
-        "code": "FIZ 502E",
-        "name": "Statistical Physics"
+        "code": "FIZ 516",
+        "name": "Kuantum Mekaniği II"
        },
        {
         "code": "FIZ 515",
         "name": "Klasik Mekanik"
        },
        {
-        "code": "FIZ 516",
-        "name": "Kuantum Mekaniği II"
-       },
-       {
-        "code": "FIZ 519",
-        "name": "Kuantum Mekaniği I"
+        "code": "FIZ 501E",
+        "name": "Electromagnetic Theory"
        },
        {
         "code": "FIZ 519E",
         "name": "Quantum Mechanics I"
+       },
+       {
+        "code": "FIZ 502E",
+        "name": "Statistical Physics"
        }
       ]
      }
@@ -96,28 +92,24 @@
       ],
       "options": [
        {
-        "code": "FIZ 501E",
-        "name": "Electromagnetic Theory"
-       },
-       {
-        "code": "FIZ 502E",
-        "name": "Statistical Physics"
+        "code": "FIZ 516",
+        "name": "Kuantum Mekaniği II"
        },
        {
         "code": "FIZ 515",
         "name": "Klasik Mekanik"
        },
        {
-        "code": "FIZ 516",
-        "name": "Kuantum Mekaniği II"
+        "code": "FIZ 501E",
+        "name": "Electromagnetic Theory"
        },
        {
         "code": "FIZ 519E",
         "name": "Quantum Mechanics I"
        },
        {
-        "code": "FIZ 519",
-        "name": "Kuantum Mekaniği I"
+        "code": "FIZ 502E",
+        "name": "Statistical Physics"
        }
       ]
      }
@@ -132,28 +124,24 @@
       ],
       "options": [
        {
-        "code": "FIZ 501E",
-        "name": "Electromagnetic Theory"
-       },
-       {
-        "code": "FIZ 502E",
-        "name": "Statistical Physics"
+        "code": "FIZ 516",
+        "name": "Kuantum Mekaniği II"
        },
        {
         "code": "FIZ 515",
         "name": "Klasik Mekanik"
        },
        {
-        "code": "FIZ 516",
-        "name": "Kuantum Mekaniği II"
+        "code": "FIZ 501E",
+        "name": "Electromagnetic Theory"
        },
        {
         "code": "FIZ 519E",
         "name": "Quantum Mechanics I"
        },
        {
-        "code": "FIZ 519",
-        "name": "Kuantum Mekaniği I"
+        "code": "FIZ 502E",
+        "name": "Statistical Physics"
        }
       ]
      }

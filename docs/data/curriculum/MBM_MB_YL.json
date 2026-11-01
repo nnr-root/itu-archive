@@ -40,6 +40,14 @@
       ],
       "options": [
        {
+        "code": "KMM 511E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "YAP 501E",
+        "name": "Engineering Mathematics"
+       },
+       {
         "code": "CHZ 511",
         "name": "Mühendislik Matematiği"
        },
@@ -48,15 +56,15 @@
         "name": "Mühendislik Matematiği"
        },
        {
-        "code": "KMM 511E",
-        "name": "Engineering Mathematics"
-       },
-       {
         "code": "MAM 507",
         "name": "Mühendislik Matematiği"
        },
        {
-        "code": "MDK 501E",
+        "code": "MTA 501E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "MOT 501E",
         "name": "Engineering Mathematics"
        },
        {
@@ -68,23 +76,15 @@
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MKS 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
         "code": "MMI 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MOT 501",
-        "name": "Mühendislik Matematiği"
-       },
-       {
-        "code": "MTA 501E",
+        "code": "MDK 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "YAP 501E",
+        "code": "MKS 501E",
         "name": "Engineering Mathematics"
        }
       ]
@@ -100,24 +100,24 @@
       ],
       "options": [
        {
-        "code": "MAM 503E",
-        "name": "Structure&Crystallography"
-       },
-       {
-        "code": "MBM 502E",
-        "name": "Phsysics of Solids"
+        "code": "MBM 504",
+        "name": "Malzemelerin Mekanik Özel."
        },
        {
         "code": "MBM 503",
         "name": "Malzeme Termod.&Kinetiği"
        },
        {
-        "code": "MBM 504",
-        "name": "Malzemelerin Mekanik Özel."
+        "code": "MBM 502E",
+        "name": "Phsysics of Solids"
        },
        {
         "code": "MBM 507",
         "name": "Polimer Kimyası"
+       },
+       {
+        "code": "MAM 503E",
+        "name": "Structure&Crystallography"
        }
       ]
      }
@@ -132,24 +132,24 @@
       ],
       "options": [
        {
-        "code": "MAM 503E",
-        "name": "Structure&Crystallography"
-       },
-       {
-        "code": "MBM 502E",
-        "name": "Phsysics of Solids"
+        "code": "MBM 504",
+        "name": "Malzemelerin Mekanik Özel."
        },
        {
         "code": "MBM 503",
         "name": "Malzeme Termod.&Kinetiği"
        },
        {
-        "code": "MBM 504",
-        "name": "Malzemelerin Mekanik Özel."
+        "code": "MBM 502E",
+        "name": "Phsysics of Solids"
        },
        {
         "code": "MBM 507",
         "name": "Polimer Kimyası"
+       },
+       {
+        "code": "MAM 503E",
+        "name": "Structure&Crystallography"
        }
       ]
      }
@@ -164,24 +164,24 @@
       ],
       "options": [
        {
-        "code": "MAM 503E",
-        "name": "Structure&Crystallography"
-       },
-       {
-        "code": "MBM 502E",
-        "name": "Phsysics of Solids"
+        "code": "MBM 504",
+        "name": "Malzemelerin Mekanik Özel."
        },
        {
         "code": "MBM 503",
         "name": "Malzeme Termod.&Kinetiği"
        },
        {
-        "code": "MBM 504",
-        "name": "Malzemelerin Mekanik Özel."
+        "code": "MBM 502E",
+        "name": "Phsysics of Solids"
        },
        {
         "code": "MBM 507",
         "name": "Polimer Kimyası"
+       },
+       {
+        "code": "MAM 503E",
+        "name": "Structure&Crystallography"
        }
       ]
      }
@@ -196,14 +196,6 @@
       ],
       "options": [
        {
-        "code": "HBM 526E",
-        "name": "Advanced Molecular Modelling"
-       },
-       {
-        "code": "MAM 506E",
-        "name": "Phase Transformations"
-       },
-       {
         "code": "MET 619",
         "name": "Nadir Toprak&Krit.Met.Metalu."
        },
@@ -214,6 +206,14 @@
        {
         "code": "UMT 522E",
         "name": "Industrial Electroche.Tech."
+       },
+       {
+        "code": "MAM 506E",
+        "name": "Phase Transformations"
+       },
+       {
+        "code": "HBM 526E",
+        "name": "Advanced Molecular Modelling"
        }
       ]
      }
@@ -228,10 +228,6 @@
       ],
       "options": [
        {
-        "code": "MAM 506E",
-        "name": "Phase Transformations"
-       },
-       {
         "code": "MET 619",
         "name": "Nadir Toprak&Krit.Met.Metalu."
        },
@@ -242,6 +238,10 @@
        {
         "code": "UMT 522E",
         "name": "Industrial Electroche.Tech."
+       },
+       {
+        "code": "MAM 506E",
+        "name": "Phase Transformations"
        }
       ]
      }
@@ -256,10 +256,6 @@
       ],
       "options": [
        {
-        "code": "MAM 506E",
-        "name": "Phase Transformations"
-       },
-       {
         "code": "MET 619",
         "name": "Nadir Toprak&Krit.Met.Metalu."
        },
@@ -270,6 +266,10 @@
        {
         "code": "UMT 522E",
         "name": "Industrial Electroche.Tech."
+       },
+       {
+        "code": "MAM 506E",
+        "name": "Phase Transformations"
        }
       ]
      }
@@ -284,10 +284,6 @@
       ],
       "options": [
        {
-        "code": "MAM 506E",
-        "name": "Phase Transformations"
-       },
-       {
         "code": "MET 619",
         "name": "Nadir Toprak&Krit.Met.Metalu."
        },
@@ -298,6 +294,10 @@
        {
         "code": "UMT 522E",
         "name": "Industrial Electroche.Tech."
+       },
+       {
+        "code": "MAM 506E",
+        "name": "Phase Transformations"
        }
       ]
      }

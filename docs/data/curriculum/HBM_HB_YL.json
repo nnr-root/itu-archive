@@ -34,11 +34,11 @@
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "BLU 596E",
+        "code": "HBM 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "HBM 596E",
+        "code": "BLU 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        }
       ]
@@ -54,12 +54,12 @@
       ],
       "options": [
        {
-        "code": "HBM 511",
-        "name": "Bilimsel Hesaplama I"
-       },
-       {
         "code": "HBM 512",
         "name": "Bilimsel Hesaplama II"
+       },
+       {
+        "code": "HBM 511",
+        "name": "Bilimsel Hesaplama I"
        }
       ]
      }
@@ -74,28 +74,28 @@
       ],
       "options": [
        {
-        "code": "HBM 511",
-        "name": "Bilimsel Hesaplama I"
-       },
-       {
-        "code": "HBM 512",
-        "name": "Bilimsel Hesaplama II"
-       },
-       {
-        "code": "HBM 513E",
-        "name": "Parallel&Distributed Comput."
+        "code": "HBM 516E",
+        "name": "Scientific Visualization"
        },
        {
         "code": "HBM 514E",
         "name": "Parallel Numer.Algor.&Tools"
        },
        {
-        "code": "HBM 516E",
-        "name": "Scientific Visualization"
+        "code": "HBM 512",
+        "name": "Bilimsel Hesaplama II"
+       },
+       {
+        "code": "HBM 511",
+        "name": "Bilimsel Hesaplama I"
        },
        {
         "code": "HBM 526E",
         "name": "Advanced Molecular Modelling"
+       },
+       {
+        "code": "HBM 513E",
+        "name": "Parallel&Distributed Comput."
        }
       ]
      }
@@ -110,28 +110,28 @@
       ],
       "options": [
        {
-        "code": "HBM 511",
-        "name": "Bilimsel Hesaplama I"
-       },
-       {
-        "code": "HBM 512",
-        "name": "Bilimsel Hesaplama II"
-       },
-       {
-        "code": "HBM 513E",
-        "name": "Parallel&Distributed Comput."
+        "code": "HBM 516E",
+        "name": "Scientific Visualization"
        },
        {
         "code": "HBM 514E",
         "name": "Parallel Numer.Algor.&Tools"
        },
        {
-        "code": "HBM 516E",
-        "name": "Scientific Visualization"
+        "code": "HBM 512",
+        "name": "Bilimsel Hesaplama II"
+       },
+       {
+        "code": "HBM 511",
+        "name": "Bilimsel Hesaplama I"
        },
        {
         "code": "HBM 526E",
         "name": "Advanced Molecular Modelling"
+       },
+       {
+        "code": "HBM 513E",
+        "name": "Parallel&Distributed Comput."
        }
       ]
      }
@@ -146,28 +146,28 @@
       ],
       "options": [
        {
-        "code": "HBM 511",
-        "name": "Bilimsel Hesaplama I"
-       },
-       {
-        "code": "HBM 512",
-        "name": "Bilimsel Hesaplama II"
-       },
-       {
-        "code": "HBM 513E",
-        "name": "Parallel&Distributed Comput."
+        "code": "HBM 516E",
+        "name": "Scientific Visualization"
        },
        {
         "code": "HBM 514E",
         "name": "Parallel Numer.Algor.&Tools"
        },
        {
-        "code": "HBM 516E",
-        "name": "Scientific Visualization"
+        "code": "HBM 512",
+        "name": "Bilimsel Hesaplama II"
+       },
+       {
+        "code": "HBM 511",
+        "name": "Bilimsel Hesaplama I"
        },
        {
         "code": "HBM 526E",
         "name": "Advanced Molecular Modelling"
+       },
+       {
+        "code": "HBM 513E",
+        "name": "Parallel&Distributed Comput."
        }
       ]
      }
@@ -182,10 +182,6 @@
       ],
       "options": [
        {
-        "code": "BBL 553E",
-        "name": "Algorithm Engineering"
-       },
-       {
         "code": "BLG 513E",
         "name": "Image Processing"
        },
@@ -194,28 +190,32 @@
         "name": "Deep Learning"
        },
        {
-        "code": "BLU 537E",
-        "name": "Data Analysis&Visualization"
+        "code": "KMM 538E",
+        "name": "Molecular Simulati.Methods"
        },
        {
-        "code": "FIZ 508E",
-        "name": "Computational Physics"
+        "code": "YAP 535",
+        "name": "Elastisite Teorisi"
        },
        {
         "code": "KIM 515E",
         "name": "Quantum Chemistry"
        },
        {
-        "code": "KMM 538E",
-        "name": "Molecular Simulati.Methods"
+        "code": "FIZ 508E",
+        "name": "Computational Physics"
        },
        {
-        "code": "MBG 532",
-        "name": "Biyoinformatik"
+        "code": "MBG 532E",
+        "name": "Bioinformatics"
        },
        {
-        "code": "YAP 535",
-        "name": "Elastisite Teorisi"
+        "code": "BLU 537E",
+        "name": "Data Analysis&Visualization"
+       },
+       {
+        "code": "BBL 553E",
+        "name": "Algorithm Engineering"
        }
       ]
      }
@@ -230,10 +230,6 @@
       ],
       "options": [
        {
-        "code": "BBL 553E",
-        "name": "Algorithm Engineering"
-       },
-       {
         "code": "BLG 513E",
         "name": "Image Processing"
        },
@@ -242,28 +238,32 @@
         "name": "Deep Learning"
        },
        {
-        "code": "BLU 537E",
-        "name": "Data Analysis&Visualization"
+        "code": "KMM 538E",
+        "name": "Molecular Simulati.Methods"
        },
        {
-        "code": "FIZ 508E",
-        "name": "Computational Physics"
+        "code": "YAP 535",
+        "name": "Elastisite Teorisi"
        },
        {
         "code": "KIM 515E",
         "name": "Quantum Chemistry"
        },
        {
-        "code": "KMM 538E",
-        "name": "Molecular Simulati.Methods"
+        "code": "FIZ 508E",
+        "name": "Computational Physics"
        },
        {
-        "code": "MBG 532",
-        "name": "Biyoinformatik"
+        "code": "MBG 532E",
+        "name": "Bioinformatics"
        },
        {
-        "code": "YAP 535",
-        "name": "Elastisite Teorisi"
+        "code": "BLU 537E",
+        "name": "Data Analysis&Visualization"
+       },
+       {
+        "code": "BBL 553E",
+        "name": "Algorithm Engineering"
        }
       ]
      }
@@ -278,10 +278,6 @@
       ],
       "options": [
        {
-        "code": "BBL 553E",
-        "name": "Algorithm Engineering"
-       },
-       {
         "code": "BLG 513E",
         "name": "Image Processing"
        },
@@ -290,28 +286,32 @@
         "name": "Deep Learning"
        },
        {
-        "code": "BLU 537E",
-        "name": "Data Analysis&Visualization"
+        "code": "KMM 538E",
+        "name": "Molecular Simulati.Methods"
        },
        {
-        "code": "FIZ 508E",
-        "name": "Computational Physics"
+        "code": "YAP 535",
+        "name": "Elastisite Teorisi"
        },
        {
         "code": "KIM 515E",
         "name": "Quantum Chemistry"
        },
        {
-        "code": "KMM 538E",
-        "name": "Molecular Simulati.Methods"
+        "code": "FIZ 508E",
+        "name": "Computational Physics"
        },
        {
-        "code": "MBG 532",
-        "name": "Biyoinformatik"
+        "code": "MBG 532E",
+        "name": "Bioinformatics"
        },
        {
-        "code": "YAP 535",
-        "name": "Elastisite Teorisi"
+        "code": "BLU 537E",
+        "name": "Data Analysis&Visualization"
+       },
+       {
+        "code": "BBL 553E",
+        "name": "Algorithm Engineering"
        }
       ]
      }
@@ -326,36 +326,36 @@
       ],
       "options": [
        {
-        "code": "BBL 553E",
-        "name": "Algorithm Engineering"
-       },
-       {
         "code": "BLG 513E",
         "name": "Image Processing"
-       },
-       {
-        "code": "BLU 537E",
-        "name": "Data Analysis&Visualization"
-       },
-       {
-        "code": "FIZ 508E",
-        "name": "Computational Physics"
-       },
-       {
-        "code": "KIM 515E",
-        "name": "Quantum Chemistry"
        },
        {
         "code": "KMM 538E",
         "name": "Molecular Simulati.Methods"
        },
        {
-        "code": "MBG 532",
-        "name": "Biyoinformatik"
-       },
-       {
         "code": "YAP 535",
         "name": "Elastisite Teorisi"
+       },
+       {
+        "code": "KIM 515E",
+        "name": "Quantum Chemistry"
+       },
+       {
+        "code": "FIZ 508E",
+        "name": "Computational Physics"
+       },
+       {
+        "code": "MBG 532E",
+        "name": "Bioinformatics"
+       },
+       {
+        "code": "BLU 537E",
+        "name": "Data Analysis&Visualization"
+       },
+       {
+        "code": "BBL 553E",
+        "name": "Algorithm Engineering"
        }
       ]
      }

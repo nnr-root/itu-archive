@@ -30,35 +30,23 @@
       ],
       "options": [
        {
-        "code": "HSK 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "HSK 596E",
-        "name": "Scien.Rese., Ethic&Seminar"
-       },
-       {
-        "code": "ULS 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "YAP 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
         "code": "YAP 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "YIP 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
+        "code": "ULS 596E",
+        "name": "Scientific Research, Ethic and Seminar"
        },
        {
         "code": "ZMG 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "ZMG 596",
+        "code": "HSK 596E",
+        "name": "Scien.Rese., Ethic&Seminar"
+       },
+       {
+        "code": "YIP 596",
         "name": "Bilimsel Araş.,Etik ve Seminer"
        }
       ]
@@ -74,12 +62,12 @@
       ],
       "options": [
        {
-        "code": "ULS 501E",
-        "name": "Mathe.&Sta.Meth.in Tran.Eng."
-       },
-       {
         "code": "YAP 501E",
         "name": "Engineering Mathematics"
+       },
+       {
+        "code": "ULS 501E",
+        "name": "Mathe.&Sta.Meth.in Tran.Eng."
        },
        {
         "code": "YIP 501E",
@@ -98,16 +86,8 @@
       ],
       "options": [
        {
-        "code": "HSK 501",
-        "name": "Su Kaynakları Sis."
-       },
-       {
         "code": "HSK 501E",
         "name": "Water Resources Systems"
-       },
-       {
-        "code": "HSK 503",
-        "name": "Ileri Akışkanlar Mekaniği"
        },
        {
         "code": "HSK 503E",
@@ -134,16 +114,8 @@
         "name": "Water Resources Systems"
        },
        {
-        "code": "HSK 501",
-        "name": "Su Kaynakları Sis."
-       },
-       {
         "code": "HSK 503E",
         "name": "Advanced Fluid Mechanics"
-       },
-       {
-        "code": "HSK 503",
-        "name": "Ileri Akışkanlar Mekaniği"
        },
        {
         "code": "HSK 525E",
@@ -166,16 +138,8 @@
         "name": "Water Resources Systems"
        },
        {
-        "code": "HSK 501",
-        "name": "Su Kaynakları Sis."
-       },
-       {
         "code": "HSK 503E",
         "name": "Advanced Fluid Mechanics"
-       },
-       {
-        "code": "HSK 503",
-        "name": "Ileri Akışkanlar Mekaniği"
        },
        {
         "code": "HSK 525E",

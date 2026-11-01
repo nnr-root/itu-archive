@@ -170,8 +170,28 @@
       ],
       "options": [
        {
-        "code": "ING 102",
-        "name": "English II"
+        "code": "ING 103H",
+        "name": "Public Presentations"
+       },
+       {
+        "code": "ING 103G",
+        "name": "Business Communications"
+       },
+       {
+        "code": "ING 103P",
+        "name": "Poetry"
+       },
+       {
+        "code": "ING 103B",
+        "name": "Business English"
+       },
+       {
+        "code": "ING 103AD",
+        "name": "Advanced English for Engineers"
+       },
+       {
+        "code": "ING 103O",
+        "name": "Psychology"
        },
        {
         "code": "ING 103A",
@@ -182,28 +202,8 @@
         "name": "Urban Ecology"
        },
        {
-        "code": "ING 103AD",
-        "name": "Advanced English for Engineers"
-       },
-       {
-        "code": "ING 103B",
-        "name": "Business English"
-       },
-       {
         "code": "ING 103C",
         "name": "Great Moments in Science"
-       },
-       {
-        "code": "ING 103G",
-        "name": "Business Communications"
-       },
-       {
-        "code": "ING 103H",
-        "name": "Public Presentations"
-       },
-       {
-        "code": "ING 103I",
-        "name": "Short Stories"
        },
        {
         "code": "ING 103L",
@@ -214,12 +214,12 @@
         "name": "Film Studies"
        },
        {
-        "code": "ING 103O",
-        "name": "Psychology"
+        "code": "ING 102",
+        "name": "English II"
        },
        {
-        "code": "ING 103P",
-        "name": "Poetry"
+        "code": "ING 103I",
+        "name": "Short Stories"
        }
       ]
      }
@@ -290,36 +290,32 @@
       ],
       "options": [
        {
-        "code": "EUT 233",
-        "name": "Perspektif"
-       },
-       {
-        "code": "EUT 235",
-        "name": "Endüstri Ürüleri Tasarımı için Modelaj"
-       },
-       {
-        "code": "EUT 237",
-        "name": "Endüstri Tasarımında Strüktür"
-       },
-       {
-        "code": "EUT 429E",
-        "name": "Sustainable Product Design"
-       },
-       {
-        "code": "ICM 340E",
-        "name": "Digital Representation Techniques for Interior Desing"
-       },
-       {
         "code": "ISL 435E",
         "name": "The World Economy at a Glance"
+       },
+       {
+        "code": "MIM 356E",
+        "name": "Photography"
        },
        {
         "code": "MIM 340E",
         "name": "Catering Design"
        },
        {
-        "code": "MIM 356E",
-        "name": "Photography"
+        "code": "EUT 233E",
+        "name": "Perspective"
+       },
+       {
+        "code": "EUT 429E",
+        "name": "Sustainable Product Design"
+       },
+       {
+        "code": "EUT 235E",
+        "name": "Modeling for Industrial Design"
+       },
+       {
+        "code": "EUT 237E",
+        "name": "Structure in Industrial Design"
        },
        {
         "code": "PEM 410E",
@@ -328,6 +324,10 @@
        {
         "code": "PEM 415E",
         "name": "Environmental Aesthetics"
+       },
+       {
+        "code": "ICM 340E",
+        "name": "Digital Representation Techniques for Interior Desing"
        }
       ]
      }
@@ -472,92 +472,40 @@
       ],
       "options": [
        {
-        "code": "BEB 120",
-        "name": "Spor ve Temel Bilimler"
-       },
-       {
-        "code": "BEB 121",
-        "name": "Spor ve Teknoloji"
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
-       },
-       {
-        "code": "HUK 216",
-        "name": "Telekomünikasyon Hukuku"
-       },
-       {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
-       },
-       {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
-       },
-       {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
         "code": "ISL 465E",
         "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ITB 020E",
-        "name": "Formations of Modernity"
+        "code": "ING 103SC",
+        "name": "Science Communication"
        },
        {
-        "code": "ITB 020",
-        "name": "Modernitenin Oluşumu"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
-        "code": "ITB 037",
-        "name": "Bilgi, Dil ve Mantık"
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "ITB 037E",
         "name": "Knowledge, Language & Logic"
        },
        {
-        "code": "ITB 087",
-        "name": "Medya ve Toplum"
-       },
-       {
         "code": "ITB 087E",
         "name": "Media and Society"
-       },
-       {
-        "code": "ITB 094",
-        "name": "Uluslararası İlişkilerve Küreselleşme"
        },
        {
         "code": "ITB 094E",
@@ -568,236 +516,168 @@
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 095",
-        "name": "Teknoloji, Politika ve Hukuk"
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
        },
        {
-        "code": "ITB 143",
-        "name": "Durrel ve Said:Oryanta.Uyg ve"
+        "code": "HUK 218E",
+        "name": "Commercial Law"
        },
        {
-        "code": "ITB 151",
-        "name": "İnsan Kaynakları Yönetimi"
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
        },
        {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 171",
-        "name": "Bilim, Teknoloji ve Toplum"
-       },
-       {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179",
-        "name": "İçiçe Ayr.Ede.:Vizyone,Seyf.,A"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 201",
-        "name": "İnsan ve Topl. Bilim. Giriş"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 202",
-        "name": "Dünya Tarihi"
-       },
-       {
-        "code": "ITB 203",
-        "name": "Sosyoloji"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204",
-        "name": "Siyaset Bilimi"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205",
-        "name": "Felsefe"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
-       },
-       {
-        "code": "ITB 206E",
-        "name": "Issues in World Politics"
-       },
-       {
-        "code": "ITB 206",
-        "name": "Dünya Politikasında Meseleler"
-       },
-       {
-        "code": "ITB 207E",
-        "name": "Ottoman History"
-       },
-       {
-        "code": "ITB 207",
-        "name": "Osmanlı Tarihi"
-       },
-       {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
-        "code": "ITB 208",
-        "name": "Modern Türkiye'nin Oluşumu"
-       },
-       {
-        "code": "ITB 209E",
-        "name": "Türkiye in World Affairs"
-       },
-       {
-        "code": "ITB 209",
-        "name": "Türkiye ve Dünya"
-       },
-       {
-        "code": "ITB 211E",
-        "name": "Istanbul:Hist.,Art and Society"
-       },
-       {
         "code": "ITB 212E",
         "name": "Art,Culture and Society"
-       },
-       {
-        "code": "ITB 213E",
-        "name": "Toplics in Literature and Society"
-       },
-       {
-        "code": "ITB 213",
-        "name": "Edebiyat ve Toplum"
-       },
-       {
-        "code": "ITB 215E",
-        "name": "Topics in Hist.and Society"
-       },
-       {
-        "code": "ITB 215",
-        "name": "Tarih ve Toplum"
-       },
-       {
-        "code": "ITB 216",
-        "name": "Ekonomi ve Toplum"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
-       },
-       {
-        "code": "ITB 217E",
-        "name": "Engineering Ethics"
-       },
-       {
-        "code": "ITB 217",
-        "name": "Mühendislik Etiği"
-       },
-       {
-        "code": "ITB 218E",
-        "name": "History of Science&Technology"
-       },
-       {
-        "code": "ITB 218",
-        "name": "Bilim ve Teknoloji Tarihi"
-       },
-       {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 219",
-        "name": "Etik"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 220",
-        "name": "Psikoloji"
-       },
-       {
-        "code": "ITB 221",
-        "name": "Anadolu Arkeolojisi"
-       },
-       {
-        "code": "ITB 222",
-        "name": "Kent ve Toplum"
-       },
-       {
-        "code": "ITB 222E",
-        "name": "City and Society"
-       },
-       {
-        "code": "ITB 224",
-        "name": "Çevre ve Toplum"
-       },
-       {
-        "code": "ITB 224E",
-        "name": "Environment and Society"
-       },
-       {
-        "code": "ITB 226E",
-        "name": "Philosophy of Art"
-       },
-       {
-        "code": "ITB 227",
-        "name": "Siyaset Teorisi"
-       },
-       {
-        "code": "ITB 227E",
-        "name": "Political Theory"
        },
        {
         "code": "ITB 228E",
         "name": "Gender Studies"
        },
        {
-        "code": "ITB 228",
-        "name": "Toplumsal Cinsiyet Çalışmaları"
+        "code": "ITB 206E",
+        "name": "Issues in World Politics"
        },
        {
-        "code": "ITB 230",
-        "name": "Afet Bilinci"
+        "code": "ITB 207E",
+        "name": "Ottoman History"
+       },
+       {
+        "code": "ITB 209E",
+        "name": "Türkiye in World Affairs"
+       },
+       {
+        "code": "ITB 217E",
+        "name": "Engineering Ethics"
+       },
+       {
+        "code": "ITB 233E",
+        "name": "Anthropology"
+       },
+       {
+        "code": "ITB 203E",
+        "name": "Sociology"
+       },
+       {
+        "code": "ITB 230E",
+        "name": "Disaster Awareness"
        },
        {
         "code": "ITB 231E",
         "name": "Volunteering Studies"
        },
        {
-        "code": "ITB 231",
-        "name": "Gönüllülük Çalışmaları"
+        "code": "ITB 234E",
+        "name": "The Rise of Civilizations"
        },
        {
-        "code": "ITB 233",
-        "name": "Antropoloji"
+        "code": "ITB 213E",
+        "name": "Toplics in Literature and Society"
        },
        {
-        "code": "ITB 234",
-        "name": "Medeniyetlerin Doğuşu"
+        "code": "ITB 219E",
+        "name": "Ethics"
+       },
+       {
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "ITB 215E",
+        "name": "Topics in Hist.and Society"
+       },
+       {
+        "code": "ITB 226E",
+        "name": "Philosophy of Art"
+       },
+       {
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
+       },
+       {
+        "code": "ITB 222E",
+        "name": "City and Society"
+       },
+       {
+        "code": "ITB 224E",
+        "name": "Environment and Society"
+       },
+       {
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
+       },
+       {
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
+       },
+       {
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
+        "code": "ITB 227E",
+        "name": "Political Theory"
+       },
+       {
+        "code": "BEB 121",
+        "name": "Spor ve Teknoloji"
+       },
+       {
+        "code": "BEB 120",
+        "name": "Spor ve Temel Bilimler"
        }
       ]
      }
@@ -879,32 +759,16 @@
       ],
       "options": [
        {
-        "code": "EUT 343E",
-        "name": "Typography"
+        "code": "ISL 435E",
+        "name": "The World Economy at a Glance"
        },
        {
-        "code": "EUT 345E",
-        "name": "Consumer Behavior"
+        "code": "MIM 356E",
+        "name": "Photography"
        },
        {
-        "code": "EUT 347E",
-        "name": "Introduction to Jewelry Design"
-       },
-       {
-        "code": "EUT 349",
-        "name": "Endüstriyel Tasarımda 3 Boyutlu Animasyon Tekniklerine Giriş"
-       },
-       {
-        "code": "EUT 353E",
-        "name": "Historical Interaction of Moderns Art and Design"
-       },
-       {
-        "code": "EUT 355E",
-        "name": "Space Organization"
-       },
-       {
-        "code": "EUT 361E",
-        "name": "Contemporary Issues in Design"
+        "code": "MIM 340E",
+        "name": "Catering Design"
        },
        {
         "code": "EUT 383E",
@@ -915,20 +779,24 @@
         "name": "Sustainable Product Design"
        },
        {
+        "code": "EUT 355E",
+        "name": "Space Organization"
+       },
+       {
         "code": "EUT 451E",
         "name": "Media and Desing"
        },
        {
-        "code": "ISL 435E",
-        "name": "The World Economy at a Glance"
+        "code": "EUT 345E",
+        "name": "Consumer Behavior"
        },
        {
-        "code": "MIM 340E",
-        "name": "Catering Design"
+        "code": "EUT 349E",
+        "name": "Intro to 3 Dimensional Animation Techni in Industrial Design"
        },
        {
-        "code": "MIM 356E",
-        "name": "Photography"
+        "code": "EUT 353E",
+        "name": "Historical Interaction of Moderns Art and Design"
        },
        {
         "code": "PEM 410E",
@@ -937,6 +805,18 @@
        {
         "code": "PEM 415E",
         "name": "Environmental Aesthetics"
+       },
+       {
+        "code": "EUT 343E",
+        "name": "Typography"
+       },
+       {
+        "code": "EUT 347E",
+        "name": "Introduction to Jewelry Design"
+       },
+       {
+        "code": "EUT 361E",
+        "name": "Contemporary Issues in Design"
        }
       ]
      }
@@ -992,24 +872,16 @@
       ],
       "options": [
        {
-        "code": "EUT 324",
-        "name": "Tasarımda Göstergebilim ve Anlambilim"
+        "code": "MIM 252E",
+        "name": "Theories of Architectural Dsgn"
        },
        {
-        "code": "EUT 328",
-        "name": "Endüstriyel Tasarımda Animasyon Uygulamaları"
+        "code": "EUT 324E",
+        "name": "Semiology&Semantics in Design"
        },
        {
-        "code": "EUT 334",
-        "name": "Tasarım ve Biçim"
-       },
-       {
-        "code": "EUT 336",
-        "name": "Çağdaş Cam Sanatı"
-       },
-       {
-        "code": "EUT 348E",
-        "name": "Jewelery and Minimal Product Design and Techniques"
+        "code": "EUT 336E",
+        "name": "Contemporary Glass Art"
        },
        {
         "code": "EUT 350E",
@@ -1024,28 +896,36 @@
         "name": "Sustainable Product Design"
        },
        {
+        "code": "EUT 334E",
+        "name": "Design and Form"
+       },
+       {
+        "code": "EUT 328E",
+        "name": "Animation Applications in Industrial Design"
+       },
+       {
         "code": "EUT 460E",
         "name": "Visual Merchandising and Retail Desing"
        },
        {
-        "code": "ICM 317",
-        "name": "Çevresel Psikoloji"
+        "code": "EUT 348E",
+        "name": "Jewelery and Minimal Product Design and Techniques"
        },
        {
-        "code": "ICM 323",
-        "name": "Renk Kuramı"
+        "code": "ICM 317E",
+        "name": "Environmental Psychology"
        },
        {
-        "code": "ICM 337",
-        "name": "Uygulamalı Sanat Atölyeleri"
-       },
-       {
-        "code": "MIM 252",
-        "name": "Mimari Tasarım Kuramları"
+        "code": "ICM 337E",
+        "name": "Applied Art Atelier"
        },
        {
         "code": "PEM 431E",
         "name": "Experimental Studies on Place & Desing"
+       },
+       {
+        "code": "ICM 323E",
+        "name": "Theory of Color"
        }
       ]
      }
@@ -1087,20 +967,32 @@
       ],
       "options": [
        {
-        "code": "EUT 314",
-        "name": "Plastik Malzeme Bilgisi ve Teknolojisi"
+        "code": "ISL 460E",
+        "name": "E-Marketing"
        },
        {
-        "code": "EUT 326",
-        "name": "Seramik Tasarımı ve Teknolojisi"
+        "code": "ISL 458E",
+        "name": "Intellectual Property Law"
        },
        {
-        "code": "EUT 357E",
-        "name": "Mech.&Manufacturability in Product Design"
+        "code": "MIM 432E",
+        "name": "Entrepreneurship in Construction Industry"
+       },
+       {
+        "code": "SBP 315E",
+        "name": "Human Culture and Environment"
+       },
+       {
+        "code": "EUT 314E",
+        "name": "Plastics Materials and Technology"
        },
        {
         "code": "EUT 359E",
         "name": "Advanced Modelmaking Techniques"
+       },
+       {
+        "code": "EUT 357E",
+        "name": "Mech.&Manufacturability in Product Design"
        },
        {
         "code": "GSB 343E",
@@ -1111,24 +1003,12 @@
         "name": "Digital Representation Techniques for Interior Desing"
        },
        {
-        "code": "ISL 458E",
-        "name": "Intellectual Property Law"
+        "code": "EUT 326E",
+        "name": "Ceramics Design and Technology"
        },
        {
-        "code": "ISL 460E",
-        "name": "E-Marketing"
-       },
-       {
-        "code": "MAT 271",
-        "name": "Olasılık ve İstatistik"
-       },
-       {
-        "code": "MIM 432E",
-        "name": "Entrepreneurship in Construction Industry"
-       },
-       {
-        "code": "SBP 315E",
-        "name": "Human Culture and Environment"
+        "code": "MAT 271E",
+        "name": "Probability and Statistics"
        }
       ]
      }
@@ -1173,8 +1053,12 @@
       ],
       "options": [
        {
-        "code": "EUT 361E",
-        "name": "Contemporary Issues in Design"
+        "code": "MIM 413E",
+        "name": "Art of the 20th Century"
+       },
+       {
+        "code": "MIM 461E",
+        "name": "Accessibility&Inclusive Design"
        },
        {
         "code": "EUT 383E",
@@ -1185,72 +1069,64 @@
         "name": "Sustainable Product Design"
        },
        {
-        "code": "EUT 433",
-        "name": "Kent Mobilyaları"
-       },
-       {
-        "code": "EUT 437",
-        "name": "Endüstri Ürünleri Tasarımında Özgün Baskı"
+        "code": "EUT 449E",
+        "name": "20th Cen.Vis.Arts:Conc.Dev.in Europe Inc. Türkiye and the USA"
        },
        {
         "code": "EUT 439E",
         "name": "Professional Practice in Design"
        },
        {
-        "code": "EUT 439",
-        "name": "Tasarımda Meslek Pratiği"
-       },
-       {
-        "code": "EUT 445E",
-        "name": "Visual Design Theory in the Information Age"
-       },
-       {
-        "code": "EUT 447",
-        "name": "Etkileşimli Tasarımda Yaratıcılık"
-       },
-       {
-        "code": "EUT 449E",
-        "name": "20th Cen.Vis.Arts:Conc.Dev.in Europe Inc. Türkiye and the USA"
+        "code": "EUT 447E",
+        "name": "Creativity in Interaction Designe"
        },
        {
         "code": "EUT 451E",
         "name": "Media and Desing"
        },
        {
+        "code": "EUT 437E",
+        "name": "Printmaking in Industrial Design"
+       },
+       {
+        "code": "EUT 445E",
+        "name": "Visual Design Theory in the Information Age"
+       },
+       {
         "code": "EUT 453E",
         "name": "Basic Princip. of Yacht Dsgn"
-       },
-       {
-        "code": "ICM 317",
-        "name": "Çevresel Psikoloji"
-       },
-       {
-        "code": "ICM 323",
-        "name": "Renk Kuramı"
-       },
-       {
-        "code": "ICM 333",
-        "name": "Tasarım Kültürü"
-       },
-       {
-        "code": "MIM 413",
-        "name": "20. Yüzyıl Sanatı"
        },
        {
         "code": "MIM 425E",
         "name": "Architecture Today"
        },
        {
-        "code": "MIM 461",
-        "name": "Erişilebilirlik&Kapsayıcı Tas."
+        "code": "ICM 333E",
+        "name": "Design Culture"
        },
        {
-        "code": "PEM 317",
-        "name": "Kent Mobilyaları ve Mekan"
+        "code": "ICM 317E",
+        "name": "Environmental Psychology"
        },
        {
         "code": "PEM 431E",
         "name": "Experimental Studies on Place & Desing"
+       },
+       {
+        "code": "PEM 317E",
+        "name": "Urban Furniture and Space"
+       },
+       {
+        "code": "EUT 361E",
+        "name": "Contemporary Issues in Design"
+       },
+       {
+        "code": "EUT 433E",
+        "name": "Street Furniture"
+       },
+       {
+        "code": "ICM 323E",
+        "name": "Theory of Color"
        }
       ]
      }
@@ -1265,44 +1141,12 @@
       ],
       "options": [
        {
-        "code": "EUT 335",
-        "name": "Cam Tasarımı ve Üretim Teknolojisi"
-       },
-       {
-        "code": "EUT 339",
-        "name": "Aydınlatma Aygıtı Tasarımının Temel İlkeleri"
-       },
-       {
-        "code": "EUT 339E",
-        "name": "Basic Design Principles of Lighting Luminaries"
-       },
-       {
-        "code": "EUT 357E",
-        "name": "Mech.&Manufacturability in Product Design"
-       },
-       {
-        "code": "EUT 359E",
-        "name": "Advanced Modelmaking Techniques"
-       },
-       {
-        "code": "EUT 415",
-        "name": "Blgisayar Destekli Üretim (BDU)"
-       },
-       {
-        "code": "GSB 343E",
-        "name": "Visual Analysis"
-       },
-       {
-        "code": "ICM 340E",
-        "name": "Digital Representation Techniques for Interior Desing"
+        "code": "ISL 460E",
+        "name": "E-Marketing"
        },
        {
         "code": "ISL 458E",
         "name": "Intellectual Property Law"
-       },
-       {
-        "code": "ISL 460E",
-        "name": "E-Marketing"
        },
        {
         "code": "MIM 432E",
@@ -1311,6 +1155,34 @@
        {
         "code": "SBP 315E",
         "name": "Human Culture and Environment"
+       },
+       {
+        "code": "EUT 335E",
+        "name": "Glass Design & Prod.Technology"
+       },
+       {
+        "code": "EUT 339E",
+        "name": "Basic Design Principles of Lighting Luminaries"
+       },
+       {
+        "code": "EUT 359E",
+        "name": "Advanced Modelmaking Techniques"
+       },
+       {
+        "code": "EUT 357E",
+        "name": "Mech.&Manufacturability in Product Design"
+       },
+       {
+        "code": "EUT 415E",
+        "name": "Computer Aided Manufacturing"
+       },
+       {
+        "code": "GSB 343E",
+        "name": "Visual Analysis"
+       },
+       {
+        "code": "ICM 340E",
+        "name": "Digital Representation Techniques for Interior Desing"
        }
       ]
      }
@@ -1350,76 +1222,32 @@
       ],
       "options": [
        {
-        "code": "BEB 120",
-        "name": "Spor ve Temel Bilimler"
-       },
-       {
-        "code": "BEB 121",
-        "name": "Spor ve Teknoloji"
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
-       },
-       {
-        "code": "HUK 216",
-        "name": "Telekomünikasyon Hukuku"
-       },
-       {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
-       },
-       {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
-       },
-       {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
         "code": "ISL 465E",
         "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ITB 020E",
-        "name": "Formations of Modernity"
+        "code": "ING 103SC",
+        "name": "Science Communication"
        },
        {
-        "code": "ITB 020",
-        "name": "Modernitenin Oluşumu"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
-        "code": "ITB 037",
-        "name": "Bilgi, Dil ve Mantık"
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "ITB 037E",
@@ -1430,14 +1258,6 @@
         "name": "Media and Society"
        },
        {
-        "code": "ITB 087",
-        "name": "Medya ve Toplum"
-       },
-       {
-        "code": "ITB 094",
-        "name": "Uluslararası İlişkilerve Küreselleşme"
-       },
-       {
         "code": "ITB 094E",
         "name": "International.Rel.and Globali."
        },
@@ -1446,236 +1266,168 @@
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 095",
-        "name": "Teknoloji, Politika ve Hukuk"
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
        },
        {
-        "code": "ITB 143",
-        "name": "Durrel ve Said:Oryanta.Uyg ve"
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+        "code": "HUK 218E",
+        "name": "Commercial Law"
        },
        {
-        "code": "ITB 151",
-        "name": "İnsan Kaynakları Yönetimi"
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
        },
        {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 171",
-        "name": "Bilim, Teknoloji ve Toplum"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 179",
-        "name": "İçiçe Ayr.Ede.:Vizyone,Seyf.,A"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 201",
-        "name": "İnsan ve Topl. Bilim. Giriş"
-       },
-       {
-        "code": "ITB 202",
-        "name": "Dünya Tarihi"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 203",
-        "name": "Sosyoloji"
-       },
-       {
-        "code": "ITB 204",
-        "name": "Siyaset Bilimi"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205",
-        "name": "Felsefe"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
-       },
-       {
-        "code": "ITB 206E",
-        "name": "Issues in World Politics"
-       },
-       {
-        "code": "ITB 206",
-        "name": "Dünya Politikasında Meseleler"
-       },
-       {
-        "code": "ITB 207E",
-        "name": "Ottoman History"
-       },
-       {
-        "code": "ITB 207",
-        "name": "Osmanlı Tarihi"
-       },
-       {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
-        "code": "ITB 208",
-        "name": "Modern Türkiye'nin Oluşumu"
-       },
-       {
-        "code": "ITB 209",
-        "name": "Türkiye ve Dünya"
-       },
-       {
-        "code": "ITB 209E",
-        "name": "Türkiye in World Affairs"
-       },
-       {
-        "code": "ITB 211E",
-        "name": "Istanbul:Hist.,Art and Society"
-       },
-       {
         "code": "ITB 212E",
         "name": "Art,Culture and Society"
-       },
-       {
-        "code": "ITB 213E",
-        "name": "Toplics in Literature and Society"
-       },
-       {
-        "code": "ITB 213",
-        "name": "Edebiyat ve Toplum"
-       },
-       {
-        "code": "ITB 215",
-        "name": "Tarih ve Toplum"
-       },
-       {
-        "code": "ITB 215E",
-        "name": "Topics in Hist.and Society"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
-       },
-       {
-        "code": "ITB 216",
-        "name": "Ekonomi ve Toplum"
-       },
-       {
-        "code": "ITB 217E",
-        "name": "Engineering Ethics"
-       },
-       {
-        "code": "ITB 217",
-        "name": "Mühendislik Etiği"
-       },
-       {
-        "code": "ITB 218",
-        "name": "Bilim ve Teknoloji Tarihi"
-       },
-       {
-        "code": "ITB 218E",
-        "name": "History of Science&Technology"
-       },
-       {
-        "code": "ITB 219",
-        "name": "Etik"
-       },
-       {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 220",
-        "name": "Psikoloji"
-       },
-       {
-        "code": "ITB 221",
-        "name": "Anadolu Arkeolojisi"
-       },
-       {
-        "code": "ITB 222E",
-        "name": "City and Society"
-       },
-       {
-        "code": "ITB 222",
-        "name": "Kent ve Toplum"
-       },
-       {
-        "code": "ITB 224E",
-        "name": "Environment and Society"
-       },
-       {
-        "code": "ITB 224",
-        "name": "Çevre ve Toplum"
-       },
-       {
-        "code": "ITB 226E",
-        "name": "Philosophy of Art"
-       },
-       {
-        "code": "ITB 227E",
-        "name": "Political Theory"
-       },
-       {
-        "code": "ITB 227",
-        "name": "Siyaset Teorisi"
-       },
-       {
-        "code": "ITB 228",
-        "name": "Toplumsal Cinsiyet Çalışmaları"
        },
        {
         "code": "ITB 228E",
         "name": "Gender Studies"
        },
        {
-        "code": "ITB 230",
-        "name": "Afet Bilinci"
+        "code": "ITB 206E",
+        "name": "Issues in World Politics"
+       },
+       {
+        "code": "ITB 207E",
+        "name": "Ottoman History"
+       },
+       {
+        "code": "ITB 209E",
+        "name": "Türkiye in World Affairs"
+       },
+       {
+        "code": "ITB 217E",
+        "name": "Engineering Ethics"
+       },
+       {
+        "code": "ITB 233E",
+        "name": "Anthropology"
+       },
+       {
+        "code": "ITB 203E",
+        "name": "Sociology"
+       },
+       {
+        "code": "ITB 230E",
+        "name": "Disaster Awareness"
        },
        {
         "code": "ITB 231E",
         "name": "Volunteering Studies"
        },
        {
-        "code": "ITB 231",
-        "name": "Gönüllülük Çalışmaları"
+        "code": "ITB 234E",
+        "name": "The Rise of Civilizations"
        },
        {
-        "code": "ITB 233",
-        "name": "Antropoloji"
+        "code": "ITB 213E",
+        "name": "Toplics in Literature and Society"
        },
        {
-        "code": "ITB 234",
-        "name": "Medeniyetlerin Doğuşu"
+        "code": "ITB 219E",
+        "name": "Ethics"
+       },
+       {
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "ITB 215E",
+        "name": "Topics in Hist.and Society"
+       },
+       {
+        "code": "ITB 226E",
+        "name": "Philosophy of Art"
+       },
+       {
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
+       },
+       {
+        "code": "ITB 222E",
+        "name": "City and Society"
+       },
+       {
+        "code": "ITB 224E",
+        "name": "Environment and Society"
+       },
+       {
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
+       },
+       {
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
+       },
+       {
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
+        "code": "ITB 227E",
+        "name": "Political Theory"
+       },
+       {
+        "code": "BEB 121",
+        "name": "Spor ve Teknoloji"
+       },
+       {
+        "code": "BEB 120",
+        "name": "Spor ve Temel Bilimler"
        }
       ]
      }
@@ -1719,20 +1471,28 @@
       ],
       "options": [
        {
-        "code": "EUT 314",
-        "name": "Plastik Malzeme Bilgisi ve Teknolojisi"
+        "code": "ISL 460E",
+        "name": "E-Marketing"
        },
        {
-        "code": "EUT 326",
-        "name": "Seramik Tasarımı ve Teknolojisi"
+        "code": "ISL 458E",
+        "name": "Intellectual Property Law"
+       },
+       {
+        "code": "MIM 432E",
+        "name": "Entrepreneurship in Construction Industry"
+       },
+       {
+        "code": "SBP 315E",
+        "name": "Human Culture and Environment"
+       },
+       {
+        "code": "EUT 314E",
+        "name": "Plastics Materials and Technology"
        },
        {
         "code": "EUT 357E",
         "name": "Mech.&Manufacturability in Product Design"
-       },
-       {
-        "code": "EUT 436",
-        "name": "Görüntüleme Teknikleri"
        },
        {
         "code": "GSB 343E",
@@ -1743,20 +1503,12 @@
         "name": "Digital Representation Techniques for Interior Desing"
        },
        {
-        "code": "ISL 458E",
-        "name": "Intellectual Property Law"
+        "code": "EUT 326E",
+        "name": "Ceramics Design and Technology"
        },
        {
-        "code": "ISL 460E",
-        "name": "E-Marketing"
-       },
-       {
-        "code": "MIM 432E",
-        "name": "Entrepreneurship in Construction Industry"
-       },
-       {
-        "code": "SBP 315E",
-        "name": "Human Culture and Environment"
+        "code": "EUT 436E",
+        "name": "Visualization Techniques"
        }
       ]
      }
@@ -1771,20 +1523,28 @@
       ],
       "options": [
        {
-        "code": "EUT 314",
-        "name": "Plastik Malzeme Bilgisi ve Teknolojisi"
+        "code": "ISL 460E",
+        "name": "E-Marketing"
        },
        {
-        "code": "EUT 326",
-        "name": "Seramik Tasarımı ve Teknolojisi"
+        "code": "ISL 458E",
+        "name": "Intellectual Property Law"
+       },
+       {
+        "code": "MIM 432E",
+        "name": "Entrepreneurship in Construction Industry"
+       },
+       {
+        "code": "SBP 315E",
+        "name": "Human Culture and Environment"
+       },
+       {
+        "code": "EUT 314E",
+        "name": "Plastics Materials and Technology"
        },
        {
         "code": "EUT 357E",
         "name": "Mech.&Manufacturability in Product Design"
-       },
-       {
-        "code": "EUT 436",
-        "name": "Görüntüleme Teknikleri"
        },
        {
         "code": "GSB 343E",
@@ -1795,20 +1555,12 @@
         "name": "Digital Representation Techniques for Interior Desing"
        },
        {
-        "code": "ISL 458E",
-        "name": "Intellectual Property Law"
+        "code": "EUT 326E",
+        "name": "Ceramics Design and Technology"
        },
        {
-        "code": "ISL 460E",
-        "name": "E-Marketing"
-       },
-       {
-        "code": "MIM 432E",
-        "name": "Entrepreneurship in Construction Industry"
-       },
-       {
-        "code": "SBP 315E",
-        "name": "Human Culture and Environment"
+        "code": "EUT 436E",
+        "name": "Visualization Techniques"
        }
       ]
      }
@@ -1823,52 +1575,48 @@
       ],
       "options": [
        {
-        "code": "EUT 353E",
-        "name": "Historical Interaction of Moderns Art and Design"
-       },
-       {
-        "code": "EUT 429E",
-        "name": "Sustainable Product Design"
-       },
-       {
-        "code": "EUT 434",
-        "name": "Tasarımda Görme"
-       },
-       {
-        "code": "EUT 446E",
-        "name": "Multimedia Design Studio"
-       },
-       {
-        "code": "EUT 448E",
-        "name": "Visual Design"
-       },
-       {
-        "code": "EUT 450E",
-        "name": "Interaction Between 20th Century Art and Design"
-       },
-       {
-        "code": "EUT 454",
-        "name": "Geleneksel El Sanatları"
-       },
-       {
-        "code": "EUT 456",
-        "name": "Moda Aksesuarları Tasarımı"
-       },
-       {
-        "code": "EUT 460E",
-        "name": "Visual Merchandising and Retail Desing"
-       },
-       {
         "code": "ISL 435E",
         "name": "The World Economy at a Glance"
+       },
+       {
+        "code": "MIM 356E",
+        "name": "Photography"
        },
        {
         "code": "MIM 340E",
         "name": "Catering Design"
        },
        {
-        "code": "MIM 356E",
-        "name": "Photography"
+        "code": "EUT 434E",
+        "name": "Seeing in Design"
+       },
+       {
+        "code": "EUT 446E",
+        "name": "Multimedia Design Studio"
+       },
+       {
+        "code": "EUT 429E",
+        "name": "Sustainable Product Design"
+       },
+       {
+        "code": "EUT 450E",
+        "name": "Interaction Between 20th Century Art and Design"
+       },
+       {
+        "code": "EUT 456E",
+        "name": "Fashion Accessories Design"
+       },
+       {
+        "code": "EUT 448E",
+        "name": "Visual Design"
+       },
+       {
+        "code": "EUT 460E",
+        "name": "Visual Merchandising and Retail Desing"
+       },
+       {
+        "code": "EUT 353E",
+        "name": "Historical Interaction of Moderns Art and Design"
        },
        {
         "code": "PEM 410E",
@@ -1877,6 +1625,10 @@
        {
         "code": "PEM 415E",
         "name": "Environmental Aesthetics"
+       },
+       {
+        "code": "EUT 454E",
+        "name": "Traditional Handcrafts"
        }
       ]
      }

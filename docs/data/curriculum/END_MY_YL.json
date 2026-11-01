@@ -30,24 +30,16 @@
       ],
       "options": [
        {
-        "code": "END 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
         "code": "END 596E",
         "name": "Scientific Research, Ethic and Seminar"
-       },
-       {
-        "code": "IKY 596",
-        "name": "Bilimsel Araştırma, Etik ve Seminer"
        },
        {
         "code": "MHY 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "MHY 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
+        "code": "IKY 596",
+        "name": "Bilimsel Araştırma, Etik ve Seminer"
        }
       ]
      }
@@ -66,12 +58,8 @@
         "name": "Engineering Mathematics"
        },
        {
-        "code": "END 500",
-        "name": "Mühendislik Matematiği"
-       },
-       {
-        "code": "MHY 510",
-        "name": "Mühendislik Matematiği"
+        "code": "MHY 510E",
+        "name": "Engineering Mathematics"
        }
       ]
      }
@@ -158,6 +146,22 @@
       ],
       "options": [
        {
+        "code": "END 516",
+        "name": "Lojistik&Tedarik Zinciri Yön."
+       },
+       {
+        "code": "END 513",
+        "name": "İleri Istatistiksel Analiz"
+       },
+       {
+        "code": "END 566E",
+        "name": "Industrial Data Analytics"
+       },
+       {
+        "code": "END 564E",
+        "name": "Integra.Product&Proce.Develop."
+       },
+       {
         "code": "BVA 507E",
         "name": "Business Analytics for Managers"
        },
@@ -168,22 +172,6 @@
        {
         "code": "BVA 533E",
         "name": "Human Resources Analytics"
-       },
-       {
-        "code": "END 513",
-        "name": "İleri Istatistiksel Analiz"
-       },
-       {
-        "code": "END 516",
-        "name": "Lojistik&Tedarik Zinciri Yön."
-       },
-       {
-        "code": "END 564",
-        "name": "Entegre Ürün ve Süreç Geliştirme"
-       },
-       {
-        "code": "END 566E",
-        "name": "Industrial Data Analytics"
        }
       ]
      }

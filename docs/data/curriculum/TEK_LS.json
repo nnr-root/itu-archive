@@ -221,8 +221,28 @@
       ],
       "options": [
        {
-        "code": "ING 102",
-        "name": "English II"
+        "code": "ING 103H",
+        "name": "Public Presentations"
+       },
+       {
+        "code": "ING 103G",
+        "name": "Business Communications"
+       },
+       {
+        "code": "ING 103P",
+        "name": "Poetry"
+       },
+       {
+        "code": "ING 103B",
+        "name": "Business English"
+       },
+       {
+        "code": "ING 103AD",
+        "name": "Advanced English for Engineers"
+       },
+       {
+        "code": "ING 103O",
+        "name": "Psychology"
        },
        {
         "code": "ING 103A",
@@ -233,28 +253,8 @@
         "name": "Urban Ecology"
        },
        {
-        "code": "ING 103AD",
-        "name": "Advanced English for Engineers"
-       },
-       {
-        "code": "ING 103B",
-        "name": "Business English"
-       },
-       {
         "code": "ING 103C",
         "name": "Great Moments in Science"
-       },
-       {
-        "code": "ING 103G",
-        "name": "Business Communications"
-       },
-       {
-        "code": "ING 103H",
-        "name": "Public Presentations"
-       },
-       {
-        "code": "ING 103I",
-        "name": "Short Stories"
        },
        {
         "code": "ING 103L",
@@ -265,12 +265,12 @@
         "name": "Film Studies"
        },
        {
-        "code": "ING 103O",
-        "name": "Psychology"
+        "code": "ING 102",
+        "name": "English II"
        },
        {
-        "code": "ING 103P",
-        "name": "Poetry"
+        "code": "ING 103I",
+        "name": "Short Stories"
        }
       ]
      }
@@ -638,16 +638,16 @@
       ],
       "options": [
        {
-        "code": "CEV 243",
-        "name": "Çevre Kimyası"
+        "code": "CEV 243E",
+        "name": "Environmental Chemistry"
+       },
+       {
+        "code": "TEK 354E",
+        "name": "Mathematical Programming"
        },
        {
         "code": "KIM 210E",
         "name": "Intro to Polymer Chemistry"
-       },
-       {
-        "code": "TEK 354",
-        "name": "Matematik Programlama"
        }
       ]
      }
@@ -704,60 +704,32 @@
       ],
       "options": [
        {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
-       },
-       {
-        "code": "HUK 216",
-        "name": "Telekomünikasyon Hukuku"
-       },
-       {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
-       },
-       {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
-       },
-       {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
         "code": "ISL 465E",
         "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ITB 020E",
-        "name": "Formations of Modernity"
+        "code": "ING 103SC",
+        "name": "Science Communication"
+       },
+       {
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
+       },
+       {
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "ITB 037E",
@@ -776,40 +748,28 @@
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
+       },
+       {
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
+       },
+       {
+        "code": "HUK 218E",
+        "name": "Commercial Law"
+       },
+       {
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
        },
        {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
         "code": "ITB 206E",
@@ -820,60 +780,20 @@
         "name": "Ottoman History"
        },
        {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
         "code": "ITB 209E",
         "name": "Türkiye in World Affairs"
-       },
-       {
-        "code": "ITB 213E",
-        "name": "Toplics in Literature and Society"
-       },
-       {
-        "code": "ITB 215E",
-        "name": "Topics in Hist.and Society"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
        },
        {
         "code": "ITB 217E",
         "name": "Engineering Ethics"
        },
        {
-        "code": "ITB 218E",
-        "name": "History of Science&Technology"
+        "code": "ITB 233E",
+        "name": "Anthropology"
        },
        {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 221E",
-        "name": "Anatolian Archaeology"
-       },
-       {
-        "code": "ITB 222E",
-        "name": "City and Society"
-       },
-       {
-        "code": "ITB 224E",
-        "name": "Environment and Society"
-       },
-       {
-        "code": "ITB 227E",
-        "name": "Political Theory"
-       },
-       {
-        "code": "ITB 228E",
-        "name": "Gender Studies"
+        "code": "ITB 203E",
+        "name": "Sociology"
        },
        {
         "code": "ITB 230E",
@@ -884,12 +804,92 @@
         "name": "Volunteering Studies"
        },
        {
-        "code": "ITB 233E",
-        "name": "Anthropology"
-       },
-       {
         "code": "ITB 234E",
         "name": "The Rise of Civilizations"
+       },
+       {
+        "code": "ITB 213E",
+        "name": "Toplics in Literature and Society"
+       },
+       {
+        "code": "ITB 219E",
+        "name": "Ethics"
+       },
+       {
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 215E",
+        "name": "Topics in Hist.and Society"
+       },
+       {
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
+       },
+       {
+        "code": "ITB 222E",
+        "name": "City and Society"
+       },
+       {
+        "code": "ITB 224E",
+        "name": "Environment and Society"
+       },
+       {
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
+       },
+       {
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
+       },
+       {
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
+        "code": "ITB 227E",
+        "name": "Political Theory"
        }
       ]
      }
@@ -904,172 +904,84 @@
       ],
       "options": [
        {
-        "code": "BEB 120",
-        "name": "Spor ve Temel Bilimler"
+        "code": "TEK 485E",
+        "name": "Cost Accounting"
        },
        {
-        "code": "BEB 121",
-        "name": "Spor ve Teknoloji"
-       },
-       {
-        "code": "HUK 201",
-        "name": "İş Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
-       },
-       {
-        "code": "HUK 216",
-        "name": "Telekomünikasyon Hukuku"
-       },
-       {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
-       },
-       {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
-       },
-       {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
+        "code": "TEK 483E",
+        "name": "Motion and Time Study"
        },
        {
         "code": "ISL 478E",
         "name": "Entrepreneurship"
        },
        {
-        "code": "ITB 020",
-        "name": "Modernitenin Oluşumu"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ITB 020E",
-        "name": "Formations of Modernity"
+        "code": "ING 103SC",
+        "name": "Science Communication"
+       },
+       {
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
+       },
+       {
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
+       },
+       {
+        "code": "HUK 201E",
+        "name": "Labor Law"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "ITB 037E",
         "name": "Knowledge, Language & Logic"
        },
        {
-        "code": "ITB 037",
-        "name": "Bilgi, Dil ve Mantık"
-       },
-       {
         "code": "ITB 087E",
         "name": "Media and Society"
-       },
-       {
-        "code": "ITB 087",
-        "name": "Medya ve Toplum"
        },
        {
         "code": "ITB 094E",
         "name": "International.Rel.and Globali."
        },
        {
-        "code": "ITB 094",
-        "name": "Uluslararası İlişkilerve Küreselleşme"
-       },
-       {
-        "code": "ITB 095",
-        "name": "Teknoloji, Politika ve Hukuk"
-       },
-       {
         "code": "ITB 095E",
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
        },
        {
-        "code": "ITB 143",
-        "name": "Durrel ve Said:Oryanta.Uyg ve"
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
        },
        {
-        "code": "ITB 151",
-        "name": "İnsan Kaynakları Yönetimi"
+        "code": "HUK 218E",
+        "name": "Commercial Law"
+       },
+       {
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
        },
        {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
+        "code": "ITB 212E",
+        "name": "Art,Culture and Society"
        },
        {
-        "code": "ITB 171",
-        "name": "Bilim, Teknoloji ve Toplum"
-       },
-       {
-        "code": "ITB 179",
-        "name": "İçiçe Ayr.Ede.:Vizyone,Seyf.,A"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201",
-        "name": "İnsan ve Topl. Bilim. Giriş"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 202",
-        "name": "Dünya Tarihi"
-       },
-       {
-        "code": "ITB 203",
-        "name": "Sosyoloji"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 204",
-        "name": "Siyaset Bilimi"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
-       },
-       {
-        "code": "ITB 205",
-        "name": "Felsefe"
-       },
-       {
-        "code": "ITB 206",
-        "name": "Dünya Politikasında Meseleler"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
         "code": "ITB 206E",
@@ -1080,148 +992,116 @@
         "name": "Ottoman History"
        },
        {
-        "code": "ITB 207",
-        "name": "Osmanlı Tarihi"
-       },
-       {
-        "code": "ITB 208",
-        "name": "Modern Türkiye'nin Oluşumu"
-       },
-       {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
-        "code": "ITB 209",
-        "name": "Türkiye ve Dünya"
-       },
-       {
         "code": "ITB 209E",
         "name": "Türkiye in World Affairs"
-       },
-       {
-        "code": "ITB 211E",
-        "name": "Istanbul:Hist.,Art and Society"
-       },
-       {
-        "code": "ITB 212E",
-        "name": "Art,Culture and Society"
-       },
-       {
-        "code": "ITB 213E",
-        "name": "Toplics in Literature and Society"
-       },
-       {
-        "code": "ITB 213",
-        "name": "Edebiyat ve Toplum"
-       },
-       {
-        "code": "ITB 215E",
-        "name": "Topics in Hist.and Society"
-       },
-       {
-        "code": "ITB 215",
-        "name": "Tarih ve Toplum"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
-       },
-       {
-        "code": "ITB 216",
-        "name": "Ekonomi ve Toplum"
-       },
-       {
-        "code": "ITB 217",
-        "name": "Mühendislik Etiği"
        },
        {
         "code": "ITB 217E",
         "name": "Engineering Ethics"
        },
        {
-        "code": "ITB 218E",
-        "name": "History of Science&Technology"
+        "code": "ITB 203E",
+        "name": "Sociology"
        },
        {
-        "code": "ITB 218",
-        "name": "Bilim ve Teknoloji Tarihi"
-       },
-       {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 219",
-        "name": "Etik"
-       },
-       {
-        "code": "ITB 220",
-        "name": "Psikoloji"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 221",
-        "name": "Anadolu Arkeolojisi"
-       },
-       {
-        "code": "ITB 222",
-        "name": "Kent ve Toplum"
-       },
-       {
-        "code": "ITB 222E",
-        "name": "City and Society"
-       },
-       {
-        "code": "ITB 224",
-        "name": "Çevre ve Toplum"
-       },
-       {
-        "code": "ITB 224E",
-        "name": "Environment and Society"
-       },
-       {
-        "code": "ITB 226E",
-        "name": "Philosophy of Art"
-       },
-       {
-        "code": "ITB 227E",
-        "name": "Political Theory"
-       },
-       {
-        "code": "ITB 227",
-        "name": "Siyaset Teorisi"
-       },
-       {
-        "code": "ITB 228E",
-        "name": "Gender Studies"
-       },
-       {
-        "code": "ITB 228",
-        "name": "Toplumsal Cinsiyet Çalışmaları"
-       },
-       {
-        "code": "ITB 230",
-        "name": "Afet Bilinci"
+        "code": "ITB 230E",
+        "name": "Disaster Awareness"
        },
        {
         "code": "ITB 231E",
         "name": "Volunteering Studies"
        },
        {
-        "code": "ITB 231",
-        "name": "Gönüllülük Çalışmaları"
+        "code": "ITB 213E",
+        "name": "Toplics in Literature and Society"
        },
        {
-        "code": "TEK 483",
-        "name": "İş ve Zaman Etüdü"
+        "code": "ITB 219E",
+        "name": "Ethics"
        },
        {
-        "code": "TEK 485",
-        "name": "Maliyet Muhasebesi"
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "ITB 215E",
+        "name": "Topics in Hist.and Society"
+       },
+       {
+        "code": "ITB 226E",
+        "name": "Philosophy of Art"
+       },
+       {
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
+       },
+       {
+        "code": "ITB 222E",
+        "name": "City and Society"
+       },
+       {
+        "code": "ITB 224E",
+        "name": "Environment and Society"
+       },
+       {
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
+       },
+       {
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
+       },
+       {
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
+        "code": "ITB 227E",
+        "name": "Political Theory"
+       },
+       {
+        "code": "BEB 121",
+        "name": "Spor ve Teknoloji"
+       },
+       {
+        "code": "BEB 120",
+        "name": "Spor ve Temel Bilimler"
        }
       ]
      }
@@ -1237,56 +1117,56 @@
       ],
       "options": [
        {
-        "code": "TEK 417E",
-        "name": "Technical Yarns"
-       },
-       {
-        "code": "TEK 419E",
-        "name": "Special Woven Fabrics"
+        "code": "TEK 452E",
+        "name": "Knitting Technology II"
        },
        {
         "code": "TEK 441E",
         "name": "Yarn Production Calculations"
        },
        {
-        "code": "TEK 443E",
-        "name": "Weft Knitting"
-       },
-       {
         "code": "TEK 445E",
         "name": "New Yarn Production Processes"
-       },
-       {
-        "code": "TEK 447E",
-        "name": "Ecological Textiles"
-       },
-       {
-        "code": "TEK 449E",
-        "name": "Material Management in Clothing"
        },
        {
         "code": "TEK 451E",
         "name": "Textile Prod.Management &Cntrl"
        },
        {
-        "code": "TEK 452E",
-        "name": "Knitting Technology II"
+        "code": "TEK 419E",
+        "name": "Special Woven Fabrics"
+       },
+       {
+        "code": "TEK 443E",
+        "name": "Weft Knitting"
+       },
+       {
+        "code": "TEK 449E",
+        "name": "Material Management in Clothing"
        },
        {
         "code": "TEK 453E",
         "name": "Synthetic &Textured Yarn Prod."
        },
        {
-        "code": "TEK 456E",
-        "name": "Textile Finishing Auxiliaries"
+        "code": "TEK 459E",
+        "name": "Garment Pattern Making inAppar"
        },
        {
         "code": "TEK 457E",
         "name": "Pre-treatment Processes"
        },
        {
-        "code": "TEK 459E",
-        "name": "Garment Pattern Making inAppar"
+        "code": "TEK 417E",
+        "name": "Technical Yarns"
+       },
+       {
+        "code": "TEK 456E",
+        "name": "Textile Finishing Auxiliaries"
+       },
+       {
+        "code": "TEK 447E",
+        "name": "Ecological Textiles"
        }
       ]
      }
@@ -1302,60 +1182,48 @@
       ],
       "options": [
        {
-        "code": "TEK 417E",
-        "name": "Technical Yarns"
-       },
-       {
-        "code": "TEK 419E",
-        "name": "Special Woven Fabrics"
+        "code": "TEK 452E",
+        "name": "Knitting Technology II"
        },
        {
         "code": "TEK 441E",
         "name": "Yarn Production Calculations"
        },
        {
-        "code": "TEK 447E",
-        "name": "Ecological Textiles"
-       },
-       {
         "code": "TEK 451E",
         "name": "Textile Prod.Management &Cntrl"
        },
        {
-        "code": "TEK 452E",
-        "name": "Knitting Technology II"
+        "code": "TEK 419E",
+        "name": "Special Woven Fabrics"
        },
        {
         "code": "TEK 453E",
         "name": "Synthetic &Textured Yarn Prod."
        },
        {
-        "code": "TEK 453",
-        "name": "Sentetik & Tekstüre İplik Üret"
-       },
-       {
-        "code": "TEK 455",
-        "name": "Dokunmamış Kumaşlar"
-       },
-       {
-        "code": "TEK 456E",
-        "name": "Textile Finishing Auxiliaries"
-       },
-       {
-        "code": "TEK 457",
-        "name": "Ön Terbiye İşlemleri"
+        "code": "TEK 459E",
+        "name": "Garment Pattern Making inAppar"
        },
        {
         "code": "TEK 457E",
         "name": "Pre-treatment Processes"
        },
        {
-        "code": "TEK 459E",
-        "name": "Garment Pattern Making inAppar"
+        "code": "TEK 417E",
+        "name": "Technical Yarns"
        },
        {
-        "code": "TEK 459",
-        "name": "Konfeksiyon Kalıp Hazırlama"
+        "code": "TEK 456E",
+        "name": "Textile Finishing Auxiliaries"
+       },
+       {
+        "code": "TEK 447E",
+        "name": "Ecological Textiles"
+       },
+       {
+        "code": "TEK 455E",
+        "name": "Non-Woven Fabrics"
        }
       ]
      }
@@ -1419,136 +1287,116 @@
       ],
       "options": [
        {
-        "code": "SNT 101",
-        "name": "Heykel Sanatına Bakış"
+        "code": "SNT 105E",
+        "name": "Film Art"
        },
        {
-        "code": "SNT 102",
-        "name": "Fotoğraf"
+        "code": "SNT 101E",
+        "name": "Looking at the Art of Sculpture"
        },
        {
-        "code": "SNT 103",
-        "name": "Desen"
+        "code": "SNT 106E",
+        "name": "Traditional Turkish Art&Crafts"
        },
        {
         "code": "SNT 103E",
         "name": "Drawing"
        },
        {
-        "code": "SNT 104E",
-        "name": "Mythology and Art"
-       },
-       {
-        "code": "SNT 104",
-        "name": "Mitoloji ve Sanat"
-       },
-       {
-        "code": "SNT 105",
-        "name": "Sinema Sanatı"
-       },
-       {
-        "code": "SNT 106",
-        "name": "Geleneks. Türk El Sanatları"
-       },
-       {
-        "code": "SNT 107",
-        "name": "İlkçağ Anadolu Uygarlıkları"
-       },
-       {
-        "code": "SNT 108",
-        "name": "Seramik"
+        "code": "SNT 108E",
+        "name": "Ceramic"
        },
        {
         "code": "SNT 109",
         "name": "Kazı Resim (Gravür)"
        },
        {
-        "code": "SNT 111",
-        "name": "Moda Tasarımı ve Sanat"
+        "code": "SNT 114E",
+        "name": "Contemporary Art"
        },
        {
-        "code": "SNT 112E",
-        "name": "Theater"
+        "code": "SNT 119E",
+        "name": "History of Popular Music"
        },
        {
-        "code": "SNT 112",
-        "name": "Tiyatro"
+        "code": "SNT 226E",
+        "name": "Philosophy of Art"
        },
        {
-        "code": "SNT 113",
-        "name": "Sanat ve Yorum"
-       },
-       {
-        "code": "SNT 114",
-        "name": "Günümüz Sanatı"
-       },
-       {
-        "code": "SNT 115",
-        "name": "Modernite ve Görsel Kültür"
-       },
-       {
-        "code": "SNT 116E",
-        "name": "The Art of Communication"
-       },
-       {
-        "code": "SNT 116",
-        "name": "İletişim Sanatı"
-       },
-       {
-        "code": "SNT 117E",
-        "name": "Jazz Appreciation"
-       },
-       {
-        "code": "SNT 118",
-        "name": "Müzik Arkeolojisi"
-       },
-       {
-        "code": "SNT 119",
-        "name": "Popüler Müzik Tarihi"
-       },
-       {
-        "code": "SNT 121E",
-        "name": "World Music Cultures"
+        "code": "SNT 115E",
+        "name": "Modernity and Visual Culture"
        },
        {
         "code": "SNT 122",
         "name": "Seramik Sanatı"
        },
        {
-        "code": "SNT 123",
-        "name": "Film Yapımı"
+        "code": "SNT 214E",
+        "name": "Performance, Music and Dance"
        },
        {
-        "code": "SNT 123E",
-        "name": "Film Production"
+        "code": "SNT 227E",
+        "name": "Sound and Society"
        },
        {
-        "code": "SNT 211",
-        "name": "İstanbul:Tarih,Sanat ve Toplum"
+        "code": "SNT 112E",
+        "name": "Theater"
        },
        {
-        "code": "SNT 212",
-        "name": "Sanat,Kültür ve Toplum"
+        "code": "SNT 116E",
+        "name": "The Art of Communication"
+       },
+       {
+        "code": "SNT 111",
+        "name": "Moda Tasarımı ve Sanat"
+       },
+       {
+        "code": "SNT 212E",
+        "name": "Art,Culture and Society"
        },
        {
         "code": "SNT 213",
         "name": "Türkiye Müzik Kültürleri"
        },
        {
-        "code": "SNT 214",
-        "name": "Performans, Müzik ve Dans"
+        "code": "SNT 104E",
+        "name": "Mythology and Art"
+       },
+       {
+        "code": "SNT 107E",
+        "name": "Ancient Civilizat.in Anatolia"
+       },
+       {
+        "code": "SNT 118",
+        "name": "Müzik Arkeolojisi"
+       },
+       {
+        "code": "SNT 123E",
+        "name": "Film Production"
+       },
+       {
+        "code": "SNT 113E",
+        "name": "Art and Interpretation"
+       },
+       {
+        "code": "SNT 102E",
+        "name": "Photography"
+       },
+       {
+        "code": "SNT 117E",
+        "name": "Jazz Appreciation"
+       },
+       {
+        "code": "SNT 211E",
+        "name": "Istanbul:Hist.,Art and Society"
        },
        {
         "code": "SNT 215E",
         "name": "Balkan Musics"
        },
        {
-        "code": "SNT 226",
-        "name": "Sanat Felsefesi"
-       },
-       {
-        "code": "SNT 227E",
-        "name": "Sound and Society"
+        "code": "SNT 121E",
+        "name": "World Music Cultures"
        },
        {
         "code": "SNT 228",
@@ -1568,60 +1416,56 @@
       ],
       "options": [
        {
-        "code": "TEK 412E",
-        "name": "Textile Finishing Processes"
+        "code": "TEK 424E",
+        "name": "Design of Knitted Fabrics"
        },
        {
         "code": "TEK 414E",
         "name": "Structure&Properties of Fibers"
        },
        {
-        "code": "TEK 416E",
-        "name": "Garment Design Management"
+        "code": "TEK 478E",
+        "name": "Colour Analysis"
        },
        {
-        "code": "TEK 418E",
-        "name": "Int. to Technical Textiles"
+        "code": "TEK 416E",
+        "name": "Garment Design Management"
        },
        {
         "code": "TEK 422E",
         "name": "Dyeing &Printing Technologies"
        },
        {
-        "code": "TEK 424E",
-        "name": "Design of Knitted Fabrics"
-       },
-       {
         "code": "TEK 426E",
         "name": "Quality Cnt in Tex. &Clot.Prod"
-       },
-       {
-        "code": "TEK 434E",
-        "name": "Int.toSmart Tex.&Wearable Tec."
-       },
-       {
-        "code": "TEK 450",
-        "name": "Yün İplikçilğ Seçilmiş Konular"
-       },
-       {
-        "code": "TEK 454",
-        "name": "Çözgülü Örme"
-       },
-       {
-        "code": "TEK 456",
-        "name": "Tekstil Terbiyesi Yardımcı Mad"
        },
        {
         "code": "TEK 458E",
         "name": "Knitted Apparel Production"
        },
        {
-        "code": "TEK 458",
-        "name": "Örme Kumaş Konfeksiyonu"
+        "code": "TEK 418E",
+        "name": "Int. to Technical Textiles"
        },
        {
-        "code": "TEK 478E",
-        "name": "Colour Analysis"
+        "code": "TEK 454E",
+        "name": "Warp Knitting"
+       },
+       {
+        "code": "TEK 450",
+        "name": "Yün İplikçilğ Seçilmiş Konular"
+       },
+       {
+        "code": "TEK 412E",
+        "name": "Textile Finishing Processes"
+       },
+       {
+        "code": "TEK 434E",
+        "name": "Int.toSmart Tex.&Wearable Tec."
+       },
+       {
+        "code": "TEK 456E",
+        "name": "Textile Finishing Auxiliaries"
        }
       ]
      }
@@ -1637,56 +1481,52 @@
       ],
       "options": [
        {
-        "code": "TEK 412E",
-        "name": "Textile Finishing Processes"
+        "code": "TEK 424E",
+        "name": "Design of Knitted Fabrics"
        },
        {
         "code": "TEK 414E",
         "name": "Structure&Properties of Fibers"
        },
        {
-        "code": "TEK 416E",
-        "name": "Garment Design Management"
+        "code": "TEK 478E",
+        "name": "Colour Analysis"
        },
        {
-        "code": "TEK 418E",
-        "name": "Int. to Technical Textiles"
+        "code": "TEK 416E",
+        "name": "Garment Design Management"
        },
        {
         "code": "TEK 422E",
         "name": "Dyeing &Printing Technologies"
        },
        {
-        "code": "TEK 424E",
-        "name": "Design of Knitted Fabrics"
-       },
-       {
         "code": "TEK 426E",
         "name": "Quality Cnt in Tex. &Clot.Prod"
-       },
-       {
-        "code": "TEK 434E",
-        "name": "Int.toSmart Tex.&Wearable Tec."
        },
        {
         "code": "TEK 458E",
         "name": "Knitted Apparel Production"
        },
        {
-        "code": "TEK 474",
-        "name": "Hazır Giyimde Kalite Kontrol"
+        "code": "TEK 418E",
+        "name": "Int. to Technical Textiles"
+       },
+       {
+        "code": "TEK 474E",
+        "name": "Quality Control in Clothing"
+       },
+       {
+        "code": "TEK 412E",
+        "name": "Textile Finishing Processes"
+       },
+       {
+        "code": "TEK 434E",
+        "name": "Int.toSmart Tex.&Wearable Tec."
        },
        {
         "code": "TEK 476",
         "name": "Fantazi İplikçilik"
-       },
-       {
-        "code": "TEK 478",
-        "name": "Renk Analizi"
-       },
-       {
-        "code": "TEK 478E",
-        "name": "Colour Analysis"
        }
       ]
      }

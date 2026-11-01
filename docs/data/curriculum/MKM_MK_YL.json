@@ -40,10 +40,6 @@
       ],
       "options": [
        {
-        "code": "ELE 519",
-        "name": "Elekt.Müh.Matematiksel Yönt."
-       },
-       {
         "code": "ELE 519E",
         "name": "Mathematical Methods in Electrical Engineering"
        },
@@ -52,15 +48,15 @@
         "name": "Probability Theory&Stochast.Pr"
        },
        {
-        "code": "KOM 505",
-        "name": "Olasılık Kuramı&Rastlan.Süreçl"
-       },
-       {
-        "code": "MDK 501E",
+        "code": "UUM 535E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MDK 501",
+        "code": "MTA 501E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "MOT 501E",
         "name": "Engineering Mathematics"
        },
        {
@@ -68,23 +64,7 @@
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MIA 501",
-        "name": "Engineering Mathematics"
-       },
-       {
         "code": "MKC 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
-        "code": "MKC 501",
-        "name": "Engineering Mathematics"
-       },
-       {
-        "code": "MKS 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
-        "code": "MKS 501",
         "name": "Engineering Mathematics"
        },
        {
@@ -92,28 +72,12 @@
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MMI 501",
-        "name": "Mühendislik Matematiği"
-       },
-       {
-        "code": "MOT 501",
-        "name": "Mühendislik Matematiği"
-       },
-       {
-        "code": "MTA 501E",
+        "code": "MDK 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MTA 501",
-        "name": "Mühendislik Matematiği"
-       },
-       {
-        "code": "UUM 535E",
+        "code": "MKS 501E",
         "name": "Engineering Mathematics"
-       },
-       {
-        "code": "UUM 535",
-        "name": "Mühendislik Matematiği"
        }
       ]
      }
@@ -136,12 +100,12 @@
         "name": "Advanced Cont.Meth.Mechatronic"
        },
        {
-        "code": "MKM 506E",
-        "name": "Modelling&Control of Mech.Sys."
-       },
-       {
         "code": "MKM 512",
         "name": "Mekatronik Sistem Tasarımı"
+       },
+       {
+        "code": "MKM 506E",
+        "name": "Modelling&Control of Mech.Sys."
        }
       ]
      }
@@ -164,12 +128,12 @@
         "name": "Advanced Cont.Meth.Mechatronic"
        },
        {
-        "code": "MKM 506E",
-        "name": "Modelling&Control of Mech.Sys."
-       },
-       {
         "code": "MKM 512",
         "name": "Mekatronik Sistem Tasarımı"
+       },
+       {
+        "code": "MKM 506E",
+        "name": "Modelling&Control of Mech.Sys."
        }
       ]
      }
@@ -192,12 +156,12 @@
         "name": "Advanced Cont.Meth.Mechatronic"
        },
        {
-        "code": "MKM 506E",
-        "name": "Modelling&Control of Mech.Sys."
-       },
-       {
         "code": "MKM 512",
         "name": "Mekatronik Sistem Tasarımı"
+       },
+       {
+        "code": "MKM 506E",
+        "name": "Modelling&Control of Mech.Sys."
        }
       ]
      }

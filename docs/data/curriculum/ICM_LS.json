@@ -313,156 +313,128 @@
       ],
       "options": [
        {
-        "code": "ICM 4018E",
-        "name": "Concepts in History of Arch."
+        "code": "SNT 105E",
+        "name": "Film Art"
        },
        {
-        "code": "ICM 4026",
-        "name": "Sanat ve Kültür Tarihi"
+        "code": "SNT 101E",
+        "name": "Looking at the Art of Sculpture"
        },
        {
-        "code": "ICM 4026E",
-        "name": "History of Art and Culture"
-       },
-       {
-        "code": "SNT 101",
-        "name": "Heykel Sanatına Bakış"
-       },
-       {
-        "code": "SNT 102E",
-        "name": "Photography"
-       },
-       {
-        "code": "SNT 102",
-        "name": "Fotoğraf"
-       },
-       {
-        "code": "SNT 103",
-        "name": "Desen"
+        "code": "SNT 106E",
+        "name": "Traditional Turkish Art&Crafts"
        },
        {
         "code": "SNT 103E",
         "name": "Drawing"
        },
        {
-        "code": "SNT 104",
-        "name": "Mitoloji ve Sanat"
-       },
-       {
-        "code": "SNT 104E",
-        "name": "Mythology and Art"
-       },
-       {
-        "code": "SNT 105",
-        "name": "Sinema Sanatı"
-       },
-       {
-        "code": "SNT 106",
-        "name": "Geleneks. Türk El Sanatları"
-       },
-       {
-        "code": "SNT 107",
-        "name": "İlkçağ Anadolu Uygarlıkları"
-       },
-       {
-        "code": "SNT 108",
-        "name": "Seramik"
+        "code": "SNT 108E",
+        "name": "Ceramic"
        },
        {
         "code": "SNT 109",
         "name": "Kazı Resim (Gravür)"
        },
        {
-        "code": "SNT 111",
-        "name": "Moda Tasarımı ve Sanat"
+        "code": "SNT 114E",
+        "name": "Contemporary Art"
        },
        {
-        "code": "SNT 112E",
-        "name": "Theater"
+        "code": "SNT 119E",
+        "name": "History of Popular Music"
        },
        {
-        "code": "SNT 112",
-        "name": "Tiyatro"
+        "code": "SNT 226E",
+        "name": "Philosophy of Art"
        },
        {
-        "code": "SNT 113",
-        "name": "Sanat ve Yorum"
-       },
-       {
-        "code": "SNT 114",
-        "name": "Günümüz Sanatı"
-       },
-       {
-        "code": "SNT 115",
-        "name": "Modernite ve Görsel Kültür"
-       },
-       {
-        "code": "SNT 116E",
-        "name": "The Art of Communication"
-       },
-       {
-        "code": "SNT 116",
-        "name": "İletişim Sanatı"
-       },
-       {
-        "code": "SNT 117E",
-        "name": "Jazz Appreciation"
-       },
-       {
-        "code": "SNT 118",
-        "name": "Müzik Arkeolojisi"
-       },
-       {
-        "code": "SNT 119",
-        "name": "Popüler Müzik Tarihi"
-       },
-       {
-        "code": "SNT 121E",
-        "name": "World Music Cultures"
+        "code": "SNT 115E",
+        "name": "Modernity and Visual Culture"
        },
        {
         "code": "SNT 122",
         "name": "Seramik Sanatı"
        },
        {
-        "code": "SNT 123",
-        "name": "Film Yapımı"
-       },
-       {
-        "code": "SNT 123E",
-        "name": "Film Production"
-       },
-       {
-        "code": "SNT 211",
-        "name": "İstanbul:Tarih,Sanat ve Toplum"
-       },
-       {
-        "code": "SNT 212",
-        "name": "Sanat,Kültür ve Toplum"
-       },
-       {
-        "code": "SNT 213",
-        "name": "Türkiye Müzik Kültürleri"
-       },
-       {
-        "code": "SNT 214",
-        "name": "Performans, Müzik ve Dans"
-       },
-       {
-        "code": "SNT 215E",
-        "name": "Balkan Musics"
-       },
-       {
-        "code": "SNT 226",
-        "name": "Sanat Felsefesi"
+        "code": "SNT 214E",
+        "name": "Performance, Music and Dance"
        },
        {
         "code": "SNT 227E",
         "name": "Sound and Society"
        },
        {
+        "code": "SNT 112E",
+        "name": "Theater"
+       },
+       {
+        "code": "SNT 116E",
+        "name": "The Art of Communication"
+       },
+       {
+        "code": "SNT 111",
+        "name": "Moda Tasarımı ve Sanat"
+       },
+       {
+        "code": "SNT 212E",
+        "name": "Art,Culture and Society"
+       },
+       {
+        "code": "SNT 213",
+        "name": "Türkiye Müzik Kültürleri"
+       },
+       {
+        "code": "SNT 104E",
+        "name": "Mythology and Art"
+       },
+       {
+        "code": "SNT 107E",
+        "name": "Ancient Civilizat.in Anatolia"
+       },
+       {
+        "code": "SNT 118",
+        "name": "Müzik Arkeolojisi"
+       },
+       {
+        "code": "SNT 123E",
+        "name": "Film Production"
+       },
+       {
+        "code": "SNT 113E",
+        "name": "Art and Interpretation"
+       },
+       {
+        "code": "SNT 102E",
+        "name": "Photography"
+       },
+       {
+        "code": "SNT 117E",
+        "name": "Jazz Appreciation"
+       },
+       {
+        "code": "SNT 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "SNT 215E",
+        "name": "Balkan Musics"
+       },
+       {
+        "code": "SNT 121E",
+        "name": "World Music Cultures"
+       },
+       {
         "code": "SNT 228",
         "name": "Müzik ve Politika"
+       },
+       {
+        "code": "ICM 4018E",
+        "name": "Concepts in History of Arch."
+       },
+       {
+        "code": "ICM 4026E",
+        "name": "History of Art and Culture"
        },
        {
         "code": "SNT 229",
@@ -616,6 +588,46 @@
       ],
       "options": [
        {
+        "code": "GSB 333E",
+        "name": "Imrovized Play and Actıng"
+       },
+       {
+        "code": "GSB 363E",
+        "name": "Ceramic Applications in Archi."
+       },
+       {
+        "code": "GSB 313E",
+        "name": "Drawing in Architecture"
+       },
+       {
+        "code": "GSB 343E",
+        "name": "Visual Analysis"
+       },
+       {
+        "code": "GSB 323E",
+        "name": "Photography and Architecture"
+       },
+       {
+        "code": "ICM 4014E",
+        "name": "Textile in Interior Design"
+       },
+       {
+        "code": "ICM 4035E",
+        "name": "Social Transform.,Gender&Space"
+       },
+       {
+        "code": "ICM 4032",
+        "name": "Mimari Üsluplar"
+       },
+       {
+        "code": "ENT 350E",
+        "name": "Contemporary Furniture Design"
+       },
+       {
+        "code": "ENT 343E",
+        "name": "Typography"
+       },
+       {
         "code": "ENT 324E",
         "name": "Semiology&Semantics in Design"
        },
@@ -624,84 +636,124 @@
         "name": "Design and Form"
        },
        {
-        "code": "ENT 343E",
-        "name": "Typography"
-       },
-       {
-        "code": "ENT 350E",
-        "name": "Contemporary Furniture Design"
-       },
-       {
-        "code": "ENT 354E",
-        "name": "Emotional Design"
-       },
-       {
-        "code": "ENT 359E",
-        "name": "Advanced Modelmaking Techn."
-       },
-       {
         "code": "ENT 365E",
         "name": "Fund. of Design Thinking"
-       },
-       {
-        "code": "ENT 371E",
-        "name": "Bio-inspired Design"
-       },
-       {
-        "code": "ENT 374E",
-        "name": "Graphic Design"
        },
        {
         "code": "ENT 448E",
         "name": "Visual Design"
        },
        {
-        "code": "GSB 313E",
-        "name": "Drawing in Architecture"
+        "code": "MIM 4031E",
+        "name": "Architect Sinan"
        },
        {
-        "code": "GSB 323E",
-        "name": "Photography and Architecture"
+        "code": "MIM 4049E",
+        "name": "Dsgn Princ of Buildng Elements"
        },
        {
-        "code": "GSB 333E",
-        "name": "Imrovized Play and Actıng"
+        "code": "MIM 4023E",
+        "name": "Material Selection in Construction"
        },
        {
-        "code": "GSB 343E",
-        "name": "Visual Analysis"
+        "code": "MIM 4010E",
+        "name": "Theories of Architectural Dsgn"
        },
        {
-        "code": "GSB 363E",
-        "name": "Ceramic Applications in Archi."
+        "code": "MIM 4013E",
+        "name": "Architecture and Its Effects"
+       },
+       {
+        "code": "MIM 4022E",
+        "name": "Building, Climate and Energy Relations"
+       },
+       {
+        "code": "MIM 4014E",
+        "name": "Design with Natural Aspects"
+       },
+       {
+        "code": "MIM 4017E",
+        "name": "Contemporary Building Materials"
+       },
+       {
+        "code": "MIM 4050E",
+        "name": "Free Hand Draw.in Architecture"
+       },
+       {
+        "code": "MIM 4056E",
+        "name": "Design & Fabric.Tech. in Arch."
+       },
+       {
+        "code": "MIM 4072E",
+        "name": "Architecture,Cities and Cinema"
+       },
+       {
+        "code": "MIM 4029E",
+        "name": "Solar Architecture"
+       },
+       {
+        "code": "MIM 4061E",
+        "name": "Desg.Draw.:Pract.&Concep.Appr."
+       },
+       {
+        "code": "PEM 4011E",
+        "name": "Environmental Aesthetics"
+       },
+       {
+        "code": "MIM 4011E",
+        "name": "Photography"
+       },
+       {
+        "code": "MIM 4019E",
+        "name": "Detail Design and Principles"
+       },
+       {
+        "code": "MIM 4028",
+        "name": "Mimari Tasarım & Yapımda Ahşap"
+       },
+       {
+        "code": "MIM 4030",
+        "name": "Kültür&Sanat Merkez.Aydınlatma"
+       },
+       {
+        "code": "MIM 4032E",
+        "name": "Garden Designs in History and Architecture"
+       },
+       {
+        "code": "MIM 4036E",
+        "name": "Representation and Presentation in Architecture"
+       },
+       {
+        "code": "MIM 4043E",
+        "name": "Layers of Istanbul"
+       },
+       {
+        "code": "MIM 4045E",
+        "name": "Design Economics"
+       },
+       {
+        "code": "MIM 4052E",
+        "name": "Cities and Architecture"
+       },
+       {
+        "code": "MIM 4067E",
+        "name": "Det.Dsgn.Meth.ofContemp.Arch."
+       },
+       {
+        "code": "MIM 4071E",
+        "name": "The Changing Workplace"
        },
        {
         "code": "ICM 4012E",
         "name": "Building Biology and Ecology"
        },
        {
-        "code": "ICM 4013",
-        "name": "Cevresel Psikoloji"
-       },
-       {
         "code": "ICM 4013E",
         "name": "Environmental Psychology"
        },
        {
-        "code": "ICM 4014",
-        "name": "İç Mimarlıkta Tekstil"
-       },
-       {
-        "code": "ICM 4014E",
-        "name": "Textile in Interior Design"
-       },
-       {
         "code": "ICM 4015",
         "name": "Mağaza Tasarımında Kimlik"
-       },
-       {
-        "code": "ICM 4016",
-        "name": "Tasarım Kültürü"
        },
        {
         "code": "ICM 4016E",
@@ -732,16 +784,8 @@
         "name": "Mater.&Finish.in Furnit.Design"
        },
        {
-        "code": "ICM 4032",
-        "name": "Mimari Üsluplar"
-       },
-       {
         "code": "ICM 4033E",
         "name": "Model Making in Interior Arch."
-       },
-       {
-        "code": "ICM 4035E",
-        "name": "Social Transform.,Gender&Space"
        },
        {
         "code": "ICM 4037E",
@@ -768,128 +812,24 @@
         "name": "Yacht Interioris Design"
        },
        {
-        "code": "MIM 4010",
-        "name": "Mimari Tasarım Kuramları"
+        "code": "ENT 354E",
+        "name": "Emotional Design"
        },
        {
-        "code": "MIM 4010E",
-        "name": "Theories of Architectural Dsgn"
+        "code": "ENT 359E",
+        "name": "Advanced Modelmaking Techn."
        },
        {
-        "code": "MIM 4011",
-        "name": "Fotoğraf"
+        "code": "ENT 371E",
+        "name": "Bio-inspired Design"
        },
        {
-        "code": "MIM 4011E",
-        "name": "Photography"
-       },
-       {
-        "code": "MIM 4013E",
-        "name": "Architecture and Its Effects"
-       },
-       {
-        "code": "MIM 4014",
-        "name": "Doğal Verilerle Tasarım"
-       },
-       {
-        "code": "MIM 4014E",
-        "name": "Design with Natural Aspects"
-       },
-       {
-        "code": "MIM 4017",
-        "name": "Çağdaş Yapı Malzemeleri"
-       },
-       {
-        "code": "MIM 4019",
-        "name": "Detay Tasrm & Temel İlkeleri"
-       },
-       {
-        "code": "MIM 4022",
-        "name": "Bina, İklim, Enerji İlişkileri"
-       },
-       {
-        "code": "MIM 4023",
-        "name": "Yapıda Malzeme Seçimi"
-       },
-       {
-        "code": "MIM 4028",
-        "name": "Mimari Tasarım & Yapımda Ahşap"
-       },
-       {
-        "code": "MIM 4029",
-        "name": "Güneş Mimarisi"
-       },
-       {
-        "code": "MIM 4030",
-        "name": "Kültür&Sanat Merkez.Aydınlatma"
-       },
-       {
-        "code": "MIM 4031",
-        "name": "Mimar Sinan"
-       },
-       {
-        "code": "MIM 4031E",
-        "name": "Architect Sinan"
-       },
-       {
-        "code": "MIM 4032",
-        "name": "Tarihte Bahçe Tasarımları&Mim."
-       },
-       {
-        "code": "MIM 4036",
-        "name": "Mimarlıkta Temsil ve Sunum"
-       },
-       {
-        "code": "MIM 4043",
-        "name": "İstanbul Katmanları"
-       },
-       {
-        "code": "MIM 4045",
-        "name": "Tasarım Ekonomisi"
-       },
-       {
-        "code": "MIM 4049E",
-        "name": "Dsgn Princ of Buildng Elements"
-       },
-       {
-        "code": "MIM 4050E",
-        "name": "Free Hand Draw.in Architecture"
-       },
-       {
-        "code": "MIM 4052E",
-        "name": "Cities and Architecture"
-       },
-       {
-        "code": "MIM 4056E",
-        "name": "Design & Fabric.Tech. in Arch."
-       },
-       {
-        "code": "MIM 4061E",
-        "name": "Desg.Draw.:Pract.&Concep.Appr."
-       },
-       {
-        "code": "MIM 4067E",
-        "name": "Det.Dsgn.Meth.ofContemp.Arch."
-       },
-       {
-        "code": "MIM 4071E",
-        "name": "The Changing Workplace"
-       },
-       {
-        "code": "MIM 4072E",
-        "name": "Architecture,Cities and Cinema"
+        "code": "ENT 374E",
+        "name": "Graphic Design"
        },
        {
         "code": "MYZ 306E",
         "name": "Artificial Intelligence in Architecture, Planning and Design"
-       },
-       {
-        "code": "MYZ 306",
-        "name": "Mimarlık, Planlama ve Tasarımda Yapay Zeka"
-       },
-       {
-        "code": "PEM 4011E",
-        "name": "Environmental Aesthetics"
        }
       ]
      }
@@ -904,6 +844,46 @@
       ],
       "options": [
        {
+        "code": "GSB 333E",
+        "name": "Imrovized Play and Actıng"
+       },
+       {
+        "code": "GSB 363E",
+        "name": "Ceramic Applications in Archi."
+       },
+       {
+        "code": "GSB 313E",
+        "name": "Drawing in Architecture"
+       },
+       {
+        "code": "GSB 343E",
+        "name": "Visual Analysis"
+       },
+       {
+        "code": "GSB 323E",
+        "name": "Photography and Architecture"
+       },
+       {
+        "code": "ICM 4014E",
+        "name": "Textile in Interior Design"
+       },
+       {
+        "code": "ICM 4035E",
+        "name": "Social Transform.,Gender&Space"
+       },
+       {
+        "code": "ICM 4032",
+        "name": "Mimari Üsluplar"
+       },
+       {
+        "code": "ENT 350E",
+        "name": "Contemporary Furniture Design"
+       },
+       {
+        "code": "ENT 343E",
+        "name": "Typography"
+       },
+       {
         "code": "ENT 324E",
         "name": "Semiology&Semantics in Design"
        },
@@ -912,84 +892,128 @@
         "name": "Design and Form"
        },
        {
-        "code": "ENT 343E",
-        "name": "Typography"
-       },
-       {
-        "code": "ENT 350E",
-        "name": "Contemporary Furniture Design"
-       },
-       {
-        "code": "ENT 354E",
-        "name": "Emotional Design"
-       },
-       {
-        "code": "ENT 359E",
-        "name": "Advanced Modelmaking Techn."
-       },
-       {
         "code": "ENT 365E",
         "name": "Fund. of Design Thinking"
-       },
-       {
-        "code": "ENT 371E",
-        "name": "Bio-inspired Design"
-       },
-       {
-        "code": "ENT 374E",
-        "name": "Graphic Design"
        },
        {
         "code": "ENT 448E",
         "name": "Visual Design"
        },
        {
-        "code": "GSB 313E",
-        "name": "Drawing in Architecture"
+        "code": "MIM 4031E",
+        "name": "Architect Sinan"
        },
        {
-        "code": "GSB 323E",
-        "name": "Photography and Architecture"
+        "code": "MIM 4049E",
+        "name": "Dsgn Princ of Buildng Elements"
        },
        {
-        "code": "GSB 333E",
-        "name": "Imrovized Play and Actıng"
+        "code": "MIM 4023E",
+        "name": "Material Selection in Construction"
        },
        {
-        "code": "GSB 343E",
-        "name": "Visual Analysis"
+        "code": "MIM 4010E",
+        "name": "Theories of Architectural Dsgn"
        },
        {
-        "code": "GSB 363E",
-        "name": "Ceramic Applications in Archi."
+        "code": "MIM 4013E",
+        "name": "Architecture and Its Effects"
+       },
+       {
+        "code": "MIM 4022E",
+        "name": "Building, Climate and Energy Relations"
+       },
+       {
+        "code": "MIM 4014E",
+        "name": "Design with Natural Aspects"
+       },
+       {
+        "code": "MIM 4017E",
+        "name": "Contemporary Building Materials"
+       },
+       {
+        "code": "MIM 4050E",
+        "name": "Free Hand Draw.in Architecture"
+       },
+       {
+        "code": "MIM 4056E",
+        "name": "Design & Fabric.Tech. in Arch."
+       },
+       {
+        "code": "MIM 4072E",
+        "name": "Architecture,Cities and Cinema"
+       },
+       {
+        "code": "MIM 4029E",
+        "name": "Solar Architecture"
+       },
+       {
+        "code": "MIM 4061E",
+        "name": "Desg.Draw.:Pract.&Concep.Appr."
+       },
+       {
+        "code": "PEM 4011E",
+        "name": "Environmental Aesthetics"
+       },
+       {
+        "code": "MIM 4011E",
+        "name": "Photography"
+       },
+       {
+        "code": "MIM 4019E",
+        "name": "Detail Design and Principles"
+       },
+       {
+        "code": "MIM 4028",
+        "name": "Mimari Tasarım & Yapımda Ahşap"
+       },
+       {
+        "code": "MIM 4030",
+        "name": "Kültür&Sanat Merkez.Aydınlatma"
+       },
+       {
+        "code": "MIM 4032E",
+        "name": "Garden Designs in History and Architecture"
+       },
+       {
+        "code": "MIM 4036E",
+        "name": "Representation and Presentation in Architecture"
+       },
+       {
+        "code": "MIM 4043E",
+        "name": "Layers of Istanbul"
+       },
+       {
+        "code": "MIM 4045E",
+        "name": "Design Economics"
+       },
+       {
+        "code": "MIM 4051E",
+        "name": "Utl.ofConcrete Tech.in Arch"
+       },
+       {
+        "code": "MIM 4052E",
+        "name": "Cities and Architecture"
+       },
+       {
+        "code": "MIM 4067E",
+        "name": "Det.Dsgn.Meth.ofContemp.Arch."
+       },
+       {
+        "code": "MIM 4071E",
+        "name": "The Changing Workplace"
        },
        {
         "code": "ICM 4012E",
         "name": "Building Biology and Ecology"
        },
        {
-        "code": "ICM 4013",
-        "name": "Cevresel Psikoloji"
-       },
-       {
         "code": "ICM 4013E",
         "name": "Environmental Psychology"
        },
        {
-        "code": "ICM 4014",
-        "name": "İç Mimarlıkta Tekstil"
-       },
-       {
-        "code": "ICM 4014E",
-        "name": "Textile in Interior Design"
-       },
-       {
         "code": "ICM 4015",
         "name": "Mağaza Tasarımında Kimlik"
-       },
-       {
-        "code": "ICM 4016",
-        "name": "Tasarım Kültürü"
        },
        {
         "code": "ICM 4016E",
@@ -1020,16 +1044,8 @@
         "name": "Mater.&Finish.in Furnit.Design"
        },
        {
-        "code": "ICM 4032",
-        "name": "Mimari Üsluplar"
-       },
-       {
         "code": "ICM 4033E",
         "name": "Model Making in Interior Arch."
-       },
-       {
-        "code": "ICM 4035E",
-        "name": "Social Transform.,Gender&Space"
        },
        {
         "code": "ICM 4037E",
@@ -1056,132 +1072,24 @@
         "name": "Yacht Interioris Design"
        },
        {
-        "code": "MIM 4010",
-        "name": "Mimari Tasarım Kuramları"
+        "code": "ENT 354E",
+        "name": "Emotional Design"
        },
        {
-        "code": "MIM 4010E",
-        "name": "Theories of Architectural Dsgn"
+        "code": "ENT 359E",
+        "name": "Advanced Modelmaking Techn."
        },
        {
-        "code": "MIM 4011",
-        "name": "Fotoğraf"
+        "code": "ENT 371E",
+        "name": "Bio-inspired Design"
        },
        {
-        "code": "MIM 4011E",
-        "name": "Photography"
-       },
-       {
-        "code": "MIM 4013E",
-        "name": "Architecture and Its Effects"
-       },
-       {
-        "code": "MIM 4014",
-        "name": "Doğal Verilerle Tasarım"
-       },
-       {
-        "code": "MIM 4014E",
-        "name": "Design with Natural Aspects"
-       },
-       {
-        "code": "MIM 4017",
-        "name": "Çağdaş Yapı Malzemeleri"
-       },
-       {
-        "code": "MIM 4019",
-        "name": "Detay Tasrm & Temel İlkeleri"
-       },
-       {
-        "code": "MIM 4022",
-        "name": "Bina, İklim, Enerji İlişkileri"
-       },
-       {
-        "code": "MIM 4023",
-        "name": "Yapıda Malzeme Seçimi"
-       },
-       {
-        "code": "MIM 4028",
-        "name": "Mimari Tasarım & Yapımda Ahşap"
-       },
-       {
-        "code": "MIM 4029",
-        "name": "Güneş Mimarisi"
-       },
-       {
-        "code": "MIM 4030",
-        "name": "Kültür&Sanat Merkez.Aydınlatma"
-       },
-       {
-        "code": "MIM 4031",
-        "name": "Mimar Sinan"
-       },
-       {
-        "code": "MIM 4031E",
-        "name": "Architect Sinan"
-       },
-       {
-        "code": "MIM 4032",
-        "name": "Tarihte Bahçe Tasarımları&Mim."
-       },
-       {
-        "code": "MIM 4036",
-        "name": "Mimarlıkta Temsil ve Sunum"
-       },
-       {
-        "code": "MIM 4043",
-        "name": "İstanbul Katmanları"
-       },
-       {
-        "code": "MIM 4045",
-        "name": "Tasarım Ekonomisi"
-       },
-       {
-        "code": "MIM 4049E",
-        "name": "Dsgn Princ of Buildng Elements"
-       },
-       {
-        "code": "MIM 4050E",
-        "name": "Free Hand Draw.in Architecture"
-       },
-       {
-        "code": "MIM 4051E",
-        "name": "Utl.ofConcrete Tech.in Arch"
-       },
-       {
-        "code": "MIM 4052E",
-        "name": "Cities and Architecture"
-       },
-       {
-        "code": "MIM 4056E",
-        "name": "Design & Fabric.Tech. in Arch."
-       },
-       {
-        "code": "MIM 4061E",
-        "name": "Desg.Draw.:Pract.&Concep.Appr."
-       },
-       {
-        "code": "MIM 4067E",
-        "name": "Det.Dsgn.Meth.ofContemp.Arch."
-       },
-       {
-        "code": "MIM 4071E",
-        "name": "The Changing Workplace"
-       },
-       {
-        "code": "MIM 4072E",
-        "name": "Architecture,Cities and Cinema"
+        "code": "ENT 374E",
+        "name": "Graphic Design"
        },
        {
         "code": "MYZ 306E",
         "name": "Artificial Intelligence in Architecture, Planning and Design"
-       },
-       {
-        "code": "MYZ 306",
-        "name": "Mimarlık, Planlama ve Tasarımda Yapay Zeka"
-       },
-       {
-        "code": "PEM 4011E",
-        "name": "Environmental Aesthetics"
        }
       ]
      }
@@ -1238,48 +1146,140 @@
       ],
       "options": [
        {
-        "code": "ENT 354E",
-        "name": "Emotional Design"
+        "code": "GSB 363E",
+        "name": "Ceramic Applications in Archi."
        },
        {
-        "code": "ENT 365E",
-        "name": "Fund. of Design Thinking"
+        "code": "GSB 343E",
+        "name": "Visual Analysis"
        },
        {
-        "code": "ENT 371E",
-        "name": "Bio-inspired Design"
-       },
-       {
-        "code": "ENT 434E",
-        "name": "Seeing in Design"
+        "code": "ICM 4032",
+        "name": "Mimari Üsluplar"
        },
        {
         "code": "ENT 446E",
         "name": "Multimedia Design Studio"
        },
        {
+        "code": "ENT 434E",
+        "name": "Seeing in Design"
+       },
+       {
+        "code": "ENT 365E",
+        "name": "Fund. of Design Thinking"
+       },
+       {
         "code": "ENT 448E",
         "name": "Visual Design"
        },
        {
-        "code": "ENT 453E",
-        "name": "Basic Princip. of Yacht Dsgn"
+        "code": "MIM 4031E",
+        "name": "Architect Sinan"
        },
        {
-        "code": "ENT 454E",
-        "name": "Traditional Handcrafts"
+        "code": "MIM 4049E",
+        "name": "Dsgn Princ of Buildng Elements"
        },
        {
-        "code": "ENT 460E",
-        "name": "Intrct Btwn 20th Cnt Art& Dsgn"
+        "code": "MIM 4066E",
+        "name": "Generating Livable Environment"
        },
        {
-        "code": "GSB 343",
-        "name": "Görsel Analiz"
+        "code": "MIM 4023E",
+        "name": "Material Selection in Construction"
        },
        {
-        "code": "GSB 363E",
-        "name": "Ceramic Applications in Archi."
+        "code": "MIM 4010E",
+        "name": "Theories of Architectural Dsgn"
+       },
+       {
+        "code": "MIM 4022E",
+        "name": "Building, Climate and Energy Relations"
+       },
+       {
+        "code": "MIM 4014E",
+        "name": "Design with Natural Aspects"
+       },
+       {
+        "code": "MIM 4017E",
+        "name": "Contemporary Building Materials"
+       },
+       {
+        "code": "MIM 4050E",
+        "name": "Free Hand Draw.in Architecture"
+       },
+       {
+        "code": "MIM 4056E",
+        "name": "Design & Fabric.Tech. in Arch."
+       },
+       {
+        "code": "MIM 4072E",
+        "name": "Architecture,Cities and Cinema"
+       },
+       {
+        "code": "MIM 4029E",
+        "name": "Solar Architecture"
+       },
+       {
+        "code": "MIM 4061E",
+        "name": "Desg.Draw.:Pract.&Concep.Appr."
+       },
+       {
+        "code": "SBP 4027E",
+        "name": "Large Scale Urban Projects"
+       },
+       {
+        "code": "SBP 4039E",
+        "name": "Urban Geography&Inequalities"
+       },
+       {
+        "code": "SBP 4019E",
+        "name": "Urban Identity and Image"
+       },
+       {
+        "code": "MIM 4011E",
+        "name": "Photography"
+       },
+       {
+        "code": "MIM 4028",
+        "name": "Mimari Tasarım & Yapımda Ahşap"
+       },
+       {
+        "code": "MIM 4030",
+        "name": "Kültür&Sanat Merkez.Aydınlatma"
+       },
+       {
+        "code": "MIM 4032E",
+        "name": "Garden Designs in History and Architecture"
+       },
+       {
+        "code": "MIM 4043E",
+        "name": "Layers of Istanbul"
+       },
+       {
+        "code": "MIM 4045E",
+        "name": "Design Economics"
+       },
+       {
+        "code": "MIM 4047E",
+        "name": "Energy Efficient Housing"
+       },
+       {
+        "code": "MIM 4059E",
+        "name": "Architecture Today"
+       },
+       {
+        "code": "MIM 4064E",
+        "name": "Mdrn Cncpts of Archtctrl Consv"
+       },
+       {
+        "code": "MIM 4067E",
+        "name": "Det.Dsgn.Meth.ofContemp.Arch."
+       },
+       {
+        "code": "MIM 4073E",
+        "name": "Building Constructn Techniques"
        },
        {
         "code": "ICM 4011E",
@@ -1290,16 +1290,8 @@
         "name": "Building Biology and Ecology"
        },
        {
-        "code": "ICM 4013",
-        "name": "Cevresel Psikoloji"
-       },
-       {
         "code": "ICM 4013E",
         "name": "Environmental Psychology"
-       },
-       {
-        "code": "ICM 4016",
-        "name": "Tasarım Kültürü"
        },
        {
         "code": "ICM 4016E",
@@ -1322,10 +1314,6 @@
         "name": "Mater.&Finish.in Furnit.Design"
        },
        {
-        "code": "ICM 4032",
-        "name": "Mimari Üsluplar"
-       },
-       {
         "code": "ICM 4036E",
         "name": "Soc.Clt.Life&Sp.intheOtt.Emp."
        },
@@ -1338,126 +1326,6 @@
         "name": "Sustainability in Inter.Arch."
        },
        {
-        "code": "MIM 4010",
-        "name": "Mimari Tasarım Kuramları"
-       },
-       {
-        "code": "MIM 4010E",
-        "name": "Theories of Architectural Dsgn"
-       },
-       {
-        "code": "MIM 4011",
-        "name": "Fotoğraf"
-       },
-       {
-        "code": "MIM 4011E",
-        "name": "Photography"
-       },
-       {
-        "code": "MIM 4014",
-        "name": "Doğal Verilerle Tasarım"
-       },
-       {
-        "code": "MIM 4014E",
-        "name": "Design with Natural Aspects"
-       },
-       {
-        "code": "MIM 4017",
-        "name": "Çağdaş Yapı Malzemeleri"
-       },
-       {
-        "code": "MIM 4022",
-        "name": "Bina, İklim, Enerji İlişkileri"
-       },
-       {
-        "code": "MIM 4023",
-        "name": "Yapıda Malzeme Seçimi"
-       },
-       {
-        "code": "MIM 4028",
-        "name": "Mimari Tasarım & Yapımda Ahşap"
-       },
-       {
-        "code": "MIM 4029",
-        "name": "Güneş Mimarisi"
-       },
-       {
-        "code": "MIM 4030",
-        "name": "Kültür&Sanat Merkez.Aydınlatma"
-       },
-       {
-        "code": "MIM 4031",
-        "name": "Mimar Sinan"
-       },
-       {
-        "code": "MIM 4031E",
-        "name": "Architect Sinan"
-       },
-       {
-        "code": "MIM 4032",
-        "name": "Tarihte Bahçe Tasarımları&Mim."
-       },
-       {
-        "code": "MIM 4043",
-        "name": "İstanbul Katmanları"
-       },
-       {
-        "code": "MIM 4045",
-        "name": "Tasarım Ekonomisi"
-       },
-       {
-        "code": "MIM 4047E",
-        "name": "Energy Efficient Housing"
-       },
-       {
-        "code": "MIM 4049E",
-        "name": "Dsgn Princ of Buildng Elements"
-       },
-       {
-        "code": "MIM 4050E",
-        "name": "Free Hand Draw.in Architecture"
-       },
-       {
-        "code": "MIM 4056E",
-        "name": "Design & Fabric.Tech. in Arch."
-       },
-       {
-        "code": "MIM 4059E",
-        "name": "Architecture Today"
-       },
-       {
-        "code": "MIM 4061E",
-        "name": "Desg.Draw.:Pract.&Concep.Appr."
-       },
-       {
-        "code": "MIM 4064E",
-        "name": "Mdrn Cncpts of Archtctrl Consv"
-       },
-       {
-        "code": "MIM 4066E",
-        "name": "Generating Livable Environment"
-       },
-       {
-        "code": "MIM 4067E",
-        "name": "Det.Dsgn.Meth.ofContemp.Arch."
-       },
-       {
-        "code": "MIM 4072E",
-        "name": "Architecture,Cities and Cinema"
-       },
-       {
-        "code": "MIM 4073E",
-        "name": "Building Constructn Techniques"
-       },
-       {
-        "code": "MYZ 306E",
-        "name": "Artificial Intelligence in Architecture, Planning and Design"
-       },
-       {
-        "code": "MYZ 306",
-        "name": "Mimarlık, Planlama ve Tasarımda Yapay Zeka"
-       },
-       {
         "code": "PEM 4015E",
         "name": "Experim.Studies on Place&Desg"
        },
@@ -1466,16 +1334,28 @@
         "name": "Urban Furniture and Space"
        },
        {
-        "code": "SBP 4019",
-        "name": "Kentsel Kimlik ve İmge"
+        "code": "ENT 354E",
+        "name": "Emotional Design"
        },
        {
-        "code": "SBP 4027E",
-        "name": "Large Scale Urban Projects"
+        "code": "ENT 371E",
+        "name": "Bio-inspired Design"
        },
        {
-        "code": "SBP 4039E",
-        "name": "Urban Geography&Inequalities"
+        "code": "ENT 453E",
+        "name": "Basic Princip. of Yacht Dsgn"
+       },
+       {
+        "code": "ENT 454E",
+        "name": "Traditional Handcrafts"
+       },
+       {
+        "code": "ENT 460E",
+        "name": "Intrct Btwn 20th Cnt Art& Dsgn"
+       },
+       {
+        "code": "MYZ 306E",
+        "name": "Artificial Intelligence in Architecture, Planning and Design"
        }
       ]
      }
@@ -1490,232 +1370,80 @@
       ],
       "options": [
        {
-        "code": "ALM 101",
-        "name": "Almanca I"
+        "code": "ISL 465E",
+        "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ALM 102",
-        "name": "Almanca II"
+        "code": "MIM 107E",
+        "name": "Concepts of Cultural Heritage"
        },
        {
-        "code": "ALM 201",
-        "name": "Almanca III"
+        "code": "MIM 109E",
+        "name": "Art and Architecture"
        },
        {
-        "code": "ALM 202",
-        "name": "Almanca IV"
+        "code": "SBP 101E",
+        "name": "Migration and City"
        },
        {
-        "code": "ALM 301",
-        "name": "Almanca V"
+        "code": "MIM 105E",
+        "name": "Introduction to Political Economy and Sustainability Management"
        },
        {
-        "code": "ALM 302",
-        "name": "Almanca VI"
+        "code": "MIM 223E",
+        "name": "Social Psychology"
        },
        {
-        "code": "ALM 401",
-        "name": "Almanca VII"
+        "code": "SBP 103E",
+        "name": "Role of Professions in Sustainability"
        },
        {
-        "code": "ARB 101",
-        "name": "Arapça I"
-       },
-       {
-        "code": "ARB 102",
-        "name": "Arapça II"
-       },
-       {
-        "code": "CIN 101",
-        "name": "Çince I"
-       },
-       {
-        "code": "CIN 102",
-        "name": "Çince II"
-       },
-       {
-        "code": "CIN 201",
-        "name": "Çince III"
-       },
-       {
-        "code": "FRA 101",
-        "name": "Fransızca I"
-       },
-       {
-        "code": "FRA 102",
-        "name": "Fransızca II"
-       },
-       {
-        "code": "FRA 201",
-        "name": "Fransızca III"
-       },
-       {
-        "code": "FRA 202",
-        "name": "Fransızca IV"
-       },
-       {
-        "code": "FRA 301",
-        "name": "Fransızca V"
-       },
-       {
-        "code": "FRA 302",
-        "name": "Fransızca VI"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
-       },
-       {
-        "code": "HUK 216",
-        "name": "Telekomünikasyon Hukuku"
-       },
-       {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
-       },
-       {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
-       },
-       {
-        "code": "ICM 4018E",
-        "name": "Concepts in History of Arch."
-       },
-       {
-        "code": "ICM 4020E",
-        "name": "Digital Media in Spatial Des."
-       },
-       {
-        "code": "ICM 4026",
-        "name": "Sanat ve Kültür Tarihi"
-       },
-       {
-        "code": "ICM 4026E",
+        "code": "MIM 101E",
         "name": "History of Art and Culture"
-       },
-       {
-        "code": "ING 103A",
-        "name": "Creative Writing"
-       },
-       {
-        "code": "ING 103AC",
-        "name": "Urban Ecology"
-       },
-       {
-        "code": "ING 103AD",
-        "name": "Advanced English for Engineers"
-       },
-       {
-        "code": "ING 103B",
-        "name": "Business English"
-       },
-       {
-        "code": "ING 103C",
-        "name": "Great Moments in Science"
        },
        {
         "code": "ING 103CO",
         "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ING 103DD",
-        "name": "Decoding Discourse: Language, Power, and Ideology"
-       },
-       {
-        "code": "ING 103G",
-        "name": "Business Communications"
-       },
-       {
         "code": "ING 103H",
         "name": "Public Presentations"
-       },
-       {
-        "code": "ING 103I",
-        "name": "Short Stories"
-       },
-       {
-        "code": "ING 103L",
-        "name": "Mythology"
-       },
-       {
-        "code": "ING 103N",
-        "name": "Film Studies"
-       },
-       {
-        "code": "ING 103O",
-        "name": "Psychology"
-       },
-       {
-        "code": "ING 103P",
-        "name": "Poetry"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
        },
        {
         "code": "ING 103SC",
         "name": "Science Communication"
        },
        {
-        "code": "ISL 465E",
-        "name": "Int.to Entrepreneurship&Innov."
+        "code": "ING 103G",
+        "name": "Business Communications"
        },
        {
-        "code": "ISP 101",
-        "name": "İspanyolca I"
+        "code": "ING 103P",
+        "name": "Poetry"
        },
        {
-        "code": "ISP 102",
-        "name": "İspanyolca II"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
-        "code": "ISP 201",
-        "name": "İspanyolca III"
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
        },
        {
-        "code": "ISP 202",
-        "name": "İspanyolca IV"
+        "code": "ING 103B",
+        "name": "Business English"
        },
        {
-        "code": "ISP 301",
-        "name": "İspanyolca V"
+        "code": "ING 103AD",
+        "name": "Advanced English for Engineers"
        },
        {
-        "code": "ISP 302",
-        "name": "İspanyolca VI"
+        "code": "ING 103O",
+        "name": "Psychology"
        },
        {
-        "code": "ITA 101",
-        "name": "İtalyanca I"
-       },
-       {
-        "code": "ITA 102",
-        "name": "İtalyanca II"
-       },
-       {
-        "code": "ITA 201",
-        "name": "İtalyanca III"
-       },
-       {
-        "code": "ITA 202",
-        "name": "İtalyanca IV"
-       },
-       {
-        "code": "ITA 301",
-        "name": "İtalyanca V"
-       },
-       {
-        "code": "ITB 020E",
-        "name": "Formations of Modernity"
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "ITB 037E",
@@ -1734,40 +1462,52 @@
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+        "code": "ING 103A",
+        "name": "Creative Writing"
+       },
+       {
+        "code": "ING 103AC",
+        "name": "Urban Ecology"
+       },
+       {
+        "code": "ING 103C",
+        "name": "Great Moments in Science"
+       },
+       {
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
+       },
+       {
+        "code": "ING 103L",
+        "name": "Mythology"
+       },
+       {
+        "code": "ING 103N",
+        "name": "Film Studies"
+       },
+       {
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
+       },
+       {
+        "code": "HUK 218E",
+        "name": "Commercial Law"
+       },
+       {
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
        },
        {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
+        "code": "SBP 105E",
+        "name": "Other Worlds"
        },
        {
         "code": "ITB 206E",
@@ -1778,68 +1518,20 @@
         "name": "Ottoman History"
        },
        {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
         "code": "ITB 209E",
         "name": "Türkiye in World Affairs"
-       },
-       {
-        "code": "ITB 213E",
-        "name": "Toplics in Literature and Society"
-       },
-       {
-        "code": "ITB 214E",
-        "name": "The Modern Middle East"
-       },
-       {
-        "code": "ITB 215E",
-        "name": "Topics in Hist.and Society"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
        },
        {
         "code": "ITB 217E",
         "name": "Engineering Ethics"
        },
        {
-        "code": "ITB 218E",
-        "name": "History of Science&Technology"
+        "code": "ITB 233E",
+        "name": "Anthropology"
        },
        {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 221E",
-        "name": "Anatolian Archaeology"
-       },
-       {
-        "code": "ITB 222E",
-        "name": "City and Society"
-       },
-       {
-        "code": "ITB 224E",
-        "name": "Environment and Society"
-       },
-       {
-        "code": "ITB 225E",
-        "name": "Intercultural Citizenship Education"
-       },
-       {
-        "code": "ITB 227E",
-        "name": "Political Theory"
-       },
-       {
-        "code": "ITB 228E",
-        "name": "Gender Studies"
+        "code": "ITB 203E",
+        "name": "Sociology"
        },
        {
         "code": "ITB 230E",
@@ -1850,96 +1542,276 @@
         "name": "Volunteering Studies"
        },
        {
-        "code": "ITB 233E",
-        "name": "Anthropology"
+        "code": "ITB 213E",
+        "name": "Toplics in Literature and Society"
        },
        {
-        "code": "ITB 235E",
-        "name": "Türkiye and EuropeanUnion"
+        "code": "ITB 219E",
+        "name": "Ethics"
        },
        {
-        "code": "ITB 236",
-        "name": "Türk Müziği Tarihi"
+        "code": "ING 103I",
+        "name": "Short Stories"
        },
        {
-        "code": "JPN 101",
-        "name": "Japonca I"
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
        },
        {
-        "code": "JPN 102",
-        "name": "Japonca II"
+        "code": "ITB 202E",
+        "name": "World History"
        },
        {
-        "code": "JPN 201",
-        "name": "Japonca III"
+        "code": "ITB 214E",
+        "name": "The Modern Middle East"
        },
        {
-        "code": "JPN 202",
-        "name": "Japonca IV"
+        "code": "ITB 215E",
+        "name": "Topics in Hist.and Society"
        },
        {
-        "code": "KOR 101",
-        "name": "Korece I"
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
        },
        {
-        "code": "KOR 102",
-        "name": "Korece II"
+        "code": "ITB 222E",
+        "name": "City and Society"
        },
        {
-        "code": "MIM 101E",
-        "name": "History of Art and Culture"
+        "code": "ITB 224E",
+        "name": "Environment and Society"
        },
        {
-        "code": "MIM 105E",
-        "name": "Introduction to Political Economy and Sustainability Management"
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
        },
        {
-        "code": "MIM 107E",
-        "name": "Concepts of Cultural Heritage"
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
        },
        {
-        "code": "MIM 109",
-        "name": "Sanat ve Mimarlık"
+        "code": "ITB 205E",
+        "name": "Philosophy"
        },
        {
-        "code": "MIM 109E",
-        "name": "Art and Architecture"
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
        },
        {
-        "code": "MIM 223E",
-        "name": "Social Psychology"
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
+        "code": "ITB 227E",
+        "name": "Political Theory"
        },
        {
         "code": "PEM 101E",
         "name": "Landscape Design and Representation"
        },
        {
-        "code": "RUS 101",
-        "name": "Rusça I"
+        "code": "JPN Japonca",
+        "name": "I"
        },
        {
-        "code": "RUS 102",
-        "name": "Rusça II"
+        "code": "JPN Japonca",
+        "name": "III"
        },
        {
-        "code": "RUS 201",
-        "name": "Rusça III"
+        "code": "JPN Japonca",
+        "name": "IV"
        },
        {
-        "code": "RUS 202",
-        "name": "Rusça IV"
+        "code": "JPN Japonca",
+        "name": "II"
        },
        {
-        "code": "SBP 101E",
-        "name": "Migration and City"
+        "code": "ALM Almanca",
+        "name": "IV"
        },
        {
-        "code": "SBP 103E",
-        "name": "Role of Professions in Sustainability"
+        "code": "FRA Fransızca",
+        "name": "VI"
        },
        {
-        "code": "SBP 105E",
-        "name": "Other Worlds"
+        "code": "ALM Almanca",
+        "name": "I"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "I"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "V"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "III"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "III"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "V"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "III"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "IV"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "V"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "III"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "III"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "V"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "II"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "II"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "II"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "IV"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VII"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "I"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "III"
+       },
+       {
+        "code": "ICM 4018E",
+        "name": "Concepts in History of Arch."
+       },
+       {
+        "code": "ICM 4020E",
+        "name": "Digital Media in Spatial Des."
+       },
+       {
+        "code": "ICM 4026E",
+        "name": "History of Art and Culture"
+       },
+       {
+        "code": "ARB 101",
+        "name": "Arapça I"
+       },
+       {
+        "code": "ARB 102",
+        "name": "Arapça II"
+       },
+       {
+        "code": "ITB 225E",
+        "name": "Intercultural Citizenship Education"
+       },
+       {
+        "code": "ITB 235E",
+        "name": "Türkiye and EuropeanUnion"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "IV"
+       },
+       {
+        "code": "ING 103DD",
+        "name": "Decoding Discourse: Language, Power, and Ideology"
+       },
+       {
+        "code": "ITB 236",
+        "name": "Türk Müziği Tarihi"
+       },
+       {
+        "code": "KOR Korece",
+        "name": "I"
+       },
+       {
+        "code": "KOR Korece",
+        "name": "II"
        }
       ]
      }
@@ -1954,48 +1826,140 @@
       ],
       "options": [
        {
-        "code": "ENT 354E",
-        "name": "Emotional Design"
+        "code": "GSB 363E",
+        "name": "Ceramic Applications in Archi."
        },
        {
-        "code": "ENT 365E",
-        "name": "Fund. of Design Thinking"
+        "code": "GSB 343E",
+        "name": "Visual Analysis"
        },
        {
-        "code": "ENT 371E",
-        "name": "Bio-inspired Design"
-       },
-       {
-        "code": "ENT 434E",
-        "name": "Seeing in Design"
+        "code": "ICM 4032",
+        "name": "Mimari Üsluplar"
        },
        {
         "code": "ENT 446E",
         "name": "Multimedia Design Studio"
        },
        {
+        "code": "ENT 434E",
+        "name": "Seeing in Design"
+       },
+       {
+        "code": "ENT 365E",
+        "name": "Fund. of Design Thinking"
+       },
+       {
         "code": "ENT 448E",
         "name": "Visual Design"
        },
        {
-        "code": "ENT 453E",
-        "name": "Basic Princip. of Yacht Dsgn"
+        "code": "MIM 4031E",
+        "name": "Architect Sinan"
        },
        {
-        "code": "ENT 454E",
-        "name": "Traditional Handcrafts"
+        "code": "MIM 4049E",
+        "name": "Dsgn Princ of Buildng Elements"
        },
        {
-        "code": "ENT 460E",
-        "name": "Intrct Btwn 20th Cnt Art& Dsgn"
+        "code": "MIM 4066E",
+        "name": "Generating Livable Environment"
        },
        {
-        "code": "GSB 343",
-        "name": "Görsel Analiz"
+        "code": "MIM 4023E",
+        "name": "Material Selection in Construction"
        },
        {
-        "code": "GSB 363E",
-        "name": "Ceramic Applications in Archi."
+        "code": "MIM 4010E",
+        "name": "Theories of Architectural Dsgn"
+       },
+       {
+        "code": "MIM 4022E",
+        "name": "Building, Climate and Energy Relations"
+       },
+       {
+        "code": "MIM 4014E",
+        "name": "Design with Natural Aspects"
+       },
+       {
+        "code": "MIM 4017E",
+        "name": "Contemporary Building Materials"
+       },
+       {
+        "code": "MIM 4050E",
+        "name": "Free Hand Draw.in Architecture"
+       },
+       {
+        "code": "MIM 4056E",
+        "name": "Design & Fabric.Tech. in Arch."
+       },
+       {
+        "code": "MIM 4072E",
+        "name": "Architecture,Cities and Cinema"
+       },
+       {
+        "code": "MIM 4029E",
+        "name": "Solar Architecture"
+       },
+       {
+        "code": "MIM 4061E",
+        "name": "Desg.Draw.:Pract.&Concep.Appr."
+       },
+       {
+        "code": "SBP 4027E",
+        "name": "Large Scale Urban Projects"
+       },
+       {
+        "code": "SBP 4039E",
+        "name": "Urban Geography&Inequalities"
+       },
+       {
+        "code": "SBP 4019E",
+        "name": "Urban Identity and Image"
+       },
+       {
+        "code": "MIM 4011E",
+        "name": "Photography"
+       },
+       {
+        "code": "MIM 4028",
+        "name": "Mimari Tasarım & Yapımda Ahşap"
+       },
+       {
+        "code": "MIM 4030",
+        "name": "Kültür&Sanat Merkez.Aydınlatma"
+       },
+       {
+        "code": "MIM 4032E",
+        "name": "Garden Designs in History and Architecture"
+       },
+       {
+        "code": "MIM 4043E",
+        "name": "Layers of Istanbul"
+       },
+       {
+        "code": "MIM 4045E",
+        "name": "Design Economics"
+       },
+       {
+        "code": "MIM 4047E",
+        "name": "Energy Efficient Housing"
+       },
+       {
+        "code": "MIM 4059E",
+        "name": "Architecture Today"
+       },
+       {
+        "code": "MIM 4064E",
+        "name": "Mdrn Cncpts of Archtctrl Consv"
+       },
+       {
+        "code": "MIM 4067E",
+        "name": "Det.Dsgn.Meth.ofContemp.Arch."
+       },
+       {
+        "code": "MIM 4073E",
+        "name": "Building Constructn Techniques"
        },
        {
         "code": "ICM 4011E",
@@ -2006,16 +1970,8 @@
         "name": "Building Biology and Ecology"
        },
        {
-        "code": "ICM 4013",
-        "name": "Cevresel Psikoloji"
-       },
-       {
         "code": "ICM 4013E",
         "name": "Environmental Psychology"
-       },
-       {
-        "code": "ICM 4016",
-        "name": "Tasarım Kültürü"
        },
        {
         "code": "ICM 4016E",
@@ -2038,10 +1994,6 @@
         "name": "Mater.&Finish.in Furnit.Design"
        },
        {
-        "code": "ICM 4032",
-        "name": "Mimari Üsluplar"
-       },
-       {
         "code": "ICM 4036E",
         "name": "Soc.Clt.Life&Sp.intheOtt.Emp."
        },
@@ -2054,126 +2006,6 @@
         "name": "Sustainability in Inter.Arch."
        },
        {
-        "code": "MIM 4010",
-        "name": "Mimari Tasarım Kuramları"
-       },
-       {
-        "code": "MIM 4010E",
-        "name": "Theories of Architectural Dsgn"
-       },
-       {
-        "code": "MIM 4011",
-        "name": "Fotoğraf"
-       },
-       {
-        "code": "MIM 4011E",
-        "name": "Photography"
-       },
-       {
-        "code": "MIM 4014",
-        "name": "Doğal Verilerle Tasarım"
-       },
-       {
-        "code": "MIM 4014E",
-        "name": "Design with Natural Aspects"
-       },
-       {
-        "code": "MIM 4017",
-        "name": "Çağdaş Yapı Malzemeleri"
-       },
-       {
-        "code": "MIM 4022",
-        "name": "Bina, İklim, Enerji İlişkileri"
-       },
-       {
-        "code": "MIM 4023",
-        "name": "Yapıda Malzeme Seçimi"
-       },
-       {
-        "code": "MIM 4028",
-        "name": "Mimari Tasarım & Yapımda Ahşap"
-       },
-       {
-        "code": "MIM 4029",
-        "name": "Güneş Mimarisi"
-       },
-       {
-        "code": "MIM 4030",
-        "name": "Kültür&Sanat Merkez.Aydınlatma"
-       },
-       {
-        "code": "MIM 4031",
-        "name": "Mimar Sinan"
-       },
-       {
-        "code": "MIM 4031E",
-        "name": "Architect Sinan"
-       },
-       {
-        "code": "MIM 4032",
-        "name": "Tarihte Bahçe Tasarımları&Mim."
-       },
-       {
-        "code": "MIM 4043",
-        "name": "İstanbul Katmanları"
-       },
-       {
-        "code": "MIM 4045",
-        "name": "Tasarım Ekonomisi"
-       },
-       {
-        "code": "MIM 4047E",
-        "name": "Energy Efficient Housing"
-       },
-       {
-        "code": "MIM 4049E",
-        "name": "Dsgn Princ of Buildng Elements"
-       },
-       {
-        "code": "MIM 4050E",
-        "name": "Free Hand Draw.in Architecture"
-       },
-       {
-        "code": "MIM 4056E",
-        "name": "Design & Fabric.Tech. in Arch."
-       },
-       {
-        "code": "MIM 4059E",
-        "name": "Architecture Today"
-       },
-       {
-        "code": "MIM 4061E",
-        "name": "Desg.Draw.:Pract.&Concep.Appr."
-       },
-       {
-        "code": "MIM 4064E",
-        "name": "Mdrn Cncpts of Archtctrl Consv"
-       },
-       {
-        "code": "MIM 4066E",
-        "name": "Generating Livable Environment"
-       },
-       {
-        "code": "MIM 4067E",
-        "name": "Det.Dsgn.Meth.ofContemp.Arch."
-       },
-       {
-        "code": "MIM 4072E",
-        "name": "Architecture,Cities and Cinema"
-       },
-       {
-        "code": "MIM 4073E",
-        "name": "Building Constructn Techniques"
-       },
-       {
-        "code": "MYZ 306E",
-        "name": "Artificial Intelligence in Architecture, Planning and Design"
-       },
-       {
-        "code": "MYZ 306",
-        "name": "Mimarlık, Planlama ve Tasarımda Yapay Zeka"
-       },
-       {
         "code": "PEM 4015E",
         "name": "Experim.Studies on Place&Desg"
        },
@@ -2182,16 +2014,28 @@
         "name": "Urban Furniture and Space"
        },
        {
-        "code": "SBP 4019",
-        "name": "Kentsel Kimlik ve İmge"
+        "code": "ENT 354E",
+        "name": "Emotional Design"
        },
        {
-        "code": "SBP 4027E",
-        "name": "Large Scale Urban Projects"
+        "code": "ENT 371E",
+        "name": "Bio-inspired Design"
        },
        {
-        "code": "SBP 4039E",
-        "name": "Urban Geography&Inequalities"
+        "code": "ENT 453E",
+        "name": "Basic Princip. of Yacht Dsgn"
+       },
+       {
+        "code": "ENT 454E",
+        "name": "Traditional Handcrafts"
+       },
+       {
+        "code": "ENT 460E",
+        "name": "Intrct Btwn 20th Cnt Art& Dsgn"
+       },
+       {
+        "code": "MYZ 306E",
+        "name": "Artificial Intelligence in Architecture, Planning and Design"
        }
       ]
      }
@@ -2248,8 +2092,36 @@
       ],
       "options": [
        {
-        "code": "ENT 354E",
-        "name": "Emotional Design"
+        "code": "GSB 333E",
+        "name": "Imrovized Play and Actıng"
+       },
+       {
+        "code": "GSB 363E",
+        "name": "Ceramic Applications in Archi."
+       },
+       {
+        "code": "GSB 313E",
+        "name": "Drawing in Architecture"
+       },
+       {
+        "code": "GSB 343E",
+        "name": "Visual Analysis"
+       },
+       {
+        "code": "GSB 323E",
+        "name": "Photography and Architecture"
+       },
+       {
+        "code": "ICM 4014E",
+        "name": "Textile in Interior Design"
+       },
+       {
+        "code": "ICM 4035E",
+        "name": "Social Transform.,Gender&Space"
+       },
+       {
+        "code": "ICM 4032",
+        "name": "Mimari Üsluplar"
        },
        {
         "code": "ENT 434E",
@@ -2260,60 +2132,88 @@
         "name": "Visual Design"
        },
        {
-        "code": "ENT 450E",
-        "name": "Inter.Between21thCent.Art&Dsgn"
+        "code": "MIM 4031E",
+        "name": "Architect Sinan"
        },
        {
-        "code": "ENT 453E",
-        "name": "Basic Princip. of Yacht Dsgn"
+        "code": "MIM 4023E",
+        "name": "Material Selection in Construction"
        },
        {
-        "code": "ENT 454E",
-        "name": "Traditional Handcrafts"
+        "code": "MIM 4010E",
+        "name": "Theories of Architectural Dsgn"
        },
        {
-        "code": "GSB 313E",
-        "name": "Drawing in Architecture"
+        "code": "MIM 4022E",
+        "name": "Building, Climate and Energy Relations"
        },
        {
-        "code": "GSB 323E",
-        "name": "Photography and Architecture"
+        "code": "MIM 4025",
+        "name": "Taşıyıcı Yapı Malzemeleri"
        },
        {
-        "code": "GSB 333E",
-        "name": "Imrovized Play and Actıng"
+        "code": "MIM 4014E",
+        "name": "Design with Natural Aspects"
        },
        {
-        "code": "GSB 343",
-        "name": "Görsel Analiz"
+        "code": "MIM 4017E",
+        "name": "Contemporary Building Materials"
        },
        {
-        "code": "GSB 363E",
-        "name": "Ceramic Applications in Archi."
+        "code": "MIM 4029E",
+        "name": "Solar Architecture"
        },
        {
-        "code": "ICM 4013",
-        "name": "Cevresel Psikoloji"
+        "code": "PEM 4011E",
+        "name": "Environmental Aesthetics"
+       },
+       {
+        "code": "SBP 4019E",
+        "name": "Urban Identity and Image"
+       },
+       {
+        "code": "MIM 4011E",
+        "name": "Photography"
+       },
+       {
+        "code": "MIM 4019E",
+        "name": "Detail Design and Principles"
+       },
+       {
+        "code": "MIM 4024E",
+        "name": "Structural System Design"
+       },
+       {
+        "code": "MIM 4028",
+        "name": "Mimari Tasarım & Yapımda Ahşap"
+       },
+       {
+        "code": "MIM 4030",
+        "name": "Kültür&Sanat Merkez.Aydınlatma"
+       },
+       {
+        "code": "MIM 4032E",
+        "name": "Garden Designs in History and Architecture"
+       },
+       {
+        "code": "MIM 4036E",
+        "name": "Representation and Presentation in Architecture"
+       },
+       {
+        "code": "MIM 4043E",
+        "name": "Layers of Istanbul"
+       },
+       {
+        "code": "MIM 4045E",
+        "name": "Design Economics"
        },
        {
         "code": "ICM 4013E",
         "name": "Environmental Psychology"
        },
        {
-        "code": "ICM 4014",
-        "name": "İç Mimarlıkta Tekstil"
-       },
-       {
-        "code": "ICM 4014E",
-        "name": "Textile in Interior Design"
-       },
-       {
         "code": "ICM 4015",
         "name": "Mağaza Tasarımında Kimlik"
-       },
-       {
-        "code": "ICM 4016",
-        "name": "Tasarım Kültürü"
        },
        {
         "code": "ICM 4016E",
@@ -2340,14 +2240,6 @@
         "name": "Mater.&Finish.in Furnit.Design"
        },
        {
-        "code": "ICM 4032",
-        "name": "Mimari Üsluplar"
-       },
-       {
-        "code": "ICM 4035E",
-        "name": "Social Transform.,Gender&Space"
-       },
-       {
         "code": "ICM 4037E",
         "name": "Spatial Mapping"
        },
@@ -2372,88 +2264,24 @@
         "name": "Yacht Interioris Design"
        },
        {
-        "code": "MIM 4010",
-        "name": "Mimari Tasarım Kuramları"
+        "code": "ENT 354E",
+        "name": "Emotional Design"
        },
        {
-        "code": "MIM 4011",
-        "name": "Fotoğraf"
+        "code": "ENT 450E",
+        "name": "Inter.Between21thCent.Art&Dsgn"
        },
        {
-        "code": "MIM 4014",
-        "name": "Doğal Verilerle Tasarım"
+        "code": "ENT 453E",
+        "name": "Basic Princip. of Yacht Dsgn"
        },
        {
-        "code": "MIM 4017",
-        "name": "Çağdaş Yapı Malzemeleri"
-       },
-       {
-        "code": "MIM 4019",
-        "name": "Detay Tasrm & Temel İlkeleri"
-       },
-       {
-        "code": "MIM 4022",
-        "name": "Bina, İklim, Enerji İlişkileri"
-       },
-       {
-        "code": "MIM 4023",
-        "name": "Yapıda Malzeme Seçimi"
-       },
-       {
-        "code": "MIM 4024",
-        "name": "Taşıyıcı Sistem Tasarımı"
-       },
-       {
-        "code": "MIM 4025",
-        "name": "Taşıyıcı Yapı Malzemeleri"
-       },
-       {
-        "code": "MIM 4028",
-        "name": "Mimari Tasarım & Yapımda Ahşap"
-       },
-       {
-        "code": "MIM 4029",
-        "name": "Güneş Mimarisi"
-       },
-       {
-        "code": "MIM 4030",
-        "name": "Kültür&Sanat Merkez.Aydınlatma"
-       },
-       {
-        "code": "MIM 4031",
-        "name": "Mimar Sinan"
-       },
-       {
-        "code": "MIM 4032",
-        "name": "Tarihte Bahçe Tasarımları&Mim."
-       },
-       {
-        "code": "MIM 4036",
-        "name": "Mimarlıkta Temsil ve Sunum"
-       },
-       {
-        "code": "MIM 4043",
-        "name": "İstanbul Katmanları"
-       },
-       {
-        "code": "MIM 4045",
-        "name": "Tasarım Ekonomisi"
+        "code": "ENT 454E",
+        "name": "Traditional Handcrafts"
        },
        {
         "code": "MYZ 306E",
         "name": "Artificial Intelligence in Architecture, Planning and Design"
-       },
-       {
-        "code": "MYZ 306",
-        "name": "Mimarlık, Planlama ve Tasarımda Yapay Zeka"
-       },
-       {
-        "code": "PEM 4011E",
-        "name": "Environmental Aesthetics"
-       },
-       {
-        "code": "SBP 4019",
-        "name": "Kentsel Kimlik ve İmge"
        }
       ]
      }
@@ -2468,116 +2296,72 @@
       ],
       "options": [
        {
-        "code": "ALM 101",
-        "name": "Almanca I"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
-        "code": "ALM 102",
-        "name": "Almanca II"
+        "code": "ISL 465E",
+        "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ALM 201",
-        "name": "Almanca III"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ALM 202",
-        "name": "Almanca IV"
+        "code": "ING 103H",
+        "name": "Public Presentations"
        },
        {
-        "code": "ALM 301",
-        "name": "Almanca V"
+        "code": "ING 103SC",
+        "name": "Science Communication"
        },
        {
-        "code": "ALM 302",
-        "name": "Almanca VI"
+        "code": "ING 103G",
+        "name": "Business Communications"
        },
        {
-        "code": "ALM 401",
-        "name": "Almanca VII"
+        "code": "ING 103P",
+        "name": "Poetry"
        },
        {
-        "code": "BEB 120",
-        "name": "Spor ve Temel Bilimler"
-       },
-       {
-        "code": "BEB 121",
-        "name": "Spor ve Teknoloji"
-       },
-       {
-        "code": "CIN 101",
-        "name": "Çince I"
-       },
-       {
-        "code": "CIN 102",
-        "name": "Çince II"
-       },
-       {
-        "code": "CIN 201",
-        "name": "Çince III"
-       },
-       {
-        "code": "FRA 101",
-        "name": "Fransızca I"
-       },
-       {
-        "code": "FRA 102",
-        "name": "Fransızca II"
-       },
-       {
-        "code": "FRA 201",
-        "name": "Fransızca III"
-       },
-       {
-        "code": "FRA 202",
-        "name": "Fransızca IV"
-       },
-       {
-        "code": "FRA 301",
-        "name": "Fransızca V"
-       },
-       {
-        "code": "FRA 302",
-        "name": "Fransızca VI"
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
         "code": "HUK 216",
         "name": "Telekomünikasyon Hukuku"
        },
        {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
+        "code": "ING 103B",
+        "name": "Business English"
        },
        {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
+        "code": "ING 103AD",
+        "name": "Advanced English for Engineers"
        },
        {
-        "code": "ICM 4026",
-        "name": "Sanat ve Kültür Tarihi"
+        "code": "ING 103O",
+        "name": "Psychology"
        },
        {
-        "code": "ICM 4026E",
-        "name": "History of Art and Culture"
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
+       },
+       {
+        "code": "ITB 037E",
+        "name": "Knowledge, Language & Logic"
+       },
+       {
+        "code": "ITB 087E",
+        "name": "Media and Society"
+       },
+       {
+        "code": "ITB 094E",
+        "name": "International.Rel.and Globali."
+       },
+       {
+        "code": "ITB 095E",
+        "name": "Technology, Policy and Law"
        },
        {
         "code": "ING 103A",
@@ -2588,36 +2372,12 @@
         "name": "Urban Ecology"
        },
        {
-        "code": "ING 103AD",
-        "name": "Advanced English for Engineers"
-       },
-       {
-        "code": "ING 103B",
-        "name": "Business English"
-       },
-       {
         "code": "ING 103C",
         "name": "Great Moments in Science"
        },
        {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103DD",
-        "name": "Decoding Discourse: Language, Power, and Ideology"
-       },
-       {
-        "code": "ING 103G",
-        "name": "Business Communications"
-       },
-       {
-        "code": "ING 103H",
-        "name": "Public Presentations"
-       },
-       {
-        "code": "ING 103I",
-        "name": "Short Stories"
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
        },
        {
         "code": "ING 103L",
@@ -2628,400 +2388,336 @@
         "name": "Film Studies"
        },
        {
-        "code": "ING 103O",
-        "name": "Psychology"
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
        },
        {
-        "code": "ING 103P",
-        "name": "Poetry"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
-       },
-       {
-        "code": "ISL 465E",
-        "name": "Int.to Entrepreneurship&Innov."
-       },
-       {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
-       },
-       {
-        "code": "ISP 101",
-        "name": "İspanyolca I"
-       },
-       {
-        "code": "ISP 102",
-        "name": "İspanyolca II"
-       },
-       {
-        "code": "ISP 201",
-        "name": "İspanyolca III"
-       },
-       {
-        "code": "ISP 202",
-        "name": "İspanyolca IV"
-       },
-       {
-        "code": "ISP 301",
-        "name": "İspanyolca V"
-       },
-       {
-        "code": "ISP 302",
-        "name": "İspanyolca VI"
-       },
-       {
-        "code": "ITA 101",
-        "name": "İtalyanca I"
-       },
-       {
-        "code": "ITA 102",
-        "name": "İtalyanca II"
-       },
-       {
-        "code": "ITA 201",
-        "name": "İtalyanca III"
-       },
-       {
-        "code": "ITA 202",
-        "name": "İtalyanca IV"
-       },
-       {
-        "code": "ITA 301",
-        "name": "İtalyanca V"
-       },
-       {
-        "code": "ITB 020",
-        "name": "Modernitenin Oluşumu"
+        "code": "HUK 218E",
+        "name": "Commercial Law"
        },
        {
         "code": "ITB 020E",
         "name": "Formations of Modernity"
        },
        {
-        "code": "ITB 037",
-        "name": "Bilgi, Dil ve Mantık"
-       },
-       {
-        "code": "ITB 037E",
-        "name": "Knowledge, Language & Logic"
-       },
-       {
-        "code": "ITB 087",
-        "name": "Medya ve Toplum"
-       },
-       {
-        "code": "ITB 087E",
-        "name": "Media and Society"
-       },
-       {
-        "code": "ITB 094",
-        "name": "Uluslararası İlişkilerve Küreselleşme"
-       },
-       {
-        "code": "ITB 094E",
-        "name": "International.Rel.and Globali."
-       },
-       {
-        "code": "ITB 095",
-        "name": "Teknoloji, Politika ve Hukuk"
-       },
-       {
-        "code": "ITB 095E",
-        "name": "Technology, Policy and Law"
-       },
-       {
-        "code": "ITB 143",
-        "name": "Durrel ve Said:Oryanta.Uyg ve"
-       },
-       {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
-       },
-       {
-        "code": "ITB 151",
-        "name": "İnsan Kaynakları Yönetimi"
-       },
-       {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
-       },
-       {
-        "code": "ITB 171",
-        "name": "Bilim, Teknoloji ve Toplum"
-       },
-       {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179",
-        "name": "İçiçe Ayr.Ede.:Vizyone,Seyf.,A"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201",
-        "name": "İnsan ve Topl. Bilim. Giriş"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 202",
-        "name": "Dünya Tarihi"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 203",
-        "name": "Sosyoloji"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204",
-        "name": "Siyaset Bilimi"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205",
-        "name": "Felsefe"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
-       },
-       {
-        "code": "ITB 206",
-        "name": "Dünya Politikasında Meseleler"
-       },
-       {
-        "code": "ITB 206E",
-        "name": "Issues in World Politics"
-       },
-       {
-        "code": "ITB 207",
-        "name": "Osmanlı Tarihi"
-       },
-       {
-        "code": "ITB 207E",
-        "name": "Ottoman History"
-       },
-       {
-        "code": "ITB 208",
-        "name": "Modern Türkiye'nin Oluşumu"
-       },
-       {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
-        "code": "ITB 209",
-        "name": "Türkiye ve Dünya"
-       },
-       {
-        "code": "ITB 209E",
-        "name": "Türkiye in World Affairs"
-       },
-       {
-        "code": "ITB 211E",
-        "name": "Istanbul:Hist.,Art and Society"
        },
        {
         "code": "ITB 212E",
         "name": "Art,Culture and Society"
        },
        {
-        "code": "ITB 213",
-        "name": "Edebiyat ve Toplum"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
-        "code": "ITB 213E",
-        "name": "Toplics in Literature and Society"
+        "code": "ITB 206E",
+        "name": "Issues in World Politics"
        },
        {
-        "code": "ITB 214",
-        "name": "Modern Ortadoğu"
+        "code": "ITB 207E",
+        "name": "Ottoman History"
        },
        {
-        "code": "ITB 214E",
-        "name": "The Modern Middle East"
-       },
-       {
-        "code": "ITB 215",
-        "name": "Tarih ve Toplum"
-       },
-       {
-        "code": "ITB 215E",
-        "name": "Topics in Hist.and Society"
-       },
-       {
-        "code": "ITB 216",
-        "name": "Ekonomi ve Toplum"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
-       },
-       {
-        "code": "ITB 217",
-        "name": "Mühendislik Etiği"
+        "code": "ITB 209E",
+        "name": "Türkiye in World Affairs"
        },
        {
         "code": "ITB 217E",
         "name": "Engineering Ethics"
        },
        {
-        "code": "ITB 218",
-        "name": "Bilim ve Teknoloji Tarihi"
+        "code": "ITB 233E",
+        "name": "Anthropology"
        },
        {
-        "code": "ITB 218E",
-        "name": "History of Science&Technology"
+        "code": "ITB 203E",
+        "name": "Sociology"
        },
        {
-        "code": "ITB 219",
-        "name": "Etik"
-       },
-       {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 220",
-        "name": "Psikoloji"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 221",
-        "name": "Anadolu Arkeolojisi"
-       },
-       {
-        "code": "ITB 222",
-        "name": "Kent ve Toplum"
-       },
-       {
-        "code": "ITB 222E",
-        "name": "City and Society"
-       },
-       {
-        "code": "ITB 224",
-        "name": "Çevre ve Toplum"
-       },
-       {
-        "code": "ITB 224E",
-        "name": "Environment and Society"
-       },
-       {
-        "code": "ITB 225E",
-        "name": "Intercultural Citizenship Education"
-       },
-       {
-        "code": "ITB 226E",
-        "name": "Philosophy of Art"
-       },
-       {
-        "code": "ITB 227",
-        "name": "Siyaset Teorisi"
-       },
-       {
-        "code": "ITB 227E",
-        "name": "Political Theory"
-       },
-       {
-        "code": "ITB 228",
-        "name": "Toplumsal Cinsiyet Çalışmaları"
-       },
-       {
-        "code": "ITB 228E",
-        "name": "Gender Studies"
-       },
-       {
-        "code": "ITB 230",
-        "name": "Afet Bilinci"
-       },
-       {
-        "code": "ITB 231",
-        "name": "Gönüllülük Çalışmaları"
+        "code": "ITB 230E",
+        "name": "Disaster Awareness"
        },
        {
         "code": "ITB 231E",
         "name": "Volunteering Studies"
        },
        {
-        "code": "ITB 233",
-        "name": "Antropoloji"
+        "code": "ITB 213E",
+        "name": "Toplics in Literature and Society"
+       },
+       {
+        "code": "ITB 219E",
+        "name": "Ethics"
+       },
+       {
+        "code": "ING 103I",
+        "name": "Short Stories"
+       },
+       {
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "ITB 214E",
+        "name": "The Modern Middle East"
+       },
+       {
+        "code": "ITB 215E",
+        "name": "Topics in Hist.and Society"
+       },
+       {
+        "code": "ITB 226E",
+        "name": "Philosophy of Art"
+       },
+       {
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
+       },
+       {
+        "code": "ITB 222E",
+        "name": "City and Society"
+       },
+       {
+        "code": "ITB 224E",
+        "name": "Environment and Society"
+       },
+       {
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
+       },
+       {
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
+       },
+       {
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
+        "code": "ITB 227E",
+        "name": "Political Theory"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "I"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "III"
+       },
+       {
+        "code": "BEB 121",
+        "name": "Spor ve Teknoloji"
+       },
+       {
+        "code": "BEB 120",
+        "name": "Spor ve Temel Bilimler"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "IV"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "VI"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "I"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "I"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "V"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "III"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "III"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "V"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "III"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "IV"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "V"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "III"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "III"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "V"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "II"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "II"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "II"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "IV"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VII"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "I"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "III"
+       },
+       {
+        "code": "ICM 4026E",
+        "name": "History of Art and Culture"
+       },
+       {
+        "code": "ITB 225E",
+        "name": "Intercultural Citizenship Education"
        },
        {
         "code": "ITB 235E",
         "name": "Türkiye and EuropeanUnion"
        },
        {
-        "code": "ITB 235",
-        "name": "Türkiye ve Avrupa Birliği"
+        "code": "RUS Rusça",
+        "name": "IV"
+       },
+       {
+        "code": "ING 103DD",
+        "name": "Decoding Discourse: Language, Power, and Ideology"
        },
        {
         "code": "ITB 236",
         "name": "Türk Müziği Tarihi"
        },
        {
-        "code": "JPN 101",
-        "name": "Japonca I"
+        "code": "KOR Korece",
+        "name": "I"
        },
        {
-        "code": "JPN 102",
-        "name": "Japonca II"
-       },
-       {
-        "code": "JPN 201",
-        "name": "Japonca III"
-       },
-       {
-        "code": "JPN 202",
-        "name": "Japonca IV"
-       },
-       {
-        "code": "KOR 101",
-        "name": "Korece I"
-       },
-       {
-        "code": "KOR 102",
-        "name": "Korece II"
-       },
-       {
-        "code": "RUS 101",
-        "name": "Rusça I"
-       },
-       {
-        "code": "RUS 102",
-        "name": "Rusça II"
-       },
-       {
-        "code": "RUS 201",
-        "name": "Rusça III"
-       },
-       {
-        "code": "RUS 202",
-        "name": "Rusça IV"
+        "code": "KOR Korece",
+        "name": "II"
        }
       ]
      }

@@ -30,11 +30,11 @@
       ],
       "options": [
        {
-        "code": "ADM 596E",
+        "code": "DTM 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "DTM 596E",
+        "code": "ADM 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        }
       ]
@@ -50,6 +50,22 @@
       ],
       "options": [
        {
+        "code": "KMM 511E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "GEM 509E",
+        "name": "Mathematical Methods in Eng."
+       },
+       {
+        "code": "YAP 501E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "UUM 535E",
+        "name": "Engineering Mathematics"
+       },
+       {
         "code": "DUM 501E",
         "name": "Engineering Mathematics"
        },
@@ -58,15 +74,11 @@
         "name": "Engineering Mathematics"
        },
        {
-        "code": "GEM 509",
-        "name": "Mühendislikte Matem.Yöntemler"
-       },
-       {
-        "code": "KMM 511E",
+        "code": "MTA 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MDK 501E",
+        "code": "MOT 501E",
         "name": "Engineering Mathematics"
        },
        {
@@ -78,27 +90,15 @@
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MKS 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
         "code": "MMI 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MOT 501",
-        "name": "Mühendislik Matematiği"
-       },
-       {
-        "code": "MTA 501E",
+        "code": "MDK 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "UUM 535E",
-        "name": "Engineering Mathematics"
-       },
-       {
-        "code": "YAP 501E",
+        "code": "MKS 501E",
         "name": "Engineering Mathematics"
        }
       ]
@@ -114,28 +114,28 @@
       ],
       "options": [
        {
-        "code": "ADM 501E",
-        "name": "Simulati.of Solid&Fluid Prob."
-       },
-       {
-        "code": "ADM 502E",
-        "name": "Offshore Eng.Mecha.:Struc.Dyn."
-       },
-       {
-        "code": "ADM 504E",
-        "name": "Offshore Eng.Mecha.:Hydrody."
-       },
-       {
-        "code": "DTM 502E",
-        "name": "Dynamics of Marine Structures"
+        "code": "DTM 518E",
+        "name": "Dynamics of Ocean Waves"
        },
        {
         "code": "DTM 507E",
         "name": "Numerical Techn.Eng.Problems"
        },
        {
-        "code": "DTM 518E",
-        "name": "Dynamics of Ocean Waves"
+        "code": "DTM 502E",
+        "name": "Dynamics of Marine Structures"
+       },
+       {
+        "code": "ADM 504E",
+        "name": "Offshore Eng.Mecha.:Hydrody."
+       },
+       {
+        "code": "ADM 501E",
+        "name": "Simulati.of Solid&Fluid Prob."
+       },
+       {
+        "code": "ADM 502E",
+        "name": "Offshore Eng.Mecha.:Struc.Dyn."
        }
       ]
      }
@@ -150,28 +150,28 @@
       ],
       "options": [
        {
-        "code": "ADM 501E",
-        "name": "Simulati.of Solid&Fluid Prob."
-       },
-       {
-        "code": "ADM 502E",
-        "name": "Offshore Eng.Mecha.:Struc.Dyn."
-       },
-       {
-        "code": "ADM 504E",
-        "name": "Offshore Eng.Mecha.:Hydrody."
-       },
-       {
-        "code": "DTM 502E",
-        "name": "Dynamics of Marine Structures"
+        "code": "DTM 518E",
+        "name": "Dynamics of Ocean Waves"
        },
        {
         "code": "DTM 507E",
         "name": "Numerical Techn.Eng.Problems"
        },
        {
-        "code": "DTM 518E",
-        "name": "Dynamics of Ocean Waves"
+        "code": "DTM 502E",
+        "name": "Dynamics of Marine Structures"
+       },
+       {
+        "code": "ADM 504E",
+        "name": "Offshore Eng.Mecha.:Hydrody."
+       },
+       {
+        "code": "ADM 501E",
+        "name": "Simulati.of Solid&Fluid Prob."
+       },
+       {
+        "code": "ADM 502E",
+        "name": "Offshore Eng.Mecha.:Struc.Dyn."
        }
       ]
      }
@@ -186,28 +186,28 @@
       ],
       "options": [
        {
-        "code": "ADM 501E",
-        "name": "Simulati.of Solid&Fluid Prob."
-       },
-       {
-        "code": "ADM 502E",
-        "name": "Offshore Eng.Mecha.:Struc.Dyn."
-       },
-       {
-        "code": "ADM 504E",
-        "name": "Offshore Eng.Mecha.:Hydrody."
-       },
-       {
-        "code": "DTM 502E",
-        "name": "Dynamics of Marine Structures"
+        "code": "DTM 518E",
+        "name": "Dynamics of Ocean Waves"
        },
        {
         "code": "DTM 507E",
         "name": "Numerical Techn.Eng.Problems"
        },
        {
-        "code": "DTM 518E",
-        "name": "Dynamics of Ocean Waves"
+        "code": "DTM 502E",
+        "name": "Dynamics of Marine Structures"
+       },
+       {
+        "code": "ADM 504E",
+        "name": "Offshore Eng.Mecha.:Hydrody."
+       },
+       {
+        "code": "ADM 501E",
+        "name": "Simulati.of Solid&Fluid Prob."
+       },
+       {
+        "code": "ADM 502E",
+        "name": "Offshore Eng.Mecha.:Struc.Dyn."
        }
       ]
      }
@@ -222,32 +222,12 @@
       ],
       "options": [
        {
-        "code": "ADM 503E",
-        "name": "Design Optimis.in Offsho.Eng."
-       },
-       {
-        "code": "ADM 505E",
-        "name": "Environ.Aspe.of Offsho.Activ."
-       },
-       {
-        "code": "ADM 506E",
-        "name": "Marine Corrosion &Corro.Cont."
-       },
-       {
-        "code": "ADM 507E",
-        "name": "Offshore Wind Farm Design"
-       },
-       {
-        "code": "ADM 508E",
-        "name": "Stabil.&Saf.Anal.of Float.Obj."
-       },
-       {
         "code": "ADM 509E",
         "name": "Special Topic.in Offshore Eng."
        },
        {
-        "code": "ADM 510E",
-        "name": "Advanced Underwater Acoustics"
+        "code": "ADM 508E",
+        "name": "Stabil.&Saf.Anal.of Float.Obj."
        },
        {
         "code": "ADM 511E",
@@ -258,40 +238,40 @@
         "name": "Scour Around Marine Structures"
        },
        {
+        "code": "ADM 506E",
+        "name": "Marine Corrosion &Corro.Cont."
+       },
+       {
+        "code": "ADM 503E",
+        "name": "Design Optimis.in Offsho.Eng."
+       },
+       {
+        "code": "ADM 505E",
+        "name": "Environ.Aspe.of Offsho.Activ."
+       },
+       {
+        "code": "ADM 507E",
+        "name": "Offshore Wind Farm Design"
+       },
+       {
+        "code": "ADM 510E",
+        "name": "Advanced Underwater Acoustics"
+       },
+       {
         "code": "LEE 901E",
         "name": "Academic Entrepreneurship"
-       },
-       {
-        "code": "LEE 901",
-        "name": "Akademik Girişimcilik"
-       },
-       {
-        "code": "LEE 903E",
-        "name": "Project Cycle Management"
-       },
-       {
-        "code": "LEE 903",
-        "name": "Proje Döngüsü Yönetimi"
-       },
-       {
-        "code": "LEE 904E",
-        "name": "Directed Studies"
-       },
-       {
-        "code": "LEE 904",
-        "name": "Yönlendirilmiş Çalışmalar"
        },
        {
         "code": "LEE 905E",
         "name": "Inovations Techniques and Patent Processes"
        },
        {
-        "code": "LEE 905",
-        "name": "İnovas.Teknik.&Patent Süreç."
+        "code": "LEE 903E",
+        "name": "Project Cycle Management"
        },
        {
-        "code": "LEE 906",
-        "name": "Yaratıcı Endüstriler için Blokzincir Teknolojisi"
+        "code": "LEE 904E",
+        "name": "Directed Studies"
        },
        {
         "code": "LEE 906E",
@@ -310,32 +290,12 @@
       ],
       "options": [
        {
-        "code": "ADM 503E",
-        "name": "Design Optimis.in Offsho.Eng."
-       },
-       {
-        "code": "ADM 505E",
-        "name": "Environ.Aspe.of Offsho.Activ."
-       },
-       {
-        "code": "ADM 506E",
-        "name": "Marine Corrosion &Corro.Cont."
-       },
-       {
-        "code": "ADM 507E",
-        "name": "Offshore Wind Farm Design"
-       },
-       {
-        "code": "ADM 508E",
-        "name": "Stabil.&Saf.Anal.of Float.Obj."
-       },
-       {
         "code": "ADM 509E",
         "name": "Special Topic.in Offshore Eng."
        },
        {
-        "code": "ADM 510E",
-        "name": "Advanced Underwater Acoustics"
+        "code": "ADM 508E",
+        "name": "Stabil.&Saf.Anal.of Float.Obj."
        },
        {
         "code": "ADM 511E",
@@ -346,44 +306,44 @@
         "name": "Scour Around Marine Structures"
        },
        {
-        "code": "LEE 901",
-        "name": "Akademik Girişimcilik"
+        "code": "ADM 506E",
+        "name": "Marine Corrosion &Corro.Cont."
+       },
+       {
+        "code": "ADM 503E",
+        "name": "Design Optimis.in Offsho.Eng."
+       },
+       {
+        "code": "ADM 505E",
+        "name": "Environ.Aspe.of Offsho.Activ."
+       },
+       {
+        "code": "ADM 507E",
+        "name": "Offshore Wind Farm Design"
+       },
+       {
+        "code": "ADM 510E",
+        "name": "Advanced Underwater Acoustics"
        },
        {
         "code": "LEE 901E",
         "name": "Academic Entrepreneurship"
        },
        {
-        "code": "LEE 903",
-        "name": "Proje Döngüsü Yönetimi"
+        "code": "LEE 905E",
+        "name": "Inovations Techniques and Patent Processes"
        },
        {
         "code": "LEE 903E",
         "name": "Project Cycle Management"
        },
        {
-        "code": "LEE 904",
-        "name": "Yönlendirilmiş Çalışmalar"
-       },
-       {
         "code": "LEE 904E",
         "name": "Directed Studies"
        },
        {
-        "code": "LEE 905",
-        "name": "İnovas.Teknik.&Patent Süreç."
-       },
-       {
-        "code": "LEE 905E",
-        "name": "Inovations Techniques and Patent Processes"
-       },
-       {
         "code": "LEE 906E",
         "name": "Blockchain Technology for Creative Industries"
-       },
-       {
-        "code": "LEE 906",
-        "name": "Yaratıcı Endüstriler için Blokzincir Teknolojisi"
        }
       ]
      }
@@ -398,32 +358,12 @@
       ],
       "options": [
        {
-        "code": "ADM 503E",
-        "name": "Design Optimis.in Offsho.Eng."
-       },
-       {
-        "code": "ADM 505E",
-        "name": "Environ.Aspe.of Offsho.Activ."
-       },
-       {
-        "code": "ADM 506E",
-        "name": "Marine Corrosion &Corro.Cont."
-       },
-       {
-        "code": "ADM 507E",
-        "name": "Offshore Wind Farm Design"
-       },
-       {
-        "code": "ADM 508E",
-        "name": "Stabil.&Saf.Anal.of Float.Obj."
-       },
-       {
         "code": "ADM 509E",
         "name": "Special Topic.in Offshore Eng."
        },
        {
-        "code": "ADM 510E",
-        "name": "Advanced Underwater Acoustics"
+        "code": "ADM 508E",
+        "name": "Stabil.&Saf.Anal.of Float.Obj."
        },
        {
         "code": "ADM 511E",
@@ -434,44 +374,44 @@
         "name": "Scour Around Marine Structures"
        },
        {
-        "code": "LEE 901",
-        "name": "Akademik Girişimcilik"
+        "code": "ADM 506E",
+        "name": "Marine Corrosion &Corro.Cont."
+       },
+       {
+        "code": "ADM 503E",
+        "name": "Design Optimis.in Offsho.Eng."
+       },
+       {
+        "code": "ADM 505E",
+        "name": "Environ.Aspe.of Offsho.Activ."
+       },
+       {
+        "code": "ADM 507E",
+        "name": "Offshore Wind Farm Design"
+       },
+       {
+        "code": "ADM 510E",
+        "name": "Advanced Underwater Acoustics"
        },
        {
         "code": "LEE 901E",
         "name": "Academic Entrepreneurship"
        },
        {
-        "code": "LEE 903",
-        "name": "Proje Döngüsü Yönetimi"
+        "code": "LEE 905E",
+        "name": "Inovations Techniques and Patent Processes"
        },
        {
         "code": "LEE 903E",
         "name": "Project Cycle Management"
        },
        {
-        "code": "LEE 904",
-        "name": "Yönlendirilmiş Çalışmalar"
-       },
-       {
         "code": "LEE 904E",
         "name": "Directed Studies"
        },
        {
-        "code": "LEE 905",
-        "name": "İnovas.Teknik.&Patent Süreç."
-       },
-       {
-        "code": "LEE 905E",
-        "name": "Inovations Techniques and Patent Processes"
-       },
-       {
         "code": "LEE 906E",
         "name": "Blockchain Technology for Creative Industries"
-       },
-       {
-        "code": "LEE 906",
-        "name": "Yaratıcı Endüstriler için Blokzincir Teknolojisi"
        }
       ]
      }
@@ -486,32 +426,12 @@
       ],
       "options": [
        {
-        "code": "ADM 503E",
-        "name": "Design Optimis.in Offsho.Eng."
-       },
-       {
-        "code": "ADM 505E",
-        "name": "Environ.Aspe.of Offsho.Activ."
-       },
-       {
-        "code": "ADM 506E",
-        "name": "Marine Corrosion &Corro.Cont."
-       },
-       {
-        "code": "ADM 507E",
-        "name": "Offshore Wind Farm Design"
-       },
-       {
-        "code": "ADM 508E",
-        "name": "Stabil.&Saf.Anal.of Float.Obj."
-       },
-       {
         "code": "ADM 509E",
         "name": "Special Topic.in Offshore Eng."
        },
        {
-        "code": "ADM 510E",
-        "name": "Advanced Underwater Acoustics"
+        "code": "ADM 508E",
+        "name": "Stabil.&Saf.Anal.of Float.Obj."
        },
        {
         "code": "ADM 511E",
@@ -522,44 +442,44 @@
         "name": "Scour Around Marine Structures"
        },
        {
-        "code": "LEE 901",
-        "name": "Akademik Girişimcilik"
+        "code": "ADM 506E",
+        "name": "Marine Corrosion &Corro.Cont."
+       },
+       {
+        "code": "ADM 503E",
+        "name": "Design Optimis.in Offsho.Eng."
+       },
+       {
+        "code": "ADM 505E",
+        "name": "Environ.Aspe.of Offsho.Activ."
+       },
+       {
+        "code": "ADM 507E",
+        "name": "Offshore Wind Farm Design"
+       },
+       {
+        "code": "ADM 510E",
+        "name": "Advanced Underwater Acoustics"
        },
        {
         "code": "LEE 901E",
         "name": "Academic Entrepreneurship"
        },
        {
-        "code": "LEE 903",
-        "name": "Proje Döngüsü Yönetimi"
+        "code": "LEE 905E",
+        "name": "Inovations Techniques and Patent Processes"
        },
        {
         "code": "LEE 903E",
         "name": "Project Cycle Management"
        },
        {
-        "code": "LEE 904",
-        "name": "Yönlendirilmiş Çalışmalar"
-       },
-       {
         "code": "LEE 904E",
         "name": "Directed Studies"
        },
        {
-        "code": "LEE 905",
-        "name": "İnovas.Teknik.&Patent Süreç."
-       },
-       {
-        "code": "LEE 905E",
-        "name": "Inovations Techniques and Patent Processes"
-       },
-       {
         "code": "LEE 906E",
         "name": "Blockchain Technology for Creative Industries"
-       },
-       {
-        "code": "LEE 906",
-        "name": "Yaratıcı Endüstriler için Blokzincir Teknolojisi"
        }
       ]
      }

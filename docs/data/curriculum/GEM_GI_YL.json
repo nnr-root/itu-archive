@@ -40,11 +40,11 @@
       ],
       "options": [
        {
-        "code": "GEM 509",
-        "name": "Mühendislikte Matem.Yöntemler"
+        "code": "GEM 509E",
+        "name": "Mathematical Methods in Eng."
        },
        {
-        "code": "MKC 501E",
+        "code": "YAP 501E",
         "name": "Engineering Mathematics"
        },
        {
@@ -52,7 +52,7 @@
         "name": "Engineering Mathematics"
        },
        {
-        "code": "YAP 501E",
+        "code": "MKC 501E",
         "name": "Engineering Mathematics"
        }
       ]
@@ -72,10 +72,6 @@
         "name": "Num.Tech.For Engin.Problems"
        },
        {
-        "code": "GEM 513",
-        "name": "Gemi Yapı Analizi"
-       },
-       {
         "code": "GEM 514E",
         "name": "A.Exper.Methods in Naval Archt"
        },
@@ -86,6 +82,10 @@
        {
         "code": "GEM 520E",
         "name": "Hydrodynamics of Float.Bodies"
+       },
+       {
+        "code": "GEM 513",
+        "name": "Gemi Yapı Analizi"
        }
       ]
      }
@@ -104,10 +104,6 @@
         "name": "Num.Tech.For Engin.Problems"
        },
        {
-        "code": "GEM 513",
-        "name": "Gemi Yapı Analizi"
-       },
-       {
         "code": "GEM 514E",
         "name": "A.Exper.Methods in Naval Archt"
        },
@@ -118,6 +114,10 @@
        {
         "code": "GEM 520E",
         "name": "Hydrodynamics of Float.Bodies"
+       },
+       {
+        "code": "GEM 513",
+        "name": "Gemi Yapı Analizi"
        }
       ]
      }
@@ -136,10 +136,6 @@
         "name": "Num.Tech.For Engin.Problems"
        },
        {
-        "code": "GEM 513",
-        "name": "Gemi Yapı Analizi"
-       },
-       {
         "code": "GEM 514E",
         "name": "A.Exper.Methods in Naval Archt"
        },
@@ -150,6 +146,10 @@
        {
         "code": "GEM 520E",
         "name": "Hydrodynamics of Float.Bodies"
+       },
+       {
+        "code": "GEM 513",
+        "name": "Gemi Yapı Analizi"
        }
       ]
      }

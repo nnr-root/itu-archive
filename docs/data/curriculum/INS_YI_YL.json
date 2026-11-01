@@ -30,35 +30,23 @@
       ],
       "options": [
        {
-        "code": "HSK 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "HSK 596E",
-        "name": "Scien.Rese., Ethic&Seminar"
-       },
-       {
-        "code": "ULS 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "YAP 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
         "code": "YAP 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "YIP 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
+        "code": "ULS 596E",
+        "name": "Scientific Research, Ethic and Seminar"
        },
        {
         "code": "ZMG 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "ZMG 596",
+        "code": "HSK 596E",
+        "name": "Scien.Rese., Ethic&Seminar"
+       },
+       {
+        "code": "YIP 596",
         "name": "Bilimsel Araş.,Etik ve Seminer"
        }
       ]
@@ -74,12 +62,12 @@
       ],
       "options": [
        {
-        "code": "ULS 501E",
-        "name": "Mathe.&Sta.Meth.in Tran.Eng."
-       },
-       {
         "code": "YAP 501E",
         "name": "Engineering Mathematics"
+       },
+       {
+        "code": "ULS 501E",
+        "name": "Mathe.&Sta.Meth.in Tran.Eng."
        },
        {
         "code": "YIP 501E",
@@ -98,12 +86,16 @@
       ],
       "options": [
        {
-        "code": "YIP 503E",
-        "name": "Contractors Financial Reporting and Analysis"
+        "code": "YIP 513E",
+        "name": "Contract Administration"
        },
        {
-        "code": "YIP 503",
-        "name": "Yüklen.Firma.Finan.Rapor.&Çöz."
+        "code": "YIP 518E",
+        "name": "Building Information Modeling"
+       },
+       {
+        "code": "YIP 503E",
+        "name": "Contractors Financial Reporting and Analysis"
        },
        {
         "code": "YIP 505E",
@@ -112,14 +104,6 @@
        {
         "code": "YIP 506",
         "name": "Bilgisayar Destekli Plan.Sist."
-       },
-       {
-        "code": "YIP 513E",
-        "name": "Contract Administration"
-       },
-       {
-        "code": "YIP 518E",
-        "name": "Building Information Modeling"
        }
       ]
      }
@@ -134,8 +118,12 @@
       ],
       "options": [
        {
-        "code": "YIP 503",
-        "name": "Yüklen.Firma.Finan.Rapor.&Çöz."
+        "code": "YIP 513E",
+        "name": "Contract Administration"
+       },
+       {
+        "code": "YIP 518E",
+        "name": "Building Information Modeling"
        },
        {
         "code": "YIP 503E",
@@ -148,14 +136,6 @@
        {
         "code": "YIP 506",
         "name": "Bilgisayar Destekli Plan.Sist."
-       },
-       {
-        "code": "YIP 513E",
-        "name": "Contract Administration"
-       },
-       {
-        "code": "YIP 518E",
-        "name": "Building Information Modeling"
        }
       ]
      }
@@ -170,8 +150,12 @@
       ],
       "options": [
        {
-        "code": "YIP 503",
-        "name": "Yüklen.Firma.Finan.Rapor.&Çöz."
+        "code": "YIP 513E",
+        "name": "Contract Administration"
+       },
+       {
+        "code": "YIP 518E",
+        "name": "Building Information Modeling"
        },
        {
         "code": "YIP 503E",
@@ -184,14 +168,6 @@
        {
         "code": "YIP 506",
         "name": "Bilgisayar Destekli Plan.Sist."
-       },
-       {
-        "code": "YIP 513E",
-        "name": "Contract Administration"
-       },
-       {
-        "code": "YIP 518E",
-        "name": "Building Information Modeling"
        }
       ]
      }

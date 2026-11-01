@@ -240,8 +240,28 @@
       ],
       "options": [
        {
-        "code": "ING 102",
-        "name": "English II"
+        "code": "ING 103H",
+        "name": "Public Presentations"
+       },
+       {
+        "code": "ING 103G",
+        "name": "Business Communications"
+       },
+       {
+        "code": "ING 103P",
+        "name": "Poetry"
+       },
+       {
+        "code": "ING 103B",
+        "name": "Business English"
+       },
+       {
+        "code": "ING 103AD",
+        "name": "Advanced English for Engineers"
+       },
+       {
+        "code": "ING 103O",
+        "name": "Psychology"
        },
        {
         "code": "ING 103A",
@@ -252,28 +272,8 @@
         "name": "Urban Ecology"
        },
        {
-        "code": "ING 103AD",
-        "name": "Advanced English for Engineers"
-       },
-       {
-        "code": "ING 103B",
-        "name": "Business English"
-       },
-       {
         "code": "ING 103C",
         "name": "Great Moments in Science"
-       },
-       {
-        "code": "ING 103G",
-        "name": "Business Communications"
-       },
-       {
-        "code": "ING 103H",
-        "name": "Public Presentations"
-       },
-       {
-        "code": "ING 103I",
-        "name": "Short Stories"
        },
        {
         "code": "ING 103L",
@@ -284,12 +284,12 @@
         "name": "Film Studies"
        },
        {
-        "code": "ING 103O",
-        "name": "Psychology"
+        "code": "ING 102",
+        "name": "English II"
        },
        {
-        "code": "ING 103P",
-        "name": "Poetry"
+        "code": "ING 103I",
+        "name": "Short Stories"
        }
       ]
      }
@@ -392,140 +392,116 @@
       ],
       "options": [
        {
-        "code": "SNT 101",
-        "name": "Heykel Sanatına Bakış"
+        "code": "SNT 105E",
+        "name": "Film Art"
        },
        {
-        "code": "SNT 102E",
-        "name": "Photography"
+        "code": "SNT 101E",
+        "name": "Looking at the Art of Sculpture"
        },
        {
-        "code": "SNT 102",
-        "name": "Fotoğraf"
+        "code": "SNT 106E",
+        "name": "Traditional Turkish Art&Crafts"
        },
        {
         "code": "SNT 103E",
         "name": "Drawing"
        },
        {
-        "code": "SNT 103",
-        "name": "Desen"
-       },
-       {
-        "code": "SNT 104E",
-        "name": "Mythology and Art"
-       },
-       {
-        "code": "SNT 104",
-        "name": "Mitoloji ve Sanat"
-       },
-       {
-        "code": "SNT 105",
-        "name": "Sinema Sanatı"
-       },
-       {
-        "code": "SNT 106",
-        "name": "Geleneks. Türk El Sanatları"
-       },
-       {
-        "code": "SNT 107",
-        "name": "İlkçağ Anadolu Uygarlıkları"
-       },
-       {
-        "code": "SNT 108",
-        "name": "Seramik"
+        "code": "SNT 108E",
+        "name": "Ceramic"
        },
        {
         "code": "SNT 109",
         "name": "Kazı Resim (Gravür)"
        },
        {
-        "code": "SNT 111",
-        "name": "Moda Tasarımı ve Sanat"
+        "code": "SNT 114E",
+        "name": "Contemporary Art"
        },
        {
-        "code": "SNT 112E",
-        "name": "Theater"
+        "code": "SNT 119E",
+        "name": "History of Popular Music"
        },
        {
-        "code": "SNT 112",
-        "name": "Tiyatro"
+        "code": "SNT 226E",
+        "name": "Philosophy of Art"
        },
        {
-        "code": "SNT 113",
-        "name": "Sanat ve Yorum"
-       },
-       {
-        "code": "SNT 114",
-        "name": "Günümüz Sanatı"
-       },
-       {
-        "code": "SNT 115",
-        "name": "Modernite ve Görsel Kültür"
-       },
-       {
-        "code": "SNT 116E",
-        "name": "The Art of Communication"
-       },
-       {
-        "code": "SNT 116",
-        "name": "İletişim Sanatı"
-       },
-       {
-        "code": "SNT 117E",
-        "name": "Jazz Appreciation"
-       },
-       {
-        "code": "SNT 118",
-        "name": "Müzik Arkeolojisi"
-       },
-       {
-        "code": "SNT 119",
-        "name": "Popüler Müzik Tarihi"
-       },
-       {
-        "code": "SNT 121E",
-        "name": "World Music Cultures"
+        "code": "SNT 115E",
+        "name": "Modernity and Visual Culture"
        },
        {
         "code": "SNT 122",
         "name": "Seramik Sanatı"
        },
        {
-        "code": "SNT 123",
-        "name": "Film Yapımı"
+        "code": "SNT 214E",
+        "name": "Performance, Music and Dance"
        },
        {
-        "code": "SNT 123E",
-        "name": "Film Production"
+        "code": "SNT 227E",
+        "name": "Sound and Society"
        },
        {
-        "code": "SNT 211",
-        "name": "İstanbul:Tarih,Sanat ve Toplum"
+        "code": "SNT 112E",
+        "name": "Theater"
        },
        {
-        "code": "SNT 212",
-        "name": "Sanat,Kültür ve Toplum"
+        "code": "SNT 116E",
+        "name": "The Art of Communication"
+       },
+       {
+        "code": "SNT 111",
+        "name": "Moda Tasarımı ve Sanat"
+       },
+       {
+        "code": "SNT 212E",
+        "name": "Art,Culture and Society"
        },
        {
         "code": "SNT 213",
         "name": "Türkiye Müzik Kültürleri"
        },
        {
-        "code": "SNT 214",
-        "name": "Performans, Müzik ve Dans"
+        "code": "SNT 104E",
+        "name": "Mythology and Art"
+       },
+       {
+        "code": "SNT 107E",
+        "name": "Ancient Civilizat.in Anatolia"
+       },
+       {
+        "code": "SNT 118",
+        "name": "Müzik Arkeolojisi"
+       },
+       {
+        "code": "SNT 123E",
+        "name": "Film Production"
+       },
+       {
+        "code": "SNT 113E",
+        "name": "Art and Interpretation"
+       },
+       {
+        "code": "SNT 102E",
+        "name": "Photography"
+       },
+       {
+        "code": "SNT 117E",
+        "name": "Jazz Appreciation"
+       },
+       {
+        "code": "SNT 211E",
+        "name": "Istanbul:Hist.,Art and Society"
        },
        {
         "code": "SNT 215E",
         "name": "Balkan Musics"
        },
        {
-        "code": "SNT 226",
-        "name": "Sanat Felsefesi"
-       },
-       {
-        "code": "SNT 227E",
-        "name": "Sound and Society"
+        "code": "SNT 121E",
+        "name": "World Music Cultures"
        },
        {
         "code": "SNT 228",
@@ -547,6 +523,38 @@
       ],
       "options": [
        {
+        "code": "BLG 112E",
+        "name": "Discrete Mathematics"
+       },
+       {
+        "code": "MAT 202E",
+        "name": "Numerical Methods"
+       },
+       {
+        "code": "MAT 205E",
+        "name": "Theory of Complex Functions"
+       },
+       {
+        "code": "MAT 206E",
+        "name": "Fuzzy Mathematics"
+       },
+       {
+        "code": "MAT 301E",
+        "name": "Partial Differantial Equations"
+       },
+       {
+        "code": "MAT 208E",
+        "name": "Science and History of Mathematics"
+       },
+       {
+        "code": "KIM 204E",
+        "name": "General Chemistry II"
+       },
+       {
+        "code": "FIZ 201E",
+        "name": "Modern Physics"
+       },
+       {
         "code": "BIO 301E",
         "name": "Fundamentals of Biology"
        },
@@ -555,44 +563,8 @@
         "name": "Fundamentals of Biotechnology"
        },
        {
-        "code": "BLG 112",
-        "name": "Ayrık Matematik"
-       },
-       {
-        "code": "FIZ 201",
-        "name": "Modern Fizik"
-       },
-       {
-        "code": "KIM 204",
-        "name": "Genel Kimya II"
-       },
-       {
-        "code": "MAT 106",
-        "name": "Analitik Geometri&Vektör Hesab"
-       },
-       {
-        "code": "MAT 202",
-        "name": "Sayısal Yöntemler"
-       },
-       {
-        "code": "MAT 205",
-        "name": "Kompleks Fonk Teorisi"
-       },
-       {
-        "code": "MAT 206E",
-        "name": "Fuzzy Mathematics"
-       },
-       {
-        "code": "MAT 206",
-        "name": "Mühendislikte Bulanık Mat"
-       },
-       {
-        "code": "MAT 208",
-        "name": "Bilim ve Matematik Tarihi"
-       },
-       {
-        "code": "MAT 301",
-        "name": "Kısmi Türevli Dif. Denk."
+        "code": "MAT 106E",
+        "name": "Analytic Geometry and Vector Calculation"
        }
       ]
      }
@@ -696,6 +668,38 @@
       ],
       "options": [
        {
+        "code": "BLG 112E",
+        "name": "Discrete Mathematics"
+       },
+       {
+        "code": "MAT 202E",
+        "name": "Numerical Methods"
+       },
+       {
+        "code": "MAT 205E",
+        "name": "Theory of Complex Functions"
+       },
+       {
+        "code": "MAT 206E",
+        "name": "Fuzzy Mathematics"
+       },
+       {
+        "code": "MAT 301E",
+        "name": "Partial Differantial Equations"
+       },
+       {
+        "code": "MAT 208E",
+        "name": "Science and History of Mathematics"
+       },
+       {
+        "code": "KIM 204E",
+        "name": "General Chemistry II"
+       },
+       {
+        "code": "FIZ 201E",
+        "name": "Modern Physics"
+       },
+       {
         "code": "BIO 301E",
         "name": "Fundamentals of Biology"
        },
@@ -704,44 +708,8 @@
         "name": "Fundamentals of Biotechnology"
        },
        {
-        "code": "BLG 112",
-        "name": "Ayrık Matematik"
-       },
-       {
-        "code": "FIZ 201",
-        "name": "Modern Fizik"
-       },
-       {
-        "code": "KIM 204",
-        "name": "Genel Kimya II"
-       },
-       {
-        "code": "MAT 106",
-        "name": "Analitik Geometri&Vektör Hesab"
-       },
-       {
-        "code": "MAT 202",
-        "name": "Sayısal Yöntemler"
-       },
-       {
-        "code": "MAT 205",
-        "name": "Kompleks Fonk Teorisi"
-       },
-       {
-        "code": "MAT 206E",
-        "name": "Fuzzy Mathematics"
-       },
-       {
-        "code": "MAT 206",
-        "name": "Mühendislikte Bulanık Mat"
-       },
-       {
-        "code": "MAT 208",
-        "name": "Bilim ve Matematik Tarihi"
-       },
-       {
-        "code": "MAT 301",
-        "name": "Kısmi Türevli Dif. Denk."
+        "code": "MAT 106E",
+        "name": "Analytic Geometry and Vector Calculation"
        }
       ]
      }
@@ -759,32 +727,32 @@
       ],
       "options": [
        {
-        "code": "DNK 201",
-        "name": "Dinamik"
+        "code": "ELK 234E",
+        "name": "Thermodynamics &Hydrodynamics"
        },
        {
-        "code": "ELK 214",
-        "name": "Elektromek. Enerji Dönüş.Tem."
+        "code": "ELK 214E",
+        "name": "Fund.of Electr. Energy Conver."
        },
        {
-        "code": "ELK 234",
-        "name": "Termodinamik ve Hidrodinamik"
+        "code": "STA 201E",
+        "name": "Statics"
        },
        {
-        "code": "KON 224",
-        "name": "Ölçme ve Enstrümantasyon"
+        "code": "STA 204E",
+        "name": "Statics&Strength of Materials"
        },
        {
-        "code": "MUK 203",
-        "name": "Mukavemet I"
+        "code": "MUK 203E",
+        "name": "Strength of Materials I"
        },
        {
-        "code": "STA 201",
-        "name": "Statik"
+        "code": "KON 224E",
+        "name": "Measurement&Instrumentation"
        },
        {
-        "code": "STA 204",
-        "name": "Statik ve Mukavemet"
+        "code": "DNK 201E",
+        "name": "Dynamics"
        }
       ]
      }
@@ -888,12 +856,12 @@
       ],
       "options": [
        {
-        "code": "EKO 201",
-        "name": "Ekonomi"
+        "code": "HUK 201E",
+        "name": "Labor Law"
        },
        {
-        "code": "HUK 201",
-        "name": "İş Hukuku"
+        "code": "EKO 201E",
+        "name": "Economics"
        }
       ]
      }
@@ -1026,28 +994,28 @@
       ],
       "options": [
        {
-        "code": "ELE 414E",
-        "name": "Microelectronic Analog Circuit Design"
-       },
-       {
-        "code": "ELE 416E",
-        "name": "High Frequency Electronics"
-       },
-       {
-        "code": "ELE 417E",
-        "name": "RF Microelectronics"
-       },
-       {
-        "code": "ELE 418E",
-        "name": "RF Electronic Applications"
-       },
-       {
         "code": "ELK 331E",
         "name": "Power Electronic Circuits"
        },
        {
         "code": "ELK 341E",
         "name": "Electrical Machines I"
+       },
+       {
+        "code": "ELE 418E",
+        "name": "RF Electronic Applications"
+       },
+       {
+        "code": "ELE 417E",
+        "name": "RF Microelectronics"
+       },
+       {
+        "code": "ELE 414E",
+        "name": "Microelectronic Analog Circuit Design"
+       },
+       {
+        "code": "ELE 416E",
+        "name": "High Frequency Electronics"
        }
       ]
      }
@@ -1062,84 +1030,36 @@
       ],
       "options": [
        {
-        "code": "BEB 120",
-        "name": "Spor ve Temel Bilimler"
-       },
-       {
-        "code": "BEB 121",
-        "name": "Spor ve Teknoloji"
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
-       },
-       {
-        "code": "HUK 216",
-        "name": "Telekomünikasyon Hukuku"
-       },
-       {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
-       },
-       {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
-       },
-       {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
         "code": "ISL 465E",
         "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ITB 020",
-        "name": "Modernitenin Oluşumu"
+        "code": "ING 103SC",
+        "name": "Science Communication"
        },
        {
-        "code": "ITB 020E",
-        "name": "Formations of Modernity"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
-        "code": "ITB 037",
-        "name": "Bilgi, Dil ve Mantık"
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "ITB 037E",
         "name": "Knowledge, Language & Logic"
-       },
-       {
-        "code": "ITB 087",
-        "name": "Medya ve Toplum"
        },
        {
         "code": "ITB 087E",
@@ -1150,244 +1070,172 @@
         "name": "International.Rel.and Globali."
        },
        {
-        "code": "ITB 094",
-        "name": "Uluslararası İlişkilerve Küreselleşme"
-       },
-       {
         "code": "ITB 095E",
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 095",
-        "name": "Teknoloji, Politika ve Hukuk"
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
        },
        {
-        "code": "ITB 143",
-        "name": "Durrel ve Said:Oryanta.Uyg ve"
+        "code": "HUK 218E",
+        "name": "Commercial Law"
        },
        {
-        "code": "ITB 151",
-        "name": "İnsan Kaynakları Yönetimi"
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
        },
        {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 171",
-        "name": "Bilim, Teknoloji ve Toplum"
-       },
-       {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179",
-        "name": "İçiçe Ayr.Ede.:Vizyone,Seyf.,A"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 201",
-        "name": "İnsan ve Topl. Bilim. Giriş"
-       },
-       {
-        "code": "ITB 202",
-        "name": "Dünya Tarihi"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 203",
-        "name": "Sosyoloji"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204",
-        "name": "Siyaset Bilimi"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
-       },
-       {
-        "code": "ITB 205",
-        "name": "Felsefe"
-       },
-       {
-        "code": "ITB 206E",
-        "name": "Issues in World Politics"
-       },
-       {
-        "code": "ITB 206",
-        "name": "Dünya Politikasında Meseleler"
-       },
-       {
-        "code": "ITB 207",
-        "name": "Osmanlı Tarihi"
-       },
-       {
-        "code": "ITB 207E",
-        "name": "Ottoman History"
-       },
-       {
-        "code": "ITB 208",
-        "name": "Modern Türkiye'nin Oluşumu"
-       },
-       {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
-        "code": "ITB 209",
-        "name": "Türkiye ve Dünya"
-       },
-       {
-        "code": "ITB 209E",
-        "name": "Türkiye in World Affairs"
-       },
-       {
-        "code": "ITB 211E",
-        "name": "Istanbul:Hist.,Art and Society"
-       },
-       {
         "code": "ITB 212E",
         "name": "Art,Culture and Society"
-       },
-       {
-        "code": "ITB 213E",
-        "name": "Toplics in Literature and Society"
-       },
-       {
-        "code": "ITB 213",
-        "name": "Edebiyat ve Toplum"
-       },
-       {
-        "code": "ITB 215",
-        "name": "Tarih ve Toplum"
-       },
-       {
-        "code": "ITB 215E",
-        "name": "Topics in Hist.and Society"
-       },
-       {
-        "code": "ITB 216",
-        "name": "Ekonomi ve Toplum"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
-       },
-       {
-        "code": "ITB 217",
-        "name": "Mühendislik Etiği"
-       },
-       {
-        "code": "ITB 217E",
-        "name": "Engineering Ethics"
-       },
-       {
-        "code": "ITB 218",
-        "name": "Bilim ve Teknoloji Tarihi"
-       },
-       {
-        "code": "ITB 218E",
-        "name": "History of Science&Technology"
-       },
-       {
-        "code": "ITB 219",
-        "name": "Etik"
-       },
-       {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 220",
-        "name": "Psikoloji"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 221",
-        "name": "Anadolu Arkeolojisi"
-       },
-       {
-        "code": "ITB 222E",
-        "name": "City and Society"
-       },
-       {
-        "code": "ITB 222",
-        "name": "Kent ve Toplum"
-       },
-       {
-        "code": "ITB 224E",
-        "name": "Environment and Society"
-       },
-       {
-        "code": "ITB 224",
-        "name": "Çevre ve Toplum"
-       },
-       {
-        "code": "ITB 226E",
-        "name": "Philosophy of Art"
-       },
-       {
-        "code": "ITB 227E",
-        "name": "Political Theory"
-       },
-       {
-        "code": "ITB 227",
-        "name": "Siyaset Teorisi"
        },
        {
         "code": "ITB 228E",
         "name": "Gender Studies"
        },
        {
-        "code": "ITB 228",
-        "name": "Toplumsal Cinsiyet Çalışmaları"
+        "code": "ITB 206E",
+        "name": "Issues in World Politics"
        },
        {
-        "code": "ITB 230",
-        "name": "Afet Bilinci"
+        "code": "ITB 207E",
+        "name": "Ottoman History"
+       },
+       {
+        "code": "ITB 209E",
+        "name": "Türkiye in World Affairs"
+       },
+       {
+        "code": "ITB 217E",
+        "name": "Engineering Ethics"
+       },
+       {
+        "code": "ITB 233E",
+        "name": "Anthropology"
+       },
+       {
+        "code": "ITB 203E",
+        "name": "Sociology"
+       },
+       {
+        "code": "ITB 230E",
+        "name": "Disaster Awareness"
        },
        {
         "code": "ITB 231E",
         "name": "Volunteering Studies"
        },
        {
-        "code": "ITB 231",
-        "name": "Gönüllülük Çalışmaları"
+        "code": "ITB 234E",
+        "name": "The Rise of Civilizations"
        },
        {
-        "code": "ITB 233",
-        "name": "Antropoloji"
+        "code": "ITB 213E",
+        "name": "Toplics in Literature and Society"
        },
        {
-        "code": "ITB 234",
-        "name": "Medeniyetlerin Doğuşu"
+        "code": "ITB 219E",
+        "name": "Ethics"
+       },
+       {
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "ITB 215E",
+        "name": "Topics in Hist.and Society"
+       },
+       {
+        "code": "ITB 226E",
+        "name": "Philosophy of Art"
+       },
+       {
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
+       },
+       {
+        "code": "ITB 222E",
+        "name": "City and Society"
+       },
+       {
+        "code": "ITB 224E",
+        "name": "Environment and Society"
+       },
+       {
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
+       },
+       {
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
+       },
+       {
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
+        "code": "ITB 227E",
+        "name": "Political Theory"
+       },
+       {
+        "code": "BEB 121",
+        "name": "Spor ve Teknoloji"
+       },
+       {
+        "code": "BEB 120",
+        "name": "Spor ve Temel Bilimler"
        }
       ]
      }
@@ -1404,60 +1252,60 @@
       ],
       "options": [
        {
-        "code": "BLG 441",
-        "name": "Say.İşaret İşl.ile Ger.Zam.S.T"
+        "code": "ELK 331E",
+        "name": "Power Electronic Circuits"
        },
        {
-        "code": "ELE 412",
-        "name": "Yarıiletken Elemanlar"
+        "code": "ELK 341E",
+        "name": "Electrical Machines I"
        },
        {
-        "code": "ELE 413",
-        "name": "Çok Geniş Ölçekli Tümdevre Tasarımı I"
+        "code": "BLG 441E",
+        "name": "Real-Time System Design by Digital Signal Processors"
        },
        {
-        "code": "ELE 415",
-        "name": "Analog Tümdevreler"
+        "code": "ELE 412E",
+        "name": "Semiconductor Devices"
        },
        {
-        "code": "ELE 419",
-        "name": "Sayısal Sistem Tasarımı"
+        "code": "ELE 413E",
+        "name": "Very Large Scale Integrated Circuit Design I"
        },
        {
-        "code": "ELE 420",
-        "name": "Yapay Sinir Ağları"
+        "code": "ELE 420E",
+        "name": "Artificial Neural Networks"
        },
        {
-        "code": "ELE 421",
-        "name": "Tıp Elektroniğine Giriş"
+        "code": "ELE 443E",
+        "name": "CMOS RF Circuit Design"
        },
        {
-        "code": "ELE 422",
-        "name": "Biyolojik İşaretlerin Oluşumu ve Algılanması Yöntemleri"
+        "code": "ELE 419E",
+        "name": "Digital System Design"
        },
        {
-        "code": "ELE 424",
-        "name": "Ses Ötesi ve Tıp Alanındaki Uygulamaları"
+        "code": "ELE 424E",
+        "name": "Ultrosound and Applications in Medicine"
        },
        {
-        "code": "ELE 436",
-        "name": "Sayısal Sistem Tasarımı Laboratuvarı"
+        "code": "ELE 436E",
+        "name": "Applications of Digital System Design"
        },
        {
-        "code": "ELE 443",
-        "name": "CMOS Yüksek Devre Frekans Tasarımı"
+        "code": "ELE 415E",
+        "name": "Aanalog Integrated Circuits"
        },
        {
-        "code": "ELK 331",
-        "name": "Güç Elektroniği Devreleri"
+        "code": "ELE 421E",
+        "name": "Introduction to Medical Electronics"
        },
        {
-        "code": "ELK 341",
-        "name": "Elektrik Makinaları I"
+        "code": "ELE 422E",
+        "name": "The Origin and Sensing Methods of Biological Signals"
        },
        {
-        "code": "KON 424",
-        "name": "Biyolojik Sist.Model.ve Kontro"
+        "code": "KON 424E",
+        "name": "Mod.&Cntrl of Biological Sys."
        }
       ]
      }
@@ -1474,60 +1322,60 @@
       ],
       "options": [
        {
-        "code": "BLG 441",
-        "name": "Say.İşaret İşl.ile Ger.Zam.S.T"
+        "code": "ELK 331E",
+        "name": "Power Electronic Circuits"
        },
        {
-        "code": "ELE 412",
-        "name": "Yarıiletken Elemanlar"
+        "code": "ELK 341E",
+        "name": "Electrical Machines I"
        },
        {
-        "code": "ELE 413",
-        "name": "Çok Geniş Ölçekli Tümdevre Tasarımı I"
+        "code": "BLG 441E",
+        "name": "Real-Time System Design by Digital Signal Processors"
        },
        {
-        "code": "ELE 415",
-        "name": "Analog Tümdevreler"
+        "code": "ELE 412E",
+        "name": "Semiconductor Devices"
        },
        {
-        "code": "ELE 419",
-        "name": "Sayısal Sistem Tasarımı"
+        "code": "ELE 413E",
+        "name": "Very Large Scale Integrated Circuit Design I"
        },
        {
-        "code": "ELE 420",
-        "name": "Yapay Sinir Ağları"
+        "code": "ELE 420E",
+        "name": "Artificial Neural Networks"
        },
        {
-        "code": "ELE 421",
-        "name": "Tıp Elektroniğine Giriş"
+        "code": "ELE 443E",
+        "name": "CMOS RF Circuit Design"
        },
        {
-        "code": "ELE 422",
-        "name": "Biyolojik İşaretlerin Oluşumu ve Algılanması Yöntemleri"
+        "code": "ELE 419E",
+        "name": "Digital System Design"
        },
        {
-        "code": "ELE 424",
-        "name": "Ses Ötesi ve Tıp Alanındaki Uygulamaları"
+        "code": "ELE 424E",
+        "name": "Ultrosound and Applications in Medicine"
        },
        {
-        "code": "ELE 436",
-        "name": "Sayısal Sistem Tasarımı Laboratuvarı"
+        "code": "ELE 436E",
+        "name": "Applications of Digital System Design"
        },
        {
-        "code": "ELE 443",
-        "name": "CMOS Yüksek Devre Frekans Tasarımı"
+        "code": "ELE 415E",
+        "name": "Aanalog Integrated Circuits"
        },
        {
-        "code": "ELK 331",
-        "name": "Güç Elektroniği Devreleri"
+        "code": "ELE 421E",
+        "name": "Introduction to Medical Electronics"
        },
        {
-        "code": "ELK 341",
-        "name": "Elektrik Makinaları I"
+        "code": "ELE 422E",
+        "name": "The Origin and Sensing Methods of Biological Signals"
        },
        {
-        "code": "KON 424",
-        "name": "Biyolojik Sist.Model.ve Kontro"
+        "code": "KON 424E",
+        "name": "Mod.&Cntrl of Biological Sys."
        }
       ]
      }
@@ -1544,60 +1392,60 @@
       ],
       "options": [
        {
-        "code": "BLG 441",
-        "name": "Say.İşaret İşl.ile Ger.Zam.S.T"
+        "code": "ELK 331E",
+        "name": "Power Electronic Circuits"
        },
        {
-        "code": "ELE 412",
-        "name": "Yarıiletken Elemanlar"
+        "code": "ELK 341E",
+        "name": "Electrical Machines I"
        },
        {
-        "code": "ELE 413",
-        "name": "Çok Geniş Ölçekli Tümdevre Tasarımı I"
+        "code": "BLG 441E",
+        "name": "Real-Time System Design by Digital Signal Processors"
        },
        {
-        "code": "ELE 415",
-        "name": "Analog Tümdevreler"
+        "code": "ELE 412E",
+        "name": "Semiconductor Devices"
        },
        {
-        "code": "ELE 419",
-        "name": "Sayısal Sistem Tasarımı"
+        "code": "ELE 413E",
+        "name": "Very Large Scale Integrated Circuit Design I"
        },
        {
-        "code": "ELE 420",
-        "name": "Yapay Sinir Ağları"
+        "code": "ELE 420E",
+        "name": "Artificial Neural Networks"
        },
        {
-        "code": "ELE 421",
-        "name": "Tıp Elektroniğine Giriş"
+        "code": "ELE 443E",
+        "name": "CMOS RF Circuit Design"
        },
        {
-        "code": "ELE 422",
-        "name": "Biyolojik İşaretlerin Oluşumu ve Algılanması Yöntemleri"
+        "code": "ELE 419E",
+        "name": "Digital System Design"
        },
        {
-        "code": "ELE 424",
-        "name": "Ses Ötesi ve Tıp Alanındaki Uygulamaları"
+        "code": "ELE 424E",
+        "name": "Ultrosound and Applications in Medicine"
        },
        {
-        "code": "ELE 436",
-        "name": "Sayısal Sistem Tasarımı Laboratuvarı"
+        "code": "ELE 436E",
+        "name": "Applications of Digital System Design"
        },
        {
-        "code": "ELE 443",
-        "name": "CMOS Yüksek Devre Frekans Tasarımı"
+        "code": "ELE 415E",
+        "name": "Aanalog Integrated Circuits"
        },
        {
-        "code": "ELK 331",
-        "name": "Güç Elektroniği Devreleri"
+        "code": "ELE 421E",
+        "name": "Introduction to Medical Electronics"
        },
        {
-        "code": "ELK 341",
-        "name": "Elektrik Makinaları I"
+        "code": "ELE 422E",
+        "name": "The Origin and Sensing Methods of Biological Signals"
        },
        {
-        "code": "KON 424",
-        "name": "Biyolojik Sist.Model.ve Kontro"
+        "code": "KON 424E",
+        "name": "Mod.&Cntrl of Biological Sys."
        }
       ]
      }
@@ -1642,8 +1490,8 @@
       ],
       "options": [
        {
-        "code": "ELE 426E",
-        "name": "Microelectronic Analog System Design"
+        "code": "TEL 432E",
+        "name": "Image Processing Fundamentals"
        },
        {
         "code": "ELE 429E",
@@ -1654,8 +1502,8 @@
         "name": "Microprocessor System Design"
        },
        {
-        "code": "TEL 432E",
-        "name": "Image Processing Fundamentals"
+        "code": "ELE 426E",
+        "name": "Microelectronic Analog System Design"
        },
        {
         "code": "TEL 434E",
@@ -1675,40 +1523,12 @@
       ],
       "options": [
        {
-        "code": "ELE 425",
-        "name": "Çok Geniş Ölçekli Tümdevre Tasarımı II"
+        "code": "ELE 430E",
+        "name": "Radio-Television Systems"
        },
        {
-        "code": "ELE 427",
-        "name": "Mikroelektronik Teknolojisi"
-       },
-       {
-        "code": "ELE 428",
-        "name": "Endüstriyel Elektronik"
-       },
-       {
-        "code": "ELE 430",
-        "name": "Radyo-Televizyon Sistemleri"
-       },
-       {
-        "code": "ELE 431",
-        "name": "İleri Elektronik Laboratuvarı"
-       },
-       {
-        "code": "ELE 433",
-        "name": "Sayısal Filtreler ve Sistemler"
-       },
-       {
-        "code": "ELE 434",
-        "name": "Lineer Olmayan Devreler ve Sistemler"
-       },
-       {
-        "code": "ELE 435",
-        "name": "Mühendislik Sistem Analizi"
-       },
-       {
-        "code": "ELE 437",
-        "name": "Biyomedikal Düzenler"
+        "code": "ELE 443E",
+        "name": "CMOS RF Circuit Design"
        },
        {
         "code": "ELE 438",
@@ -1719,12 +1539,40 @@
         "name": "Tıp Alanında Kullanılan Bilgisayar Destekli Düzenler"
        },
        {
-        "code": "ELE 443",
-        "name": "CMOS Yüksek Devre Frekans Tasarımı"
-       },
-       {
         "code": "ELE 445",
         "name": "Tıbbi Enstrumantasyon, Tasarım ve Uygulamalar"
+       },
+       {
+        "code": "ELE 435E",
+        "name": "Engineering Systems Analysis"
+       },
+       {
+        "code": "ELE 437E",
+        "name": "Biomedical Devices"
+       },
+       {
+        "code": "ELE 427E",
+        "name": "Microelectronics Technology"
+       },
+       {
+        "code": "ELE 425E",
+        "name": "Very Large Scale Integrated Circuit Design II"
+       },
+       {
+        "code": "ELE 428E",
+        "name": "Industrial Electronics"
+       },
+       {
+        "code": "ELE 433E",
+        "name": "Digital Filters and Systems"
+       },
+       {
+        "code": "ELE 434E",
+        "name": "Nonlinear Circuits and Systems"
+       },
+       {
+        "code": "ELE 431",
+        "name": "İleri Elektronik Laboratuvarı"
        }
       ]
      }
@@ -1740,40 +1588,12 @@
       ],
       "options": [
        {
-        "code": "ELE 425",
-        "name": "Çok Geniş Ölçekli Tümdevre Tasarımı II"
+        "code": "ELE 430E",
+        "name": "Radio-Television Systems"
        },
        {
-        "code": "ELE 427",
-        "name": "Mikroelektronik Teknolojisi"
-       },
-       {
-        "code": "ELE 428",
-        "name": "Endüstriyel Elektronik"
-       },
-       {
-        "code": "ELE 430",
-        "name": "Radyo-Televizyon Sistemleri"
-       },
-       {
-        "code": "ELE 431",
-        "name": "İleri Elektronik Laboratuvarı"
-       },
-       {
-        "code": "ELE 433",
-        "name": "Sayısal Filtreler ve Sistemler"
-       },
-       {
-        "code": "ELE 434",
-        "name": "Lineer Olmayan Devreler ve Sistemler"
-       },
-       {
-        "code": "ELE 435",
-        "name": "Mühendislik Sistem Analizi"
-       },
-       {
-        "code": "ELE 437",
-        "name": "Biyomedikal Düzenler"
+        "code": "ELE 443E",
+        "name": "CMOS RF Circuit Design"
        },
        {
         "code": "ELE 438",
@@ -1784,12 +1604,40 @@
         "name": "Tıp Alanında Kullanılan Bilgisayar Destekli Düzenler"
        },
        {
-        "code": "ELE 443",
-        "name": "CMOS Yüksek Devre Frekans Tasarımı"
-       },
-       {
         "code": "ELE 445",
         "name": "Tıbbi Enstrumantasyon, Tasarım ve Uygulamalar"
+       },
+       {
+        "code": "ELE 435E",
+        "name": "Engineering Systems Analysis"
+       },
+       {
+        "code": "ELE 437E",
+        "name": "Biomedical Devices"
+       },
+       {
+        "code": "ELE 427E",
+        "name": "Microelectronics Technology"
+       },
+       {
+        "code": "ELE 425E",
+        "name": "Very Large Scale Integrated Circuit Design II"
+       },
+       {
+        "code": "ELE 428E",
+        "name": "Industrial Electronics"
+       },
+       {
+        "code": "ELE 433E",
+        "name": "Digital Filters and Systems"
+       },
+       {
+        "code": "ELE 434E",
+        "name": "Nonlinear Circuits and Systems"
+       },
+       {
+        "code": "ELE 431",
+        "name": "İleri Elektronik Laboratuvarı"
        }
       ]
      }
@@ -1805,40 +1653,12 @@
       ],
       "options": [
        {
-        "code": "ELE 425",
-        "name": "Çok Geniş Ölçekli Tümdevre Tasarımı II"
+        "code": "ELE 430E",
+        "name": "Radio-Television Systems"
        },
        {
-        "code": "ELE 427",
-        "name": "Mikroelektronik Teknolojisi"
-       },
-       {
-        "code": "ELE 428",
-        "name": "Endüstriyel Elektronik"
-       },
-       {
-        "code": "ELE 430",
-        "name": "Radyo-Televizyon Sistemleri"
-       },
-       {
-        "code": "ELE 431",
-        "name": "İleri Elektronik Laboratuvarı"
-       },
-       {
-        "code": "ELE 433",
-        "name": "Sayısal Filtreler ve Sistemler"
-       },
-       {
-        "code": "ELE 434",
-        "name": "Lineer Olmayan Devreler ve Sistemler"
-       },
-       {
-        "code": "ELE 435",
-        "name": "Mühendislik Sistem Analizi"
-       },
-       {
-        "code": "ELE 437",
-        "name": "Biyomedikal Düzenler"
+        "code": "ELE 443E",
+        "name": "CMOS RF Circuit Design"
        },
        {
         "code": "ELE 438",
@@ -1849,12 +1669,40 @@
         "name": "Tıp Alanında Kullanılan Bilgisayar Destekli Düzenler"
        },
        {
-        "code": "ELE 443",
-        "name": "CMOS Yüksek Devre Frekans Tasarımı"
-       },
-       {
         "code": "ELE 445",
         "name": "Tıbbi Enstrumantasyon, Tasarım ve Uygulamalar"
+       },
+       {
+        "code": "ELE 435E",
+        "name": "Engineering Systems Analysis"
+       },
+       {
+        "code": "ELE 437E",
+        "name": "Biomedical Devices"
+       },
+       {
+        "code": "ELE 427E",
+        "name": "Microelectronics Technology"
+       },
+       {
+        "code": "ELE 425E",
+        "name": "Very Large Scale Integrated Circuit Design II"
+       },
+       {
+        "code": "ELE 428E",
+        "name": "Industrial Electronics"
+       },
+       {
+        "code": "ELE 433E",
+        "name": "Digital Filters and Systems"
+       },
+       {
+        "code": "ELE 434E",
+        "name": "Nonlinear Circuits and Systems"
+       },
+       {
+        "code": "ELE 431",
+        "name": "İleri Elektronik Laboratuvarı"
        }
       ]
      }

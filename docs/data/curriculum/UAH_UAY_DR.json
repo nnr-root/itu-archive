@@ -49,16 +49,12 @@
       ],
       "options": [
        {
-        "code": "GIT 606E",
-        "name": "Temporal GIS"
-       },
-       {
-        "code": "GIT 608E",
-        "name": "Project Strategies in GIS"
-       },
-       {
         "code": "TEL 524E",
         "name": "Computational EM."
+       },
+       {
+        "code": "TEL 612",
+        "name": "Radar Kesit Ala.Kest.&Düşür.Te"
        },
        {
         "code": "TEL 525E",
@@ -69,8 +65,12 @@
         "name": "İleri Mühendislik Matematiği"
        },
        {
-        "code": "TEL 612",
-        "name": "Radar Kesit Ala.Kest.&Düşür.Te"
+        "code": "GIT 608E",
+        "name": "Project Strategies in GIS"
+       },
+       {
+        "code": "GIT 606E",
+        "name": "Temporal GIS"
        }
       ]
      }
@@ -85,16 +85,12 @@
       ],
       "options": [
        {
-        "code": "GIT 606E",
-        "name": "Temporal GIS"
-       },
-       {
-        "code": "GIT 608E",
-        "name": "Project Strategies in GIS"
-       },
-       {
         "code": "TEL 524E",
         "name": "Computational EM."
+       },
+       {
+        "code": "TEL 612",
+        "name": "Radar Kesit Ala.Kest.&Düşür.Te"
        },
        {
         "code": "TEL 525E",
@@ -105,8 +101,12 @@
         "name": "İleri Mühendislik Matematiği"
        },
        {
-        "code": "TEL 612",
-        "name": "Radar Kesit Ala.Kest.&Düşür.Te"
+        "code": "GIT 608E",
+        "name": "Project Strategies in GIS"
+       },
+       {
+        "code": "GIT 606E",
+        "name": "Temporal GIS"
        }
       ]
      }
@@ -121,16 +121,12 @@
       ],
       "options": [
        {
-        "code": "GIT 606E",
-        "name": "Temporal GIS"
-       },
-       {
-        "code": "GIT 608E",
-        "name": "Project Strategies in GIS"
-       },
-       {
         "code": "TEL 524E",
         "name": "Computational EM."
+       },
+       {
+        "code": "TEL 612",
+        "name": "Radar Kesit Ala.Kest.&Düşür.Te"
        },
        {
         "code": "TEL 525E",
@@ -141,8 +137,12 @@
         "name": "İleri Mühendislik Matematiği"
        },
        {
-        "code": "TEL 612",
-        "name": "Radar Kesit Ala.Kest.&Düşür.Te"
+        "code": "GIT 608E",
+        "name": "Project Strategies in GIS"
+       },
+       {
+        "code": "GIT 606E",
+        "name": "Temporal GIS"
        }
       ]
      }
@@ -157,16 +157,12 @@
       ],
       "options": [
        {
-        "code": "GIT 606E",
-        "name": "Temporal GIS"
-       },
-       {
-        "code": "GIT 608E",
-        "name": "Project Strategies in GIS"
-       },
-       {
         "code": "TEL 524E",
         "name": "Computational EM."
+       },
+       {
+        "code": "TEL 612",
+        "name": "Radar Kesit Ala.Kest.&Düşür.Te"
        },
        {
         "code": "TEL 525E",
@@ -177,8 +173,12 @@
         "name": "İleri Mühendislik Matematiği"
        },
        {
-        "code": "TEL 612",
-        "name": "Radar Kesit Ala.Kest.&Düşür.Te"
+        "code": "GIT 608E",
+        "name": "Project Strategies in GIS"
+       },
+       {
+        "code": "GIT 606E",
+        "name": "Temporal GIS"
        }
       ]
      }
@@ -197,48 +197,24 @@
         "name": "Academic Entrepreneurship"
        },
        {
-        "code": "LEE 901",
-        "name": "Akademik Girişimcilik"
+        "code": "LEE 905E",
+        "name": "Inovations Techniques and Patent Processes"
        },
        {
         "code": "LEE 903E",
         "name": "Project Cycle Management"
        },
        {
-        "code": "LEE 903",
-        "name": "Proje Döngüsü Yönetimi"
-       },
-       {
         "code": "LEE 904E",
         "name": "Directed Studies"
-       },
-       {
-        "code": "LEE 904",
-        "name": "Yönlendirilmiş Çalışmalar"
-       },
-       {
-        "code": "LEE 905E",
-        "name": "Inovations Techniques and Patent Processes"
-       },
-       {
-        "code": "LEE 905",
-        "name": "İnovas.Teknik.&Patent Süreç."
        },
        {
         "code": "LEE 906E",
         "name": "Blockchain Technology for Creative Industries"
        },
        {
-        "code": "LEE 906",
-        "name": "Yaratıcı Endüstriler için Blokzincir Teknolojisi"
-       },
-       {
         "code": "LEE 907E",
         "name": "Ethics of Technology"
-       },
-       {
-        "code": "LEE 907",
-        "name": "Teknoloji Etiği"
        }
       ]
      }

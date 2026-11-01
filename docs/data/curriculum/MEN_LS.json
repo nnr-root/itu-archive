@@ -370,20 +370,8 @@
       ],
       "options": [
        {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "SNT 102E",
-        "name": "Photography"
-       },
-       {
-        "code": "SNT 103E",
-        "name": "Drawing"
-       },
-       {
-        "code": "SNT 104E",
-        "name": "Mythology and Art"
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "SNT 105E",
@@ -394,48 +382,12 @@
         "name": "Traditional Turkish Art&Crafts"
        },
        {
-        "code": "SNT 107E",
-        "name": "Ancient Civilizat.in Anatolia"
-       },
-       {
-        "code": "SNT 112E",
-        "name": "Theater"
-       },
-       {
-        "code": "SNT 113E",
-        "name": "Art and Interpretation"
+        "code": "SNT 103E",
+        "name": "Drawing"
        },
        {
         "code": "SNT 114E",
         "name": "Contemporary Art"
-       },
-       {
-        "code": "SNT 116E",
-        "name": "The Art of Communication"
-       },
-       {
-        "code": "SNT 117E",
-        "name": "Jazz Appreciation"
-       },
-       {
-        "code": "SNT 121E",
-        "name": "World Music Cultures"
-       },
-       {
-        "code": "SNT 123E",
-        "name": "Film Production"
-       },
-       {
-        "code": "SNT 211E",
-        "name": "Istanbul:Hist.,Art and Society"
-       },
-       {
-        "code": "SNT 212E",
-        "name": "Art,Culture and Society"
-       },
-       {
-        "code": "SNT 215E",
-        "name": "Balkan Musics"
        },
        {
         "code": "SNT 226E",
@@ -444,6 +396,54 @@
        {
         "code": "SNT 227E",
         "name": "Sound and Society"
+       },
+       {
+        "code": "SNT 112E",
+        "name": "Theater"
+       },
+       {
+        "code": "SNT 116E",
+        "name": "The Art of Communication"
+       },
+       {
+        "code": "SNT 212E",
+        "name": "Art,Culture and Society"
+       },
+       {
+        "code": "SNT 104E",
+        "name": "Mythology and Art"
+       },
+       {
+        "code": "SNT 107E",
+        "name": "Ancient Civilizat.in Anatolia"
+       },
+       {
+        "code": "SNT 123E",
+        "name": "Film Production"
+       },
+       {
+        "code": "SNT 113E",
+        "name": "Art and Interpretation"
+       },
+       {
+        "code": "SNT 102E",
+        "name": "Photography"
+       },
+       {
+        "code": "SNT 117E",
+        "name": "Jazz Appreciation"
+       },
+       {
+        "code": "SNT 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "SNT 215E",
+        "name": "Balkan Musics"
+       },
+       {
+        "code": "SNT 121E",
+        "name": "World Music Cultures"
        }
       ]
      }
@@ -552,16 +552,16 @@
       ],
       "options": [
        {
+        "code": "GMI 223E",
+        "name": "Machine Elements"
+       },
+       {
         "code": "GMI 209E",
         "name": "Computer Aided Solid Design"
        },
        {
         "code": "GMI 210E",
         "name": "Vibration Basics"
-       },
-       {
-        "code": "GMI 223E",
-        "name": "Machine Elements"
        }
       ]
      }
@@ -577,6 +577,10 @@
       ],
       "options": [
        {
+        "code": "KIM 202E",
+        "name": "Physical Chemistry"
+       },
+       {
         "code": "FIZ 449E",
         "name": "Physics in Our Daily Life"
        },
@@ -587,10 +591,6 @@
        {
         "code": "GMI 315E",
         "name": "Marine Ecology"
-       },
-       {
-        "code": "KIM 202E",
-        "name": "Physical Chemistry"
        }
       ]
      }
@@ -711,18 +711,6 @@
       ],
       "options": [
        {
-        "code": "BEB 120",
-        "name": "Spor ve Temel Bilimler"
-       },
-       {
-        "code": "BEB 121",
-        "name": "Spor ve Teknoloji"
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
         "code": "ITB 087E",
         "name": "Media and Society"
        },
@@ -735,44 +723,56 @@
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 202E",
-        "name": "World History"
+        "code": "ITB 233E",
+        "name": "Anthropology"
        },
        {
         "code": "ITB 203E",
         "name": "Sociology"
        },
        {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
-       },
-       {
-        "code": "ITB 218E",
-        "name": "History of Science&Technology"
+        "code": "ITB 230E",
+        "name": "Disaster Awareness"
        },
        {
         "code": "ITB 219E",
         "name": "Ethics"
        },
        {
-        "code": "ITB 220E",
-        "name": "Psychology"
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
        },
        {
         "code": "ITB 224E",
         "name": "Environment and Society"
        },
        {
-        "code": "ITB 230E",
-        "name": "Disaster Awareness"
+        "code": "ITB 205E",
+        "name": "Philosophy"
        },
        {
-        "code": "ITB 233E",
-        "name": "Anthropology"
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "BEB 121",
+        "name": "Spor ve Teknoloji"
+       },
+       {
+        "code": "BEB 120",
+        "name": "Spor ve Temel Bilimler"
        },
        {
         "code": "ITB 235E",

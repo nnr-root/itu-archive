@@ -34,12 +34,8 @@
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "KOM 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "MKM 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
+        "code": "MKM 596E",
+        "name": "Scientific Research, Ethic and Seminar"
        }
       ]
      }
@@ -54,20 +50,12 @@
       ],
       "options": [
        {
+        "code": "ELE 519E",
+        "name": "Mathematical Methods in Electrical Engineering"
+       },
+       {
         "code": "ELE 514E",
         "name": "System Theory"
-       },
-       {
-        "code": "ELE 514",
-        "name": "Sistem Teorisi"
-       },
-       {
-        "code": "ELE 519",
-        "name": "Elekt.Müh.Matematiksel Yönt."
-       },
-       {
-        "code": "KOM 505",
-        "name": "Olasılık Kuramı&Rastlan.Süreçl"
        },
        {
         "code": "KOM 505E",
@@ -86,12 +74,8 @@
       ],
       "options": [
        {
-        "code": "KOM 501E",
-        "name": "Cont.Sist.With Paramet. Uncert"
-       },
-       {
-        "code": "KOM 507E",
-        "name": "Numerical Methods in Optimiz."
+        "code": "KOM 510E",
+        "name": "Optimal Control Theory"
        },
        {
         "code": "KOM 508",
@@ -102,12 +86,16 @@
         "name": "Design of Discrete Cont.Sys."
        },
        {
-        "code": "KOM 510E",
-        "name": "Optimal Control Theory"
+        "code": "KOM 501E",
+        "name": "Cont.Sist.With Paramet. Uncert"
        },
        {
         "code": "KOM 511",
         "name": "Uyarlamalı Kontrol Sistemleri"
+       },
+       {
+        "code": "KOM 507E",
+        "name": "Numerical Methods in Optimiz."
        }
       ]
      }
@@ -122,12 +110,8 @@
       ],
       "options": [
        {
-        "code": "KOM 501E",
-        "name": "Cont.Sist.With Paramet. Uncert"
-       },
-       {
-        "code": "KOM 507E",
-        "name": "Numerical Methods in Optimiz."
+        "code": "KOM 510E",
+        "name": "Optimal Control Theory"
        },
        {
         "code": "KOM 508",
@@ -138,12 +122,16 @@
         "name": "Design of Discrete Cont.Sys."
        },
        {
-        "code": "KOM 510E",
-        "name": "Optimal Control Theory"
+        "code": "KOM 501E",
+        "name": "Cont.Sist.With Paramet. Uncert"
        },
        {
         "code": "KOM 511",
         "name": "Uyarlamalı Kontrol Sistemleri"
+       },
+       {
+        "code": "KOM 507E",
+        "name": "Numerical Methods in Optimiz."
        }
       ]
      }
@@ -158,12 +146,8 @@
       ],
       "options": [
        {
-        "code": "KOM 501E",
-        "name": "Cont.Sist.With Paramet. Uncert"
-       },
-       {
-        "code": "KOM 507E",
-        "name": "Numerical Methods in Optimiz."
+        "code": "KOM 510E",
+        "name": "Optimal Control Theory"
        },
        {
         "code": "KOM 508",
@@ -174,12 +158,16 @@
         "name": "Design of Discrete Cont.Sys."
        },
        {
-        "code": "KOM 510E",
-        "name": "Optimal Control Theory"
+        "code": "KOM 501E",
+        "name": "Cont.Sist.With Paramet. Uncert"
        },
        {
         "code": "KOM 511",
         "name": "Uyarlamalı Kontrol Sistemleri"
+       },
+       {
+        "code": "KOM 507E",
+        "name": "Numerical Methods in Optimiz."
        }
       ]
      }

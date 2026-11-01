@@ -77,48 +77,24 @@
       ],
       "options": [
        {
-        "code": "LEE 901",
-        "name": "Akademik Girişimcilik"
-       },
-       {
         "code": "LEE 901E",
         "name": "Academic Entrepreneurship"
-       },
-       {
-        "code": "LEE 903",
-        "name": "Proje Döngüsü Yönetimi"
-       },
-       {
-        "code": "LEE 903E",
-        "name": "Project Cycle Management"
-       },
-       {
-        "code": "LEE 904",
-        "name": "Yönlendirilmiş Çalışmalar"
-       },
-       {
-        "code": "LEE 904E",
-        "name": "Directed Studies"
-       },
-       {
-        "code": "LEE 905",
-        "name": "İnovas.Teknik.&Patent Süreç."
        },
        {
         "code": "LEE 905E",
         "name": "Inovations Techniques and Patent Processes"
        },
        {
-        "code": "LEE 906",
-        "name": "Yaratıcı Endüstriler için Blokzincir Teknolojisi"
+        "code": "LEE 903E",
+        "name": "Project Cycle Management"
+       },
+       {
+        "code": "LEE 904E",
+        "name": "Directed Studies"
        },
        {
         "code": "LEE 906E",
         "name": "Blockchain Technology for Creative Industries"
-       },
-       {
-        "code": "LEE 907",
-        "name": "Teknoloji Etiği"
        },
        {
         "code": "LEE 907E",
@@ -137,28 +113,28 @@
       ],
       "options": [
        {
-        "code": "HBM 631E",
-        "name": "Comp.Ass.Drug Des.:Funda.&App."
-       },
-       {
-        "code": "MBG 611",
-        "name": "Enzim Bilim ve Tek.İleri Konu."
-       },
-       {
-        "code": "MBM 604",
-        "name": "Deneysel Tasarım"
+        "code": "PST 609E",
+        "name": "Biopolymers"
        },
        {
         "code": "MBM 611E",
         "name": "Synthetic Membranes"
        },
        {
-        "code": "PST 609E",
-        "name": "Biopolymers"
+        "code": "MBG 611E",
+        "name": "Advanced Topics in Enzyme Science and Technolgy"
        },
        {
         "code": "PST 613E",
         "name": "Membrane Technology"
+       },
+       {
+        "code": "MBM 604E",
+        "name": "Design of Experiments"
+       },
+       {
+        "code": "HBM 631E",
+        "name": "Comp.Ass.Drug Des.:Funda.&App."
        }
       ]
      }
@@ -173,28 +149,28 @@
       ],
       "options": [
        {
-        "code": "HBM 631E",
-        "name": "Comp.Ass.Drug Des.:Funda.&App."
-       },
-       {
-        "code": "MBG 611",
-        "name": "Enzim Bilim ve Tek.İleri Konu."
-       },
-       {
-        "code": "MBM 604",
-        "name": "Deneysel Tasarım"
+        "code": "PST 609E",
+        "name": "Biopolymers"
        },
        {
         "code": "MBM 611E",
         "name": "Synthetic Membranes"
        },
        {
-        "code": "PST 609E",
-        "name": "Biopolymers"
+        "code": "MBG 611E",
+        "name": "Advanced Topics in Enzyme Science and Technolgy"
        },
        {
         "code": "PST 613E",
         "name": "Membrane Technology"
+       },
+       {
+        "code": "MBM 604E",
+        "name": "Design of Experiments"
+       },
+       {
+        "code": "HBM 631E",
+        "name": "Comp.Ass.Drug Des.:Funda.&App."
        }
       ]
      }

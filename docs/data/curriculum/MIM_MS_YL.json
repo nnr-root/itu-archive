@@ -42,10 +42,6 @@
        {
         "code": "MTS 505E",
         "name": "Qualitative&Quant.Mthd.Archite"
-       },
-       {
-        "code": "MTS 505",
-        "name": "Qualitative&Quant.Mthd.Archite"
        }
       ]
      }
@@ -60,28 +56,16 @@
       ],
       "options": [
        {
-        "code": "MTS 502",
-        "name": "Mimari Tasarım ve Kuram"
-       },
-       {
         "code": "MTS 502E",
         "name": "Architecture Design Theory"
-       },
-       {
-        "code": "MTS 511",
-        "name": "Proje I"
-       },
-       {
-        "code": "MTS 511E",
-        "name": "Project I"
        },
        {
         "code": "MTS 527E",
         "name": "Project II Dissertation Design"
        },
        {
-        "code": "MTS 527",
-        "name": "Proje II-Tez Tasarımı"
+        "code": "MTS 511E",
+        "name": "Project I"
        }
       ]
      }
@@ -96,28 +80,16 @@
       ],
       "options": [
        {
-        "code": "MTS 502",
-        "name": "Mimari Tasarım ve Kuram"
-       },
-       {
         "code": "MTS 502E",
         "name": "Architecture Design Theory"
        },
        {
-        "code": "MTS 511",
-        "name": "Proje I"
+        "code": "MTS 527E",
+        "name": "Project II Dissertation Design"
        },
        {
         "code": "MTS 511E",
         "name": "Project I"
-       },
-       {
-        "code": "MTS 527",
-        "name": "Proje II-Tez Tasarımı"
-       },
-       {
-        "code": "MTS 527E",
-        "name": "Project II Dissertation Design"
        }
       ]
      }
@@ -132,28 +104,16 @@
       ],
       "options": [
        {
-        "code": "MTS 502",
-        "name": "Mimari Tasarım ve Kuram"
-       },
-       {
         "code": "MTS 502E",
         "name": "Architecture Design Theory"
        },
        {
-        "code": "MTS 511",
-        "name": "Proje I"
+        "code": "MTS 527E",
+        "name": "Project II Dissertation Design"
        },
        {
         "code": "MTS 511E",
         "name": "Project I"
-       },
-       {
-        "code": "MTS 527",
-        "name": "Proje II-Tez Tasarımı"
-       },
-       {
-        "code": "MTS 527E",
-        "name": "Project II Dissertation Design"
        }
       ]
      }

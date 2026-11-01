@@ -430,84 +430,60 @@
       ],
       "options": [
        {
-        "code": "ECN 410E",
-        "name": "Energy Economics"
-       },
-       {
-        "code": "ECN 412E",
-        "name": "Environmental Economics"
-       },
-       {
-        "code": "ECN 420E",
-        "name": "Behavioural Economics"
-       },
-       {
         "code": "END 319E",
         "name": "Cost Management"
+       },
+       {
+        "code": "END 344E",
+        "name": "Behavioral Sciences"
+       },
+       {
+        "code": "END 345E",
+        "name": "Evolution of Management Thought"
        },
        {
         "code": "END 329E",
         "name": "Quality Management Tools&Tech."
        },
        {
-        "code": "END 344",
-        "name": "Davranış Bilimleri"
-       },
-       {
-        "code": "END 345",
-        "name": "Yönetim Düşüncesinin Evrimi"
-       },
-       {
         "code": "END 365E",
         "name": "People Analytics"
-       },
-       {
-        "code": "END 367E",
-        "name": "Automation in Production Syst."
-       },
-       {
-        "code": "END 374E",
-        "name": "Competition Management"
-       },
-       {
-        "code": "END 375E",
-        "name": "Human-Computer Interaction"
-       },
-       {
-        "code": "END 381E",
-        "name": "Tech.Design for IndusT. Eng."
-       },
-       {
-        "code": "END 423",
-        "name": "Yatırım Planlama"
        },
        {
         "code": "END 423E",
         "name": "Investment Planning"
        },
        {
-        "code": "END 429",
-        "name": "Süreç Yönetimi"
-       },
-       {
-        "code": "END 433E",
-        "name": "Marketing Management"
-       },
-       {
         "code": "END 445E",
         "name": "Lean Production Systems"
-       },
-       {
-        "code": "END 451",
-        "name": "Lojistik Yönetimi"
        },
        {
         "code": "END 453E",
         "name": "Indus.4.0 & Digital Transform."
        },
        {
+        "code": "END 374E",
+        "name": "Competition Management"
+       },
+       {
+        "code": "END 429E",
+        "name": "Process Management"
+       },
+       {
         "code": "END 473E",
         "name": "Pricing and Revenue Management"
+       },
+       {
+        "code": "END 367E",
+        "name": "Automation in Production Syst."
+       },
+       {
+        "code": "END 433E",
+        "name": "Marketing Management"
+       },
+       {
+        "code": "END 451E",
+        "name": "Logistics Management"
        },
        {
         "code": "END 475E",
@@ -518,8 +494,28 @@
         "name": "Industrial Data Communications"
        },
        {
-        "code": "MTH 411",
-        "name": "Bilgi Teknolojilerinde Proje Yönetimi"
+        "code": "ECN 412E",
+        "name": "Environmental Economics"
+       },
+       {
+        "code": "ECN 410E",
+        "name": "Energy Economics"
+       },
+       {
+        "code": "ECN 420E",
+        "name": "Behavioural Economics"
+       },
+       {
+        "code": "END 381E",
+        "name": "Tech.Design for IndusT. Eng."
+       },
+       {
+        "code": "END 375E",
+        "name": "Human-Computer Interaction"
+       },
+       {
+        "code": "MTH 411E",
+        "name": "Project Management in Information Technologies"
        },
        {
         "code": "MTH 412E",
@@ -547,6 +543,74 @@
       ],
       "options": [
        {
+        "code": "BLG 231E",
+        "name": "Digital Circuits"
+       },
+       {
+        "code": "END 327E",
+        "name": "Decision Theory"
+       },
+       {
+        "code": "END 357E",
+        "name": "Management Information Systems"
+       },
+       {
+        "code": "END 369E",
+        "name": "Game Theory"
+       },
+       {
+        "code": "END 448E",
+        "name": "Intr. to Stochastic Modell."
+       },
+       {
+        "code": "END 457E",
+        "name": "Heuristic Optimization"
+       },
+       {
+        "code": "ISL 355E",
+        "name": "Econometrics"
+       },
+       {
+        "code": "END 493E",
+        "name": "Applied Statistics"
+       },
+       {
+        "code": "END 447E",
+        "name": "Network Models"
+       },
+       {
+        "code": "END 443E",
+        "name": "Business Planning & Innovation"
+       },
+       {
+        "code": "END 471E",
+        "name": "Marketing & CRM Analytics"
+       },
+       {
+        "code": "MAT 343E",
+        "name": "Time Series Analysis"
+       },
+       {
+        "code": "MAT 471E",
+        "name": "Financial Mathematics"
+       },
+       {
+        "code": "EHB 420E",
+        "name": "Artificial Neural Networks"
+       },
+       {
+        "code": "ECN 201E",
+        "name": "Intermediate Microeconomics"
+       },
+       {
+        "code": "VBA 313E",
+        "name": "Deep Learning"
+       },
+       {
+        "code": "VBA 315E",
+        "name": "Machine Learning"
+       },
+       {
         "code": "BHB 201E",
         "name": "Fundamental Software of Informatics"
        },
@@ -561,74 +625,6 @@
        {
         "code": "BHB 402E",
         "name": "Computational Neuroscience"
-       },
-       {
-        "code": "BLG 231E",
-        "name": "Digital Circuits"
-       },
-       {
-        "code": "ECN 201E",
-        "name": "Intermediate Microeconomics"
-       },
-       {
-        "code": "EHB 420E",
-        "name": "Artificial Neural Networks"
-       },
-       {
-        "code": "END 327",
-        "name": "Karar Teorisi"
-       },
-       {
-        "code": "END 357E",
-        "name": "Management Information Systems"
-       },
-       {
-        "code": "END 369E",
-        "name": "Game Theory"
-       },
-       {
-        "code": "END 443E",
-        "name": "Business Planning & Innovation"
-       },
-       {
-        "code": "END 447E",
-        "name": "Network Models"
-       },
-       {
-        "code": "END 448E",
-        "name": "Intr. to Stochastic Modell."
-       },
-       {
-        "code": "END 457E",
-        "name": "Heuristic Optimization"
-       },
-       {
-        "code": "END 471E",
-        "name": "Marketing & CRM Analytics"
-       },
-       {
-        "code": "END 493E",
-        "name": "Applied Statistics"
-       },
-       {
-        "code": "ISL 355E",
-        "name": "Econometrics"
-       },
-       {
-        "code": "MAT 343E",
-        "name": "Time Series Analysis"
-       },
-       {
-        "code": "MAT 471E",
-        "name": "Financial Mathematics"
-       },
-       {
-        "code": "VBA 313E",
-        "name": "Deep Learning"
-       },
-       {
-        "code": "VBA 315E",
-        "name": "Machine Learning"
        }
       ]
      }
@@ -688,88 +684,88 @@
       ],
       "options": [
        {
-        "code": "ECN 421E",
-        "name": "Experimental Economics"
+        "code": "ISL 224E",
+        "name": "Cost Accounting"
        },
        {
-        "code": "END 314",
-        "name": "Hizmet Sistemleri"
-       },
-       {
-        "code": "END 316",
-        "name": "Grup Teknolojisi ve Esnek Üretim Sistemleri"
-       },
-       {
-        "code": "END 364",
-        "name": "İş Psikolojisi"
-       },
-       {
-        "code": "END 374",
-        "name": "Rekabet Yönetimi"
-       },
-       {
-        "code": "END 382",
-        "name": "Üretim Yöntemleri"
-       },
-       {
-        "code": "END 414",
-        "name": "Bakım Yönetimi"
-       },
-       {
-        "code": "END 426",
-        "name": "Kurumsal Kaynakların Planlanması"
-       },
-       {
-        "code": "END 432E",
-        "name": "Facility Layout"
-       },
-       {
-        "code": "END 434",
-        "name": "Stratejik Yönetimin Temelleri"
-       },
-       {
-        "code": "END 435",
-        "name": "İş Güvenliği"
-       },
-       {
-        "code": "END 452",
-        "name": "Satınalma Yönetimi"
-       },
-       {
-        "code": "END 454E",
-        "name": "Energy Markets & Optimization"
-       },
-       {
-        "code": "END 472E",
-        "name": "Advanced Spreadsheet Modeling"
-       },
-       {
-        "code": "END 486",
-        "name": "Yönetimin Yeni Çağı"
-       },
-       {
-        "code": "END 488",
-        "name": "ERP Süreçleri ve Kurulumu"
-       },
-       {
-        "code": "ISL 224",
-        "name": "Maliyet Muhasebesi"
+        "code": "END 414E",
+        "name": "Maintenance Management"
        },
        {
         "code": "ISL 452E",
         "name": "Financial Inst.&Portfolio Mng."
        },
        {
-        "code": "ISL 460",
-        "name": "E-Pazarlama"
+        "code": "ISL 460E",
+        "name": "E-Marketing"
+       },
+       {
+        "code": "END 314E",
+        "name": "Service Systems"
+       },
+       {
+        "code": "END 316E",
+        "name": "Group Technology and Flexible Manufacturing Systems"
+       },
+       {
+        "code": "END 426E",
+        "name": "Enterprise Resources Planning"
+       },
+       {
+        "code": "END 435E",
+        "name": "Work Safety"
+       },
+       {
+        "code": "END 374E",
+        "name": "Competition Management"
+       },
+       {
+        "code": "END 488E",
+        "name": "ERP Processes and Installation"
+       },
+       {
+        "code": "END 452E",
+        "name": "Purchasing Management"
+       },
+       {
+        "code": "END 472E",
+        "name": "Advanced Spreadsheet Modeling"
+       },
+       {
+        "code": "END 454E",
+        "name": "Energy Markets & Optimization"
+       },
+       {
+        "code": "END 486E",
+        "name": "The New Era of Management"
+       },
+       {
+        "code": "END 432E",
+        "name": "Facility Layout"
+       },
+       {
+        "code": "END 364E",
+        "name": "Work Psychology"
+       },
+       {
+        "code": "END 434E",
+        "name": "Intro.to Strategic Management"
+       },
+       {
+        "code": "KON 324E",
+        "name": "Sensors&Transducers in Contr."
        },
        {
         "code": "KON 322E",
         "name": "Industrial Automated Systems"
        },
        {
-        "code": "KON 324E",
-        "name": "Sensors&Transducers in Contr."
+        "code": "ECN 421E",
+        "name": "Experimental Economics"
+       },
+       {
+        "code": "END 382E",
+        "name": "Production Methods"
        },
        {
         "code": "SUS 404E",
@@ -788,116 +784,68 @@
       ],
       "options": [
        {
-        "code": "ALM 101",
-        "name": "Almanca I"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
-        "code": "ALM 102",
-        "name": "Almanca II"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ALM 201",
-        "name": "Almanca III"
+        "code": "ING 103H",
+        "name": "Public Presentations"
        },
        {
-        "code": "ALM 202",
-        "name": "Almanca IV"
+        "code": "ING 103SC",
+        "name": "Science Communication"
        },
        {
-        "code": "ALM 301",
-        "name": "Almanca V"
+        "code": "ING 103G",
+        "name": "Business Communications"
        },
        {
-        "code": "ALM 302",
-        "name": "Almanca VI"
+        "code": "ING 103P",
+        "name": "Poetry"
        },
        {
-        "code": "ALM 401",
-        "name": "Almanca VII"
-       },
-       {
-        "code": "ARB 101",
-        "name": "Arapça I"
-       },
-       {
-        "code": "ARB 102",
-        "name": "Arapça II"
-       },
-       {
-        "code": "BEB 120",
-        "name": "Spor ve Temel Bilimler"
-       },
-       {
-        "code": "BEB 121",
-        "name": "Spor ve Teknoloji"
-       },
-       {
-        "code": "CIN 101",
-        "name": "Çince I"
-       },
-       {
-        "code": "CIN 102",
-        "name": "Çince II"
-       },
-       {
-        "code": "CIN 201",
-        "name": "Çince III"
-       },
-       {
-        "code": "FRA 101",
-        "name": "Fransızca I"
-       },
-       {
-        "code": "FRA 102",
-        "name": "Fransızca II"
-       },
-       {
-        "code": "FRA 201",
-        "name": "Fransızca III"
-       },
-       {
-        "code": "FRA 202",
-        "name": "Fransızca IV"
-       },
-       {
-        "code": "FRA 301",
-        "name": "Fransızca V"
-       },
-       {
-        "code": "FRA 302",
-        "name": "Fransızca VI"
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
         "code": "HUK 216",
         "name": "Telekomünikasyon Hukuku"
        },
        {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
+        "code": "ING 103B",
+        "name": "Business English"
        },
        {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
+        "code": "ING 103AD",
+        "name": "Advanced English for Engineers"
+       },
+       {
+        "code": "ING 103O",
+        "name": "Psychology"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
+       },
+       {
+        "code": "ITB 011",
+        "name": "Bilgi Kuramları"
+       },
+       {
+        "code": "ITB 012E",
+        "name": "The Administrative Structure of Turkish Republic"
+       },
+       {
+        "code": "ITB 087E",
+        "name": "Media and Society"
+       },
+       {
+        "code": "ITB 094E",
+        "name": "International.Rel.and Globali."
        },
        {
         "code": "ING 103A",
@@ -908,36 +856,12 @@
         "name": "Urban Ecology"
        },
        {
-        "code": "ING 103AD",
-        "name": "Advanced English for Engineers"
-       },
-       {
-        "code": "ING 103B",
-        "name": "Business English"
-       },
-       {
         "code": "ING 103C",
         "name": "Great Moments in Science"
        },
        {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103DD",
-        "name": "Decoding Discourse: Language, Power, and Ideology"
-       },
-       {
-        "code": "ING 103G",
-        "name": "Business Communications"
-       },
-       {
-        "code": "ING 103H",
-        "name": "Public Presentations"
-       },
-       {
-        "code": "ING 103I",
-        "name": "Short Stories"
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
        },
        {
         "code": "ING 103L",
@@ -948,128 +872,20 @@
         "name": "Film Studies"
        },
        {
-        "code": "ING 103O",
-        "name": "Psychology"
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
        },
        {
-        "code": "ING 103P",
-        "name": "Poetry"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
-       },
-       {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
-       },
-       {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
-       },
-       {
-        "code": "ISP 101",
-        "name": "İspanyolca I"
-       },
-       {
-        "code": "ISP 102",
-        "name": "İspanyolca II"
-       },
-       {
-        "code": "ISP 201",
-        "name": "İspanyolca III"
-       },
-       {
-        "code": "ISP 202",
-        "name": "İspanyolca IV"
-       },
-       {
-        "code": "ISP 301",
-        "name": "İspanyolca V"
-       },
-       {
-        "code": "ISP 302",
-        "name": "İspanyolca VI"
-       },
-       {
-        "code": "ITA 101",
-        "name": "İtalyanca I"
-       },
-       {
-        "code": "ITA 102",
-        "name": "İtalyanca II"
-       },
-       {
-        "code": "ITA 201",
-        "name": "İtalyanca III"
-       },
-       {
-        "code": "ITA 202",
-        "name": "İtalyanca IV"
-       },
-       {
-        "code": "ITA 301",
-        "name": "İtalyanca V"
-       },
-       {
-        "code": "ITB 011",
-        "name": "Bilgi Kuramları"
-       },
-       {
-        "code": "ITB 012",
-        "name": "TC'nin Yönetim Yapısı"
+        "code": "HUK 218E",
+        "name": "Commercial Law"
        },
        {
         "code": "ITB 026",
         "name": "Türkiye'de MdnTarihi & Sys Akm"
        },
        {
-        "code": "ITB 027E",
-        "name": "Estr/Invl in 5 Works by Campus"
-       },
-       {
-        "code": "ITB 075",
-        "name": "Seçmeli Fransızca"
-       },
-       {
-        "code": "ITB 076",
-        "name": "Sanatın Sosyal Tarihi"
-       },
-       {
-        "code": "ITB 085",
-        "name": "Sinema Tarihi ve Estetiği"
-       },
-       {
-        "code": "ITB 086",
-        "name": "Osm İmparatorluğu'nda Altyapı"
-       },
-       {
-        "code": "ITB 087",
-        "name": "Medya ve Toplum"
-       },
-       {
-        "code": "ITB 087E",
-        "name": "Media and Society"
-       },
-       {
-        "code": "ITB 093",
-        "name": "Modern Türkiye'nin Temelleri"
-       },
-       {
-        "code": "ITB 094",
-        "name": "Uluslararası İlişkilerve Küreselleşme"
-       },
-       {
-        "code": "ITB 142",
-        "name": "Uygulamalı Etik"
-       },
-       {
-        "code": "ITB 143",
-        "name": "Durrel ve Said:Oryanta.Uyg ve"
+        "code": "ITB 086E",
+        "name": "The Infrastructure of the Ottoman Empire"
        },
        {
         "code": "ITB 151E",
@@ -1084,200 +900,112 @@
         "name": "Kontr ve Otoms Sist Tarihçesi"
        },
        {
-        "code": "ITB 167E",
-        "name": "The Birth&Devl Modern City"
-       },
-       {
-        "code": "ITB 168E",
-        "name": "Philosophy of Technology"
-       },
-       {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 172E",
-        "name": "The Historian in the Cinema"
-       },
-       {
-        "code": "ITB 173E",
-        "name": "Frege Found. of Arithmetic"
-       },
-       {
         "code": "ITB 175",
         "name": "Küreselleşme ve Kent"
-       },
-       {
-        "code": "ITB 176",
-        "name": "Türkiye'de Toplumsal Hafıza"
-       },
-       {
-        "code": "ITB 177",
-        "name": "19.yy İstanbul'unda Tic. ve Mi"
-       },
-       {
-        "code": "ITB 178E",
-        "name": "Democracy&Modern Media:Int.Per"
-       },
-       {
-        "code": "ITB 179",
-        "name": "İçiçe Ayr.Ede.:Vizyone,Seyf.,A"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201",
-        "name": "İnsan ve Topl. Bilim. Giriş"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 202",
-        "name": "Dünya Tarihi"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 203",
-        "name": "Sosyoloji"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204",
-        "name": "Siyaset Bilimi"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
-       },
-       {
-        "code": "ITB 206",
-        "name": "Dünya Politikasında Meseleler"
-       },
-       {
-        "code": "ITB 206E",
-        "name": "Issues in World Politics"
-       },
-       {
-        "code": "ITB 207",
-        "name": "Osmanlı Tarihi"
-       },
-       {
-        "code": "ITB 207E",
-        "name": "Ottoman History"
-       },
-       {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
-        "code": "ITB 208",
-        "name": "Modern Türkiye'nin Oluşumu"
-       },
-       {
-        "code": "ITB 209",
-        "name": "Türkiye ve Dünya"
-       },
-       {
-        "code": "ITB 209E",
-        "name": "Türkiye in World Affairs"
-       },
-       {
-        "code": "ITB 210",
-        "name": "City,Environment & Society"
-       },
-       {
-        "code": "ITB 210E",
-        "name": "City,Environment & Society"
-       },
-       {
-        "code": "ITB 211E",
-        "name": "Istanbul:Hist.,Art and Society"
        },
        {
         "code": "ITB 212E",
         "name": "Art,Culture and Society"
        },
        {
-        "code": "ITB 213",
-        "name": "Edebiyat ve Toplum"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
-        "code": "ITB 213E",
-        "name": "Toplics in Literature and Society"
+        "code": "ITB 085",
+        "name": "Sinema Tarihi ve Estetiği"
        },
        {
-        "code": "ITB 214",
-        "name": "Modern Ortadoğu"
+        "code": "ITB 206E",
+        "name": "Issues in World Politics"
        },
        {
-        "code": "ITB 214E",
-        "name": "The Modern Middle East"
+        "code": "ITB 207E",
+        "name": "Ottoman History"
        },
        {
-        "code": "ITB 215",
-        "name": "Tarih ve Toplum"
-       },
-       {
-        "code": "ITB 215E",
-        "name": "Topics in Hist.and Society"
-       },
-       {
-        "code": "ITB 216",
-        "name": "Ekonomi ve Toplum"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
-       },
-       {
-        "code": "ITB 217",
-        "name": "Mühendislik Etiği"
+        "code": "ITB 209E",
+        "name": "Türkiye in World Affairs"
        },
        {
         "code": "ITB 217E",
         "name": "Engineering Ethics"
        },
        {
-        "code": "ITB 218",
-        "name": "Bilim ve Teknoloji Tarihi"
+        "code": "ITB 233E",
+        "name": "Anthropology"
        },
        {
-        "code": "ITB 218E",
-        "name": "History of Science&Technology"
+        "code": "ITB 142E",
+        "name": "Applied Ethics"
+       },
+       {
+        "code": "ITB 168E",
+        "name": "Philosophy of Technology"
+       },
+       {
+        "code": "ITB 176",
+        "name": "Türkiye'de Toplumsal Hafıza"
+       },
+       {
+        "code": "ITB 178E",
+        "name": "Democracy&Modern Media:Int.Per"
+       },
+       {
+        "code": "ITB 203E",
+        "name": "Sociology"
+       },
+       {
+        "code": "ITB 210E",
+        "name": "City,Environment & Society"
+       },
+       {
+        "code": "ITB 231E",
+        "name": "Volunteering Studies"
+       },
+       {
+        "code": "ITB 213E",
+        "name": "Toplics in Literature and Society"
        },
        {
         "code": "ITB 219E",
         "name": "Ethics"
        },
        {
-        "code": "ITB 219",
-        "name": "Etik"
+        "code": "ING 103I",
+        "name": "Short Stories"
        },
        {
-        "code": "ITB 220",
-        "name": "Psikoloji"
+        "code": "ITB 172E",
+        "name": "The Historian in the Cinema"
        },
        {
-        "code": "ITB 220E",
-        "name": "Psychology"
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
        },
        {
-        "code": "ITB 221",
-        "name": "Anadolu Arkeolojisi"
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "ITB 214E",
+        "name": "The Modern Middle East"
+       },
+       {
+        "code": "ITB 215E",
+        "name": "Topics in Hist.and Society"
+       },
+       {
+        "code": "ITB 075",
+        "name": "Seçmeli Fransızca"
+       },
+       {
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
        },
        {
         "code": "ITB 222E",
@@ -1288,212 +1016,372 @@
         "name": "Environment and Society"
        },
        {
-        "code": "ITB 225E",
-        "name": "Intercultural Citizenship Education"
+        "code": "ITB 027E",
+        "name": "Estr/Invl in 5 Works by Campus"
        },
        {
-        "code": "ITB 228",
-        "name": "Toplumsal Cinsiyet Çalışmaları"
+        "code": "ITB 076",
+        "name": "Sanatın Sosyal Tarihi"
        },
        {
-        "code": "ITB 231",
-        "name": "Gönüllülük Çalışmaları"
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
        },
        {
-        "code": "ITB 231E",
-        "name": "Volunteering Studies"
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
        },
        {
-        "code": "ITB 233E",
-        "name": "Anthropology"
+        "code": "ITB 205E",
+        "name": "Philosophy"
        },
        {
-        "code": "ITB 235E",
-        "name": "Türkiye and EuropeanUnion"
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
        },
        {
-        "code": "ITB 235",
-        "name": "Türkiye ve Avrupa Birliği"
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
        },
        {
-        "code": "ITB 236",
-        "name": "Türk Müziği Tarihi"
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
        },
        {
-        "code": "JPN 101",
-        "name": "Japonca I"
+        "code": "ITB 093",
+        "name": "Modern Türkiye'nin Temelleri"
        },
        {
-        "code": "JPN 102",
-        "name": "Japonca II"
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
        },
        {
-        "code": "JPN 201",
-        "name": "Japonca III"
+        "code": "ITB 167E",
+        "name": "The Birth&Devl Modern City"
        },
        {
-        "code": "JPN 202",
-        "name": "Japonca IV"
+        "code": "ITB 173E",
+        "name": "Frege Found. of Arithmetic"
        },
        {
-        "code": "KOR 101",
-        "name": "Korece I"
+        "code": "ITB 177",
+        "name": "19.yy İstanbul'unda Tic. ve Mi"
        },
        {
-        "code": "KOR 102",
-        "name": "Korece II"
+        "code": "ITB 204E",
+        "name": "Political Science"
        },
        {
-        "code": "RUS 101",
-        "name": "Rusça I"
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
        },
        {
-        "code": "RUS 102",
-        "name": "Rusça II"
+        "code": "ITB 216E",
+        "name": "Economy and Society"
        },
        {
-        "code": "RUS 201",
-        "name": "Rusça III"
+        "code": "ITB 220E",
+        "name": "Psychology"
        },
        {
-        "code": "RUS 202",
-        "name": "Rusça IV"
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
        },
        {
-        "code": "SNT 101",
-        "name": "Heykel Sanatına Bakış"
+        "code": "SNT 105E",
+        "name": "Film Art"
        },
        {
-        "code": "SNT 102",
-        "name": "Fotoğraf"
+        "code": "SNT 101E",
+        "name": "Looking at the Art of Sculpture"
        },
        {
-        "code": "SNT 103",
-        "name": "Desen"
+        "code": "SNT 106E",
+        "name": "Traditional Turkish Art&Crafts"
        },
        {
         "code": "SNT 103E",
         "name": "Drawing"
        },
        {
-        "code": "SNT 104",
-        "name": "Mitoloji ve Sanat"
-       },
-       {
-        "code": "SNT 104E",
-        "name": "Mythology and Art"
-       },
-       {
-        "code": "SNT 105",
-        "name": "Sinema Sanatı"
-       },
-       {
-        "code": "SNT 106",
-        "name": "Geleneks. Türk El Sanatları"
-       },
-       {
-        "code": "SNT 108",
-        "name": "Seramik"
+        "code": "SNT 108E",
+        "name": "Ceramic"
        },
        {
         "code": "SNT 109",
         "name": "Kazı Resim (Gravür)"
        },
        {
-        "code": "SNT 111",
-        "name": "Moda Tasarımı ve Sanat"
+        "code": "SNT 114E",
+        "name": "Contemporary Art"
        },
        {
-        "code": "SNT 112",
-        "name": "Tiyatro"
+        "code": "SNT 119E",
+        "name": "History of Popular Music"
        },
        {
-        "code": "SNT 112E",
-        "name": "Theater"
+        "code": "SNT 226E",
+        "name": "Philosophy of Art"
        },
        {
-        "code": "SNT 113",
-        "name": "Sanat ve Yorum"
-       },
-       {
-        "code": "SNT 114",
-        "name": "Günümüz Sanatı"
-       },
-       {
-        "code": "SNT 115",
-        "name": "Modernite ve Görsel Kültür"
-       },
-       {
-        "code": "SNT 116",
-        "name": "İletişim Sanatı"
-       },
-       {
-        "code": "SNT 116E",
-        "name": "The Art of Communication"
-       },
-       {
-        "code": "SNT 117E",
-        "name": "Jazz Appreciation"
-       },
-       {
-        "code": "SNT 118",
-        "name": "Müzik Arkeolojisi"
-       },
-       {
-        "code": "SNT 119",
-        "name": "Popüler Müzik Tarihi"
-       },
-       {
-        "code": "SNT 121E",
-        "name": "World Music Cultures"
+        "code": "SNT 115E",
+        "name": "Modernity and Visual Culture"
        },
        {
         "code": "SNT 122",
         "name": "Seramik Sanatı"
        },
        {
-        "code": "SNT 123",
-        "name": "Film Yapımı"
-       },
-       {
-        "code": "SNT 123E",
-        "name": "Film Production"
-       },
-       {
-        "code": "SNT 211",
-        "name": "İstanbul:Tarih,Sanat ve Toplum"
-       },
-       {
-        "code": "SNT 212",
-        "name": "Sanat,Kültür ve Toplum"
-       },
-       {
-        "code": "SNT 213",
-        "name": "Türkiye Müzik Kültürleri"
-       },
-       {
-        "code": "SNT 214",
-        "name": "Performans, Müzik ve Dans"
-       },
-       {
-        "code": "SNT 215E",
-        "name": "Balkan Musics"
-       },
-       {
-        "code": "SNT 226",
-        "name": "Sanat Felsefesi"
+        "code": "SNT 214E",
+        "name": "Performance, Music and Dance"
        },
        {
         "code": "SNT 227E",
         "name": "Sound and Society"
        },
        {
+        "code": "SNT 112E",
+        "name": "Theater"
+       },
+       {
+        "code": "SNT 116E",
+        "name": "The Art of Communication"
+       },
+       {
+        "code": "SNT 111",
+        "name": "Moda Tasarımı ve Sanat"
+       },
+       {
+        "code": "SNT 212E",
+        "name": "Art,Culture and Society"
+       },
+       {
+        "code": "SNT 213",
+        "name": "Türkiye Müzik Kültürleri"
+       },
+       {
+        "code": "SNT 104E",
+        "name": "Mythology and Art"
+       },
+       {
+        "code": "SNT 118",
+        "name": "Müzik Arkeolojisi"
+       },
+       {
+        "code": "SNT 123E",
+        "name": "Film Production"
+       },
+       {
+        "code": "SNT 113E",
+        "name": "Art and Interpretation"
+       },
+       {
+        "code": "SNT 102E",
+        "name": "Photography"
+       },
+       {
+        "code": "SNT 117E",
+        "name": "Jazz Appreciation"
+       },
+       {
+        "code": "SNT 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "SNT 215E",
+        "name": "Balkan Musics"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "I"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "III"
+       },
+       {
+        "code": "BEB 121",
+        "name": "Spor ve Teknoloji"
+       },
+       {
+        "code": "BEB 120",
+        "name": "Spor ve Temel Bilimler"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "IV"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "VI"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "I"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "I"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "V"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "III"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "III"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "V"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "III"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "IV"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "V"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "III"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "III"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "V"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "II"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "II"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "II"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "IV"
+       },
+       {
+        "code": "SNT 121E",
+        "name": "World Music Cultures"
+       },
+       {
         "code": "SNT 228",
         "name": "Müzik ve Politika"
        },
        {
+        "code": "ALM Almanca",
+        "name": "VII"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "I"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "III"
+       },
+       {
+        "code": "ARB 101",
+        "name": "Arapça I"
+       },
+       {
+        "code": "ARB 102",
+        "name": "Arapça II"
+       },
+       {
+        "code": "ITB 225E",
+        "name": "Intercultural Citizenship Education"
+       },
+       {
+        "code": "ITB 235E",
+        "name": "Türkiye and EuropeanUnion"
+       },
+       {
         "code": "SNT 229",
         "name": "Türkiye'de Popüler Müzik Tarihinden İzlekler"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "IV"
+       },
+       {
+        "code": "ING 103DD",
+        "name": "Decoding Discourse: Language, Power, and Ideology"
+       },
+       {
+        "code": "ITB 236",
+        "name": "Türk Müziği Tarihi"
+       },
+       {
+        "code": "KOR Korece",
+        "name": "I"
+       },
+       {
+        "code": "KOR Korece",
+        "name": "II"
        }
       ]
      }
@@ -1511,6 +1399,86 @@
       ],
       "options": [
        {
+        "code": "END 317E",
+        "name": "Database Management and Big Data"
+       },
+       {
+        "code": "ISL 333E",
+        "name": "Finance"
+       },
+       {
+        "code": "END 439E",
+        "name": "Neural Network Mod.in Ind.Sys."
+       },
+       {
+        "code": "END 318E",
+        "name": "System Dynamics"
+       },
+       {
+        "code": "END 476E",
+        "name": "Machine Learning for Ind. Sys."
+       },
+       {
+        "code": "END 336E",
+        "name": "Product Development"
+       },
+       {
+        "code": "END 342E",
+        "name": "Knowledge Based Systems"
+       },
+       {
+        "code": "END 480E",
+        "name": "Reliability Engineering"
+       },
+       {
+        "code": "END 424E",
+        "name": "Financial Management"
+       },
+       {
+        "code": "END 446E",
+        "name": "Statistical Experimental Design"
+       },
+       {
+        "code": "END 458E",
+        "name": "Nonlinear Optimization"
+       },
+       {
+        "code": "END 474E",
+        "name": "Supply Chain Analytics"
+       },
+       {
+        "code": "END 339E",
+        "name": "Project Management"
+       },
+       {
+        "code": "END 478E",
+        "name": "Applied Optimization Models"
+       },
+       {
+        "code": "END 482E",
+        "name": "Supply Chain Management"
+       },
+       {
+        "code": "ECN 302E",
+        "name": "Econometrics II"
+       },
+       {
+        "code": "ECN 202E",
+        "name": "Intermediate Macroeconomics"
+       },
+       {
+        "code": "VBA 322E",
+        "name": "Computer Vision"
+       },
+       {
+        "code": "VBA 324E",
+        "name": "Fundamentals of Natural Language Processing"
+       },
+       {
+        "code": "VBA 326E",
+        "name": "Big Data and Analytics"
+       },
+       {
         "code": "BHB 202E",
         "name": "Introduction to Mathematical Methods in Computational Science and Engineering"
        },
@@ -1527,96 +1495,12 @@
         "name": "Computational Neuroscience"
        },
        {
-        "code": "ECN 202E",
-        "name": "Intermediate Macroeconomics"
-       },
-       {
-        "code": "ECN 302E",
-        "name": "Econometrics II"
-       },
-       {
-        "code": "END 317E",
-        "name": "Database Management and Big Data"
-       },
-       {
-        "code": "END 318",
-        "name": "Sistem Dinamiği"
-       },
-       {
-        "code": "END 336",
-        "name": "Ürün Geliştirme"
-       },
-       {
-        "code": "END 339",
-        "name": "Proje Yönetimi"
-       },
-       {
-        "code": "END 342E",
-        "name": "Knowledge Based Systems"
-       },
-       {
-        "code": "END 424",
-        "name": "Finansman Yönetimi"
-       },
-       {
-        "code": "END 439E",
-        "name": "Neural Network Mod.in Ind.Sys."
-       },
-       {
-        "code": "END 446E",
-        "name": "Statistical Experimental Design"
-       },
-       {
-        "code": "END 458E",
-        "name": "Nonlinear Optimization"
-       },
-       {
         "code": "END 460E",
         "name": "Human-Centered Artificial Intelligence"
        },
        {
-        "code": "END 474E",
-        "name": "Supply Chain Analytics"
-       },
-       {
-        "code": "END 476E",
-        "name": "Machine Learning for Ind. Sys."
-       },
-       {
-        "code": "END 478E",
-        "name": "Applied Optimization Models"
-       },
-       {
-        "code": "END 480E",
-        "name": "Reliability Engineering"
-       },
-       {
-        "code": "END 482E",
-        "name": "Supply Chain Management"
-       },
-       {
         "code": "END 484E",
         "name": "Financial Systems and Banking"
-       },
-       {
-        "code": "END 484",
-        "name": "Finansal Sistemler ve Bankacılık"
-       },
-       {
-        "code": "ISL 333E",
-        "name": "Finance"
-       },
-       {
-        "code": "VBA 322E",
-        "name": "Computer Vision"
-       },
-       {
-        "code": "VBA 324E",
-        "name": "Fundamentals of Natural Language Processing"
-       },
-       {
-        "code": "VBA 326E",
-        "name": "Big Data and Analytics"
        }
       ]
      }
@@ -1687,84 +1571,60 @@
       ],
       "options": [
        {
-        "code": "ECN 410E",
-        "name": "Energy Economics"
-       },
-       {
-        "code": "ECN 412E",
-        "name": "Environmental Economics"
-       },
-       {
-        "code": "ECN 420E",
-        "name": "Behavioural Economics"
-       },
-       {
         "code": "END 319E",
         "name": "Cost Management"
+       },
+       {
+        "code": "END 344E",
+        "name": "Behavioral Sciences"
+       },
+       {
+        "code": "END 345E",
+        "name": "Evolution of Management Thought"
        },
        {
         "code": "END 329E",
         "name": "Quality Management Tools&Tech."
        },
        {
-        "code": "END 344",
-        "name": "Davranış Bilimleri"
-       },
-       {
-        "code": "END 345",
-        "name": "Yönetim Düşüncesinin Evrimi"
-       },
-       {
         "code": "END 365E",
         "name": "People Analytics"
-       },
-       {
-        "code": "END 367E",
-        "name": "Automation in Production Syst."
-       },
-       {
-        "code": "END 374E",
-        "name": "Competition Management"
-       },
-       {
-        "code": "END 375E",
-        "name": "Human-Computer Interaction"
-       },
-       {
-        "code": "END 381E",
-        "name": "Tech.Design for IndusT. Eng."
-       },
-       {
-        "code": "END 423",
-        "name": "Yatırım Planlama"
        },
        {
         "code": "END 423E",
         "name": "Investment Planning"
        },
        {
-        "code": "END 429",
-        "name": "Süreç Yönetimi"
-       },
-       {
-        "code": "END 433E",
-        "name": "Marketing Management"
-       },
-       {
         "code": "END 445E",
         "name": "Lean Production Systems"
-       },
-       {
-        "code": "END 451",
-        "name": "Lojistik Yönetimi"
        },
        {
         "code": "END 453E",
         "name": "Indus.4.0 & Digital Transform."
        },
        {
+        "code": "END 374E",
+        "name": "Competition Management"
+       },
+       {
+        "code": "END 429E",
+        "name": "Process Management"
+       },
+       {
         "code": "END 473E",
         "name": "Pricing and Revenue Management"
+       },
+       {
+        "code": "END 367E",
+        "name": "Automation in Production Syst."
+       },
+       {
+        "code": "END 433E",
+        "name": "Marketing Management"
+       },
+       {
+        "code": "END 451E",
+        "name": "Logistics Management"
        },
        {
         "code": "END 475E",
@@ -1775,8 +1635,28 @@
         "name": "Industrial Data Communications"
        },
        {
-        "code": "MTH 411",
-        "name": "Bilgi Teknolojilerinde Proje Yönetimi"
+        "code": "ECN 412E",
+        "name": "Environmental Economics"
+       },
+       {
+        "code": "ECN 410E",
+        "name": "Energy Economics"
+       },
+       {
+        "code": "ECN 420E",
+        "name": "Behavioural Economics"
+       },
+       {
+        "code": "END 381E",
+        "name": "Tech.Design for IndusT. Eng."
+       },
+       {
+        "code": "END 375E",
+        "name": "Human-Computer Interaction"
+       },
+       {
+        "code": "MTH 411E",
+        "name": "Project Management in Information Technologies"
        },
        {
         "code": "MTH 412E",
@@ -1804,6 +1684,74 @@
       ],
       "options": [
        {
+        "code": "BLG 231E",
+        "name": "Digital Circuits"
+       },
+       {
+        "code": "END 327E",
+        "name": "Decision Theory"
+       },
+       {
+        "code": "END 357E",
+        "name": "Management Information Systems"
+       },
+       {
+        "code": "END 369E",
+        "name": "Game Theory"
+       },
+       {
+        "code": "END 448E",
+        "name": "Intr. to Stochastic Modell."
+       },
+       {
+        "code": "END 457E",
+        "name": "Heuristic Optimization"
+       },
+       {
+        "code": "ISL 355E",
+        "name": "Econometrics"
+       },
+       {
+        "code": "END 493E",
+        "name": "Applied Statistics"
+       },
+       {
+        "code": "END 447E",
+        "name": "Network Models"
+       },
+       {
+        "code": "END 443E",
+        "name": "Business Planning & Innovation"
+       },
+       {
+        "code": "END 471E",
+        "name": "Marketing & CRM Analytics"
+       },
+       {
+        "code": "MAT 343E",
+        "name": "Time Series Analysis"
+       },
+       {
+        "code": "MAT 471E",
+        "name": "Financial Mathematics"
+       },
+       {
+        "code": "EHB 420E",
+        "name": "Artificial Neural Networks"
+       },
+       {
+        "code": "ECN 201E",
+        "name": "Intermediate Microeconomics"
+       },
+       {
+        "code": "VBA 313E",
+        "name": "Deep Learning"
+       },
+       {
+        "code": "VBA 315E",
+        "name": "Machine Learning"
+       },
+       {
         "code": "BHB 201E",
         "name": "Fundamental Software of Informatics"
        },
@@ -1818,74 +1766,6 @@
        {
         "code": "BHB 402E",
         "name": "Computational Neuroscience"
-       },
-       {
-        "code": "BLG 231E",
-        "name": "Digital Circuits"
-       },
-       {
-        "code": "ECN 201E",
-        "name": "Intermediate Microeconomics"
-       },
-       {
-        "code": "EHB 420E",
-        "name": "Artificial Neural Networks"
-       },
-       {
-        "code": "END 327",
-        "name": "Karar Teorisi"
-       },
-       {
-        "code": "END 357E",
-        "name": "Management Information Systems"
-       },
-       {
-        "code": "END 369E",
-        "name": "Game Theory"
-       },
-       {
-        "code": "END 443E",
-        "name": "Business Planning & Innovation"
-       },
-       {
-        "code": "END 447E",
-        "name": "Network Models"
-       },
-       {
-        "code": "END 448E",
-        "name": "Intr. to Stochastic Modell."
-       },
-       {
-        "code": "END 457E",
-        "name": "Heuristic Optimization"
-       },
-       {
-        "code": "END 471E",
-        "name": "Marketing & CRM Analytics"
-       },
-       {
-        "code": "END 493E",
-        "name": "Applied Statistics"
-       },
-       {
-        "code": "ISL 355E",
-        "name": "Econometrics"
-       },
-       {
-        "code": "MAT 343E",
-        "name": "Time Series Analysis"
-       },
-       {
-        "code": "MAT 471E",
-        "name": "Financial Mathematics"
-       },
-       {
-        "code": "VBA 313E",
-        "name": "Deep Learning"
-       },
-       {
-        "code": "VBA 315E",
-        "name": "Machine Learning"
        }
       ]
      }
@@ -1956,88 +1836,88 @@
       ],
       "options": [
        {
-        "code": "ECN 421E",
-        "name": "Experimental Economics"
+        "code": "ISL 224E",
+        "name": "Cost Accounting"
        },
        {
-        "code": "END 314",
-        "name": "Hizmet Sistemleri"
-       },
-       {
-        "code": "END 316",
-        "name": "Grup Teknolojisi ve Esnek Üretim Sistemleri"
-       },
-       {
-        "code": "END 364",
-        "name": "İş Psikolojisi"
-       },
-       {
-        "code": "END 374",
-        "name": "Rekabet Yönetimi"
-       },
-       {
-        "code": "END 382",
-        "name": "Üretim Yöntemleri"
-       },
-       {
-        "code": "END 414",
-        "name": "Bakım Yönetimi"
-       },
-       {
-        "code": "END 426",
-        "name": "Kurumsal Kaynakların Planlanması"
-       },
-       {
-        "code": "END 432E",
-        "name": "Facility Layout"
-       },
-       {
-        "code": "END 434",
-        "name": "Stratejik Yönetimin Temelleri"
-       },
-       {
-        "code": "END 435",
-        "name": "İş Güvenliği"
-       },
-       {
-        "code": "END 452",
-        "name": "Satınalma Yönetimi"
-       },
-       {
-        "code": "END 454E",
-        "name": "Energy Markets & Optimization"
-       },
-       {
-        "code": "END 472E",
-        "name": "Advanced Spreadsheet Modeling"
-       },
-       {
-        "code": "END 486",
-        "name": "Yönetimin Yeni Çağı"
-       },
-       {
-        "code": "END 488",
-        "name": "ERP Süreçleri ve Kurulumu"
-       },
-       {
-        "code": "ISL 224",
-        "name": "Maliyet Muhasebesi"
+        "code": "END 414E",
+        "name": "Maintenance Management"
        },
        {
         "code": "ISL 452E",
         "name": "Financial Inst.&Portfolio Mng."
        },
        {
-        "code": "ISL 460",
-        "name": "E-Pazarlama"
+        "code": "ISL 460E",
+        "name": "E-Marketing"
+       },
+       {
+        "code": "END 314E",
+        "name": "Service Systems"
+       },
+       {
+        "code": "END 316E",
+        "name": "Group Technology and Flexible Manufacturing Systems"
+       },
+       {
+        "code": "END 426E",
+        "name": "Enterprise Resources Planning"
+       },
+       {
+        "code": "END 435E",
+        "name": "Work Safety"
+       },
+       {
+        "code": "END 374E",
+        "name": "Competition Management"
+       },
+       {
+        "code": "END 488E",
+        "name": "ERP Processes and Installation"
+       },
+       {
+        "code": "END 452E",
+        "name": "Purchasing Management"
+       },
+       {
+        "code": "END 472E",
+        "name": "Advanced Spreadsheet Modeling"
+       },
+       {
+        "code": "END 454E",
+        "name": "Energy Markets & Optimization"
+       },
+       {
+        "code": "END 486E",
+        "name": "The New Era of Management"
+       },
+       {
+        "code": "END 432E",
+        "name": "Facility Layout"
+       },
+       {
+        "code": "END 364E",
+        "name": "Work Psychology"
+       },
+       {
+        "code": "END 434E",
+        "name": "Intro.to Strategic Management"
+       },
+       {
+        "code": "KON 324E",
+        "name": "Sensors&Transducers in Contr."
        },
        {
         "code": "KON 322E",
         "name": "Industrial Automated Systems"
        },
        {
-        "code": "KON 324E",
-        "name": "Sensors&Transducers in Contr."
+        "code": "ECN 421E",
+        "name": "Experimental Economics"
+       },
+       {
+        "code": "END 382E",
+        "name": "Production Methods"
        },
        {
         "code": "SUS 404E",
@@ -2059,6 +1939,90 @@
       ],
       "options": [
        {
+        "code": "END 317E",
+        "name": "Database Management and Big Data"
+       },
+       {
+        "code": "ISL 333E",
+        "name": "Finance"
+       },
+       {
+        "code": "END 439E",
+        "name": "Neural Network Mod.in Ind.Sys."
+       },
+       {
+        "code": "END 318E",
+        "name": "System Dynamics"
+       },
+       {
+        "code": "END 476E",
+        "name": "Machine Learning for Ind. Sys."
+       },
+       {
+        "code": "END 336E",
+        "name": "Product Development"
+       },
+       {
+        "code": "END 342E",
+        "name": "Knowledge Based Systems"
+       },
+       {
+        "code": "END 480E",
+        "name": "Reliability Engineering"
+       },
+       {
+        "code": "END 424E",
+        "name": "Financial Management"
+       },
+       {
+        "code": "END 446E",
+        "name": "Statistical Experimental Design"
+       },
+       {
+        "code": "END 458E",
+        "name": "Nonlinear Optimization"
+       },
+       {
+        "code": "END 474E",
+        "name": "Supply Chain Analytics"
+       },
+       {
+        "code": "END 339E",
+        "name": "Project Management"
+       },
+       {
+        "code": "END 478E",
+        "name": "Applied Optimization Models"
+       },
+       {
+        "code": "END 482E",
+        "name": "Supply Chain Management"
+       },
+       {
+        "code": "ECN 302E",
+        "name": "Econometrics II"
+       },
+       {
+        "code": "ECN 202E",
+        "name": "Intermediate Macroeconomics"
+       },
+       {
+        "code": "VBA 322E",
+        "name": "Computer Vision"
+       },
+       {
+        "code": "VBA 324E",
+        "name": "Fundamentals of Natural Language Processing"
+       },
+       {
+        "code": "VBA 326E",
+        "name": "Big Data and Analytics"
+       },
+       {
+        "code": "END 456E",
+        "name": "Analytical Credit Risk Management"
+       },
+       {
         "code": "BHB 202E",
         "name": "Introduction to Mathematical Methods in Computational Science and Engineering"
        },
@@ -2075,104 +2039,12 @@
         "name": "Computational Neuroscience"
        },
        {
-        "code": "ECN 202E",
-        "name": "Intermediate Macroeconomics"
-       },
-       {
-        "code": "ECN 302E",
-        "name": "Econometrics II"
-       },
-       {
-        "code": "END 317E",
-        "name": "Database Management and Big Data"
-       },
-       {
-        "code": "END 318",
-        "name": "Sistem Dinamiği"
-       },
-       {
-        "code": "END 336",
-        "name": "Ürün Geliştirme"
-       },
-       {
-        "code": "END 339",
-        "name": "Proje Yönetimi"
-       },
-       {
-        "code": "END 342E",
-        "name": "Knowledge Based Systems"
-       },
-       {
-        "code": "END 424",
-        "name": "Finansman Yönetimi"
-       },
-       {
-        "code": "END 439E",
-        "name": "Neural Network Mod.in Ind.Sys."
-       },
-       {
-        "code": "END 446E",
-        "name": "Statistical Experimental Design"
-       },
-       {
-        "code": "END 456E",
-        "name": "Analytical Credit Risk Management"
-       },
-       {
-        "code": "END 456",
-        "name": "Analitik Kredi Riski Yönetimi"
-       },
-       {
-        "code": "END 458E",
-        "name": "Nonlinear Optimization"
-       },
-       {
         "code": "END 460E",
         "name": "Human-Centered Artificial Intelligence"
        },
        {
-        "code": "END 474E",
-        "name": "Supply Chain Analytics"
-       },
-       {
-        "code": "END 476E",
-        "name": "Machine Learning for Ind. Sys."
-       },
-       {
-        "code": "END 478E",
-        "name": "Applied Optimization Models"
-       },
-       {
-        "code": "END 480E",
-        "name": "Reliability Engineering"
-       },
-       {
-        "code": "END 482E",
-        "name": "Supply Chain Management"
-       },
-       {
         "code": "END 484E",
         "name": "Financial Systems and Banking"
-       },
-       {
-        "code": "END 484",
-        "name": "Finansal Sistemler ve Bankacılık"
-       },
-       {
-        "code": "ISL 333E",
-        "name": "Finance"
-       },
-       {
-        "code": "VBA 322E",
-        "name": "Computer Vision"
-       },
-       {
-        "code": "VBA 324E",
-        "name": "Fundamentals of Natural Language Processing"
-       },
-       {
-        "code": "VBA 326E",
-        "name": "Big Data and Analytics"
        }
       ]
      }

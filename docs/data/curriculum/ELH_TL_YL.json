@@ -40,16 +40,12 @@
       ],
       "options": [
        {
-        "code": "KOM 505",
-        "name": "Olasılık Kuramı&Rastlan.Süreçl"
+        "code": "TEL 529",
+        "name": "İleri Mühendislik Matematiği"
        },
        {
         "code": "KOM 505E",
         "name": "Probability Theory&Stochast.Pr"
-       },
-       {
-        "code": "TEL 529",
-        "name": "İleri Mühendislik Matematiği"
        }
       ]
      }
@@ -68,32 +64,28 @@
         "name": "Detection and Estimation Theo."
        },
        {
-        "code": "TEL 503E",
-        "name": "Applied EM Theory"
-       },
-       {
-        "code": "TEL 508",
-        "name": "Sayısal İletişim Kuramı"
-       },
-       {
         "code": "TEL 515E",
         "name": "Statist.Signal Processing"
        },
        {
-        "code": "TEL 517",
-        "name": "Bilgi Kuramı"
+        "code": "TEL 508E",
+        "name": "Digital Communication Theory"
+       },
+       {
+        "code": "TEL 503E",
+        "name": "Applied EM Theory"
        },
        {
         "code": "TEL 518E",
         "name": "Theory of Functions of Complex Variables"
        },
        {
-        "code": "TEL 518",
-        "name": "Karmaşık Değişkenli Fonk. Kur."
-       },
-       {
         "code": "TEL 529",
         "name": "İleri Mühendislik Matematiği"
+       },
+       {
+        "code": "TEL 517E",
+        "name": "Information Theory"
        }
       ]
      }
@@ -112,24 +104,16 @@
         "name": "Detection and Estimation Theo."
        },
        {
-        "code": "TEL 503E",
-        "name": "Applied EM Theory"
-       },
-       {
-        "code": "TEL 508",
-        "name": "Sayısal İletişim Kuramı"
-       },
-       {
         "code": "TEL 515E",
         "name": "Statist.Signal Processing"
        },
        {
-        "code": "TEL 517",
-        "name": "Bilgi Kuramı"
+        "code": "TEL 508E",
+        "name": "Digital Communication Theory"
        },
        {
-        "code": "TEL 518",
-        "name": "Karmaşık Değişkenli Fonk. Kur."
+        "code": "TEL 503E",
+        "name": "Applied EM Theory"
        },
        {
         "code": "TEL 518E",
@@ -138,6 +122,10 @@
        {
         "code": "TEL 529",
         "name": "İleri Mühendislik Matematiği"
+       },
+       {
+        "code": "TEL 517E",
+        "name": "Information Theory"
        }
       ]
      }
@@ -156,28 +144,28 @@
         "name": "Detection and Estimation Theo."
        },
        {
-        "code": "TEL 503E",
-        "name": "Applied EM Theory"
-       },
-       {
-        "code": "TEL 508",
-        "name": "Sayısal İletişim Kuramı"
-       },
-       {
         "code": "TEL 515E",
         "name": "Statist.Signal Processing"
        },
        {
-        "code": "TEL 517",
-        "name": "Bilgi Kuramı"
+        "code": "TEL 508E",
+        "name": "Digital Communication Theory"
        },
        {
-        "code": "TEL 518",
-        "name": "Karmaşık Değişkenli Fonk. Kur."
+        "code": "TEL 503E",
+        "name": "Applied EM Theory"
+       },
+       {
+        "code": "TEL 518E",
+        "name": "Theory of Functions of Complex Variables"
        },
        {
         "code": "TEL 529",
         "name": "İleri Mühendislik Matematiği"
+       },
+       {
+        "code": "TEL 517E",
+        "name": "Information Theory"
        }
       ]
      }

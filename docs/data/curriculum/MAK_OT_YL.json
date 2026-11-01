@@ -30,56 +30,28 @@
       ],
       "options": [
        {
-        "code": "MDK 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "MDK 596E",
-        "name": "Scientific Research, Ethic and Seminar"
-       },
-       {
         "code": "MIA 596E",
         "name": "Scien.Research, Ethic&Seminar"
-       },
-       {
-        "code": "MIA 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "MKC 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "MKC 596E",
-        "name": "Scientific Research, Ethic and Seminar"
        },
        {
         "code": "MKS 596E",
         "name": "Scientific Research, Ethic and Seminar"
        },
        {
-        "code": "MKS 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "MMI 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
+        "code": "MOT 596E",
+        "name": "Scientific Research, Ethic and Seminar"
        },
        {
         "code": "MMI 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "MOT 596E",
+        "code": "MDK 596E",
         "name": "Scientific Research, Ethic and Seminar"
        },
        {
-        "code": "MOT 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "MTA 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
+        "code": "MKC 596E",
+        "name": "Scientific Research, Ethic and Seminar"
        },
        {
         "code": "MTA 596E",
@@ -98,7 +70,11 @@
       ],
       "options": [
        {
-        "code": "MDK 501E",
+        "code": "MTA 501E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "MOT 501E",
         "name": "Engineering Mathematics"
        },
        {
@@ -110,19 +86,15 @@
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MKS 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
         "code": "MMI 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MOT 501",
-        "name": "Mühendislik Matematiği"
+        "code": "MDK 501E",
+        "name": "Engineering Mathematics"
        },
        {
-        "code": "MTA 501E",
+        "code": "MKS 501E",
         "name": "Engineering Mathematics"
        }
       ]
@@ -138,12 +110,12 @@
       ],
       "options": [
        {
-        "code": "MOT 575E",
-        "name": "Vehicle Dynamics"
-       },
-       {
         "code": "MOT 576E",
         "name": "Comp.Aided Sim.in Auto.Eng.CAS"
+       },
+       {
+        "code": "MOT 575E",
+        "name": "Vehicle Dynamics"
        },
        {
         "code": "MOT 587E",
@@ -162,12 +134,12 @@
       ],
       "options": [
        {
-        "code": "MOT 575E",
-        "name": "Vehicle Dynamics"
-       },
-       {
         "code": "MOT 576E",
         "name": "Comp.Aided Sim.in Auto.Eng.CAS"
+       },
+       {
+        "code": "MOT 575E",
+        "name": "Vehicle Dynamics"
        },
        {
         "code": "MOT 587E",
@@ -186,12 +158,12 @@
       ],
       "options": [
        {
-        "code": "MOT 575E",
-        "name": "Vehicle Dynamics"
-       },
-       {
         "code": "MOT 576E",
         "name": "Comp.Aided Sim.in Auto.Eng.CAS"
+       },
+       {
+        "code": "MOT 575E",
+        "name": "Vehicle Dynamics"
        },
        {
         "code": "MOT 587E",

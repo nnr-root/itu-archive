@@ -30,11 +30,11 @@
       ],
       "options": [
        {
-        "code": "ADM 596E",
+        "code": "DTM 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "DTM 596E",
+        "code": "ADM 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        }
       ]
@@ -50,6 +50,22 @@
       ],
       "options": [
        {
+        "code": "KMM 511E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "GEM 509E",
+        "name": "Mathematical Methods in Eng."
+       },
+       {
+        "code": "YAP 501E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "UUM 535E",
+        "name": "Engineering Mathematics"
+       },
+       {
         "code": "DUM 501E",
         "name": "Engineering Mathematics"
        },
@@ -58,15 +74,11 @@
         "name": "Engineering Mathematics"
        },
        {
-        "code": "GEM 509",
-        "name": "Mühendislikte Matem.Yöntemler"
-       },
-       {
-        "code": "KMM 511E",
+        "code": "MTA 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MDK 501E",
+        "code": "MOT 501E",
         "name": "Engineering Mathematics"
        },
        {
@@ -78,27 +90,15 @@
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MKS 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
         "code": "MMI 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MOT 501",
-        "name": "Mühendislik Matematiği"
-       },
-       {
-        "code": "MTA 501E",
+        "code": "MDK 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "UUM 535E",
-        "name": "Engineering Mathematics"
-       },
-       {
-        "code": "YAP 501E",
+        "code": "MKS 501E",
         "name": "Engineering Mathematics"
        }
       ]
@@ -114,16 +114,16 @@
       ],
       "options": [
        {
-        "code": "DTM 502E",
-        "name": "Dynamics of Marine Structures"
+        "code": "DTM 518E",
+        "name": "Dynamics of Ocean Waves"
        },
        {
         "code": "DTM 507E",
         "name": "Numerical Techn.Eng.Problems"
        },
        {
-        "code": "DTM 518E",
-        "name": "Dynamics of Ocean Waves"
+        "code": "DTM 502E",
+        "name": "Dynamics of Marine Structures"
        },
        {
         "code": "DTM 525E",
@@ -146,16 +146,16 @@
       ],
       "options": [
        {
-        "code": "DTM 502E",
-        "name": "Dynamics of Marine Structures"
+        "code": "DTM 518E",
+        "name": "Dynamics of Ocean Waves"
        },
        {
         "code": "DTM 507E",
         "name": "Numerical Techn.Eng.Problems"
        },
        {
-        "code": "DTM 518E",
-        "name": "Dynamics of Ocean Waves"
+        "code": "DTM 502E",
+        "name": "Dynamics of Marine Structures"
        },
        {
         "code": "DTM 525E",
@@ -178,16 +178,16 @@
       ],
       "options": [
        {
-        "code": "DTM 502E",
-        "name": "Dynamics of Marine Structures"
+        "code": "DTM 518E",
+        "name": "Dynamics of Ocean Waves"
        },
        {
         "code": "DTM 507E",
         "name": "Numerical Techn.Eng.Problems"
        },
        {
-        "code": "DTM 518E",
-        "name": "Dynamics of Ocean Waves"
+        "code": "DTM 502E",
+        "name": "Dynamics of Marine Structures"
        },
        {
         "code": "DTM 525E",

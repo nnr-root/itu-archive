@@ -30,16 +30,8 @@
       ],
       "options": [
        {
-        "code": "ISL 596",
-        "name": "Scien.Rese., Ethic&Seminar"
-       },
-       {
         "code": "ISL 596E",
         "name": "Scien.Rese., Ethic&Seminar"
-       },
-       {
-        "code": "ISS 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
        },
        {
         "code": "ISS 596E",
@@ -58,8 +50,12 @@
       ],
       "options": [
        {
-        "code": "ISS 501",
-        "name": "Yöneticiler için İstatistik"
+        "code": "ISS 505E",
+        "name": "Management and Organization"
+       },
+       {
+        "code": "ISS 509E",
+        "name": "Marketing Management"
        },
        {
         "code": "ISS 502",
@@ -70,12 +66,8 @@
         "name": "Financial Accounting"
        },
        {
-        "code": "ISS 505",
-        "name": "Yönetim ve Organizasyon"
-       },
-       {
-        "code": "ISS 509E",
-        "name": "Marketing Management"
+        "code": "ISS 501E",
+        "name": "Management Statistics"
        }
       ]
      }
@@ -90,8 +82,12 @@
       ],
       "options": [
        {
-        "code": "ISS 501",
-        "name": "Yöneticiler için İstatistik"
+        "code": "ISS 505E",
+        "name": "Management and Organization"
+       },
+       {
+        "code": "ISS 509E",
+        "name": "Marketing Management"
        },
        {
         "code": "ISS 502",
@@ -102,12 +98,8 @@
         "name": "Financial Accounting"
        },
        {
-        "code": "ISS 505",
-        "name": "Yönetim ve Organizasyon"
-       },
-       {
-        "code": "ISS 509E",
-        "name": "Marketing Management"
+        "code": "ISS 501E",
+        "name": "Management Statistics"
        }
       ]
      }
@@ -122,8 +114,12 @@
       ],
       "options": [
        {
-        "code": "ISS 501",
-        "name": "Yöneticiler için İstatistik"
+        "code": "ISS 505E",
+        "name": "Management and Organization"
+       },
+       {
+        "code": "ISS 509E",
+        "name": "Marketing Management"
        },
        {
         "code": "ISS 502",
@@ -134,12 +130,8 @@
         "name": "Financial Accounting"
        },
        {
-        "code": "ISS 505",
-        "name": "Yönetim ve Organizasyon"
-       },
-       {
-        "code": "ISS 509E",
-        "name": "Marketing Management"
+        "code": "ISS 501E",
+        "name": "Management Statistics"
        }
       ]
      }
@@ -154,8 +146,12 @@
       ],
       "options": [
        {
-        "code": "ISS 501",
-        "name": "Yöneticiler için İstatistik"
+        "code": "ISS 505E",
+        "name": "Management and Organization"
+       },
+       {
+        "code": "ISS 509E",
+        "name": "Marketing Management"
        },
        {
         "code": "ISS 502",
@@ -166,12 +162,8 @@
         "name": "Financial Accounting"
        },
        {
-        "code": "ISS 505",
-        "name": "Yönetim ve Organizasyon"
-       },
-       {
-        "code": "ISS 509E",
-        "name": "Marketing Management"
+        "code": "ISS 501E",
+        "name": "Management Statistics"
        }
       ]
      }
@@ -186,8 +178,12 @@
       ],
       "options": [
        {
-        "code": "ISS 501",
-        "name": "Yöneticiler için İstatistik"
+        "code": "ISS 505E",
+        "name": "Management and Organization"
+       },
+       {
+        "code": "ISS 509E",
+        "name": "Marketing Management"
        },
        {
         "code": "ISS 502",
@@ -198,12 +194,8 @@
         "name": "Financial Accounting"
        },
        {
-        "code": "ISS 505",
-        "name": "Yönetim ve Organizasyon"
-       },
-       {
-        "code": "ISS 509E",
-        "name": "Marketing Management"
+        "code": "ISS 501E",
+        "name": "Management Statistics"
        }
       ]
      }
@@ -218,16 +210,12 @@
       ],
       "options": [
        {
-        "code": "ISL 508",
-        "name": "Stratejik İnsan Kayn.Yönetimi"
-       },
-       {
         "code": "ISL 509",
         "name": "Çok Değişkenli Istat. Çözüm."
        },
        {
-        "code": "ISS 500E",
-        "name": "Quantitative Decision Techniq."
+        "code": "ISL 508",
+        "name": "Stratejik İnsan Kayn.Yönetimi"
        },
        {
         "code": "ISS 504E",
@@ -242,16 +230,24 @@
         "name": "Managerial Economics"
        },
        {
-        "code": "ISS 508E",
-        "name": "Organizational Behavior"
+        "code": "ISS 500E",
+        "name": "Quantitative Decision Techniq."
        },
        {
         "code": "ISS 510",
         "name": "Stratejik Planlama ve Yönetim"
        },
        {
+        "code": "ISS 508E",
+        "name": "Organizational Behavior"
+       },
+       {
         "code": "ISS 511",
         "name": "İnsan Kaynakları Yönetimi"
+       },
+       {
+        "code": "ISS 537E",
+        "name": "Forecasting Techniques"
        },
        {
         "code": "ISS 566E",
@@ -270,16 +266,12 @@
       ],
       "options": [
        {
-        "code": "ISL 508",
-        "name": "Stratejik İnsan Kayn.Yönetimi"
-       },
-       {
         "code": "ISL 509",
         "name": "Çok Değişkenli Istat. Çözüm."
        },
        {
-        "code": "ISS 500E",
-        "name": "Quantitative Decision Techniq."
+        "code": "ISL 508",
+        "name": "Stratejik İnsan Kayn.Yönetimi"
        },
        {
         "code": "ISS 504E",
@@ -294,16 +286,24 @@
         "name": "Managerial Economics"
        },
        {
-        "code": "ISS 508E",
-        "name": "Organizational Behavior"
+        "code": "ISS 500E",
+        "name": "Quantitative Decision Techniq."
        },
        {
         "code": "ISS 510",
         "name": "Stratejik Planlama ve Yönetim"
        },
        {
+        "code": "ISS 508E",
+        "name": "Organizational Behavior"
+       },
+       {
         "code": "ISS 511",
         "name": "İnsan Kaynakları Yönetimi"
+       },
+       {
+        "code": "ISS 537E",
+        "name": "Forecasting Techniques"
        },
        {
         "code": "ISS 566E",
@@ -322,23 +322,55 @@
       ],
       "options": [
        {
-        "code": "ISL 508",
-        "name": "Stratejik İnsan Kayn.Yönetimi"
-       },
-       {
         "code": "ISL 509",
         "name": "Çok Değişkenli Istat. Çözüm."
        },
        {
-        "code": "ISS 500E",
-        "name": "Quantitative Decision Techniq."
+        "code": "ISL 508",
+        "name": "Stratejik İnsan Kayn.Yönetimi"
+       },
+       {
+        "code": "ISS 524",
+        "name": "Pazarlama Araştırması"
+       },
+       {
+        "code": "ISS 601E",
+        "name": "Advanced Topics in Finance"
+       },
+       {
+        "code": "ISS 610E",
+        "name": "Selected Topics in Strategic Management"
+       },
+       {
+        "code": "ISS 523E",
+        "name": "Global Marketing"
+       },
+       {
+        "code": "ISS 533",
+        "name": "Sermaye Piyasası Hukuku"
+       },
+       {
+        "code": "ISS 534E",
+        "name": "Financial Markets&Instutions"
+       },
+       {
+        "code": "ISS 542E",
+        "name": "Corporate Manag. of Technology"
+       },
+       {
+        "code": "ISS 543",
+        "name": "Araştırma ve Geliştirme Yöntm."
+       },
+       {
+        "code": "ISS 606E",
+        "name": "Organization Theory"
+       },
+       {
+        "code": "ISS 609E",
+        "name": "Selec.Topics in Market.Stra."
        },
        {
         "code": "ISS 504E",
-        "name": "Corporate Finance"
-       },
-       {
-        "code": "ISS 504",
         "name": "Corporate Finance"
        },
        {
@@ -350,64 +382,24 @@
         "name": "Managerial Economics"
        },
        {
-        "code": "ISS 508E",
-        "name": "Organizational Behavior"
-       },
-       {
-        "code": "ISS 510",
-        "name": "Stratejik Planlama ve Yönetim"
-       },
-       {
-        "code": "ISS 511",
-        "name": "İnsan Kaynakları Yönetimi"
-       },
-       {
-        "code": "ISS 520E",
-        "name": "Strategic Marketing&Management"
-       },
-       {
-        "code": "ISS 523E",
-        "name": "Global Marketing"
-       },
-       {
-        "code": "ISS 524",
-        "name": "Pazarlama Araştırması"
-       },
-       {
         "code": "ISS 531E",
         "name": "International Finance"
        },
        {
-        "code": "ISS 532E",
-        "name": "Integrated Marketing Communic."
+        "code": "ISS 552",
+        "name": "Fikri-Sanayi Mülkiyet Hukuku"
        },
        {
-        "code": "ISS 533",
-        "name": "Sermaye Piyasası Hukuku"
+        "code": "ISS 554",
+        "name": "Olaylarla İşçi-İşveren Hukuku"
        },
        {
-        "code": "ISS 534",
-        "name": "Financial Markets&Instutions"
+        "code": "ISS 602E",
+        "name": "Financial Econometrics"
        },
        {
-        "code": "ISS 534E",
-        "name": "Financial Markets&Instutions"
-       },
-       {
-        "code": "ISS 535E",
-        "name": "Sustainable Business Develop."
-       },
-       {
-        "code": "ISS 541E",
-        "name": "Technology&Industrial Dynamics"
-       },
-       {
-        "code": "ISS 542E",
-        "name": "Corporate Manag. of Technology"
-       },
-       {
-        "code": "ISS 543",
-        "name": "Araştırma ve Geliştirme Yöntm."
+        "code": "ISS 607E",
+        "name": "Spec.Topics in Organ.Behavior"
        },
        {
         "code": "ISS 544",
@@ -418,120 +410,80 @@
         "name": "Yönetim&Organiz.Yeni Yaklaşıml"
        },
        {
-        "code": "ISS 552",
-        "name": "Fikri-Sanayi Mülkiyet Hukuku"
+        "code": "ISS 608E",
+        "name": "Selected Topics in Human Resources Management"
        },
        {
-        "code": "ISS 553",
-        "name": "Ekonomi Hukuku"
+        "code": "ISS 500E",
+        "name": "Quantitative Decision Techniq."
        },
        {
-        "code": "ISS 554",
-        "name": "Olaylarla İşçi-İşveren Hukuku"
+        "code": "ISS 520E",
+        "name": "Strategic Marketing&Management"
        },
        {
-        "code": "ISS 555",
-        "name": "E-Ticaret"
+        "code": "ISS 541E",
+        "name": "Technology&Industrial Dynamics"
+       },
+       {
+        "code": "ISS 555E",
+        "name": "ISS 555 E-Ticaret"
+       },
+       {
+        "code": "ISS 510",
+        "name": "Stratejik Planlama ve Yönetim"
+       },
+       {
+        "code": "ISS 532E",
+        "name": "Integrated Marketing Communic."
        },
        {
         "code": "ISS 563",
         "name": "Performans Değerl.&Motivasyon"
        },
        {
-        "code": "ISS 564",
-        "name": "Digital Marketing Management"
+        "code": "ISS 611E",
+        "name": "Selected Topics in Entrepreneurship"
        },
        {
-        "code": "ISS 564E",
-        "name": "Digital Marketing Management"
+        "code": "ISS 508E",
+        "name": "Organizational Behavior"
        },
        {
-        "code": "ISS 566E",
-        "name": "Selected Topics in Macroeconomics for Management"
+        "code": "ISS 511",
+        "name": "İnsan Kaynakları Yönetimi"
        },
        {
-        "code": "ISS 601",
-        "name": "Finansta İleri Konular"
+        "code": "ISS 535E",
+        "name": "Sustainable Business Develop."
        },
        {
-        "code": "ISS 601E",
-        "name": "Advanced Topics in Finance"
-       },
-       {
-        "code": "ISS 602",
-        "name": "Financial Econometrics"
-       },
-       {
-        "code": "ISS 602E",
-        "name": "Financial Econometrics"
-       },
-       {
-        "code": "ISS 603",
-        "name": "Financial Market Microstruc."
+        "code": "ISS 553",
+        "name": "Ekonomi Hukuku"
        },
        {
         "code": "ISS 603E",
         "name": "Financial Market Microstruc."
        },
        {
-        "code": "ISS 604",
-        "name": "Marketing Theory"
-       },
-       {
         "code": "ISS 604E",
         "name": "Marketing Theory"
-       },
-       {
-        "code": "ISS 605",
-        "name": "Direc.Readin.in Consu.Behavior"
        },
        {
         "code": "ISS 605E",
         "name": "Direc.Readin.in Consu.Behavior"
        },
        {
-        "code": "ISS 606E",
-        "name": "Organization Theory"
+        "code": "ISS 564E",
+        "name": "Digital Marketing Management"
        },
        {
-        "code": "ISS 606",
-        "name": "Örgüt Kuramı"
+        "code": "ISS 537E",
+        "name": "Forecasting Techniques"
        },
        {
-        "code": "ISS 607",
-        "name": "Spec.Topics in Organ.Behavior"
-       },
-       {
-        "code": "ISS 607E",
-        "name": "Spec.Topics in Organ.Behavior"
-       },
-       {
-        "code": "ISS 608",
-        "name": "İnsan Kayn.Yöne.Seçilmiş Konu."
-       },
-       {
-        "code": "ISS 608E",
-        "name": "Selected Topics in Human Resources Management"
-       },
-       {
-        "code": "ISS 609E",
-        "name": "Selec.Topics in Market.Stra."
-       },
-       {
-        "code": "ISS 610",
-        "name": "Stratejik Yönetimde Seç.Kon."
-       },
-       {
-        "code": "ISS 610E",
-        "name": "Selected Topics in Strategic Management"
-       },
-       {
-        "code": "ISS 611",
-        "name": "Girişimcilikte Seçilmiş Konu."
-       },
-       {
-        "code": "ISS 611E",
-        "name": "Selected Topics in Entrepreneurship"
+        "code": "ISS 566E",
+        "name": "Selected Topics in Macroeconomics for Management"
        }
       ]
      }
@@ -546,20 +498,52 @@
       ],
       "options": [
        {
-        "code": "ISL 508",
-        "name": "Stratejik İnsan Kayn.Yönetimi"
-       },
-       {
         "code": "ISL 509",
         "name": "Çok Değişkenli Istat. Çözüm."
        },
        {
-        "code": "ISS 500E",
-        "name": "Quantitative Decision Techniq."
+        "code": "ISL 508",
+        "name": "Stratejik İnsan Kayn.Yönetimi"
        },
        {
-        "code": "ISS 504",
-        "name": "Corporate Finance"
+        "code": "ISS 524",
+        "name": "Pazarlama Araştırması"
+       },
+       {
+        "code": "ISS 601E",
+        "name": "Advanced Topics in Finance"
+       },
+       {
+        "code": "ISS 610E",
+        "name": "Selected Topics in Strategic Management"
+       },
+       {
+        "code": "ISS 523E",
+        "name": "Global Marketing"
+       },
+       {
+        "code": "ISS 533",
+        "name": "Sermaye Piyasası Hukuku"
+       },
+       {
+        "code": "ISS 534E",
+        "name": "Financial Markets&Instutions"
+       },
+       {
+        "code": "ISS 542E",
+        "name": "Corporate Manag. of Technology"
+       },
+       {
+        "code": "ISS 543",
+        "name": "Araştırma ve Geliştirme Yöntm."
+       },
+       {
+        "code": "ISS 606E",
+        "name": "Organization Theory"
+       },
+       {
+        "code": "ISS 609E",
+        "name": "Selec.Topics in Market.Stra."
        },
        {
         "code": "ISS 504E",
@@ -574,64 +558,24 @@
         "name": "Managerial Economics"
        },
        {
-        "code": "ISS 508E",
-        "name": "Organizational Behavior"
-       },
-       {
-        "code": "ISS 510",
-        "name": "Stratejik Planlama ve Yönetim"
-       },
-       {
-        "code": "ISS 511",
-        "name": "İnsan Kaynakları Yönetimi"
-       },
-       {
-        "code": "ISS 520E",
-        "name": "Strategic Marketing&Management"
-       },
-       {
-        "code": "ISS 523E",
-        "name": "Global Marketing"
-       },
-       {
-        "code": "ISS 524",
-        "name": "Pazarlama Araştırması"
-       },
-       {
         "code": "ISS 531E",
         "name": "International Finance"
        },
        {
-        "code": "ISS 532E",
-        "name": "Integrated Marketing Communic."
+        "code": "ISS 552",
+        "name": "Fikri-Sanayi Mülkiyet Hukuku"
        },
        {
-        "code": "ISS 533",
-        "name": "Sermaye Piyasası Hukuku"
+        "code": "ISS 554",
+        "name": "Olaylarla İşçi-İşveren Hukuku"
        },
        {
-        "code": "ISS 534E",
-        "name": "Financial Markets&Instutions"
+        "code": "ISS 602E",
+        "name": "Financial Econometrics"
        },
        {
-        "code": "ISS 534",
-        "name": "Financial Markets&Instutions"
-       },
-       {
-        "code": "ISS 535E",
-        "name": "Sustainable Business Develop."
-       },
-       {
-        "code": "ISS 541E",
-        "name": "Technology&Industrial Dynamics"
-       },
-       {
-        "code": "ISS 542E",
-        "name": "Corporate Manag. of Technology"
-       },
-       {
-        "code": "ISS 543",
-        "name": "Araştırma ve Geliştirme Yöntm."
+        "code": "ISS 607E",
+        "name": "Spec.Topics in Organ.Behavior"
        },
        {
         "code": "ISS 544",
@@ -642,55 +586,59 @@
         "name": "Yönetim&Organiz.Yeni Yaklaşıml"
        },
        {
-        "code": "ISS 552",
-        "name": "Fikri-Sanayi Mülkiyet Hukuku"
+        "code": "ISS 608E",
+        "name": "Selected Topics in Human Resources Management"
        },
        {
-        "code": "ISS 553",
-        "name": "Ekonomi Hukuku"
+        "code": "ISS 500E",
+        "name": "Quantitative Decision Techniq."
        },
        {
-        "code": "ISS 554",
-        "name": "Olaylarla İşçi-İşveren Hukuku"
+        "code": "ISS 520E",
+        "name": "Strategic Marketing&Management"
        },
        {
-        "code": "ISS 555",
-        "name": "E-Ticaret"
+        "code": "ISS 541E",
+        "name": "Technology&Industrial Dynamics"
+       },
+       {
+        "code": "ISS 555E",
+        "name": "ISS 555 E-Ticaret"
+       },
+       {
+        "code": "ISS 510",
+        "name": "Stratejik Planlama ve Yönetim"
+       },
+       {
+        "code": "ISS 532E",
+        "name": "Integrated Marketing Communic."
        },
        {
         "code": "ISS 563",
         "name": "Performans Değerl.&Motivasyon"
        },
        {
-        "code": "ISS 564E",
-        "name": "Digital Marketing Management"
+        "code": "ISS 611E",
+        "name": "Selected Topics in Entrepreneurship"
        },
        {
-        "code": "ISS 564",
-        "name": "Digital Marketing Management"
+        "code": "ISS 508E",
+        "name": "Organizational Behavior"
        },
        {
-        "code": "ISS 566E",
-        "name": "Selected Topics in Macroeconomics for Management"
+        "code": "ISS 511",
+        "name": "İnsan Kaynakları Yönetimi"
        },
        {
-        "code": "ISS 601E",
-        "name": "Advanced Topics in Finance"
+        "code": "ISS 535E",
+        "name": "Sustainable Business Develop."
        },
        {
-        "code": "ISS 601",
-        "name": "Finansta İleri Konular"
-       },
-       {
-        "code": "ISS 602",
-        "name": "Financial Econometrics"
+        "code": "ISS 553",
+        "name": "Ekonomi Hukuku"
        },
        {
         "code": "ISS 603E",
-        "name": "Financial Market Microstruc."
-       },
-       {
-        "code": "ISS 603",
         "name": "Financial Market Microstruc."
        },
        {
@@ -698,60 +646,20 @@
         "name": "Marketing Theory"
        },
        {
-        "code": "ISS 604",
-        "name": "Marketing Theory"
-       },
-       {
         "code": "ISS 605E",
         "name": "Direc.Readin.in Consu.Behavior"
        },
        {
-        "code": "ISS 605",
-        "name": "Direc.Readin.in Consu.Behavior"
+        "code": "ISS 564E",
+        "name": "Digital Marketing Management"
        },
        {
-        "code": "ISS 606E",
-        "name": "Organization Theory"
+        "code": "ISS 537E",
+        "name": "Forecasting Techniques"
        },
        {
-        "code": "ISS 606",
-        "name": "Örgüt Kuramı"
-       },
-       {
-        "code": "ISS 607E",
-        "name": "Spec.Topics in Organ.Behavior"
-       },
-       {
-        "code": "ISS 607",
-        "name": "Spec.Topics in Organ.Behavior"
-       },
-       {
-        "code": "ISS 608E",
-        "name": "Selected Topics in Human Resources Management"
-       },
-       {
-        "code": "ISS 608",
-        "name": "İnsan Kayn.Yöne.Seçilmiş Konu."
-       },
-       {
-        "code": "ISS 609E",
-        "name": "Selec.Topics in Market.Stra."
-       },
-       {
-        "code": "ISS 610E",
-        "name": "Selected Topics in Strategic Management"
-       },
-       {
-        "code": "ISS 610",
-        "name": "Stratejik Yönetimde Seç.Kon."
-       },
-       {
-        "code": "ISS 611E",
-        "name": "Selected Topics in Entrepreneurship"
-       },
-       {
-        "code": "ISS 611",
-        "name": "Girişimcilikte Seçilmiş Konu."
+        "code": "ISS 566E",
+        "name": "Selected Topics in Macroeconomics for Management"
        }
       ]
      }

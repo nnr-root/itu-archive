@@ -40,16 +40,16 @@
       ],
       "options": [
        {
+        "code": "PET 519E",
+        "name": "Advanced Engineering Mathemath"
+       },
+       {
         "code": "CHZ 511",
         "name": "Mühendislik Matematiği"
        },
        {
         "code": "JFM 501",
         "name": "Mühendislik Matematiği"
-       },
-       {
-        "code": "PET 519E",
-        "name": "Advanced Engineering Mathemath"
        }
       ]
      }
@@ -68,12 +68,12 @@
         "name": "Signal Analysis in Geophysics"
        },
        {
-        "code": "JFM 504",
-        "name": "İleri Diferansiyel Denkl."
-       },
-       {
         "code": "JFM 515E",
         "name": "General.Inver.Theory in Geophy"
+       },
+       {
+        "code": "JFM 504E",
+        "name": "Advanced Differential Equat."
        }
       ]
      }
@@ -92,12 +92,12 @@
         "name": "Signal Analysis in Geophysics"
        },
        {
-        "code": "JFM 504",
-        "name": "İleri Diferansiyel Denkl."
-       },
-       {
         "code": "JFM 515E",
         "name": "General.Inver.Theory in Geophy"
+       },
+       {
+        "code": "JFM 504E",
+        "name": "Advanced Differential Equat."
        }
       ]
      }
@@ -116,12 +116,12 @@
         "name": "Signal Analysis in Geophysics"
        },
        {
-        "code": "JFM 504",
-        "name": "İleri Diferansiyel Denkl."
-       },
-       {
         "code": "JFM 515E",
         "name": "General.Inver.Theory in Geophy"
+       },
+       {
+        "code": "JFM 504E",
+        "name": "Advanced Differential Equat."
        }
       ]
      }

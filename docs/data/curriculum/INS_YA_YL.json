@@ -30,35 +30,23 @@
       ],
       "options": [
        {
-        "code": "HSK 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "HSK 596E",
-        "name": "Scien.Rese., Ethic&Seminar"
-       },
-       {
-        "code": "ULS 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "YAP 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
         "code": "YAP 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "YIP 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
+        "code": "ULS 596E",
+        "name": "Scientific Research, Ethic and Seminar"
        },
        {
         "code": "ZMG 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "ZMG 596",
+        "code": "HSK 596E",
+        "name": "Scien.Rese., Ethic&Seminar"
+       },
+       {
+        "code": "YIP 596",
         "name": "Bilimsel Araş.,Etik ve Seminer"
        }
       ]
@@ -74,12 +62,12 @@
       ],
       "options": [
        {
-        "code": "ULS 501E",
-        "name": "Mathe.&Sta.Meth.in Tran.Eng."
-       },
-       {
         "code": "YAP 501E",
         "name": "Engineering Mathematics"
+       },
+       {
+        "code": "ULS 501E",
+        "name": "Mathe.&Sta.Meth.in Tran.Eng."
        },
        {
         "code": "YIP 501E",
@@ -98,36 +86,32 @@
       ],
       "options": [
        {
-        "code": "DEP 503E",
-        "name": "Structural Dynamics"
+        "code": "YAP 508",
+        "name": "Betonarme Yapılar.Tasar.Yönte."
        },
        {
         "code": "YAP 502",
         "name": "Malz.Şekil Değiştirme Özellik."
        },
        {
+        "code": "DEP 503E",
+        "name": "Structural Dynamics"
+       },
+       {
         "code": "YAP 503E",
         "name": "Composite Materials"
-       },
-       {
-        "code": "YAP 506",
-        "name": "Yapı Sistem.Hesab.Matris Yön."
-       },
-       {
-        "code": "YAP 508",
-        "name": "Betonarme Yapılar.Tasar.Yönte."
-       },
-       {
-        "code": "YAP 517",
-        "name": "İleri Yapı Statiği"
        },
        {
         "code": "YAP 535",
         "name": "Elastisite Teorisi"
        },
        {
-        "code": "YAP 538",
-        "name": "Sonlu Elemanlar Yöntemi"
+        "code": "YAP 506E",
+        "name": "Matrix Methods in Structural Analysis"
+       },
+       {
+        "code": "YAP 517",
+        "name": "İleri Yapı Statiği"
        },
        {
         "code": "YAP 538E",
@@ -150,40 +134,36 @@
       ],
       "options": [
        {
-        "code": "DEP 503E",
-        "name": "Structural Dynamics"
+        "code": "YAP 508",
+        "name": "Betonarme Yapılar.Tasar.Yönte."
        },
        {
         "code": "YAP 502",
         "name": "Malz.Şekil Değiştirme Özellik."
        },
        {
+        "code": "DEP 503E",
+        "name": "Structural Dynamics"
+       },
+       {
         "code": "YAP 503E",
         "name": "Composite Materials"
-       },
-       {
-        "code": "YAP 506",
-        "name": "Yapı Sistem.Hesab.Matris Yön."
-       },
-       {
-        "code": "YAP 508",
-        "name": "Betonarme Yapılar.Tasar.Yönte."
-       },
-       {
-        "code": "YAP 517",
-        "name": "İleri Yapı Statiği"
        },
        {
         "code": "YAP 535",
         "name": "Elastisite Teorisi"
        },
        {
-        "code": "YAP 538E",
-        "name": "Finite Element Methods"
+        "code": "YAP 506E",
+        "name": "Matrix Methods in Structural Analysis"
        },
        {
-        "code": "YAP 538",
-        "name": "Sonlu Elemanlar Yöntemi"
+        "code": "YAP 517",
+        "name": "İleri Yapı Statiği"
+       },
+       {
+        "code": "YAP 538E",
+        "name": "Finite Element Methods"
        },
        {
         "code": "YAP 540E",
@@ -202,40 +182,36 @@
       ],
       "options": [
        {
-        "code": "DEP 503E",
-        "name": "Structural Dynamics"
+        "code": "YAP 508",
+        "name": "Betonarme Yapılar.Tasar.Yönte."
        },
        {
         "code": "YAP 502",
         "name": "Malz.Şekil Değiştirme Özellik."
        },
        {
+        "code": "DEP 503E",
+        "name": "Structural Dynamics"
+       },
+       {
         "code": "YAP 503E",
         "name": "Composite Materials"
-       },
-       {
-        "code": "YAP 506",
-        "name": "Yapı Sistem.Hesab.Matris Yön."
-       },
-       {
-        "code": "YAP 508",
-        "name": "Betonarme Yapılar.Tasar.Yönte."
-       },
-       {
-        "code": "YAP 517",
-        "name": "İleri Yapı Statiği"
        },
        {
         "code": "YAP 535",
         "name": "Elastisite Teorisi"
        },
        {
-        "code": "YAP 538E",
-        "name": "Finite Element Methods"
+        "code": "YAP 506E",
+        "name": "Matrix Methods in Structural Analysis"
        },
        {
-        "code": "YAP 538",
-        "name": "Sonlu Elemanlar Yöntemi"
+        "code": "YAP 517",
+        "name": "İleri Yapı Statiği"
+       },
+       {
+        "code": "YAP 538E",
+        "name": "Finite Element Methods"
        },
        {
         "code": "YAP 540E",

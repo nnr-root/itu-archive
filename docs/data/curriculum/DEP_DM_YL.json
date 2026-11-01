@@ -56,36 +56,28 @@
       ],
       "options": [
        {
-        "code": "DEP 501E",
-        "name": "Engineering Seismology"
-       },
-       {
-        "code": "DEP 503",
-        "name": "Yapı Dinamiği"
-       },
-       {
         "code": "DEP 503E",
         "name": "Structural Dynamics"
-       },
-       {
-        "code": "DEP 508",
-        "name": "Yapısal Deprem Mühendisliği"
-       },
-       {
-        "code": "DEP 508E",
-        "name": "Structural Earthquake Eng."
        },
        {
         "code": "DEP 510E",
         "name": "Introduct.to Earthquake Eng."
        },
        {
-        "code": "YAP 506",
-        "name": "Yapı Sistem.Hesab.Matris Yön."
+        "code": "DEP 501E",
+        "name": "Engineering Seismology"
        },
        {
         "code": "ZMG 510E",
         "name": "Soil Dynamics"
+       },
+       {
+        "code": "YAP 506E",
+        "name": "Matrix Methods in Structural Analysis"
+       },
+       {
+        "code": "DEP 508E",
+        "name": "Structural Earthquake Eng."
        }
       ]
      }
@@ -100,36 +92,28 @@
       ],
       "options": [
        {
-        "code": "DEP 501E",
-        "name": "Engineering Seismology"
-       },
-       {
         "code": "DEP 503E",
         "name": "Structural Dynamics"
-       },
-       {
-        "code": "DEP 503",
-        "name": "Yapı Dinamiği"
-       },
-       {
-        "code": "DEP 508E",
-        "name": "Structural Earthquake Eng."
-       },
-       {
-        "code": "DEP 508",
-        "name": "Yapısal Deprem Mühendisliği"
        },
        {
         "code": "DEP 510E",
         "name": "Introduct.to Earthquake Eng."
        },
        {
-        "code": "YAP 506",
-        "name": "Yapı Sistem.Hesab.Matris Yön."
+        "code": "DEP 501E",
+        "name": "Engineering Seismology"
        },
        {
         "code": "ZMG 510E",
         "name": "Soil Dynamics"
+       },
+       {
+        "code": "YAP 506E",
+        "name": "Matrix Methods in Structural Analysis"
+       },
+       {
+        "code": "DEP 508E",
+        "name": "Structural Earthquake Eng."
        }
       ]
      }
@@ -144,36 +128,28 @@
       ],
       "options": [
        {
-        "code": "DEP 501E",
-        "name": "Engineering Seismology"
-       },
-       {
         "code": "DEP 503E",
         "name": "Structural Dynamics"
-       },
-       {
-        "code": "DEP 503",
-        "name": "Yapı Dinamiği"
-       },
-       {
-        "code": "DEP 508E",
-        "name": "Structural Earthquake Eng."
-       },
-       {
-        "code": "DEP 508",
-        "name": "Yapısal Deprem Mühendisliği"
        },
        {
         "code": "DEP 510E",
         "name": "Introduct.to Earthquake Eng."
        },
        {
-        "code": "YAP 506",
-        "name": "Yapı Sistem.Hesab.Matris Yön."
+        "code": "DEP 501E",
+        "name": "Engineering Seismology"
        },
        {
         "code": "ZMG 510E",
         "name": "Soil Dynamics"
+       },
+       {
+        "code": "YAP 506E",
+        "name": "Matrix Methods in Structural Analysis"
+       },
+       {
+        "code": "DEP 508E",
+        "name": "Structural Earthquake Eng."
        }
       ]
      }

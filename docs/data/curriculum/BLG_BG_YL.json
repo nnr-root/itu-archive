@@ -52,10 +52,6 @@
         "name": "Stat.&Estimat.in Comp.Science"
        },
        {
-        "code": "KOM 505",
-        "name": "Olasılık Kuramı&Rastlan.Süreçl"
-       },
-       {
         "code": "KOM 505E",
         "name": "Probability Theory&Stochast.Pr"
        }
@@ -72,52 +68,48 @@
       ],
       "options": [
        {
-        "code": "BLG 501E",
-        "name": "Discrete Mathematics"
-       },
-       {
-        "code": "BLG 503E",
-        "name": "Parallel Programming"
-       },
-       {
-        "code": "BLG 503",
-        "name": "Paralel Programlama"
-       },
-       {
         "code": "BLG 507E",
         "name": "Distributed Systems"
-       },
-       {
-        "code": "BLG 514E",
-        "name": "Computer Networ. Basic Protoc."
-       },
-       {
-        "code": "BLG 517E",
-        "name": "Modeling&Perfor.Anal.of Net."
-       },
-       {
-        "code": "BLG 521E",
-        "name": "Artificial Intelligence"
        },
        {
         "code": "BLG 527E",
         "name": "Machine Learning"
        },
        {
-        "code": "BLG 545E",
-        "name": "Discrete Optimization"
+        "code": "BLG 503E",
+        "name": "Parallel Programming"
        },
        {
-        "code": "BLG 549E",
-        "name": "Graph Theory and Algorithms"
+        "code": "BLG 514E",
+        "name": "Computer Networ. Basic Protoc."
+       },
+       {
+        "code": "BLG 501E",
+        "name": "Discrete Mathematics"
+       },
+       {
+        "code": "BLG 521E",
+        "name": "Artificial Intelligence"
+       },
+       {
+        "code": "BLG 545E",
+        "name": "Discrete Optimization"
        },
        {
         "code": "BLG 557E",
         "name": "Theory of Computation"
        },
        {
+        "code": "BLG 549E",
+        "name": "Graph Theory and Algorithms"
+       },
+       {
         "code": "BLG 560E",
         "name": "Stat.&Estimat.in Comp.Science"
+       },
+       {
+        "code": "BLG 517E",
+        "name": "Modeling&Perfor.Anal.of Net."
        }
       ]
      }
@@ -132,52 +124,48 @@
       ],
       "options": [
        {
-        "code": "BLG 501E",
-        "name": "Discrete Mathematics"
-       },
-       {
-        "code": "BLG 503",
-        "name": "Paralel Programlama"
-       },
-       {
-        "code": "BLG 503E",
-        "name": "Parallel Programming"
-       },
-       {
         "code": "BLG 507E",
         "name": "Distributed Systems"
-       },
-       {
-        "code": "BLG 514E",
-        "name": "Computer Networ. Basic Protoc."
-       },
-       {
-        "code": "BLG 517E",
-        "name": "Modeling&Perfor.Anal.of Net."
-       },
-       {
-        "code": "BLG 521E",
-        "name": "Artificial Intelligence"
        },
        {
         "code": "BLG 527E",
         "name": "Machine Learning"
        },
        {
-        "code": "BLG 545E",
-        "name": "Discrete Optimization"
+        "code": "BLG 503E",
+        "name": "Parallel Programming"
        },
        {
-        "code": "BLG 549E",
-        "name": "Graph Theory and Algorithms"
+        "code": "BLG 514E",
+        "name": "Computer Networ. Basic Protoc."
+       },
+       {
+        "code": "BLG 501E",
+        "name": "Discrete Mathematics"
+       },
+       {
+        "code": "BLG 521E",
+        "name": "Artificial Intelligence"
+       },
+       {
+        "code": "BLG 545E",
+        "name": "Discrete Optimization"
        },
        {
         "code": "BLG 557E",
         "name": "Theory of Computation"
        },
        {
+        "code": "BLG 549E",
+        "name": "Graph Theory and Algorithms"
+       },
+       {
         "code": "BLG 560E",
         "name": "Stat.&Estimat.in Comp.Science"
+       },
+       {
+        "code": "BLG 517E",
+        "name": "Modeling&Perfor.Anal.of Net."
        }
       ]
      }
@@ -192,52 +180,48 @@
       ],
       "options": [
        {
-        "code": "BLG 501E",
-        "name": "Discrete Mathematics"
-       },
-       {
-        "code": "BLG 503",
-        "name": "Paralel Programlama"
-       },
-       {
-        "code": "BLG 503E",
-        "name": "Parallel Programming"
-       },
-       {
         "code": "BLG 507E",
         "name": "Distributed Systems"
-       },
-       {
-        "code": "BLG 514E",
-        "name": "Computer Networ. Basic Protoc."
-       },
-       {
-        "code": "BLG 517E",
-        "name": "Modeling&Perfor.Anal.of Net."
-       },
-       {
-        "code": "BLG 521E",
-        "name": "Artificial Intelligence"
        },
        {
         "code": "BLG 527E",
         "name": "Machine Learning"
        },
        {
-        "code": "BLG 545E",
-        "name": "Discrete Optimization"
+        "code": "BLG 503E",
+        "name": "Parallel Programming"
        },
        {
-        "code": "BLG 549E",
-        "name": "Graph Theory and Algorithms"
+        "code": "BLG 514E",
+        "name": "Computer Networ. Basic Protoc."
+       },
+       {
+        "code": "BLG 501E",
+        "name": "Discrete Mathematics"
+       },
+       {
+        "code": "BLG 521E",
+        "name": "Artificial Intelligence"
+       },
+       {
+        "code": "BLG 545E",
+        "name": "Discrete Optimization"
        },
        {
         "code": "BLG 557E",
         "name": "Theory of Computation"
        },
        {
+        "code": "BLG 549E",
+        "name": "Graph Theory and Algorithms"
+       },
+       {
         "code": "BLG 560E",
         "name": "Stat.&Estimat.in Comp.Science"
+       },
+       {
+        "code": "BLG 517E",
+        "name": "Modeling&Perfor.Anal.of Net."
        }
       ]
      }

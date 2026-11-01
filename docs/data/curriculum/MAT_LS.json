@@ -417,136 +417,116 @@
       ],
       "options": [
        {
-        "code": "SNT 101",
-        "name": "Heykel Sanatına Bakış"
+        "code": "SNT 105E",
+        "name": "Film Art"
        },
        {
-        "code": "SNT 102",
-        "name": "Fotoğraf"
+        "code": "SNT 101E",
+        "name": "Looking at the Art of Sculpture"
        },
        {
-        "code": "SNT 103",
-        "name": "Desen"
+        "code": "SNT 106E",
+        "name": "Traditional Turkish Art&Crafts"
        },
        {
         "code": "SNT 103E",
         "name": "Drawing"
        },
        {
-        "code": "SNT 104",
-        "name": "Mitoloji ve Sanat"
-       },
-       {
-        "code": "SNT 104E",
-        "name": "Mythology and Art"
-       },
-       {
-        "code": "SNT 105",
-        "name": "Sinema Sanatı"
-       },
-       {
-        "code": "SNT 106",
-        "name": "Geleneks. Türk El Sanatları"
-       },
-       {
-        "code": "SNT 107",
-        "name": "İlkçağ Anadolu Uygarlıkları"
-       },
-       {
-        "code": "SNT 108",
-        "name": "Seramik"
+        "code": "SNT 108E",
+        "name": "Ceramic"
        },
        {
         "code": "SNT 109",
         "name": "Kazı Resim (Gravür)"
        },
        {
-        "code": "SNT 111",
-        "name": "Moda Tasarımı ve Sanat"
+        "code": "SNT 114E",
+        "name": "Contemporary Art"
        },
        {
-        "code": "SNT 112",
-        "name": "Tiyatro"
+        "code": "SNT 119E",
+        "name": "History of Popular Music"
        },
        {
-        "code": "SNT 112E",
-        "name": "Theater"
+        "code": "SNT 226E",
+        "name": "Philosophy of Art"
        },
        {
-        "code": "SNT 113",
-        "name": "Sanat ve Yorum"
-       },
-       {
-        "code": "SNT 114",
-        "name": "Günümüz Sanatı"
-       },
-       {
-        "code": "SNT 115",
-        "name": "Modernite ve Görsel Kültür"
-       },
-       {
-        "code": "SNT 116E",
-        "name": "The Art of Communication"
-       },
-       {
-        "code": "SNT 116",
-        "name": "İletişim Sanatı"
-       },
-       {
-        "code": "SNT 117E",
-        "name": "Jazz Appreciation"
-       },
-       {
-        "code": "SNT 118",
-        "name": "Müzik Arkeolojisi"
-       },
-       {
-        "code": "SNT 119",
-        "name": "Popüler Müzik Tarihi"
-       },
-       {
-        "code": "SNT 121E",
-        "name": "World Music Cultures"
+        "code": "SNT 115E",
+        "name": "Modernity and Visual Culture"
        },
        {
         "code": "SNT 122",
         "name": "Seramik Sanatı"
        },
        {
-        "code": "SNT 123",
-        "name": "Film Yapımı"
+        "code": "SNT 214E",
+        "name": "Performance, Music and Dance"
        },
        {
-        "code": "SNT 123E",
-        "name": "Film Production"
+        "code": "SNT 227E",
+        "name": "Sound and Society"
        },
        {
-        "code": "SNT 211",
-        "name": "İstanbul:Tarih,Sanat ve Toplum"
+        "code": "SNT 112E",
+        "name": "Theater"
        },
        {
-        "code": "SNT 212",
-        "name": "Sanat,Kültür ve Toplum"
+        "code": "SNT 116E",
+        "name": "The Art of Communication"
+       },
+       {
+        "code": "SNT 111",
+        "name": "Moda Tasarımı ve Sanat"
+       },
+       {
+        "code": "SNT 212E",
+        "name": "Art,Culture and Society"
        },
        {
         "code": "SNT 213",
         "name": "Türkiye Müzik Kültürleri"
        },
        {
-        "code": "SNT 214",
-        "name": "Performans, Müzik ve Dans"
+        "code": "SNT 104E",
+        "name": "Mythology and Art"
+       },
+       {
+        "code": "SNT 107E",
+        "name": "Ancient Civilizat.in Anatolia"
+       },
+       {
+        "code": "SNT 118",
+        "name": "Müzik Arkeolojisi"
+       },
+       {
+        "code": "SNT 123E",
+        "name": "Film Production"
+       },
+       {
+        "code": "SNT 113E",
+        "name": "Art and Interpretation"
+       },
+       {
+        "code": "SNT 102E",
+        "name": "Photography"
+       },
+       {
+        "code": "SNT 117E",
+        "name": "Jazz Appreciation"
+       },
+       {
+        "code": "SNT 211E",
+        "name": "Istanbul:Hist.,Art and Society"
        },
        {
         "code": "SNT 215E",
         "name": "Balkan Musics"
        },
        {
-        "code": "SNT 226",
-        "name": "Sanat Felsefesi"
-       },
-       {
-        "code": "SNT 227E",
-        "name": "Sound and Society"
+        "code": "SNT 121E",
+        "name": "World Music Cultures"
        },
        {
         "code": "SNT 228",
@@ -633,112 +613,72 @@
       ],
       "options": [
        {
-        "code": "ALM 101",
-        "name": "Almanca I"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
-        "code": "ALM 102",
-        "name": "Almanca II"
+        "code": "ISL 465E",
+        "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ALM 201",
-        "name": "Almanca III"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ALM 202",
-        "name": "Almanca IV"
+        "code": "ING 103H",
+        "name": "Public Presentations"
        },
        {
-        "code": "ALM 301",
-        "name": "Almanca V"
+        "code": "ING 103SC",
+        "name": "Science Communication"
        },
        {
-        "code": "ALM 302",
-        "name": "Almanca VI"
+        "code": "ING 103G",
+        "name": "Business Communications"
        },
        {
-        "code": "ALM 401",
-        "name": "Almanca VII"
+        "code": "ING 103P",
+        "name": "Poetry"
        },
        {
-        "code": "ARB 101",
-        "name": "Arapça I"
-       },
-       {
-        "code": "ARB 102",
-        "name": "Arapça II"
-       },
-       {
-        "code": "BEB 120",
-        "name": "Spor ve Temel Bilimler"
-       },
-       {
-        "code": "BEB 121",
-        "name": "Spor ve Teknoloji"
-       },
-       {
-        "code": "CIN 101",
-        "name": "Çince I"
-       },
-       {
-        "code": "CIN 102",
-        "name": "Çince II"
-       },
-       {
-        "code": "CIN 201",
-        "name": "Çince III"
-       },
-       {
-        "code": "FRA 101",
-        "name": "Fransızca I"
-       },
-       {
-        "code": "FRA 102",
-        "name": "Fransızca II"
-       },
-       {
-        "code": "FRA 201",
-        "name": "Fransızca III"
-       },
-       {
-        "code": "FRA 202",
-        "name": "Fransızca IV"
-       },
-       {
-        "code": "FRA 301",
-        "name": "Fransızca V"
-       },
-       {
-        "code": "FRA 302",
-        "name": "Fransızca VI"
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
         "code": "HUK 216",
         "name": "Telekomünikasyon Hukuku"
        },
        {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
+        "code": "ING 103B",
+        "name": "Business English"
        },
        {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
+        "code": "ING 103AD",
+        "name": "Advanced English for Engineers"
+       },
+       {
+        "code": "ING 103O",
+        "name": "Psychology"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
+       },
+       {
+        "code": "ITB 037E",
+        "name": "Knowledge, Language & Logic"
+       },
+       {
+        "code": "ITB 087E",
+        "name": "Media and Society"
+       },
+       {
+        "code": "ITB 094E",
+        "name": "International.Rel.and Globali."
+       },
+       {
+        "code": "ITB 095E",
+        "name": "Technology, Policy and Law"
        },
        {
         "code": "ING 103A",
@@ -749,32 +689,12 @@
         "name": "Urban Ecology"
        },
        {
-        "code": "ING 103AD",
-        "name": "Advanced English for Engineers"
-       },
-       {
-        "code": "ING 103B",
-        "name": "Business English"
-       },
-       {
         "code": "ING 103C",
         "name": "Great Moments in Science"
        },
        {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103G",
-        "name": "Business Communications"
-       },
-       {
-        "code": "ING 103H",
-        "name": "Public Presentations"
-       },
-       {
-        "code": "ING 103I",
-        "name": "Short Stories"
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
        },
        {
         "code": "ING 103L",
@@ -785,232 +705,84 @@
         "name": "Film Studies"
        },
        {
-        "code": "ING 103O",
-        "name": "Psychology"
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
        },
        {
-        "code": "ING 103P",
-        "name": "Poetry"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
-       },
-       {
-        "code": "ISL 465E",
-        "name": "Int.to Entrepreneurship&Innov."
-       },
-       {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
-       },
-       {
-        "code": "ISP 101",
-        "name": "İspanyolca I"
-       },
-       {
-        "code": "ISP 102",
-        "name": "İspanyolca II"
-       },
-       {
-        "code": "ISP 201",
-        "name": "İspanyolca III"
-       },
-       {
-        "code": "ISP 202",
-        "name": "İspanyolca IV"
-       },
-       {
-        "code": "ISP 301",
-        "name": "İspanyolca V"
-       },
-       {
-        "code": "ISP 302",
-        "name": "İspanyolca VI"
-       },
-       {
-        "code": "ITA 101",
-        "name": "İtalyanca I"
-       },
-       {
-        "code": "ITA 102",
-        "name": "İtalyanca II"
-       },
-       {
-        "code": "ITA 201",
-        "name": "İtalyanca III"
-       },
-       {
-        "code": "ITA 202",
-        "name": "İtalyanca IV"
-       },
-       {
-        "code": "ITA 301",
-        "name": "İtalyanca V"
-       },
-       {
-        "code": "ITB 020",
-        "name": "Modernitenin Oluşumu"
+        "code": "HUK 218E",
+        "name": "Commercial Law"
        },
        {
         "code": "ITB 020E",
         "name": "Formations of Modernity"
        },
        {
-        "code": "ITB 037",
-        "name": "Bilgi, Dil ve Mantık"
-       },
-       {
-        "code": "ITB 037E",
-        "name": "Knowledge, Language & Logic"
-       },
-       {
-        "code": "ITB 087",
-        "name": "Medya ve Toplum"
-       },
-       {
-        "code": "ITB 087E",
-        "name": "Media and Society"
-       },
-       {
-        "code": "ITB 094",
-        "name": "Uluslararası İlişkilerve Küreselleşme"
-       },
-       {
-        "code": "ITB 094E",
-        "name": "International.Rel.and Globali."
-       },
-       {
-        "code": "ITB 095",
-        "name": "Teknoloji, Politika ve Hukuk"
-       },
-       {
-        "code": "ITB 095E",
-        "name": "Technology, Policy and Law"
-       },
-       {
-        "code": "ITB 143",
-        "name": "Durrel ve Said:Oryanta.Uyg ve"
-       },
-       {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
-       },
-       {
-        "code": "ITB 151",
-        "name": "İnsan Kaynakları Yönetimi"
-       },
-       {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 171",
-        "name": "Bilim, Teknoloji ve Toplum"
-       },
-       {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179",
-        "name": "İçiçe Ayr.Ede.:Vizyone,Seyf.,A"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201",
-        "name": "İnsan ve Topl. Bilim. Giriş"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 202",
-        "name": "Dünya Tarihi"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 203",
-        "name": "Sosyoloji"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 204",
-        "name": "Siyaset Bilimi"
-       },
-       {
-        "code": "ITB 205",
-        "name": "Felsefe"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
-       },
-       {
-        "code": "ITB 206",
-        "name": "Dünya Politikasında Meseleler"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
         "code": "ITB 206E",
         "name": "Issues in World Politics"
        },
        {
-        "code": "ITB 207",
-        "name": "Osmanlı Tarihi"
-       },
-       {
         "code": "ITB 207E",
         "name": "Ottoman History"
-       },
-       {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
-        "code": "ITB 208",
-        "name": "Modern Türkiye'nin Oluşumu"
        },
        {
         "code": "ITB 209E",
         "name": "Türkiye in World Affairs"
        },
        {
-        "code": "ITB 209",
-        "name": "Türkiye ve Dünya"
+        "code": "ITB 217E",
+        "name": "Engineering Ethics"
        },
        {
-        "code": "ITB 211E",
-        "name": "Istanbul:Hist.,Art and Society"
+        "code": "ITB 233E",
+        "name": "Anthropology"
+       },
+       {
+        "code": "ITB 203E",
+        "name": "Sociology"
+       },
+       {
+        "code": "ITB 230E",
+        "name": "Disaster Awareness"
+       },
+       {
+        "code": "ITB 231E",
+        "name": "Volunteering Studies"
+       },
+       {
+        "code": "ITB 234E",
+        "name": "The Rise of Civilizations"
        },
        {
         "code": "ITB 213E",
         "name": "Toplics in Literature and Society"
        },
        {
-        "code": "ITB 213",
-        "name": "Edebiyat ve Toplum"
+        "code": "ITB 219E",
+        "name": "Ethics"
        },
        {
-        "code": "ITB 214",
-        "name": "Modern Ortadoğu"
+        "code": "ING 103I",
+        "name": "Short Stories"
+       },
+       {
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 211E",
+        "name": "Istanbul:Hist.,Art and Society"
        },
        {
         "code": "ITB 214E",
@@ -1021,116 +793,224 @@
         "name": "Topics in Hist.and Society"
        },
        {
-        "code": "ITB 215",
-        "name": "Tarih ve Toplum"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
-       },
-       {
-        "code": "ITB 216",
-        "name": "Ekonomi ve Toplum"
-       },
-       {
-        "code": "ITB 217E",
-        "name": "Engineering Ethics"
-       },
-       {
-        "code": "ITB 217",
-        "name": "Mühendislik Etiği"
+        "code": "ITB 226E",
+        "name": "Philosophy of Art"
        },
        {
         "code": "ITB 218E",
         "name": "History of Science&Technology"
        },
        {
-        "code": "ITB 218",
-        "name": "Bilim ve Teknoloji Tarihi"
-       },
-       {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 219",
-        "name": "Etik"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 220",
-        "name": "Psikoloji"
-       },
-       {
-        "code": "ITB 221",
-        "name": "Anadolu Arkeolojisi"
-       },
-       {
         "code": "ITB 222E",
         "name": "City and Society"
-       },
-       {
-        "code": "ITB 222",
-        "name": "Kent ve Toplum"
        },
        {
         "code": "ITB 224E",
         "name": "Environment and Society"
        },
        {
-        "code": "ITB 224",
-        "name": "Çevre ve Toplum"
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
        },
        {
-        "code": "ITB 225E",
-        "name": "Intercultural Citizenship Education"
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
        },
        {
-        "code": "ITB 226E",
-        "name": "Philosophy of Art"
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
        },
        {
         "code": "ITB 227E",
         "name": "Political Theory"
        },
        {
-        "code": "ITB 227",
-        "name": "Siyaset Teorisi"
+        "code": "JPN Japonca",
+        "name": "I"
        },
        {
-        "code": "ITB 228E",
-        "name": "Gender Studies"
+        "code": "JPN Japonca",
+        "name": "III"
        },
        {
-        "code": "ITB 230E",
-        "name": "Disaster Awareness"
+        "code": "BEB 121",
+        "name": "Spor ve Teknoloji"
        },
        {
-        "code": "ITB 230",
-        "name": "Afet Bilinci"
+        "code": "BEB 120",
+        "name": "Spor ve Temel Bilimler"
        },
        {
-        "code": "ITB 231E",
-        "name": "Volunteering Studies"
+        "code": "JPN Japonca",
+        "name": "IV"
        },
        {
-        "code": "ITB 231",
-        "name": "Gönüllülük Çalışmaları"
+        "code": "JPN Japonca",
+        "name": "II"
        },
        {
-        "code": "ITB 233",
-        "name": "Antropoloji"
+        "code": "ALM Almanca",
+        "name": "IV"
        },
        {
-        "code": "ITB 234",
-        "name": "Medeniyetlerin Doğuşu"
+        "code": "FRA Fransızca",
+        "name": "VI"
        },
        {
-        "code": "ITB 235",
-        "name": "Türkiye ve Avrupa Birliği"
+        "code": "ALM Almanca",
+        "name": "I"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "I"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "V"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "III"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "III"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "V"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "III"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "IV"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "V"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "III"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "III"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "V"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "II"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "II"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "II"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "IV"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VII"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "I"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "III"
+       },
+       {
+        "code": "ARB 101",
+        "name": "Arapça I"
+       },
+       {
+        "code": "ARB 102",
+        "name": "Arapça II"
+       },
+       {
+        "code": "ITB 225E",
+        "name": "Intercultural Citizenship Education"
        },
        {
         "code": "ITB 235E",
@@ -1141,40 +1021,12 @@
         "name": "Türk Müziği Tarihi"
        },
        {
-        "code": "JPN 101",
-        "name": "Japonca I"
+        "code": "KOR Korece",
+        "name": "I"
        },
        {
-        "code": "JPN 102",
-        "name": "Japonca II"
-       },
-       {
-        "code": "JPN 201",
-        "name": "Japonca III"
-       },
-       {
-        "code": "JPN 202",
-        "name": "Japonca IV"
-       },
-       {
-        "code": "KOR 101",
-        "name": "Korece I"
-       },
-       {
-        "code": "KOR 102",
-        "name": "Korece II"
-       },
-       {
-        "code": "RUS 101",
-        "name": "Rusça I"
-       },
-       {
-        "code": "RUS 102",
-        "name": "Rusça II"
-       },
-       {
-        "code": "RUS 201",
-        "name": "Rusça III"
+        "code": "KOR Korece",
+        "name": "II"
        }
       ]
      }
@@ -1232,32 +1084,48 @@
       ],
       "options": [
        {
-        "code": "ECN 207E",
-        "name": "Mathematical Economics"
-       },
-       {
-        "code": "ECN 307E",
-        "name": "Game Theory"
-       },
-       {
         "code": "END 317E",
         "name": "Database Management and Big Data"
-       },
-       {
-        "code": "END 331",
-        "name": "Yöneylem Araştırması I"
        },
        {
         "code": "END 331E",
         "name": "Operations Research I"
        },
        {
-        "code": "MAT 310",
-        "name": "Briç"
+        "code": "MAT 381E",
+        "name": "Introduction to Data Science"
        },
        {
-        "code": "MAT 335E",
-        "name": "Programming Algorithms"
+        "code": "MAT 310E",
+        "name": "Bridge"
+       },
+       {
+        "code": "MAT 437E",
+        "name": "Real Analysis II"
+       },
+       {
+        "code": "MAT 343E",
+        "name": "Time Series Analysis"
+       },
+       {
+        "code": "MAT 365E",
+        "name": "Calculus of Variations"
+       },
+       {
+        "code": "MAT 448E",
+        "name": "Number Theory"
+       },
+       {
+        "code": "MAT 453E",
+        "name": "Optimal Control Theory"
+       },
+       {
+        "code": "MAT 472E",
+        "name": "Computational Finance"
+       },
+       {
+        "code": "MAT 487E",
+        "name": "Lie Group Analysis of DE"
        },
        {
         "code": "MAT 337E",
@@ -1268,60 +1136,24 @@
         "name": "Matrix Theory"
        },
        {
-        "code": "MAT 343E",
-        "name": "Time Series Analysis"
+        "code": "MAT 386E",
+        "name": "Computational Data Science"
        },
        {
-        "code": "MAT 365",
-        "name": "Varyasyonlar Hesabı"
+        "code": "MAT 455E",
+        "name": "Topology"
        },
        {
-        "code": "MAT 365E",
-        "name": "Calculus of Variations"
-       },
-       {
-        "code": "MAT 368",
-        "name": "Matematiksel Modelleme"
-       },
-       {
-        "code": "MAT 368E",
-        "name": "Mathematical Modeling"
-       },
-       {
-        "code": "MAT 374",
-        "name": "Hes. Sürekli Ortamlar Mekaniği"
+        "code": "MAT 488E",
+        "name": "Numerical Solutions of PDE"
        },
        {
         "code": "MAT 374E",
         "name": "Computational Cont. Mechanics"
        },
        {
-        "code": "MAT 381E",
-        "name": "Introduction to Data Science"
-       },
-       {
-        "code": "MAT 386E",
-        "name": "Computational Data Science"
-       },
-       {
-        "code": "MAT 417E",
-        "name": "Theory of Surfaces"
-       },
-       {
-        "code": "MAT 421",
-        "name": "Akışkanlar Mekaniği"
-       },
-       {
         "code": "MAT 421E",
         "name": "Fluid Mechanics"
-       },
-       {
-        "code": "MAT 422",
-        "name": "Biyomekanik"
-       },
-       {
-        "code": "MAT 422E",
-        "name": "Biomechanics"
        },
        {
         "code": "MAT 423E",
@@ -1332,30 +1164,6 @@
         "name": "Stochastic ODE"
        },
        {
-        "code": "MAT 427E",
-        "name": "Algebra II"
-       },
-       {
-        "code": "MAT 428",
-        "name": "Fonksiyonel Analiz"
-       },
-       {
-        "code": "MAT 428E",
-        "name": "Functional Analysis"
-       },
-       {
-        "code": "MAT 437",
-        "name": "Reel Analiz II"
-       },
-       {
-        "code": "MAT 437E",
-        "name": "Real Analysis II"
-       },
-       {
-        "code": "MAT 438",
-        "name": "Matematik Tarihi"
-       },
-       {
         "code": "MAT 438E",
         "name": "History of Mathematics"
        },
@@ -1364,120 +1172,88 @@
         "name": "Computer Aided Graphics"
        },
        {
-        "code": "MAT 447",
-        "name": "İntegral Denklemler"
+        "code": "MAT 335E",
+        "name": "Programming Algorithms"
        },
        {
-        "code": "MAT 447E",
-        "name": "Integral Equations"
+        "code": "MAT 417E",
+        "name": "Theory of Surfaces"
        },
        {
-        "code": "MAT 448",
-        "name": "Sayılar Teorisi"
-       },
-       {
-        "code": "MAT 448E",
-        "name": "Number Theory"
-       },
-       {
-        "code": "MAT 450E",
-        "name": "Introduction to Mathematical Cryptology"
-       },
-       {
-        "code": "MAT 450",
-        "name": "Matematiksel Kriptolojiye Giriş"
-       },
-       {
-        "code": "MAT 451E",
-        "name": "Mathematical Foundations of Large Language Models"
-       },
-       {
-        "code": "MAT 451",
-        "name": "Büyük Dil Modellerinin Matematiksel Temelleri"
-       },
-       {
-        "code": "MAT 453",
-        "name": "Optimal Kontrol Teorisi"
-       },
-       {
-        "code": "MAT 453E",
-        "name": "Optimal Control Theory"
-       },
-       {
-        "code": "MAT 455",
-        "name": "Topoloji"
-       },
-       {
-        "code": "MAT 455E",
-        "name": "Topology"
+        "code": "MAT 428E",
+        "name": "Functional Analysis"
        },
        {
         "code": "MAT 468E",
         "name": "Nonlinear Waves"
        },
        {
-        "code": "MAT 472E",
-        "name": "Computational Finance"
+        "code": "MAT 368E",
+        "name": "Mathematical Modeling"
+       },
+       {
+        "code": "MAT 422E",
+        "name": "Biomechanics"
+       },
+       {
+        "code": "MAT 427E",
+        "name": "Algebra II"
+       },
+       {
+        "code": "MAT 447E",
+        "name": "Integral Equations"
        },
        {
         "code": "MAT 485E",
         "name": "Graph Theory"
        },
        {
-        "code": "MAT 487E",
-        "name": "Lie Group Analysis of DE"
-       },
-       {
-        "code": "MAT 488E",
-        "name": "Numerical Solutions of PDE"
-       },
-       {
         "code": "MAT 497E",
         "name": "Tensor Analysis"
        },
        {
-        "code": "MTH 404E",
-        "name": "Object Oriented Programming with C#"
+        "code": "ECN 307E",
+        "name": "Game Theory"
        },
        {
-        "code": "MTH 404",
-        "name": "C# ile Nesneye Yönelik Programlama"
+        "code": "ECN 207E",
+        "name": "Mathematical Economics"
        },
        {
-        "code": "MTH 407E",
-        "name": "Fundamentals of Automatic Target Tracking"
-       },
-       {
-        "code": "MTH 407",
-        "name": "Otomatik Hedef İzleme Temelleri"
-       },
-       {
-        "code": "MTH 409E",
-        "name": "Fundamentals of Chatbot Development with Generative AI"
-       },
-       {
-        "code": "MTH 409",
-        "name": "Üretken Yapay Zeka Yardımı ile Chatbot Geliştirme Temelleri"
-       },
-       {
-        "code": "MTH 416",
-        "name": "Görsel Veri Analizine Giriş"
-       },
-       {
-        "code": "MTT 102E",
-        "name": "Advanced Linear Algebra"
-       },
-       {
-        "code": "MTT 102",
-        "name": "İleri Lineer Cebir"
+        "code": "VBA 315E",
+        "name": "Machine Learning"
        },
        {
         "code": "MYZ 309E",
         "name": "Artificial Intelligence in Mathematical Engineering"
        },
        {
-        "code": "VBA 315E",
-        "name": "Machine Learning"
+        "code": "MTH 404E",
+        "name": "Object Oriented Programming with C#"
+       },
+       {
+        "code": "MTH 407E",
+        "name": "Fundamentals of Automatic Target Tracking"
+       },
+       {
+        "code": "MTH 409E",
+        "name": "Fundamentals of Chatbot Development with Generative AI"
+       },
+       {
+        "code": "MTT 102E",
+        "name": "Advanced Linear Algebra"
+       },
+       {
+        "code": "MTH 416",
+        "name": "Görsel Veri Analizine Giriş"
+       },
+       {
+        "code": "MAT 450E",
+        "name": "Introduction to Mathematical Cryptology"
+       },
+       {
+        "code": "MAT 451E",
+        "name": "Mathematical Foundations of Large Language Models"
        }
       ]
      }
@@ -1494,32 +1270,48 @@
       ],
       "options": [
        {
-        "code": "ECN 207E",
-        "name": "Mathematical Economics"
-       },
-       {
-        "code": "ECN 307E",
-        "name": "Game Theory"
-       },
-       {
         "code": "END 317E",
         "name": "Database Management and Big Data"
-       },
-       {
-        "code": "END 331",
-        "name": "Yöneylem Araştırması I"
        },
        {
         "code": "END 331E",
         "name": "Operations Research I"
        },
        {
-        "code": "MAT 310",
-        "name": "Briç"
+        "code": "MAT 381E",
+        "name": "Introduction to Data Science"
        },
        {
-        "code": "MAT 335E",
-        "name": "Programming Algorithms"
+        "code": "MAT 310E",
+        "name": "Bridge"
+       },
+       {
+        "code": "MAT 437E",
+        "name": "Real Analysis II"
+       },
+       {
+        "code": "MAT 343E",
+        "name": "Time Series Analysis"
+       },
+       {
+        "code": "MAT 365E",
+        "name": "Calculus of Variations"
+       },
+       {
+        "code": "MAT 448E",
+        "name": "Number Theory"
+       },
+       {
+        "code": "MAT 453E",
+        "name": "Optimal Control Theory"
+       },
+       {
+        "code": "MAT 472E",
+        "name": "Computational Finance"
+       },
+       {
+        "code": "MAT 487E",
+        "name": "Lie Group Analysis of DE"
        },
        {
         "code": "MAT 337E",
@@ -1530,60 +1322,24 @@
         "name": "Matrix Theory"
        },
        {
-        "code": "MAT 343E",
-        "name": "Time Series Analysis"
+        "code": "MAT 386E",
+        "name": "Computational Data Science"
        },
        {
-        "code": "MAT 365",
-        "name": "Varyasyonlar Hesabı"
+        "code": "MAT 455E",
+        "name": "Topology"
        },
        {
-        "code": "MAT 365E",
-        "name": "Calculus of Variations"
-       },
-       {
-        "code": "MAT 368",
-        "name": "Matematiksel Modelleme"
-       },
-       {
-        "code": "MAT 368E",
-        "name": "Mathematical Modeling"
-       },
-       {
-        "code": "MAT 374",
-        "name": "Hes. Sürekli Ortamlar Mekaniği"
+        "code": "MAT 488E",
+        "name": "Numerical Solutions of PDE"
        },
        {
         "code": "MAT 374E",
         "name": "Computational Cont. Mechanics"
        },
        {
-        "code": "MAT 381E",
-        "name": "Introduction to Data Science"
-       },
-       {
-        "code": "MAT 386E",
-        "name": "Computational Data Science"
-       },
-       {
-        "code": "MAT 417E",
-        "name": "Theory of Surfaces"
-       },
-       {
-        "code": "MAT 421",
-        "name": "Akışkanlar Mekaniği"
-       },
-       {
         "code": "MAT 421E",
         "name": "Fluid Mechanics"
-       },
-       {
-        "code": "MAT 422",
-        "name": "Biyomekanik"
-       },
-       {
-        "code": "MAT 422E",
-        "name": "Biomechanics"
        },
        {
         "code": "MAT 423E",
@@ -1594,30 +1350,6 @@
         "name": "Stochastic ODE"
        },
        {
-        "code": "MAT 427E",
-        "name": "Algebra II"
-       },
-       {
-        "code": "MAT 428",
-        "name": "Fonksiyonel Analiz"
-       },
-       {
-        "code": "MAT 428E",
-        "name": "Functional Analysis"
-       },
-       {
-        "code": "MAT 437",
-        "name": "Reel Analiz II"
-       },
-       {
-        "code": "MAT 437E",
-        "name": "Real Analysis II"
-       },
-       {
-        "code": "MAT 438",
-        "name": "Matematik Tarihi"
-       },
-       {
         "code": "MAT 438E",
         "name": "History of Mathematics"
        },
@@ -1626,120 +1358,88 @@
         "name": "Computer Aided Graphics"
        },
        {
-        "code": "MAT 447",
-        "name": "İntegral Denklemler"
+        "code": "MAT 335E",
+        "name": "Programming Algorithms"
        },
        {
-        "code": "MAT 447E",
-        "name": "Integral Equations"
+        "code": "MAT 417E",
+        "name": "Theory of Surfaces"
        },
        {
-        "code": "MAT 448",
-        "name": "Sayılar Teorisi"
-       },
-       {
-        "code": "MAT 448E",
-        "name": "Number Theory"
-       },
-       {
-        "code": "MAT 450E",
-        "name": "Introduction to Mathematical Cryptology"
-       },
-       {
-        "code": "MAT 450",
-        "name": "Matematiksel Kriptolojiye Giriş"
-       },
-       {
-        "code": "MAT 451E",
-        "name": "Mathematical Foundations of Large Language Models"
-       },
-       {
-        "code": "MAT 451",
-        "name": "Büyük Dil Modellerinin Matematiksel Temelleri"
-       },
-       {
-        "code": "MAT 453",
-        "name": "Optimal Kontrol Teorisi"
-       },
-       {
-        "code": "MAT 453E",
-        "name": "Optimal Control Theory"
-       },
-       {
-        "code": "MAT 455",
-        "name": "Topoloji"
-       },
-       {
-        "code": "MAT 455E",
-        "name": "Topology"
+        "code": "MAT 428E",
+        "name": "Functional Analysis"
        },
        {
         "code": "MAT 468E",
         "name": "Nonlinear Waves"
        },
        {
-        "code": "MAT 472E",
-        "name": "Computational Finance"
+        "code": "MAT 368E",
+        "name": "Mathematical Modeling"
+       },
+       {
+        "code": "MAT 422E",
+        "name": "Biomechanics"
+       },
+       {
+        "code": "MAT 427E",
+        "name": "Algebra II"
+       },
+       {
+        "code": "MAT 447E",
+        "name": "Integral Equations"
        },
        {
         "code": "MAT 485E",
         "name": "Graph Theory"
        },
        {
-        "code": "MAT 487E",
-        "name": "Lie Group Analysis of DE"
-       },
-       {
-        "code": "MAT 488E",
-        "name": "Numerical Solutions of PDE"
-       },
-       {
         "code": "MAT 497E",
         "name": "Tensor Analysis"
        },
        {
-        "code": "MTH 404E",
-        "name": "Object Oriented Programming with C#"
+        "code": "ECN 307E",
+        "name": "Game Theory"
        },
        {
-        "code": "MTH 404",
-        "name": "C# ile Nesneye Yönelik Programlama"
+        "code": "ECN 207E",
+        "name": "Mathematical Economics"
        },
        {
-        "code": "MTH 407E",
-        "name": "Fundamentals of Automatic Target Tracking"
-       },
-       {
-        "code": "MTH 407",
-        "name": "Otomatik Hedef İzleme Temelleri"
-       },
-       {
-        "code": "MTH 409E",
-        "name": "Fundamentals of Chatbot Development with Generative AI"
-       },
-       {
-        "code": "MTH 409",
-        "name": "Üretken Yapay Zeka Yardımı ile Chatbot Geliştirme Temelleri"
-       },
-       {
-        "code": "MTH 416",
-        "name": "Görsel Veri Analizine Giriş"
-       },
-       {
-        "code": "MTT 102E",
-        "name": "Advanced Linear Algebra"
-       },
-       {
-        "code": "MTT 102",
-        "name": "İleri Lineer Cebir"
+        "code": "VBA 315E",
+        "name": "Machine Learning"
        },
        {
         "code": "MYZ 309E",
         "name": "Artificial Intelligence in Mathematical Engineering"
        },
        {
-        "code": "VBA 315E",
-        "name": "Machine Learning"
+        "code": "MTH 404E",
+        "name": "Object Oriented Programming with C#"
+       },
+       {
+        "code": "MTH 407E",
+        "name": "Fundamentals of Automatic Target Tracking"
+       },
+       {
+        "code": "MTH 409E",
+        "name": "Fundamentals of Chatbot Development with Generative AI"
+       },
+       {
+        "code": "MTT 102E",
+        "name": "Advanced Linear Algebra"
+       },
+       {
+        "code": "MTH 416",
+        "name": "Görsel Veri Analizine Giriş"
+       },
+       {
+        "code": "MAT 450E",
+        "name": "Introduction to Mathematical Cryptology"
+       },
+       {
+        "code": "MAT 451E",
+        "name": "Mathematical Foundations of Large Language Models"
        }
       ]
      }
@@ -1785,32 +1485,48 @@
       ],
       "options": [
        {
-        "code": "ECN 207E",
-        "name": "Mathematical Economics"
-       },
-       {
-        "code": "ECN 307E",
-        "name": "Game Theory"
-       },
-       {
         "code": "END 317E",
         "name": "Database Management and Big Data"
-       },
-       {
-        "code": "END 331",
-        "name": "Yöneylem Araştırması I"
        },
        {
         "code": "END 331E",
         "name": "Operations Research I"
        },
        {
-        "code": "MAT 310",
-        "name": "Briç"
+        "code": "MAT 381E",
+        "name": "Introduction to Data Science"
        },
        {
-        "code": "MAT 335E",
-        "name": "Programming Algorithms"
+        "code": "MAT 310E",
+        "name": "Bridge"
+       },
+       {
+        "code": "MAT 437E",
+        "name": "Real Analysis II"
+       },
+       {
+        "code": "MAT 343E",
+        "name": "Time Series Analysis"
+       },
+       {
+        "code": "MAT 365E",
+        "name": "Calculus of Variations"
+       },
+       {
+        "code": "MAT 448E",
+        "name": "Number Theory"
+       },
+       {
+        "code": "MAT 453E",
+        "name": "Optimal Control Theory"
+       },
+       {
+        "code": "MAT 472E",
+        "name": "Computational Finance"
+       },
+       {
+        "code": "MAT 487E",
+        "name": "Lie Group Analysis of DE"
        },
        {
         "code": "MAT 337E",
@@ -1821,52 +1537,20 @@
         "name": "Matrix Theory"
        },
        {
-        "code": "MAT 343E",
-        "name": "Time Series Analysis"
+        "code": "MAT 455E",
+        "name": "Topology"
        },
        {
-        "code": "MAT 365",
-        "name": "Varyasyonlar Hesabı"
-       },
-       {
-        "code": "MAT 365E",
-        "name": "Calculus of Variations"
-       },
-       {
-        "code": "MAT 368",
-        "name": "Matematiksel Modelleme"
-       },
-       {
-        "code": "MAT 368E",
-        "name": "Mathematical Modeling"
-       },
-       {
-        "code": "MAT 374",
-        "name": "Hes. Sürekli Ortamlar Mekaniği"
+        "code": "MAT 488E",
+        "name": "Numerical Solutions of PDE"
        },
        {
         "code": "MAT 374E",
         "name": "Computational Cont. Mechanics"
        },
        {
-        "code": "MAT 381E",
-        "name": "Introduction to Data Science"
-       },
-       {
-        "code": "MAT 417E",
-        "name": "Theory of Surfaces"
-       },
-       {
         "code": "MAT 421E",
         "name": "Fluid Mechanics"
-       },
-       {
-        "code": "MAT 421",
-        "name": "Akışkanlar Mekaniği"
-       },
-       {
-        "code": "MAT 422",
-        "name": "Biyomekanik"
        },
        {
         "code": "MAT 423E",
@@ -1877,152 +1561,96 @@
         "name": "Stochastic ODE"
        },
        {
-        "code": "MAT 427E",
-        "name": "Algebra II"
-       },
-       {
-        "code": "MAT 428E",
-        "name": "Functional Analysis"
-       },
-       {
-        "code": "MAT 428",
-        "name": "Fonksiyonel Analiz"
-       },
-       {
-        "code": "MAT 437E",
-        "name": "Real Analysis II"
-       },
-       {
-        "code": "MAT 437",
-        "name": "Reel Analiz II"
-       },
-       {
         "code": "MAT 438E",
         "name": "History of Mathematics"
-       },
-       {
-        "code": "MAT 438",
-        "name": "Matematik Tarihi"
        },
        {
         "code": "MAT 443E",
         "name": "Computer Aided Graphics"
        },
        {
-        "code": "MAT 447E",
-        "name": "Integral Equations"
+        "code": "MAT 335E",
+        "name": "Programming Algorithms"
        },
        {
-        "code": "MAT 447",
-        "name": "İntegral Denklemler"
+        "code": "MAT 417E",
+        "name": "Theory of Surfaces"
        },
        {
-        "code": "MAT 448E",
-        "name": "Number Theory"
-       },
-       {
-        "code": "MAT 448",
-        "name": "Sayılar Teorisi"
-       },
-       {
-        "code": "MAT 450E",
-        "name": "Introduction to Mathematical Cryptology"
-       },
-       {
-        "code": "MAT 450",
-        "name": "Matematiksel Kriptolojiye Giriş"
-       },
-       {
-        "code": "MAT 451E",
-        "name": "Mathematical Foundations of Large Language Models"
-       },
-       {
-        "code": "MAT 451",
-        "name": "Büyük Dil Modellerinin Matematiksel Temelleri"
-       },
-       {
-        "code": "MAT 453E",
-        "name": "Optimal Control Theory"
-       },
-       {
-        "code": "MAT 453",
-        "name": "Optimal Kontrol Teorisi"
-       },
-       {
-        "code": "MAT 455E",
-        "name": "Topology"
-       },
-       {
-        "code": "MAT 455",
-        "name": "Topoloji"
+        "code": "MAT 428E",
+        "name": "Functional Analysis"
        },
        {
         "code": "MAT 468E",
         "name": "Nonlinear Waves"
        },
        {
-        "code": "MAT 472E",
-        "name": "Computational Finance"
+        "code": "MAT 368E",
+        "name": "Mathematical Modeling"
+       },
+       {
+        "code": "MAT 422E",
+        "name": "Biomechanics"
+       },
+       {
+        "code": "MAT 427E",
+        "name": "Algebra II"
+       },
+       {
+        "code": "MAT 447E",
+        "name": "Integral Equations"
        },
        {
         "code": "MAT 485E",
         "name": "Graph Theory"
        },
        {
-        "code": "MAT 487E",
-        "name": "Lie Group Analysis of DE"
-       },
-       {
-        "code": "MAT 488E",
-        "name": "Numerical Solutions of PDE"
-       },
-       {
         "code": "MAT 497E",
         "name": "Tensor Analysis"
        },
        {
-        "code": "MTH 404E",
-        "name": "Object Oriented Programming with C#"
+        "code": "ECN 307E",
+        "name": "Game Theory"
        },
        {
-        "code": "MTH 404",
-        "name": "C# ile Nesneye Yönelik Programlama"
+        "code": "ECN 207E",
+        "name": "Mathematical Economics"
        },
        {
-        "code": "MTH 407E",
-        "name": "Fundamentals of Automatic Target Tracking"
-       },
-       {
-        "code": "MTH 407",
-        "name": "Otomatik Hedef İzleme Temelleri"
-       },
-       {
-        "code": "MTH 409E",
-        "name": "Fundamentals of Chatbot Development with Generative AI"
-       },
-       {
-        "code": "MTH 409",
-        "name": "Üretken Yapay Zeka Yardımı ile Chatbot Geliştirme Temelleri"
-       },
-       {
-        "code": "MTH 416",
-        "name": "Görsel Veri Analizine Giriş"
-       },
-       {
-        "code": "MTT 102E",
-        "name": "Advanced Linear Algebra"
-       },
-       {
-        "code": "MTT 102",
-        "name": "İleri Lineer Cebir"
+        "code": "VBA 315E",
+        "name": "Machine Learning"
        },
        {
         "code": "MYZ 309E",
         "name": "Artificial Intelligence in Mathematical Engineering"
        },
        {
-        "code": "VBA 315E",
-        "name": "Machine Learning"
+        "code": "MTH 404E",
+        "name": "Object Oriented Programming with C#"
+       },
+       {
+        "code": "MTH 407E",
+        "name": "Fundamentals of Automatic Target Tracking"
+       },
+       {
+        "code": "MTH 409E",
+        "name": "Fundamentals of Chatbot Development with Generative AI"
+       },
+       {
+        "code": "MTT 102E",
+        "name": "Advanced Linear Algebra"
+       },
+       {
+        "code": "MTH 416",
+        "name": "Görsel Veri Analizine Giriş"
+       },
+       {
+        "code": "MAT 450E",
+        "name": "Introduction to Mathematical Cryptology"
+       },
+       {
+        "code": "MAT 451E",
+        "name": "Mathematical Foundations of Large Language Models"
        }
       ]
      }
@@ -2039,32 +1667,48 @@
       ],
       "options": [
        {
-        "code": "ECN 207E",
-        "name": "Mathematical Economics"
-       },
-       {
-        "code": "ECN 307E",
-        "name": "Game Theory"
-       },
-       {
         "code": "END 317E",
         "name": "Database Management and Big Data"
-       },
-       {
-        "code": "END 331",
-        "name": "Yöneylem Araştırması I"
        },
        {
         "code": "END 331E",
         "name": "Operations Research I"
        },
        {
-        "code": "MAT 310",
-        "name": "Briç"
+        "code": "MAT 381E",
+        "name": "Introduction to Data Science"
        },
        {
-        "code": "MAT 335E",
-        "name": "Programming Algorithms"
+        "code": "MAT 310E",
+        "name": "Bridge"
+       },
+       {
+        "code": "MAT 437E",
+        "name": "Real Analysis II"
+       },
+       {
+        "code": "MAT 343E",
+        "name": "Time Series Analysis"
+       },
+       {
+        "code": "MAT 365E",
+        "name": "Calculus of Variations"
+       },
+       {
+        "code": "MAT 448E",
+        "name": "Number Theory"
+       },
+       {
+        "code": "MAT 453E",
+        "name": "Optimal Control Theory"
+       },
+       {
+        "code": "MAT 472E",
+        "name": "Computational Finance"
+       },
+       {
+        "code": "MAT 487E",
+        "name": "Lie Group Analysis of DE"
        },
        {
         "code": "MAT 337E",
@@ -2075,60 +1719,24 @@
         "name": "Matrix Theory"
        },
        {
-        "code": "MAT 343E",
-        "name": "Time Series Analysis"
+        "code": "MAT 386E",
+        "name": "Computational Data Science"
        },
        {
-        "code": "MAT 365",
-        "name": "Varyasyonlar Hesabı"
+        "code": "MAT 455E",
+        "name": "Topology"
        },
        {
-        "code": "MAT 365E",
-        "name": "Calculus of Variations"
-       },
-       {
-        "code": "MAT 368",
-        "name": "Matematiksel Modelleme"
-       },
-       {
-        "code": "MAT 368E",
-        "name": "Mathematical Modeling"
-       },
-       {
-        "code": "MAT 374",
-        "name": "Hes. Sürekli Ortamlar Mekaniği"
+        "code": "MAT 488E",
+        "name": "Numerical Solutions of PDE"
        },
        {
         "code": "MAT 374E",
         "name": "Computational Cont. Mechanics"
        },
        {
-        "code": "MAT 381E",
-        "name": "Introduction to Data Science"
-       },
-       {
-        "code": "MAT 386E",
-        "name": "Computational Data Science"
-       },
-       {
-        "code": "MAT 417E",
-        "name": "Theory of Surfaces"
-       },
-       {
         "code": "MAT 421E",
         "name": "Fluid Mechanics"
-       },
-       {
-        "code": "MAT 421",
-        "name": "Akışkanlar Mekaniği"
-       },
-       {
-        "code": "MAT 422E",
-        "name": "Biomechanics"
-       },
-       {
-        "code": "MAT 422",
-        "name": "Biyomekanik"
        },
        {
         "code": "MAT 423E",
@@ -2139,152 +1747,96 @@
         "name": "Stochastic ODE"
        },
        {
-        "code": "MAT 427E",
-        "name": "Algebra II"
-       },
-       {
-        "code": "MAT 428E",
-        "name": "Functional Analysis"
-       },
-       {
-        "code": "MAT 428",
-        "name": "Fonksiyonel Analiz"
-       },
-       {
-        "code": "MAT 437E",
-        "name": "Real Analysis II"
-       },
-       {
-        "code": "MAT 437",
-        "name": "Reel Analiz II"
-       },
-       {
         "code": "MAT 438E",
         "name": "History of Mathematics"
-       },
-       {
-        "code": "MAT 438",
-        "name": "Matematik Tarihi"
        },
        {
         "code": "MAT 443E",
         "name": "Computer Aided Graphics"
        },
        {
-        "code": "MAT 447E",
-        "name": "Integral Equations"
+        "code": "MAT 335E",
+        "name": "Programming Algorithms"
        },
        {
-        "code": "MAT 447",
-        "name": "İntegral Denklemler"
+        "code": "MAT 417E",
+        "name": "Theory of Surfaces"
        },
        {
-        "code": "MAT 448E",
-        "name": "Number Theory"
-       },
-       {
-        "code": "MAT 448",
-        "name": "Sayılar Teorisi"
-       },
-       {
-        "code": "MAT 450E",
-        "name": "Introduction to Mathematical Cryptology"
-       },
-       {
-        "code": "MAT 450",
-        "name": "Matematiksel Kriptolojiye Giriş"
-       },
-       {
-        "code": "MAT 451E",
-        "name": "Mathematical Foundations of Large Language Models"
-       },
-       {
-        "code": "MAT 451",
-        "name": "Büyük Dil Modellerinin Matematiksel Temelleri"
-       },
-       {
-        "code": "MAT 453E",
-        "name": "Optimal Control Theory"
-       },
-       {
-        "code": "MAT 453",
-        "name": "Optimal Kontrol Teorisi"
-       },
-       {
-        "code": "MAT 455E",
-        "name": "Topology"
-       },
-       {
-        "code": "MAT 455",
-        "name": "Topoloji"
+        "code": "MAT 428E",
+        "name": "Functional Analysis"
        },
        {
         "code": "MAT 468E",
         "name": "Nonlinear Waves"
        },
        {
-        "code": "MAT 472E",
-        "name": "Computational Finance"
+        "code": "MAT 368E",
+        "name": "Mathematical Modeling"
+       },
+       {
+        "code": "MAT 422E",
+        "name": "Biomechanics"
+       },
+       {
+        "code": "MAT 427E",
+        "name": "Algebra II"
+       },
+       {
+        "code": "MAT 447E",
+        "name": "Integral Equations"
        },
        {
         "code": "MAT 485E",
         "name": "Graph Theory"
        },
        {
-        "code": "MAT 487E",
-        "name": "Lie Group Analysis of DE"
-       },
-       {
-        "code": "MAT 488E",
-        "name": "Numerical Solutions of PDE"
-       },
-       {
         "code": "MAT 497E",
         "name": "Tensor Analysis"
        },
        {
-        "code": "MTH 404E",
-        "name": "Object Oriented Programming with C#"
+        "code": "ECN 307E",
+        "name": "Game Theory"
        },
        {
-        "code": "MTH 404",
-        "name": "C# ile Nesneye Yönelik Programlama"
+        "code": "ECN 207E",
+        "name": "Mathematical Economics"
        },
        {
-        "code": "MTH 407E",
-        "name": "Fundamentals of Automatic Target Tracking"
-       },
-       {
-        "code": "MTH 407",
-        "name": "Otomatik Hedef İzleme Temelleri"
-       },
-       {
-        "code": "MTH 409E",
-        "name": "Fundamentals of Chatbot Development with Generative AI"
-       },
-       {
-        "code": "MTH 409",
-        "name": "Üretken Yapay Zeka Yardımı ile Chatbot Geliştirme Temelleri"
-       },
-       {
-        "code": "MTH 416",
-        "name": "Görsel Veri Analizine Giriş"
-       },
-       {
-        "code": "MTT 102E",
-        "name": "Advanced Linear Algebra"
-       },
-       {
-        "code": "MTT 102",
-        "name": "İleri Lineer Cebir"
+        "code": "VBA 315E",
+        "name": "Machine Learning"
        },
        {
         "code": "MYZ 309E",
         "name": "Artificial Intelligence in Mathematical Engineering"
        },
        {
-        "code": "VBA 315E",
-        "name": "Machine Learning"
+        "code": "MTH 404E",
+        "name": "Object Oriented Programming with C#"
+       },
+       {
+        "code": "MTH 407E",
+        "name": "Fundamentals of Automatic Target Tracking"
+       },
+       {
+        "code": "MTH 409E",
+        "name": "Fundamentals of Chatbot Development with Generative AI"
+       },
+       {
+        "code": "MTT 102E",
+        "name": "Advanced Linear Algebra"
+       },
+       {
+        "code": "MTH 416",
+        "name": "Görsel Veri Analizine Giriş"
+       },
+       {
+        "code": "MAT 450E",
+        "name": "Introduction to Mathematical Cryptology"
+       },
+       {
+        "code": "MAT 451E",
+        "name": "Mathematical Foundations of Large Language Models"
        }
       ]
      }
@@ -2301,32 +1853,48 @@
       ],
       "options": [
        {
-        "code": "ECN 207E",
-        "name": "Mathematical Economics"
-       },
-       {
-        "code": "ECN 307E",
-        "name": "Game Theory"
-       },
-       {
         "code": "END 317E",
         "name": "Database Management and Big Data"
-       },
-       {
-        "code": "END 331",
-        "name": "Yöneylem Araştırması I"
        },
        {
         "code": "END 331E",
         "name": "Operations Research I"
        },
        {
-        "code": "MAT 310",
-        "name": "Briç"
+        "code": "MAT 381E",
+        "name": "Introduction to Data Science"
        },
        {
-        "code": "MAT 335E",
-        "name": "Programming Algorithms"
+        "code": "MAT 310E",
+        "name": "Bridge"
+       },
+       {
+        "code": "MAT 437E",
+        "name": "Real Analysis II"
+       },
+       {
+        "code": "MAT 343E",
+        "name": "Time Series Analysis"
+       },
+       {
+        "code": "MAT 365E",
+        "name": "Calculus of Variations"
+       },
+       {
+        "code": "MAT 448E",
+        "name": "Number Theory"
+       },
+       {
+        "code": "MAT 453E",
+        "name": "Optimal Control Theory"
+       },
+       {
+        "code": "MAT 472E",
+        "name": "Computational Finance"
+       },
+       {
+        "code": "MAT 487E",
+        "name": "Lie Group Analysis of DE"
        },
        {
         "code": "MAT 337E",
@@ -2337,60 +1905,24 @@
         "name": "Matrix Theory"
        },
        {
-        "code": "MAT 343E",
-        "name": "Time Series Analysis"
+        "code": "MAT 386E",
+        "name": "Computational Data Science"
        },
        {
-        "code": "MAT 365",
-        "name": "Varyasyonlar Hesabı"
+        "code": "MAT 455E",
+        "name": "Topology"
        },
        {
-        "code": "MAT 365E",
-        "name": "Calculus of Variations"
-       },
-       {
-        "code": "MAT 368",
-        "name": "Matematiksel Modelleme"
-       },
-       {
-        "code": "MAT 368E",
-        "name": "Mathematical Modeling"
-       },
-       {
-        "code": "MAT 374",
-        "name": "Hes. Sürekli Ortamlar Mekaniği"
+        "code": "MAT 488E",
+        "name": "Numerical Solutions of PDE"
        },
        {
         "code": "MAT 374E",
         "name": "Computational Cont. Mechanics"
        },
        {
-        "code": "MAT 381E",
-        "name": "Introduction to Data Science"
-       },
-       {
-        "code": "MAT 386E",
-        "name": "Computational Data Science"
-       },
-       {
-        "code": "MAT 417E",
-        "name": "Theory of Surfaces"
-       },
-       {
         "code": "MAT 421E",
         "name": "Fluid Mechanics"
-       },
-       {
-        "code": "MAT 421",
-        "name": "Akışkanlar Mekaniği"
-       },
-       {
-        "code": "MAT 422E",
-        "name": "Biomechanics"
-       },
-       {
-        "code": "MAT 422",
-        "name": "Biyomekanik"
        },
        {
         "code": "MAT 423E",
@@ -2401,152 +1933,96 @@
         "name": "Stochastic ODE"
        },
        {
-        "code": "MAT 427E",
-        "name": "Algebra II"
-       },
-       {
-        "code": "MAT 428E",
-        "name": "Functional Analysis"
-       },
-       {
-        "code": "MAT 428",
-        "name": "Fonksiyonel Analiz"
-       },
-       {
-        "code": "MAT 437E",
-        "name": "Real Analysis II"
-       },
-       {
-        "code": "MAT 437",
-        "name": "Reel Analiz II"
-       },
-       {
         "code": "MAT 438E",
         "name": "History of Mathematics"
-       },
-       {
-        "code": "MAT 438",
-        "name": "Matematik Tarihi"
        },
        {
         "code": "MAT 443E",
         "name": "Computer Aided Graphics"
        },
        {
-        "code": "MAT 447E",
-        "name": "Integral Equations"
+        "code": "MAT 335E",
+        "name": "Programming Algorithms"
        },
        {
-        "code": "MAT 447",
-        "name": "İntegral Denklemler"
+        "code": "MAT 417E",
+        "name": "Theory of Surfaces"
        },
        {
-        "code": "MAT 448E",
-        "name": "Number Theory"
-       },
-       {
-        "code": "MAT 448",
-        "name": "Sayılar Teorisi"
-       },
-       {
-        "code": "MAT 450E",
-        "name": "Introduction to Mathematical Cryptology"
-       },
-       {
-        "code": "MAT 450",
-        "name": "Matematiksel Kriptolojiye Giriş"
-       },
-       {
-        "code": "MAT 451E",
-        "name": "Mathematical Foundations of Large Language Models"
-       },
-       {
-        "code": "MAT 451",
-        "name": "Büyük Dil Modellerinin Matematiksel Temelleri"
-       },
-       {
-        "code": "MAT 453E",
-        "name": "Optimal Control Theory"
-       },
-       {
-        "code": "MAT 453",
-        "name": "Optimal Kontrol Teorisi"
-       },
-       {
-        "code": "MAT 455E",
-        "name": "Topology"
-       },
-       {
-        "code": "MAT 455",
-        "name": "Topoloji"
+        "code": "MAT 428E",
+        "name": "Functional Analysis"
        },
        {
         "code": "MAT 468E",
         "name": "Nonlinear Waves"
        },
        {
-        "code": "MAT 472E",
-        "name": "Computational Finance"
+        "code": "MAT 368E",
+        "name": "Mathematical Modeling"
+       },
+       {
+        "code": "MAT 422E",
+        "name": "Biomechanics"
+       },
+       {
+        "code": "MAT 427E",
+        "name": "Algebra II"
+       },
+       {
+        "code": "MAT 447E",
+        "name": "Integral Equations"
        },
        {
         "code": "MAT 485E",
         "name": "Graph Theory"
        },
        {
-        "code": "MAT 487E",
-        "name": "Lie Group Analysis of DE"
-       },
-       {
-        "code": "MAT 488E",
-        "name": "Numerical Solutions of PDE"
-       },
-       {
         "code": "MAT 497E",
         "name": "Tensor Analysis"
        },
        {
-        "code": "MTH 404E",
-        "name": "Object Oriented Programming with C#"
+        "code": "ECN 307E",
+        "name": "Game Theory"
        },
        {
-        "code": "MTH 404",
-        "name": "C# ile Nesneye Yönelik Programlama"
+        "code": "ECN 207E",
+        "name": "Mathematical Economics"
        },
        {
-        "code": "MTH 407E",
-        "name": "Fundamentals of Automatic Target Tracking"
-       },
-       {
-        "code": "MTH 407",
-        "name": "Otomatik Hedef İzleme Temelleri"
-       },
-       {
-        "code": "MTH 409E",
-        "name": "Fundamentals of Chatbot Development with Generative AI"
-       },
-       {
-        "code": "MTH 409",
-        "name": "Üretken Yapay Zeka Yardımı ile Chatbot Geliştirme Temelleri"
-       },
-       {
-        "code": "MTH 416",
-        "name": "Görsel Veri Analizine Giriş"
-       },
-       {
-        "code": "MTT 102E",
-        "name": "Advanced Linear Algebra"
-       },
-       {
-        "code": "MTT 102",
-        "name": "İleri Lineer Cebir"
+        "code": "VBA 315E",
+        "name": "Machine Learning"
        },
        {
         "code": "MYZ 309E",
         "name": "Artificial Intelligence in Mathematical Engineering"
        },
        {
-        "code": "VBA 315E",
-        "name": "Machine Learning"
+        "code": "MTH 404E",
+        "name": "Object Oriented Programming with C#"
+       },
+       {
+        "code": "MTH 407E",
+        "name": "Fundamentals of Automatic Target Tracking"
+       },
+       {
+        "code": "MTH 409E",
+        "name": "Fundamentals of Chatbot Development with Generative AI"
+       },
+       {
+        "code": "MTT 102E",
+        "name": "Advanced Linear Algebra"
+       },
+       {
+        "code": "MTH 416",
+        "name": "Görsel Veri Analizine Giriş"
+       },
+       {
+        "code": "MAT 450E",
+        "name": "Introduction to Mathematical Cryptology"
+       },
+       {
+        "code": "MAT 451E",
+        "name": "Mathematical Foundations of Large Language Models"
        }
       ]
      }

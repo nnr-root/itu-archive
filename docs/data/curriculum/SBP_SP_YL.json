@@ -36,10 +36,6 @@
        {
         "code": "SPL 596E",
         "name": "Scien.Rese., Ethic&Seminar"
-       },
-       {
-        "code": "SPL 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
        }
       ]
      }
@@ -54,20 +50,20 @@
       ],
       "options": [
        {
-        "code": "SPL 503E",
-        "name": "Urban Planning Project I"
+        "code": "SPL 508E",
+        "name": "Urban Planning Project II"
        },
        {
         "code": "SPL 506E",
         "name": "Applied Statistics"
        },
        {
-        "code": "SPL 508",
-        "name": "Urban Planning Project II"
-       },
-       {
         "code": "SPL 511E",
         "name": "Planning Theory and Policy"
+       },
+       {
+        "code": "SPL 503E",
+        "name": "Urban Planning Project I"
        }
       ]
      }
@@ -82,20 +78,20 @@
       ],
       "options": [
        {
-        "code": "SPL 503E",
-        "name": "Urban Planning Project I"
+        "code": "SPL 508E",
+        "name": "Urban Planning Project II"
        },
        {
         "code": "SPL 506E",
         "name": "Applied Statistics"
        },
        {
-        "code": "SPL 508",
-        "name": "Urban Planning Project II"
-       },
-       {
         "code": "SPL 511E",
         "name": "Planning Theory and Policy"
+       },
+       {
+        "code": "SPL 503E",
+        "name": "Urban Planning Project I"
        }
       ]
      }
@@ -110,20 +106,20 @@
       ],
       "options": [
        {
-        "code": "SPL 503E",
-        "name": "Urban Planning Project I"
+        "code": "SPL 508E",
+        "name": "Urban Planning Project II"
        },
        {
         "code": "SPL 506E",
         "name": "Applied Statistics"
        },
        {
-        "code": "SPL 508",
-        "name": "Urban Planning Project II"
-       },
-       {
         "code": "SPL 511E",
         "name": "Planning Theory and Policy"
+       },
+       {
+        "code": "SPL 503E",
+        "name": "Urban Planning Project I"
        }
       ]
      }
@@ -138,20 +134,20 @@
       ],
       "options": [
        {
-        "code": "SPL 503E",
-        "name": "Urban Planning Project I"
+        "code": "SPL 508E",
+        "name": "Urban Planning Project II"
        },
        {
         "code": "SPL 506E",
         "name": "Applied Statistics"
        },
        {
-        "code": "SPL 508",
-        "name": "Urban Planning Project II"
-       },
-       {
         "code": "SPL 511E",
         "name": "Planning Theory and Policy"
+       },
+       {
+        "code": "SPL 503E",
+        "name": "Urban Planning Project I"
        }
       ]
      }
@@ -166,32 +162,16 @@
       ],
       "options": [
        {
-        "code": "BPL 516",
-        "name": "Sürdürülebilir Bölges. Gelişme"
+        "code": "SBP 611",
+        "name": "Konut Alanı Yerseçim Modelleri"
        },
        {
-        "code": "BPL 526",
-        "name": "Bölgesel Gelişme&Yaratıcı Sek."
+        "code": "SBP 606E",
+        "name": "Culture and Urban Space"
        },
        {
-        "code": "IKT 505",
-        "name": "İktisatta Araştırma Yönteml. I"
-       },
-       {
-        "code": "IKT 506E",
-        "name": "Research Methods in Economi.II"
-       },
-       {
-        "code": "KET 507",
-        "name": "Koruma Alan.Plan.Tas.&Yöne."
-       },
-       {
-        "code": "KET 522",
-        "name": "Arsa Geliştirme Süreci"
-       },
-       {
-        "code": "KET 524E",
-        "name": "Social Ecology&Built Environm."
+        "code": "SBP 620",
+        "name": "Ekolojik Sistemler Analizi"
        },
        {
         "code": "PEM 529",
@@ -202,16 +182,32 @@
         "name": "Green Urban.:Parad.&Interd.Pr."
        },
        {
-        "code": "SBP 606E",
-        "name": "Culture and Urban Space"
+        "code": "BPL 526",
+        "name": "Bölgesel Gelişme&Yaratıcı Sek."
        },
        {
-        "code": "SBP 611",
-        "name": "Konut Alanı Yerseçim Modelleri"
+        "code": "BPL 516",
+        "name": "Sürdürülebilir Bölges. Gelişme"
        },
        {
-        "code": "SBP 620",
-        "name": "Ekolojik Sistemler Analizi"
+        "code": "KET 524E",
+        "name": "Social Ecology&Built Environm."
+       },
+       {
+        "code": "KET 507",
+        "name": "Koruma Alan.Plan.Tas.&Yöne."
+       },
+       {
+        "code": "IKT 505E",
+        "name": "Research Methods in Economics I"
+       },
+       {
+        "code": "IKT 506E",
+        "name": "Research Methods in Economi.II"
+       },
+       {
+        "code": "KET 522",
+        "name": "Arsa Geliştirme Süreci"
        }
       ]
      }

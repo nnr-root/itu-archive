@@ -49,92 +49,12 @@
       ],
       "options": [
        {
-        "code": "BGK 501E",
-        "name": "Network Security"
-       },
-       {
-        "code": "BGK 502E",
-        "name": "Operating System Security"
-       },
-       {
-        "code": "BGK 503E",
-        "name": "Information&Computer Security"
-       },
-       {
-        "code": "BGK 504E",
-        "name": "Information Security&Manag."
-       },
-       {
-        "code": "BGK 505E",
-        "name": "Discrete Mathematics"
-       },
-       {
-        "code": "BGK 506",
-        "name": "Saldırı Saptama ve Önleme"
-       },
-       {
         "code": "BGK 507",
         "name": "Bilgi Sistem.Güvenliği Müh."
        },
        {
-        "code": "BGK 509",
-        "name": "E-Ticarette Güvenlik"
-       },
-       {
-        "code": "BGK 510",
-        "name": "Bilgi Güve.Alan.Veri Made.Yön."
-       },
-       {
         "code": "BGK 511",
         "name": "Bilgi Güve.&Güvenli Yaz.Geli."
-       },
-       {
-        "code": "BGK 512E",
-        "name": "Security for Cloud Computing"
-       },
-       {
-        "code": "BGK 513",
-        "name": "Bilgi Güvenliği Yasa&Politika."
-       },
-       {
-        "code": "BGK 514E",
-        "name": "Stream Ciphers"
-       },
-       {
-        "code": "BGK 516E",
-        "name": "Cryptography"
-       },
-       {
-        "code": "BGK 518E",
-        "name": "Cryptogra.with Elliptic Curves"
-       },
-       {
-        "code": "BGK 519E",
-        "name": "Blockchain Technologies"
-       },
-       {
-        "code": "BGK 601E",
-        "name": "Machine Learn.Meth.in Secur."
-       },
-       {
-        "code": "BGK 602",
-        "name": "Bilgi Güvenliği Denet.&Güven."
-       },
-       {
-        "code": "BGK 603",
-        "name": "Programlama Dilleri Güvenliği"
-       },
-       {
-        "code": "BGK 604",
-        "name": "Information Engineer.&Encry."
-       },
-       {
-        "code": "BGK 604E",
-        "name": "Information Engineer.&Encry."
-       },
-       {
-        "code": "BGK 605",
-        "name": "Açıklık Tarama ve Önleme"
        },
        {
         "code": "BGK 606",
@@ -145,12 +65,88 @@
         "name": "Şifreleme İşlemcisi Tasarımı"
        },
        {
-        "code": "BGK 608E",
-        "name": "Cryptographic Engineering"
+        "code": "BGK 502E",
+        "name": "Operating System Security"
+       },
+       {
+        "code": "BGK 504E",
+        "name": "Information Security&Manag."
+       },
+       {
+        "code": "BGK 603",
+        "name": "Programlama Dilleri Güvenliği"
+       },
+       {
+        "code": "BGK 514E",
+        "name": "Stream Ciphers"
+       },
+       {
+        "code": "BGK 602",
+        "name": "Bilgi Güvenliği Denet.&Güven."
+       },
+       {
+        "code": "BGK 501E",
+        "name": "Network Security"
        },
        {
         "code": "BGK 609E",
         "name": "Cryptography and Number Theory"
+       },
+       {
+        "code": "BGK 513",
+        "name": "Bilgi Güvenliği Yasa&Politika."
+       },
+       {
+        "code": "BGK 519E",
+        "name": "Blockchain Technologies"
+       },
+       {
+        "code": "BGK 604E",
+        "name": "Information Engineer.&Encry."
+       },
+       {
+        "code": "BGK 505E",
+        "name": "Discrete Mathematics"
+       },
+       {
+        "code": "BGK 516E",
+        "name": "Cryptography"
+       },
+       {
+        "code": "BGK 601E",
+        "name": "Machine Learn.Meth.in Secur."
+       },
+       {
+        "code": "BGK 503E",
+        "name": "Information&Computer Security"
+       },
+       {
+        "code": "BGK 506E",
+        "name": "Intrusion Detection and Preventation"
+       },
+       {
+        "code": "BGK 510",
+        "name": "Bilgi Güve.Alan.Veri Made.Yön."
+       },
+       {
+        "code": "BGK 512E",
+        "name": "Security for Cloud Computing"
+       },
+       {
+        "code": "BGK 608E",
+        "name": "Cryptographic Engineering"
+       },
+       {
+        "code": "BGK 509E",
+        "name": "BGK 509 E-Ticarette Güvenlik"
+       },
+       {
+        "code": "BGK 518E",
+        "name": "Cryptogra.with Elliptic Curves"
+       },
+       {
+        "code": "BGK 605",
+        "name": "Açıklık Tarama ve Önleme"
        }
       ]
      }
@@ -186,48 +182,24 @@
       ],
       "options": [
        {
-        "code": "LEE 901",
-        "name": "Akademik Girişimcilik"
-       },
-       {
         "code": "LEE 901E",
         "name": "Academic Entrepreneurship"
-       },
-       {
-        "code": "LEE 903",
-        "name": "Proje Döngüsü Yönetimi"
-       },
-       {
-        "code": "LEE 903E",
-        "name": "Project Cycle Management"
-       },
-       {
-        "code": "LEE 904",
-        "name": "Yönlendirilmiş Çalışmalar"
-       },
-       {
-        "code": "LEE 904E",
-        "name": "Directed Studies"
-       },
-       {
-        "code": "LEE 905",
-        "name": "İnovas.Teknik.&Patent Süreç."
        },
        {
         "code": "LEE 905E",
         "name": "Inovations Techniques and Patent Processes"
        },
        {
-        "code": "LEE 906",
-        "name": "Yaratıcı Endüstriler için Blokzincir Teknolojisi"
+        "code": "LEE 903E",
+        "name": "Project Cycle Management"
+       },
+       {
+        "code": "LEE 904E",
+        "name": "Directed Studies"
        },
        {
         "code": "LEE 906E",
         "name": "Blockchain Technology for Creative Industries"
-       },
-       {
-        "code": "LEE 907",
-        "name": "Teknoloji Etiği"
        },
        {
         "code": "LEE 907E",

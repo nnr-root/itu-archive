@@ -51,10 +51,6 @@
        {
         "code": "KOM 505E",
         "name": "Probability Theory&Stochast.Pr"
-       },
-       {
-        "code": "KOM 505",
-        "name": "Olasılık Kuramı&Rastlan.Süreçl"
        }
       ]
      }
@@ -71,10 +67,6 @@
        {
         "code": "KOM 505E",
         "name": "Probability Theory&Stochast.Pr"
-       },
-       {
-        "code": "KOM 505",
-        "name": "Olasılık Kuramı&Rastlan.Süreçl"
        }
       ]
      }
@@ -91,10 +83,6 @@
        {
         "code": "KOM 505E",
         "name": "Probability Theory&Stochast.Pr"
-       },
-       {
-        "code": "KOM 505",
-        "name": "Olasılık Kuramı&Rastlan.Süreçl"
        }
       ]
      }
@@ -108,10 +96,6 @@
        7.5
       ],
       "options": [
-       {
-        "code": "KOM 505",
-        "name": "Olasılık Kuramı&Rastlan.Süreçl"
-       },
        {
         "code": "KOM 505E",
         "name": "Probability Theory&Stochast.Pr"
@@ -133,6 +117,10 @@
         "name": "Academic Entrepreneurship"
        },
        {
+        "code": "LEE 905E",
+        "name": "Inovations Techniques and Patent Processes"
+       },
+       {
         "code": "LEE 903E",
         "name": "Project Cycle Management"
        },
@@ -141,16 +129,8 @@
         "name": "Directed Studies"
        },
        {
-        "code": "LEE 905E",
-        "name": "Inovations Techniques and Patent Processes"
-       },
-       {
         "code": "LEE 906E",
         "name": "Blockchain Technology for Creative Industries"
-       },
-       {
-        "code": "LEE 907",
-        "name": "Teknoloji Etiği"
        },
        {
         "code": "LEE 907E",

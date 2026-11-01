@@ -442,64 +442,60 @@
       ],
       "options": [
        {
-        "code": "UCK 236E",
-        "name": "Composite Materials"
-       },
-       {
-        "code": "UCK 348E",
-        "name": "Computer Applic.in Engineering"
-       },
-       {
-        "code": "UCK 354E",
-        "name": "Intro to Digital Design"
+        "code": "UZB 381E",
+        "name": "Applic.of Satellite-Based Data"
        },
        {
         "code": "UCK 358E",
         "name": "Int.to Artificial Intelligence"
        },
        {
-        "code": "UCK 364E",
-        "name": "Design of Machine Elements"
-       },
-       {
-        "code": "UCK 427E",
-        "name": "Combustion"
-       },
-       {
         "code": "UZB 318E",
         "name": "Finite Element Method"
-       },
-       {
-        "code": "UZB 350",
-        "name": "İmal Usulleri"
-       },
-       {
-        "code": "UZB 350E",
-        "name": "Manufacturing Processes"
-       },
-       {
-        "code": "UZB 381E",
-        "name": "Applic.of Satellite-Based Data"
        },
        {
         "code": "UZB 383E",
         "name": "Planetary Remote Sensing"
        },
        {
+        "code": "UZB 411E",
+        "name": "Space Environment"
+       },
+       {
+        "code": "UCK 348E",
+        "name": "Computer Applic.in Engineering"
+       },
+       {
+        "code": "UCK 427E",
+        "name": "Combustion"
+       },
+       {
         "code": "UZB 386E",
         "name": "Boundary Layer Theory"
        },
        {
-        "code": "UZB 411E",
-        "name": "Space Environment"
+        "code": "UZB 487E",
+        "name": "CAD/CAM"
        },
        {
         "code": "UZB 437E",
         "name": "Introduction to Robotics"
        },
        {
-        "code": "UZB 487E",
-        "name": "CAD/CAM"
+        "code": "UCK 354E",
+        "name": "Intro to Digital Design"
+       },
+       {
+        "code": "UCK 236E",
+        "name": "Composite Materials"
+       },
+       {
+        "code": "UZB 350E",
+        "name": "Manufacturing Processes"
+       },
+       {
+        "code": "UCK 364E",
+        "name": "Design of Machine Elements"
        }
       ]
      }
@@ -508,7 +504,7 @@
      "elective": {
       "title": "5.yy Seçime Bağlı Ders II (TB)",
       "groupId": "13698",
-      "credits": "3",
+      "credits": "2,5 / 3",
       "ects": [
        4,
        4.5,
@@ -517,24 +513,28 @@
       ],
       "options": [
        {
-        "code": "FIZ 201",
-        "name": "Modern Fizik"
-       },
-       {
-        "code": "MAT 271",
-        "name": "Olasılık ve İstatistik"
-       },
-       {
-        "code": "UCK 337E",
-        "name": "Introduction to Optimization"
+        "code": "MAK 376E",
+        "name": "Computational Fluid Dynamics"
        },
        {
         "code": "UCK 350E",
         "name": "Analytical Dynamics"
        },
        {
+        "code": "UCK 337E",
+        "name": "Introduction to Optimization"
+       },
+       {
+        "code": "FIZ 201E",
+        "name": "Modern Physics"
+       },
+       {
         "code": "UZB 218E",
         "name": "Int.to Partial Diff.Eq. in Eng"
+       },
+       {
+        "code": "MAT 271E",
+        "name": "Probability and Statistics"
        }
       ]
      }
@@ -596,70 +596,129 @@
      "elective": {
       "title": "6.yy Seçime Bağlı Ders II (MT)",
       "groupId": "13701",
-      "credits": "3",
+      "credits": "2 / 2,5 / 3",
       "ects": [
-       5
+       3,
+       5,
+       5.5,
+       6
       ],
       "options": [
        {
-        "code": "UCK 328",
-        "name": "Yapısal Analiz ve Tasarım"
+        "code": "MET 378E",
+        "name": "Non-Ferrous Eng. Materials"
        },
        {
-        "code": "UCK 370E",
-        "name": "Intro to Rotorcraft Systems"
+        "code": "MET 483E",
+        "name": "Intr.to Non Destr.Test.of Mat."
        },
        {
-        "code": "UCK 416E",
-        "name": "Aircraft Structures"
+        "code": "MET 487E",
+        "name": "Deform. Proces.of Materials"
        },
        {
-        "code": "UCK 419",
-        "name": "Hesaplamalı Aerodinamik"
+        "code": "MET 366E",
+        "name": "Energy Materials"
        },
        {
-        "code": "UCK 435E",
-        "name": "Design of Aerospace Structures"
+        "code": "MET 464E",
+        "name": "Princip. of Surfaca Treatment"
        },
        {
-        "code": "UCK 439E",
-        "name": "Intr. to Optimal Control"
+        "code": "MET 476E",
+        "name": "Intro. to Technical Ceramics"
        },
        {
-        "code": "UCK 445",
-        "name": "Helikopter Tasarımı"
+        "code": "MAK 4005E",
+        "name": "Mech.Model. in Nanoscale Sys."
+       },
+       {
+        "code": "MAK 4004E",
+        "name": "Introduction to Mechanics of Composite Materials"
+       },
+       {
+        "code": "MET 468E",
+        "name": "Welding Tech. and Metallurgy"
+       },
+       {
+        "code": "MAK 4047E",
+        "name": "Dynamic Systms Modelling & Sim"
+       },
+       {
+        "code": "MAK 4056E",
+        "name": "Control Systems Design"
+       },
+       {
+        "code": "MAK 4007E",
+        "name": "Microsystem-MEMS Design"
+       },
+       {
+        "code": "MAK 372E",
+        "name": "Intr.to Finite Element Methods"
+       },
+       {
+        "code": "MAK 4065E",
+        "name": "Refrigeration"
+       },
+       {
+        "code": "MAK 4071E",
+        "name": "Introduction to Robotics"
+       },
+       {
+        "code": "MAK 4027E",
+        "name": "Turbomachinery"
+       },
+       {
+        "code": "MAK 4029E",
+        "name": "Advanced Fluid Mechanics"
+       },
+       {
+        "code": "MAK 4042E",
+        "name": "Gas Turbines"
+       },
+       {
+        "code": "MAK 4032E",
+        "name": "Metal Forming"
+       },
+       {
+        "code": "MAK 4036E",
+        "name": "Manufacturing Engineering and CAM"
+       },
+       {
+        "code": "UCK 328E",
+        "name": "Structural Analysis and Design"
        },
        {
         "code": "UCK 459E",
         "name": "Helicopter Theory"
        },
        {
+        "code": "UCK 419E",
+        "name": "Computational Aerodynamics"
+       },
+       {
+        "code": "UCK 468E",
+        "name": "Guidance, Control & Navigation"
+       },
+       {
+        "code": "UCK 488E",
+        "name": "Aircraft Systems"
+       },
+       {
         "code": "UCK 461E",
         "name": "Flight Instruments"
        },
        {
-        "code": "UCK 468",
-        "name": "Güdüm Kontrol ve Seyrüsefer"
-       },
-       {
-        "code": "UCK 470E",
-        "name": "Jet Eng.Sys.Dsg.with Prac.App."
-       },
-       {
-        "code": "UCK 470",
-        "name": "Jet Motor Sis.Tas.&Pratik Uyg."
+        "code": "UCK 370E",
+        "name": "Intro to Rotorcraft Systems"
        },
        {
         "code": "UCK 472E",
         "name": "Aeroelasticity"
        },
        {
-        "code": "UCK 474",
-        "name": "Uçak Motor Tasarımı"
-       },
-       {
-        "code": "UCK 488E",
-        "name": "Aircraft Systems"
+        "code": "UCK 474E",
+        "name": "Aircraft Engine Design"
        },
        {
         "code": "UZB 425E",
@@ -670,12 +729,44 @@
         "name": "Robotic Control Systems"
        },
        {
+        "code": "UZB 489E",
+        "name": "Electric Propulsion"
+       },
+       {
+        "code": "UCK 416E",
+        "name": "Aircraft Structures"
+       },
+       {
+        "code": "UCK 435E",
+        "name": "Design of Aerospace Structures"
+       },
+       {
+        "code": "UCK 439E",
+        "name": "Intr. to Optimal Control"
+       },
+       {
         "code": "UZB 475E",
         "name": "Hypersonic Flows"
        },
        {
-        "code": "UZB 489E",
-        "name": "Electric Propulsion"
+        "code": "UCK 445E",
+        "name": "Helicopter Design"
+       },
+       {
+        "code": "UCK 470E",
+        "name": "Jet Eng.Sys.Dsg.with Prac.App."
+       },
+       {
+        "code": "MAK 388E",
+        "name": "Mechatronic System Design"
+       },
+       {
+        "code": "MYZ 302E",
+        "name": "Artificial Intelligence for Mechanical Engineering"
+       },
+       {
+        "code": "MAK 4012E",
+        "name": "Numerical Analysis of Mechanical Systems"
        }
       ]
      }
@@ -690,64 +781,60 @@
       ],
       "options": [
        {
-        "code": "UCK 236E",
-        "name": "Composite Materials"
-       },
-       {
-        "code": "UCK 348E",
-        "name": "Computer Applic.in Engineering"
-       },
-       {
-        "code": "UCK 354E",
-        "name": "Intro to Digital Design"
+        "code": "UZB 381E",
+        "name": "Applic.of Satellite-Based Data"
        },
        {
         "code": "UCK 358E",
         "name": "Int.to Artificial Intelligence"
        },
        {
-        "code": "UCK 364E",
-        "name": "Design of Machine Elements"
-       },
-       {
-        "code": "UCK 427E",
-        "name": "Combustion"
+        "code": "UZB 441E",
+        "name": "Rocket Propulsion"
        },
        {
         "code": "UZB 318E",
         "name": "Finite Element Method"
        },
        {
-        "code": "UZB 350",
-        "name": "İmal Usulleri"
-       },
-       {
-        "code": "UZB 350E",
-        "name": "Manufacturing Processes"
-       },
-       {
-        "code": "UZB 381E",
-        "name": "Applic.of Satellite-Based Data"
-       },
-       {
         "code": "UZB 383E",
         "name": "Planetary Remote Sensing"
+       },
+       {
+        "code": "UCK 348E",
+        "name": "Computer Applic.in Engineering"
+       },
+       {
+        "code": "UCK 427E",
+        "name": "Combustion"
        },
        {
         "code": "UZB 386E",
         "name": "Boundary Layer Theory"
        },
        {
+        "code": "UZB 487E",
+        "name": "CAD/CAM"
+       },
+       {
         "code": "UZB 437E",
         "name": "Introduction to Robotics"
        },
        {
-        "code": "UZB 441E",
-        "name": "Rocket Propulsion"
+        "code": "UCK 354E",
+        "name": "Intro to Digital Design"
        },
        {
-        "code": "UZB 487E",
-        "name": "CAD/CAM"
+        "code": "UCK 236E",
+        "name": "Composite Materials"
+       },
+       {
+        "code": "UZB 350E",
+        "name": "Manufacturing Processes"
+       },
+       {
+        "code": "UCK 364E",
+        "name": "Design of Machine Elements"
        }
       ]
      }
@@ -809,78 +896,129 @@
      "elective": {
       "title": "7.yy Seçime Bağlı Ders I (MT)",
       "groupId": "13703",
-      "credits": "3",
+      "credits": "2 / 2,5 / 3",
       "ects": [
-       5
+       3,
+       5,
+       5.5,
+       6
       ],
       "options": [
        {
-        "code": "MTH 414E",
-        "name": "Introduction to Launch Vehicle Design and Industrial Practice"
+        "code": "MET 483E",
+        "name": "Intr.to Non Destr.Test.of Mat."
        },
        {
-        "code": "UCK 328",
-        "name": "Yapısal Analiz ve Tasarım"
+        "code": "MET 487E",
+        "name": "Deform. Proces.of Materials"
        },
        {
-        "code": "UCK 370E",
-        "name": "Intro to Rotorcraft Systems"
+        "code": "MET 366E",
+        "name": "Energy Materials"
        },
        {
-        "code": "UCK 416E",
-        "name": "Aircraft Structures"
+        "code": "MET 368E",
+        "name": "Product.Tec. of Metallic Powd."
        },
        {
-        "code": "UCK 419",
-        "name": "Hesaplamalı Aerodinamik"
+        "code": "MET 464E",
+        "name": "Princip. of Surfaca Treatment"
        },
        {
-        "code": "UCK 435E",
-        "name": "Design of Aerospace Structures"
+        "code": "MET 476E",
+        "name": "Intro. to Technical Ceramics"
        },
        {
-        "code": "UCK 439E",
-        "name": "Intr. to Optimal Control"
+        "code": "MAK 4005E",
+        "name": "Mech.Model. in Nanoscale Sys."
        },
        {
-        "code": "UCK 445",
-        "name": "Helikopter Tasarımı"
+        "code": "MAK 4004E",
+        "name": "Introduction to Mechanics of Composite Materials"
        },
        {
-        "code": "UCK 448E",
-        "name": "Avionic Systems"
+        "code": "MET 468E",
+        "name": "Welding Tech. and Metallurgy"
+       },
+       {
+        "code": "MAK 4047E",
+        "name": "Dynamic Systms Modelling & Sim"
+       },
+       {
+        "code": "MAK 4056E",
+        "name": "Control Systems Design"
+       },
+       {
+        "code": "MAK 4007E",
+        "name": "Microsystem-MEMS Design"
+       },
+       {
+        "code": "MAK 372E",
+        "name": "Intr.to Finite Element Methods"
+       },
+       {
+        "code": "MAK 4065E",
+        "name": "Refrigeration"
+       },
+       {
+        "code": "MAK 4071E",
+        "name": "Introduction to Robotics"
+       },
+       {
+        "code": "MAK 4027E",
+        "name": "Turbomachinery"
+       },
+       {
+        "code": "MAK 4029E",
+        "name": "Advanced Fluid Mechanics"
+       },
+       {
+        "code": "MAK 4042E",
+        "name": "Gas Turbines"
+       },
+       {
+        "code": "MAK 4032E",
+        "name": "Metal Forming"
+       },
+       {
+        "code": "MAK 4036E",
+        "name": "Manufacturing Engineering and CAM"
+       },
+       {
+        "code": "UCK 328E",
+        "name": "Structural Analysis and Design"
        },
        {
         "code": "UCK 459E",
         "name": "Helicopter Theory"
        },
        {
+        "code": "UCK 419E",
+        "name": "Computational Aerodynamics"
+       },
+       {
+        "code": "UCK 468E",
+        "name": "Guidance, Control & Navigation"
+       },
+       {
+        "code": "UCK 488E",
+        "name": "Aircraft Systems"
+       },
+       {
         "code": "UCK 461E",
         "name": "Flight Instruments"
        },
        {
-        "code": "UCK 468",
-        "name": "Güdüm Kontrol ve Seyrüsefer"
-       },
-       {
-        "code": "UCK 470E",
-        "name": "Jet Eng.Sys.Dsg.with Prac.App."
-       },
-       {
-        "code": "UCK 470",
-        "name": "Jet Motor Sis.Tas.&Pratik Uyg."
+        "code": "UCK 370E",
+        "name": "Intro to Rotorcraft Systems"
        },
        {
         "code": "UCK 472E",
         "name": "Aeroelasticity"
        },
        {
-        "code": "UCK 474",
-        "name": "Uçak Motor Tasarımı"
-       },
-       {
-        "code": "UCK 488E",
-        "name": "Aircraft Systems"
+        "code": "UCK 474E",
+        "name": "Aircraft Engine Design"
        },
        {
         "code": "UZB 425E",
@@ -891,12 +1029,52 @@
         "name": "Robotic Control Systems"
        },
        {
+        "code": "UZB 489E",
+        "name": "Electric Propulsion"
+       },
+       {
+        "code": "UCK 416E",
+        "name": "Aircraft Structures"
+       },
+       {
+        "code": "UCK 435E",
+        "name": "Design of Aerospace Structures"
+       },
+       {
+        "code": "UCK 439E",
+        "name": "Intr. to Optimal Control"
+       },
+       {
+        "code": "UCK 448E",
+        "name": "Avionic Systems"
+       },
+       {
         "code": "UZB 475E",
         "name": "Hypersonic Flows"
        },
        {
-        "code": "UZB 489E",
-        "name": "Electric Propulsion"
+        "code": "UCK 445E",
+        "name": "Helicopter Design"
+       },
+       {
+        "code": "UCK 470E",
+        "name": "Jet Eng.Sys.Dsg.with Prac.App."
+       },
+       {
+        "code": "MAK 388E",
+        "name": "Mechatronic System Design"
+       },
+       {
+        "code": "MYZ 302E",
+        "name": "Artificial Intelligence for Mechanical Engineering"
+       },
+       {
+        "code": "MAK 4012E",
+        "name": "Numerical Analysis of Mechanical Systems"
+       },
+       {
+        "code": "MTH 414E",
+        "name": "Introduction to Launch Vehicle Design and Industrial Practice"
        }
       ]
      }
@@ -911,64 +1089,60 @@
       ],
       "options": [
        {
-        "code": "UCK 236E",
-        "name": "Composite Materials"
-       },
-       {
-        "code": "UCK 348E",
-        "name": "Computer Applic.in Engineering"
-       },
-       {
-        "code": "UCK 354E",
-        "name": "Intro to Digital Design"
+        "code": "UZB 381E",
+        "name": "Applic.of Satellite-Based Data"
        },
        {
         "code": "UCK 358E",
         "name": "Int.to Artificial Intelligence"
        },
        {
-        "code": "UCK 364E",
-        "name": "Design of Machine Elements"
-       },
-       {
-        "code": "UCK 427E",
-        "name": "Combustion"
+        "code": "UZB 441E",
+        "name": "Rocket Propulsion"
        },
        {
         "code": "UZB 318E",
         "name": "Finite Element Method"
        },
        {
-        "code": "UZB 350",
-        "name": "İmal Usulleri"
-       },
-       {
-        "code": "UZB 350E",
-        "name": "Manufacturing Processes"
-       },
-       {
-        "code": "UZB 381E",
-        "name": "Applic.of Satellite-Based Data"
-       },
-       {
         "code": "UZB 383E",
         "name": "Planetary Remote Sensing"
+       },
+       {
+        "code": "UCK 348E",
+        "name": "Computer Applic.in Engineering"
+       },
+       {
+        "code": "UCK 427E",
+        "name": "Combustion"
        },
        {
         "code": "UZB 386E",
         "name": "Boundary Layer Theory"
        },
        {
+        "code": "UZB 487E",
+        "name": "CAD/CAM"
+       },
+       {
         "code": "UZB 437E",
         "name": "Introduction to Robotics"
        },
        {
-        "code": "UZB 441E",
-        "name": "Rocket Propulsion"
+        "code": "UCK 354E",
+        "name": "Intro to Digital Design"
        },
        {
-        "code": "UZB 487E",
-        "name": "CAD/CAM"
+        "code": "UCK 236E",
+        "name": "Composite Materials"
+       },
+       {
+        "code": "UZB 350E",
+        "name": "Manufacturing Processes"
+       },
+       {
+        "code": "UCK 364E",
+        "name": "Design of Machine Elements"
        }
       ]
      }
@@ -1026,80 +1200,52 @@
       ],
       "options": [
        {
-        "code": "EKO 201",
-        "name": "Ekonomi"
-       },
-       {
-        "code": "EKO 201E",
-        "name": "Economics"
-       },
-       {
-        "code": "END 339E",
-        "name": "Project Management"
-       },
-       {
-        "code": "END 339",
-        "name": "Proje Yönetimi"
-       },
-       {
-        "code": "HUK 201",
-        "name": "İş Hukuku"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
         "code": "ISL 465E",
         "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
-       },
-       {
-        "code": "ISL 478",
-        "name": "Girişimcilik"
-       },
-       {
-        "code": "ITB 217E",
-        "name": "Engineering Ethics"
-       },
-       {
-        "code": "ITB 217",
-        "name": "Mühendislik Etiği"
-       },
-       {
-        "code": "UCK 425E",
-        "name": "Innovation Techniques"
-       },
-       {
-        "code": "UCK 457",
-        "name": "Havayolu İşletmeciliği"
-       },
-       {
-        "code": "UCK 457E",
-        "name": "Airline Management"
-       },
-       {
-        "code": "UCK 465",
-        "name": "Havacılık ve Uzay Tıbbı"
-       },
-       {
-        "code": "UCK 465E",
-        "name": "Aerospace Medicine"
-       },
-       {
-        "code": "UCK 471",
-        "name": "Havacılıkta Bakım Yönetimi"
-       },
-       {
-        "code": "UCK 471E",
-        "name": "Aviation Maintenance Manag."
+        "code": "END 339E",
+        "name": "Project Management"
        },
        {
         "code": "UZB 426E",
         "name": "Scientific Research Methods"
        },
        {
+        "code": "UCK 471E",
+        "name": "Aviation Maintenance Manag."
+       },
+       {
+        "code": "UCK 465E",
+        "name": "Aerospace Medicine"
+       },
+       {
+        "code": "UCK 425E",
+        "name": "Innovation Techniques"
+       },
+       {
+        "code": "UCK 457E",
+        "name": "Airline Management"
+       },
+       {
+        "code": "HUK 201E",
+        "name": "Labor Law"
+       },
+       {
+        "code": "ITB 217E",
+        "name": "Engineering Ethics"
+       },
+       {
         "code": "UZB 479E",
         "name": "Air and Space Law"
+       },
+       {
+        "code": "EKO 201E",
+        "name": "Economics"
        }
       ]
      }
@@ -1108,78 +1254,129 @@
      "elective": {
       "title": "8.yy Seçime Bağlı Ders II (MT)",
       "groupId": "13705",
-      "credits": "3",
+      "credits": "2 / 2,5 / 3",
       "ects": [
-       5
+       3,
+       5,
+       5.5,
+       6
       ],
       "options": [
        {
-        "code": "MTH 414E",
-        "name": "Introduction to Launch Vehicle Design and Industrial Practice"
+        "code": "MET 378E",
+        "name": "Non-Ferrous Eng. Materials"
        },
        {
-        "code": "UCK 328",
-        "name": "Yapısal Analiz ve Tasarım"
+        "code": "MET 483E",
+        "name": "Intr.to Non Destr.Test.of Mat."
        },
        {
-        "code": "UCK 370E",
-        "name": "Intro to Rotorcraft Systems"
+        "code": "MET 487E",
+        "name": "Deform. Proces.of Materials"
        },
        {
-        "code": "UCK 416E",
-        "name": "Aircraft Structures"
+        "code": "MET 366E",
+        "name": "Energy Materials"
        },
        {
-        "code": "UCK 419",
-        "name": "Hesaplamalı Aerodinamik"
+        "code": "MET 464E",
+        "name": "Princip. of Surfaca Treatment"
        },
        {
-        "code": "UCK 435E",
-        "name": "Design of Aerospace Structures"
+        "code": "MET 476E",
+        "name": "Intro. to Technical Ceramics"
        },
        {
-        "code": "UCK 439E",
-        "name": "Intr. to Optimal Control"
+        "code": "MAK 4005E",
+        "name": "Mech.Model. in Nanoscale Sys."
        },
        {
-        "code": "UCK 445",
-        "name": "Helikopter Tasarımı"
+        "code": "MAK 4004E",
+        "name": "Introduction to Mechanics of Composite Materials"
        },
        {
-        "code": "UCK 448E",
-        "name": "Avionic Systems"
+        "code": "MET 468E",
+        "name": "Welding Tech. and Metallurgy"
+       },
+       {
+        "code": "MAK 4047E",
+        "name": "Dynamic Systms Modelling & Sim"
+       },
+       {
+        "code": "MAK 4056E",
+        "name": "Control Systems Design"
+       },
+       {
+        "code": "MAK 4007E",
+        "name": "Microsystem-MEMS Design"
+       },
+       {
+        "code": "MAK 372E",
+        "name": "Intr.to Finite Element Methods"
+       },
+       {
+        "code": "MAK 4065E",
+        "name": "Refrigeration"
+       },
+       {
+        "code": "MAK 4071E",
+        "name": "Introduction to Robotics"
+       },
+       {
+        "code": "MAK 4027E",
+        "name": "Turbomachinery"
+       },
+       {
+        "code": "MAK 4029E",
+        "name": "Advanced Fluid Mechanics"
+       },
+       {
+        "code": "MAK 4042E",
+        "name": "Gas Turbines"
+       },
+       {
+        "code": "MAK 4032E",
+        "name": "Metal Forming"
+       },
+       {
+        "code": "MAK 4036E",
+        "name": "Manufacturing Engineering and CAM"
+       },
+       {
+        "code": "UCK 328E",
+        "name": "Structural Analysis and Design"
        },
        {
         "code": "UCK 459E",
         "name": "Helicopter Theory"
        },
        {
+        "code": "UCK 419E",
+        "name": "Computational Aerodynamics"
+       },
+       {
+        "code": "UCK 468E",
+        "name": "Guidance, Control & Navigation"
+       },
+       {
+        "code": "UCK 488E",
+        "name": "Aircraft Systems"
+       },
+       {
         "code": "UCK 461E",
         "name": "Flight Instruments"
        },
        {
-        "code": "UCK 468",
-        "name": "Güdüm Kontrol ve Seyrüsefer"
-       },
-       {
-        "code": "UCK 470E",
-        "name": "Jet Eng.Sys.Dsg.with Prac.App."
-       },
-       {
-        "code": "UCK 470",
-        "name": "Jet Motor Sis.Tas.&Pratik Uyg."
+        "code": "UCK 370E",
+        "name": "Intro to Rotorcraft Systems"
        },
        {
         "code": "UCK 472E",
         "name": "Aeroelasticity"
        },
        {
-        "code": "UCK 474",
-        "name": "Uçak Motor Tasarımı"
-       },
-       {
-        "code": "UCK 488E",
-        "name": "Aircraft Systems"
+        "code": "UCK 474E",
+        "name": "Aircraft Engine Design"
        },
        {
         "code": "UZB 425E",
@@ -1190,12 +1387,52 @@
         "name": "Robotic Control Systems"
        },
        {
+        "code": "UZB 489E",
+        "name": "Electric Propulsion"
+       },
+       {
+        "code": "UCK 416E",
+        "name": "Aircraft Structures"
+       },
+       {
+        "code": "UCK 435E",
+        "name": "Design of Aerospace Structures"
+       },
+       {
+        "code": "UCK 439E",
+        "name": "Intr. to Optimal Control"
+       },
+       {
+        "code": "UCK 448E",
+        "name": "Avionic Systems"
+       },
+       {
         "code": "UZB 475E",
         "name": "Hypersonic Flows"
        },
        {
-        "code": "UZB 489E",
-        "name": "Electric Propulsion"
+        "code": "UCK 445E",
+        "name": "Helicopter Design"
+       },
+       {
+        "code": "UCK 470E",
+        "name": "Jet Eng.Sys.Dsg.with Prac.App."
+       },
+       {
+        "code": "MAK 388E",
+        "name": "Mechatronic System Design"
+       },
+       {
+        "code": "MYZ 302E",
+        "name": "Artificial Intelligence for Mechanical Engineering"
+       },
+       {
+        "code": "MAK 4012E",
+        "name": "Numerical Analysis of Mechanical Systems"
+       },
+       {
+        "code": "MTH 414E",
+        "name": "Introduction to Launch Vehicle Design and Industrial Practice"
        }
       ]
      }
@@ -1204,70 +1441,129 @@
      "elective": {
       "title": "8.yy Seçime Bağlı Ders III (MT)",
       "groupId": "13706",
-      "credits": "3",
+      "credits": "2 / 2,5 / 3",
       "ects": [
-       5
+       3,
+       5,
+       5.5,
+       6
       ],
       "options": [
        {
-        "code": "MTH 414E",
-        "name": "Introduction to Launch Vehicle Design and Industrial Practice"
+        "code": "MET 378E",
+        "name": "Non-Ferrous Eng. Materials"
        },
        {
-        "code": "UCK 328",
-        "name": "Yapısal Analiz ve Tasarım"
+        "code": "MET 483E",
+        "name": "Intr.to Non Destr.Test.of Mat."
        },
        {
-        "code": "UCK 370E",
-        "name": "Intro to Rotorcraft Systems"
+        "code": "MET 487E",
+        "name": "Deform. Proces.of Materials"
        },
        {
-        "code": "UCK 416E",
-        "name": "Aircraft Structures"
+        "code": "MET 366E",
+        "name": "Energy Materials"
        },
        {
-        "code": "UCK 419",
-        "name": "Hesaplamalı Aerodinamik"
+        "code": "MET 464E",
+        "name": "Princip. of Surfaca Treatment"
        },
        {
-        "code": "UCK 435E",
-        "name": "Design of Aerospace Structures"
+        "code": "MET 476E",
+        "name": "Intro. to Technical Ceramics"
        },
        {
-        "code": "UCK 439E",
-        "name": "Intr. to Optimal Control"
+        "code": "MAK 4005E",
+        "name": "Mech.Model. in Nanoscale Sys."
        },
        {
-        "code": "UCK 445",
-        "name": "Helikopter Tasarımı"
+        "code": "MAK 4004E",
+        "name": "Introduction to Mechanics of Composite Materials"
        },
        {
-        "code": "UCK 448E",
-        "name": "Avionic Systems"
+        "code": "MET 468E",
+        "name": "Welding Tech. and Metallurgy"
+       },
+       {
+        "code": "MAK 4047E",
+        "name": "Dynamic Systms Modelling & Sim"
+       },
+       {
+        "code": "MAK 4056E",
+        "name": "Control Systems Design"
+       },
+       {
+        "code": "MAK 4007E",
+        "name": "Microsystem-MEMS Design"
+       },
+       {
+        "code": "MAK 372E",
+        "name": "Intr.to Finite Element Methods"
+       },
+       {
+        "code": "MAK 4065E",
+        "name": "Refrigeration"
+       },
+       {
+        "code": "MAK 4071E",
+        "name": "Introduction to Robotics"
+       },
+       {
+        "code": "MAK 4027E",
+        "name": "Turbomachinery"
+       },
+       {
+        "code": "MAK 4029E",
+        "name": "Advanced Fluid Mechanics"
+       },
+       {
+        "code": "MAK 4042E",
+        "name": "Gas Turbines"
+       },
+       {
+        "code": "MAK 4032E",
+        "name": "Metal Forming"
+       },
+       {
+        "code": "MAK 4036E",
+        "name": "Manufacturing Engineering and CAM"
+       },
+       {
+        "code": "UCK 328E",
+        "name": "Structural Analysis and Design"
        },
        {
         "code": "UCK 459E",
         "name": "Helicopter Theory"
        },
        {
+        "code": "UCK 419E",
+        "name": "Computational Aerodynamics"
+       },
+       {
+        "code": "UCK 468E",
+        "name": "Guidance, Control & Navigation"
+       },
+       {
+        "code": "UCK 488E",
+        "name": "Aircraft Systems"
+       },
+       {
         "code": "UCK 461E",
         "name": "Flight Instruments"
        },
        {
-        "code": "UCK 468",
-        "name": "Güdüm Kontrol ve Seyrüsefer"
+        "code": "UCK 370E",
+        "name": "Intro to Rotorcraft Systems"
        },
        {
         "code": "UCK 472E",
         "name": "Aeroelasticity"
        },
        {
-        "code": "UCK 474",
-        "name": "Uçak Motor Tasarımı"
-       },
-       {
-        "code": "UCK 488E",
-        "name": "Aircraft Systems"
+        "code": "UCK 474E",
+        "name": "Aircraft Engine Design"
        },
        {
         "code": "UZB 425E",
@@ -1278,12 +1574,48 @@
         "name": "Robotic Control Systems"
        },
        {
+        "code": "UZB 489E",
+        "name": "Electric Propulsion"
+       },
+       {
+        "code": "UCK 416E",
+        "name": "Aircraft Structures"
+       },
+       {
+        "code": "UCK 435E",
+        "name": "Design of Aerospace Structures"
+       },
+       {
+        "code": "UCK 439E",
+        "name": "Intr. to Optimal Control"
+       },
+       {
+        "code": "UCK 448E",
+        "name": "Avionic Systems"
+       },
+       {
         "code": "UZB 475E",
         "name": "Hypersonic Flows"
        },
        {
-        "code": "UZB 489E",
-        "name": "Electric Propulsion"
+        "code": "UCK 445E",
+        "name": "Helicopter Design"
+       },
+       {
+        "code": "MAK 388E",
+        "name": "Mechatronic System Design"
+       },
+       {
+        "code": "MYZ 302E",
+        "name": "Artificial Intelligence for Mechanical Engineering"
+       },
+       {
+        "code": "MAK 4012E",
+        "name": "Numerical Analysis of Mechanical Systems"
+       },
+       {
+        "code": "MTH 414E",
+        "name": "Introduction to Launch Vehicle Design and Industrial Practice"
        }
       ]
      }

@@ -129,40 +129,44 @@
       ],
       "options": [
        {
-        "code": "BEB 101",
-        "name": "Temel Yüzme Becerisi Öğrenimi"
-       },
-       {
-        "code": "BEB 102",
-        "name": "Yüzme Teknikleri Becerisi Öğr."
-       },
-       {
-        "code": "BEB 103",
-        "name": "Voleybolda Tem.Eğt. ve Bec.Kaz"
-       },
-       {
         "code": "BEB 104",
         "name": "Tenis Teknik ve Taktik Eğitim"
-       },
-       {
-        "code": "BEB 105",
-        "name": "Futbol ve Temel Hareket Öğret."
        },
        {
         "code": "BEB 106",
         "name": "Basketbol Temel Teknik Eğitimi"
        },
        {
-        "code": "BEB 111",
-        "name": "Masa Tenisi Tem.Beceri Eğitimi"
-       },
-       {
-        "code": "BEB 114",
-        "name": "Futsal Temel Beceri Eğitim"
+        "code": "BEB 105",
+        "name": "Futbol ve Temel Hareket Öğret."
        },
        {
         "code": "BEB 115",
         "name": "Atletizm Temel Eğitimi"
+       },
+       {
+        "code": "BEB 102",
+        "name": "Yüzme Teknikleri Becerisi Öğr."
+       },
+       {
+        "code": "BEB 101E",
+        "name": "Basic Swimming Skills"
+       },
+       {
+        "code": "BEB 103",
+        "name": "Voleybolda Tem.Eğt. ve Bec.Kaz"
+       },
+       {
+        "code": "BEB 111",
+        "name": "Masa Tenisi Tem.Beceri Eğitimi"
+       },
+       {
+        "code": "BEB 118",
+        "name": "Genel Kond.ve Vücut Geliştirme"
+       },
+       {
+        "code": "BEB 114",
+        "name": "Futsal Temel Beceri Eğitim"
        },
        {
         "code": "BEB 116",
@@ -171,10 +175,6 @@
        {
         "code": "BEB 117",
         "name": "Eskrim Temel Beceri Eğitimi"
-       },
-       {
-        "code": "BEB 118",
-        "name": "Genel Kond.ve Vücut Geliştirme"
        }
       ]
      }
@@ -318,40 +318,44 @@
       ],
       "options": [
        {
-        "code": "BEB 101",
-        "name": "Temel Yüzme Becerisi Öğrenimi"
-       },
-       {
-        "code": "BEB 102",
-        "name": "Yüzme Teknikleri Becerisi Öğr."
-       },
-       {
-        "code": "BEB 103",
-        "name": "Voleybolda Tem.Eğt. ve Bec.Kaz"
-       },
-       {
         "code": "BEB 104",
         "name": "Tenis Teknik ve Taktik Eğitim"
-       },
-       {
-        "code": "BEB 105",
-        "name": "Futbol ve Temel Hareket Öğret."
        },
        {
         "code": "BEB 106",
         "name": "Basketbol Temel Teknik Eğitimi"
        },
        {
-        "code": "BEB 111",
-        "name": "Masa Tenisi Tem.Beceri Eğitimi"
-       },
-       {
-        "code": "BEB 114",
-        "name": "Futsal Temel Beceri Eğitim"
+        "code": "BEB 105",
+        "name": "Futbol ve Temel Hareket Öğret."
        },
        {
         "code": "BEB 115",
         "name": "Atletizm Temel Eğitimi"
+       },
+       {
+        "code": "BEB 102",
+        "name": "Yüzme Teknikleri Becerisi Öğr."
+       },
+       {
+        "code": "BEB 101E",
+        "name": "Basic Swimming Skills"
+       },
+       {
+        "code": "BEB 103",
+        "name": "Voleybolda Tem.Eğt. ve Bec.Kaz"
+       },
+       {
+        "code": "BEB 111",
+        "name": "Masa Tenisi Tem.Beceri Eğitimi"
+       },
+       {
+        "code": "BEB 118",
+        "name": "Genel Kond.ve Vücut Geliştirme"
+       },
+       {
+        "code": "BEB 114",
+        "name": "Futsal Temel Beceri Eğitim"
        },
        {
         "code": "BEB 116",
@@ -360,10 +364,6 @@
        {
         "code": "BEB 117",
         "name": "Eskrim Temel Beceri Eğitimi"
-       },
-       {
-        "code": "BEB 118",
-        "name": "Genel Kond.ve Vücut Geliştirme"
        }
       ]
      }
@@ -484,224 +484,52 @@
       ],
       "options": [
        {
-        "code": "ALM 101",
-        "name": "Almanca I"
-       },
-       {
-        "code": "ALM 102",
-        "name": "Almanca II"
-       },
-       {
-        "code": "ALM 201",
-        "name": "Almanca III"
-       },
-       {
-        "code": "ALM 202",
-        "name": "Almanca IV"
-       },
-       {
-        "code": "ALM 301",
-        "name": "Almanca V"
-       },
-       {
-        "code": "ALM 302",
-        "name": "Almanca VI"
-       },
-       {
-        "code": "ALM 401",
-        "name": "Almanca VII"
-       },
-       {
-        "code": "ARB 101",
-        "name": "Arapça I"
-       },
-       {
-        "code": "ARB 102",
-        "name": "Arapça II"
-       },
-       {
-        "code": "CIN 101",
-        "name": "Çince I"
-       },
-       {
-        "code": "CIN 102",
-        "name": "Çince II"
-       },
-       {
-        "code": "CIN 201",
-        "name": "Çince III"
-       },
-       {
-        "code": "FRA 101",
-        "name": "Fransızca I"
-       },
-       {
-        "code": "FRA 102",
-        "name": "Fransızca II"
-       },
-       {
-        "code": "FRA 201",
-        "name": "Fransızca III"
-       },
-       {
-        "code": "FRA 202",
-        "name": "Fransızca IV"
-       },
-       {
-        "code": "FRA 301",
-        "name": "Fransızca V"
-       },
-       {
-        "code": "FRA 302",
-        "name": "Fransızca VI"
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
-       },
-       {
-        "code": "HUK 216",
-        "name": "Telekomünikasyon Hukuku"
-       },
-       {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
-       },
-       {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
-       },
-       {
-        "code": "ING 103A",
-        "name": "Creative Writing"
-       },
-       {
-        "code": "ING 103AC",
-        "name": "Urban Ecology"
-       },
-       {
-        "code": "ING 103AD",
-        "name": "Advanced English for Engineers"
-       },
-       {
-        "code": "ING 103C",
-        "name": "Great Moments in Science"
-       },
-       {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103DD",
-        "name": "Decoding Discourse: Language, Power, and Ideology"
-       },
-       {
-        "code": "ING 103G",
-        "name": "Business Communications"
-       },
-       {
-        "code": "ING 103H",
-        "name": "Public Presentations"
-       },
-       {
-        "code": "ING 103I",
-        "name": "Short Stories"
-       },
-       {
-        "code": "ING 103L",
-        "name": "Mythology"
-       },
-       {
-        "code": "ING 103N",
-        "name": "Film Studies"
-       },
-       {
-        "code": "ING 103O",
-        "name": "Psychology"
-       },
-       {
-        "code": "ING 103P",
-        "name": "Poetry"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
         "code": "ISL 465E",
         "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ISP 101",
-        "name": "İspanyolca I"
+        "code": "ING 103H",
+        "name": "Public Presentations"
        },
        {
-        "code": "ISP 102",
-        "name": "İspanyolca II"
+        "code": "ING 103SC",
+        "name": "Science Communication"
        },
        {
-        "code": "ISP 201",
-        "name": "İspanyolca III"
+        "code": "ING 103G",
+        "name": "Business Communications"
        },
        {
-        "code": "ISP 202",
-        "name": "İspanyolca IV"
+        "code": "ING 103P",
+        "name": "Poetry"
        },
        {
-        "code": "ISP 301",
-        "name": "İspanyolca V"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
-        "code": "ISP 302",
-        "name": "İspanyolca VI"
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
        },
        {
-        "code": "ITA 101",
-        "name": "İtalyanca I"
+        "code": "ING 103AD",
+        "name": "Advanced English for Engineers"
        },
        {
-        "code": "ITA 102",
-        "name": "İtalyanca II"
+        "code": "ING 103O",
+        "name": "Psychology"
        },
        {
-        "code": "ITA 201",
-        "name": "İtalyanca III"
-       },
-       {
-        "code": "ITA 202",
-        "name": "İtalyanca IV"
-       },
-       {
-        "code": "ITA 301",
-        "name": "İtalyanca V"
-       },
-       {
-        "code": "ITB 020E",
-        "name": "Formations of Modernity"
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "ITB 037E",
@@ -720,36 +548,48 @@
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+        "code": "ING 103A",
+        "name": "Creative Writing"
+       },
+       {
+        "code": "ING 103AC",
+        "name": "Urban Ecology"
+       },
+       {
+        "code": "ING 103C",
+        "name": "Great Moments in Science"
+       },
+       {
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
+       },
+       {
+        "code": "ING 103L",
+        "name": "Mythology"
+       },
+       {
+        "code": "ING 103N",
+        "name": "Film Studies"
+       },
+       {
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
+       },
+       {
+        "code": "HUK 218E",
+        "name": "Commercial Law"
+       },
+       {
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
        },
        {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
         "code": "ITB 206E",
@@ -760,68 +600,20 @@
         "name": "Ottoman History"
        },
        {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
         "code": "ITB 209E",
         "name": "Türkiye in World Affairs"
-       },
-       {
-        "code": "ITB 213E",
-        "name": "Toplics in Literature and Society"
-       },
-       {
-        "code": "ITB 214E",
-        "name": "The Modern Middle East"
-       },
-       {
-        "code": "ITB 215E",
-        "name": "Topics in Hist.and Society"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
        },
        {
         "code": "ITB 217E",
         "name": "Engineering Ethics"
        },
        {
-        "code": "ITB 218E",
-        "name": "History of Science&Technology"
+        "code": "ITB 233E",
+        "name": "Anthropology"
        },
        {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 221E",
-        "name": "Anatolian Archaeology"
-       },
-       {
-        "code": "ITB 222E",
-        "name": "City and Society"
-       },
-       {
-        "code": "ITB 224E",
-        "name": "Environment and Society"
-       },
-       {
-        "code": "ITB 225E",
-        "name": "Intercultural Citizenship Education"
-       },
-       {
-        "code": "ITB 227E",
-        "name": "Political Theory"
-       },
-       {
-        "code": "ITB 228E",
-        "name": "Gender Studies"
+        "code": "ITB 203E",
+        "name": "Sociology"
        },
        {
         "code": "ITB 230E",
@@ -832,60 +624,268 @@
         "name": "Volunteering Studies"
        },
        {
-        "code": "ITB 233E",
-        "name": "Anthropology"
-       },
-       {
         "code": "ITB 234E",
         "name": "The Rise of Civilizations"
+       },
+       {
+        "code": "ITB 213E",
+        "name": "Toplics in Literature and Society"
+       },
+       {
+        "code": "ITB 219E",
+        "name": "Ethics"
+       },
+       {
+        "code": "ING 103I",
+        "name": "Short Stories"
+       },
+       {
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 214E",
+        "name": "The Modern Middle East"
+       },
+       {
+        "code": "ITB 215E",
+        "name": "Topics in Hist.and Society"
+       },
+       {
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
+       },
+       {
+        "code": "ITB 222E",
+        "name": "City and Society"
+       },
+       {
+        "code": "ITB 224E",
+        "name": "Environment and Society"
+       },
+       {
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
+       },
+       {
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
+        "code": "ITB 227E",
+        "name": "Political Theory"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "I"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "III"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "IV"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "VI"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "I"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "I"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "V"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "III"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "III"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "V"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "III"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "IV"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "V"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "III"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "III"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "V"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "II"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "II"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "II"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "IV"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VII"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "I"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "III"
+       },
+       {
+        "code": "ARB 101",
+        "name": "Arapça I"
+       },
+       {
+        "code": "ARB 102",
+        "name": "Arapça II"
+       },
+       {
+        "code": "ITB 225E",
+        "name": "Intercultural Citizenship Education"
        },
        {
         "code": "ITB 235E",
         "name": "Türkiye and EuropeanUnion"
        },
        {
+        "code": "RUS Rusça",
+        "name": "IV"
+       },
+       {
+        "code": "ING 103DD",
+        "name": "Decoding Discourse: Language, Power, and Ideology"
+       },
+       {
         "code": "ITB 236",
         "name": "Türk Müziği Tarihi"
        },
        {
-        "code": "JPN 101",
-        "name": "Japonca I"
+        "code": "KOR Korece",
+        "name": "I"
        },
        {
-        "code": "JPN 102",
-        "name": "Japonca II"
-       },
-       {
-        "code": "JPN 201",
-        "name": "Japonca III"
-       },
-       {
-        "code": "JPN 202",
-        "name": "Japonca IV"
-       },
-       {
-        "code": "KOR 101",
-        "name": "Korece I"
-       },
-       {
-        "code": "KOR 102",
-        "name": "Korece II"
-       },
-       {
-        "code": "RUS 101",
-        "name": "Rusça I"
-       },
-       {
-        "code": "RUS 102",
-        "name": "Rusça II"
-       },
-       {
-        "code": "RUS 201",
-        "name": "Rusça III"
-       },
-       {
-        "code": "RUS 202",
-        "name": "Rusça IV"
+        "code": "KOR Korece",
+        "name": "II"
        }
       ]
      }
@@ -1180,56 +1180,52 @@
       ],
       "options": [
        {
-        "code": "MAK 352E",
-        "name": "Introduction to Nanomechanics"
-       },
-       {
         "code": "MAK 378E",
         "name": "Intr.to Nanotech.& Nanosyst."
-       },
-       {
-        "code": "MAK 382",
-        "name": "İmalat Planlama ve Kontrol"
-       },
-       {
-        "code": "MAK 384",
-        "name": "Mekanik Güç İletimi"
-       },
-       {
-        "code": "MAK 386",
-        "name": "HVAC &R Temelleri"
-       },
-       {
-        "code": "MAK 388",
-        "name": "Mekatronik Sistem Tasarımı"
        },
        {
         "code": "MAK 4009E",
         "name": "Elect.& Hybrid Elect. Vehicles"
        },
        {
-        "code": "MAK 4030",
-        "name": "Konstrüksiyonda İleri Konular"
+        "code": "MAK 4055E",
+        "name": "Fuel Economy in Road Vehicles"
        },
        {
         "code": "MAK 4036E",
         "name": "Manufacturing Engineering and CAM"
        },
        {
+        "code": "MAK 4030E",
+        "name": "Advanced Topics in Mechanical Design"
+       },
+       {
         "code": "MAK 4038E",
         "name": "Power Plants"
        },
        {
-        "code": "MAK 4055",
-        "name": "Fuel Economy in Road Vehicles"
+        "code": "MAK 352E",
+        "name": "Introduction to Nanomechanics"
+       },
+       {
+        "code": "MAK 382E",
+        "name": "Production Planning and Control"
+       },
+       {
+        "code": "MAK 388E",
+        "name": "Mechatronic System Design"
+       },
+       {
+        "code": "MAK 384E",
+        "name": "Mechanical Power Transmission"
+       },
+       {
+        "code": "MAK 386E",
+        "name": "HVAC&R Fundamentals"
        },
        {
         "code": "MYZ 302E",
         "name": "Artificial Intelligence for Mechanical Engineering"
-       },
-       {
-        "code": "MYZ 302",
-        "name": "Makina Mühendisliği için Yapay Zeka"
        }
       ]
      }
@@ -1246,56 +1242,52 @@
       ],
       "options": [
        {
-        "code": "MAK 352E",
-        "name": "Introduction to Nanomechanics"
-       },
-       {
         "code": "MAK 378E",
         "name": "Intr.to Nanotech.& Nanosyst."
-       },
-       {
-        "code": "MAK 382",
-        "name": "İmalat Planlama ve Kontrol"
-       },
-       {
-        "code": "MAK 384",
-        "name": "Mekanik Güç İletimi"
-       },
-       {
-        "code": "MAK 386",
-        "name": "HVAC &R Temelleri"
-       },
-       {
-        "code": "MAK 388",
-        "name": "Mekatronik Sistem Tasarımı"
        },
        {
         "code": "MAK 4009E",
         "name": "Elect.& Hybrid Elect. Vehicles"
        },
        {
-        "code": "MAK 4030",
-        "name": "Konstrüksiyonda İleri Konular"
+        "code": "MAK 4055E",
+        "name": "Fuel Economy in Road Vehicles"
        },
        {
-        "code": "MAK 4036",
-        "name": "İmalat Mühendisliği"
+        "code": "MAK 4036E",
+        "name": "Manufacturing Engineering and CAM"
+       },
+       {
+        "code": "MAK 4030E",
+        "name": "Advanced Topics in Mechanical Design"
        },
        {
         "code": "MAK 4038E",
         "name": "Power Plants"
        },
        {
-        "code": "MAK 4055",
-        "name": "Fuel Economy in Road Vehicles"
+        "code": "MAK 352E",
+        "name": "Introduction to Nanomechanics"
+       },
+       {
+        "code": "MAK 382E",
+        "name": "Production Planning and Control"
+       },
+       {
+        "code": "MAK 388E",
+        "name": "Mechatronic System Design"
+       },
+       {
+        "code": "MAK 384E",
+        "name": "Mechanical Power Transmission"
+       },
+       {
+        "code": "MAK 386E",
+        "name": "HVAC&R Fundamentals"
        },
        {
         "code": "MYZ 302E",
         "name": "Artificial Intelligence for Mechanical Engineering"
-       },
-       {
-        "code": "MYZ 302",
-        "name": "Makina Mühendisliği için Yapay Zeka"
        }
       ]
      }
@@ -1310,16 +1302,16 @@
       ],
       "options": [
        {
-        "code": "MAK 380",
-        "name": "Isı ve Kütle Değiştiriciler"
+        "code": "MAK 390E",
+        "name": "Applied Heat Transfer"
        },
        {
-        "code": "MAK 390",
-        "name": "Uygulamalı Isı Geçişi"
+        "code": "MAK 380E",
+        "name": "Heat and Mass Exchangers"
        },
        {
-        "code": "MAK 4040",
-        "name": "Buhar Kazanları"
+        "code": "MAK 4040E",
+        "name": "Steam Boilers"
        }
       ]
      }
@@ -1334,12 +1326,12 @@
       ],
       "options": [
        {
-        "code": "MAK 405",
-        "name": "Mak. Müh. Yenilikçi Tas. Yönt."
+        "code": "MAK 405E",
+        "name": "Innovative Design Methods in Mechanical Engineering"
        },
        {
-        "code": "MAK 406",
-        "name": "Teknolojik Girişimcilik ve İnovasyon"
+        "code": "MAK 406E",
+        "name": "Technological Entrepreneurship and Innovation"
        }
       ]
      }
@@ -1354,12 +1346,12 @@
       ],
       "options": [
        {
-        "code": "MAK 372E",
-        "name": "Intr.to Finite Element Methods"
-       },
-       {
         "code": "MAK 376E",
         "name": "Computational Fluid Dynamics"
+       },
+       {
+        "code": "MAK 372E",
+        "name": "Intr.to Finite Element Methods"
        }
       ]
      }
@@ -1425,281 +1417,322 @@
       "credits": "2,5 / 3",
       "ects": [
        4,
+       5,
        5.5,
        6
       ],
       "options": [
        {
-        "code": "MAK 4001E",
-        "name": "Heat&MassTrn.inMin.&Mic.SclSys"
-       },
-       {
-        "code": "MAK 4002",
-        "name": "İleri Mukavemet"
-       },
-       {
-        "code": "MAK 4003",
-        "name": "Biyomekaniğe & Biyomüh. Giriş"
-       },
-       {
-        "code": "MAK 4004",
-        "name": "Komp. Malz. Mekaniğine Giriş"
+        "code": "KMM 448E",
+        "name": "Fuel Chemistry and Technology"
        },
        {
         "code": "MAK 4005E",
         "name": "Mech.Model. in Nanoscale Sys."
        },
        {
-        "code": "MAK 4006E",
-        "name": "Alternative Fuels for IC Eng."
-       },
-       {
-        "code": "MAK 4007E",
-        "name": "Microsystem-MEMS Design"
-       },
-       {
-        "code": "MAK 4008",
-        "name": "Sürücü Destek Sistemleri"
-       },
-       {
-        "code": "MAK 4009E",
-        "name": "Elect.& Hybrid Elect. Vehicles"
-       },
-       {
-        "code": "MAK 4011E",
-        "name": "Dyn.&Contr.ofMic./Nano Scl.Sys"
-       },
-       {
-        "code": "MAK 4012E",
-        "name": "Numerical Analysis of Mechanical Systems"
-       },
-       {
-        "code": "MAK 4012",
-        "name": "Mekanik Sistemlerin Sayısal Analizi"
+        "code": "MAK 4004E",
+        "name": "Introduction to Mechanics of Composite Materials"
        },
        {
         "code": "MAK 4015E",
         "name": "Materials Sel.in Dsgn and Mnfc"
        },
        {
-        "code": "MAK 4016",
-        "name": "Hidrolik Makinalar"
+        "code": "MAK 4022E",
+        "name": "Microprocessors and Applications in Engineering"
        },
        {
-        "code": "MAK 4017",
-        "name": "Endüstriyel Akustik ve Gürültü"
-       },
-       {
-        "code": "MAK 4018",
-        "name": "İmalatta Kalite Kontrol"
-       },
-       {
-        "code": "MAK 4019",
-        "name": "Plastik Mlz Konstr. ve İmalat"
-       },
-       {
-        "code": "MAK 4020",
-        "name": "Traktörler ve Tarım Makinaları"
-       },
-       {
-        "code": "MAK 4021",
-        "name": "Talaşlı İmalat"
-       },
-       {
-        "code": "MAK 4022",
-        "name": "Mühendislikte Mikroişl.ve Uygu"
-       },
-       {
-        "code": "MAK 4023",
-        "name": "Transport Tekniği"
-       },
-       {
-        "code": "MAK 4025E",
-        "name": "Engineering Design and CAD"
-       },
-       {
-        "code": "MAK 4026",
-        "name": "Pompalama Sistemleri"
-       },
-       {
-        "code": "MAK 4027E",
-        "name": "Turbomachinery"
-       },
-       {
-        "code": "MAK 4029",
-        "name": "İleri Akışkanlar Mekaniği"
-       },
-       {
-        "code": "MAK 4030",
-        "name": "Konstrüksiyonda İleri Konular"
-       },
-       {
-        "code": "MAK 4031",
-        "name": "Kütle Geçişi"
-       },
-       {
-        "code": "MAK 4032",
-        "name": "Metallerin Plastik Şekillendrl"
-       },
-       {
-        "code": "MAK 4033",
-        "name": "Gaz Dinamiği"
-       },
-       {
-        "code": "MAK 4034",
-        "name": "Kaynaklı Tasarım ve İmalat"
-       },
-       {
-        "code": "MAK 4034E",
-        "name": "Design and Manufacturing with Welding"
-       },
-       {
-        "code": "MAK 4035",
-        "name": "Hidrolik ve Pnömatik Devreler"
-       },
-       {
-        "code": "MAK 4037E",
-        "name": "Computer Controlled Sys. Desig"
-       },
-       {
-        "code": "MAK 4038E",
-        "name": "Power Plants"
-       },
-       {
-        "code": "MAK 4039E",
-        "name": "HVAC Fundamentals"
-       },
-       {
-        "code": "MAK 4041",
-        "name": "Bina Tesisatı"
-       },
-       {
-        "code": "MAK 4042",
-        "name": "Gaz Türbinleri"
-       },
-       {
-        "code": "MAK 4043",
-        "name": "Yangın Dinamiği ve Güvenliği"
-       },
-       {
-        "code": "MAK 4044",
-        "name": "Enerji Yönetimi"
-       },
-       {
-        "code": "MAK 4045",
-        "name": "Taşıt Sistem Dinamiği ve Kontr"
+        "code": "MAK 4019E",
+        "name": "Plastics Engineering and Manufacturing"
        },
        {
         "code": "MAK 4047E",
         "name": "Dynamic Systms Modelling & Sim"
        },
        {
-        "code": "MAK 4048E",
-        "name": "HVAC Systems and Equipment Design"
+        "code": "MAK 4062E",
+        "name": "Railway Vehicles"
        },
        {
-        "code": "MAK 4049",
-        "name": "Kontrol Elemanları Uygulamala"
-       },
-       {
-        "code": "MAK 4050",
-        "name": "Isıl Sistem Optimizasyonu"
-       },
-       {
-        "code": "MAK 4051",
-        "name": "Taşıtlarda Titreşim ve Gürültü"
-       },
-       {
-        "code": "MAK 4052",
-        "name": "Bina Otomasyonu"
-       },
-       {
-        "code": "MAK 4053E",
-        "name": "Vehicle Technology"
-       },
-       {
-        "code": "MAK 4054E",
-        "name": "Digital Control System Design"
-       },
-       {
-        "code": "MAK 4055E",
-        "name": "Fuel Economy in Road Vehicles"
-       },
-       {
-        "code": "MAK 4056",
-        "name": "Kontrol Sistemleri Tasarımı"
-       },
-       {
-        "code": "MAK 4057E",
-        "name": "Vehicle Systems Design"
-       },
-       {
-        "code": "MAK 4058",
-        "name": "Taşıtlarda Aktarma Organları"
-       },
-       {
-        "code": "MAK 4059E",
-        "name": "Precision Machine Design"
-       },
-       {
-        "code": "MAK 4060",
-        "name": "Sonlu Eleman.Ynt.Titreşim Anlz"
-       },
-       {
-        "code": "MAK 4061",
-        "name": "Egzos Gazları Emisyonu"
-       },
-       {
-        "code": "MAK 4062",
-        "name": "Raylı Taşıtlar"
-       },
-       {
-        "code": "MAK 4063",
-        "name": "Motor Konstrüksiyonu"
-       },
-       {
-        "code": "MAK 4065E",
-        "name": "Refrigeration"
-       },
-       {
-        "code": "MAK 4066",
-        "name": "Şasi ve Karoseri Tasarımı"
+        "code": "MAK 4056E",
+        "name": "Control Systems Design"
        },
        {
         "code": "MAK 4067E",
         "name": "Renewable Energy Systems"
        },
        {
-        "code": "MAK 4068",
-        "name": "Akışkan Gücü Kontrolü"
+        "code": "MAK 4078E",
+        "name": "Fundamentals of Mechanical Design"
        },
        {
-        "code": "MAK 4069E",
-        "name": "Thermal Env Engineering"
+        "code": "MAK 4007E",
+        "name": "Microsystem-MEMS Design"
        },
        {
-        "code": "MAK 4070E",
-        "name": "Internal Combustion Engines"
+        "code": "MAK 4037E",
+        "name": "Computer Controlled Sys. Desig"
+       },
+       {
+        "code": "MAK 4043E",
+        "name": "Fire Dynamics and Protection"
+       },
+       {
+        "code": "MAK 4052E",
+        "name": "Building Automation"
+       },
+       {
+        "code": "MAK 4059E",
+        "name": "Precision Machine Design"
+       },
+       {
+        "code": "MAK 4003E",
+        "name": "Introduction to Biomechanics and Bioengineering"
+       },
+       {
+        "code": "MAK 4017E",
+        "name": "Industrial Acoustics and Noise"
+       },
+       {
+        "code": "MAK 4023E",
+        "name": "Materials Handling"
+       },
+       {
+        "code": "MAK 4031E",
+        "name": "Mass Transfer"
+       },
+       {
+        "code": "MAK 4051E",
+        "name": "Noise and Vibration in Vehicles"
+       },
+       {
+        "code": "MAK 4057E",
+        "name": "Vehicle Systems Design"
+       },
+       {
+        "code": "MAK 4058E",
+        "name": "Power Transmission in Vehicles"
+       },
+       {
+        "code": "MAK 4061E",
+        "name": "Exhaust Gas Emmision"
+       },
+       {
+        "code": "MAK 4006E",
+        "name": "Alternative Fuels for IC Eng."
+       },
+       {
+        "code": "MAK 4009E",
+        "name": "Elect.& Hybrid Elect. Vehicles"
+       },
+       {
+        "code": "MAK 4039E",
+        "name": "HVAC Fundamentals"
+       },
+       {
+        "code": "MAK 4065E",
+        "name": "Refrigeration"
        },
        {
         "code": "MAK 4071E",
         "name": "Introduction to Robotics"
        },
        {
-        "code": "MAK 4078",
-        "name": "Makina Konstrüksiyonları Esas."
+        "code": "MAK 4002E",
+        "name": "Advanced Strength of Materials"
+       },
+       {
+        "code": "MAK 4008E",
+        "name": "Driver Assistance Systems"
+       },
+       {
+        "code": "MAK 4018E",
+        "name": "Quality Control in Manufacturi"
+       },
+       {
+        "code": "MAK 4020E",
+        "name": "Tractors&Agricultural Mach."
+       },
+       {
+        "code": "MAK 4025E",
+        "name": "Engineering Design and CAD"
+       },
+       {
+        "code": "MAK 4026E",
+        "name": "Pumping Systems"
+       },
+       {
+        "code": "MAK 4027E",
+        "name": "Turbomachinery"
+       },
+       {
+        "code": "MAK 4029E",
+        "name": "Advanced Fluid Mechanics"
+       },
+       {
+        "code": "MAK 4034E",
+        "name": "Design and Manufacturing with Welding"
+       },
+       {
+        "code": "MAK 4041E",
+        "name": "Mechanical Installation for Buildings"
+       },
+       {
+        "code": "MAK 4042E",
+        "name": "Gas Turbines"
+       },
+       {
+        "code": "MAK 4044E",
+        "name": "Energy Management"
+       },
+       {
+        "code": "MAK 4050E",
+        "name": "Optimization of Thermal Syst."
+       },
+       {
+        "code": "MAK 4053E",
+        "name": "Vehicle Technology"
+       },
+       {
+        "code": "MAK 4055E",
+        "name": "Fuel Economy in Road Vehicles"
+       },
+       {
+        "code": "MAK 4063E",
+        "name": "Design of Internal Combustion Engines"
+       },
+       {
+        "code": "MAK 4070E",
+        "name": "Internal Combustion Engines"
+       },
+       {
+        "code": "MAK 4011E",
+        "name": "Dyn.&Contr.ofMic./Nano Scl.Sys"
+       },
+       {
+        "code": "MAK 4021E",
+        "name": "Machine Tools"
+       },
+       {
+        "code": "MAK 4032E",
+        "name": "Metal Forming"
+       },
+       {
+        "code": "MAK 4049E",
+        "name": "Control Elements and Applications"
+       },
+       {
+        "code": "MAK 4054E",
+        "name": "Digital Control System Design"
+       },
+       {
+        "code": "MAK 4066E",
+        "name": "Vehicle Chassis and Body Design"
+       },
+       {
+        "code": "MAK 4069E",
+        "name": "Thermal Env Engineering"
+       },
+       {
+        "code": "MAK 4001E",
+        "name": "Heat&MassTrn.inMin.&Mic.SclSys"
+       },
+       {
+        "code": "MAK 4016E",
+        "name": "Hydraulic Machinery"
+       },
+       {
+        "code": "MAK 4030E",
+        "name": "Advanced Topics in Mechanical Design"
+       },
+       {
+        "code": "MAK 4033E",
+        "name": "Gas Dynamics"
+       },
+       {
+        "code": "MAK 4035E",
+        "name": "Hydraulic and Pneumatic Circuits"
+       },
+       {
+        "code": "MAK 4038E",
+        "name": "Power Plants"
+       },
+       {
+        "code": "MAK 4045E",
+        "name": "Vehicle Sys.Dynamics & Control"
+       },
+       {
+        "code": "MAK 4048E",
+        "name": "HVAC Systems and Equipment Design"
+       },
+       {
+        "code": "MAK 4060E",
+        "name": "Vibrt. Anlys.byFinite Elm.Mth."
+       },
+       {
+        "code": "MAK 4068E",
+        "name": "Fluid Power Control"
+       },
+       {
+        "code": "END 478E",
+        "name": "Applied Optimization Models"
+       },
+       {
+        "code": "UCK 370E",
+        "name": "Intro to Rotorcraft Systems"
+       },
+       {
+        "code": "UCK 472E",
+        "name": "Aeroelasticity"
+       },
+       {
+        "code": "MAT 381E",
+        "name": "Introduction to Data Science"
+       },
+       {
+        "code": "UCK 435E",
+        "name": "Design of Aerospace Structures"
+       },
+       {
+        "code": "FIZ 461E",
+        "name": "Physics of Sounds"
+       },
+       {
+        "code": "KON 428E",
+        "name": "Intr. to Optimal Control"
+       },
+       {
+        "code": "KON 435E",
+        "name": "Industrial Data Communications"
+       },
+       {
+        "code": "MAT 368E",
+        "name": "Mathematical Modeling"
+       },
+       {
+        "code": "KON 425E",
+        "name": "Process Control"
+       },
+       {
+        "code": "EHB 474E",
+        "name": "Introduction to Optimization"
        },
        {
         "code": "MAK 4080E",
         "name": "Fund. & Appl. of Nanomachines"
        },
        {
+        "code": "UCK 470E",
+        "name": "Jet Eng.Sys.Dsg.with Prac.App."
+       },
+       {
         "code": "MYZ 302E",
         "name": "Artificial Intelligence for Mechanical Engineering"
        },
        {
-        "code": "MYZ 302",
-        "name": "Makina Mühendisliği için Yapay Zeka"
+        "code": "MAK 4012E",
+        "name": "Numerical Analysis of Mechanical Systems"
        }
       ]
      }
@@ -1711,209 +1744,94 @@
       "credits": "2,5 / 3",
       "ects": [
        4,
+       5,
        5.5,
        6
       ],
       "options": [
        {
-        "code": "MAK 4001E",
-        "name": "Heat&MassTrn.inMin.&Mic.SclSys"
-       },
-       {
-        "code": "MAK 4002",
-        "name": "İleri Mukavemet"
-       },
-       {
-        "code": "MAK 4003",
-        "name": "Biyomekaniğe & Biyomüh. Giriş"
-       },
-       {
-        "code": "MAK 4004",
-        "name": "Komp. Malz. Mekaniğine Giriş"
+        "code": "KMM 448E",
+        "name": "Fuel Chemistry and Technology"
        },
        {
         "code": "MAK 4005E",
         "name": "Mech.Model. in Nanoscale Sys."
        },
        {
-        "code": "MAK 4006E",
-        "name": "Alternative Fuels for IC Eng."
-       },
-       {
-        "code": "MAK 4007E",
-        "name": "Microsystem-MEMS Design"
-       },
-       {
-        "code": "MAK 4008",
-        "name": "Sürücü Destek Sistemleri"
-       },
-       {
-        "code": "MAK 4011E",
-        "name": "Dyn.&Contr.ofMic./Nano Scl.Sys"
-       },
-       {
-        "code": "MAK 4012E",
-        "name": "Numerical Analysis of Mechanical Systems"
-       },
-       {
-        "code": "MAK 4012",
-        "name": "Mekanik Sistemlerin Sayısal Analizi"
+        "code": "MAK 4004E",
+        "name": "Introduction to Mechanics of Composite Materials"
        },
        {
         "code": "MAK 4015E",
         "name": "Materials Sel.in Dsgn and Mnfc"
        },
        {
-        "code": "MAK 4016",
-        "name": "Hidrolik Makinalar"
+        "code": "MAK 4022E",
+        "name": "Microprocessors and Applications in Engineering"
        },
        {
-        "code": "MAK 4017",
-        "name": "Endüstriyel Akustik ve Gürültü"
-       },
-       {
-        "code": "MAK 4018",
-        "name": "İmalatta Kalite Kontrol"
-       },
-       {
-        "code": "MAK 4019",
-        "name": "Plastik Mlz Konstr. ve İmalat"
-       },
-       {
-        "code": "MAK 4020",
-        "name": "Traktörler ve Tarım Makinaları"
-       },
-       {
-        "code": "MAK 4021",
-        "name": "Talaşlı İmalat"
-       },
-       {
-        "code": "MAK 4022",
-        "name": "Mühendislikte Mikroişl.ve Uygu"
-       },
-       {
-        "code": "MAK 4023",
-        "name": "Transport Tekniği"
-       },
-       {
-        "code": "MAK 4025E",
-        "name": "Engineering Design and CAD"
-       },
-       {
-        "code": "MAK 4026",
-        "name": "Pompalama Sistemleri"
-       },
-       {
-        "code": "MAK 4027E",
-        "name": "Turbomachinery"
-       },
-       {
-        "code": "MAK 4029",
-        "name": "İleri Akışkanlar Mekaniği"
-       },
-       {
-        "code": "MAK 4030",
-        "name": "Konstrüksiyonda İleri Konular"
-       },
-       {
-        "code": "MAK 4031",
-        "name": "Kütle Geçişi"
-       },
-       {
-        "code": "MAK 4032",
-        "name": "Metallerin Plastik Şekillendrl"
-       },
-       {
-        "code": "MAK 4033",
-        "name": "Gaz Dinamiği"
-       },
-       {
-        "code": "MAK 4034",
-        "name": "Kaynaklı Tasarım ve İmalat"
-       },
-       {
-        "code": "MAK 4034E",
-        "name": "Design and Manufacturing with Welding"
-       },
-       {
-        "code": "MAK 4035",
-        "name": "Hidrolik ve Pnömatik Devreler"
-       },
-       {
-        "code": "MAK 4036E",
-        "name": "Manufacturing Engineering and CAM"
-       },
-       {
-        "code": "MAK 4037E",
-        "name": "Computer Controlled Sys. Desig"
-       },
-       {
-        "code": "MAK 4038E",
-        "name": "Power Plants"
-       },
-       {
-        "code": "MAK 4039E",
-        "name": "HVAC Fundamentals"
-       },
-       {
-        "code": "MAK 4041",
-        "name": "Bina Tesisatı"
-       },
-       {
-        "code": "MAK 4042",
-        "name": "Gaz Türbinleri"
-       },
-       {
-        "code": "MAK 4043",
-        "name": "Yangın Dinamiği ve Güvenliği"
-       },
-       {
-        "code": "MAK 4044",
-        "name": "Enerji Yönetimi"
-       },
-       {
-        "code": "MAK 4045",
-        "name": "Taşıt Sistem Dinamiği ve Kontr"
+        "code": "MAK 4019E",
+        "name": "Plastics Engineering and Manufacturing"
        },
        {
         "code": "MAK 4047E",
         "name": "Dynamic Systms Modelling & Sim"
        },
        {
-        "code": "MAK 4048E",
-        "name": "HVAC Systems and Equipment Design"
+        "code": "MAK 4062E",
+        "name": "Railway Vehicles"
        },
        {
-        "code": "MAK 4049",
-        "name": "Kontrol Elemanları Uygulamala"
+        "code": "MAK 4056E",
+        "name": "Control Systems Design"
        },
        {
-        "code": "MAK 4050",
-        "name": "Isıl Sistem Optimizasyonu"
+        "code": "MAK 4067E",
+        "name": "Renewable Energy Systems"
        },
        {
-        "code": "MAK 4051",
-        "name": "Taşıtlarda Titreşim ve Gürültü"
+        "code": "MAK 4078E",
+        "name": "Fundamentals of Mechanical Design"
        },
        {
-        "code": "MAK 4052",
-        "name": "Bina Otomasyonu"
+        "code": "MAK 4007E",
+        "name": "Microsystem-MEMS Design"
        },
        {
-        "code": "MAK 4053E",
-        "name": "Vehicle Technology"
+        "code": "MAK 4037E",
+        "name": "Computer Controlled Sys. Desig"
        },
        {
-        "code": "MAK 4054E",
-        "name": "Digital Control System Design"
+        "code": "MAK 4043E",
+        "name": "Fire Dynamics and Protection"
        },
        {
-        "code": "MAK 4055E",
-        "name": "Fuel Economy in Road Vehicles"
+        "code": "MAK 4052E",
+        "name": "Building Automation"
        },
        {
-        "code": "MAK 4056",
-        "name": "Kontrol Sistemleri Tasarımı"
+        "code": "MAK 4059E",
+        "name": "Precision Machine Design"
+       },
+       {
+        "code": "MAK 4003E",
+        "name": "Introduction to Biomechanics and Bioengineering"
+       },
+       {
+        "code": "MAK 4017E",
+        "name": "Industrial Acoustics and Noise"
+       },
+       {
+        "code": "MAK 4023E",
+        "name": "Materials Handling"
+       },
+       {
+        "code": "MAK 4031E",
+        "name": "Mass Transfer"
+       },
+       {
+        "code": "MAK 4051E",
+        "name": "Noise and Vibration in Vehicles"
        },
        {
         "code": "MAK 4057E",
@@ -1924,68 +1842,224 @@
         "name": "Power Transmission in Vehicles"
        },
        {
-        "code": "MAK 4059E",
-        "name": "Precision Machine Design"
+        "code": "MAK 4061E",
+        "name": "Exhaust Gas Emmision"
        },
        {
-        "code": "MAK 4060",
-        "name": "Sonlu Eleman.Ynt.Titreşim Anlz"
+        "code": "MAK 4006E",
+        "name": "Alternative Fuels for IC Eng."
        },
        {
-        "code": "MAK 4061",
-        "name": "Egzos Gazları Emisyonu"
-       },
-       {
-        "code": "MAK 4062",
-        "name": "Raylı Taşıtlar"
-       },
-       {
-        "code": "MAK 4063",
-        "name": "Motor Konstrüksiyonu"
+        "code": "MAK 4039E",
+        "name": "HVAC Fundamentals"
        },
        {
         "code": "MAK 4065E",
         "name": "Refrigeration"
        },
        {
-        "code": "MAK 4066",
-        "name": "Şasi ve Karoseri Tasarımı"
+        "code": "MAK 4071E",
+        "name": "Introduction to Robotics"
        },
        {
-        "code": "MAK 4067E",
-        "name": "Renewable Energy Systems"
+        "code": "MAK 4002E",
+        "name": "Advanced Strength of Materials"
        },
        {
-        "code": "MAK 4068",
-        "name": "Akışkan Gücü Kontrolü"
+        "code": "MAK 4008E",
+        "name": "Driver Assistance Systems"
        },
        {
-        "code": "MAK 4069E",
-        "name": "Thermal Env Engineering"
+        "code": "MAK 4018E",
+        "name": "Quality Control in Manufacturi"
+       },
+       {
+        "code": "MAK 4020E",
+        "name": "Tractors&Agricultural Mach."
+       },
+       {
+        "code": "MAK 4025E",
+        "name": "Engineering Design and CAD"
+       },
+       {
+        "code": "MAK 4026E",
+        "name": "Pumping Systems"
+       },
+       {
+        "code": "MAK 4027E",
+        "name": "Turbomachinery"
+       },
+       {
+        "code": "MAK 4029E",
+        "name": "Advanced Fluid Mechanics"
+       },
+       {
+        "code": "MAK 4034E",
+        "name": "Design and Manufacturing with Welding"
+       },
+       {
+        "code": "MAK 4041E",
+        "name": "Mechanical Installation for Buildings"
+       },
+       {
+        "code": "MAK 4042E",
+        "name": "Gas Turbines"
+       },
+       {
+        "code": "MAK 4044E",
+        "name": "Energy Management"
+       },
+       {
+        "code": "MAK 4050E",
+        "name": "Optimization of Thermal Syst."
+       },
+       {
+        "code": "MAK 4053E",
+        "name": "Vehicle Technology"
+       },
+       {
+        "code": "MAK 4055E",
+        "name": "Fuel Economy in Road Vehicles"
+       },
+       {
+        "code": "MAK 4063E",
+        "name": "Design of Internal Combustion Engines"
        },
        {
         "code": "MAK 4070E",
         "name": "Internal Combustion Engines"
        },
        {
-        "code": "MAK 4071E",
-        "name": "Introduction to Robotics"
+        "code": "MAK 4011E",
+        "name": "Dyn.&Contr.ofMic./Nano Scl.Sys"
        },
        {
-        "code": "MAK 4078",
-        "name": "Makina Konstrüksiyonları Esas."
+        "code": "MAK 4021E",
+        "name": "Machine Tools"
+       },
+       {
+        "code": "MAK 4032E",
+        "name": "Metal Forming"
+       },
+       {
+        "code": "MAK 4036E",
+        "name": "Manufacturing Engineering and CAM"
+       },
+       {
+        "code": "MAK 4049E",
+        "name": "Control Elements and Applications"
+       },
+       {
+        "code": "MAK 4054E",
+        "name": "Digital Control System Design"
+       },
+       {
+        "code": "MAK 4066E",
+        "name": "Vehicle Chassis and Body Design"
+       },
+       {
+        "code": "MAK 4069E",
+        "name": "Thermal Env Engineering"
+       },
+       {
+        "code": "MAK 4001E",
+        "name": "Heat&MassTrn.inMin.&Mic.SclSys"
+       },
+       {
+        "code": "MAK 4016E",
+        "name": "Hydraulic Machinery"
+       },
+       {
+        "code": "MAK 4030E",
+        "name": "Advanced Topics in Mechanical Design"
+       },
+       {
+        "code": "MAK 4033E",
+        "name": "Gas Dynamics"
+       },
+       {
+        "code": "MAK 4035E",
+        "name": "Hydraulic and Pneumatic Circuits"
+       },
+       {
+        "code": "MAK 4038E",
+        "name": "Power Plants"
+       },
+       {
+        "code": "MAK 4045E",
+        "name": "Vehicle Sys.Dynamics & Control"
+       },
+       {
+        "code": "MAK 4048E",
+        "name": "HVAC Systems and Equipment Design"
+       },
+       {
+        "code": "MAK 4060E",
+        "name": "Vibrt. Anlys.byFinite Elm.Mth."
+       },
+       {
+        "code": "MAK 4068E",
+        "name": "Fluid Power Control"
+       },
+       {
+        "code": "END 478E",
+        "name": "Applied Optimization Models"
+       },
+       {
+        "code": "UCK 370E",
+        "name": "Intro to Rotorcraft Systems"
+       },
+       {
+        "code": "UCK 472E",
+        "name": "Aeroelasticity"
+       },
+       {
+        "code": "MAT 381E",
+        "name": "Introduction to Data Science"
+       },
+       {
+        "code": "UCK 435E",
+        "name": "Design of Aerospace Structures"
+       },
+       {
+        "code": "FIZ 461E",
+        "name": "Physics of Sounds"
+       },
+       {
+        "code": "KON 428E",
+        "name": "Intr. to Optimal Control"
+       },
+       {
+        "code": "KON 435E",
+        "name": "Industrial Data Communications"
+       },
+       {
+        "code": "MAT 368E",
+        "name": "Mathematical Modeling"
+       },
+       {
+        "code": "KON 425E",
+        "name": "Process Control"
+       },
+       {
+        "code": "EHB 474E",
+        "name": "Introduction to Optimization"
        },
        {
         "code": "MAK 4080E",
         "name": "Fund. & Appl. of Nanomachines"
        },
        {
+        "code": "UCK 470E",
+        "name": "Jet Eng.Sys.Dsg.with Prac.App."
+       },
+       {
         "code": "MYZ 302E",
         "name": "Artificial Intelligence for Mechanical Engineering"
        },
        {
-        "code": "MYZ 302",
-        "name": "Makina Mühendisliği için Yapay Zeka"
+        "code": "MAK 4012E",
+        "name": "Numerical Analysis of Mechanical Systems"
        }
       ]
      }
@@ -2000,128 +2074,116 @@
       ],
       "options": [
        {
-        "code": "SNT 101",
-        "name": "Heykel Sanatına Bakış"
+        "code": "SNT 105E",
+        "name": "Film Art"
        },
        {
-        "code": "SNT 102",
-        "name": "Fotoğraf"
+        "code": "SNT 101E",
+        "name": "Looking at the Art of Sculpture"
        },
        {
-        "code": "SNT 102E",
-        "name": "Photography"
+        "code": "SNT 106E",
+        "name": "Traditional Turkish Art&Crafts"
        },
        {
-        "code": "SNT 103",
-        "name": "Desen"
+        "code": "SNT 103E",
+        "name": "Drawing"
        },
        {
-        "code": "SNT 104",
-        "name": "Mitoloji ve Sanat"
-       },
-       {
-        "code": "SNT 104E",
-        "name": "Mythology and Art"
-       },
-       {
-        "code": "SNT 105",
-        "name": "Sinema Sanatı"
-       },
-       {
-        "code": "SNT 106",
-        "name": "Geleneks. Türk El Sanatları"
-       },
-       {
-        "code": "SNT 107",
-        "name": "İlkçağ Anadolu Uygarlıkları"
-       },
-       {
-        "code": "SNT 108",
-        "name": "Seramik"
+        "code": "SNT 108E",
+        "name": "Ceramic"
        },
        {
         "code": "SNT 109",
         "name": "Kazı Resim (Gravür)"
        },
        {
-        "code": "SNT 111",
-        "name": "Moda Tasarımı ve Sanat"
+        "code": "SNT 114E",
+        "name": "Contemporary Art"
        },
        {
-        "code": "SNT 112",
-        "name": "Tiyatro"
+        "code": "SNT 119E",
+        "name": "History of Popular Music"
        },
        {
-        "code": "SNT 112E",
-        "name": "Theater"
+        "code": "SNT 226E",
+        "name": "Philosophy of Art"
        },
        {
-        "code": "SNT 113",
-        "name": "Sanat ve Yorum"
-       },
-       {
-        "code": "SNT 114",
-        "name": "Günümüz Sanatı"
-       },
-       {
-        "code": "SNT 115",
-        "name": "Modernite ve Görsel Kültür"
-       },
-       {
-        "code": "SNT 116",
-        "name": "İletişim Sanatı"
-       },
-       {
-        "code": "SNT 117E",
-        "name": "Jazz Appreciation"
-       },
-       {
-        "code": "SNT 118",
-        "name": "Müzik Arkeolojisi"
-       },
-       {
-        "code": "SNT 119",
-        "name": "Popüler Müzik Tarihi"
-       },
-       {
-        "code": "SNT 121E",
-        "name": "World Music Cultures"
+        "code": "SNT 115E",
+        "name": "Modernity and Visual Culture"
        },
        {
         "code": "SNT 122",
         "name": "Seramik Sanatı"
        },
        {
-        "code": "SNT 123E",
-        "name": "Film Production"
+        "code": "SNT 214E",
+        "name": "Performance, Music and Dance"
        },
        {
-        "code": "SNT 211",
-        "name": "İstanbul:Tarih,Sanat ve Toplum"
+        "code": "SNT 227E",
+        "name": "Sound and Society"
        },
        {
-        "code": "SNT 212",
-        "name": "Sanat,Kültür ve Toplum"
+        "code": "SNT 112E",
+        "name": "Theater"
+       },
+       {
+        "code": "SNT 116E",
+        "name": "The Art of Communication"
+       },
+       {
+        "code": "SNT 111",
+        "name": "Moda Tasarımı ve Sanat"
+       },
+       {
+        "code": "SNT 212E",
+        "name": "Art,Culture and Society"
        },
        {
         "code": "SNT 213",
         "name": "Türkiye Müzik Kültürleri"
        },
        {
-        "code": "SNT 214",
-        "name": "Performans, Müzik ve Dans"
+        "code": "SNT 104E",
+        "name": "Mythology and Art"
+       },
+       {
+        "code": "SNT 107E",
+        "name": "Ancient Civilizat.in Anatolia"
+       },
+       {
+        "code": "SNT 118",
+        "name": "Müzik Arkeolojisi"
+       },
+       {
+        "code": "SNT 123E",
+        "name": "Film Production"
+       },
+       {
+        "code": "SNT 113E",
+        "name": "Art and Interpretation"
+       },
+       {
+        "code": "SNT 102E",
+        "name": "Photography"
+       },
+       {
+        "code": "SNT 117E",
+        "name": "Jazz Appreciation"
+       },
+       {
+        "code": "SNT 211E",
+        "name": "Istanbul:Hist.,Art and Society"
        },
        {
         "code": "SNT 215E",
         "name": "Balkan Musics"
        },
        {
-        "code": "SNT 226",
-        "name": "Sanat Felsefesi"
-       },
-       {
-        "code": "SNT 227E",
-        "name": "Sound and Society"
+        "code": "SNT 121E",
+        "name": "World Music Cultures"
        },
        {
         "code": "SNT 228",
@@ -2182,285 +2244,326 @@
       "credits": "2,5 / 3",
       "ects": [
        4,
+       5,
        5.5,
        6
       ],
       "options": [
        {
-        "code": "MAK 4001E",
-        "name": "Heat&MassTrn.inMin.&Mic.SclSys"
-       },
-       {
-        "code": "MAK 4002",
-        "name": "İleri Mukavemet"
-       },
-       {
-        "code": "MAK 4003",
-        "name": "Biyomekaniğe & Biyomüh. Giriş"
-       },
-       {
-        "code": "MAK 4004",
-        "name": "Komp. Malz. Mekaniğine Giriş"
+        "code": "KMM 448E",
+        "name": "Fuel Chemistry and Technology"
        },
        {
         "code": "MAK 4005E",
         "name": "Mech.Model. in Nanoscale Sys."
        },
        {
-        "code": "MAK 4006E",
-        "name": "Alternative Fuels for IC Eng."
-       },
-       {
-        "code": "MAK 4007E",
-        "name": "Microsystem-MEMS Design"
-       },
-       {
-        "code": "MAK 4008",
-        "name": "Sürücü Destek Sistemleri"
-       },
-       {
-        "code": "MAK 4009E",
-        "name": "Elect.& Hybrid Elect. Vehicles"
-       },
-       {
-        "code": "MAK 4011E",
-        "name": "Dyn.&Contr.ofMic./Nano Scl.Sys"
-       },
-       {
-        "code": "MAK 4012E",
-        "name": "Numerical Analysis of Mechanical Systems"
-       },
-       {
-        "code": "MAK 4012",
-        "name": "Mekanik Sistemlerin Sayısal Analizi"
+        "code": "MAK 4004E",
+        "name": "Introduction to Mechanics of Composite Materials"
        },
        {
         "code": "MAK 4015E",
         "name": "Materials Sel.in Dsgn and Mnfc"
        },
        {
-        "code": "MAK 4016",
-        "name": "Hidrolik Makinalar"
+        "code": "MAK 4022E",
+        "name": "Microprocessors and Applications in Engineering"
        },
        {
-        "code": "MAK 4017",
-        "name": "Endüstriyel Akustik ve Gürültü"
-       },
-       {
-        "code": "MAK 4018",
-        "name": "İmalatta Kalite Kontrol"
-       },
-       {
-        "code": "MAK 4019",
-        "name": "Plastik Mlz Konstr. ve İmalat"
-       },
-       {
-        "code": "MAK 4020",
-        "name": "Traktörler ve Tarım Makinaları"
-       },
-       {
-        "code": "MAK 4021",
-        "name": "Talaşlı İmalat"
-       },
-       {
-        "code": "MAK 4022",
-        "name": "Mühendislikte Mikroişl.ve Uygu"
-       },
-       {
-        "code": "MAK 4023",
-        "name": "Transport Tekniği"
-       },
-       {
-        "code": "MAK 4025E",
-        "name": "Engineering Design and CAD"
-       },
-       {
-        "code": "MAK 4026",
-        "name": "Pompalama Sistemleri"
-       },
-       {
-        "code": "MAK 4027E",
-        "name": "Turbomachinery"
-       },
-       {
-        "code": "MAK 4029",
-        "name": "İleri Akışkanlar Mekaniği"
-       },
-       {
-        "code": "MAK 4030",
-        "name": "Konstrüksiyonda İleri Konular"
-       },
-       {
-        "code": "MAK 4031",
-        "name": "Kütle Geçişi"
-       },
-       {
-        "code": "MAK 4032",
-        "name": "Metallerin Plastik Şekillendrl"
-       },
-       {
-        "code": "MAK 4033",
-        "name": "Gaz Dinamiği"
-       },
-       {
-        "code": "MAK 4034",
-        "name": "Kaynaklı Tasarım ve İmalat"
-       },
-       {
-        "code": "MAK 4034E",
-        "name": "Design and Manufacturing with Welding"
-       },
-       {
-        "code": "MAK 4035",
-        "name": "Hidrolik ve Pnömatik Devreler"
-       },
-       {
-        "code": "MAK 4036E",
-        "name": "Manufacturing Engineering and CAM"
-       },
-       {
-        "code": "MAK 4037E",
-        "name": "Computer Controlled Sys. Desig"
-       },
-       {
-        "code": "MAK 4038E",
-        "name": "Power Plants"
-       },
-       {
-        "code": "MAK 4039E",
-        "name": "HVAC Fundamentals"
-       },
-       {
-        "code": "MAK 4041",
-        "name": "Bina Tesisatı"
-       },
-       {
-        "code": "MAK 4042",
-        "name": "Gaz Türbinleri"
-       },
-       {
-        "code": "MAK 4043",
-        "name": "Yangın Dinamiği ve Güvenliği"
-       },
-       {
-        "code": "MAK 4044",
-        "name": "Enerji Yönetimi"
-       },
-       {
-        "code": "MAK 4045",
-        "name": "Taşıt Sistem Dinamiği ve Kontr"
+        "code": "MAK 4019E",
+        "name": "Plastics Engineering and Manufacturing"
        },
        {
         "code": "MAK 4047E",
         "name": "Dynamic Systms Modelling & Sim"
        },
        {
-        "code": "MAK 4048E",
-        "name": "HVAC Systems and Equipment Design"
+        "code": "MAK 4062E",
+        "name": "Railway Vehicles"
        },
        {
-        "code": "MAK 4049",
-        "name": "Kontrol Elemanları Uygulamala"
-       },
-       {
-        "code": "MAK 4050",
-        "name": "Isıl Sistem Optimizasyonu"
-       },
-       {
-        "code": "MAK 4051",
-        "name": "Taşıtlarda Titreşim ve Gürültü"
-       },
-       {
-        "code": "MAK 4052",
-        "name": "Bina Otomasyonu"
-       },
-       {
-        "code": "MAK 4053E",
-        "name": "Vehicle Technology"
-       },
-       {
-        "code": "MAK 4054E",
-        "name": "Digital Control System Design"
-       },
-       {
-        "code": "MAK 4055E",
-        "name": "Fuel Economy in Road Vehicles"
-       },
-       {
-        "code": "MAK 4056",
-        "name": "Kontrol Sistemleri Tasarımı"
-       },
-       {
-        "code": "MAK 4057E",
-        "name": "Vehicle Systems Design"
-       },
-       {
-        "code": "MAK 4058",
-        "name": "Taşıtlarda Aktarma Organları"
-       },
-       {
-        "code": "MAK 4059E",
-        "name": "Precision Machine Design"
-       },
-       {
-        "code": "MAK 4060",
-        "name": "Sonlu Eleman.Ynt.Titreşim Anlz"
-       },
-       {
-        "code": "MAK 4061",
-        "name": "Egzos Gazları Emisyonu"
-       },
-       {
-        "code": "MAK 4062",
-        "name": "Raylı Taşıtlar"
-       },
-       {
-        "code": "MAK 4063",
-        "name": "Motor Konstrüksiyonu"
-       },
-       {
-        "code": "MAK 4065E",
-        "name": "Refrigeration"
-       },
-       {
-        "code": "MAK 4066",
-        "name": "Şasi ve Karoseri Tasarımı"
+        "code": "MAK 4056E",
+        "name": "Control Systems Design"
        },
        {
         "code": "MAK 4067E",
         "name": "Renewable Energy Systems"
        },
        {
-        "code": "MAK 4068",
-        "name": "Akışkan Gücü Kontrolü"
+        "code": "MAK 4078E",
+        "name": "Fundamentals of Mechanical Design"
        },
        {
-        "code": "MAK 4069E",
-        "name": "Thermal Env Engineering"
+        "code": "MAK 4007E",
+        "name": "Microsystem-MEMS Design"
        },
        {
-        "code": "MAK 4070E",
-        "name": "Internal Combustion Engines"
+        "code": "MAK 4037E",
+        "name": "Computer Controlled Sys. Desig"
+       },
+       {
+        "code": "MAK 4043E",
+        "name": "Fire Dynamics and Protection"
+       },
+       {
+        "code": "MAK 4052E",
+        "name": "Building Automation"
+       },
+       {
+        "code": "MAK 4059E",
+        "name": "Precision Machine Design"
+       },
+       {
+        "code": "MAK 4003E",
+        "name": "Introduction to Biomechanics and Bioengineering"
+       },
+       {
+        "code": "MAK 4017E",
+        "name": "Industrial Acoustics and Noise"
+       },
+       {
+        "code": "MAK 4023E",
+        "name": "Materials Handling"
+       },
+       {
+        "code": "MAK 4031E",
+        "name": "Mass Transfer"
+       },
+       {
+        "code": "MAK 4051E",
+        "name": "Noise and Vibration in Vehicles"
+       },
+       {
+        "code": "MAK 4057E",
+        "name": "Vehicle Systems Design"
+       },
+       {
+        "code": "MAK 4058E",
+        "name": "Power Transmission in Vehicles"
+       },
+       {
+        "code": "MAK 4061E",
+        "name": "Exhaust Gas Emmision"
+       },
+       {
+        "code": "MAK 4006E",
+        "name": "Alternative Fuels for IC Eng."
+       },
+       {
+        "code": "MAK 4009E",
+        "name": "Elect.& Hybrid Elect. Vehicles"
+       },
+       {
+        "code": "MAK 4039E",
+        "name": "HVAC Fundamentals"
+       },
+       {
+        "code": "MAK 4065E",
+        "name": "Refrigeration"
        },
        {
         "code": "MAK 4071E",
         "name": "Introduction to Robotics"
        },
        {
-        "code": "MAK 4078",
-        "name": "Makina Konstrüksiyonları Esas."
+        "code": "MAK 4002E",
+        "name": "Advanced Strength of Materials"
+       },
+       {
+        "code": "MAK 4008E",
+        "name": "Driver Assistance Systems"
+       },
+       {
+        "code": "MAK 4018E",
+        "name": "Quality Control in Manufacturi"
+       },
+       {
+        "code": "MAK 4020E",
+        "name": "Tractors&Agricultural Mach."
+       },
+       {
+        "code": "MAK 4025E",
+        "name": "Engineering Design and CAD"
+       },
+       {
+        "code": "MAK 4026E",
+        "name": "Pumping Systems"
+       },
+       {
+        "code": "MAK 4027E",
+        "name": "Turbomachinery"
+       },
+       {
+        "code": "MAK 4029E",
+        "name": "Advanced Fluid Mechanics"
+       },
+       {
+        "code": "MAK 4034E",
+        "name": "Design and Manufacturing with Welding"
+       },
+       {
+        "code": "MAK 4041E",
+        "name": "Mechanical Installation for Buildings"
+       },
+       {
+        "code": "MAK 4042E",
+        "name": "Gas Turbines"
+       },
+       {
+        "code": "MAK 4044E",
+        "name": "Energy Management"
+       },
+       {
+        "code": "MAK 4050E",
+        "name": "Optimization of Thermal Syst."
+       },
+       {
+        "code": "MAK 4053E",
+        "name": "Vehicle Technology"
+       },
+       {
+        "code": "MAK 4055E",
+        "name": "Fuel Economy in Road Vehicles"
+       },
+       {
+        "code": "MAK 4063E",
+        "name": "Design of Internal Combustion Engines"
+       },
+       {
+        "code": "MAK 4070E",
+        "name": "Internal Combustion Engines"
+       },
+       {
+        "code": "MAK 4011E",
+        "name": "Dyn.&Contr.ofMic./Nano Scl.Sys"
+       },
+       {
+        "code": "MAK 4021E",
+        "name": "Machine Tools"
+       },
+       {
+        "code": "MAK 4032E",
+        "name": "Metal Forming"
+       },
+       {
+        "code": "MAK 4036E",
+        "name": "Manufacturing Engineering and CAM"
+       },
+       {
+        "code": "MAK 4049E",
+        "name": "Control Elements and Applications"
+       },
+       {
+        "code": "MAK 4054E",
+        "name": "Digital Control System Design"
+       },
+       {
+        "code": "MAK 4066E",
+        "name": "Vehicle Chassis and Body Design"
+       },
+       {
+        "code": "MAK 4069E",
+        "name": "Thermal Env Engineering"
+       },
+       {
+        "code": "MAK 4001E",
+        "name": "Heat&MassTrn.inMin.&Mic.SclSys"
+       },
+       {
+        "code": "MAK 4016E",
+        "name": "Hydraulic Machinery"
+       },
+       {
+        "code": "MAK 4030E",
+        "name": "Advanced Topics in Mechanical Design"
+       },
+       {
+        "code": "MAK 4033E",
+        "name": "Gas Dynamics"
+       },
+       {
+        "code": "MAK 4035E",
+        "name": "Hydraulic and Pneumatic Circuits"
+       },
+       {
+        "code": "MAK 4038E",
+        "name": "Power Plants"
+       },
+       {
+        "code": "MAK 4045E",
+        "name": "Vehicle Sys.Dynamics & Control"
+       },
+       {
+        "code": "MAK 4048E",
+        "name": "HVAC Systems and Equipment Design"
+       },
+       {
+        "code": "MAK 4060E",
+        "name": "Vibrt. Anlys.byFinite Elm.Mth."
+       },
+       {
+        "code": "MAK 4068E",
+        "name": "Fluid Power Control"
+       },
+       {
+        "code": "END 478E",
+        "name": "Applied Optimization Models"
+       },
+       {
+        "code": "UCK 370E",
+        "name": "Intro to Rotorcraft Systems"
+       },
+       {
+        "code": "UCK 472E",
+        "name": "Aeroelasticity"
+       },
+       {
+        "code": "MAT 381E",
+        "name": "Introduction to Data Science"
+       },
+       {
+        "code": "UCK 435E",
+        "name": "Design of Aerospace Structures"
+       },
+       {
+        "code": "FIZ 461E",
+        "name": "Physics of Sounds"
+       },
+       {
+        "code": "KON 428E",
+        "name": "Intr. to Optimal Control"
+       },
+       {
+        "code": "KON 435E",
+        "name": "Industrial Data Communications"
+       },
+       {
+        "code": "MAT 368E",
+        "name": "Mathematical Modeling"
+       },
+       {
+        "code": "KON 425E",
+        "name": "Process Control"
+       },
+       {
+        "code": "EHB 474E",
+        "name": "Introduction to Optimization"
        },
        {
         "code": "MAK 4080E",
         "name": "Fund. & Appl. of Nanomachines"
        },
        {
+        "code": "UCK 470E",
+        "name": "Jet Eng.Sys.Dsg.with Prac.App."
+       },
+       {
         "code": "MYZ 302E",
         "name": "Artificial Intelligence for Mechanical Engineering"
        },
        {
-        "code": "MYZ 302",
-        "name": "Makina Mühendisliği için Yapay Zeka"
+        "code": "MAK 4012E",
+        "name": "Numerical Analysis of Mechanical Systems"
        }
       ]
      }
@@ -2472,281 +2575,322 @@
       "credits": "2,5 / 3",
       "ects": [
        4,
+       5,
        5.5,
        6
       ],
       "options": [
        {
-        "code": "MAK 4001E",
-        "name": "Heat&MassTrn.inMin.&Mic.SclSys"
-       },
-       {
-        "code": "MAK 4002",
-        "name": "İleri Mukavemet"
-       },
-       {
-        "code": "MAK 4003",
-        "name": "Biyomekaniğe & Biyomüh. Giriş"
-       },
-       {
-        "code": "MAK 4004",
-        "name": "Komp. Malz. Mekaniğine Giriş"
+        "code": "KMM 448E",
+        "name": "Fuel Chemistry and Technology"
        },
        {
         "code": "MAK 4005E",
         "name": "Mech.Model. in Nanoscale Sys."
        },
        {
-        "code": "MAK 4006E",
-        "name": "Alternative Fuels for IC Eng."
-       },
-       {
-        "code": "MAK 4007E",
-        "name": "Microsystem-MEMS Design"
-       },
-       {
-        "code": "MAK 4008",
-        "name": "Sürücü Destek Sistemleri"
-       },
-       {
-        "code": "MAK 4009E",
-        "name": "Elect.& Hybrid Elect. Vehicles"
-       },
-       {
-        "code": "MAK 4012E",
-        "name": "Numerical Analysis of Mechanical Systems"
-       },
-       {
-        "code": "MAK 4012",
-        "name": "Mekanik Sistemlerin Sayısal Analizi"
+        "code": "MAK 4004E",
+        "name": "Introduction to Mechanics of Composite Materials"
        },
        {
         "code": "MAK 4015E",
         "name": "Materials Sel.in Dsgn and Mnfc"
        },
        {
-        "code": "MAK 4016",
-        "name": "Hidrolik Makinalar"
+        "code": "MAK 4022E",
+        "name": "Microprocessors and Applications in Engineering"
        },
        {
-        "code": "MAK 4017",
-        "name": "Endüstriyel Akustik ve Gürültü"
-       },
-       {
-        "code": "MAK 4018",
-        "name": "İmalatta Kalite Kontrol"
-       },
-       {
-        "code": "MAK 4019",
-        "name": "Plastik Mlz Konstr. ve İmalat"
-       },
-       {
-        "code": "MAK 4020",
-        "name": "Traktörler ve Tarım Makinaları"
-       },
-       {
-        "code": "MAK 4021",
-        "name": "Talaşlı İmalat"
-       },
-       {
-        "code": "MAK 4022",
-        "name": "Mühendislikte Mikroişl.ve Uygu"
-       },
-       {
-        "code": "MAK 4023",
-        "name": "Transport Tekniği"
-       },
-       {
-        "code": "MAK 4025E",
-        "name": "Engineering Design and CAD"
-       },
-       {
-        "code": "MAK 4026",
-        "name": "Pompalama Sistemleri"
-       },
-       {
-        "code": "MAK 4027E",
-        "name": "Turbomachinery"
-       },
-       {
-        "code": "MAK 4029",
-        "name": "İleri Akışkanlar Mekaniği"
-       },
-       {
-        "code": "MAK 4030",
-        "name": "Konstrüksiyonda İleri Konular"
-       },
-       {
-        "code": "MAK 4031",
-        "name": "Kütle Geçişi"
-       },
-       {
-        "code": "MAK 4032",
-        "name": "Metallerin Plastik Şekillendrl"
-       },
-       {
-        "code": "MAK 4033",
-        "name": "Gaz Dinamiği"
-       },
-       {
-        "code": "MAK 4034",
-        "name": "Kaynaklı Tasarım ve İmalat"
-       },
-       {
-        "code": "MAK 4034E",
-        "name": "Design and Manufacturing with Welding"
-       },
-       {
-        "code": "MAK 4035",
-        "name": "Hidrolik ve Pnömatik Devreler"
-       },
-       {
-        "code": "MAK 4036E",
-        "name": "Manufacturing Engineering and CAM"
-       },
-       {
-        "code": "MAK 4037E",
-        "name": "Computer Controlled Sys. Desig"
-       },
-       {
-        "code": "MAK 4038E",
-        "name": "Power Plants"
-       },
-       {
-        "code": "MAK 4039E",
-        "name": "HVAC Fundamentals"
-       },
-       {
-        "code": "MAK 4041",
-        "name": "Bina Tesisatı"
-       },
-       {
-        "code": "MAK 4042",
-        "name": "Gaz Türbinleri"
-       },
-       {
-        "code": "MAK 4043",
-        "name": "Yangın Dinamiği ve Güvenliği"
-       },
-       {
-        "code": "MAK 4044",
-        "name": "Enerji Yönetimi"
-       },
-       {
-        "code": "MAK 4045",
-        "name": "Taşıt Sistem Dinamiği ve Kontr"
+        "code": "MAK 4019E",
+        "name": "Plastics Engineering and Manufacturing"
        },
        {
         "code": "MAK 4047E",
         "name": "Dynamic Systms Modelling & Sim"
        },
        {
-        "code": "MAK 4048E",
-        "name": "HVAC Systems and Equipment Design"
+        "code": "MAK 4062E",
+        "name": "Railway Vehicles"
        },
        {
-        "code": "MAK 4049",
-        "name": "Kontrol Elemanları Uygulamala"
-       },
-       {
-        "code": "MAK 4050",
-        "name": "Isıl Sistem Optimizasyonu"
-       },
-       {
-        "code": "MAK 4051",
-        "name": "Taşıtlarda Titreşim ve Gürültü"
-       },
-       {
-        "code": "MAK 4052",
-        "name": "Bina Otomasyonu"
-       },
-       {
-        "code": "MAK 4053E",
-        "name": "Vehicle Technology"
-       },
-       {
-        "code": "MAK 4054E",
-        "name": "Digital Control System Design"
-       },
-       {
-        "code": "MAK 4055E",
-        "name": "Fuel Economy in Road Vehicles"
-       },
-       {
-        "code": "MAK 4056",
-        "name": "Kontrol Sistemleri Tasarımı"
-       },
-       {
-        "code": "MAK 4057E",
-        "name": "Vehicle Systems Design"
-       },
-       {
-        "code": "MAK 4058",
-        "name": "Taşıtlarda Aktarma Organları"
-       },
-       {
-        "code": "MAK 4059E",
-        "name": "Precision Machine Design"
-       },
-       {
-        "code": "MAK 4060",
-        "name": "Sonlu Eleman.Ynt.Titreşim Anlz"
-       },
-       {
-        "code": "MAK 4061",
-        "name": "Egzos Gazları Emisyonu"
-       },
-       {
-        "code": "MAK 4062",
-        "name": "Raylı Taşıtlar"
-       },
-       {
-        "code": "MAK 4063",
-        "name": "Motor Konstrüksiyonu"
-       },
-       {
-        "code": "MAK 4065E",
-        "name": "Refrigeration"
-       },
-       {
-        "code": "MAK 4066",
-        "name": "Şasi ve Karoseri Tasarımı"
+        "code": "MAK 4056E",
+        "name": "Control Systems Design"
        },
        {
         "code": "MAK 4067E",
         "name": "Renewable Energy Systems"
        },
        {
-        "code": "MAK 4068",
-        "name": "Akışkan Gücü Kontrolü"
+        "code": "MAK 4078E",
+        "name": "Fundamentals of Mechanical Design"
        },
        {
-        "code": "MAK 4069E",
-        "name": "Thermal Env Engineering"
+        "code": "MAK 4007E",
+        "name": "Microsystem-MEMS Design"
        },
        {
-        "code": "MAK 4070E",
-        "name": "Internal Combustion Engines"
+        "code": "MAK 4037E",
+        "name": "Computer Controlled Sys. Desig"
+       },
+       {
+        "code": "MAK 4043E",
+        "name": "Fire Dynamics and Protection"
+       },
+       {
+        "code": "MAK 4052E",
+        "name": "Building Automation"
+       },
+       {
+        "code": "MAK 4059E",
+        "name": "Precision Machine Design"
+       },
+       {
+        "code": "MAK 4003E",
+        "name": "Introduction to Biomechanics and Bioengineering"
+       },
+       {
+        "code": "MAK 4017E",
+        "name": "Industrial Acoustics and Noise"
+       },
+       {
+        "code": "MAK 4023E",
+        "name": "Materials Handling"
+       },
+       {
+        "code": "MAK 4031E",
+        "name": "Mass Transfer"
+       },
+       {
+        "code": "MAK 4051E",
+        "name": "Noise and Vibration in Vehicles"
+       },
+       {
+        "code": "MAK 4057E",
+        "name": "Vehicle Systems Design"
+       },
+       {
+        "code": "MAK 4058E",
+        "name": "Power Transmission in Vehicles"
+       },
+       {
+        "code": "MAK 4061E",
+        "name": "Exhaust Gas Emmision"
+       },
+       {
+        "code": "MAK 4006E",
+        "name": "Alternative Fuels for IC Eng."
+       },
+       {
+        "code": "MAK 4009E",
+        "name": "Elect.& Hybrid Elect. Vehicles"
+       },
+       {
+        "code": "MAK 4039E",
+        "name": "HVAC Fundamentals"
+       },
+       {
+        "code": "MAK 4065E",
+        "name": "Refrigeration"
        },
        {
         "code": "MAK 4071E",
         "name": "Introduction to Robotics"
        },
        {
-        "code": "MAK 4078",
-        "name": "Makina Konstrüksiyonları Esas."
+        "code": "MAK 4002E",
+        "name": "Advanced Strength of Materials"
+       },
+       {
+        "code": "MAK 4008E",
+        "name": "Driver Assistance Systems"
+       },
+       {
+        "code": "MAK 4018E",
+        "name": "Quality Control in Manufacturi"
+       },
+       {
+        "code": "MAK 4020E",
+        "name": "Tractors&Agricultural Mach."
+       },
+       {
+        "code": "MAK 4025E",
+        "name": "Engineering Design and CAD"
+       },
+       {
+        "code": "MAK 4026E",
+        "name": "Pumping Systems"
+       },
+       {
+        "code": "MAK 4027E",
+        "name": "Turbomachinery"
+       },
+       {
+        "code": "MAK 4029E",
+        "name": "Advanced Fluid Mechanics"
+       },
+       {
+        "code": "MAK 4034E",
+        "name": "Design and Manufacturing with Welding"
+       },
+       {
+        "code": "MAK 4041E",
+        "name": "Mechanical Installation for Buildings"
+       },
+       {
+        "code": "MAK 4042E",
+        "name": "Gas Turbines"
+       },
+       {
+        "code": "MAK 4044E",
+        "name": "Energy Management"
+       },
+       {
+        "code": "MAK 4050E",
+        "name": "Optimization of Thermal Syst."
+       },
+       {
+        "code": "MAK 4053E",
+        "name": "Vehicle Technology"
+       },
+       {
+        "code": "MAK 4055E",
+        "name": "Fuel Economy in Road Vehicles"
+       },
+       {
+        "code": "MAK 4063E",
+        "name": "Design of Internal Combustion Engines"
+       },
+       {
+        "code": "MAK 4070E",
+        "name": "Internal Combustion Engines"
+       },
+       {
+        "code": "MAK 4021E",
+        "name": "Machine Tools"
+       },
+       {
+        "code": "MAK 4032E",
+        "name": "Metal Forming"
+       },
+       {
+        "code": "MAK 4036E",
+        "name": "Manufacturing Engineering and CAM"
+       },
+       {
+        "code": "MAK 4049E",
+        "name": "Control Elements and Applications"
+       },
+       {
+        "code": "MAK 4054E",
+        "name": "Digital Control System Design"
+       },
+       {
+        "code": "MAK 4066E",
+        "name": "Vehicle Chassis and Body Design"
+       },
+       {
+        "code": "MAK 4069E",
+        "name": "Thermal Env Engineering"
+       },
+       {
+        "code": "MAK 4001E",
+        "name": "Heat&MassTrn.inMin.&Mic.SclSys"
+       },
+       {
+        "code": "MAK 4016E",
+        "name": "Hydraulic Machinery"
+       },
+       {
+        "code": "MAK 4030E",
+        "name": "Advanced Topics in Mechanical Design"
+       },
+       {
+        "code": "MAK 4033E",
+        "name": "Gas Dynamics"
+       },
+       {
+        "code": "MAK 4035E",
+        "name": "Hydraulic and Pneumatic Circuits"
+       },
+       {
+        "code": "MAK 4038E",
+        "name": "Power Plants"
+       },
+       {
+        "code": "MAK 4045E",
+        "name": "Vehicle Sys.Dynamics & Control"
+       },
+       {
+        "code": "MAK 4048E",
+        "name": "HVAC Systems and Equipment Design"
+       },
+       {
+        "code": "MAK 4060E",
+        "name": "Vibrt. Anlys.byFinite Elm.Mth."
+       },
+       {
+        "code": "MAK 4068E",
+        "name": "Fluid Power Control"
+       },
+       {
+        "code": "END 478E",
+        "name": "Applied Optimization Models"
+       },
+       {
+        "code": "UCK 370E",
+        "name": "Intro to Rotorcraft Systems"
+       },
+       {
+        "code": "UCK 472E",
+        "name": "Aeroelasticity"
+       },
+       {
+        "code": "MAT 381E",
+        "name": "Introduction to Data Science"
+       },
+       {
+        "code": "UCK 435E",
+        "name": "Design of Aerospace Structures"
+       },
+       {
+        "code": "FIZ 461E",
+        "name": "Physics of Sounds"
+       },
+       {
+        "code": "KON 428E",
+        "name": "Intr. to Optimal Control"
+       },
+       {
+        "code": "KON 435E",
+        "name": "Industrial Data Communications"
+       },
+       {
+        "code": "MAT 368E",
+        "name": "Mathematical Modeling"
+       },
+       {
+        "code": "KON 425E",
+        "name": "Process Control"
+       },
+       {
+        "code": "EHB 474E",
+        "name": "Introduction to Optimization"
        },
        {
         "code": "MAK 4080E",
         "name": "Fund. & Appl. of Nanomachines"
        },
        {
+        "code": "UCK 470E",
+        "name": "Jet Eng.Sys.Dsg.with Prac.App."
+       },
+       {
         "code": "MYZ 302E",
         "name": "Artificial Intelligence for Mechanical Engineering"
        },
        {
-        "code": "MYZ 302",
-        "name": "Makina Mühendisliği için Yapay Zeka"
+        "code": "MAK 4012E",
+        "name": "Numerical Analysis of Mechanical Systems"
        }
       ]
      }
@@ -2761,108 +2905,72 @@
       ],
       "options": [
        {
-        "code": "ALM 101",
-        "name": "Almanca I"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
-        "code": "ALM 102",
-        "name": "Almanca II"
+        "code": "ISL 465E",
+        "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ALM 201",
-        "name": "Almanca III"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ALM 202",
-        "name": "Almanca IV"
+        "code": "ING 103H",
+        "name": "Public Presentations"
        },
        {
-        "code": "ALM 301",
-        "name": "Almanca V"
+        "code": "ING 103SC",
+        "name": "Science Communication"
        },
        {
-        "code": "ALM 302",
-        "name": "Almanca VI"
+        "code": "ING 103G",
+        "name": "Business Communications"
        },
        {
-        "code": "ALM 401",
-        "name": "Almanca VII"
+        "code": "ING 103P",
+        "name": "Poetry"
        },
        {
-        "code": "ARB 101",
-        "name": "Arapça I"
-       },
-       {
-        "code": "ARB 102",
-        "name": "Arapça II"
-       },
-       {
-        "code": "CIN 101",
-        "name": "Çince I"
-       },
-       {
-        "code": "CIN 102",
-        "name": "Çince II"
-       },
-       {
-        "code": "CIN 201",
-        "name": "Çince III"
-       },
-       {
-        "code": "FRA 101",
-        "name": "Fransızca I"
-       },
-       {
-        "code": "FRA 102",
-        "name": "Fransızca II"
-       },
-       {
-        "code": "FRA 201",
-        "name": "Fransızca III"
-       },
-       {
-        "code": "FRA 202",
-        "name": "Fransızca IV"
-       },
-       {
-        "code": "FRA 301",
-        "name": "Fransızca V"
-       },
-       {
-        "code": "FRA 302",
-        "name": "Fransızca VI"
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
         "code": "HUK 216",
         "name": "Telekomünikasyon Hukuku"
        },
        {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
+        "code": "ING 103B",
+        "name": "Business English"
        },
        {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
+        "code": "ING 103AD",
+        "name": "Advanced English for Engineers"
+       },
+       {
+        "code": "ING 103O",
+        "name": "Psychology"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
+       },
+       {
+        "code": "ITB 037E",
+        "name": "Knowledge, Language & Logic"
+       },
+       {
+        "code": "ITB 087E",
+        "name": "Media and Society"
+       },
+       {
+        "code": "ITB 094E",
+        "name": "International.Rel.and Globali."
+       },
+       {
+        "code": "ITB 095E",
+        "name": "Technology, Policy and Law"
        },
        {
         "code": "ING 103A",
@@ -2873,36 +2981,12 @@
         "name": "Urban Ecology"
        },
        {
-        "code": "ING 103AD",
-        "name": "Advanced English for Engineers"
-       },
-       {
-        "code": "ING 103B",
-        "name": "Business English"
-       },
-       {
         "code": "ING 103C",
         "name": "Great Moments in Science"
        },
        {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103DD",
-        "name": "Decoding Discourse: Language, Power, and Ideology"
-       },
-       {
-        "code": "ING 103G",
-        "name": "Business Communications"
-       },
-       {
-        "code": "ING 103H",
-        "name": "Public Presentations"
-       },
-       {
-        "code": "ING 103I",
-        "name": "Short Stories"
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
        },
        {
         "code": "ING 103L",
@@ -2913,404 +2997,336 @@
         "name": "Film Studies"
        },
        {
-        "code": "ING 103O",
-        "name": "Psychology"
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
        },
        {
-        "code": "ING 103P",
-        "name": "Poetry"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
-       },
-       {
-        "code": "ISL 465E",
-        "name": "Int.to Entrepreneurship&Innov."
-       },
-       {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
-       },
-       {
-        "code": "ISP 101",
-        "name": "İspanyolca I"
-       },
-       {
-        "code": "ISP 102",
-        "name": "İspanyolca II"
-       },
-       {
-        "code": "ISP 201",
-        "name": "İspanyolca III"
-       },
-       {
-        "code": "ISP 202",
-        "name": "İspanyolca IV"
-       },
-       {
-        "code": "ISP 301",
-        "name": "İspanyolca V"
-       },
-       {
-        "code": "ISP 302",
-        "name": "İspanyolca VI"
-       },
-       {
-        "code": "ITA 101",
-        "name": "İtalyanca I"
-       },
-       {
-        "code": "ITA 102",
-        "name": "İtalyanca II"
-       },
-       {
-        "code": "ITA 201",
-        "name": "İtalyanca III"
-       },
-       {
-        "code": "ITA 202",
-        "name": "İtalyanca IV"
-       },
-       {
-        "code": "ITA 301",
-        "name": "İtalyanca V"
-       },
-       {
-        "code": "ITB 020",
-        "name": "Modernitenin Oluşumu"
+        "code": "HUK 218E",
+        "name": "Commercial Law"
        },
        {
         "code": "ITB 020E",
         "name": "Formations of Modernity"
        },
        {
-        "code": "ITB 037",
-        "name": "Bilgi, Dil ve Mantık"
-       },
-       {
-        "code": "ITB 037E",
-        "name": "Knowledge, Language & Logic"
-       },
-       {
-        "code": "ITB 087",
-        "name": "Medya ve Toplum"
-       },
-       {
-        "code": "ITB 087E",
-        "name": "Media and Society"
-       },
-       {
-        "code": "ITB 094",
-        "name": "Uluslararası İlişkilerve Küreselleşme"
-       },
-       {
-        "code": "ITB 094E",
-        "name": "International.Rel.and Globali."
-       },
-       {
-        "code": "ITB 095",
-        "name": "Teknoloji, Politika ve Hukuk"
-       },
-       {
-        "code": "ITB 095E",
-        "name": "Technology, Policy and Law"
-       },
-       {
-        "code": "ITB 143",
-        "name": "Durrel ve Said:Oryanta.Uyg ve"
-       },
-       {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
-       },
-       {
-        "code": "ITB 151",
-        "name": "İnsan Kaynakları Yönetimi"
-       },
-       {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
-       },
-       {
-        "code": "ITB 171",
-        "name": "Bilim, Teknoloji ve Toplum"
-       },
-       {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179",
-        "name": "İçiçe Ayr.Ede.:Vizyone,Seyf.,A"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201",
-        "name": "İnsan ve Topl. Bilim. Giriş"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 202",
-        "name": "Dünya Tarihi"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 203",
-        "name": "Sosyoloji"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204",
-        "name": "Siyaset Bilimi"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205",
-        "name": "Felsefe"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
-       },
-       {
-        "code": "ITB 206",
-        "name": "Dünya Politikasında Meseleler"
-       },
-       {
-        "code": "ITB 206E",
-        "name": "Issues in World Politics"
-       },
-       {
-        "code": "ITB 207",
-        "name": "Osmanlı Tarihi"
-       },
-       {
-        "code": "ITB 207E",
-        "name": "Ottoman History"
-       },
-       {
-        "code": "ITB 208",
-        "name": "Modern Türkiye'nin Oluşumu"
-       },
-       {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
-        "code": "ITB 209",
-        "name": "Türkiye ve Dünya"
-       },
-       {
-        "code": "ITB 209E",
-        "name": "Türkiye in World Affairs"
-       },
-       {
-        "code": "ITB 211E",
-        "name": "Istanbul:Hist.,Art and Society"
        },
        {
         "code": "ITB 212E",
         "name": "Art,Culture and Society"
        },
        {
-        "code": "ITB 213",
-        "name": "Edebiyat ve Toplum"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
-        "code": "ITB 213E",
-        "name": "Toplics in Literature and Society"
+        "code": "ITB 206E",
+        "name": "Issues in World Politics"
        },
        {
-        "code": "ITB 214",
-        "name": "Modern Ortadoğu"
+        "code": "ITB 207E",
+        "name": "Ottoman History"
        },
        {
-        "code": "ITB 214E",
-        "name": "The Modern Middle East"
-       },
-       {
-        "code": "ITB 215",
-        "name": "Tarih ve Toplum"
-       },
-       {
-        "code": "ITB 215E",
-        "name": "Topics in Hist.and Society"
-       },
-       {
-        "code": "ITB 216",
-        "name": "Ekonomi ve Toplum"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
-       },
-       {
-        "code": "ITB 217",
-        "name": "Mühendislik Etiği"
+        "code": "ITB 209E",
+        "name": "Türkiye in World Affairs"
        },
        {
         "code": "ITB 217E",
         "name": "Engineering Ethics"
        },
        {
-        "code": "ITB 218",
-        "name": "Bilim ve Teknoloji Tarihi"
+        "code": "ITB 233E",
+        "name": "Anthropology"
        },
        {
-        "code": "ITB 218E",
-        "name": "History of Science&Technology"
+        "code": "ITB 203E",
+        "name": "Sociology"
        },
        {
-        "code": "ITB 219",
-        "name": "Etik"
-       },
-       {
-        "code": "ITB 220",
-        "name": "Psikoloji"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 221",
-        "name": "Anadolu Arkeolojisi"
-       },
-       {
-        "code": "ITB 221E",
-        "name": "Anatolian Archaeology"
-       },
-       {
-        "code": "ITB 222",
-        "name": "Kent ve Toplum"
-       },
-       {
-        "code": "ITB 222E",
-        "name": "City and Society"
-       },
-       {
-        "code": "ITB 224",
-        "name": "Çevre ve Toplum"
-       },
-       {
-        "code": "ITB 224E",
-        "name": "Environment and Society"
-       },
-       {
-        "code": "ITB 225E",
-        "name": "Intercultural Citizenship Education"
-       },
-       {
-        "code": "ITB 226",
-        "name": "Philosophy of Art"
-       },
-       {
-        "code": "ITB 227",
-        "name": "Siyaset Teorisi"
-       },
-       {
-        "code": "ITB 227E",
-        "name": "Political Theory"
-       },
-       {
-        "code": "ITB 228",
-        "name": "Toplumsal Cinsiyet Çalışmaları"
-       },
-       {
-        "code": "ITB 228E",
-        "name": "Gender Studies"
-       },
-       {
-        "code": "ITB 230",
-        "name": "Afet Bilinci"
-       },
-       {
-        "code": "ITB 231",
-        "name": "Gönüllülük Çalışmaları"
+        "code": "ITB 230E",
+        "name": "Disaster Awareness"
        },
        {
         "code": "ITB 231E",
         "name": "Volunteering Studies"
        },
        {
-        "code": "ITB 233",
-        "name": "Antropoloji"
+        "code": "ITB 234E",
+        "name": "The Rise of Civilizations"
        },
        {
-        "code": "ITB 234",
-        "name": "Medeniyetlerin Doğuşu"
+        "code": "ITB 213E",
+        "name": "Toplics in Literature and Society"
+       },
+       {
+        "code": "ITB 219E",
+        "name": "Ethics"
+       },
+       {
+        "code": "ING 103I",
+        "name": "Short Stories"
+       },
+       {
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "ITB 214E",
+        "name": "The Modern Middle East"
+       },
+       {
+        "code": "ITB 215E",
+        "name": "Topics in Hist.and Society"
+       },
+       {
+        "code": "ITB 226E",
+        "name": "Philosophy of Art"
+       },
+       {
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
+       },
+       {
+        "code": "ITB 222E",
+        "name": "City and Society"
+       },
+       {
+        "code": "ITB 224E",
+        "name": "Environment and Society"
+       },
+       {
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
+       },
+       {
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
+       },
+       {
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
+        "code": "ITB 227E",
+        "name": "Political Theory"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "I"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "III"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "IV"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "VI"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "I"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "I"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "V"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "III"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "III"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "V"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "III"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "IV"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "V"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "III"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "III"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "V"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "II"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "II"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "II"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "IV"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VII"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "I"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "III"
+       },
+       {
+        "code": "ARB 101",
+        "name": "Arapça I"
+       },
+       {
+        "code": "ARB 102",
+        "name": "Arapça II"
+       },
+       {
+        "code": "ITB 225E",
+        "name": "Intercultural Citizenship Education"
        },
        {
         "code": "ITB 235E",
         "name": "Türkiye and EuropeanUnion"
        },
        {
-        "code": "ITB 235",
-        "name": "Türkiye ve Avrupa Birliği"
+        "code": "RUS Rusça",
+        "name": "IV"
+       },
+       {
+        "code": "ING 103DD",
+        "name": "Decoding Discourse: Language, Power, and Ideology"
        },
        {
         "code": "ITB 236",
         "name": "Türk Müziği Tarihi"
        },
        {
-        "code": "JPN 101",
-        "name": "Japonca I"
+        "code": "KOR Korece",
+        "name": "I"
        },
        {
-        "code": "JPN 102",
-        "name": "Japonca II"
-       },
-       {
-        "code": "JPN 201",
-        "name": "Japonca III"
-       },
-       {
-        "code": "JPN 202",
-        "name": "Japonca IV"
-       },
-       {
-        "code": "KOR 101",
-        "name": "Korece I"
-       },
-       {
-        "code": "KOR 102",
-        "name": "Korece II"
-       },
-       {
-        "code": "RUS 101",
-        "name": "Rusça I"
-       },
-       {
-        "code": "RUS 102",
-        "name": "Rusça II"
-       },
-       {
-        "code": "RUS 201",
-        "name": "Rusça III"
-       },
-       {
-        "code": "RUS 202",
-        "name": "Rusça IV"
+        "code": "KOR Korece",
+        "name": "II"
        }
       ]
      }

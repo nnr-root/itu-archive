@@ -424,120 +424,68 @@
       ],
       "options": [
        {
-        "code": "ALM 101",
-        "name": "Almanca I"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ALM 102",
-        "name": "Almanca II"
+        "code": "ING 103H",
+        "name": "Public Presentations"
        },
        {
-        "code": "ALM 201",
-        "name": "Almanca III"
+        "code": "ING 103SC",
+        "name": "Science Communication"
        },
        {
-        "code": "ALM 202",
-        "name": "Almanca IV"
+        "code": "ING 103G",
+        "name": "Business Communications"
        },
        {
-        "code": "ALM 301",
-        "name": "Almanca V"
+        "code": "ING 103P",
+        "name": "Poetry"
        },
        {
-        "code": "ALM 302",
-        "name": "Almanca VI"
-       },
-       {
-        "code": "ALM 401",
-        "name": "Almanca VII"
-       },
-       {
-        "code": "ARB 101",
-        "name": "Arapça I"
-       },
-       {
-        "code": "ARB 102",
-        "name": "Arapça II"
-       },
-       {
-        "code": "BEB 120",
-        "name": "Spor ve Temel Bilimler"
-       },
-       {
-        "code": "BEB 121",
-        "name": "Spor ve Teknoloji"
-       },
-       {
-        "code": "CIN 101",
-        "name": "Çince I"
-       },
-       {
-        "code": "CIN 102",
-        "name": "Çince II"
-       },
-       {
-        "code": "CIN 201",
-        "name": "Çince III"
-       },
-       {
-        "code": "FRA 101",
-        "name": "Fransızca I"
-       },
-       {
-        "code": "FRA 102",
-        "name": "Fransızca II"
-       },
-       {
-        "code": "FRA 201",
-        "name": "Fransızca III"
-       },
-       {
-        "code": "FRA 202",
-        "name": "Fransızca IV"
-       },
-       {
-        "code": "FRA 301",
-        "name": "Fransızca V"
-       },
-       {
-        "code": "FRA 302",
-        "name": "Fransızca VI"
-       },
-       {
-        "code": "HUK 201",
-        "name": "İş Hukuku"
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
         "code": "HUK 216",
         "name": "Telekomünikasyon Hukuku"
        },
        {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
+        "code": "ING 103B",
+        "name": "Business English"
        },
        {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
+        "code": "HUK 201E",
+        "name": "Labor Law"
+       },
+       {
+        "code": "ING 103AD",
+        "name": "Advanced English for Engineers"
+       },
+       {
+        "code": "ING 103O",
+        "name": "Psychology"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
+       },
+       {
+        "code": "ITB 011",
+        "name": "Bilgi Kuramları"
+       },
+       {
+        "code": "ITB 012E",
+        "name": "The Administrative Structure of Turkish Republic"
+       },
+       {
+        "code": "ITB 087E",
+        "name": "Media and Society"
+       },
+       {
+        "code": "ITB 094E",
+        "name": "International.Rel.and Globali."
        },
        {
         "code": "ING 103A",
@@ -548,36 +496,12 @@
         "name": "Urban Ecology"
        },
        {
-        "code": "ING 103AD",
-        "name": "Advanced English for Engineers"
-       },
-       {
-        "code": "ING 103B",
-        "name": "Business English"
-       },
-       {
         "code": "ING 103C",
         "name": "Great Moments in Science"
        },
        {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103DD",
-        "name": "Decoding Discourse: Language, Power, and Ideology"
-       },
-       {
-        "code": "ING 103G",
-        "name": "Business Communications"
-       },
-       {
-        "code": "ING 103H",
-        "name": "Public Presentations"
-       },
-       {
-        "code": "ING 103I",
-        "name": "Short Stories"
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
        },
        {
         "code": "ING 103L",
@@ -588,120 +512,20 @@
         "name": "Film Studies"
        },
        {
-        "code": "ING 103O",
-        "name": "Psychology"
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
        },
        {
-        "code": "ING 103P",
-        "name": "Poetry"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
-       },
-       {
-        "code": "ISP 101",
-        "name": "İspanyolca I"
-       },
-       {
-        "code": "ISP 102",
-        "name": "İspanyolca II"
-       },
-       {
-        "code": "ISP 201",
-        "name": "İspanyolca III"
-       },
-       {
-        "code": "ISP 202",
-        "name": "İspanyolca IV"
-       },
-       {
-        "code": "ISP 301",
-        "name": "İspanyolca V"
-       },
-       {
-        "code": "ISP 302",
-        "name": "İspanyolca VI"
-       },
-       {
-        "code": "ITA 101",
-        "name": "İtalyanca I"
-       },
-       {
-        "code": "ITA 102",
-        "name": "İtalyanca II"
-       },
-       {
-        "code": "ITA 201",
-        "name": "İtalyanca III"
-       },
-       {
-        "code": "ITA 202",
-        "name": "İtalyanca IV"
-       },
-       {
-        "code": "ITA 301",
-        "name": "İtalyanca V"
-       },
-       {
-        "code": "ITB 011",
-        "name": "Bilgi Kuramları"
-       },
-       {
-        "code": "ITB 012",
-        "name": "TC'nin Yönetim Yapısı"
+        "code": "HUK 218E",
+        "name": "Commercial Law"
        },
        {
         "code": "ITB 026",
         "name": "Türkiye'de MdnTarihi & Sys Akm"
        },
        {
-        "code": "ITB 027E",
-        "name": "Estr/Invl in 5 Works by Campus"
-       },
-       {
-        "code": "ITB 075",
-        "name": "Seçmeli Fransızca"
-       },
-       {
-        "code": "ITB 076",
-        "name": "Sanatın Sosyal Tarihi"
-       },
-       {
-        "code": "ITB 085",
-        "name": "Sinema Tarihi ve Estetiği"
-       },
-       {
-        "code": "ITB 086",
-        "name": "Osm İmparatorluğu'nda Altyapı"
-       },
-       {
-        "code": "ITB 087",
-        "name": "Medya ve Toplum"
-       },
-       {
-        "code": "ITB 087E",
-        "name": "Media and Society"
-       },
-       {
-        "code": "ITB 093",
-        "name": "Modern Türkiye'nin Temelleri"
-       },
-       {
-        "code": "ITB 094",
-        "name": "Uluslararası İlişkilerve Küreselleşme"
-       },
-       {
-        "code": "ITB 142",
-        "name": "Uygulamalı Etik"
-       },
-       {
-        "code": "ITB 143",
-        "name": "Durrel ve Said:Oryanta.Uyg ve"
+        "code": "ITB 086E",
+        "name": "The Infrastructure of the Ottoman Empire"
        },
        {
         "code": "ITB 157",
@@ -712,428 +536,480 @@
         "name": "Kontr ve Otoms Sist Tarihçesi"
        },
        {
-        "code": "ITB 167E",
-        "name": "The Birth&Devl Modern City"
-       },
-       {
-        "code": "ITB 167E",
-        "name": "The Birth&Devl Modern City"
-       },
-       {
-        "code": "ITB 168E",
-        "name": "Philosophy of Technology"
-       },
-       {
-        "code": "ITB 168E",
-        "name": "Philosophy of Technology"
-       },
-       {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 172E",
-        "name": "The Historian in the Cinema"
-       },
-       {
-        "code": "ITB 172E",
-        "name": "The Historian in the Cinema"
-       },
-       {
-        "code": "ITB 173E",
-        "name": "Frege Found. of Arithmetic"
-       },
-       {
         "code": "ITB 175",
         "name": "Küreselleşme ve Kent"
-       },
-       {
-        "code": "ITB 176",
-        "name": "Türkiye'de Toplumsal Hafıza"
-       },
-       {
-        "code": "ITB 177",
-        "name": "19.yy İstanbul'unda Tic. ve Mi"
-       },
-       {
-        "code": "ITB 178E",
-        "name": "Democracy&Modern Media:Int.Per"
-       },
-       {
-        "code": "ITB 179",
-        "name": "İçiçe Ayr.Ede.:Vizyone,Seyf.,A"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201",
-        "name": "İnsan ve Topl. Bilim. Giriş"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 202",
-        "name": "Dünya Tarihi"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 203",
-        "name": "Sosyoloji"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204",
-        "name": "Siyaset Bilimi"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 206",
-        "name": "Dünya Politikasında Meseleler"
-       },
-       {
-        "code": "ITB 206E",
-        "name": "Issues in World Politics"
-       },
-       {
-        "code": "ITB 207",
-        "name": "Osmanlı Tarihi"
-       },
-       {
-        "code": "ITB 207E",
-        "name": "Ottoman History"
-       },
-       {
-        "code": "ITB 208",
-        "name": "Modern Türkiye'nin Oluşumu"
-       },
-       {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
-        "code": "ITB 209",
-        "name": "Türkiye ve Dünya"
-       },
-       {
-        "code": "ITB 209E",
-        "name": "Türkiye in World Affairs"
-       },
-       {
-        "code": "ITB 210",
-        "name": "City,Environment & Society"
-       },
-       {
-        "code": "ITB 210E",
-        "name": "City,Environment & Society"
-       },
-       {
-        "code": "ITB 211E",
-        "name": "Istanbul:Hist.,Art and Society"
        },
        {
         "code": "ITB 212E",
         "name": "Art,Culture and Society"
        },
        {
-        "code": "ITB 213",
-        "name": "Edebiyat ve Toplum"
+        "code": "ITB 085",
+        "name": "Sinema Tarihi ve Estetiği"
        },
        {
-        "code": "ITB 213E",
-        "name": "Toplics in Literature and Society"
+        "code": "ITB 206E",
+        "name": "Issues in World Politics"
        },
        {
-        "code": "ITB 214",
-        "name": "Modern Ortadoğu"
+        "code": "ITB 207E",
+        "name": "Ottoman History"
        },
        {
-        "code": "ITB 214E",
-        "name": "The Modern Middle East"
-       },
-       {
-        "code": "ITB 215",
-        "name": "Tarih ve Toplum"
-       },
-       {
-        "code": "ITB 215E",
-        "name": "Topics in Hist.and Society"
-       },
-       {
-        "code": "ITB 216",
-        "name": "Ekonomi ve Toplum"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
-       },
-       {
-        "code": "ITB 217",
-        "name": "Mühendislik Etiği"
+        "code": "ITB 209E",
+        "name": "Türkiye in World Affairs"
        },
        {
         "code": "ITB 217E",
         "name": "Engineering Ethics"
        },
        {
-        "code": "ITB 218",
-        "name": "Bilim ve Teknoloji Tarihi"
+        "code": "ITB 233E",
+        "name": "Anthropology"
        },
        {
-        "code": "ITB 218E",
-        "name": "History of Science&Technology"
+        "code": "ITB 142E",
+        "name": "Applied Ethics"
        },
        {
-        "code": "ITB 219",
-        "name": "Etik"
+        "code": "ITB 168E",
+        "name": "Philosophy of Technology"
        },
        {
-        "code": "ITB 219E",
-        "name": "Ethics"
+        "code": "ITB 176",
+        "name": "Türkiye'de Toplumsal Hafıza"
        },
        {
-        "code": "ITB 220",
-        "name": "Psikoloji"
+        "code": "ITB 178E",
+        "name": "Democracy&Modern Media:Int.Per"
        },
        {
-        "code": "ITB 220E",
-        "name": "Psychology"
+        "code": "ITB 203E",
+        "name": "Sociology"
        },
        {
-        "code": "ITB 221",
-        "name": "Anadolu Arkeolojisi"
-       },
-       {
-        "code": "ITB 222",
-        "name": "Kent ve Toplum"
-       },
-       {
-        "code": "ITB 225E",
-        "name": "Intercultural Citizenship Education"
-       },
-       {
-        "code": "ITB 231",
-        "name": "Gönüllülük Çalışmaları"
+        "code": "ITB 210E",
+        "name": "City,Environment & Society"
        },
        {
         "code": "ITB 231E",
         "name": "Volunteering Studies"
        },
        {
-        "code": "ITB 233E",
-        "name": "Anthropology"
+        "code": "ITB 213E",
+        "name": "Toplics in Literature and Society"
        },
        {
-        "code": "ITB 235E",
-        "name": "Türkiye and EuropeanUnion"
+        "code": "ITB 219E",
+        "name": "Ethics"
        },
        {
-        "code": "ITB 235",
-        "name": "Türkiye ve Avrupa Birliği"
+        "code": "ING 103I",
+        "name": "Short Stories"
        },
        {
-        "code": "ITB 236",
-        "name": "Türk Müziği Tarihi"
+        "code": "ITB 172E",
+        "name": "The Historian in the Cinema"
        },
        {
-        "code": "JPN 101",
-        "name": "Japonca I"
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
        },
        {
-        "code": "JPN 102",
-        "name": "Japonca II"
+        "code": "ITB 202E",
+        "name": "World History"
        },
        {
-        "code": "JPN 201",
-        "name": "Japonca III"
+        "code": "ITB 211E",
+        "name": "Istanbul:Hist.,Art and Society"
        },
        {
-        "code": "JPN 202",
-        "name": "Japonca IV"
+        "code": "ITB 214E",
+        "name": "The Modern Middle East"
        },
        {
-        "code": "KOR 101",
-        "name": "Korece I"
+        "code": "ITB 215E",
+        "name": "Topics in Hist.and Society"
        },
        {
-        "code": "KOR 102",
-        "name": "Korece II"
+        "code": "ITB 075",
+        "name": "Seçmeli Fransızca"
        },
        {
-        "code": "RUS 101",
-        "name": "Rusça I"
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
        },
        {
-        "code": "RUS 102",
-        "name": "Rusça II"
+        "code": "ITB 222E",
+        "name": "City and Society"
        },
        {
-        "code": "RUS 201",
-        "name": "Rusça III"
+        "code": "ITB 027E",
+        "name": "Estr/Invl in 5 Works by Campus"
        },
        {
-        "code": "RUS 202",
-        "name": "Rusça IV"
+        "code": "ITB 076",
+        "name": "Sanatın Sosyal Tarihi"
        },
        {
-        "code": "SNT 101",
-        "name": "Heykel Sanatına Bakış"
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
        },
        {
-        "code": "SNT 102E",
-        "name": "Photography"
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
        },
        {
-        "code": "SNT 102",
-        "name": "Fotoğraf"
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 093",
+        "name": "Modern Türkiye'nin Temelleri"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 167E",
+        "name": "The Birth&Devl Modern City"
+       },
+       {
+        "code": "ITB 173E",
+        "name": "Frege Found. of Arithmetic"
+       },
+       {
+        "code": "ITB 177",
+        "name": "19.yy İstanbul'unda Tic. ve Mi"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
+        "code": "SNT 105E",
+        "name": "Film Art"
+       },
+       {
+        "code": "SNT 101E",
+        "name": "Looking at the Art of Sculpture"
+       },
+       {
+        "code": "SNT 106E",
+        "name": "Traditional Turkish Art&Crafts"
        },
        {
         "code": "SNT 103E",
         "name": "Drawing"
        },
        {
-        "code": "SNT 103",
-        "name": "Desen"
-       },
-       {
-        "code": "SNT 104E",
-        "name": "Mythology and Art"
-       },
-       {
-        "code": "SNT 104",
-        "name": "Mitoloji ve Sanat"
-       },
-       {
-        "code": "SNT 105",
-        "name": "Sinema Sanatı"
-       },
-       {
-        "code": "SNT 106",
-        "name": "Geleneks. Türk El Sanatları"
-       },
-       {
-        "code": "SNT 107",
-        "name": "İlkçağ Anadolu Uygarlıkları"
-       },
-       {
-        "code": "SNT 108",
-        "name": "Seramik"
+        "code": "SNT 108E",
+        "name": "Ceramic"
        },
        {
         "code": "SNT 109",
         "name": "Kazı Resim (Gravür)"
        },
        {
-        "code": "SNT 111",
-        "name": "Moda Tasarımı ve Sanat"
+        "code": "SNT 114E",
+        "name": "Contemporary Art"
        },
        {
-        "code": "SNT 112",
-        "name": "Tiyatro"
+        "code": "SNT 119E",
+        "name": "History of Popular Music"
        },
        {
-        "code": "SNT 112E",
-        "name": "Theater"
+        "code": "SNT 226E",
+        "name": "Philosophy of Art"
        },
        {
-        "code": "SNT 113",
-        "name": "Sanat ve Yorum"
-       },
-       {
-        "code": "SNT 114",
-        "name": "Günümüz Sanatı"
-       },
-       {
-        "code": "SNT 115",
-        "name": "Modernite ve Görsel Kültür"
-       },
-       {
-        "code": "SNT 116",
-        "name": "İletişim Sanatı"
-       },
-       {
-        "code": "SNT 116E",
-        "name": "The Art of Communication"
-       },
-       {
-        "code": "SNT 117E",
-        "name": "Jazz Appreciation"
-       },
-       {
-        "code": "SNT 118",
-        "name": "Müzik Arkeolojisi"
-       },
-       {
-        "code": "SNT 119",
-        "name": "Popüler Müzik Tarihi"
-       },
-       {
-        "code": "SNT 121E",
-        "name": "World Music Cultures"
+        "code": "SNT 115E",
+        "name": "Modernity and Visual Culture"
        },
        {
         "code": "SNT 122",
         "name": "Seramik Sanatı"
        },
        {
-        "code": "SNT 123",
-        "name": "Film Yapımı"
-       },
-       {
-        "code": "SNT 123E",
-        "name": "Film Production"
-       },
-       {
-        "code": "SNT 211",
-        "name": "İstanbul:Tarih,Sanat ve Toplum"
-       },
-       {
-        "code": "SNT 212",
-        "name": "Sanat,Kültür ve Toplum"
-       },
-       {
-        "code": "SNT 213",
-        "name": "Türkiye Müzik Kültürleri"
-       },
-       {
-        "code": "SNT 214",
-        "name": "Performans, Müzik ve Dans"
-       },
-       {
-        "code": "SNT 215E",
-        "name": "Balkan Musics"
-       },
-       {
-        "code": "SNT 226",
-        "name": "Sanat Felsefesi"
+        "code": "SNT 214E",
+        "name": "Performance, Music and Dance"
        },
        {
         "code": "SNT 227E",
         "name": "Sound and Society"
        },
        {
+        "code": "SNT 112E",
+        "name": "Theater"
+       },
+       {
+        "code": "SNT 116E",
+        "name": "The Art of Communication"
+       },
+       {
+        "code": "SNT 111",
+        "name": "Moda Tasarımı ve Sanat"
+       },
+       {
+        "code": "SNT 212E",
+        "name": "Art,Culture and Society"
+       },
+       {
+        "code": "SNT 213",
+        "name": "Türkiye Müzik Kültürleri"
+       },
+       {
+        "code": "SNT 104E",
+        "name": "Mythology and Art"
+       },
+       {
+        "code": "SNT 107E",
+        "name": "Ancient Civilizat.in Anatolia"
+       },
+       {
+        "code": "SNT 118",
+        "name": "Müzik Arkeolojisi"
+       },
+       {
+        "code": "SNT 123E",
+        "name": "Film Production"
+       },
+       {
+        "code": "SNT 113E",
+        "name": "Art and Interpretation"
+       },
+       {
+        "code": "SNT 102E",
+        "name": "Photography"
+       },
+       {
+        "code": "SNT 117E",
+        "name": "Jazz Appreciation"
+       },
+       {
+        "code": "SNT 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "SNT 215E",
+        "name": "Balkan Musics"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "I"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "III"
+       },
+       {
+        "code": "BEB 121",
+        "name": "Spor ve Teknoloji"
+       },
+       {
+        "code": "BEB 120",
+        "name": "Spor ve Temel Bilimler"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "IV"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "VI"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "I"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "I"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "V"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "III"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "III"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "V"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "III"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "IV"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "V"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "III"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "III"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "V"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "II"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "II"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "II"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "IV"
+       },
+       {
+        "code": "SNT 121E",
+        "name": "World Music Cultures"
+       },
+       {
         "code": "SNT 228",
         "name": "Müzik ve Politika"
        },
        {
+        "code": "ALM Almanca",
+        "name": "VII"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "I"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "III"
+       },
+       {
+        "code": "ARB 101",
+        "name": "Arapça I"
+       },
+       {
+        "code": "ARB 102",
+        "name": "Arapça II"
+       },
+       {
+        "code": "ITB 225E",
+        "name": "Intercultural Citizenship Education"
+       },
+       {
+        "code": "ITB 235E",
+        "name": "Türkiye and EuropeanUnion"
+       },
+       {
         "code": "SNT 229",
         "name": "Türkiye'de Popüler Müzik Tarihinden İzlekler"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "IV"
+       },
+       {
+        "code": "ING 103DD",
+        "name": "Decoding Discourse: Language, Power, and Ideology"
+       },
+       {
+        "code": "ITB 236",
+        "name": "Türk Müziği Tarihi"
+       },
+       {
+        "code": "KOR Korece",
+        "name": "I"
+       },
+       {
+        "code": "KOR Korece",
+        "name": "II"
        }
       ]
      }
@@ -1319,6 +1195,14 @@
       ],
       "options": [
        {
+        "code": "GEM 427E",
+        "name": "Engine Room Design Principles"
+       },
+       {
+        "code": "GEM 445E",
+        "name": "Marine Piping Systems"
+       },
+       {
         "code": "DEN 351",
         "name": "Sörvey ve Sertifikasyon Süreçlerine Giriş"
        },
@@ -1335,24 +1219,16 @@
         "name": "Maritime Law and Marine Insurance in Classification Activities"
        },
        {
-        "code": "DEN 460",
-        "name": "Sörv.Faal.Ulus.&Ulusl.Kur.&Dü."
+        "code": "DEN 460E",
+        "name": "National and International Rules, Regulations in Survey Activities"
        },
        {
         "code": "GEM 419",
         "name": "Gemilerin Yapısal Dizaynı"
        },
        {
-        "code": "GEM 427",
-        "name": "Makina Dairesi Dizayn Prensipl"
-       },
-       {
-        "code": "GEM 445",
-        "name": "Gemi Boru Donanımları"
-       },
-       {
-        "code": "GEM 473",
-        "name": "Denizaltı Tasarımının Temelleri"
+        "code": "GEM 473E",
+        "name": "Fundamentals of Submarine Design"
        }
       ]
      }
@@ -1367,6 +1243,18 @@
       ],
       "options": [
        {
+        "code": "GEM 423E",
+        "name": "Advanced Propulsion Systems"
+       },
+       {
+        "code": "GEM 425E",
+        "name": "Finite Elem.Anl.of MarineStrc."
+       },
+       {
+        "code": "GEM 436E",
+        "name": "Refrigeration Syst For Ships"
+       },
+       {
         "code": "DEN 351",
         "name": "Sörvey ve Sertifikasyon Süreçlerine Giriş"
        },
@@ -1383,20 +1271,8 @@
         "name": "Maritime Law and Marine Insurance in Classification Activities"
        },
        {
-        "code": "DEN 460",
-        "name": "Sörv.Faal.Ulus.&Ulusl.Kur.&Dü."
-       },
-       {
-        "code": "GEM 423E",
-        "name": "Advanced Propulsion Systems"
-       },
-       {
-        "code": "GEM 425E",
-        "name": "Finite Elem.Anl.of MarineStrc."
-       },
-       {
-        "code": "GEM 436E",
-        "name": "Refrigeration Syst For Ships"
+        "code": "DEN 460E",
+        "name": "National and International Rules, Regulations in Survey Activities"
        },
        {
         "code": "GEM 451E",
@@ -1480,6 +1356,30 @@
       ],
       "options": [
        {
+        "code": "GEM 482E",
+        "name": "Individual Graduation Project"
+       },
+       {
+        "code": "GEM 418E",
+        "name": "Corrsn & Fouling In Marine Env"
+       },
+       {
+        "code": "GEM 424E",
+        "name": "Reliability Of Ship Structures"
+       },
+       {
+        "code": "GEM 426E",
+        "name": "Hydrodynamic Design of Ships"
+       },
+       {
+        "code": "GEM 447E",
+        "name": "Vent & Air Cond Sys For Ships"
+       },
+       {
+        "code": "GEM 438E",
+        "name": "Stability of Ships"
+       },
+       {
         "code": "DEN 351",
         "name": "Sörvey ve Sertifikasyon Süreçlerine Giriş"
        },
@@ -1496,32 +1396,8 @@
         "name": "Maritime Law and Marine Insurance in Classification Activities"
        },
        {
-        "code": "DEN 460",
-        "name": "Sörv.Faal.Ulus.&Ulusl.Kur.&Dü."
-       },
-       {
-        "code": "GEM 418E",
-        "name": "Corrsn & Fouling In Marine Env"
-       },
-       {
-        "code": "GEM 424E",
-        "name": "Reliability Of Ship Structures"
-       },
-       {
-        "code": "GEM 426E",
-        "name": "Hydrodynamic Design of Ships"
-       },
-       {
-        "code": "GEM 438E",
-        "name": "Stability of Ships"
-       },
-       {
-        "code": "GEM 447E",
-        "name": "Vent & Air Cond Sys For Ships"
-       },
-       {
-        "code": "GEM 482E",
-        "name": "Individual Graduation Project"
+        "code": "DEN 460E",
+        "name": "National and International Rules, Regulations in Survey Activities"
        },
        {
         "code": "GEM 484E",
@@ -1540,6 +1416,22 @@
       ],
       "options": [
        {
+        "code": "GEM 482E",
+        "name": "Individual Graduation Project"
+       },
+       {
+        "code": "GEM 426E",
+        "name": "Hydrodynamic Design of Ships"
+       },
+       {
+        "code": "GEM 416E",
+        "name": "Warship Design"
+       },
+       {
+        "code": "GEM 434E",
+        "name": "Thermal Optimization of Marine Power Plants"
+       },
+       {
         "code": "DEN 351",
         "name": "Sörvey ve Sertifikasyon Süreçlerine Giriş"
        },
@@ -1556,28 +1448,12 @@
         "name": "Maritime Law and Marine Insurance in Classification Activities"
        },
        {
-        "code": "DEN 460",
-        "name": "Sörv.Faal.Ulus.&Ulusl.Kur.&Dü."
+        "code": "DEN 460E",
+        "name": "National and International Rules, Regulations in Survey Activities"
        },
        {
-        "code": "GEM 416",
-        "name": "Savaş Gemileri Dizaynı"
-       },
-       {
-        "code": "GEM 426",
-        "name": "Gemilerin Hidrodinamik Dizaynı"
-       },
-       {
-        "code": "GEM 434",
-        "name": "Gem Güç Üretim Sstm Isıl Opt."
-       },
-       {
-        "code": "GEM 474",
-        "name": "Deniz Araçları Sualtı Akustiği"
-       },
-       {
-        "code": "GEM 482",
-        "name": "Bireysel Bitirme Projesi"
+        "code": "GEM 474E",
+        "name": "Underwater Acoustics of Marine Vehicles"
        }
       ]
      }

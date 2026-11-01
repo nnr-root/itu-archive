@@ -355,20 +355,20 @@
       ],
       "options": [
        {
-        "code": "DFH 211E",
-        "name": "Rowing and Canoe-Kayak Sports"
-       },
-       {
-        "code": "DFH 225E",
-        "name": "Turkish Maritime History and Culture"
-       },
-       {
         "code": "DFH 251E",
         "name": "General English I"
        },
        {
         "code": "DFH 261E",
         "name": "Sailing"
+       },
+       {
+        "code": "DFH 211E",
+        "name": "Rowing and Canoe-Kayak Sports"
+       },
+       {
+        "code": "DFH 225E",
+        "name": "Turkish Maritime History and Culture"
        }
       ]
      }
@@ -383,16 +383,16 @@
       ],
       "options": [
        {
+        "code": "MAL 203E",
+        "name": "Material Science"
+       },
+       {
         "code": "DFH 231E",
         "name": "Transportation Systems"
        },
        {
         "code": "DFH 241E",
         "name": "Marine Environment Protection"
-       },
-       {
-        "code": "MAL 203E",
-        "name": "Material Science"
        }
       ]
      }
@@ -529,16 +529,16 @@
         "name": "Human Resources Management in Maritime"
        },
        {
-        "code": "DFH 224E",
-        "name": "Economic Geography"
+        "code": "DFH 242E",
+        "name": "General English-II"
        },
        {
         "code": "DFH 232E",
         "name": "Business Logistics"
        },
        {
-        "code": "DFH 242E",
-        "name": "General English-II"
+        "code": "DFH 224E",
+        "name": "Economic Geography"
        }
       ]
      }
@@ -644,12 +644,12 @@
       ],
       "options": [
        {
-        "code": "DFH 341E",
-        "name": "Fluid Mechanics"
-       },
-       {
         "code": "DFH 351E",
         "name": "Shipping Finance"
+       },
+       {
+        "code": "DFH 341E",
+        "name": "Fluid Mechanics"
        },
        {
         "code": "DFH 361E",
@@ -668,12 +668,12 @@
       ],
       "options": [
        {
-        "code": "DFH 321E",
-        "name": "Organizational Management and Behavior in Maritime"
-       },
-       {
         "code": "DFH 331E",
         "name": "International Relations and Maritime Policies"
+       },
+       {
+        "code": "DFH 321E",
+        "name": "Organizational Management and Behavior in Maritime"
        }
       ]
      }
@@ -809,12 +809,12 @@
       ],
       "options": [
        {
-        "code": "DFH 421E",
-        "name": "Seafarer's Health and Safety"
-       },
-       {
         "code": "DFH 431E",
         "name": "Effective Communication"
+       },
+       {
+        "code": "DFH 421E",
+        "name": "Seafarer's Health and Safety"
        },
        {
         "code": "DFH 441E",
@@ -925,12 +925,16 @@
       ],
       "options": [
        {
+        "code": "DFH 422E",
+        "name": "Marine Accidents and Safety Culture"
+       },
+       {
         "code": "DFH 414E",
         "name": "Port Management"
        },
        {
-        "code": "DFH 422E",
-        "name": "Marine Accidents and Safety Culture"
+        "code": "DFH 452E",
+        "name": "Deck Machinery"
        },
        {
         "code": "DFH 432E",
@@ -939,10 +943,6 @@
        {
         "code": "DFH 442E",
         "name": "Cargo Pumps"
-       },
-       {
-        "code": "DFH 452E",
-        "name": "Deck Machinery"
        },
        {
         "code": "DFH 462E",

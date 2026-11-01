@@ -370,100 +370,100 @@
       ],
       "options": [
        {
-        "code": "SNT 101",
-        "name": "Heykel Sanatına Bakış"
+        "code": "SNT 105E",
+        "name": "Film Art"
        },
        {
-        "code": "SNT 102",
-        "name": "Fotoğraf"
+        "code": "SNT 101E",
+        "name": "Looking at the Art of Sculpture"
        },
        {
-        "code": "SNT 103",
-        "name": "Desen"
+        "code": "SNT 106E",
+        "name": "Traditional Turkish Art&Crafts"
        },
        {
-        "code": "SNT 104",
-        "name": "Mitoloji ve Sanat"
+        "code": "SNT 103E",
+        "name": "Drawing"
        },
        {
-        "code": "SNT 105",
-        "name": "Sinema Sanatı"
-       },
-       {
-        "code": "SNT 106",
-        "name": "Geleneks. Türk El Sanatları"
-       },
-       {
-        "code": "SNT 107",
-        "name": "İlkçağ Anadolu Uygarlıkları"
-       },
-       {
-        "code": "SNT 108",
-        "name": "Seramik"
+        "code": "SNT 108E",
+        "name": "Ceramic"
        },
        {
         "code": "SNT 109",
         "name": "Kazı Resim (Gravür)"
        },
        {
-        "code": "SNT 111",
-        "name": "Moda Tasarımı ve Sanat"
+        "code": "SNT 114E",
+        "name": "Contemporary Art"
        },
        {
-        "code": "SNT 112",
-        "name": "Tiyatro"
+        "code": "SNT 119E",
+        "name": "History of Popular Music"
        },
        {
-        "code": "SNT 113",
-        "name": "Sanat ve Yorum"
+        "code": "SNT 226E",
+        "name": "Philosophy of Art"
        },
        {
-        "code": "SNT 114",
-        "name": "Günümüz Sanatı"
-       },
-       {
-        "code": "SNT 115",
-        "name": "Modernite ve Görsel Kültür"
-       },
-       {
-        "code": "SNT 116",
-        "name": "İletişim Sanatı"
-       },
-       {
-        "code": "SNT 118",
-        "name": "Müzik Arkeolojisi"
-       },
-       {
-        "code": "SNT 119",
-        "name": "Popüler Müzik Tarihi"
+        "code": "SNT 115E",
+        "name": "Modernity and Visual Culture"
        },
        {
         "code": "SNT 122",
         "name": "Seramik Sanatı"
        },
        {
-        "code": "SNT 123",
-        "name": "Film Yapımı"
+        "code": "SNT 214E",
+        "name": "Performance, Music and Dance"
        },
        {
-        "code": "SNT 211",
-        "name": "İstanbul:Tarih,Sanat ve Toplum"
+        "code": "SNT 112E",
+        "name": "Theater"
        },
        {
-        "code": "SNT 212",
-        "name": "Sanat,Kültür ve Toplum"
+        "code": "SNT 116E",
+        "name": "The Art of Communication"
+       },
+       {
+        "code": "SNT 111",
+        "name": "Moda Tasarımı ve Sanat"
+       },
+       {
+        "code": "SNT 212E",
+        "name": "Art,Culture and Society"
        },
        {
         "code": "SNT 213",
         "name": "Türkiye Müzik Kültürleri"
        },
        {
-        "code": "SNT 214",
-        "name": "Performans, Müzik ve Dans"
+        "code": "SNT 104E",
+        "name": "Mythology and Art"
        },
        {
-        "code": "SNT 226",
-        "name": "Sanat Felsefesi"
+        "code": "SNT 107E",
+        "name": "Ancient Civilizat.in Anatolia"
+       },
+       {
+        "code": "SNT 118",
+        "name": "Müzik Arkeolojisi"
+       },
+       {
+        "code": "SNT 123E",
+        "name": "Film Production"
+       },
+       {
+        "code": "SNT 113E",
+        "name": "Art and Interpretation"
+       },
+       {
+        "code": "SNT 102E",
+        "name": "Photography"
+       },
+       {
+        "code": "SNT 211E",
+        "name": "Istanbul:Hist.,Art and Society"
        },
        {
         "code": "SNT 228",
@@ -581,16 +581,16 @@
       ],
       "options": [
        {
-        "code": "GMI 209",
-        "name": "Bilg. Destekli Katı Modelleme"
+        "code": "GMI 223E",
+        "name": "Machine Elements"
        },
        {
-        "code": "GMI 210",
-        "name": "Titreşimin Temelleri"
+        "code": "GMI 209E",
+        "name": "Computer Aided Solid Design"
        },
        {
-        "code": "GMI 223",
-        "name": "Makine Elemanları"
+        "code": "GMI 210E",
+        "name": "Vibration Basics"
        }
       ]
      }
@@ -606,20 +606,20 @@
       ],
       "options": [
        {
-        "code": "FIZ 449",
-        "name": "Günlük Yaşamımızda Fizik"
+        "code": "KIM 202E",
+        "name": "Physical Chemistry"
        },
        {
-        "code": "GMI 243",
-        "name": "Denizel Çevre Kimyası"
+        "code": "FIZ 449E",
+        "name": "Physics in Our Daily Life"
        },
        {
-        "code": "GMI 315",
-        "name": "Deniz Ekolojisi"
+        "code": "GMI 243E",
+        "name": "Marine Environmental Chemistry"
        },
        {
-        "code": "KIM 202",
-        "name": "Fiziksel Kimya"
+        "code": "GMI 315E",
+        "name": "Marine Ecology"
        }
       ]
      }
@@ -740,68 +740,344 @@
       ],
       "options": [
        {
-        "code": "DFH 228",
-        "name": "Denizcilik Psikolojisi"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
+       },
+       {
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
+       },
+       {
+        "code": "ITB 037E",
+        "name": "Knowledge, Language & Logic"
+       },
+       {
+        "code": "ITB 087E",
+        "name": "Media and Society"
+       },
+       {
+        "code": "ITB 094E",
+        "name": "International.Rel.and Globali."
+       },
+       {
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
+       },
+       {
+        "code": "HUK 218E",
+        "name": "Commercial Law"
+       },
+       {
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
+       },
+       {
+        "code": "ITB 151E",
+        "name": "Human Resources and Management"
+       },
+       {
+        "code": "ITB 228E",
+        "name": "Gender Studies"
+       },
+       {
+        "code": "ITB 206E",
+        "name": "Issues in World Politics"
+       },
+       {
+        "code": "ITB 207E",
+        "name": "Ottoman History"
+       },
+       {
+        "code": "ITB 209E",
+        "name": "Türkiye in World Affairs"
+       },
+       {
+        "code": "ITB 217E",
+        "name": "Engineering Ethics"
+       },
+       {
+        "code": "ITB 233E",
+        "name": "Anthropology"
+       },
+       {
+        "code": "ITB 203E",
+        "name": "Sociology"
+       },
+       {
+        "code": "ITB 230E",
+        "name": "Disaster Awareness"
+       },
+       {
+        "code": "ITB 231E",
+        "name": "Volunteering Studies"
+       },
+       {
+        "code": "ITB 234E",
+        "name": "The Rise of Civilizations"
+       },
+       {
+        "code": "ITB 213E",
+        "name": "Toplics in Literature and Society"
+       },
+       {
+        "code": "ITB 219E",
+        "name": "Ethics"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 214E",
+        "name": "The Modern Middle East"
+       },
+       {
+        "code": "ITB 215E",
+        "name": "Topics in Hist.and Society"
+       },
+       {
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
+       },
+       {
+        "code": "ITB 222E",
+        "name": "City and Society"
+       },
+       {
+        "code": "ITB 224E",
+        "name": "Environment and Society"
+       },
+       {
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
+       },
+       {
+        "code": "ITB 205E",
+        "name": "Philosophy"
        },
        {
         "code": "HUK 211",
         "name": "Sosyal Güvenlik Hukuku"
        },
        {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
        },
        {
-        "code": "ITB 087",
-        "name": "Medya ve Toplum"
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
        },
        {
-        "code": "ITB 094",
-        "name": "Uluslararası İlişkilerve Küreselleşme"
+        "code": "ITB 204E",
+        "name": "Political Science"
        },
        {
-        "code": "ITB 151",
-        "name": "İnsan Kaynakları Yönetimi"
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
        },
        {
-        "code": "ITB 202",
-        "name": "Dünya Tarihi"
+        "code": "ITB 216E",
+        "name": "Economy and Society"
        },
        {
-        "code": "ITB 203",
-        "name": "Sosyoloji"
+        "code": "ITB 220E",
+        "name": "Psychology"
        },
        {
-        "code": "ITB 204",
-        "name": "Siyaset Bilimi"
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
        },
        {
-        "code": "ITB 205",
-        "name": "Felsefe"
+        "code": "ITB 227E",
+        "name": "Political Theory"
        },
        {
-        "code": "ITB 218",
-        "name": "Bilim ve Teknoloji Tarihi"
+        "code": "DFH 497E",
+        "name": "Org.Mngt &Behavior in Maritime"
        },
        {
-        "code": "ITB 219",
-        "name": "Etik"
+        "code": "DFH 472E",
+        "name": "Commercial Ship Management"
        },
        {
-        "code": "ITB 220",
-        "name": "Psikoloji"
+        "code": "JPN Japonca",
+        "name": "I"
        },
        {
-        "code": "ITB 224",
-        "name": "Çevre ve Toplum"
+        "code": "JPN Japonca",
+        "name": "III"
        },
        {
-        "code": "ITB 230",
-        "name": "Afet Bilinci"
+        "code": "BEB 121",
+        "name": "Spor ve Teknoloji"
        },
        {
-        "code": "ITB 233",
-        "name": "Antropoloji"
+        "code": "BEB 120",
+        "name": "Spor ve Temel Bilimler"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "IV"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "VI"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "I"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "I"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "V"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "III"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "III"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "V"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "III"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "IV"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "V"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "III"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "III"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "V"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "II"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "II"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "II"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "IV"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VII"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "I"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "III"
+       },
+       {
+        "code": "DFH 430E",
+        "name": "Profes. Maritime Communication"
+       },
+       {
+        "code": "ARB 101",
+        "name": "Arapça I"
+       },
+       {
+        "code": "ARB 102",
+        "name": "Arapça II"
+       },
+       {
+        "code": "ITB 235E",
+        "name": "Türkiye and EuropeanUnion"
+       },
+       {
+        "code": "DFH 228E",
+        "name": "Maritime Psychology"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "IV"
+       },
+       {
+        "code": "KOR Korece",
+        "name": "I"
+       },
+       {
+        "code": "KOR Korece",
+        "name": "II"
        }
       ]
      }
@@ -951,16 +1227,12 @@
         "name": "Mechatronics"
        },
        {
-        "code": "MTH 415",
-        "name": "Endüstriyel Tesislerde Emisyon ve Kirletici Giderim Yöntemleri"
-       },
-       {
         "code": "MYZ 313E",
         "name": "Applications of Artificial Intelligence in Maritime"
        },
        {
-        "code": "MYZ 313",
-        "name": "Denizcilikte Yapay Zeka Uygulamaları"
+        "code": "MTH 415",
+        "name": "Endüstriyel Tesislerde Emisyon ve Kirletici Giderim Yöntemleri"
        }
       ]
      }
@@ -1024,16 +1296,12 @@
         "name": "Mechatronics"
        },
        {
-        "code": "MTH 415",
-        "name": "Endüstriyel Tesislerde Emisyon ve Kirletici Giderim Yöntemleri"
-       },
-       {
         "code": "MYZ 313E",
         "name": "Applications of Artificial Intelligence in Maritime"
        },
        {
-        "code": "MYZ 313",
-        "name": "Denizcilikte Yapay Zeka Uygulamaları"
+        "code": "MTH 415",
+        "name": "Endüstriyel Tesislerde Emisyon ve Kirletici Giderim Yöntemleri"
        }
       ]
      }
@@ -1154,10 +1422,6 @@
        {
         "code": "MYZ 313E",
         "name": "Applications of Artificial Intelligence in Maritime"
-       },
-       {
-        "code": "MYZ 313",
-        "name": "Denizcilikte Yapay Zeka Uygulamaları"
        }
       ]
      }
@@ -1223,10 +1487,6 @@
        {
         "code": "MYZ 313E",
         "name": "Applications of Artificial Intelligence in Maritime"
-       },
-       {
-        "code": "MYZ 313",
-        "name": "Denizcilikte Yapay Zeka Uygulamaları"
        }
       ]
      }

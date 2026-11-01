@@ -34,14 +34,6 @@
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "ISL 596",
-        "name": "Scien.Rese., Ethic&Seminar"
-       },
-       {
-        "code": "ISS 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
         "code": "ISS 596E",
         "name": "Scientific Research, Ethic and Seminar"
        }
@@ -74,20 +66,20 @@
       ],
       "options": [
        {
-        "code": "ISL 505",
-        "name": "Üretim Sistemleri Analizi"
-       },
-       {
         "code": "ISL 506",
         "name": "Matematiksel Programlama"
+       },
+       {
+        "code": "ISL 505E",
+        "name": "Manufacturing Systems Management"
        },
        {
         "code": "ISL 517E",
         "name": "Management of Technology"
        },
        {
-        "code": "ISS 501",
-        "name": "Yöneticiler için İstatistik"
+        "code": "ISS 501E",
+        "name": "Management Statistics"
        }
       ]
      }
@@ -102,20 +94,20 @@
       ],
       "options": [
        {
-        "code": "ISL 505",
-        "name": "Üretim Sistemleri Analizi"
-       },
-       {
         "code": "ISL 506",
         "name": "Matematiksel Programlama"
+       },
+       {
+        "code": "ISL 505E",
+        "name": "Manufacturing Systems Management"
        },
        {
         "code": "ISL 517E",
         "name": "Management of Technology"
        },
        {
-        "code": "ISS 501",
-        "name": "Yöneticiler için İstatistik"
+        "code": "ISS 501E",
+        "name": "Management Statistics"
        }
       ]
      }
@@ -130,20 +122,20 @@
       ],
       "options": [
        {
-        "code": "ISL 505",
-        "name": "Üretim Sistemleri Analizi"
-       },
-       {
         "code": "ISL 506",
         "name": "Matematiksel Programlama"
+       },
+       {
+        "code": "ISL 505E",
+        "name": "Manufacturing Systems Management"
        },
        {
         "code": "ISL 517E",
         "name": "Management of Technology"
        },
        {
-        "code": "ISS 501",
-        "name": "Yöneticiler için İstatistik"
+        "code": "ISS 501E",
+        "name": "Management Statistics"
        }
       ]
      }

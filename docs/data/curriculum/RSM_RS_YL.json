@@ -30,111 +30,19 @@
       ],
       "options": [
        {
-        "code": "ELE 596E",
-        "name": "Scientific Research, Ethic and Seminar"
-       },
-       {
-        "code": "ELE 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
         "code": "ELK 596E",
         "name": "Scien.Rese., Ethic&Seminar"
-       },
-       {
-        "code": "ELK 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "KOM 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "KOM 596E",
-        "name": "Scien.Rese., Ethic&Seminar"
-       },
-       {
-        "code": "MIA 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "MIA 596E",
-        "name": "Scien.Research, Ethic&Seminar"
-       },
-       {
-        "code": "MKC 596E",
-        "name": "Scientific Research, Ethic and Seminar"
-       },
-       {
-        "code": "MKC 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "MKM 596E",
-        "name": "Scientific Research, Ethic and Seminar"
-       },
-       {
-        "code": "MKM 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "MKS 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "MKS 596E",
-        "name": "Scientific Research, Ethic and Seminar"
-       },
-       {
-        "code": "MMI 596E",
-        "name": "Scien.Rese., Ethic&Seminar"
-       },
-       {
-        "code": "MMI 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "MOT 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "MOT 596E",
-        "name": "Scientific Research, Ethic and Seminar"
-       },
-       {
-        "code": "MTA 596E",
-        "name": "Scientific Research, Ethic and Seminar"
-       },
-       {
-        "code": "MTA 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "RSM 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "RSM 596E",
-        "name": "Scientific Research, Ethic and Seminar"
        },
        {
         "code": "TEL 596",
         "name": "Bilimsel Araş.,Etik ve Seminer"
        },
        {
-        "code": "ULS 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
-       },
-       {
-        "code": "ULS 596E",
+        "code": "ELE 596E",
         "name": "Scientific Research, Ethic and Seminar"
        },
        {
-        "code": "UUM 596",
-        "name": "Scien.Rese., Ethic&Seminar"
-       },
-       {
-        "code": "UUM 596E",
+        "code": "KOM 596E",
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
@@ -142,8 +50,44 @@
         "name": "Scien.Rese., Ethic&Seminar"
        },
        {
-        "code": "YAP 596",
-        "name": "Bilimsel Araş.,Etik ve Seminer"
+        "code": "ULS 596E",
+        "name": "Scientific Research, Ethic and Seminar"
+       },
+       {
+        "code": "UUM 596E",
+        "name": "Scien.Rese., Ethic&Seminar"
+       },
+       {
+        "code": "MKM 596E",
+        "name": "Scientific Research, Ethic and Seminar"
+       },
+       {
+        "code": "RSM 596E",
+        "name": "Scientific Research, Ethic and Seminar"
+       },
+       {
+        "code": "MIA 596E",
+        "name": "Scien.Research, Ethic&Seminar"
+       },
+       {
+        "code": "MKS 596E",
+        "name": "Scientific Research, Ethic and Seminar"
+       },
+       {
+        "code": "MOT 596E",
+        "name": "Scientific Research, Ethic and Seminar"
+       },
+       {
+        "code": "MMI 596E",
+        "name": "Scien.Rese., Ethic&Seminar"
+       },
+       {
+        "code": "MKC 596E",
+        "name": "Scientific Research, Ethic and Seminar"
+       },
+       {
+        "code": "MTA 596E",
+        "name": "Scientific Research, Ethic and Seminar"
        }
       ]
      }
@@ -158,35 +102,11 @@
       ],
       "options": [
        {
-        "code": "ELE 519",
-        "name": "Elekt.Müh.Matematiksel Yönt."
+        "code": "ELE 519E",
+        "name": "Mathematical Methods in Electrical Engineering"
        },
        {
-        "code": "MDK 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
-        "code": "MIA 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
-        "code": "MKC 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
-        "code": "MKS 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
-        "code": "MMI 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
-        "code": "MOT 501",
-        "name": "Mühendislik Matematiği"
-       },
-       {
-        "code": "MTA 501E",
+        "code": "YAP 501E",
         "name": "Engineering Mathematics"
        },
        {
@@ -198,7 +118,31 @@
         "name": "Engineering Mathematics"
        },
        {
-        "code": "YAP 501E",
+        "code": "MTA 501E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "MOT 501E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "MIA 501E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "MKC 501E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "MMI 501E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "MDK 501E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "MKS 501E",
         "name": "Engineering Mathematics"
        }
       ]
@@ -214,16 +158,16 @@
       ],
       "options": [
        {
+        "code": "RSM 516",
+        "name": "Raylı Ulaşım Sistem Elektrot."
+       },
+       {
+        "code": "RSM 512E",
+        "name": "Operat.Urban Rail.Transp.Sys."
+       },
+       {
         "code": "RSM 502",
         "name": "Demiryo.Araç.&Kompo.Tas.&Anal."
-       },
-       {
-        "code": "RSM 503",
-        "name": "Raylı Sistemlerin Mühendisliği"
-       },
-       {
-        "code": "RSM 504",
-        "name": "Raylı Sistemlerin Mekaniği"
        },
        {
         "code": "RSM 508E",
@@ -234,12 +178,12 @@
         "name": "Railway Signalling Systems"
        },
        {
-        "code": "RSM 512E",
-        "name": "Operat.Urban Rail.Transp.Sys."
+        "code": "RSM 503",
+        "name": "Raylı Sistemlerin Mühendisliği"
        },
        {
-        "code": "RSM 516",
-        "name": "Raylı Ulaşım Sistem Elektrot."
+        "code": "RSM 504",
+        "name": "Raylı Sistemlerin Mekaniği"
        }
       ]
      }
@@ -254,16 +198,16 @@
       ],
       "options": [
        {
+        "code": "RSM 516",
+        "name": "Raylı Ulaşım Sistem Elektrot."
+       },
+       {
+        "code": "RSM 512E",
+        "name": "Operat.Urban Rail.Transp.Sys."
+       },
+       {
         "code": "RSM 502",
         "name": "Demiryo.Araç.&Kompo.Tas.&Anal."
-       },
-       {
-        "code": "RSM 503",
-        "name": "Raylı Sistemlerin Mühendisliği"
-       },
-       {
-        "code": "RSM 504",
-        "name": "Raylı Sistemlerin Mekaniği"
        },
        {
         "code": "RSM 508E",
@@ -274,12 +218,12 @@
         "name": "Railway Signalling Systems"
        },
        {
-        "code": "RSM 512E",
-        "name": "Operat.Urban Rail.Transp.Sys."
+        "code": "RSM 503",
+        "name": "Raylı Sistemlerin Mühendisliği"
        },
        {
-        "code": "RSM 516",
-        "name": "Raylı Ulaşım Sistem Elektrot."
+        "code": "RSM 504",
+        "name": "Raylı Sistemlerin Mekaniği"
        }
       ]
      }
@@ -294,16 +238,16 @@
       ],
       "options": [
        {
+        "code": "RSM 516",
+        "name": "Raylı Ulaşım Sistem Elektrot."
+       },
+       {
+        "code": "RSM 512E",
+        "name": "Operat.Urban Rail.Transp.Sys."
+       },
+       {
         "code": "RSM 502",
         "name": "Demiryo.Araç.&Kompo.Tas.&Anal."
-       },
-       {
-        "code": "RSM 503",
-        "name": "Raylı Sistemlerin Mühendisliği"
-       },
-       {
-        "code": "RSM 504",
-        "name": "Raylı Sistemlerin Mekaniği"
        },
        {
         "code": "RSM 508E",
@@ -314,12 +258,12 @@
         "name": "Railway Signalling Systems"
        },
        {
-        "code": "RSM 512E",
-        "name": "Operat.Urban Rail.Transp.Sys."
+        "code": "RSM 503",
+        "name": "Raylı Sistemlerin Mühendisliği"
        },
        {
-        "code": "RSM 516",
-        "name": "Raylı Ulaşım Sistem Elektrot."
+        "code": "RSM 504",
+        "name": "Raylı Sistemlerin Mekaniği"
        }
       ]
      }

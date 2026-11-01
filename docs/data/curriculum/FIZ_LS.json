@@ -422,144 +422,120 @@
       ],
       "options": [
        {
-        "code": "HUK 201",
-        "name": "İş Hukuku"
+        "code": "HUK 201E",
+        "name": "Labor Law"
        },
        {
-        "code": "SNT 101",
-        "name": "Heykel Sanatına Bakış"
+        "code": "SNT 105E",
+        "name": "Film Art"
        },
        {
-        "code": "SNT 102",
-        "name": "Fotoğraf"
+        "code": "SNT 101E",
+        "name": "Looking at the Art of Sculpture"
        },
        {
-        "code": "SNT 102E",
-        "name": "Photography"
-       },
-       {
-        "code": "SNT 103",
-        "name": "Desen"
+        "code": "SNT 106E",
+        "name": "Traditional Turkish Art&Crafts"
        },
        {
         "code": "SNT 103E",
         "name": "Drawing"
        },
        {
-        "code": "SNT 104",
-        "name": "Mitoloji ve Sanat"
-       },
-       {
-        "code": "SNT 104E",
-        "name": "Mythology and Art"
-       },
-       {
-        "code": "SNT 105",
-        "name": "Sinema Sanatı"
-       },
-       {
-        "code": "SNT 106",
-        "name": "Geleneks. Türk El Sanatları"
-       },
-       {
-        "code": "SNT 107",
-        "name": "İlkçağ Anadolu Uygarlıkları"
-       },
-       {
-        "code": "SNT 108",
-        "name": "Seramik"
+        "code": "SNT 108E",
+        "name": "Ceramic"
        },
        {
         "code": "SNT 109",
         "name": "Kazı Resim (Gravür)"
        },
        {
-        "code": "SNT 111",
-        "name": "Moda Tasarımı ve Sanat"
+        "code": "SNT 114E",
+        "name": "Contemporary Art"
        },
        {
-        "code": "SNT 112",
-        "name": "Tiyatro"
+        "code": "SNT 119E",
+        "name": "History of Popular Music"
        },
        {
-        "code": "SNT 112E",
-        "name": "Theater"
+        "code": "SNT 226E",
+        "name": "Philosophy of Art"
        },
        {
-        "code": "SNT 113",
-        "name": "Sanat ve Yorum"
-       },
-       {
-        "code": "SNT 114",
-        "name": "Günümüz Sanatı"
-       },
-       {
-        "code": "SNT 115",
-        "name": "Modernite ve Görsel Kültür"
-       },
-       {
-        "code": "SNT 116",
-        "name": "İletişim Sanatı"
-       },
-       {
-        "code": "SNT 116E",
-        "name": "The Art of Communication"
-       },
-       {
-        "code": "SNT 117E",
-        "name": "Jazz Appreciation"
-       },
-       {
-        "code": "SNT 118",
-        "name": "Müzik Arkeolojisi"
-       },
-       {
-        "code": "SNT 119",
-        "name": "Popüler Müzik Tarihi"
-       },
-       {
-        "code": "SNT 121E",
-        "name": "World Music Cultures"
+        "code": "SNT 115E",
+        "name": "Modernity and Visual Culture"
        },
        {
         "code": "SNT 122",
         "name": "Seramik Sanatı"
        },
        {
-        "code": "SNT 123",
-        "name": "Film Yapımı"
+        "code": "SNT 214E",
+        "name": "Performance, Music and Dance"
        },
        {
-        "code": "SNT 123E",
-        "name": "Film Production"
+        "code": "SNT 227E",
+        "name": "Sound and Society"
        },
        {
-        "code": "SNT 211",
-        "name": "İstanbul:Tarih,Sanat ve Toplum"
+        "code": "SNT 112E",
+        "name": "Theater"
        },
        {
-        "code": "SNT 212",
-        "name": "Sanat,Kültür ve Toplum"
+        "code": "SNT 116E",
+        "name": "The Art of Communication"
+       },
+       {
+        "code": "SNT 111",
+        "name": "Moda Tasarımı ve Sanat"
+       },
+       {
+        "code": "SNT 212E",
+        "name": "Art,Culture and Society"
        },
        {
         "code": "SNT 213",
         "name": "Türkiye Müzik Kültürleri"
        },
        {
-        "code": "SNT 214",
-        "name": "Performans, Müzik ve Dans"
+        "code": "SNT 104E",
+        "name": "Mythology and Art"
+       },
+       {
+        "code": "SNT 107E",
+        "name": "Ancient Civilizat.in Anatolia"
+       },
+       {
+        "code": "SNT 118",
+        "name": "Müzik Arkeolojisi"
+       },
+       {
+        "code": "SNT 123E",
+        "name": "Film Production"
+       },
+       {
+        "code": "SNT 113E",
+        "name": "Art and Interpretation"
+       },
+       {
+        "code": "SNT 102E",
+        "name": "Photography"
+       },
+       {
+        "code": "SNT 117E",
+        "name": "Jazz Appreciation"
+       },
+       {
+        "code": "SNT 211E",
+        "name": "Istanbul:Hist.,Art and Society"
        },
        {
         "code": "SNT 215E",
         "name": "Balkan Musics"
        },
        {
-        "code": "SNT 226",
-        "name": "Sanat Felsefesi"
-       },
-       {
-        "code": "SNT 227E",
-        "name": "Sound and Society"
+        "code": "SNT 121E",
+        "name": "World Music Cultures"
        },
        {
         "code": "SNT 228",
@@ -582,116 +558,68 @@
       ],
       "options": [
        {
-        "code": "ALM 101",
-        "name": "Almanca I"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ALM 102",
-        "name": "Almanca II"
+        "code": "ING 103H",
+        "name": "Public Presentations"
        },
        {
-        "code": "ALM 201",
-        "name": "Almanca III"
+        "code": "ING 103SC",
+        "name": "Science Communication"
        },
        {
-        "code": "ALM 202",
-        "name": "Almanca IV"
+        "code": "ING 103G",
+        "name": "Business Communications"
        },
        {
-        "code": "ALM 301",
-        "name": "Almanca V"
+        "code": "ING 103P",
+        "name": "Poetry"
        },
        {
-        "code": "ALM 302",
-        "name": "Almanca VI"
-       },
-       {
-        "code": "ALM 401",
-        "name": "Almanca VII"
-       },
-       {
-        "code": "ARB 101",
-        "name": "Arapça I"
-       },
-       {
-        "code": "ARB 102",
-        "name": "Arapça II"
-       },
-       {
-        "code": "BEB 120",
-        "name": "Spor ve Temel Bilimler"
-       },
-       {
-        "code": "BEB 121",
-        "name": "Spor ve Teknoloji"
-       },
-       {
-        "code": "CIN 101",
-        "name": "Çince I"
-       },
-       {
-        "code": "CIN 102",
-        "name": "Çince II"
-       },
-       {
-        "code": "CIN 201",
-        "name": "Çince III"
-       },
-       {
-        "code": "FRA 101",
-        "name": "Fransızca I"
-       },
-       {
-        "code": "FRA 102",
-        "name": "Fransızca II"
-       },
-       {
-        "code": "FRA 201",
-        "name": "Fransızca III"
-       },
-       {
-        "code": "FRA 202",
-        "name": "Fransızca IV"
-       },
-       {
-        "code": "FRA 301",
-        "name": "Fransızca V"
-       },
-       {
-        "code": "FRA 302",
-        "name": "Fransızca VI"
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
         "code": "HUK 216",
         "name": "Telekomünikasyon Hukuku"
        },
        {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
+        "code": "ING 103B",
+        "name": "Business English"
        },
        {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
+        "code": "ING 103AD",
+        "name": "Advanced English for Engineers"
+       },
+       {
+        "code": "ING 103O",
+        "name": "Psychology"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
+       },
+       {
+        "code": "ITB 011",
+        "name": "Bilgi Kuramları"
+       },
+       {
+        "code": "ITB 012E",
+        "name": "The Administrative Structure of Turkish Republic"
+       },
+       {
+        "code": "ITB 037E",
+        "name": "Knowledge, Language & Logic"
+       },
+       {
+        "code": "ITB 087E",
+        "name": "Media and Society"
+       },
+       {
+        "code": "ITB 094E",
+        "name": "International.Rel.and Globali."
        },
        {
         "code": "ING 103A",
@@ -702,36 +630,12 @@
         "name": "Urban Ecology"
        },
        {
-        "code": "ING 103AD",
-        "name": "Advanced English for Engineers"
-       },
-       {
-        "code": "ING 103B",
-        "name": "Business English"
-       },
-       {
         "code": "ING 103C",
         "name": "Great Moments in Science"
        },
        {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103DD",
-        "name": "Decoding Discourse: Language, Power, and Ideology"
-       },
-       {
-        "code": "ING 103G",
-        "name": "Business Communications"
-       },
-       {
-        "code": "ING 103H",
-        "name": "Public Presentations"
-       },
-       {
-        "code": "ING 103I",
-        "name": "Short Stories"
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
        },
        {
         "code": "ING 103L",
@@ -742,72 +646,12 @@
         "name": "Film Studies"
        },
        {
-        "code": "ING 103O",
-        "name": "Psychology"
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
        },
        {
-        "code": "ING 103P",
-        "name": "Poetry"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
-       },
-       {
-        "code": "ISP 101",
-        "name": "İspanyolca I"
-       },
-       {
-        "code": "ISP 102",
-        "name": "İspanyolca II"
-       },
-       {
-        "code": "ISP 201",
-        "name": "İspanyolca III"
-       },
-       {
-        "code": "ISP 202",
-        "name": "İspanyolca IV"
-       },
-       {
-        "code": "ISP 301",
-        "name": "İspanyolca V"
-       },
-       {
-        "code": "ISP 302",
-        "name": "İspanyolca VI"
-       },
-       {
-        "code": "ITA 101",
-        "name": "İtalyanca I"
-       },
-       {
-        "code": "ITA 102",
-        "name": "İtalyanca II"
-       },
-       {
-        "code": "ITA 201",
-        "name": "İtalyanca III"
-       },
-       {
-        "code": "ITA 202",
-        "name": "İtalyanca IV"
-       },
-       {
-        "code": "ITA 301",
-        "name": "İtalyanca V"
-       },
-       {
-        "code": "ITB 011",
-        "name": "Bilgi Kuramları"
-       },
-       {
-        "code": "ITB 012",
-        "name": "TC'nin Yönetim Yapısı"
+        "code": "HUK 218E",
+        "name": "Commercial Law"
        },
        {
         "code": "ITB 020E",
@@ -818,56 +662,8 @@
         "name": "Türkiye'de MdnTarihi & Sys Akm"
        },
        {
-        "code": "ITB 027E",
-        "name": "Estr/Invl in 5 Works by Campus"
-       },
-       {
-        "code": "ITB 037E",
-        "name": "Knowledge, Language & Logic"
-       },
-       {
-        "code": "ITB 075",
-        "name": "Seçmeli Fransızca"
-       },
-       {
-        "code": "ITB 076",
-        "name": "Sanatın Sosyal Tarihi"
-       },
-       {
-        "code": "ITB 085",
-        "name": "Sinema Tarihi ve Estetiği"
-       },
-       {
-        "code": "ITB 086",
-        "name": "Osm İmparatorluğu'nda Altyapı"
-       },
-       {
-        "code": "ITB 087E",
-        "name": "Media and Society"
-       },
-       {
-        "code": "ITB 087",
-        "name": "Medya ve Toplum"
-       },
-       {
-        "code": "ITB 093",
-        "name": "Modern Türkiye'nin Temelleri"
-       },
-       {
-        "code": "ITB 094",
-        "name": "Uluslararası İlişkilerve Küreselleşme"
-       },
-       {
-        "code": "ITB 142",
-        "name": "Uygulamalı Etik"
-       },
-       {
-        "code": "ITB 143",
-        "name": "Durrel ve Said:Oryanta.Uyg ve"
-       },
-       {
-        "code": "ITB 151",
-        "name": "İnsan Kaynakları Yönetimi"
+        "code": "ITB 086E",
+        "name": "The Infrastructure of the Ottoman Empire"
        },
        {
         "code": "ITB 151E",
@@ -882,204 +678,112 @@
         "name": "Kontr ve Otoms Sist Tarihçesi"
        },
        {
-        "code": "ITB 167E",
-        "name": "The Birth&Devl Modern City"
-       },
-       {
-        "code": "ITB 168E",
-        "name": "Philosophy of Technology"
-       },
-       {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 172E",
-        "name": "The Historian in the Cinema"
-       },
-       {
-        "code": "ITB 173E",
-        "name": "Frege Found. of Arithmetic"
-       },
-       {
         "code": "ITB 175",
         "name": "Küreselleşme ve Kent"
-       },
-       {
-        "code": "ITB 176",
-        "name": "Türkiye'de Toplumsal Hafıza"
-       },
-       {
-        "code": "ITB 177",
-        "name": "19.yy İstanbul'unda Tic. ve Mi"
-       },
-       {
-        "code": "ITB 178E",
-        "name": "Democracy&Modern Media:Int.Per"
-       },
-       {
-        "code": "ITB 179",
-        "name": "İçiçe Ayr.Ede.:Vizyone,Seyf.,A"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 201",
-        "name": "İnsan ve Topl. Bilim. Giriş"
-       },
-       {
-        "code": "ITB 202",
-        "name": "Dünya Tarihi"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 203",
-        "name": "Sosyoloji"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204",
-        "name": "Siyaset Bilimi"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
-       },
-       {
-        "code": "ITB 206",
-        "name": "Dünya Politikasında Meseleler"
-       },
-       {
-        "code": "ITB 206E",
-        "name": "Issues in World Politics"
-       },
-       {
-        "code": "ITB 207",
-        "name": "Osmanlı Tarihi"
-       },
-       {
-        "code": "ITB 207E",
-        "name": "Ottoman History"
-       },
-       {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
-        "code": "ITB 208",
-        "name": "Modern Türkiye'nin Oluşumu"
-       },
-       {
-        "code": "ITB 209",
-        "name": "Türkiye ve Dünya"
-       },
-       {
-        "code": "ITB 209E",
-        "name": "Türkiye in World Affairs"
-       },
-       {
-        "code": "ITB 210",
-        "name": "City,Environment & Society"
-       },
-       {
-        "code": "ITB 210E",
-        "name": "City,Environment & Society"
-       },
-       {
-        "code": "ITB 211E",
-        "name": "Istanbul:Hist.,Art and Society"
        },
        {
         "code": "ITB 212E",
         "name": "Art,Culture and Society"
        },
        {
-        "code": "ITB 213",
-        "name": "Edebiyat ve Toplum"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
-        "code": "ITB 213E",
-        "name": "Toplics in Literature and Society"
+        "code": "ITB 085",
+        "name": "Sinema Tarihi ve Estetiği"
        },
        {
-        "code": "ITB 214",
-        "name": "Modern Ortadoğu"
+        "code": "ITB 206E",
+        "name": "Issues in World Politics"
        },
        {
-        "code": "ITB 214E",
-        "name": "The Modern Middle East"
+        "code": "ITB 207E",
+        "name": "Ottoman History"
        },
        {
-        "code": "ITB 215",
-        "name": "Tarih ve Toplum"
-       },
-       {
-        "code": "ITB 215E",
-        "name": "Topics in Hist.and Society"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
-       },
-       {
-        "code": "ITB 216",
-        "name": "Ekonomi ve Toplum"
-       },
-       {
-        "code": "ITB 217",
-        "name": "Mühendislik Etiği"
+        "code": "ITB 209E",
+        "name": "Türkiye in World Affairs"
        },
        {
         "code": "ITB 217E",
         "name": "Engineering Ethics"
        },
        {
-        "code": "ITB 218E",
-        "name": "History of Science&Technology"
+        "code": "ITB 233E",
+        "name": "Anthropology"
        },
        {
-        "code": "ITB 218",
-        "name": "Bilim ve Teknoloji Tarihi"
+        "code": "ITB 142E",
+        "name": "Applied Ethics"
        },
        {
-        "code": "ITB 219",
-        "name": "Etik"
+        "code": "ITB 168E",
+        "name": "Philosophy of Technology"
+       },
+       {
+        "code": "ITB 176",
+        "name": "Türkiye'de Toplumsal Hafıza"
+       },
+       {
+        "code": "ITB 178E",
+        "name": "Democracy&Modern Media:Int.Per"
+       },
+       {
+        "code": "ITB 203E",
+        "name": "Sociology"
+       },
+       {
+        "code": "ITB 210E",
+        "name": "City,Environment & Society"
+       },
+       {
+        "code": "ITB 231E",
+        "name": "Volunteering Studies"
+       },
+       {
+        "code": "ITB 213E",
+        "name": "Toplics in Literature and Society"
        },
        {
         "code": "ITB 219E",
         "name": "Ethics"
        },
        {
-        "code": "ITB 220E",
-        "name": "Psychology"
+        "code": "ING 103I",
+        "name": "Short Stories"
        },
        {
-        "code": "ITB 220",
-        "name": "Psikoloji"
+        "code": "ITB 172E",
+        "name": "The Historian in the Cinema"
        },
        {
-        "code": "ITB 221",
-        "name": "Anadolu Arkeolojisi"
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
        },
        {
-        "code": "ITB 222",
-        "name": "Kent ve Toplum"
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "ITB 214E",
+        "name": "The Modern Middle East"
+       },
+       {
+        "code": "ITB 215E",
+        "name": "Topics in Hist.and Society"
+       },
+       {
+        "code": "ITB 075",
+        "name": "Seçmeli Fransızca"
+       },
+       {
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
        },
        {
         "code": "ITB 222E",
@@ -1090,76 +794,256 @@
         "name": "Environment and Society"
        },
        {
+        "code": "ITB 027E",
+        "name": "Estr/Invl in 5 Works by Campus"
+       },
+       {
+        "code": "ITB 076",
+        "name": "Sanatın Sosyal Tarihi"
+       },
+       {
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
+       },
+       {
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
+       },
+       {
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 093",
+        "name": "Modern Türkiye'nin Temelleri"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 167E",
+        "name": "The Birth&Devl Modern City"
+       },
+       {
+        "code": "ITB 173E",
+        "name": "Frege Found. of Arithmetic"
+       },
+       {
+        "code": "ITB 177",
+        "name": "19.yy İstanbul'unda Tic. ve Mi"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "I"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "III"
+       },
+       {
+        "code": "BEB 121",
+        "name": "Spor ve Teknoloji"
+       },
+       {
+        "code": "BEB 120",
+        "name": "Spor ve Temel Bilimler"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "IV"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "VI"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "I"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "I"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "V"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "III"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "III"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "V"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "III"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "IV"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "V"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "III"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "III"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "V"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "II"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "II"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "II"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "IV"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VII"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "I"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "III"
+       },
+       {
+        "code": "ARB 101",
+        "name": "Arapça I"
+       },
+       {
+        "code": "ARB 102",
+        "name": "Arapça II"
+       },
+       {
         "code": "ITB 225E",
         "name": "Intercultural Citizenship Education"
-       },
-       {
-        "code": "ITB 228",
-        "name": "Toplumsal Cinsiyet Çalışmaları"
-       },
-       {
-        "code": "ITB 231",
-        "name": "Gönüllülük Çalışmaları"
-       },
-       {
-        "code": "ITB 231E",
-        "name": "Volunteering Studies"
-       },
-       {
-        "code": "ITB 233E",
-        "name": "Anthropology"
        },
        {
         "code": "ITB 235E",
         "name": "Türkiye and EuropeanUnion"
        },
        {
-        "code": "ITB 235",
-        "name": "Türkiye ve Avrupa Birliği"
+        "code": "RUS Rusça",
+        "name": "IV"
+       },
+       {
+        "code": "ING 103DD",
+        "name": "Decoding Discourse: Language, Power, and Ideology"
        },
        {
         "code": "ITB 236",
         "name": "Türk Müziği Tarihi"
        },
        {
-        "code": "JPN 101",
-        "name": "Japonca I"
+        "code": "KOR Korece",
+        "name": "I"
        },
        {
-        "code": "JPN 102",
-        "name": "Japonca II"
-       },
-       {
-        "code": "JPN 201",
-        "name": "Japonca III"
-       },
-       {
-        "code": "JPN 202",
-        "name": "Japonca IV"
-       },
-       {
-        "code": "KOR 101",
-        "name": "Korece I"
-       },
-       {
-        "code": "KOR 102",
-        "name": "Korece II"
-       },
-       {
-        "code": "RUS 101",
-        "name": "Rusça I"
-       },
-       {
-        "code": "RUS 102",
-        "name": "Rusça II"
-       },
-       {
-        "code": "RUS 201",
-        "name": "Rusça III"
-       },
-       {
-        "code": "RUS 202",
-        "name": "Rusça IV"
+        "code": "KOR Korece",
+        "name": "II"
        }
       ]
      }
@@ -1269,52 +1153,85 @@
       "ects": [
        4,
        5,
-       6
+       6,
+       8
       ],
       "options": [
        {
-        "code": "EKO 201",
-        "name": "Ekonomi"
+        "code": "MET 415E",
+        "name": "Non-Destructive Testing"
        },
        {
-        "code": "EKO 201E",
-        "name": "Economics"
+        "code": "MET 221E",
+        "name": "Materials Science I"
        },
        {
-        "code": "FIZ 362",
-        "name": "Fizikte Matematiksel Yöntem II"
+        "code": "MET 232E",
+        "name": "Materials Science II"
        },
        {
-        "code": "FIZ 362E",
-        "name": "Mathematical Mthds in Physc II"
+        "code": "KMM 485E",
+        "name": "Polymer Chemistry and Technology"
        },
        {
-        "code": "FIZ 431",
-        "name": "Katı Hal Fiziği I"
+        "code": "MTO 458E",
+        "name": "Introduction to Planetary Atmospheres"
        },
        {
-        "code": "FIZ 431E",
-        "name": "Solid State Physics I"
+        "code": "MTO 335E",
+        "name": "Physics of Upper Atmosphere"
        },
        {
-        "code": "FIZ 433",
-        "name": "Nükleer Fizik I"
+        "code": "MAT 453E",
+        "name": "Optimal Control Theory"
        },
        {
-        "code": "FIZ 433E",
-        "name": "Nuclear Physics I"
+        "code": "KIM 214E",
+        "name": "Structure and Properties of Polymers"
        },
        {
-        "code": "FIZ 446",
-        "name": "Parçacıklar Fiziği"
+        "code": "MAT 471E",
+        "name": "Financial Mathematics"
+       },
+       {
+        "code": "KIM 207E",
+        "name": "Inorganic Chemistry"
+       },
+       {
+        "code": "MAT 421E",
+        "name": "Fluid Mechanics"
        },
        {
         "code": "FIZ 446E",
         "name": "Particle Physics"
        },
        {
+        "code": "FIZ 494E",
+        "name": "General Relativity"
+       },
+       {
+        "code": "FIZ 431E",
+        "name": "Solid State Physics I"
+       },
+       {
         "code": "FIZ 456E",
         "name": "Atomic ve Molecular Physics"
+       },
+       {
+        "code": "FIZ 471E",
+        "name": "Methods of Experimental Physics II"
+       },
+       {
+        "code": "MAT 417E",
+        "name": "Theory of Surfaces"
+       },
+       {
+        "code": "FIZ 362E",
+        "name": "Mathematical Mthds in Physc II"
+       },
+       {
+        "code": "FIZ 460E",
+        "name": "Introduction to Metrology"
        },
        {
         "code": "FIZ 457E",
@@ -1325,144 +1242,60 @@
         "name": "Physics of Metrology and Instrumentation"
        },
        {
-        "code": "FIZ 460E",
-        "name": "Introduction to Metrology"
-       },
-       {
-        "code": "FIZ 461E",
-        "name": "Physics of Sounds"
-       },
-       {
-        "code": "FIZ 463E",
-        "name": "Astrophysics I"
-       },
-       {
-        "code": "FIZ 471E",
-        "name": "Methods of Experimental Physics II"
-       },
-       {
-        "code": "FIZ 474",
-        "name": "Katıların Optik Özellikleri"
-       },
-       {
         "code": "FIZ 474E",
         "name": "Optical Properties of Solids"
-       },
-       {
-        "code": "FIZ 476",
-        "name": "Güneş Ene Fizik ve Tekno II"
        },
        {
         "code": "FIZ 476E",
         "name": "Solar Energy Physics &Tech. II"
        },
        {
-        "code": "FIZ 494",
-        "name": "Genel Relativite"
+        "code": "FIZ 461E",
+        "name": "Physics of Sounds"
        },
        {
-        "code": "FIZ 494E",
-        "name": "General Relativity"
+        "code": "MUH 453E",
+        "name": "Optimal Control Theory"
        },
        {
-        "code": "KIM 207",
-        "name": "İnorganik Kimya"
+        "code": "FIZ 463E",
+        "name": "Astrophysics I"
        },
        {
-        "code": "KIM 214E",
-        "name": "Structure and Properties of Polymers"
-       },
-       {
-        "code": "KMM 485",
-        "name": "Polimer Kimyası ve Teknolojisi"
-       },
-       {
-        "code": "MAT 271",
-        "name": "Olasılık ve İstatistik"
+        "code": "MTO 497E",
+        "name": "Atmospheric Optics and Acoustics"
        },
        {
         "code": "MAT 271E",
         "name": "Probability and Statistics"
        },
        {
-        "code": "MAT 417E",
-        "name": "Theory of Surfaces"
+        "code": "FIZ 433E",
+        "name": "Nuclear Physics I"
        },
        {
-        "code": "MAT 421",
-        "name": "Akışkanlar Mekaniği"
-       },
-       {
-        "code": "MAT 421E",
-        "name": "Fluid Mechanics"
-       },
-       {
-        "code": "MAT 453",
-        "name": "Optimal Kontrol Teorisi"
-       },
-       {
-        "code": "MAT 471",
-        "name": "Finans Matematiği"
-       },
-       {
-        "code": "MAT 471E",
-        "name": "Financial Mathematics"
-       },
-       {
-        "code": "MET 221",
-        "name": "Malzeme Bilimi I"
-       },
-       {
-        "code": "MET 232",
-        "name": "Malzeme Bilimi II"
-       },
-       {
-        "code": "MET 232E",
-        "name": "Materials Science II"
-       },
-       {
-        "code": "MET 415",
-        "name": "Hasarsız Malzeme Muayenesi"
-       },
-       {
-        "code": "MET 415E",
-        "name": "Non-Destructive Testing"
-       },
-       {
-        "code": "MTH 407E",
-        "name": "Fundamentals of Automatic Target Tracking"
-       },
-       {
-        "code": "MTH 407",
-        "name": "Otomatik Hedef İzleme Temelleri"
-       },
-       {
-        "code": "MTH 408",
-        "name": "Uzay Radyasyon Ortamı ve Etkileri"
-       },
-       {
-        "code": "MTO 335E",
-        "name": "Physics of Upper Atmosphere"
-       },
-       {
-        "code": "MTO 458E",
-        "name": "Introduction to Planetary Atmospheres"
-       },
-       {
-        "code": "MTO 497",
-        "name": "Atmosferde Optik ve Akustik"
-       },
-       {
-        "code": "MUH 453",
-        "name": "Optimal Kontrol Teorisi"
+        "code": "EKO 201E",
+        "name": "Economics"
        },
        {
         "code": "MYZ 310E",
         "name": "Machine Learning in Physics"
        },
        {
-        "code": "MYZ 310",
-        "name": "Fizikte Makine Öğrenmesi"
+        "code": "MTH 407E",
+        "name": "Fundamentals of Automatic Target Tracking"
+       },
+       {
+        "code": "MTH 408",
+        "name": "Uzay Radyasyon Ortamı ve Etkileri"
+       },
+       {
+        "code": "FZT 203E",
+        "name": "Theory of Groups in Physics"
+       },
+       {
+        "code": "FZT 302E",
+        "name": "Solid State Physics I"
        }
       ]
      }
@@ -1475,52 +1308,77 @@
       "ects": [
        4,
        5,
-       6
+       6,
+       8
       ],
       "options": [
        {
-        "code": "EKO 201",
-        "name": "Ekonomi"
+        "code": "MET 415E",
+        "name": "Non-Destructive Testing"
        },
        {
-        "code": "EKO 201E",
-        "name": "Economics"
+        "code": "MET 221E",
+        "name": "Materials Science I"
        },
        {
-        "code": "FIZ 362",
-        "name": "Fizikte Matematiksel Yöntem II"
+        "code": "MET 232E",
+        "name": "Materials Science II"
        },
        {
-        "code": "FIZ 362E",
-        "name": "Mathematical Mthds in Physc II"
+        "code": "KMM 485E",
+        "name": "Polymer Chemistry and Technology"
        },
        {
-        "code": "FIZ 431",
-        "name": "Katı Hal Fiziği I"
+        "code": "MTO 458E",
+        "name": "Introduction to Planetary Atmospheres"
        },
        {
-        "code": "FIZ 431E",
-        "name": "Solid State Physics I"
+        "code": "MTO 335E",
+        "name": "Physics of Upper Atmosphere"
        },
        {
-        "code": "FIZ 433",
-        "name": "Nükleer Fizik I"
+        "code": "KIM 214E",
+        "name": "Structure and Properties of Polymers"
        },
        {
-        "code": "FIZ 433E",
-        "name": "Nuclear Physics I"
+        "code": "MAT 471E",
+        "name": "Financial Mathematics"
        },
        {
-        "code": "FIZ 446",
-        "name": "Parçacıklar Fiziği"
+        "code": "KIM 207E",
+        "name": "Inorganic Chemistry"
        },
        {
         "code": "FIZ 446E",
         "name": "Particle Physics"
        },
        {
+        "code": "FIZ 494E",
+        "name": "General Relativity"
+       },
+       {
+        "code": "FIZ 431E",
+        "name": "Solid State Physics I"
+       },
+       {
         "code": "FIZ 456E",
         "name": "Atomic ve Molecular Physics"
+       },
+       {
+        "code": "FIZ 471E",
+        "name": "Methods of Experimental Physics II"
+       },
+       {
+        "code": "MAT 417E",
+        "name": "Theory of Surfaces"
+       },
+       {
+        "code": "FIZ 362E",
+        "name": "Mathematical Mthds in Physc II"
+       },
+       {
+        "code": "FIZ 460E",
+        "name": "Introduction to Metrology"
        },
        {
         "code": "FIZ 457E",
@@ -1531,136 +1389,60 @@
         "name": "Physics of Metrology and Instrumentation"
        },
        {
-        "code": "FIZ 460E",
-        "name": "Introduction to Metrology"
-       },
-       {
-        "code": "FIZ 461E",
-        "name": "Physics of Sounds"
-       },
-       {
-        "code": "FIZ 463E",
-        "name": "Astrophysics I"
-       },
-       {
-        "code": "FIZ 471E",
-        "name": "Methods of Experimental Physics II"
-       },
-       {
-        "code": "FIZ 474",
-        "name": "Katıların Optik Özellikleri"
-       },
-       {
         "code": "FIZ 474E",
         "name": "Optical Properties of Solids"
-       },
-       {
-        "code": "FIZ 476",
-        "name": "Güneş Ene Fizik ve Tekno II"
        },
        {
         "code": "FIZ 476E",
         "name": "Solar Energy Physics &Tech. II"
        },
        {
-        "code": "FIZ 494",
-        "name": "Genel Relativite"
-       },
-       {
-        "code": "FIZ 494E",
-        "name": "General Relativity"
-       },
-       {
-        "code": "KIM 207",
-        "name": "İnorganik Kimya"
-       },
-       {
-        "code": "KIM 214E",
-        "name": "Structure and Properties of Polymers"
-       },
-       {
-        "code": "KMM 485",
-        "name": "Polimer Kimyası ve Teknolojisi"
-       },
-       {
-        "code": "MAT 271",
-        "name": "Olasılık ve İstatistik"
-       },
-       {
-        "code": "MAT 271E",
-        "name": "Probability and Statistics"
-       },
-       {
-        "code": "MAT 417E",
-        "name": "Theory of Surfaces"
-       },
-       {
-        "code": "MAT 471",
-        "name": "Finans Matematiği"
-       },
-       {
-        "code": "MAT 471E",
-        "name": "Financial Mathematics"
-       },
-       {
-        "code": "MET 221",
-        "name": "Malzeme Bilimi I"
-       },
-       {
-        "code": "MET 232",
-        "name": "Malzeme Bilimi II"
-       },
-       {
-        "code": "MET 232E",
-        "name": "Materials Science II"
-       },
-       {
-        "code": "MET 415",
-        "name": "Hasarsız Malzeme Muayenesi"
-       },
-       {
-        "code": "MET 415E",
-        "name": "Non-Destructive Testing"
-       },
-       {
-        "code": "MTH 407E",
-        "name": "Fundamentals of Automatic Target Tracking"
-       },
-       {
-        "code": "MTH 407",
-        "name": "Otomatik Hedef İzleme Temelleri"
-       },
-       {
-        "code": "MTH 408",
-        "name": "Uzay Radyasyon Ortamı ve Etkileri"
-       },
-       {
-        "code": "MTO 335E",
-        "name": "Physics of Upper Atmosphere"
-       },
-       {
-        "code": "MTO 458E",
-        "name": "Introduction to Planetary Atmospheres"
-       },
-       {
-        "code": "MTO 497",
-        "name": "Atmosferde Optik ve Akustik"
-       },
-       {
-        "code": "MUH 453",
-        "name": "Optimal Kontrol Teorisi"
+        "code": "FIZ 461E",
+        "name": "Physics of Sounds"
        },
        {
         "code": "MUH 453E",
         "name": "Optimal Control Theory"
        },
        {
-        "code": "MYZ 310",
-        "name": "Fizikte Makine Öğrenmesi"
+        "code": "FIZ 463E",
+        "name": "Astrophysics I"
+       },
+       {
+        "code": "MTO 497E",
+        "name": "Atmospheric Optics and Acoustics"
+       },
+       {
+        "code": "MAT 271E",
+        "name": "Probability and Statistics"
+       },
+       {
+        "code": "FIZ 433E",
+        "name": "Nuclear Physics I"
+       },
+       {
+        "code": "EKO 201E",
+        "name": "Economics"
        },
        {
         "code": "MYZ 310E",
         "name": "Machine Learning in Physics"
+       },
+       {
+        "code": "MTH 407E",
+        "name": "Fundamentals of Automatic Target Tracking"
+       },
+       {
+        "code": "MTH 408",
+        "name": "Uzay Radyasyon Ortamı ve Etkileri"
+       },
+       {
+        "code": "FZT 203E",
+        "name": "Theory of Groups in Physics"
+       },
+       {
+        "code": "FZT 302E",
+        "name": "Solid State Physics I"
        }
       ]
      }
@@ -1715,100 +1497,109 @@
       "ects": [
        4,
        5,
-       6
+       6,
+       8
       ],
       "options": [
        {
-        "code": "BIO 301E",
-        "name": "Fundamentals of Biology"
+        "code": "MET 415E",
+        "name": "Non-Destructive Testing"
        },
        {
-        "code": "BIO 351E",
-        "name": "Biophysics"
+        "code": "MET 221E",
+        "name": "Materials Science I"
        },
        {
-        "code": "EKO 201",
-        "name": "Ekonomi"
+        "code": "MET 232E",
+        "name": "Materials Science II"
        },
        {
-        "code": "EKO 201E",
-        "name": "Economics"
+        "code": "KMM 485E",
+        "name": "Polymer Chemistry and Technology"
        },
        {
-        "code": "FIZ 362",
-        "name": "Fizikte Matematiksel Yöntem II"
+        "code": "MTO 458E",
+        "name": "Introduction to Planetary Atmospheres"
        },
        {
-        "code": "FIZ 362E",
-        "name": "Mathematical Mthds in Physc II"
+        "code": "MTO 335E",
+        "name": "Physics of Upper Atmosphere"
        },
        {
-        "code": "FIZ 381E",
-        "name": "Classical Mechanics II"
+        "code": "UZB 437E",
+        "name": "Introduction to Robotics"
        },
        {
-        "code": "FIZ 381",
-        "name": "Klasik Mekanik II"
+        "code": "MAT 453E",
+        "name": "Optimal Control Theory"
        },
        {
-        "code": "FIZ 413E",
-        "name": "Solid State Electronics"
+        "code": "MAT 472E",
+        "name": "Computational Finance"
        },
        {
-        "code": "FIZ 413",
-        "name": "Katı Hal Elektroniği"
+        "code": "KIM 214E",
+        "name": "Structure and Properties of Polymers"
+       },
+       {
+        "code": "MAT 337E",
+        "name": "Web Programming"
+       },
+       {
+        "code": "MAT 471E",
+        "name": "Financial Mathematics"
+       },
+       {
+        "code": "KIM 207E",
+        "name": "Inorganic Chemistry"
+       },
+       {
+        "code": "MAT 421E",
+        "name": "Fluid Mechanics"
        },
        {
         "code": "FIZ 414E",
         "name": "Statistical Physics and Thermodynamics II"
        },
        {
-        "code": "FIZ 414",
-        "name": "İstatis Fizik ve Termodinmk II"
+        "code": "FIZ 426E",
+        "name": "Opto Electronics"
        },
        {
-        "code": "FIZ 423E",
-        "name": "X-Rays Refraction"
+        "code": "FIZ 453E",
+        "name": "Quantum Mechanics III"
        },
        {
-        "code": "FIZ 423",
-        "name": "X Işınları Kırınımı"
+        "code": "FIZ 381E",
+        "name": "Classical Mechanics II"
        },
        {
         "code": "FIZ 424E",
         "name": "Digital Electronics"
        },
        {
-        "code": "FIZ 424",
-        "name": "Dijital Elektronik"
+        "code": "FIZ 434E",
+        "name": "Microprocessors"
+       },
+       {
+        "code": "FIZ 446E",
+        "name": "Particle Physics"
+       },
+       {
+        "code": "FIZ 494E",
+        "name": "General Relativity"
        },
        {
         "code": "FIZ 425E",
         "name": "Comput. Anlys.of Phys.Sys."
        },
        {
-        "code": "FIZ 426E",
-        "name": "Opto Electronics"
+        "code": "FIZ 445E",
+        "name": "Magnetic Properties of Matter"
        },
        {
         "code": "FIZ 431E",
         "name": "Solid State Physics I"
-       },
-       {
-        "code": "FIZ 433",
-        "name": "Nükleer Fizik I"
-       },
-       {
-        "code": "FIZ 433E",
-        "name": "Nuclear Physics I"
-       },
-       {
-        "code": "FIZ 434E",
-        "name": "Microprocessors"
-       },
-       {
-        "code": "FIZ 434",
-        "name": "Mikroişlemciler"
        },
        {
         "code": "FIZ 435E",
@@ -1819,16 +1610,40 @@
         "name": "Solid State Physics II"
        },
        {
-        "code": "FIZ 436",
-        "name": "Katı Hal Fiziği II"
+        "code": "FIZ 454E",
+        "name": "Health Physics"
        },
        {
-        "code": "FIZ 441E",
-        "name": "Selected Prob. in Comp. Phy."
+        "code": "FIZ 456E",
+        "name": "Atomic ve Molecular Physics"
        },
        {
-        "code": "FIZ 443",
-        "name": "Güneş Ener. Fizik ve Tek. I"
+        "code": "FIZ 471E",
+        "name": "Methods of Experimental Physics II"
+       },
+       {
+        "code": "MUH 415E",
+        "name": "Theory of Elasticity"
+       },
+       {
+        "code": "MAT 417E",
+        "name": "Theory of Surfaces"
+       },
+       {
+        "code": "BIO 301E",
+        "name": "Fundamentals of Biology"
+       },
+       {
+        "code": "FIZ 362E",
+        "name": "Mathematical Mthds in Physc II"
+       },
+       {
+        "code": "FIZ 413E",
+        "name": "Solid State Electronics"
+       },
+       {
+        "code": "FIZ 460E",
+        "name": "Introduction to Metrology"
        },
        {
         "code": "FIZ 443E",
@@ -1839,22 +1654,6 @@
         "name": "Measurements and Characterization"
        },
        {
-        "code": "FIZ 445E",
-        "name": "Magnetic Properties of Matter"
-       },
-       {
-        "code": "FIZ 445",
-        "name": "Maddenin Magnetik Özellikleri"
-       },
-       {
-        "code": "FIZ 446E",
-        "name": "Particle Physics"
-       },
-       {
-        "code": "FIZ 446",
-        "name": "Parçacıklar Fiziği"
-       },
-       {
         "code": "FIZ 447E",
         "name": "Biologically Motivated Problems in Statistical Physics"
        },
@@ -1863,52 +1662,64 @@
         "name": "Physics in Our Daily Life"
        },
        {
-        "code": "FIZ 449",
-        "name": "Günlük Yaşamımızda Fizik"
-       },
-       {
-        "code": "FIZ 453E",
-        "name": "Quantum Mechanics III"
-       },
-       {
-        "code": "FIZ 453",
-        "name": "Kuantum Mekaniği III"
-       },
-       {
-        "code": "FIZ 454E",
-        "name": "Health Physics"
-       },
-       {
-        "code": "FIZ 454",
-        "name": "Sağlık Fiziği"
-       },
-       {
-        "code": "FIZ 456E",
-        "name": "Atomic ve Molecular Physics"
-       },
-       {
-        "code": "FIZ 456",
-        "name": "Atom ve Molekül Fiziği I"
-       },
-       {
-        "code": "FIZ 458E",
-        "name": "Optics II"
-       },
-       {
         "code": "FIZ 459E",
         "name": "Physics of Metrology and Instrumentation"
        },
        {
-        "code": "FIZ 460E",
-        "name": "Introduction to Metrology"
+        "code": "FIZ 496E",
+        "name": "Nuclear Physics II"
+       },
+       {
+        "code": "FIZ 423E",
+        "name": "X-Rays Refraction"
+       },
+       {
+        "code": "FIZ 474E",
+        "name": "Optical Properties of Solids"
+       },
+       {
+        "code": "FIZ 476E",
+        "name": "Solar Energy Physics &Tech. II"
+       },
+       {
+        "code": "BIO 351E",
+        "name": "Biophysics"
        },
        {
         "code": "FIZ 461E",
         "name": "Physics of Sounds"
        },
        {
+        "code": "FIZ 473E",
+        "name": "Spectral Analysis Methods"
+       },
+       {
         "code": "FIZ 463E",
         "name": "Astrophysics I"
+       },
+       {
+        "code": "MTO 497E",
+        "name": "Atmospheric Optics and Acoustics"
+       },
+       {
+        "code": "MAT 271E",
+        "name": "Probability and Statistics"
+       },
+       {
+        "code": "MAT 422E",
+        "name": "Biomechanics"
+       },
+       {
+        "code": "FIZ 433E",
+        "name": "Nuclear Physics I"
+       },
+       {
+        "code": "FIZ 441E",
+        "name": "Selected Prob. in Comp. Phy."
+       },
+       {
+        "code": "FIZ 458E",
+        "name": "Optics II"
        },
        {
         "code": "FIZ 464E",
@@ -1919,176 +1730,32 @@
         "name": "Astrophysics II"
        },
        {
-        "code": "FIZ 471E",
-        "name": "Methods of Experimental Physics II"
-       },
-       {
-        "code": "FIZ 473E",
-        "name": "Spectral Analysis Methods"
-       },
-       {
-        "code": "FIZ 474E",
-        "name": "Optical Properties of Solids"
-       },
-       {
-        "code": "FIZ 474",
-        "name": "Katıların Optik Özellikleri"
-       },
-       {
-        "code": "FIZ 476E",
-        "name": "Solar Energy Physics &Tech. II"
-       },
-       {
-        "code": "FIZ 476",
-        "name": "Güneş Ene Fizik ve Tekno II"
-       },
-       {
         "code": "FIZ 486E",
         "name": "Crystal Growth Technics"
        },
        {
-        "code": "FIZ 494E",
-        "name": "General Relativity"
-       },
-       {
-        "code": "FIZ 494",
-        "name": "Genel Relativite"
-       },
-       {
-        "code": "FIZ 496E",
-        "name": "Nuclear Physics II"
-       },
-       {
-        "code": "FIZ 496",
-        "name": "Nükleer Fizik II"
-       },
-       {
-        "code": "KIM 207",
-        "name": "İnorganik Kimya"
-       },
-       {
-        "code": "KIM 214E",
-        "name": "Structure and Properties of Polymers"
-       },
-       {
-        "code": "KMM 485",
-        "name": "Polimer Kimyası ve Teknolojisi"
-       },
-       {
-        "code": "MAT 271",
-        "name": "Olasılık ve İstatistik"
-       },
-       {
-        "code": "MAT 271E",
-        "name": "Probability and Statistics"
-       },
-       {
-        "code": "MAT 337",
-        "name": "Web Programlama"
-       },
-       {
-        "code": "MAT 337E",
-        "name": "Web Programming"
-       },
-       {
-        "code": "MAT 417E",
-        "name": "Theory of Surfaces"
-       },
-       {
-        "code": "MAT 421E",
-        "name": "Fluid Mechanics"
-       },
-       {
-        "code": "MAT 421",
-        "name": "Akışkanlar Mekaniği"
-       },
-       {
-        "code": "MAT 422E",
-        "name": "Biomechanics"
-       },
-       {
-        "code": "MAT 422",
-        "name": "Biyomekanik"
-       },
-       {
-        "code": "MAT 453E",
-        "name": "Optimal Control Theory"
-       },
-       {
-        "code": "MAT 453",
-        "name": "Optimal Kontrol Teorisi"
-       },
-       {
-        "code": "MAT 471",
-        "name": "Finans Matematiği"
-       },
-       {
-        "code": "MAT 471E",
-        "name": "Financial Mathematics"
-       },
-       {
-        "code": "MAT 472E",
-        "name": "Computational Finance"
-       },
-       {
-        "code": "MET 221",
-        "name": "Malzeme Bilimi I"
-       },
-       {
-        "code": "MET 232",
-        "name": "Malzeme Bilimi II"
-       },
-       {
-        "code": "MET 232E",
-        "name": "Materials Science II"
-       },
-       {
-        "code": "MET 415",
-        "name": "Hasarsız Malzeme Muayenesi"
-       },
-       {
-        "code": "MET 415E",
-        "name": "Non-Destructive Testing"
-       },
-       {
-        "code": "MTH 407E",
-        "name": "Fundamentals of Automatic Target Tracking"
-       },
-       {
-        "code": "MTH 407",
-        "name": "Otomatik Hedef İzleme Temelleri"
-       },
-       {
-        "code": "MTH 408",
-        "name": "Uzay Radyasyon Ortamı ve Etkileri"
-       },
-       {
-        "code": "MTO 335E",
-        "name": "Physics of Upper Atmosphere"
-       },
-       {
-        "code": "MTO 458E",
-        "name": "Introduction to Planetary Atmospheres"
-       },
-       {
-        "code": "MTO 497",
-        "name": "Atmosferde Optik ve Akustik"
-       },
-       {
-        "code": "MUH 415E",
-        "name": "Theory of Elasticity"
+        "code": "EKO 201E",
+        "name": "Economics"
        },
        {
         "code": "MYZ 310E",
         "name": "Machine Learning in Physics"
        },
        {
-        "code": "MYZ 310",
-        "name": "Fizikte Makine Öğrenmesi"
+        "code": "MTH 407E",
+        "name": "Fundamentals of Automatic Target Tracking"
        },
        {
-        "code": "UZB 437E",
-        "name": "Introduction to Robotics"
+        "code": "MTH 408",
+        "name": "Uzay Radyasyon Ortamı ve Etkileri"
+       },
+       {
+        "code": "FZT 203E",
+        "name": "Theory of Groups in Physics"
+       },
+       {
+        "code": "FZT 302E",
+        "name": "Solid State Physics I"
        }
       ]
      }
@@ -2101,100 +1768,109 @@
       "ects": [
        4,
        5,
-       6
+       6,
+       8
       ],
       "options": [
        {
-        "code": "BIO 301E",
-        "name": "Fundamentals of Biology"
+        "code": "MET 415E",
+        "name": "Non-Destructive Testing"
        },
        {
-        "code": "BIO 351E",
-        "name": "Biophysics"
+        "code": "MET 221E",
+        "name": "Materials Science I"
        },
        {
-        "code": "EKO 201",
-        "name": "Ekonomi"
+        "code": "MET 232E",
+        "name": "Materials Science II"
        },
        {
-        "code": "EKO 201E",
-        "name": "Economics"
+        "code": "KMM 485E",
+        "name": "Polymer Chemistry and Technology"
        },
        {
-        "code": "FIZ 362",
-        "name": "Fizikte Matematiksel Yöntem II"
+        "code": "MTO 458E",
+        "name": "Introduction to Planetary Atmospheres"
        },
        {
-        "code": "FIZ 362E",
-        "name": "Mathematical Mthds in Physc II"
+        "code": "MTO 335E",
+        "name": "Physics of Upper Atmosphere"
        },
        {
-        "code": "FIZ 381E",
-        "name": "Classical Mechanics II"
+        "code": "UZB 437E",
+        "name": "Introduction to Robotics"
        },
        {
-        "code": "FIZ 381",
-        "name": "Klasik Mekanik II"
+        "code": "MAT 453E",
+        "name": "Optimal Control Theory"
        },
        {
-        "code": "FIZ 413E",
-        "name": "Solid State Electronics"
+        "code": "MAT 472E",
+        "name": "Computational Finance"
        },
        {
-        "code": "FIZ 413",
-        "name": "Katı Hal Elektroniği"
+        "code": "KIM 214E",
+        "name": "Structure and Properties of Polymers"
+       },
+       {
+        "code": "MAT 337E",
+        "name": "Web Programming"
+       },
+       {
+        "code": "MAT 471E",
+        "name": "Financial Mathematics"
+       },
+       {
+        "code": "KIM 207E",
+        "name": "Inorganic Chemistry"
+       },
+       {
+        "code": "MAT 421E",
+        "name": "Fluid Mechanics"
        },
        {
         "code": "FIZ 414E",
         "name": "Statistical Physics and Thermodynamics II"
        },
        {
-        "code": "FIZ 414",
-        "name": "İstatis Fizik ve Termodinmk II"
+        "code": "FIZ 426E",
+        "name": "Opto Electronics"
        },
        {
-        "code": "FIZ 423E",
-        "name": "X-Rays Refraction"
+        "code": "FIZ 453E",
+        "name": "Quantum Mechanics III"
        },
        {
-        "code": "FIZ 423",
-        "name": "X Işınları Kırınımı"
+        "code": "FIZ 381E",
+        "name": "Classical Mechanics II"
        },
        {
         "code": "FIZ 424E",
         "name": "Digital Electronics"
        },
        {
-        "code": "FIZ 424",
-        "name": "Dijital Elektronik"
+        "code": "FIZ 434E",
+        "name": "Microprocessors"
+       },
+       {
+        "code": "FIZ 446E",
+        "name": "Particle Physics"
+       },
+       {
+        "code": "FIZ 494E",
+        "name": "General Relativity"
        },
        {
         "code": "FIZ 425E",
         "name": "Comput. Anlys.of Phys.Sys."
        },
        {
-        "code": "FIZ 426E",
-        "name": "Opto Electronics"
+        "code": "FIZ 445E",
+        "name": "Magnetic Properties of Matter"
        },
        {
         "code": "FIZ 431E",
         "name": "Solid State Physics I"
-       },
-       {
-        "code": "FIZ 433E",
-        "name": "Nuclear Physics I"
-       },
-       {
-        "code": "FIZ 433",
-        "name": "Nükleer Fizik I"
-       },
-       {
-        "code": "FIZ 434E",
-        "name": "Microprocessors"
-       },
-       {
-        "code": "FIZ 434",
-        "name": "Mikroişlemciler"
        },
        {
         "code": "FIZ 435E",
@@ -2205,40 +1881,48 @@
         "name": "Solid State Physics II"
        },
        {
-        "code": "FIZ 436",
-        "name": "Katı Hal Fiziği II"
+        "code": "FIZ 454E",
+        "name": "Health Physics"
        },
        {
-        "code": "FIZ 441E",
-        "name": "Selected Prob. in Comp. Phy."
+        "code": "FIZ 456E",
+        "name": "Atomic ve Molecular Physics"
+       },
+       {
+        "code": "FIZ 471E",
+        "name": "Methods of Experimental Physics II"
+       },
+       {
+        "code": "MUH 415E",
+        "name": "Theory of Elasticity"
+       },
+       {
+        "code": "MAT 417E",
+        "name": "Theory of Surfaces"
+       },
+       {
+        "code": "BIO 301E",
+        "name": "Fundamentals of Biology"
+       },
+       {
+        "code": "FIZ 362E",
+        "name": "Mathematical Mthds in Physc II"
+       },
+       {
+        "code": "FIZ 413E",
+        "name": "Solid State Electronics"
+       },
+       {
+        "code": "FIZ 460E",
+        "name": "Introduction to Metrology"
        },
        {
         "code": "FIZ 443E",
         "name": "Solar Energy Physics &Tech. I"
        },
        {
-        "code": "FIZ 443",
-        "name": "Güneş Ener. Fizik ve Tek. I"
-       },
-       {
         "code": "FIZ 444E",
         "name": "Measurements and Characterization"
-       },
-       {
-        "code": "FIZ 445E",
-        "name": "Magnetic Properties of Matter"
-       },
-       {
-        "code": "FIZ 445",
-        "name": "Maddenin Magnetik Özellikleri"
-       },
-       {
-        "code": "FIZ 446E",
-        "name": "Particle Physics"
-       },
-       {
-        "code": "FIZ 446",
-        "name": "Parçacıklar Fiziği"
        },
        {
         "code": "FIZ 447E",
@@ -2249,80 +1933,16 @@
         "name": "Physics in Our Daily Life"
        },
        {
-        "code": "FIZ 449",
-        "name": "Günlük Yaşamımızda Fizik"
-       },
-       {
-        "code": "FIZ 453E",
-        "name": "Quantum Mechanics III"
-       },
-       {
-        "code": "FIZ 453",
-        "name": "Kuantum Mekaniği III"
-       },
-       {
-        "code": "FIZ 454E",
-        "name": "Health Physics"
-       },
-       {
-        "code": "FIZ 454",
-        "name": "Sağlık Fiziği"
-       },
-       {
-        "code": "FIZ 456E",
-        "name": "Atomic ve Molecular Physics"
-       },
-       {
-        "code": "FIZ 456",
-        "name": "Atom ve Molekül Fiziği I"
-       },
-       {
-        "code": "FIZ 458E",
-        "name": "Optics II"
-       },
-       {
         "code": "FIZ 459E",
         "name": "Physics of Metrology and Instrumentation"
        },
        {
-        "code": "FIZ 460E",
-        "name": "Introduction to Metrology"
+        "code": "FIZ 496E",
+        "name": "Nuclear Physics II"
        },
        {
-        "code": "FIZ 461E",
-        "name": "Physics of Sounds"
-       },
-       {
-        "code": "FIZ 463E",
-        "name": "Astrophysics I"
-       },
-       {
-        "code": "FIZ 464E",
-        "name": "Process of Solid State Devices"
-       },
-       {
-        "code": "FIZ 466E",
-        "name": "Astrophysics II"
-       },
-       {
-        "code": "FIZ 471E",
-        "name": "Methods of Experimental Physics II"
-       },
-       {
-        "code": "FIZ 473E",
-        "name": "Spectral Analysis Methods"
-       },
-       {
-        "code": "FIZ 474E",
-        "name": "Optical Properties of Solids"
-       },
-       {
-        "code": "FIZ 474",
-        "name": "Katıların Optik Özellikleri"
-       },
-       {
-        "code": "FIZ 474",
-        "name": "Katıların Optik Özellikleri"
+        "code": "FIZ 423E",
+        "name": "X-Rays Refraction"
        },
        {
         "code": "FIZ 474E",
@@ -2333,156 +1953,80 @@
         "name": "Solar Energy Physics &Tech. II"
        },
        {
-        "code": "FIZ 476",
-        "name": "Güneş Ene Fizik ve Tekno II"
+        "code": "BIO 351E",
+        "name": "Biophysics"
        },
        {
-        "code": "FIZ 486E",
-        "name": "Crystal Growth Technics"
+        "code": "FIZ 461E",
+        "name": "Physics of Sounds"
        },
        {
-        "code": "FIZ 494E",
-        "name": "General Relativity"
+        "code": "FIZ 473E",
+        "name": "Spectral Analysis Methods"
        },
        {
-        "code": "FIZ 494",
-        "name": "Genel Relativite"
+        "code": "FIZ 463E",
+        "name": "Astrophysics I"
        },
        {
-        "code": "FIZ 496E",
-        "name": "Nuclear Physics II"
-       },
-       {
-        "code": "FIZ 496",
-        "name": "Nükleer Fizik II"
-       },
-       {
-        "code": "KIM 207",
-        "name": "İnorganik Kimya"
-       },
-       {
-        "code": "KIM 214E",
-        "name": "Structure and Properties of Polymers"
-       },
-       {
-        "code": "KMM 485",
-        "name": "Polimer Kimyası ve Teknolojisi"
-       },
-       {
-        "code": "MAT 271",
-        "name": "Olasılık ve İstatistik"
+        "code": "MTO 497E",
+        "name": "Atmospheric Optics and Acoustics"
        },
        {
         "code": "MAT 271E",
         "name": "Probability and Statistics"
        },
        {
-        "code": "MAT 337",
-        "name": "Web Programlama"
-       },
-       {
-        "code": "MAT 337E",
-        "name": "Web Programming"
-       },
-       {
-        "code": "MAT 417E",
-        "name": "Theory of Surfaces"
-       },
-       {
-        "code": "MAT 421",
-        "name": "Akışkanlar Mekaniği"
-       },
-       {
-        "code": "MAT 421E",
-        "name": "Fluid Mechanics"
-       },
-       {
-        "code": "MAT 422",
-        "name": "Biyomekanik"
-       },
-       {
         "code": "MAT 422E",
         "name": "Biomechanics"
        },
        {
-        "code": "MAT 453",
-        "name": "Optimal Kontrol Teorisi"
+        "code": "FIZ 433E",
+        "name": "Nuclear Physics I"
        },
        {
-        "code": "MAT 453E",
-        "name": "Optimal Control Theory"
+        "code": "FIZ 441E",
+        "name": "Selected Prob. in Comp. Phy."
        },
        {
-        "code": "MAT 471",
-        "name": "Finans Matematiği"
+        "code": "FIZ 458E",
+        "name": "Optics II"
        },
        {
-        "code": "MAT 471E",
-        "name": "Financial Mathematics"
+        "code": "FIZ 464E",
+        "name": "Process of Solid State Devices"
        },
        {
-        "code": "MAT 472E",
-        "name": "Computational Finance"
+        "code": "FIZ 466E",
+        "name": "Astrophysics II"
        },
        {
-        "code": "MET 221",
-        "name": "Malzeme Bilimi I"
+        "code": "FIZ 486E",
+        "name": "Crystal Growth Technics"
        },
        {
-        "code": "MET 232",
-        "name": "Malzeme Bilimi II"
-       },
-       {
-        "code": "MET 232E",
-        "name": "Materials Science II"
-       },
-       {
-        "code": "MET 415",
-        "name": "Hasarsız Malzeme Muayenesi"
-       },
-       {
-        "code": "MET 415E",
-        "name": "Non-Destructive Testing"
-       },
-       {
-        "code": "MTH 407E",
-        "name": "Fundamentals of Automatic Target Tracking"
-       },
-       {
-        "code": "MTH 407",
-        "name": "Otomatik Hedef İzleme Temelleri"
-       },
-       {
-        "code": "MTH 408",
-        "name": "Uzay Radyasyon Ortamı ve Etkileri"
-       },
-       {
-        "code": "MTO 335E",
-        "name": "Physics of Upper Atmosphere"
-       },
-       {
-        "code": "MTO 458E",
-        "name": "Introduction to Planetary Atmospheres"
-       },
-       {
-        "code": "MTO 497",
-        "name": "Atmosferde Optik ve Akustik"
-       },
-       {
-        "code": "MUH 415E",
-        "name": "Theory of Elasticity"
+        "code": "EKO 201E",
+        "name": "Economics"
        },
        {
         "code": "MYZ 310E",
         "name": "Machine Learning in Physics"
        },
        {
-        "code": "MYZ 310",
-        "name": "Fizikte Makine Öğrenmesi"
+        "code": "MTH 407E",
+        "name": "Fundamentals of Automatic Target Tracking"
        },
        {
-        "code": "UZB 437E",
-        "name": "Introduction to Robotics"
+        "code": "MTH 408",
+        "name": "Uzay Radyasyon Ortamı ve Etkileri"
+       },
+       {
+        "code": "FZT 203E",
+        "name": "Theory of Groups in Physics"
+       },
+       {
+        "code": "FZT 302E",
+        "name": "Solid State Physics I"
        }
       ]
      }

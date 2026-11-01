@@ -40,16 +40,8 @@
       ],
       "options": [
        {
-        "code": "ELE 519",
-        "name": "Elekt.Müh.Matematiksel Yönt."
-       },
-       {
         "code": "ELE 519E",
         "name": "Mathematical Methods in Electrical Engineering"
-       },
-       {
-        "code": "KOM 505",
-        "name": "Olasılık Kuramı&Rastlan.Süreçl"
        },
        {
         "code": "KOM 505E",
@@ -68,24 +60,20 @@
       ],
       "options": [
        {
-        "code": "ELE 503E",
-        "name": "Active Netwok Synthesis"
+        "code": "ELE 531E",
+        "name": "Network Syn.&Passi.Filter Des."
        },
        {
         "code": "ELE 512E",
         "name": "Advanced Analog IC Design"
        },
        {
+        "code": "ELE 503E",
+        "name": "Active Netwok Synthesis"
+       },
+       {
         "code": "ELE 514E",
         "name": "System Theory"
-       },
-       {
-        "code": "ELE 514",
-        "name": "Sistem Teorisi"
-       },
-       {
-        "code": "ELE 531E",
-        "name": "Network Syn.&Passi.Filter Des."
        }
       ]
      }
@@ -100,24 +88,20 @@
       ],
       "options": [
        {
-        "code": "ELE 503E",
-        "name": "Active Netwok Synthesis"
+        "code": "ELE 531E",
+        "name": "Network Syn.&Passi.Filter Des."
        },
        {
         "code": "ELE 512E",
         "name": "Advanced Analog IC Design"
        },
        {
-        "code": "ELE 514",
-        "name": "Sistem Teorisi"
+        "code": "ELE 503E",
+        "name": "Active Netwok Synthesis"
        },
        {
         "code": "ELE 514E",
         "name": "System Theory"
-       },
-       {
-        "code": "ELE 531E",
-        "name": "Network Syn.&Passi.Filter Des."
        }
       ]
      }
@@ -132,24 +116,20 @@
       ],
       "options": [
        {
-        "code": "ELE 503E",
-        "name": "Active Netwok Synthesis"
+        "code": "ELE 531E",
+        "name": "Network Syn.&Passi.Filter Des."
        },
        {
         "code": "ELE 512E",
         "name": "Advanced Analog IC Design"
        },
        {
-        "code": "ELE 514",
-        "name": "Sistem Teorisi"
+        "code": "ELE 503E",
+        "name": "Active Netwok Synthesis"
        },
        {
         "code": "ELE 514E",
         "name": "System Theory"
-       },
-       {
-        "code": "ELE 531E",
-        "name": "Network Syn.&Passi.Filter Des."
        }
       ]
      }

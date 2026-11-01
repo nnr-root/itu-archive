@@ -40,7 +40,19 @@
       ],
       "options": [
        {
+        "code": "KMM 511E",
+        "name": "Engineering Mathematics"
+       },
+       {
+        "code": "YAP 501E",
+        "name": "Engineering Mathematics"
+       },
+       {
         "code": "CHZ 511",
+        "name": "Mühendislik Matematiği"
+       },
+       {
+        "code": "JFM 501",
         "name": "Mühendislik Matematiği"
        },
        {
@@ -48,15 +60,11 @@
         "name": "Engineering Mathematics"
        },
        {
-        "code": "JFM 501",
-        "name": "Mühendislik Matematiği"
-       },
-       {
-        "code": "KMM 511E",
+        "code": "MTA 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MDK 501E",
+        "code": "MOT 501E",
         "name": "Engineering Mathematics"
        },
        {
@@ -68,23 +76,15 @@
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MKS 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
         "code": "MMI 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "MOT 501",
-        "name": "Mühendislik Matematiği"
-       },
-       {
-        "code": "MTA 501E",
+        "code": "MDK 501E",
         "name": "Engineering Mathematics"
        },
        {
-        "code": "YAP 501E",
+        "code": "MKS 501E",
         "name": "Engineering Mathematics"
        }
       ]
@@ -108,32 +108,32 @@
         "name": "Advanced Textile Technology"
        },
        {
-        "code": "YTT 503E",
-        "name": "Innovative&Func.Mat.&Prod."
-       },
-       {
-        "code": "YTT 504E",
-        "name": "Hi-tech&High-Perfor.Text.&App."
+        "code": "YTT 509E",
+        "name": "Textile Technologies"
        },
        {
         "code": "YTT 505E",
         "name": "Material Science for Tech.Tex."
        },
        {
-        "code": "YTT 507E",
-        "name": "Polymers for Techn.Textiles"
-       },
-       {
         "code": "YTT 508E",
         "name": "Quality Cont.&Test.of Tec.Tex."
        },
        {
-        "code": "YTT 509E",
-        "name": "Textile Technologies"
+        "code": "YTT 503E",
+        "name": "Innovative&Func.Mat.&Prod."
+       },
+       {
+        "code": "YTT 507E",
+        "name": "Polymers for Techn.Textiles"
        },
        {
         "code": "YTT 524E",
         "name": "Textile-based Comp.Materials"
+       },
+       {
+        "code": "YTT 504E",
+        "name": "Hi-tech&High-Perfor.Text.&App."
        }
       ]
      }
@@ -156,32 +156,32 @@
         "name": "Advanced Textile Technology"
        },
        {
-        "code": "YTT 503E",
-        "name": "Innovative&Func.Mat.&Prod."
-       },
-       {
-        "code": "YTT 504E",
-        "name": "Hi-tech&High-Perfor.Text.&App."
+        "code": "YTT 509E",
+        "name": "Textile Technologies"
        },
        {
         "code": "YTT 505E",
         "name": "Material Science for Tech.Tex."
        },
        {
-        "code": "YTT 507E",
-        "name": "Polymers for Techn.Textiles"
-       },
-       {
         "code": "YTT 508E",
         "name": "Quality Cont.&Test.of Tec.Tex."
        },
        {
-        "code": "YTT 509E",
-        "name": "Textile Technologies"
+        "code": "YTT 503E",
+        "name": "Innovative&Func.Mat.&Prod."
+       },
+       {
+        "code": "YTT 507E",
+        "name": "Polymers for Techn.Textiles"
        },
        {
         "code": "YTT 524E",
         "name": "Textile-based Comp.Materials"
+       },
+       {
+        "code": "YTT 504E",
+        "name": "Hi-tech&High-Perfor.Text.&App."
        }
       ]
      }
@@ -204,32 +204,32 @@
         "name": "Advanced Textile Technology"
        },
        {
-        "code": "YTT 503E",
-        "name": "Innovative&Func.Mat.&Prod."
-       },
-       {
-        "code": "YTT 504E",
-        "name": "Hi-tech&High-Perfor.Text.&App."
+        "code": "YTT 509E",
+        "name": "Textile Technologies"
        },
        {
         "code": "YTT 505E",
         "name": "Material Science for Tech.Tex."
        },
        {
-        "code": "YTT 507E",
-        "name": "Polymers for Techn.Textiles"
-       },
-       {
         "code": "YTT 508E",
         "name": "Quality Cont.&Test.of Tec.Tex."
        },
        {
-        "code": "YTT 509E",
-        "name": "Textile Technologies"
+        "code": "YTT 503E",
+        "name": "Innovative&Func.Mat.&Prod."
+       },
+       {
+        "code": "YTT 507E",
+        "name": "Polymers for Techn.Textiles"
        },
        {
         "code": "YTT 524E",
         "name": "Textile-based Comp.Materials"
+       },
+       {
+        "code": "YTT 504E",
+        "name": "Hi-tech&High-Perfor.Text.&App."
        }
       ]
      }

@@ -103,228 +103,56 @@
       ],
       "options": [
        {
-        "code": "ALM 101",
-        "name": "Almanca I"
-       },
-       {
-        "code": "ALM 102",
-        "name": "Almanca II"
-       },
-       {
-        "code": "ALM 201",
-        "name": "Almanca III"
-       },
-       {
-        "code": "ALM 202",
-        "name": "Almanca IV"
-       },
-       {
-        "code": "ALM 301",
-        "name": "Almanca V"
-       },
-       {
-        "code": "ALM 302",
-        "name": "Almanca VI"
-       },
-       {
-        "code": "ALM 401",
-        "name": "Almanca VII"
-       },
-       {
-        "code": "ARB 101",
-        "name": "Arapça I"
-       },
-       {
-        "code": "ARB 102",
-        "name": "Arapça II"
-       },
-       {
-        "code": "CIN 101",
-        "name": "Çince I"
-       },
-       {
-        "code": "CIN 102",
-        "name": "Çince II"
-       },
-       {
-        "code": "CIN 201",
-        "name": "Çince III"
-       },
-       {
-        "code": "FRA 101",
-        "name": "Fransızca I"
-       },
-       {
-        "code": "FRA 102",
-        "name": "Fransızca II"
-       },
-       {
-        "code": "FRA 201",
-        "name": "Fransızca III"
-       },
-       {
-        "code": "FRA 202",
-        "name": "Fransızca IV"
-       },
-       {
-        "code": "FRA 301",
-        "name": "Fransızca V"
-       },
-       {
-        "code": "FRA 302",
-        "name": "Fransızca VI"
-       },
-       {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
-       },
-       {
-        "code": "HUK 216",
-        "name": "Telekomünikasyon Hukuku"
-       },
-       {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
-       },
-       {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
-       },
-       {
-        "code": "ING 103A",
-        "name": "Creative Writing"
-       },
-       {
-        "code": "ING 103AC",
-        "name": "Urban Ecology"
-       },
-       {
-        "code": "ING 103AD",
-        "name": "Advanced English for Engineers"
-       },
-       {
-        "code": "ING 103B",
-        "name": "Business English"
-       },
-       {
-        "code": "ING 103C",
-        "name": "Great Moments in Science"
-       },
-       {
-        "code": "ING 103CO",
-        "name": "Profess.Communic.for Engineers"
-       },
-       {
-        "code": "ING 103DD",
-        "name": "Decoding Discourse: Language, Power, and Ideology"
-       },
-       {
-        "code": "ING 103G",
-        "name": "Business Communications"
-       },
-       {
-        "code": "ING 103H",
-        "name": "Public Presentations"
-       },
-       {
-        "code": "ING 103I",
-        "name": "Short Stories"
-       },
-       {
-        "code": "ING 103L",
-        "name": "Mythology"
-       },
-       {
-        "code": "ING 103N",
-        "name": "Film Studies"
-       },
-       {
-        "code": "ING 103O",
-        "name": "Psychology"
-       },
-       {
-        "code": "ING 103P",
-        "name": "Poetry"
-       },
-       {
-        "code": "ING 103ES",
-        "name": "Intercultural Citizenship in International Education"
-       },
-       {
-        "code": "ING 103SC",
-        "name": "Science Communication"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
         "code": "ISL 465E",
         "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
+        "code": "ING 103CO",
+        "name": "Profess.Communic.for Engineers"
        },
        {
-        "code": "ISP 101",
-        "name": "İspanyolca I"
+        "code": "ING 103H",
+        "name": "Public Presentations"
        },
        {
-        "code": "ISP 102",
-        "name": "İspanyolca II"
+        "code": "ING 103SC",
+        "name": "Science Communication"
        },
        {
-        "code": "ISP 201",
-        "name": "İspanyolca III"
+        "code": "ING 103G",
+        "name": "Business Communications"
        },
        {
-        "code": "ISP 202",
-        "name": "İspanyolca IV"
+        "code": "ING 103P",
+        "name": "Poetry"
        },
        {
-        "code": "ISP 301",
-        "name": "İspanyolca V"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
-        "code": "ISP 302",
-        "name": "İspanyolca VI"
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
        },
        {
-        "code": "ITA 101",
-        "name": "İtalyanca I"
+        "code": "ING 103B",
+        "name": "Business English"
        },
        {
-        "code": "ITA 102",
-        "name": "İtalyanca II"
+        "code": "ING 103AD",
+        "name": "Advanced English for Engineers"
        },
        {
-        "code": "ITA 201",
-        "name": "İtalyanca III"
+        "code": "ING 103O",
+        "name": "Psychology"
        },
        {
-        "code": "ITA 202",
-        "name": "İtalyanca IV"
-       },
-       {
-        "code": "ITA 301",
-        "name": "İtalyanca V"
-       },
-       {
-        "code": "ITB 020E",
-        "name": "Formations of Modernity"
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "ITB 037E",
@@ -343,40 +171,48 @@
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+        "code": "ING 103A",
+        "name": "Creative Writing"
+       },
+       {
+        "code": "ING 103AC",
+        "name": "Urban Ecology"
+       },
+       {
+        "code": "ING 103C",
+        "name": "Great Moments in Science"
+       },
+       {
+        "code": "ING 103ES",
+        "name": "Intercultural Citizenship in International Education"
+       },
+       {
+        "code": "ING 103L",
+        "name": "Mythology"
+       },
+       {
+        "code": "ING 103N",
+        "name": "Film Studies"
+       },
+       {
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
+       },
+       {
+        "code": "HUK 218E",
+        "name": "Commercial Law"
+       },
+       {
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
        },
        {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
         "code": "ITB 206E",
@@ -387,68 +223,20 @@
         "name": "Ottoman History"
        },
        {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
         "code": "ITB 209E",
         "name": "Türkiye in World Affairs"
-       },
-       {
-        "code": "ITB 213E",
-        "name": "Toplics in Literature and Society"
-       },
-       {
-        "code": "ITB 214E",
-        "name": "The Modern Middle East"
-       },
-       {
-        "code": "ITB 215E",
-        "name": "Topics in Hist.and Society"
-       },
-       {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
        },
        {
         "code": "ITB 217E",
         "name": "Engineering Ethics"
        },
        {
-        "code": "ITB 218E",
-        "name": "History of Science&Technology"
+        "code": "ITB 233E",
+        "name": "Anthropology"
        },
        {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 221E",
-        "name": "Anatolian Archaeology"
-       },
-       {
-        "code": "ITB 222E",
-        "name": "City and Society"
-       },
-       {
-        "code": "ITB 224E",
-        "name": "Environment and Society"
-       },
-       {
-        "code": "ITB 225E",
-        "name": "Intercultural Citizenship Education"
-       },
-       {
-        "code": "ITB 227E",
-        "name": "Political Theory"
-       },
-       {
-        "code": "ITB 228E",
-        "name": "Gender Studies"
+        "code": "ITB 203E",
+        "name": "Sociology"
        },
        {
         "code": "ITB 230E",
@@ -459,56 +247,268 @@
         "name": "Volunteering Studies"
        },
        {
-        "code": "ITB 233E",
-        "name": "Anthropology"
-       },
-       {
         "code": "ITB 234E",
         "name": "The Rise of Civilizations"
+       },
+       {
+        "code": "ITB 213E",
+        "name": "Toplics in Literature and Society"
+       },
+       {
+        "code": "ITB 219E",
+        "name": "Ethics"
+       },
+       {
+        "code": "ING 103I",
+        "name": "Short Stories"
+       },
+       {
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
+       },
+       {
+        "code": "ITB 214E",
+        "name": "The Modern Middle East"
+       },
+       {
+        "code": "ITB 215E",
+        "name": "Topics in Hist.and Society"
+       },
+       {
+        "code": "ITB 218E",
+        "name": "History of Science&Technology"
+       },
+       {
+        "code": "ITB 222E",
+        "name": "City and Society"
+       },
+       {
+        "code": "ITB 224E",
+        "name": "Environment and Society"
+       },
+       {
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
+       },
+       {
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
+       },
+       {
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
+        "code": "ITB 227E",
+        "name": "Political Theory"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "I"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "III"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "IV"
+       },
+       {
+        "code": "JPN Japonca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "VI"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "I"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "II"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "I"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "V"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "III"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "II"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "III"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "V"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "III"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "IV"
+       },
+       {
+        "code": "FRA Fransızca",
+        "name": "IV"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "VI"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "V"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "III"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "III"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "V"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "II"
+       },
+       {
+        "code": "RUS Rusça",
+        "name": "II"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "II"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "I"
+       },
+       {
+        "code": "ITA İtalyanca",
+        "name": "IV"
+       },
+       {
+        "code": "ALM Almanca",
+        "name": "VII"
+       },
+       {
+        "code": "ISP İspanyolca",
+        "name": "I"
+       },
+       {
+        "code": "CIN Çince",
+        "name": "III"
+       },
+       {
+        "code": "ARB 101",
+        "name": "Arapça I"
+       },
+       {
+        "code": "ARB 102",
+        "name": "Arapça II"
+       },
+       {
+        "code": "ITB 225E",
+        "name": "Intercultural Citizenship Education"
        },
        {
         "code": "ITB 235E",
         "name": "Türkiye and EuropeanUnion"
        },
        {
-        "code": "JPN 101",
-        "name": "Japonca I"
+        "code": "RUS Rusça",
+        "name": "IV"
        },
        {
-        "code": "JPN 102",
-        "name": "Japonca II"
+        "code": "ING 103DD",
+        "name": "Decoding Discourse: Language, Power, and Ideology"
        },
        {
-        "code": "JPN 201",
-        "name": "Japonca III"
+        "code": "KOR Korece",
+        "name": "I"
        },
        {
-        "code": "JPN 202",
-        "name": "Japonca IV"
-       },
-       {
-        "code": "KOR 101",
-        "name": "Korece I"
-       },
-       {
-        "code": "KOR 102",
-        "name": "Korece II"
-       },
-       {
-        "code": "RUS 101",
-        "name": "Rusça I"
-       },
-       {
-        "code": "RUS 102",
-        "name": "Rusça II"
-       },
-       {
-        "code": "RUS 201",
-        "name": "Rusça III"
-       },
-       {
-        "code": "RUS 202",
-        "name": "Rusça IV"
+        "code": "KOR Korece",
+        "name": "II"
        }
       ]
      }
@@ -601,48 +601,24 @@
       ],
       "options": [
        {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
-       },
-       {
-        "code": "HUK 216",
-        "name": "Telekomünikasyon Hukuku"
-       },
-       {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
-       },
-       {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
         "code": "ISL 465E",
         "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
-        "code": "ITB 020E",
-        "name": "Formations of Modernity"
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "ITB 037E",
@@ -661,40 +637,24 @@
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
+       },
+       {
+        "code": "HUK 218E",
+        "name": "Commercial Law"
+       },
+       {
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
        },
        {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
         "code": "ITB 206E",
@@ -705,16 +665,44 @@
         "name": "Ottoman History"
        },
        {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
         "code": "ITB 209E",
         "name": "Türkiye in World Affairs"
        },
        {
+        "code": "ITB 217E",
+        "name": "Engineering Ethics"
+       },
+       {
+        "code": "ITB 233E",
+        "name": "Anthropology"
+       },
+       {
+        "code": "ITB 203E",
+        "name": "Sociology"
+       },
+       {
+        "code": "ITB 230E",
+        "name": "Disaster Awareness"
+       },
+       {
+        "code": "ITB 234E",
+        "name": "The Rise of Civilizations"
+       },
+       {
         "code": "ITB 213E",
         "name": "Toplics in Literature and Society"
+       },
+       {
+        "code": "ITB 219E",
+        "name": "Ethics"
+       },
+       {
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
        },
        {
         "code": "ITB 214E",
@@ -725,28 +713,8 @@
         "name": "Topics in Hist.and Society"
        },
        {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
-       },
-       {
-        "code": "ITB 217E",
-        "name": "Engineering Ethics"
-       },
-       {
         "code": "ITB 218E",
         "name": "History of Science&Technology"
-       },
-       {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 221E",
-        "name": "Anatolian Archaeology"
        },
        {
         "code": "ITB 222E",
@@ -757,24 +725,56 @@
         "name": "Environment and Society"
        },
        {
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
+       },
+       {
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
+       },
+       {
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
         "code": "ITB 227E",
         "name": "Political Theory"
-       },
-       {
-        "code": "ITB 228E",
-        "name": "Gender Studies"
-       },
-       {
-        "code": "ITB 230E",
-        "name": "Disaster Awareness"
-       },
-       {
-        "code": "ITB 233E",
-        "name": "Anthropology"
-       },
-       {
-        "code": "ITB 234E",
-        "name": "The Rise of Civilizations"
        },
        {
         "code": "ITB 235E",
@@ -846,48 +846,24 @@
       ],
       "options": [
        {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
-       },
-       {
-        "code": "HUK 216",
-        "name": "Telekomünikasyon Hukuku"
-       },
-       {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
-       },
-       {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
         "code": "ISL 465E",
         "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
-        "code": "ITB 020E",
-        "name": "Formations of Modernity"
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "ITB 037E",
@@ -906,40 +882,24 @@
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
+       },
+       {
+        "code": "HUK 218E",
+        "name": "Commercial Law"
+       },
+       {
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
        },
        {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
         "code": "ITB 206E",
@@ -950,16 +910,44 @@
         "name": "Ottoman History"
        },
        {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
         "code": "ITB 209E",
         "name": "Türkiye in World Affairs"
        },
        {
+        "code": "ITB 217E",
+        "name": "Engineering Ethics"
+       },
+       {
+        "code": "ITB 233E",
+        "name": "Anthropology"
+       },
+       {
+        "code": "ITB 203E",
+        "name": "Sociology"
+       },
+       {
+        "code": "ITB 230E",
+        "name": "Disaster Awareness"
+       },
+       {
+        "code": "ITB 234E",
+        "name": "The Rise of Civilizations"
+       },
+       {
         "code": "ITB 213E",
         "name": "Toplics in Literature and Society"
+       },
+       {
+        "code": "ITB 219E",
+        "name": "Ethics"
+       },
+       {
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
        },
        {
         "code": "ITB 214E",
@@ -970,28 +958,8 @@
         "name": "Topics in Hist.and Society"
        },
        {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
-       },
-       {
-        "code": "ITB 217E",
-        "name": "Engineering Ethics"
-       },
-       {
         "code": "ITB 218E",
         "name": "History of Science&Technology"
-       },
-       {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 221E",
-        "name": "Anatolian Archaeology"
        },
        {
         "code": "ITB 222E",
@@ -1002,32 +970,56 @@
         "name": "Environment and Society"
        },
        {
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
+       },
+       {
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
+       },
+       {
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
         "code": "ITB 227E",
         "name": "Political Theory"
-       },
-       {
-        "code": "ITB 228E",
-        "name": "Gender Studies"
-       },
-       {
-        "code": "ITB 230E",
-        "name": "Disaster Awareness"
-       },
-       {
-        "code": "ITB 233E",
-        "name": "Anthropology"
-       },
-       {
-        "code": "ITB 234E",
-        "name": "The Rise of Civilizations"
-       },
-       {
-        "code": "SNT 103E",
-        "name": "Drawing"
-       },
-       {
-        "code": "SNT 104E",
-        "name": "Mythology and Art"
        },
        {
         "code": "SNT 105E",
@@ -1038,48 +1030,12 @@
         "name": "Traditional Turkish Art&Crafts"
        },
        {
-        "code": "SNT 107E",
-        "name": "Ancient Civilizat.in Anatolia"
-       },
-       {
-        "code": "SNT 112E",
-        "name": "Theater"
-       },
-       {
-        "code": "SNT 113E",
-        "name": "Art and Interpretation"
+        "code": "SNT 103E",
+        "name": "Drawing"
        },
        {
         "code": "SNT 114E",
         "name": "Contemporary Art"
-       },
-       {
-        "code": "SNT 116E",
-        "name": "The Art of Communication"
-       },
-       {
-        "code": "SNT 117E",
-        "name": "Jazz Appreciation"
-       },
-       {
-        "code": "SNT 121E",
-        "name": "World Music Cultures"
-       },
-       {
-        "code": "SNT 123E",
-        "name": "Film Production"
-       },
-       {
-        "code": "SNT 211E",
-        "name": "Istanbul:Hist.,Art and Society"
-       },
-       {
-        "code": "SNT 212E",
-        "name": "Art,Culture and Society"
-       },
-       {
-        "code": "SNT 215E",
-        "name": "Balkan Musics"
        },
        {
         "code": "SNT 226E",
@@ -1088,6 +1044,50 @@
        {
         "code": "SNT 227E",
         "name": "Sound and Society"
+       },
+       {
+        "code": "SNT 112E",
+        "name": "Theater"
+       },
+       {
+        "code": "SNT 116E",
+        "name": "The Art of Communication"
+       },
+       {
+        "code": "SNT 212E",
+        "name": "Art,Culture and Society"
+       },
+       {
+        "code": "SNT 104E",
+        "name": "Mythology and Art"
+       },
+       {
+        "code": "SNT 107E",
+        "name": "Ancient Civilizat.in Anatolia"
+       },
+       {
+        "code": "SNT 123E",
+        "name": "Film Production"
+       },
+       {
+        "code": "SNT 113E",
+        "name": "Art and Interpretation"
+       },
+       {
+        "code": "SNT 117E",
+        "name": "Jazz Appreciation"
+       },
+       {
+        "code": "SNT 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "SNT 215E",
+        "name": "Balkan Musics"
+       },
+       {
+        "code": "SNT 121E",
+        "name": "World Music Cultures"
        }
       ]
      }
@@ -1162,48 +1162,24 @@
       ],
       "options": [
        {
-        "code": "HUK 211",
-        "name": "Sosyal Güvenlik Hukuku"
-       },
-       {
-        "code": "HUK 212",
-        "name": "Sendika.&Toplu İş Sözl.Hukuku"
-       },
-       {
-        "code": "HUK 213",
-        "name": "İş Sağlığı ve Güvenliği Hukuku"
-       },
-       {
-        "code": "HUK 214",
-        "name": "Teknolojik Yeniliklerin Korun."
-       },
-       {
-        "code": "HUK 215",
-        "name": "Sözleşmeler Hukuku"
-       },
-       {
-        "code": "HUK 216",
-        "name": "Telekomünikasyon Hukuku"
-       },
-       {
-        "code": "HUK 217",
-        "name": "AR-GE Hukuku"
-       },
-       {
-        "code": "HUK 218",
-        "name": "Ticaret Hukuku"
+        "code": "ISL 478E",
+        "name": "Entrepreneurship"
        },
        {
         "code": "ISL 465E",
         "name": "Int.to Entrepreneurship&Innov."
        },
        {
-        "code": "ISL 478E",
-        "name": "Entrepreneurship"
+        "code": "HUK 214E",
+        "name": "Protection of Technological Innovations"
        },
        {
-        "code": "ITB 020E",
-        "name": "Formations of Modernity"
+        "code": "HUK 216",
+        "name": "Telekomünikasyon Hukuku"
+       },
+       {
+        "code": "HUK 213E",
+        "name": "Occupational Safety and Health Law"
        },
        {
         "code": "ITB 037E",
@@ -1222,40 +1198,24 @@
         "name": "Technology, Policy and Law"
        },
        {
-        "code": "ITB 143E",
-        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+        "code": "HUK 217",
+        "name": "AR-GE Hukuku"
+       },
+       {
+        "code": "HUK 218E",
+        "name": "Commercial Law"
+       },
+       {
+        "code": "ITB 020E",
+        "name": "Formations of Modernity"
        },
        {
         "code": "ITB 151E",
         "name": "Human Resources and Management"
        },
        {
-        "code": "ITB 171E",
-        "name": "Science,Technology and Society"
-       },
-       {
-        "code": "ITB 179E",
-        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
-       },
-       {
-        "code": "ITB 201E",
-        "name": "Introduction to Humanities & Social Sciences"
-       },
-       {
-        "code": "ITB 202E",
-        "name": "World History"
-       },
-       {
-        "code": "ITB 203E",
-        "name": "Sociology"
-       },
-       {
-        "code": "ITB 204E",
-        "name": "Political Science"
-       },
-       {
-        "code": "ITB 205E",
-        "name": "Philosophy"
+        "code": "ITB 228E",
+        "name": "Gender Studies"
        },
        {
         "code": "ITB 206E",
@@ -1266,16 +1226,44 @@
         "name": "Ottoman History"
        },
        {
-        "code": "ITB 208E",
-        "name": "Formations of Modern Türkiye"
-       },
-       {
         "code": "ITB 209E",
         "name": "Türkiye in World Affairs"
        },
        {
+        "code": "ITB 217E",
+        "name": "Engineering Ethics"
+       },
+       {
+        "code": "ITB 233E",
+        "name": "Anthropology"
+       },
+       {
+        "code": "ITB 203E",
+        "name": "Sociology"
+       },
+       {
+        "code": "ITB 230E",
+        "name": "Disaster Awareness"
+       },
+       {
+        "code": "ITB 234E",
+        "name": "The Rise of Civilizations"
+       },
+       {
         "code": "ITB 213E",
         "name": "Toplics in Literature and Society"
+       },
+       {
+        "code": "ITB 219E",
+        "name": "Ethics"
+       },
+       {
+        "code": "ITB 179E",
+        "name": "Literatures of Intimate Separacies:Vizyones,Seyfettin,Armen"
+       },
+       {
+        "code": "ITB 202E",
+        "name": "World History"
        },
        {
         "code": "ITB 214E",
@@ -1286,28 +1274,8 @@
         "name": "Topics in Hist.and Society"
        },
        {
-        "code": "ITB 216E",
-        "name": "Economy and Society"
-       },
-       {
-        "code": "ITB 217E",
-        "name": "Engineering Ethics"
-       },
-       {
         "code": "ITB 218E",
         "name": "History of Science&Technology"
-       },
-       {
-        "code": "ITB 219E",
-        "name": "Ethics"
-       },
-       {
-        "code": "ITB 220E",
-        "name": "Psychology"
-       },
-       {
-        "code": "ITB 221E",
-        "name": "Anatolian Archaeology"
        },
        {
         "code": "ITB 222E",
@@ -1318,40 +1286,56 @@
         "name": "Environment and Society"
        },
        {
+        "code": "ITB 171E",
+        "name": "Science,Technology and Society"
+       },
+       {
+        "code": "ITB 201E",
+        "name": "Introduction to Humanities & Social Sciences"
+       },
+       {
+        "code": "ITB 205E",
+        "name": "Philosophy"
+       },
+       {
+        "code": "HUK 211",
+        "name": "Sosyal Güvenlik Hukuku"
+       },
+       {
+        "code": "HUK 212",
+        "name": "Sendika.&Toplu İş Sözl.Hukuku"
+       },
+       {
+        "code": "HUK 215",
+        "name": "Sözleşmeler Hukuku"
+       },
+       {
+        "code": "ITB 143E",
+        "name": "Durrel and Said : Orientalism Practiced and Theorized"
+       },
+       {
+        "code": "ITB 204E",
+        "name": "Political Science"
+       },
+       {
+        "code": "ITB 208E",
+        "name": "Formations of Modern Türkiye"
+       },
+       {
+        "code": "ITB 216E",
+        "name": "Economy and Society"
+       },
+       {
+        "code": "ITB 220E",
+        "name": "Psychology"
+       },
+       {
+        "code": "ITB 221E",
+        "name": "Anatolian Archaeology"
+       },
+       {
         "code": "ITB 227E",
         "name": "Political Theory"
-       },
-       {
-        "code": "ITB 228E",
-        "name": "Gender Studies"
-       },
-       {
-        "code": "ITB 230E",
-        "name": "Disaster Awareness"
-       },
-       {
-        "code": "ITB 233E",
-        "name": "Anthropology"
-       },
-       {
-        "code": "ITB 234E",
-        "name": "The Rise of Civilizations"
-       },
-       {
-        "code": "ITB 235E",
-        "name": "Türkiye and EuropeanUnion"
-       },
-       {
-        "code": "SNT 102E",
-        "name": "Photography"
-       },
-       {
-        "code": "SNT 103E",
-        "name": "Drawing"
-       },
-       {
-        "code": "SNT 104E",
-        "name": "Mythology and Art"
        },
        {
         "code": "SNT 105E",
@@ -1362,48 +1346,12 @@
         "name": "Traditional Turkish Art&Crafts"
        },
        {
-        "code": "SNT 107E",
-        "name": "Ancient Civilizat.in Anatolia"
-       },
-       {
-        "code": "SNT 112E",
-        "name": "Theater"
-       },
-       {
-        "code": "SNT 113E",
-        "name": "Art and Interpretation"
+        "code": "SNT 103E",
+        "name": "Drawing"
        },
        {
         "code": "SNT 114E",
         "name": "Contemporary Art"
-       },
-       {
-        "code": "SNT 116E",
-        "name": "The Art of Communication"
-       },
-       {
-        "code": "SNT 117E",
-        "name": "Jazz Appreciation"
-       },
-       {
-        "code": "SNT 121E",
-        "name": "World Music Cultures"
-       },
-       {
-        "code": "SNT 123E",
-        "name": "Film Production"
-       },
-       {
-        "code": "SNT 211E",
-        "name": "Istanbul:Hist.,Art and Society"
-       },
-       {
-        "code": "SNT 212E",
-        "name": "Art,Culture and Society"
-       },
-       {
-        "code": "SNT 215E",
-        "name": "Balkan Musics"
        },
        {
         "code": "SNT 226E",
@@ -1412,6 +1360,58 @@
        {
         "code": "SNT 227E",
         "name": "Sound and Society"
+       },
+       {
+        "code": "SNT 112E",
+        "name": "Theater"
+       },
+       {
+        "code": "SNT 116E",
+        "name": "The Art of Communication"
+       },
+       {
+        "code": "SNT 212E",
+        "name": "Art,Culture and Society"
+       },
+       {
+        "code": "SNT 104E",
+        "name": "Mythology and Art"
+       },
+       {
+        "code": "SNT 107E",
+        "name": "Ancient Civilizat.in Anatolia"
+       },
+       {
+        "code": "SNT 123E",
+        "name": "Film Production"
+       },
+       {
+        "code": "SNT 113E",
+        "name": "Art and Interpretation"
+       },
+       {
+        "code": "SNT 102E",
+        "name": "Photography"
+       },
+       {
+        "code": "SNT 117E",
+        "name": "Jazz Appreciation"
+       },
+       {
+        "code": "SNT 211E",
+        "name": "Istanbul:Hist.,Art and Society"
+       },
+       {
+        "code": "SNT 215E",
+        "name": "Balkan Musics"
+       },
+       {
+        "code": "SNT 121E",
+        "name": "World Music Cultures"
+       },
+       {
+        "code": "ITB 235E",
+        "name": "Türkiye and EuropeanUnion"
        }
       ]
      }
@@ -1569,28 +1569,120 @@
       ],
       "options": [
        {
-        "code": "BHB 201E",
-        "name": "Fundamental Software of Informatics"
-       },
-       {
-        "code": "BHB 202E",
-        "name": "Introduction to Mathematical Methods in Computational Science and Engineering"
-       },
-       {
-        "code": "BHB 203E",
-        "name": "Object Oriented Programming for Computational Science"
-       },
-       {
-        "code": "BHB 204E",
-        "name": "Spatial Data Science"
-       },
-       {
-        "code": "BHB 402E",
-        "name": "Computational Neuroscience"
-       },
-       {
         "code": "BLG 454E",
         "name": "Learning From Data"
+       },
+       {
+        "code": "END 327E",
+        "name": "Decision Theory"
+       },
+       {
+        "code": "ISL 435E",
+        "name": "The World Economy at a Glance"
+       },
+       {
+        "code": "END 305E",
+        "name": "Data Analytics for Business"
+       },
+       {
+        "code": "END 344E",
+        "name": "Behavioral Sciences"
+       },
+       {
+        "code": "ISL 443E",
+        "name": "Project Design and Manag."
+       },
+       {
+        "code": "ISL 354E",
+        "name": "Managerial Decision Making"
+       },
+       {
+        "code": "ISL 448E",
+        "name": "Optimization Models & App."
+       },
+       {
+        "code": "ISL 460E",
+        "name": "E-Marketing"
+       },
+       {
+        "code": "END 332E",
+        "name": "Operations Research II"
+       },
+       {
+        "code": "END 439E",
+        "name": "Neural Network Mod.in Ind.Sys."
+       },
+       {
+        "code": "END 448E",
+        "name": "Intr. to Stochastic Modell."
+       },
+       {
+        "code": "ISL 458E",
+        "name": "Intellectual Property Law"
+       },
+       {
+        "code": "END 365E",
+        "name": "People Analytics"
+       },
+       {
+        "code": "END 423E",
+        "name": "Investment Planning"
+       },
+       {
+        "code": "END 453E",
+        "name": "Indus.4.0 & Digital Transform."
+       },
+       {
+        "code": "ISL 363E",
+        "name": "Human Resources Management"
+       },
+       {
+        "code": "ISL 439E",
+        "name": "Int.to Mach.Learn.with Bus.App"
+       },
+       {
+        "code": "END 447E",
+        "name": "Network Models"
+       },
+       {
+        "code": "END 476E",
+        "name": "Machine Learning for Ind. Sys."
+       },
+       {
+        "code": "END 331E",
+        "name": "Operations Research I"
+       },
+       {
+        "code": "END 336E",
+        "name": "Product Development"
+       },
+       {
+        "code": "END 339E",
+        "name": "Project Management"
+       },
+       {
+        "code": "END 443E",
+        "name": "Business Planning & Innovation"
+       },
+       {
+        "code": "END 451E",
+        "name": "Logistics Management"
+       },
+       {
+        "code": "END 471E",
+        "name": "Marketing & CRM Analytics"
+       },
+       {
+        "code": "END 478E",
+        "name": "Applied Optimization Models"
+       },
+       {
+        "code": "MAT 272E",
+        "name": "Advanced Mathematics"
+       },
+       {
+        "code": "MAT 471E",
+        "name": "Financial Mathematics"
        },
        {
         "code": "ECN 307E",
@@ -1617,136 +1709,16 @@
         "name": "Linear Algebra for Indust.Eng."
        },
        {
-        "code": "END 305E",
-        "name": "Data Analytics for Business"
-       },
-       {
-        "code": "END 327E",
-        "name": "Decision Theory"
-       },
-       {
-        "code": "END 331E",
-        "name": "Operations Research I"
-       },
-       {
-        "code": "END 332E",
-        "name": "Operations Research II"
-       },
-       {
-        "code": "END 336E",
-        "name": "Product Development"
-       },
-       {
-        "code": "END 339E",
-        "name": "Project Management"
-       },
-       {
-        "code": "END 344E",
-        "name": "Behavioral Sciences"
-       },
-       {
-        "code": "END 365E",
-        "name": "People Analytics"
-       },
-       {
-        "code": "END 423E",
-        "name": "Investment Planning"
-       },
-       {
-        "code": "END 439E",
-        "name": "Neural Network Mod.in Ind.Sys."
-       },
-       {
-        "code": "END 443E",
-        "name": "Business Planning & Innovation"
-       },
-       {
-        "code": "END 447E",
-        "name": "Network Models"
-       },
-       {
-        "code": "END 448E",
-        "name": "Intr. to Stochastic Modell."
-       },
-       {
-        "code": "END 451E",
-        "name": "Logistics Management"
-       },
-       {
-        "code": "END 453E",
-        "name": "Indus.4.0 & Digital Transform."
-       },
-       {
-        "code": "END 460E",
-        "name": "Human-Centered Artificial Intelligence"
-       },
-       {
-        "code": "END 471E",
-        "name": "Marketing & CRM Analytics"
-       },
-       {
-        "code": "END 476E",
-        "name": "Machine Learning for Ind. Sys."
-       },
-       {
-        "code": "END 478E",
-        "name": "Applied Optimization Models"
-       },
-       {
-        "code": "ISL 354E",
-        "name": "Managerial Decision Making"
-       },
-       {
-        "code": "ISL 363E",
-        "name": "Human Resources Management"
-       },
-       {
-        "code": "ISL 435E",
-        "name": "The World Economy at a Glance"
-       },
-       {
-        "code": "ISL 439E",
-        "name": "Int.to Mach.Learn.with Bus.App"
-       },
-       {
-        "code": "ISL 443E",
-        "name": "Project Design and Manag."
-       },
-       {
-        "code": "ISL 448E",
-        "name": "Optimization Models & App."
-       },
-       {
-        "code": "ISL 458E",
-        "name": "Intellectual Property Law"
-       },
-       {
-        "code": "ISL 460E",
-        "name": "E-Marketing"
-       },
-       {
-        "code": "ISL 464E",
-        "name": "Deep Learning with Business Applications"
-       },
-       {
         "code": "ISL 477E",
         "name": "Sustainability Management"
-       },
-       {
-        "code": "MAT 272E",
-        "name": "Advanced Mathematics"
-       },
-       {
-        "code": "MAT 471E",
-        "name": "Financial Mathematics"
        },
        {
         "code": "VBA 210E",
         "name": "Linear Algebra and Applications"
        },
        {
-        "code": "VBA 211E",
-        "name": "Deterministic Models in Data Science"
+        "code": "VBA 252E",
+        "name": "Theory of Probability"
        },
        {
         "code": "VBA 213E",
@@ -1757,20 +1729,24 @@
         "name": "Database Management Systems"
        },
        {
-        "code": "VBA 224E",
-        "name": "Stochastic Models in Data Science"
-       },
-       {
-        "code": "VBA 252E",
-        "name": "Theory of Probability"
+        "code": "VBA 211E",
+        "name": "Deterministic Models in Data Science"
        },
        {
         "code": "VBA 312E",
         "name": "Data Analytics"
        },
        {
+        "code": "VBA 224E",
+        "name": "Stochastic Models in Data Science"
+       },
+       {
         "code": "VBA 315E",
         "name": "Machine Learning"
+       },
+       {
+        "code": "VBA 411E",
+        "name": "Internet of Things"
        },
        {
         "code": "VBA 341E",
@@ -1789,10 +1765,6 @@
         "name": "Financial and Risk Analytics"
        },
        {
-        "code": "VBA 411E",
-        "name": "Internet of Things"
-       },
-       {
         "code": "VBA 441E",
         "name": "Reinforcement Learning"
        },
@@ -1803,6 +1775,34 @@
        {
         "code": "VBA 444E",
         "name": "Customer Analytics"
+       },
+       {
+        "code": "BHB 201E",
+        "name": "Fundamental Software of Informatics"
+       },
+       {
+        "code": "BHB 202E",
+        "name": "Introduction to Mathematical Methods in Computational Science and Engineering"
+       },
+       {
+        "code": "BHB 203E",
+        "name": "Object Oriented Programming for Computational Science"
+       },
+       {
+        "code": "BHB 204E",
+        "name": "Spatial Data Science"
+       },
+       {
+        "code": "BHB 402E",
+        "name": "Computational Neuroscience"
+       },
+       {
+        "code": "END 460E",
+        "name": "Human-Centered Artificial Intelligence"
+       },
+       {
+        "code": "ISL 464E",
+        "name": "Deep Learning with Business Applications"
        }
       ]
      }
@@ -1820,80 +1820,80 @@
       ],
       "options": [
        {
-        "code": "ECN 410E",
-        "name": "Energy Economics"
-       },
-       {
-        "code": "ECN 411E",
-        "name": "Transport Economics"
-       },
-       {
-        "code": "ECN 412E",
-        "name": "Environmental Economics"
-       },
-       {
-        "code": "ECN 413E",
-        "name": "Health Economics"
-       },
-       {
-        "code": "ECN 414E",
-        "name": "Economics of Education"
-       },
-       {
-        "code": "ECN 415E",
-        "name": "Urban Economics"
-       },
-       {
-        "code": "ECN 430E",
-        "name": "Income Distribution & Poverty"
-       },
-       {
-        "code": "ECN 431E",
-        "name": "Europ.Economics & Institutions"
-       },
-       {
-        "code": "ECN 433E",
-        "name": "Regulatory Econ.& Reg. Markets"
+        "code": "ISL 353E",
+        "name": "Marketing"
        },
        {
         "code": "END 319E",
         "name": "Cost Management"
        },
        {
-        "code": "END 431E",
-        "name": "Management and Organization"
-       },
-       {
-        "code": "END 456E",
-        "name": "Analytical Credit Risk Management"
-       },
-       {
-        "code": "ISL 234E",
-        "name": "Management and Organization"
+        "code": "ISL 334E",
+        "name": "Quality for Engineers"
        },
        {
         "code": "ISL 333E",
         "name": "Finance"
        },
        {
-        "code": "ISL 334E",
-        "name": "Quality for Engineers"
+        "code": "ISL 452E",
+        "name": "Financial Inst.&Portfolio Mng."
+       },
+       {
+        "code": "END 431E",
+        "name": "Management and Organization"
+       },
+       {
+        "code": "ISL 234E",
+        "name": "Management and Organization"
        },
        {
         "code": "ISL 343E",
         "name": "Management Information Syst."
        },
        {
-        "code": "ISL 353E",
-        "name": "Marketing"
+        "code": "ECN 415E",
+        "name": "Urban Economics"
+       },
+       {
+        "code": "ECN 412E",
+        "name": "Environmental Economics"
+       },
+       {
+        "code": "ECN 433E",
+        "name": "Regulatory Econ.& Reg. Markets"
+       },
+       {
+        "code": "ECN 411E",
+        "name": "Transport Economics"
+       },
+       {
+        "code": "ECN 431E",
+        "name": "Europ.Economics & Institutions"
+       },
+       {
+        "code": "ECN 410E",
+        "name": "Energy Economics"
+       },
+       {
+        "code": "ECN 430E",
+        "name": "Income Distribution & Poverty"
+       },
+       {
+        "code": "ECN 414E",
+        "name": "Economics of Education"
+       },
+       {
+        "code": "ECN 413E",
+        "name": "Health Economics"
+       },
+       {
+        "code": "END 456E",
+        "name": "Analytical Credit Risk Management"
        },
        {
         "code": "ISL 445E",
         "name": "European Leadership for Sustainability Management"
-       },
-       {
-        "code": "ISL 452E",
-        "name": "Financial Inst.&Portfolio Mng."
        }
       ]
      }
@@ -1911,52 +1911,48 @@
       ],
       "options": [
        {
-        "code": "ECN 410E",
-        "name": "Energy Economics"
-       },
-       {
-        "code": "ECN 411E",
-        "name": "Transport Economics"
-       },
-       {
-        "code": "ECN 412E",
-        "name": "Environmental Economics"
-       },
-       {
-        "code": "ECN 413E",
-        "name": "Health Economics"
-       },
-       {
-        "code": "ECN 414E",
-        "name": "Economics of Education"
-       },
-       {
-        "code": "ECN 415E",
-        "name": "Urban Economics"
-       },
-       {
-        "code": "ECN 430E",
-        "name": "Income Distribution & Poverty"
-       },
-       {
-        "code": "ECN 431E",
-        "name": "Europ.Economics & Institutions"
-       },
-       {
-        "code": "ECN 433E",
-        "name": "Regulatory Econ.& Reg. Markets"
+        "code": "ISL 353E",
+        "name": "Marketing"
        },
        {
         "code": "END 319E",
         "name": "Cost Management"
        },
        {
-        "code": "END 336E",
-        "name": "Product Development"
+        "code": "ISL 435E",
+        "name": "The World Economy at a Glance"
        },
        {
-        "code": "END 339E",
-        "name": "Project Management"
+        "code": "ISL 334E",
+        "name": "Quality for Engineers"
+       },
+       {
+        "code": "ISL 443E",
+        "name": "Project Design and Manag."
+       },
+       {
+        "code": "ISL 333E",
+        "name": "Finance"
+       },
+       {
+        "code": "ISL 452E",
+        "name": "Financial Inst.&Portfolio Mng."
+       },
+       {
+        "code": "ISL 460E",
+        "name": "E-Marketing"
+       },
+       {
+        "code": "END 431E",
+        "name": "Management and Organization"
+       },
+       {
+        "code": "ISL 234E",
+        "name": "Management and Organization"
+       },
+       {
+        "code": "ISL 458E",
+        "name": "Intellectual Property Law"
        },
        {
         "code": "END 365E",
@@ -1967,76 +1963,68 @@
         "name": "Investment Planning"
        },
        {
-        "code": "END 431E",
-        "name": "Management and Organization"
-       },
-       {
-        "code": "END 451E",
-        "name": "Logistics Management"
-       },
-       {
         "code": "END 453E",
         "name": "Indus.4.0 & Digital Transform."
-       },
-       {
-        "code": "END 456E",
-        "name": "Analytical Credit Risk Management"
-       },
-       {
-        "code": "END 460E",
-        "name": "Human-Centered Artificial Intelligence"
-       },
-       {
-        "code": "END 471E",
-        "name": "Marketing & CRM Analytics"
-       },
-       {
-        "code": "ISL 234E",
-        "name": "Management and Organization"
-       },
-       {
-        "code": "ISL 333E",
-        "name": "Finance"
-       },
-       {
-        "code": "ISL 334E",
-        "name": "Quality for Engineers"
-       },
-       {
-        "code": "ISL 343E",
-        "name": "Management Information Syst."
-       },
-       {
-        "code": "ISL 353E",
-        "name": "Marketing"
        },
        {
         "code": "ISL 363E",
         "name": "Human Resources Management"
        },
        {
-        "code": "ISL 435E",
-        "name": "The World Economy at a Glance"
+        "code": "END 336E",
+        "name": "Product Development"
        },
        {
-        "code": "ISL 443E",
-        "name": "Project Design and Manag."
+        "code": "ISL 343E",
+        "name": "Management Information Syst."
        },
        {
-        "code": "ISL 445E",
-        "name": "European Leadership for Sustainability Management"
+        "code": "END 339E",
+        "name": "Project Management"
        },
        {
-        "code": "ISL 452E",
-        "name": "Financial Inst.&Portfolio Mng."
+        "code": "END 451E",
+        "name": "Logistics Management"
        },
        {
-        "code": "ISL 458E",
-        "name": "Intellectual Property Law"
+        "code": "END 471E",
+        "name": "Marketing & CRM Analytics"
        },
        {
-        "code": "ISL 460E",
-        "name": "E-Marketing"
+        "code": "ECN 415E",
+        "name": "Urban Economics"
+       },
+       {
+        "code": "ECN 412E",
+        "name": "Environmental Economics"
+       },
+       {
+        "code": "ECN 433E",
+        "name": "Regulatory Econ.& Reg. Markets"
+       },
+       {
+        "code": "ECN 411E",
+        "name": "Transport Economics"
+       },
+       {
+        "code": "ECN 431E",
+        "name": "Europ.Economics & Institutions"
+       },
+       {
+        "code": "ECN 410E",
+        "name": "Energy Economics"
+       },
+       {
+        "code": "ECN 430E",
+        "name": "Income Distribution & Poverty"
+       },
+       {
+        "code": "ECN 414E",
+        "name": "Economics of Education"
+       },
+       {
+        "code": "ECN 413E",
+        "name": "Health Economics"
        },
        {
         "code": "ISL 477E",
@@ -2065,6 +2053,18 @@
        {
         "code": "VBA 444E",
         "name": "Customer Analytics"
+       },
+       {
+        "code": "END 456E",
+        "name": "Analytical Credit Risk Management"
+       },
+       {
+        "code": "ISL 445E",
+        "name": "European Leadership for Sustainability Management"
+       },
+       {
+        "code": "END 460E",
+        "name": "Human-Centered Artificial Intelligence"
        }
       ]
      }
@@ -2099,52 +2099,48 @@
       ],
       "options": [
        {
-        "code": "ECN 410E",
-        "name": "Energy Economics"
-       },
-       {
-        "code": "ECN 411E",
-        "name": "Transport Economics"
-       },
-       {
-        "code": "ECN 412E",
-        "name": "Environmental Economics"
-       },
-       {
-        "code": "ECN 413E",
-        "name": "Health Economics"
-       },
-       {
-        "code": "ECN 414E",
-        "name": "Economics of Education"
-       },
-       {
-        "code": "ECN 415E",
-        "name": "Urban Economics"
-       },
-       {
-        "code": "ECN 430E",
-        "name": "Income Distribution & Poverty"
-       },
-       {
-        "code": "ECN 431E",
-        "name": "Europ.Economics & Institutions"
-       },
-       {
-        "code": "ECN 433E",
-        "name": "Regulatory Econ.& Reg. Markets"
+        "code": "ISL 353E",
+        "name": "Marketing"
        },
        {
         "code": "END 319E",
         "name": "Cost Management"
        },
        {
-        "code": "END 336E",
-        "name": "Product Development"
+        "code": "ISL 435E",
+        "name": "The World Economy at a Glance"
        },
        {
-        "code": "END 339E",
-        "name": "Project Management"
+        "code": "ISL 334E",
+        "name": "Quality for Engineers"
+       },
+       {
+        "code": "ISL 443E",
+        "name": "Project Design and Manag."
+       },
+       {
+        "code": "ISL 333E",
+        "name": "Finance"
+       },
+       {
+        "code": "ISL 452E",
+        "name": "Financial Inst.&Portfolio Mng."
+       },
+       {
+        "code": "ISL 460E",
+        "name": "E-Marketing"
+       },
+       {
+        "code": "END 431E",
+        "name": "Management and Organization"
+       },
+       {
+        "code": "ISL 234E",
+        "name": "Management and Organization"
+       },
+       {
+        "code": "ISL 458E",
+        "name": "Intellectual Property Law"
        },
        {
         "code": "END 365E",
@@ -2155,76 +2151,68 @@
         "name": "Investment Planning"
        },
        {
-        "code": "END 431E",
-        "name": "Management and Organization"
-       },
-       {
-        "code": "END 451E",
-        "name": "Logistics Management"
-       },
-       {
         "code": "END 453E",
         "name": "Indus.4.0 & Digital Transform."
-       },
-       {
-        "code": "END 456E",
-        "name": "Analytical Credit Risk Management"
-       },
-       {
-        "code": "END 460E",
-        "name": "Human-Centered Artificial Intelligence"
-       },
-       {
-        "code": "END 471E",
-        "name": "Marketing & CRM Analytics"
-       },
-       {
-        "code": "ISL 234E",
-        "name": "Management and Organization"
-       },
-       {
-        "code": "ISL 333E",
-        "name": "Finance"
-       },
-       {
-        "code": "ISL 334E",
-        "name": "Quality for Engineers"
-       },
-       {
-        "code": "ISL 343E",
-        "name": "Management Information Syst."
-       },
-       {
-        "code": "ISL 353E",
-        "name": "Marketing"
        },
        {
         "code": "ISL 363E",
         "name": "Human Resources Management"
        },
        {
-        "code": "ISL 435E",
-        "name": "The World Economy at a Glance"
+        "code": "END 336E",
+        "name": "Product Development"
        },
        {
-        "code": "ISL 443E",
-        "name": "Project Design and Manag."
+        "code": "ISL 343E",
+        "name": "Management Information Syst."
        },
        {
-        "code": "ISL 445E",
-        "name": "European Leadership for Sustainability Management"
+        "code": "END 339E",
+        "name": "Project Management"
        },
        {
-        "code": "ISL 452E",
-        "name": "Financial Inst.&Portfolio Mng."
+        "code": "END 451E",
+        "name": "Logistics Management"
        },
        {
-        "code": "ISL 458E",
-        "name": "Intellectual Property Law"
+        "code": "END 471E",
+        "name": "Marketing & CRM Analytics"
        },
        {
-        "code": "ISL 460E",
-        "name": "E-Marketing"
+        "code": "ECN 415E",
+        "name": "Urban Economics"
+       },
+       {
+        "code": "ECN 412E",
+        "name": "Environmental Economics"
+       },
+       {
+        "code": "ECN 433E",
+        "name": "Regulatory Econ.& Reg. Markets"
+       },
+       {
+        "code": "ECN 411E",
+        "name": "Transport Economics"
+       },
+       {
+        "code": "ECN 431E",
+        "name": "Europ.Economics & Institutions"
+       },
+       {
+        "code": "ECN 410E",
+        "name": "Energy Economics"
+       },
+       {
+        "code": "ECN 430E",
+        "name": "Income Distribution & Poverty"
+       },
+       {
+        "code": "ECN 414E",
+        "name": "Economics of Education"
+       },
+       {
+        "code": "ECN 413E",
+        "name": "Health Economics"
        },
        {
         "code": "ISL 477E",
@@ -2253,6 +2241,18 @@
        {
         "code": "VBA 444E",
         "name": "Customer Analytics"
+       },
+       {
+        "code": "END 456E",
+        "name": "Analytical Credit Risk Management"
+       },
+       {
+        "code": "ISL 445E",
+        "name": "European Leadership for Sustainability Management"
+       },
+       {
+        "code": "END 460E",
+        "name": "Human-Centered Artificial Intelligence"
        }
       ]
      }
@@ -2272,28 +2272,72 @@
       ],
       "options": [
        {
-        "code": "BHB 201E",
-        "name": "Fundamental Software of Informatics"
-       },
-       {
-        "code": "BHB 202E",
-        "name": "Introduction to Mathematical Methods in Computational Science and Engineering"
-       },
-       {
-        "code": "BHB 203E",
-        "name": "Object Oriented Programming for Computational Science"
-       },
-       {
-        "code": "BHB 204E",
-        "name": "Spatial Data Science"
-       },
-       {
-        "code": "BHB 402E",
-        "name": "Computational Neuroscience"
-       },
-       {
         "code": "BLG 454E",
         "name": "Learning From Data"
+       },
+       {
+        "code": "END 327E",
+        "name": "Decision Theory"
+       },
+       {
+        "code": "END 305E",
+        "name": "Data Analytics for Business"
+       },
+       {
+        "code": "END 344E",
+        "name": "Behavioral Sciences"
+       },
+       {
+        "code": "ISL 354E",
+        "name": "Managerial Decision Making"
+       },
+       {
+        "code": "ISL 448E",
+        "name": "Optimization Models & App."
+       },
+       {
+        "code": "END 332E",
+        "name": "Operations Research II"
+       },
+       {
+        "code": "END 439E",
+        "name": "Neural Network Mod.in Ind.Sys."
+       },
+       {
+        "code": "END 448E",
+        "name": "Intr. to Stochastic Modell."
+       },
+       {
+        "code": "ISL 439E",
+        "name": "Int.to Mach.Learn.with Bus.App"
+       },
+       {
+        "code": "END 447E",
+        "name": "Network Models"
+       },
+       {
+        "code": "END 476E",
+        "name": "Machine Learning for Ind. Sys."
+       },
+       {
+        "code": "END 331E",
+        "name": "Operations Research I"
+       },
+       {
+        "code": "END 443E",
+        "name": "Business Planning & Innovation"
+       },
+       {
+        "code": "END 478E",
+        "name": "Applied Optimization Models"
+       },
+       {
+        "code": "MAT 272E",
+        "name": "Advanced Mathematics"
+       },
+       {
+        "code": "MAT 471E",
+        "name": "Financial Mathematics"
        },
        {
         "code": "ECN 307E",
@@ -2320,80 +2364,12 @@
         "name": "Linear Algebra for Indust.Eng."
        },
        {
-        "code": "END 305E",
-        "name": "Data Analytics for Business"
-       },
-       {
-        "code": "END 327E",
-        "name": "Decision Theory"
-       },
-       {
-        "code": "END 331E",
-        "name": "Operations Research I"
-       },
-       {
-        "code": "END 332E",
-        "name": "Operations Research II"
-       },
-       {
-        "code": "END 344E",
-        "name": "Behavioral Sciences"
-       },
-       {
-        "code": "END 439E",
-        "name": "Neural Network Mod.in Ind.Sys."
-       },
-       {
-        "code": "END 443E",
-        "name": "Business Planning & Innovation"
-       },
-       {
-        "code": "END 447E",
-        "name": "Network Models"
-       },
-       {
-        "code": "END 448E",
-        "name": "Intr. to Stochastic Modell."
-       },
-       {
-        "code": "END 476E",
-        "name": "Machine Learning for Ind. Sys."
-       },
-       {
-        "code": "END 478E",
-        "name": "Applied Optimization Models"
-       },
-       {
-        "code": "ISL 354E",
-        "name": "Managerial Decision Making"
-       },
-       {
-        "code": "ISL 439E",
-        "name": "Int.to Mach.Learn.with Bus.App"
-       },
-       {
-        "code": "ISL 448E",
-        "name": "Optimization Models & App."
-       },
-       {
-        "code": "ISL 464E",
-        "name": "Deep Learning with Business Applications"
-       },
-       {
-        "code": "MAT 272E",
-        "name": "Advanced Mathematics"
-       },
-       {
-        "code": "MAT 471E",
-        "name": "Financial Mathematics"
-       },
-       {
         "code": "VBA 210E",
         "name": "Linear Algebra and Applications"
        },
        {
-        "code": "VBA 211E",
-        "name": "Deterministic Models in Data Science"
+        "code": "VBA 252E",
+        "name": "Theory of Probability"
        },
        {
         "code": "VBA 213E",
@@ -2404,16 +2380,16 @@
         "name": "Database Management Systems"
        },
        {
-        "code": "VBA 224E",
-        "name": "Stochastic Models in Data Science"
-       },
-       {
-        "code": "VBA 252E",
-        "name": "Theory of Probability"
+        "code": "VBA 211E",
+        "name": "Deterministic Models in Data Science"
        },
        {
         "code": "VBA 312E",
         "name": "Data Analytics"
+       },
+       {
+        "code": "VBA 224E",
+        "name": "Stochastic Models in Data Science"
        },
        {
         "code": "VBA 315E",
@@ -2426,6 +2402,30 @@
        {
         "code": "VBA 441E",
         "name": "Reinforcement Learning"
+       },
+       {
+        "code": "BHB 201E",
+        "name": "Fundamental Software of Informatics"
+       },
+       {
+        "code": "BHB 202E",
+        "name": "Introduction to Mathematical Methods in Computational Science and Engineering"
+       },
+       {
+        "code": "BHB 203E",
+        "name": "Object Oriented Programming for Computational Science"
+       },
+       {
+        "code": "BHB 204E",
+        "name": "Spatial Data Science"
+       },
+       {
+        "code": "BHB 402E",
+        "name": "Computational Neuroscience"
+       },
+       {
+        "code": "ISL 464E",
+        "name": "Deep Learning with Business Applications"
        }
       ]
      }
@@ -2443,52 +2443,48 @@
       ],
       "options": [
        {
-        "code": "ECN 410E",
-        "name": "Energy Economics"
-       },
-       {
-        "code": "ECN 411E",
-        "name": "Transport Economics"
-       },
-       {
-        "code": "ECN 412E",
-        "name": "Environmental Economics"
-       },
-       {
-        "code": "ECN 413E",
-        "name": "Health Economics"
-       },
-       {
-        "code": "ECN 414E",
-        "name": "Economics of Education"
-       },
-       {
-        "code": "ECN 415E",
-        "name": "Urban Economics"
-       },
-       {
-        "code": "ECN 430E",
-        "name": "Income Distribution & Poverty"
-       },
-       {
-        "code": "ECN 431E",
-        "name": "Europ.Economics & Institutions"
-       },
-       {
-        "code": "ECN 433E",
-        "name": "Regulatory Econ.& Reg. Markets"
+        "code": "ISL 353E",
+        "name": "Marketing"
        },
        {
         "code": "END 319E",
         "name": "Cost Management"
        },
        {
-        "code": "END 336E",
-        "name": "Product Development"
+        "code": "ISL 435E",
+        "name": "The World Economy at a Glance"
        },
        {
-        "code": "END 339E",
-        "name": "Project Management"
+        "code": "ISL 334E",
+        "name": "Quality for Engineers"
+       },
+       {
+        "code": "ISL 443E",
+        "name": "Project Design and Manag."
+       },
+       {
+        "code": "ISL 333E",
+        "name": "Finance"
+       },
+       {
+        "code": "ISL 452E",
+        "name": "Financial Inst.&Portfolio Mng."
+       },
+       {
+        "code": "ISL 460E",
+        "name": "E-Marketing"
+       },
+       {
+        "code": "END 431E",
+        "name": "Management and Organization"
+       },
+       {
+        "code": "ISL 234E",
+        "name": "Management and Organization"
+       },
+       {
+        "code": "ISL 458E",
+        "name": "Intellectual Property Law"
        },
        {
         "code": "END 365E",
@@ -2499,76 +2495,68 @@
         "name": "Investment Planning"
        },
        {
-        "code": "END 431E",
-        "name": "Management and Organization"
-       },
-       {
-        "code": "END 451E",
-        "name": "Logistics Management"
-       },
-       {
         "code": "END 453E",
         "name": "Indus.4.0 & Digital Transform."
-       },
-       {
-        "code": "END 456E",
-        "name": "Analytical Credit Risk Management"
-       },
-       {
-        "code": "END 460E",
-        "name": "Human-Centered Artificial Intelligence"
-       },
-       {
-        "code": "END 471E",
-        "name": "Marketing & CRM Analytics"
-       },
-       {
-        "code": "ISL 234E",
-        "name": "Management and Organization"
-       },
-       {
-        "code": "ISL 333E",
-        "name": "Finance"
-       },
-       {
-        "code": "ISL 334E",
-        "name": "Quality for Engineers"
-       },
-       {
-        "code": "ISL 343E",
-        "name": "Management Information Syst."
-       },
-       {
-        "code": "ISL 353E",
-        "name": "Marketing"
        },
        {
         "code": "ISL 363E",
         "name": "Human Resources Management"
        },
        {
-        "code": "ISL 435E",
-        "name": "The World Economy at a Glance"
+        "code": "END 336E",
+        "name": "Product Development"
        },
        {
-        "code": "ISL 443E",
-        "name": "Project Design and Manag."
+        "code": "ISL 343E",
+        "name": "Management Information Syst."
        },
        {
-        "code": "ISL 445E",
-        "name": "European Leadership for Sustainability Management"
+        "code": "END 339E",
+        "name": "Project Management"
        },
        {
-        "code": "ISL 452E",
-        "name": "Financial Inst.&Portfolio Mng."
+        "code": "END 451E",
+        "name": "Logistics Management"
        },
        {
-        "code": "ISL 458E",
-        "name": "Intellectual Property Law"
+        "code": "END 471E",
+        "name": "Marketing & CRM Analytics"
        },
        {
-        "code": "ISL 460E",
-        "name": "E-Marketing"
+        "code": "ECN 415E",
+        "name": "Urban Economics"
+       },
+       {
+        "code": "ECN 412E",
+        "name": "Environmental Economics"
+       },
+       {
+        "code": "ECN 433E",
+        "name": "Regulatory Econ.& Reg. Markets"
+       },
+       {
+        "code": "ECN 411E",
+        "name": "Transport Economics"
+       },
+       {
+        "code": "ECN 431E",
+        "name": "Europ.Economics & Institutions"
+       },
+       {
+        "code": "ECN 410E",
+        "name": "Energy Economics"
+       },
+       {
+        "code": "ECN 430E",
+        "name": "Income Distribution & Poverty"
+       },
+       {
+        "code": "ECN 414E",
+        "name": "Economics of Education"
+       },
+       {
+        "code": "ECN 413E",
+        "name": "Health Economics"
        },
        {
         "code": "ISL 477E",
@@ -2597,6 +2585,18 @@
        {
         "code": "VBA 444E",
         "name": "Customer Analytics"
+       },
+       {
+        "code": "END 456E",
+        "name": "Analytical Credit Risk Management"
+       },
+       {
+        "code": "ISL 445E",
+        "name": "European Leadership for Sustainability Management"
+       },
+       {
+        "code": "END 460E",
+        "name": "Human-Centered Artificial Intelligence"
        }
       ]
      }

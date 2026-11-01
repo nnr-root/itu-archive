@@ -4,7 +4,7 @@
  "faculty": "Lisansüstü Eğitim Enstitüsü",
  "level": "YL",
  "planLabel": "Polimer Bilim ve Teknolojisi (%100 İngilizce) Yüksek Lisans Programı",
- "totalCredits": "24,00",
+ "totalCredits": "21,00",
  "totalEcts": "97,50",
  "totalEctsComputed": true,
  "semesters": [
@@ -40,12 +40,12 @@
       ],
       "options": [
        {
-        "code": "EBT 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
         "code": "PST 509E",
         "name": "Advanced Mathematics"
+       },
+       {
+        "code": "EBT 501E",
+        "name": "Engineering Mathematics"
        }
       ]
      }
@@ -60,16 +60,12 @@
       ],
       "options": [
        {
-        "code": "EBT 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
-        "code": "PST 505E",
-        "name": "Polymer Synthesis"
-       },
-       {
         "code": "PST 511E",
         "name": "Fun. of Polymer Chemistry"
+       },
+       {
+        "code": "PST 530E",
+        "name": "Polymer Characterization"
        },
        {
         "code": "PST 514E",
@@ -80,12 +76,16 @@
         "name": "Synthesis and Character.of Mac"
        },
        {
-        "code": "PST 530E",
-        "name": "Polymer Characterization"
-       },
-       {
         "code": "PST 532E",
         "name": "Mechanical Properties of Poly."
+       },
+       {
+        "code": "PST 505E",
+        "name": "Polymer Synthesis"
+       },
+       {
+        "code": "EBT 501E",
+        "name": "Engineering Mathematics"
        }
       ]
      }
@@ -100,16 +100,12 @@
       ],
       "options": [
        {
-        "code": "EBT 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
-        "code": "PST 505E",
-        "name": "Polymer Synthesis"
-       },
-       {
         "code": "PST 511E",
         "name": "Fun. of Polymer Chemistry"
+       },
+       {
+        "code": "PST 530E",
+        "name": "Polymer Characterization"
        },
        {
         "code": "PST 514E",
@@ -120,12 +116,16 @@
         "name": "Synthesis and Character.of Mac"
        },
        {
-        "code": "PST 530E",
-        "name": "Polymer Characterization"
-       },
-       {
         "code": "PST 532E",
         "name": "Mechanical Properties of Poly."
+       },
+       {
+        "code": "PST 505E",
+        "name": "Polymer Synthesis"
+       },
+       {
+        "code": "EBT 501E",
+        "name": "Engineering Mathematics"
        }
       ]
      }
@@ -140,16 +140,12 @@
       ],
       "options": [
        {
-        "code": "EBT 501E",
-        "name": "Engineering Mathematics"
-       },
-       {
-        "code": "PST 505E",
-        "name": "Polymer Synthesis"
-       },
-       {
         "code": "PST 511E",
         "name": "Fun. of Polymer Chemistry"
+       },
+       {
+        "code": "PST 530E",
+        "name": "Polymer Characterization"
        },
        {
         "code": "PST 514E",
@@ -160,12 +156,16 @@
         "name": "Synthesis and Character.of Mac"
        },
        {
-        "code": "PST 530E",
-        "name": "Polymer Characterization"
-       },
-       {
         "code": "PST 532E",
         "name": "Mechanical Properties of Poly."
+       },
+       {
+        "code": "PST 505E",
+        "name": "Polymer Synthesis"
+       },
+       {
+        "code": "EBT 501E",
+        "name": "Engineering Mathematics"
        }
       ]
      }
