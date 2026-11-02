@@ -5397,7 +5397,7 @@
   "code": "BLG 422E",
   "name": "Bilgisayar Ağları",
   "nameEn": "Computer Networks",
-  "language": "English",
+  "language": "English/Türkçe",
   "credits": {
    "theory": 3,
    "practice": 0,
@@ -12756,124 +12756,6 @@
    "4. E. Trucco, A. Verri. Introductory Techniques for 3-D Computer Vision, Pearson, 1998."
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=BLG&dersNo=634"
- },
- "BLG 638E": {
-  "code": "BLG 638E",
-  "name": "Deep Reinforcement Learning",
-  "nameEn": "Deep Reinforcement Learning",
-  "language": "English",
-  "credits": {
-   "theory": 3,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "Pekiştirmeli Öğrenme Kavramı, Markov Karar Süreçleri, Dinamik Programlama, Modelden Bağımsız Pekiştirmeli Öğrenme, Yaklaşık Dinamik Programlama ve Pekiştirmeli Öğrenme, Derin Pekiştirmeli Öğrenme ve Yapay Sinir Ağları, Keşif Stratejileri, Kısmi Gözlemlenebilir Sistemler, Model Tabanlı Derin Pekiştirmeli Öğrenme, Otonom Sistemler için Uygulamalar Introduction to Reinforcement Learning, Markov Decision Processes, Dynamic Programming, Model Free Reinforcement Learning, Approximate Dynamic Programming and Reinforcement Learning, Deep Reinforcement Learning and Neural Networks, Exploration Strategies, Partially Observable Problems, Model Based Deep Reinforcement Learning, Applications for Autonomous Systems",
-  "outcomes": [
-   "1. Derin Pekiştirmeli Öğrenme alanındaki temel problemlere, uygulamalara ve çözüm tekniklerine hakim olmak",
-   "2. Belirsizlik altında karar verme problemlerini Markov Karar Süreci olarak modelleyebilmek",
-   "3. Çeşitli tipte evrişimsel, tam bağlantılı ve ardışık yapay sinir ağlarının pekiştirmeli öğrenme için nasıl kullanılabileceğini anlamak ve tasarlamak",
-   "4. Derin pekiştirmeli öğrenme algoritmalarını eğitimi için gerekli optimizasyon algoritmaları ve keşif stratejilerine hakim olmak",
-   "5. Derin pekiştirmeli öğrenme uygulamalarını bilgisayar ortamında gerçeklemek"
-  ],
-  "weeklyTopics": [
-   "Hafta 1 · Pekiştirmeli Öğrenmeye Kavramı",
-   "Hafta 2 · Markov Karar Süreçleri",
-   "Hafta 3 · Dinamik Programlama",
-   "Hafta 4 · Modelden Bağımsız Pekiştirmeli Öğrenme",
-   "Hafta 5 · Yaklaşık Dinamik Programlama ve Pekiştirmeli Öğrenme",
-   "Hafta 6 · Derin Pekiştirmeli Öğrenmenin Temelleri I: Modeller",
-   "Hafta 7 · Derin Pekiştirmeli Öğrenmenin Temelleri II: Algoritmalar",
-   "Hafta 8 · Keşif Stratejileri ve Monte Carlo Yöntemleri I",
-   "Hafta 9 · Keşif Stratejileri ve Monte Carlo Yöntemleri II",
-   "Hafta 10 · Kısmi Gözlemlenebilir Problemler I",
-   "Hafta 11 · Kısmi Gözlemlenebilir Problemler II",
-   "Hafta 12 · Model Tabanlı Derin Pekiştirmeli Öğrenme",
-   "Hafta 13 · Otonom Sistem Uygulamaları I",
-   "Hafta 14 · Otonom Sistem Uygulamaları II"
-  ],
-  "weeklyPlan": [
-   {
-    "week": 1,
-    "topic": "Pekiştirmeli Öğrenmeye Kavramı",
-    "outcomes": "1"
-   },
-   {
-    "week": 2,
-    "topic": "Markov Karar Süreçleri",
-    "outcomes": "2"
-   },
-   {
-    "week": 3,
-    "topic": "Dinamik Programlama",
-    "outcomes": "2-4"
-   },
-   {
-    "week": 4,
-    "topic": "Modelden Bağımsız Pekiştirmeli Öğrenme",
-    "outcomes": "4"
-   },
-   {
-    "week": 5,
-    "topic": "Yaklaşık Dinamik Programlama ve Pekiştirmeli Öğrenme",
-    "outcomes": "2-4"
-   },
-   {
-    "week": 6,
-    "topic": "Derin Pekiştirmeli Öğrenmenin Temelleri I: Modeller",
-    "outcomes": "3-4-5"
-   },
-   {
-    "week": 7,
-    "topic": "Derin Pekiştirmeli Öğrenmenin Temelleri II: Algoritmalar",
-    "outcomes": "3-4-5"
-   },
-   {
-    "week": 8,
-    "topic": "Keşif Stratejileri ve Monte Carlo Yöntemleri I",
-    "outcomes": "4-5"
-   },
-   {
-    "week": 9,
-    "topic": "Keşif Stratejileri ve Monte Carlo Yöntemleri II",
-    "outcomes": "4-5"
-   },
-   {
-    "week": 10,
-    "topic": "Kısmi Gözlemlenebilir Problemler I",
-    "outcomes": "2-3-4"
-   },
-   {
-    "week": 11,
-    "topic": "Kısmi Gözlemlenebilir Problemler II",
-    "outcomes": "2-3-4"
-   },
-   {
-    "week": 12,
-    "topic": "Model Tabanlı Derin Pekiştirmeli Öğrenme",
-    "outcomes": "2-3-4"
-   },
-   {
-    "week": 13,
-    "topic": "Otonom Sistem Uygulamaları I",
-    "outcomes": "1-2-3-4-5"
-   },
-   {
-    "week": 14,
-    "topic": "Otonom Sistem Uygulamaları II"
-   }
-  ],
-  "textbooks": [
-   "Sutton, Richard S., and Andrew G. Barto. Reinforcement learning: An introduction. MIT press, 2018",
-   ". Busoniu, L., Babuska, R., De Schutter, B., & Ernst, D. (2010). Reinforcement learning and dynamic programming using function approximators. CRC press.",
-   "Deep Learning, I. Goodfellow, Y. Bengio, A. Courville, 2016, MIT Press.",
-   ". Deep Learning with Python, F. Chollet, 2017, Manning.",
-   "https://github.com/muupan/deep-reinforcement-learning-papers",
-   "http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html",
-   "http://rail.eecs.berkeley.edu/deeprlcourse/"
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=BLG&dersNo=638"
  },
  "BLG 643E": {
   "code": "BLG 643E",

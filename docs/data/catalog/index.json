@@ -78,11 +78,11 @@
   },
   {
    "branch": "BLG",
-   "courses": 123
+   "courses": 122
   },
   {
    "branch": "BLU",
-   "courses": 11
+   "courses": 10
   },
   {
    "branch": "BPL",
@@ -126,7 +126,7 @@
   },
   {
    "branch": "CEV",
-   "courses": 126
+   "courses": 154
   },
   {
    "branch": "CHE",
@@ -214,7 +214,7 @@
   },
   {
    "branch": "EBT",
-   "courses": 31
+   "courses": 29
   },
   {
    "branch": "ECN",
@@ -258,7 +258,7 @@
   },
   {
    "branch": "ELK",
-   "courses": 117
+   "courses": 115
   },
   {
    "branch": "ENB",
@@ -306,7 +306,7 @@
   },
   {
    "branch": "GDP",
-   "courses": 4
+   "courses": 2
   },
   {
    "branch": "GED",
@@ -318,7 +318,7 @@
   },
   {
    "branch": "GEO",
-   "courses": 166
+   "courses": 157
   },
   {
    "branch": "GGP",
@@ -326,11 +326,11 @@
   },
   {
    "branch": "GID",
-   "courses": 88
+   "courses": 87
   },
   {
    "branch": "GIT",
-   "courses": 18
+   "courses": 11
   },
   {
    "branch": "GMI",
@@ -346,7 +346,7 @@
   },
   {
    "branch": "HBM",
-   "courses": 12
+   "courses": 7
   },
   {
    "branch": "HGP",
@@ -354,7 +354,7 @@
   },
   {
    "branch": "HSK",
-   "courses": 11
+   "courses": 10
   },
   {
    "branch": "HSS",
@@ -398,7 +398,7 @@
   },
   {
    "branch": "IMT",
-   "courses": 11
+   "courses": 7
   },
   {
    "branch": "IND",
@@ -466,7 +466,7 @@
   },
   {
    "branch": "JDM",
-   "courses": 14
+   "courses": 9
   },
   {
    "branch": "JEF",
@@ -478,7 +478,7 @@
   },
   {
    "branch": "JFM",
-   "courses": 10
+   "courses": 8
   },
   {
    "branch": "JPN",
@@ -486,19 +486,19 @@
   },
   {
    "branch": "KBM",
-   "courses": 5
+   "courses": 3
   },
   {
    "branch": "KET",
-   "courses": 8
+   "courses": 6
   },
   {
    "branch": "KIM",
-   "courses": 165
+   "courses": 157
   },
   {
    "branch": "KMM",
-   "courses": 79
+   "courses": 78
   },
   {
    "branch": "KMP",
@@ -530,11 +530,11 @@
   },
   {
    "branch": "MAD",
-   "courses": 104
+   "courses": 94
   },
   {
    "branch": "MAK",
-   "courses": 187
+   "courses": 185
   },
   {
    "branch": "MAL",
@@ -554,7 +554,7 @@
   },
   {
    "branch": "MBG",
-   "courses": 11
+   "courses": 9
   },
   {
    "branch": "MBL",
@@ -562,7 +562,7 @@
   },
   {
    "branch": "MBM",
-   "courses": 11
+   "courses": 10
   },
   {
    "branch": "MCH",
@@ -578,7 +578,7 @@
   },
   {
    "branch": "MDP",
-   "courses": 9
+   "courses": 8
   },
   {
    "branch": "MEK",
@@ -630,7 +630,7 @@
   },
   {
    "branch": "MKS",
-   "courses": 8
+   "courses": 5
   },
   {
    "branch": "MMD",
@@ -662,7 +662,7 @@
   },
   {
    "branch": "MTA",
-   "courses": 5
+   "courses": 4
   },
   {
    "branch": "MTH",
@@ -674,7 +674,7 @@
   },
   {
    "branch": "MTO",
-   "courses": 136
+   "courses": 134
   },
   {
    "branch": "MTR",
@@ -710,7 +710,7 @@
   },
   {
    "branch": "MYE",
-   "courses": 19
+   "courses": 17
   },
   {
    "branch": "MYL",
@@ -754,11 +754,11 @@
   },
   {
    "branch": "PEM",
-   "courses": 82
+   "courses": 81
   },
   {
    "branch": "PET",
-   "courses": 51
+   "courses": 49
   },
   {
    "branch": "PHE",
@@ -775,10 +775,6 @@
   {
    "branch": "PYY",
    "courses": 5
-  },
-  {
-   "branch": "RBT",
-   "courses": 1
   },
   {
    "branch": "RES",
@@ -814,7 +810,7 @@
   },
   {
    "branch": "SBP",
-   "courses": 157
+   "courses": 153
   },
   {
    "branch": "SEC",
@@ -850,7 +846,7 @@
   },
   {
    "branch": "SPL",
-   "courses": 7
+   "courses": 6
   },
   {
    "branch": "SRM",
@@ -898,7 +894,7 @@
   },
   {
    "branch": "TEK",
-   "courses": 90
+   "courses": 80
   },
   {
    "branch": "TEL",
@@ -918,7 +914,7 @@
   },
   {
    "branch": "TKY",
-   "courses": 9
+   "courses": 7
   },
   {
    "branch": "TMK",
@@ -930,7 +926,7 @@
   },
   {
    "branch": "UAH",
-   "courses": 8
+   "courses": 6
   },
   {
    "branch": "UCK",
@@ -942,7 +938,7 @@
   },
   {
    "branch": "ULS",
-   "courses": 8
+   "courses": 6
   },
   {
    "branch": "UMT",
@@ -950,7 +946,7 @@
   },
   {
    "branch": "UUM",
-   "courses": 23
+   "courses": 21
   },
   {
    "branch": "UZB",
@@ -978,11 +974,11 @@
   },
   {
    "branch": "YAP",
-   "courses": 13
+   "courses": 11
   },
   {
    "branch": "YIP",
-   "courses": 10
+   "courses": 8
   },
   {
    "branch": "YSB",
@@ -994,7 +990,7 @@
   },
   {
    "branch": "YTT",
-   "courses": 14
+   "courses": 8
   },
   {
    "branch": "YZV",
@@ -1006,10 +1002,10 @@
   },
   {
    "branch": "ZMG",
-   "courses": 10
+   "courses": 7
   }
  ],
- "generatedAt": "2026-10-26T11:44:04Z",
- "groups": 6199,
- "withContent": 7402
+ "generatedAt": "2026-11-02T13:56:38Z",
+ "groups": 6081,
+ "withContent": 7311
 }
