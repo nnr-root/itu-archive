@@ -20,7 +20,7 @@
    "1D10"
   ],
   "capacity": 75,
-  "enrolled": 68,
+  "enrolled": 67,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -155,7 +155,7 @@
    "1D10"
   ],
   "capacity": 70,
-  "enrolled": 69,
+  "enrolled": 68,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -479,34 +479,7 @@
    "2D17"
   ],
   "capacity": 40,
-  "enrolled": 40,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "13324",
-  "code": "UUM 613",
-  "branch": "UUM",
-  "level": "LU",
-  "name": "Hava-Uzay Sistem.Taşınım Olayl",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Duygu Erdem",
-  "buildings": [
-   "MEDC"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "2D17"
-  ],
-  "capacity": 40,
-  "enrolled": 1,
+  "enrolled": 39,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -533,7 +506,7 @@
    "ZA4"
   ],
   "capacity": 60,
-  "enrolled": 15,
+  "enrolled": 14,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -662,7 +635,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 95,
+  "enrolled": 94,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -683,7 +656,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 61,
+  "enrolled": 60,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -704,7 +677,7 @@
   ],
   "rooms": [],
   "capacity": 200,
-  "enrolled": 21,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [],
   "prereq": "-",

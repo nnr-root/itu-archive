@@ -81,33 +81,6 @@
   "classReq": "-"
  },
  {
-  "crn": "15004",
-  "code": "MTA 555",
-  "branch": "MTA",
-  "level": "LU",
-  "name": "Gürültü Ve Titreşim Kontrolü",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Haluk Erol",
-  "buildings": [
-   "MKB"
-  ],
-  "days": [
-   "Çarşamba"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "D368A"
-  ],
-  "capacity": 30,
-  "enrolled": 2,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "15005",
   "code": "MTA YLT",
   "branch": "MTA",

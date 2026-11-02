@@ -5968,33 +5968,6 @@
   "classReq": "-"
  },
  {
-  "crn": "11855",
-  "code": "KIM 503",
-  "branch": "KIM",
-  "level": "LU",
-  "name": "Koordinasyon Kimyası ve Uyg.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Hacer Yasemin Yenilmez",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Salı"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 2,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
   "crn": "11857",
   "code": "KIM 512E",
   "branch": "KIM",
@@ -6123,7 +6096,7 @@
    "B3_Z01-Z03"
   ],
   "capacity": 28,
-  "enrolled": 26,
+  "enrolled": 25,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6231,7 +6204,7 @@
    "D203"
   ],
   "capacity": 48,
-  "enrolled": 46,
+  "enrolled": 45,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6258,34 +6231,7 @@
    "L400"
   ],
   "capacity": 35,
-  "enrolled": 31,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11868",
-  "code": "KIM 541E",
-  "branch": "KIM",
-  "level": "LU",
-  "name": "Applic.of Liq.Chr./Mass Spectr",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Mustafa Özcan",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Pazartesi"
-  ],
-  "times": [
-   "09:30/12:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 1,
+  "enrolled": 30,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6366,34 +6312,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 17,
-  "reserved": "-",
-  "programs": [],
-  "prereq": "-",
-  "classReq": "-"
- },
- {
-  "crn": "11875",
-  "code": "KIM 623E",
-  "branch": "KIM",
-  "level": "LU",
-  "name": "Stereochemis.&Confor.Anal.",
-  "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Abdullah Aydoğan",
-  "buildings": [
-   "undeclared"
-  ],
-  "days": [
-   "Perşembe"
-  ],
-  "times": [
-   "08:30/11:29"
-  ],
-  "rooms": [
-   "--"
-  ],
-  "capacity": 20,
-  "enrolled": 2,
+  "enrolled": 16,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
@@ -6717,7 +6636,7 @@
    "--"
   ],
   "capacity": 20,
-  "enrolled": 5,
+  "enrolled": 4,
   "reserved": "-",
   "programs": [],
   "prereq": "-",
