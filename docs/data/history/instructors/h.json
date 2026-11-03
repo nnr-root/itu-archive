@@ -2520,7 +2520,7 @@
     "EHB 4901",
     "Elektronik \u0026 Hab. Müh. Tas .I",
     500,
-    47
+    48
    ],
    [
     "2026-2027-guz",
@@ -12167,6 +12167,13 @@
     92
    ],
    [
+    "2026-2027-guz",
+    "MTA 555",
+    "Gürültü Ve Titreşim Kontrolü",
+    30,
+    2
+   ],
+   [
     "2025-2026-bahar",
     "MAK 310",
     "Makina Teorisi",
@@ -21375,13 +21382,6 @@
   "name": "Hatice Camgöz Akdağ",
   "rows": [
    [
-    "2026-2027-guz",
-    "ISL 334E",
-    "Quality for Engineers",
-    80,
-    64
-   ],
-   [
     "2025-2026-bahar",
     "BUS 321E",
     "Business Process Management",
@@ -22096,7 +22096,7 @@
     82
    ]
   ],
-  "terms": 17
+  "terms": 16
  },
  "Hatice Doğan Sevinç": {
   "name": "Hatice Doğan Sevinç",
@@ -28409,6 +28409,13 @@
     "Trafik Tekniği Etüdleri",
     15,
     3
+   ],
+   [
+    "2026-2027-guz",
+    "ULS 607E",
+    "Intelligent Transport.Syst.",
+    15,
+    2
    ],
    [
     "2025-2026-bahar",

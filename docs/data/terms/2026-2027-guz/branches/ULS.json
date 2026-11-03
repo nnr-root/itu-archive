@@ -81,6 +81,33 @@
   "classReq": "-"
  },
  {
+  "crn": "12850",
+  "code": "ULS 607E",
+  "branch": "ULS",
+  "level": "LU",
+  "name": "Intelligent Transport.Syst.",
+  "method": "Fiziksel (Yüz yüze)",
+  "instructor": "Hilmi Berk Çelikoğlu",
+  "buildings": [
+   "INB"
+  ],
+  "days": [
+   "Salı"
+  ],
+  "times": [
+   "13:30/16:29"
+  ],
+  "rooms": [
+   "--"
+  ],
+  "capacity": 15,
+  "enrolled": 2,
+  "reserved": "-",
+  "programs": [],
+  "prereq": "-",
+  "classReq": "-"
+ },
+ {
   "crn": "12851",
   "code": "ULS 501E",
   "branch": "ULS",
