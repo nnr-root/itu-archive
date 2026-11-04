@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T09:30:46Z",
+ "generatedAt": "2026-11-04T09:08:08Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -12331,6 +12331,12 @@
   },
   {
    "code": "GEM 419",
+   "name": "Gemilerin Yapısal Dizaynı",
+   "branch": "GEM",
+   "requirement": "( GEM 322 MIN. DD Veya GEM 322E MIN. DD )"
+  },
+  {
+   "code": "GEM 419E",
    "name": "Gemilerin Yapısal Dizaynı",
    "branch": "GEM",
    "requirement": "( GEM 322 MIN. DD Veya GEM 322E MIN. DD )"
@@ -59775,6 +59781,10 @@
   },
   {
    "from": "GEM 322",
+   "to": "GEM 419E"
+  },
+  {
+   "from": "GEM 322",
    "to": "GEM 424E"
   },
   {
@@ -59796,6 +59806,10 @@
   {
    "from": "GEM 322E",
    "to": "GEM 419"
+  },
+  {
+   "from": "GEM 322E",
+   "to": "GEM 419E"
   },
   {
    "from": "GEM 322E",
