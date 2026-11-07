@@ -5082,22 +5082,6 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=SBP&dersNo=4902&yil=2024"
  },
  {
-  "code": "SBP 603",
-  "term": "2024-2025 Güz Dönemi",
-  "donem": "202510",
-  "total": 10,
-  "grades": {
-   "AA": 3,
-   "BA": 1,
-   "BA+": 1,
-   "BB": 2,
-   "BB+": 1,
-   "CB": 1,
-   "CB+": 1
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=SBP&dersNo=603&yil=2025"
- },
- {
   "code": "SBP 606E",
   "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
@@ -5126,36 +5110,6 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=SBP&dersNo=606&yil=2025"
  },
  {
-  "code": "SBP 609E",
-  "term": "2024-2025 Güz Dönemi",
-  "donem": "202510",
-  "total": 13,
-  "grades": {
-   "AA": 4,
-   "BA": 3,
-   "BB": 1,
-   "BB+": 1,
-   "CB+": 1,
-   "FF": 2
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=SBP&dersNo=609&yil=2025"
- },
- {
-  "code": "SBP 609E",
-  "term": "2023-2024 Güz Dönemi",
-  "donem": "202410",
-  "total": 17,
-  "grades": {
-   "AA": 5,
-   "BA": 2,
-   "BA+": 3,
-   "BB": 2,
-   "BB+": 1,
-   "VF": 4
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=SBP&dersNo=609&yil=2024"
- },
- {
   "code": "SBP 611",
   "term": "2023-2024 Güz Dönemi",
   "donem": "202410",
@@ -5167,20 +5121,6 @@
    "VF": 3
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=SBP&dersNo=611&yil=2024"
- },
- {
-  "code": "SBP 613E",
-  "term": "2024-2025 Güz Dönemi",
-  "donem": "202510",
-  "total": 10,
-  "grades": {
-   "AA": 2,
-   "BA": 1,
-   "BA+": 4,
-   "BB+": 2,
-   "VF": 1
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=SBP&dersNo=613&yil=2025"
  },
  {
   "code": "SBP 625",

@@ -66,7 +66,7 @@
   },
   {
    "branch": "BLG",
-   "terms": 276
+   "terms": 275
   },
   {
    "branch": "BLU",
@@ -150,7 +150,7 @@
   },
   {
    "branch": "DEP",
-   "terms": 12
+   "terms": 9
   },
   {
    "branch": "DFH",
@@ -186,7 +186,7 @@
   },
   {
    "branch": "EBT",
-   "terms": 42
+   "terms": 40
   },
   {
    "branch": "ECN",
@@ -274,7 +274,7 @@
   },
   {
    "branch": "GEO",
-   "terms": 436
+   "terms": 435
   },
   {
    "branch": "GGP",
@@ -282,11 +282,11 @@
   },
   {
    "branch": "GID",
-   "terms": 143
+   "terms": 142
   },
   {
    "branch": "GIT",
-   "terms": 12
+   "terms": 10
   },
   {
    "branch": "GMI",
@@ -298,7 +298,7 @@
   },
   {
    "branch": "HBM",
-   "terms": 20
+   "terms": 19
   },
   {
    "branch": "HGP",
@@ -346,7 +346,7 @@
   },
   {
    "branch": "IMT",
-   "terms": 7
+   "terms": 3
   },
   {
    "branch": "IND",
@@ -406,7 +406,7 @@
   },
   {
    "branch": "JEO",
-   "terms": 250
+   "terms": 249
   },
   {
    "branch": "JFM",
@@ -418,11 +418,11 @@
   },
   {
    "branch": "KET",
-   "terms": 16
+   "terms": 12
   },
   {
    "branch": "KIM",
-   "terms": 564
+   "terms": 563
   },
   {
    "branch": "KMM",
@@ -450,11 +450,11 @@
   },
   {
    "branch": "MAD",
-   "terms": 185
+   "terms": 184
   },
   {
    "branch": "MAK",
-   "terms": 555
+   "terms": 553
   },
   {
    "branch": "MAL",
@@ -534,7 +534,7 @@
   },
   {
    "branch": "MKS",
-   "terms": 14
+   "terms": 11
   },
   {
    "branch": "MMD",
@@ -570,7 +570,7 @@
   },
   {
    "branch": "MTO",
-   "terms": 224
+   "terms": 223
   },
   {
    "branch": "MTR",
@@ -670,7 +670,7 @@
   },
   {
    "branch": "SBP",
-   "terms": 261
+   "terms": 257
   },
   {
    "branch": "SEC",
@@ -698,7 +698,7 @@
   },
   {
    "branch": "SPL",
-   "terms": 9
+   "terms": 8
   },
   {
    "branch": "STA",
@@ -726,7 +726,7 @@
   },
   {
    "branch": "TEK",
-   "terms": 132
+   "terms": 131
   },
   {
    "branch": "TEL",
@@ -750,7 +750,7 @@
   },
   {
    "branch": "UAH",
-   "terms": 13
+   "terms": 9
   },
   {
    "branch": "UCK",
@@ -778,7 +778,7 @@
   },
   {
    "branch": "VIA",
-   "terms": 28
+   "terms": 26
   },
   {
    "branch": "YAN",
@@ -786,11 +786,11 @@
   },
   {
    "branch": "YAP",
-   "terms": 27
+   "terms": 26
   },
   {
    "branch": "YIP",
-   "terms": 15
+   "terms": 14
   },
   {
    "branch": "YSB",
@@ -809,8 +809,8 @@
    "terms": 4
   }
  ],
- "generatedAt": "2026-10-07T12:51:27Z",
- "terms": 13021,
+ "generatedAt": "2026-11-07T12:45:50Z",
+ "terms": 12979,
  "years": [
   "2026",
   "2025",

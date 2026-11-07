@@ -215,78 +215,6 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TES&dersNo=113&yil=2024"
  },
  {
-  "code": "TES 121E",
-  "term": "2025-2026 Bahar Dönemi",
-  "donem": "202620",
-  "total": 434,
-  "grades": {
-   "AA": 115,
-   "BA": 56,
-   "BA+": 55,
-   "BB": 24,
-   "BB+": 55,
-   "CB": 19,
-   "CB+": 24,
-   "CC": 20,
-   "CC+": 14,
-   "DC": 1,
-   "DC+": 9,
-   "DD": 7,
-   "DD+": 1,
-   "FF": 14,
-   "VF": 20
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TES&dersNo=121&yil=2026"
- },
- {
-  "code": "TES 121E",
-  "term": "2024-2025 Bahar Dönemi",
-  "donem": "202520",
-  "total": 403,
-  "grades": {
-   "AA": 97,
-   "BA": 56,
-   "BA+": 52,
-   "BB": 41,
-   "BB+": 43,
-   "CB": 16,
-   "CB+": 27,
-   "CC": 8,
-   "CC+": 9,
-   "DC": 7,
-   "DC+": 7,
-   "DD": 3,
-   "DD+": 3,
-   "FF": 17,
-   "VF": 17
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TES&dersNo=121&yil=2025"
- },
- {
-  "code": "TES 121E",
-  "term": "2023-2024 Bahar Dönemi",
-  "donem": "202420",
-  "total": 581,
-  "grades": {
-   "AA": 86,
-   "BA": 57,
-   "BA+": 51,
-   "BB": 59,
-   "BB+": 72,
-   "CB": 46,
-   "CB+": 47,
-   "CC": 29,
-   "CC+": 28,
-   "DC": 16,
-   "DC+": 17,
-   "DD": 8,
-   "DD+": 11,
-   "FF": 19,
-   "VF": 35
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TES&dersNo=121&yil=2024"
- },
- {
   "code": "TES 122E",
   "term": "2025-2026 Bahar Dönemi",
   "donem": "202620",
@@ -373,5 +301,77 @@
    "VF": 53
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TES&dersNo=122&yil=2024"
+ },
+ {
+  "code": "TES 121E",
+  "term": "2025-2026 Bahar Dönemi",
+  "donem": "202620",
+  "total": 434,
+  "grades": {
+   "AA": 115,
+   "BA": 56,
+   "BA+": 55,
+   "BB": 24,
+   "BB+": 55,
+   "CB": 19,
+   "CB+": 24,
+   "CC": 20,
+   "CC+": 14,
+   "DC": 1,
+   "DC+": 9,
+   "DD": 7,
+   "DD+": 1,
+   "FF": 14,
+   "VF": 20
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TES&dersNo=121&yil=2026"
+ },
+ {
+  "code": "TES 121E",
+  "term": "2024-2025 Bahar Dönemi",
+  "donem": "202520",
+  "total": 403,
+  "grades": {
+   "AA": 97,
+   "BA": 56,
+   "BA+": 52,
+   "BB": 41,
+   "BB+": 43,
+   "CB": 16,
+   "CB+": 27,
+   "CC": 8,
+   "CC+": 9,
+   "DC": 7,
+   "DC+": 7,
+   "DD": 3,
+   "DD+": 3,
+   "FF": 17,
+   "VF": 17
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TES&dersNo=121&yil=2025"
+ },
+ {
+  "code": "TES 121E",
+  "term": "2023-2024 Bahar Dönemi",
+  "donem": "202420",
+  "total": 581,
+  "grades": {
+   "AA": 86,
+   "BA": 57,
+   "BA+": 51,
+   "BB": 59,
+   "BB+": 72,
+   "CB": 46,
+   "CB+": 47,
+   "CC": 29,
+   "CC+": 28,
+   "DC": 16,
+   "DC+": 17,
+   "DD": 8,
+   "DD+": 11,
+   "FF": 19,
+   "VF": 35
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TES&dersNo=121&yil=2024"
  }
 ]

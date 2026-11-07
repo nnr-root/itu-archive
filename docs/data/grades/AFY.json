@@ -1,5 +1,19 @@
 [
  {
+  "code": "AFY 531E",
+  "term": "2023-2024 Güz Dönemi",
+  "donem": "202410",
+  "total": 11,
+  "grades": {
+   "AA": 3,
+   "BA": 1,
+   "BA+": 2,
+   "BB": 3,
+   "VF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=AFY&dersNo=531&yil=2024"
+ },
+ {
   "code": "AFY 512",
   "term": "2024-2025 Güz Dönemi",
   "donem": "202510",
@@ -63,20 +77,6 @@
    "VF": 4
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=AFY&dersNo=521&yil=2024"
- },
- {
-  "code": "AFY 531E",
-  "term": "2023-2024 Güz Dönemi",
-  "donem": "202410",
-  "total": 11,
-  "grades": {
-   "AA": 3,
-   "BA": 1,
-   "BA+": 2,
-   "BB": 3,
-   "VF": 2
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=AFY&dersNo=531&yil=2024"
  },
  {
   "code": "AFY 561E",

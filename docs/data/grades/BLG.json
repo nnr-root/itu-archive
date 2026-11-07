@@ -881,7 +881,7 @@
  },
  {
   "code": "BLG 231",
-  "term": "2025-2026 Fall Semester",
+  "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
   "total": 225,
   "grades": {
@@ -953,7 +953,7 @@
  },
  {
   "code": "BLG 231E",
-  "term": "2025-2026 Fall Semester",
+  "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
   "total": 225,
   "grades": {
@@ -2700,7 +2700,7 @@
  },
  {
   "code": "BLG 435E",
-  "term": "2025-2026 Fall Semester",
+  "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
   "total": 51,
   "grades": {
@@ -3479,9 +3479,9 @@
    "CB+": 7,
    "CC": 1,
    "CC+": 3,
-   "DC": 3,
+   "DC": 7,
    "DC+": 2,
-   "FF": 13
+   "FF": 9
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BLG&dersNo=470&yil=2026"
  },
@@ -3851,8 +3851,8 @@
   "donem": "202620",
   "total": 197,
   "grades": {
-   "AA": 173,
-   "BA+": 7
+   "AA": 174,
+   "BA+": 6
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BLG&dersNo=4902&yil=2026"
  },
@@ -3913,8 +3913,8 @@
   "donem": "202620",
   "total": 197,
   "grades": {
-   "AA": 173,
-   "BA+": 7
+   "AA": 174,
+   "BA+": 6
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BLG&dersNo=4902&yil=2026"
  },
@@ -5250,23 +5250,6 @@
    "FF": 3
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BLG&dersNo=634&yil=2025"
- },
- {
-  "code": "BLG 638E",
-  "term": "2023-2024 Bahar Dönemi",
-  "donem": "202420",
-  "total": 33,
-  "grades": {
-   "AA": 6,
-   "BA": 2,
-   "BA+": 1,
-   "BB": 3,
-   "BB+": 4,
-   "CB+": 3,
-   "CC": 1,
-   "FF": 13
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=BLG&dersNo=638&yil=2024"
  },
  {
   "code": "BLG 643E",

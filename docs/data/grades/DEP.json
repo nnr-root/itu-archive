@@ -118,55 +118,6 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=DEP&dersNo=510&yil=2024"
  },
  {
-  "code": "DEP 611",
-  "term": "2025-2026 Güz Dönemi",
-  "donem": "202610",
-  "total": 11,
-  "grades": {
-   "AA": 1,
-   "BA": 1,
-   "BA+": 2,
-   "BB": 2,
-   "BB+": 2,
-   "CC": 1,
-   "FF": 2
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=DEP&dersNo=611&yil=2026"
- },
- {
-  "code": "DEP 611",
-  "term": "2023-2024 Güz Dönemi",
-  "donem": "202410",
-  "total": 11,
-  "grades": {
-   "AA": 2,
-   "BA": 1,
-   "BA+": 1,
-   "BB": 1,
-   "BB+": 1,
-   "CB+": 2,
-   "CC": 1,
-   "FF": 2
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=DEP&dersNo=611&yil=2024"
- },
- {
-  "code": "DEP 613E",
-  "term": "2023-2024 Güz Dönemi",
-  "donem": "202410",
-  "total": 12,
-  "grades": {
-   "AA": 1,
-   "BA": 2,
-   "BB": 1,
-   "BB+": 2,
-   "CB+": 3,
-   "FF": 1,
-   "VF": 2
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=DEP&dersNo=613&yil=2024"
- },
- {
   "code": "DEP 616E",
   "term": "2024-2025 Güz Dönemi",
   "donem": "202510",

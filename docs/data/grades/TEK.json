@@ -1576,6 +1576,22 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TEK&dersNo=434&yil=2024"
  },
  {
+  "code": "TEK 451E",
+  "term": "2023-2024 Güz Dönemi",
+  "donem": "202410",
+  "total": 35,
+  "grades": {
+   "AA": 1,
+   "BA": 11,
+   "BA+": 8,
+   "BB": 3,
+   "BB+": 8,
+   "CC": 2,
+   "FF": 2
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TEK&dersNo=451&yil=2024"
+ },
+ {
   "code": "TEK 441E",
   "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
@@ -1631,36 +1647,6 @@
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TEK&dersNo=447&yil=2024"
  },
  {
-  "code": "TEK 451E",
-  "term": "2023-2024 Güz Dönemi",
-  "donem": "202410",
-  "total": 35,
-  "grades": {
-   "AA": 1,
-   "BA": 11,
-   "BA+": 8,
-   "BB": 3,
-   "BB+": 8,
-   "CC": 2,
-   "FF": 2
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TEK&dersNo=451&yil=2024"
- },
- {
-  "code": "TEK 452E",
-  "term": "2023-2024 Güz Dönemi",
-  "donem": "202410",
-  "total": 13,
-  "grades": {
-   "AA": 4,
-   "BA+": 5,
-   "BB": 2,
-   "CB+": 1,
-   "DC+": 1
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TEK&dersNo=452&yil=2024"
- },
- {
   "code": "TEK 453E",
   "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
@@ -1688,6 +1674,20 @@
    "FF": 1
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TEK&dersNo=453&yil=2024"
+ },
+ {
+  "code": "TEK 452E",
+  "term": "2023-2024 Güz Dönemi",
+  "donem": "202410",
+  "total": 13,
+  "grades": {
+   "AA": 4,
+   "BA+": 5,
+   "BB": 2,
+   "CB+": 1,
+   "DC+": 1
+  },
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TEK&dersNo=452&yil=2024"
  },
  {
   "code": "TEK 456E",
@@ -1939,23 +1939,6 @@
    "FF": 2
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TEK&dersNo=467&yil=2025"
- },
- {
-  "code": "TEK 469E",
-  "term": "2024-2025 Güz Dönemi",
-  "donem": "202510",
-  "total": 16,
-  "grades": {
-   "AA": 1,
-   "BA": 6,
-   "BA+": 3,
-   "BB+": 2,
-   "CB+": 1,
-   "CC+": 1,
-   "DC": 1,
-   "DD": 1
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=TEK&dersNo=469&yil=2025"
  },
  {
   "code": "TEK 473E",

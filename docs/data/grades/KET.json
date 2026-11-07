@@ -1,39 +1,5 @@
 [
  {
-  "code": "KET 506E",
-  "term": "2025-2026 Güz Dönemi",
-  "donem": "202610",
-  "total": 13,
-  "grades": {
-   "AA": 12,
-   "BA+": 1
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=KET&dersNo=506&yil=2026"
- },
- {
-  "code": "KET 506E",
-  "term": "2024-2025 Güz Dönemi",
-  "donem": "202510",
-  "total": 28,
-  "grades": {
-   "AA": 26,
-   "VF": 1
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=KET&dersNo=506&yil=2025"
- },
- {
-  "code": "KET 506E",
-  "term": "2023-2024 Güz Dönemi",
-  "donem": "202410",
-  "total": 21,
-  "grades": {
-   "AA": 15,
-   "BA+": 4,
-   "VF": 2
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=KET&dersNo=506&yil=2024"
- },
- {
   "code": "KET 509",
   "term": "2025-2026 Güz Dönemi",
   "donem": "202610",
@@ -147,17 +113,6 @@
    "VF": 2
   },
   "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=KET&dersNo=521&yil=2024"
- },
- {
-  "code": "KET 522",
-  "term": "2023-2024 Güz Dönemi",
-  "donem": "202410",
-  "total": 10,
-  "grades": {
-   "AA": 8,
-   "VF": 2
-  },
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersNotDagilimi/NotDagilimiSearch?bransKodu=KET&dersNo=522&yil=2024"
  },
  {
   "code": "KET 531E",
