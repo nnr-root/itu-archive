@@ -1,23 +1,4 @@
 {
- "UAH 515E": {
-  "code": "UAH 515E",
-  "name": "Appli.Radar Re.Sen.for Envi.",
-  "nameEn": "Appli.Radar Re.Sen.for Envi.",
-  "language": "English",
-  "credits": {
-   "theory": 3,
-   "practice": 0,
-   "lab": 0,
-   "local": 3,
-   "ects": 7.5
-  },
-  "description": "",
-  "outcomes": null,
-  "textbooks": [
-   "-"
-  ],
-  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=UAH&dersNo=515"
- },
  "UAH 525E": {
   "code": "UAH 525E",
   "name": "Principles of Remote Sensing",

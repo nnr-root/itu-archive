@@ -662,7 +662,7 @@
   },
   {
    "branch": "MTA",
-   "courses": 4
+   "courses": 5
   },
   {
    "branch": "MTH",
@@ -926,7 +926,7 @@
   },
   {
    "branch": "UAH",
-   "courses": 6
+   "courses": 5
   },
   {
    "branch": "UCK",
@@ -938,7 +938,7 @@
   },
   {
    "branch": "ULS",
-   "courses": 6
+   "courses": 7
   },
   {
    "branch": "UMT",
@@ -1005,7 +1005,7 @@
    "courses": 7
   }
  ],
- "generatedAt": "2026-11-02T13:56:38Z",
- "groups": 6081,
- "withContent": 7311
+ "generatedAt": "2026-11-09T14:20:35Z",
+ "groups": 6082,
+ "withContent": 7312
 }

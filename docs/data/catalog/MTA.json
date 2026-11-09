@@ -227,6 +227,120 @@
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=MTA&dersNo=554"
  },
+ "MTA 555": {
+  "code": "MTA 555",
+  "name": "Gürültü Ve Titreşim Kontrolü",
+  "nameEn": "Noise and Vibration Control",
+  "language": "Türkçe",
+  "credits": {
+   "theory": 3,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 7.5
+  },
+  "description": "Temel kavramlar. Akustik gürültü ve titreşim ölçüm yöntemleri. Dış ortamda sesin yayılması. Kapalı ortamların akustiği. Yaşam alanlarında gürültü ve gürültü kontrolu. Ses yutucu malzemeler ve ses absorberleri. Sesin yapı ile etkileşimi. Gürültünün ve titreşimlerin insanlar üzerindeki etkileri. Makinaların gürültü ve titreşim düzeyleri. Fundamentals of acoustics and vibration. Acoustic noise and vibration measurement methods. Outdoor sound propagation. Sound in small enclosures. Noise in rooms. Sound absorbing materials and sound absorbers. Interaction of sound waves with solid structures. Criteria for noise and vibration in human bodies. Machinery noise and vibrations.",
+  "outcomes": [
+   "Ses bilgisi, akustik ve titreşimlerin teorik esaslarının anlaşılması,",
+   "Ses ve titreşimlerin insanlar ve sistemler üzerindeki etkilerinin anlaşılması ve değerlendirme becerisinin kazanılması,",
+   "Ses ve titreşim ölçüm teknikleri konusunda beceri kazanılması,",
+   "Endüstriyel gürültü ve titreşim kontrolu konusunda tecrübe kazanılması amaçlanmaktadır."
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Temel kavramlar",
+   "Hafta 2 · Ses gücü düzeyinin ve ses kaynaklarının yöneliminin belirlenmesi",
+   "Hafta 3 · Dış ortamda sesin yayılması",
+   "Hafta 4 · Küçük kapalı ortamların akustiği",
+   "Hafta 5 · Yaşam alanlarında gürültü ve gürültü kontrolu",
+   "Hafta 6 · Ses yutucu malzemeler ve susturucular",
+   "Hafta 7 · Sesin yapı ile etkileşimi",
+   "Hafta 8 · Akışkan kaynaklı ses ve gürültü",
+   "Hafta 9 · Aktif gürültü kontrolu",
+   "Hafta 10 · Taşıtlar, binalar ve toplu yaşam alanları için gürültü ve titreşim kriterleri",
+   "Hafta 11 · Makinalarda gürültü ve titreşim düzeyleri",
+   "Hafta 12 · İçten yanmalı motorlarda titreşim ve gürültü kontrolu",
+   "Hafta 13 · Elektrik motorlarında titreşim ve gürültü kontrolu",
+   "Hafta 14 · Dişli çarklarda titreşimler ve gürültü"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Temel kavramlar",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "Ses gücü düzeyinin ve ses kaynaklarının yöneliminin belirlenmesi",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 3,
+    "topic": "Dış ortamda sesin yayılması",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 4,
+    "topic": "Küçük kapalı ortamların akustiği",
+    "outcomes": "1-2"
+   },
+   {
+    "week": 5,
+    "topic": "Yaşam alanlarında gürültü ve gürültü kontrolu",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 6,
+    "topic": "Ses yutucu malzemeler ve susturucular",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 7,
+    "topic": "Sesin yapı ile etkileşimi",
+    "outcomes": "2-3"
+   },
+   {
+    "week": 8,
+    "topic": "Akışkan kaynaklı ses ve gürültü",
+    "outcomes": "3-4"
+   },
+   {
+    "week": 9,
+    "topic": "Aktif gürültü kontrolu",
+    "outcomes": "3-4"
+   },
+   {
+    "week": 10,
+    "topic": "Taşıtlar, binalar ve toplu yaşam alanları için gürültü ve titreşim kriterleri",
+    "outcomes": "3-4"
+   },
+   {
+    "week": 11,
+    "topic": "Makinalarda gürültü ve titreşim düzeyleri",
+    "outcomes": "4"
+   },
+   {
+    "week": 12,
+    "topic": "İçten yanmalı motorlarda titreşim ve gürültü kontrolu",
+    "outcomes": "4"
+   },
+   {
+    "week": 13,
+    "topic": "Elektrik motorlarında titreşim ve gürültü kontrolu",
+    "outcomes": "4"
+   },
+   {
+    "week": 14,
+    "topic": "Dişli çarklarda titreşimler ve gürültü"
+   }
+  ],
+  "textbooks": [
+   "Noise and Vibration Control Enginnering Principles and Applications, L.L. Beranek, L.V. Istvan, John Wiley and Sons, Inc., 1992.",
+   "Engineering Noise Control, Theory and Practice, D.A.Bies, C.H.Hansen, Unwin Hyman, London, 1988.",
+   "Noise control management, Howard K. Pelton, New York : Van Nostrand Reinhold, 1993.",
+   "Noise control in industry, Sudbury [Eng.] : Sound Research Laboratories, 1991."
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=MTA&dersNo=555"
+ },
  "MTA 556E": {
   "code": "MTA 556E",
   "name": "Modal Testing",

@@ -709,5 +709,120 @@
    "Road Maintenance Management Systems in Developing Countries, OECD, Road Transport Research Report, 1995"
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ULS&dersNo=605"
+ },
+ "ULS 607E": {
+  "code": "ULS 607E",
+  "name": "Intelligent Transport.Syst.",
+  "nameEn": "Intelligent Transport.Syst.",
+  "language": "English",
+  "credits": {
+   "theory": 3,
+   "practice": 0,
+   "lab": 0,
+   "local": 3,
+   "ects": 7.5
+  },
+  "description": "Akıllı Ulaştırma Sistemlerinin Bileşenleri ve Mimarisi – Çok Türlü Yolculuk Yönetimi ve Bölgesel Yolcu Bilgi Sistemleri – Trafik Yönetim Sistemleri – Kaza-Arıza Yönetimi ve Acil Durum Yönetim Sistemleri – Gelişmiş Yolcu Bilgi Sistemleri – Elektronik Ödeme Sistemleri ve Tıkanıklık Ücretlendirme – Taşıt Temelli Güvenlik ve Denetim Sistemleri – Gelişmiş Toplu Taşıma Sistemleri – Ticari Araç Denetim Sistemleri – Hava Koşulları Bilgi Sistemleri – Navigasyon Sistemleri – Dinamik Güzergah Yönlendirme – Otoyol Trafik Denetimi – Dinamik Ağ Modellemesinde Akıllı Ulaştırma Sistemleri Components and Architecture of Intelligent Transportation Systems – Multimodal Travel Management Systems – Traffic Management Systems – Incident Management and Emergency Management Systems – Advanced Travel Management and Traveller Information Systems – Electronic Payment Systems and Congestion Pricing – Vehicle-based Safety and Control Systems – Advanced Public Transport Systems – Commercial Vehicle Operations – Weather Information Systems – Navigation Systems – Dynamic Route Guidance – Freeway Traffic Control - Intelligent Transportation Systems in Dynamic Network Modelling",
+  "outcomes": [
+   "Farklı süreçleri içeren bir akıllı system uygulamasının temel akış şemasını belirlemesi",
+   "İlgilenilen soruna özel gelişmiş veri toplama elemanları ile bir trafik etüdü planlaması",
+   "Trafikle ilgili sorunla karşılaştığında; akım özelliklerine uygun, gerçek-zamanlı çözüm izlem ve/veya yöntemini önerebilmesi",
+   "Temel akıllı ulaştırma sistem uygulamalarıyla ilgili bilimsel bir makale hazırlayabilmesi ve böyle bir makaleyi irdeleyebilmesi beklenmektedir"
+  ],
+  "weeklyTopics": [
+   "Hafta 1 · Akıllı Ulaştırma Sistemlerine Genel Bakış, Birleşik Devletler Akıllı Ulaştırma Sistemleri Programı",
+   "Hafta 2 · Akıllı Ulaştırma Sistemlerinin Bileşenleri ve Mimarisi, Çok Türlü Yolculuk Yönetimi ve Bölgesel Yolcu Bilgi Sistemleri",
+   "Hafta 3 · Trafik Yönetimi: Geleneksel ve İleri Sistemler",
+   "Hafta 4 · Trafik Yönetim Sistemleri: Altyapı, Gözlem, Şerit Yönetimi, Bilgi Yayımı",
+   "Hafta 5 · Trafik Yönetim Sistemleri: Arter Yönetim Sistemleri, Uyarlamalı Sinyal Denetim Sistemleri, Eşgüdümlü Sinyal Denetim Sistemleri",
+   "Hafta 6 · Kaza-Arıza Yönetimi: Gözlem ve Algılama, Otomatik Taşıt Konum. Gelişmiş Yolcu Bilgi Sistemleri. Acil Durum Yönetim Sistemleri",
+   "Hafta 7 · Elektronik Ödeme Sistemleri: Gişe Sistemleri, Toplu Taşıma Ödeme Sistemleri, Otopark Ödeme Sistemleri, Çok Kullanımlı Ödeme",
+   "Hafta 8 · Tıkanıklık Ücretlendirme Sistemleri: Değişken Ücretli Şeritler, Değişken Ücretli Gişeler, Kordon Ücretlendirme, Alan Ücretlendirme",
+   "Hafta 9 · Taşıt Temelli Güvenlik ve Denetim Sistemleri, Gelişmiş Toplu Taşıma Sistemleri",
+   "Hafta 10 · Ticari Araç Denetim Sistemleri – Hava Koşulları Bilgi Sistemleri, Navigasyon Sistemleri, Dinamik Güzergah Yönlendirme",
+   "Hafta 11 · Otoyol Trafik Yönetimi: Katılım Denetimi İzlemleri",
+   "Hafta 12 · Otoyol Trafik Yönetimi: Katılım Denetimi Yöntemleri",
+   "Hafta 13 · Otoyol Trafik Denetimi: Katılım Denetimi Yöntemleri, Değişken Hız Denetimi",
+   "Hafta 14 · Dinamik Ağ Modellemesinde Akıllı Ulaştırma Sistemleri"
+  ],
+  "weeklyPlan": [
+   {
+    "week": 1,
+    "topic": "Akıllı Ulaştırma Sistemlerine Genel Bakış, Birleşik Devletler Akıllı Ulaştırma Sistemleri Programı",
+    "outcomes": "1"
+   },
+   {
+    "week": 2,
+    "topic": "Akıllı Ulaştırma Sistemlerinin Bileşenleri ve Mimarisi, Çok Türlü Yolculuk Yönetimi ve Bölgesel Yolcu Bilgi Sistemleri",
+    "outcomes": "1"
+   },
+   {
+    "week": 3,
+    "topic": "Trafik Yönetimi: Geleneksel ve İleri Sistemler",
+    "outcomes": "1-3"
+   },
+   {
+    "week": 4,
+    "topic": "Trafik Yönetim Sistemleri: Altyapı, Gözlem, Şerit Yönetimi, Bilgi Yayımı",
+    "outcomes": "1-2-3-4"
+   },
+   {
+    "week": 5,
+    "topic": "Trafik Yönetim Sistemleri: Arter Yönetim Sistemleri, Uyarlamalı Sinyal Denetim Sistemleri, Eşgüdümlü Sinyal Denetim Sistemleri",
+    "outcomes": "1-2-3-4"
+   },
+   {
+    "week": 6,
+    "topic": "Kaza-Arıza Yönetimi: Gözlem ve Algılama, Otomatik Taşıt Konum. Gelişmiş Yolcu Bilgi Sistemleri. Acil Durum Yönetim Sistemleri",
+    "outcomes": "1-2-3-4"
+   },
+   {
+    "week": 7,
+    "topic": "Elektronik Ödeme Sistemleri: Gişe Sistemleri, Toplu Taşıma Ödeme Sistemleri, Otopark Ödeme Sistemleri, Çok Kullanımlı Ödeme",
+    "outcomes": "1-2-3-4"
+   },
+   {
+    "week": 8,
+    "topic": "Tıkanıklık Ücretlendirme Sistemleri: Değişken Ücretli Şeritler, Değişken Ücretli Gişeler, Kordon Ücretlendirme, Alan Ücretlendirme",
+    "outcomes": "1-2-3-4"
+   },
+   {
+    "week": 9,
+    "topic": "Taşıt Temelli Güvenlik ve Denetim Sistemleri, Gelişmiş Toplu Taşıma Sistemleri",
+    "outcomes": "1-2-3-4"
+   },
+   {
+    "week": 10,
+    "topic": "Ticari Araç Denetim Sistemleri – Hava Koşulları Bilgi Sistemleri, Navigasyon Sistemleri, Dinamik Güzergah Yönlendirme",
+    "outcomes": "1-2-3-4"
+   },
+   {
+    "week": 11,
+    "topic": "Otoyol Trafik Yönetimi: Katılım Denetimi İzlemleri",
+    "outcomes": "1-2-3-4"
+   },
+   {
+    "week": 12,
+    "topic": "Otoyol Trafik Yönetimi: Katılım Denetimi Yöntemleri",
+    "outcomes": "1-2-3-4"
+   },
+   {
+    "week": 13,
+    "topic": "Otoyol Trafik Denetimi: Katılım Denetimi Yöntemleri, Değişken Hız Denetimi",
+    "outcomes": "1-2-3-4"
+   },
+   {
+    "week": 14,
+    "topic": "Dinamik Ağ Modellemesinde Akıllı Ulaştırma Sistemleri"
+   }
+  ],
+  "textbooks": [
+   "Sussman, J.M., Perspectives on Intelligent Transportation Systems (ITS), Springer, 2010",
+   "McQueen, J., McQueen, B., Intelligent Transportation Systems Architectures (ITS/GPS), Artech House, 1999",
+   "Bekiaris, E., Nakanishi, Y.J., (eds) Economic Impacts of Intelligent Transportation Systems: Innovations and Case Studies, JAI Press, 2004",
+   "Papageorgiou, M., Applications of Automatic Control Concepts to Traffic Flow Modeling and Control: Lecture Notes in Control and Information Sciences, Springer Verlag, 1983",
+   "Ran, B., Boyce, D., Modeling Dynamic Transportation Networks: An Intelligent Transportation System Oriented Approach, Springer-Verlag Berlin and Heidelberg GmbH & Co. K, 1996"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ULS&dersNo=607"
  }
 }

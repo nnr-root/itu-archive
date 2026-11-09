@@ -12738,103 +12738,107 @@
    "local": 2,
    "ects": 4
   },
-  "description": "Bu ders, mimarlıkta tasarım ve yapım aşamalarında kullanılması zorunlu olan mimari çizim standartlarının ve inşaat teknik şartnamelerinin uluslararası standartlara dayalı olarak anlatıldığı, yapı bilgisi derslerini başarı ile tamamlamış olan öğrencilere teknik bilgi aktarımının yapıldığı bir derstir. Bu derste, bir yapıdan beklenen performansın tam olarak elde edilebilmesine yönelik olarak yapı üretim süreci boyunca hazırlanması gereken grafik ve yazılı belgelerin hazırlanmasının önemi vurgulanmaktadır. Tasarımcı mimarın süreç boyunca yürütmesi gereken koordinasyon rolü kapsamında diğer disiplinler ile işbirliği ve eşgüdüm içinde olduğu grafik ve yazılı belge hazırlama süreci ve sürecin her evresinde dikkat edilmesi gereken konular anlatılmaktadır It is a course in which architectural drawing standards and construction technical specifications, which are mandatory to be used in design and construction stages in architecture, are explained based on international standards and technical knowledge is transferred to students who have successfully completed building elements design courses. This course emphasizes the importance of preparing graphic and written documents that must be prepared during the building production process in order to obtain the performance expected from a building. Within the scope of the coordination role that the designer architect has to carry out throughout the process, the process of preparing graphic and written documents in cooperation and coordination with other disciplines and the issues to be considered at each stage of the process are explained.",
+  "description": "Taşıyıcı sistem tasarımının hedefleri. Taşıyıcı sistemlerin sınıflandırılması. Geleneksel, modern ve endüstriyel yapım sistemleri. Betonarme karkas sistemler. Prefabrike karkas sistemler. Çelik karkas sistemler. Hafif çelik sistemler. Geleneksel ve modern yığma kargir sistemler. Geleneksel ve modern ahşap kargir sistemler. Uzay kafes sistemler. Asma, germe ve şişme yapı sistemleri. Taşıyıcı sistem temelleri, Yüzeysel ve derin temeller. Depreme dayanıklı taşıyıcı sistem tasarımı. Taşıyıcı sistem ve deprem hasarları. Structural Design Goals. Classification of Structures. Conventional, modern and industrial structural systems. Reinforced concrete structural systems. Prefabricated concrete structural systems. Steel structural systems. Light steel structural systems. Conventional and modern masonry structures. Conventional and modern wooden structures. Space truss systems. Suspension, tensioned and inflated membrane structural systems. Structural system foundations. Shallow and deep foundations.Seismic design principles. Structural system and eartquake damages.",
   "outcomes": [
-   "Tasarım ve yapım sürecinde kullanılmakta olan yapımla ilgili belge sistematiğini anlayabilir",
-   "Tasarım ve yapım sürecinde kullanılmakta olan uluslararası sınıflandırma sistemlerini tanıyabilir",
-   "Mimari uygulama projesi üzerinde çizim standartlarını kullanabilir",
-   "Kısa formatta bir teknik şartname hazırlayabilir"
+   "Mimarlar için gerekli temel taşıyıcı sistem tasarımı ilkelerinin öğrenilmesi.",
+   "Betonarme, çelik, hafif çelik, yığma ve ahşap yapı taşıyıcı sistemlerinin anlaşılması.",
+   "Mimaride yüzeysel taşıyıcı sistemler hakkında bilgi edinilmesi.",
+   "Mimarlar için gerekli deprem tasarımı ilkelerinin anlaşılması."
   ],
   "weeklyTopics": [
-   "Hafta 1 · Yapı Üretimi Sürecinde Üretilmekte Olan Belgeler",
-   "Hafta 2 · Ürün ve Yapı Elemanı Sınıflandırma Sistemleri",
-   "Hafta 3 · Yapım Projelerinde Standart Formatlar",
-   "Hafta 4 · Mimari Çizimlerde Katmanlar (Adlandırma)",
-   "Hafta 5 · Mimari Çizimlerde Katmanlar (Listeler)",
-   "Hafta 6 · Çizim Seti Organizasyonu",
-   "Hafta 7 · Pafta Organizasyonu",
-   "Hafta 8 · Mahal Listeleri",
-   "Hafta 9 · Çizim Kuralları",
-   "Hafta 10 · Çizimlerde Semboller, Notlar ve Yönetmeliklerin Gösterilmesi",
-   "Hafta 11 · Teknik Şartname Tipleri",
-   "Hafta 12 · Teknik Şartname Hazırlama Yöntemleri",
-   "Hafta 13 · Teknik Şartname Formatları",
-   "Hafta 14 · Çizimler ve Teknik Şartnamelerin Eşgüdümünün Sağlanması"
+   "Hafta 1 · Taşıyıcı sistem tasarımının hedefleri. Taşıyıcı sistemlerin sınıflandırılması. Geleneksel, modern ve endüstriyel yapım sistemleri",
+   "Hafta 2 · Betonarme karkas sistemler",
+   "Hafta 3 · Prefabrike betonarme karkas sistemler",
+   "Hafta 4 · Çelik karkas sistemler",
+   "Hafta 5 · Hafif çelik sistemler",
+   "Hafta 6 · Geleneksel ve modern yığma kargir sistemler",
+   "Hafta 7 · Geleneksel ve modern ahşap kargir sistemler",
+   "Hafta 8 · Uzay kafes sistemler.",
+   "Hafta 9 · Asma, germe ve şişme yapı sistemleri, membran sistemler",
+   "Hafta 10 · Taşıyıcı sistem temelleri, Yüzeysel ve derin temeller",
+   "Hafta 11 · Depreme dayanıklı taşıyıcı sistem tasarımı",
+   "Hafta 12 · Taşıyıcı sistem hasarları ve deprem hasarları",
+   "Hafta 13 · Dönem Projesi: Sunumlar 1",
+   "Hafta 14 · Dönem Projesi: Sunumlar 2"
   ],
   "weeklyPlan": [
    {
     "week": 1,
-    "topic": "Yapı Üretimi Sürecinde Üretilmekte Olan Belgeler",
+    "topic": "Taşıyıcı sistem tasarımının hedefleri. Taşıyıcı sistemlerin sınıflandırılması. Geleneksel, modern ve endüstriyel yapım sistemleri",
     "outcomes": "1"
    },
    {
     "week": 2,
-    "topic": "Ürün ve Yapı Elemanı Sınıflandırma Sistemleri",
-    "outcomes": "2"
+    "topic": "Betonarme karkas sistemler",
+    "outcomes": "1-2"
    },
    {
     "week": 3,
-    "topic": "Yapım Projelerinde Standart Formatlar",
-    "outcomes": "2"
+    "topic": "Prefabrike betonarme karkas sistemler",
+    "outcomes": "1-2"
    },
    {
     "week": 4,
-    "topic": "Mimari Çizimlerde Katmanlar (Adlandırma)",
-    "outcomes": "3"
+    "topic": "Çelik karkas sistemler",
+    "outcomes": "1-2"
    },
    {
     "week": 5,
-    "topic": "Mimari Çizimlerde Katmanlar (Listeler)",
-    "outcomes": "3"
+    "topic": "Hafif çelik sistemler",
+    "outcomes": "1-2"
    },
    {
     "week": 6,
-    "topic": "Çizim Seti Organizasyonu",
-    "outcomes": "3"
+    "topic": "Geleneksel ve modern yığma kargir sistemler",
+    "outcomes": "1-2"
    },
    {
     "week": 7,
-    "topic": "Pafta Organizasyonu",
-    "outcomes": "3"
+    "topic": "Geleneksel ve modern ahşap kargir sistemler",
+    "outcomes": "1-2"
    },
    {
     "week": 8,
-    "topic": "Mahal Listeleri",
-    "outcomes": "3"
+    "topic": "Uzay kafes sistemler.",
+    "outcomes": "1-3"
    },
    {
     "week": 9,
-    "topic": "Çizim Kuralları",
-    "outcomes": "3"
+    "topic": "Asma, germe ve şişme yapı sistemleri, membran sistemler",
+    "outcomes": "1-3"
    },
    {
     "week": 10,
-    "topic": "Çizimlerde Semboller, Notlar ve Yönetmeliklerin Gösterilmesi",
-    "outcomes": "3"
+    "topic": "Taşıyıcı sistem temelleri, Yüzeysel ve derin temeller",
+    "outcomes": "1"
    },
    {
     "week": 11,
-    "topic": "Teknik Şartname Tipleri",
-    "outcomes": "4"
+    "topic": "Depreme dayanıklı taşıyıcı sistem tasarımı",
+    "outcomes": "1-4"
    },
    {
     "week": 12,
-    "topic": "Teknik Şartname Hazırlama Yöntemleri",
-    "outcomes": "4"
+    "topic": "Taşıyıcı sistem hasarları ve deprem hasarları",
+    "outcomes": "1-4"
    },
    {
     "week": 13,
-    "topic": "Teknik Şartname Formatları",
-    "outcomes": "4"
+    "topic": "Dönem Projesi: Sunumlar 1",
+    "outcomes": "1-2-3-4"
    },
    {
     "week": 14,
-    "topic": "Çizimler ve Teknik Şartnamelerin Eşgüdümünün Sağlanması",
-    "outcomes": "4"
+    "topic": "Dönem Projesi: Sunumlar 2",
+    "outcomes": "1-2-3-4"
    }
   ],
   "textbooks": [
-   "NIBS, 2008: United States National CAD Standard® - Version 4.0, NIBS, Washington, ABD"
+   "• Çizimlerle Taşıyıcı Sistemler, Francis D.K. Ching, Barry S. Onouye, Douglas Zuberbuhler, Çevirmen: Bahar Demirhan, YEM Yayınları",
+   "• Strüktür Sistemleri, Heino Engel. Tasarım Yayın Grubu",
+   "• Mimarlıkta Taşıyıcı Sistemler, Nafiz Çamlıbel. İKÜ Yayınevi",
+   "• Çağdaş Taşıyıcı Sistemler, Çetin Türkçü, (2009) Birsen Yayınevi",
+   "• Underwood, J. R., Chiuini, M., (2007). Structural Design: A Practical Guide for Architects. 2nd Ed., Wiley & Sons, Inc., Hoboken, NJ."
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=MIM&dersNo=4024"
  },
