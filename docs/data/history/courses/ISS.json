@@ -143,6 +143,22 @@
    ]
   ]
  },
+ "ISS 598": {
+  "code": "ISS 598",
+  "name": "Proje",
+  "terms": [
+   "2026-2027-guz"
+  ],
+  "rows": [
+   [
+    "2026-2027-guz",
+    "Suat Küçükçifçi",
+    5,
+    1,
+    ""
+   ]
+  ]
+ },
  "ISS 605E": {
   "code": "ISS 605E",
   "name": "Direc.Readin.in Consu.Behavior",
@@ -202,7 +218,7 @@
     "2026-2027-guz",
     "Kaya Tokmakçıoğlu",
     200,
-    32,
+    31,
     ""
    ]
   ]
