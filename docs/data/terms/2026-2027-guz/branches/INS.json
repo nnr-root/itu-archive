@@ -76,7 +76,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "D201"
+   "D101"
   ],
   "capacity": 40,
   "enrolled": 38,
@@ -105,7 +105,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "D201"
+   "D101"
   ],
   "capacity": 40,
   "enrolled": 40,
@@ -134,7 +134,7 @@
    "09:30/12:29"
   ],
   "rooms": [
-   "D201"
+   "D100"
   ],
   "capacity": 40,
   "enrolled": 32,
@@ -163,7 +163,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "D201"
+   "D101"
   ],
   "capacity": 40,
   "enrolled": 32,
@@ -193,7 +193,7 @@
    "14:30/17:29"
   ],
   "rooms": [
-   "D201"
+   "D100"
   ],
   "capacity": 40,
   "enrolled": 47,
@@ -501,7 +501,7 @@
    "B103"
   ],
   "capacity": 45,
-  "enrolled": 46,
+  "enrolled": 47,
   "reserved": "-",
   "programs": [
    "INS_LS"
@@ -530,7 +530,7 @@
    "A205"
   ],
   "capacity": 45,
-  "enrolled": 22,
+  "enrolled": 21,
   "reserved": "-",
   "programs": [
    "INS_LS"
