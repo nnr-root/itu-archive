@@ -24,7 +24,7 @@
    "CATI1"
   ],
   "capacity": 20,
-  "enrolled": 20,
+  "enrolled": 19,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -344,7 +344,7 @@
   "level": "LS",
   "name": "Basic Design and Visual Arts",
   "method": "Fiziksel (Yüz yüze)",
-  "instructor": "Elif Kısar Koramaz",
+  "instructor": "Elif Kısar Koramaz , Lâl Dalay Algan",
   "buildings": [
    "MMB"
   ],
@@ -510,7 +510,7 @@
    "CATI2"
   ],
   "capacity": 0,
-  "enrolled": 24,
+  "enrolled": 23,
   "reserved": "-",
   "programs": [
    "SBP_LS",
@@ -1093,8 +1093,8 @@
    "--"
   ],
   "capacity": 45,
-  "enrolled": 40,
-  "reserved": "ARC_LS/4/2 | ENTE_LS/4/5 | IAD_LS/4/0 | ICM_LS/4/5 | MIM_LS/7/7 | MIME_LS/6/7 | PEME_LS/5/5 | SBP_LS/5/4 | SBPE_LS/5/5 | SAS_LS/1/0 | Diğer/0/0",
+  "enrolled": 39,
+  "reserved": "ARC_LS/4/2 | ENTE_LS/4/5 | IAD_LS/4/0 | ICM_LS/4/5 | MIM_LS/7/7 | MIME_LS/6/7 | PEME_LS/5/5 | SBP_LS/5/3 | SBPE_LS/5/5 | SAS_LS/1/0 | Diğer/0/0",
   "programs": [
    "ARC_LS",
    "ENT_LS",
