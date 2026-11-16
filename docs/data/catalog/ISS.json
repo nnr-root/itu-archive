@@ -990,6 +990,25 @@
   ],
   "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ISS&dersNo=596"
  },
+ "ISS 598": {
+  "code": "ISS 598",
+  "name": "Proje",
+  "nameEn": "Project",
+  "language": "Türkçe/English",
+  "credits": {
+   "theory": 0,
+   "practice": 0,
+   "lab": 0,
+   "local": 0,
+   "ects": 60
+  },
+  "description": "",
+  "outcomes": null,
+  "textbooks": [
+   "-"
+  ],
+  "sourceUrl": "https://obs.itu.edu.tr/public/DersKatalog/DersKatalogBilgiBransDersKodu?bransKodu=ISS&dersNo=598"
+ },
  "ISS 605E": {
   "code": "ISS 605E",
   "name": "Direc.Readin.in Consu.Behavior",
