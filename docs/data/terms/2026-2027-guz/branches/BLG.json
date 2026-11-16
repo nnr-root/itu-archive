@@ -1374,7 +1374,7 @@
    "BLG_LS",
    "BLGE_LS"
   ],
-  "prereq": "-",
+  "prereq": "Detay",
   "classReq": "-"
  },
  {
@@ -1405,7 +1405,7 @@
    "BLGE_LS",
    "CEN_LS"
   ],
-  "prereq": "-",
+  "prereq": "Detay",
   "classReq": "-"
  },
  {
@@ -1537,7 +1537,7 @@
    "SECE_LS",
    "YZVE_LS"
   ],
-  "prereq": "-",
+  "prereq": "Detay",
   "classReq": "-"
  },
  {
@@ -2461,7 +2461,7 @@
    "BLGE_LS",
    "CEN_LS"
   ],
-  "prereq": "-",
+  "prereq": "Detay",
   "classReq": "-"
  },
  {
