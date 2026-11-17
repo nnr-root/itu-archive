@@ -549,6 +549,12 @@
   "BHB 202E",
   "BHB 301E",
   "BHB 304",
+  "BLG 354",
+  "BLG 354E",
+  "BLG 429",
+  "BLG 429E",
+  "BLG 467E",
+  "BLG 469E",
   "MTT 102",
   "MTT 102E"
  ],
@@ -556,32 +562,93 @@
   "BHB 202E",
   "BHB 301E",
   "BHB 304",
+  "BLG 354",
+  "BLG 354E",
+  "BLG 429",
+  "BLG 429E",
+  "BLG 467E",
+  "BLG 469E",
   "MTT 102",
   "MTT 102E"
  ],
  "BBF 103": [
+  "BBF 204",
+  "BBF 204E",
   "BHB 301E",
   "SEC 221E"
  ],
  "BBF 103E": [
+  "BBF 204",
+  "BBF 204E",
   "BHB 301E",
   "SEC 221E"
  ],
  "BBF 201": [
+  "BBF 304E",
   "BHB 204E",
-  "BHB 402E"
+  "BHB 402E",
+  "BLG 428E"
  ],
  "BBF 201E": [
+  "BBF 304E",
   "BHB 204E",
-  "BHB 402E"
+  "BHB 402E",
+  "BLG 428E"
+ ],
+ "BBF 202": [
+  "BLG 467E"
+ ],
+ "BBF 202E": [
+  "BLG 467E"
  ],
  "BBF 203": [
+  "BBF 301E",
+  "BBF 302",
+  "BBF 302E",
+  "BLG 411",
+  "BLG 411E",
+  "BLG 469E",
+  "BLG 473E",
+  "BLG 476E",
+  "BLG 479E",
+  "BLG 480E",
   "SEC 322E"
  ],
  "BBF 203E": [
+  "BBF 301E",
+  "BBF 302",
+  "BBF 302E",
+  "BLG 411",
+  "BLG 411E",
+  "BLG 469E",
+  "BLG 473E",
+  "BLG 476E",
+  "BLG 479E",
+  "BLG 480E",
   "SEC 322E"
  ],
+ "BBF 204": [
+  "BLG 461",
+  "BLG 461E"
+ ],
+ "BBF 204E": [
+  "BLG 461",
+  "BLG 461E"
+ ],
+ "BBF 301E": [
+  "BBF 303",
+  "BBF 303E"
+ ],
+ "BBF 303": [
+  "BLG 424E",
+  "BLG 472E"
+ ],
+ "BBF 303E": [
+  "BLG 424E",
+  "BLG 472E"
+ ],
  "BBF 304E": [
+  "BLG 417E",
   "YZV 448E"
  ],
  "BES 210E": [
@@ -761,6 +828,8 @@
   "MIM 468E"
  ],
  "BIL 102": [
+  "BLG 429",
+  "BLG 429E",
   "BLG 444",
   "BLG 444E",
   "END 317",
@@ -781,6 +850,8 @@
   "FIZ 272E"
  ],
  "BIL 102E": [
+  "BLG 429",
+  "BLG 429E",
   "BLG 444",
   "BLG 444E",
   "END 317",
@@ -918,6 +989,8 @@
   "BLG 252",
   "BLG 252E",
   "BLG 353E",
+  "BLG 429",
+  "BLG 429E",
   "BLG 444",
   "BLG 444E",
   "CEN 223E",
@@ -950,6 +1023,8 @@
   "BLG 252",
   "BLG 252E",
   "BLG 353E",
+  "BLG 429",
+  "BLG 429E",
   "BLG 444",
   "BLG 444E",
   "CEN 223E",
@@ -1632,6 +1707,8 @@
   "BLG 252",
   "BLG 252E",
   "BLG 353E",
+  "BLG 429",
+  "BLG 429E",
   "CEN 223E",
   "CEN 252",
   "CEN 252E",
@@ -1660,6 +1737,8 @@
   "BLG 252",
   "BLG 252E",
   "BLG 353E",
+  "BLG 429",
+  "BLG 429E",
   "CEN 223E",
   "CEN 252",
   "CEN 252E",
@@ -1695,12 +1774,14 @@
  ],
  "BLG 202": [
   "BLG 453E",
+  "BLG 467E",
   "BLG 483E",
   "YZV 416",
   "YZV 416E"
  ],
  "BLG 202E": [
   "BLG 453E",
+  "BLG 467E",
   "BLG 483E",
   "YZV 416",
   "YZV 416E"
@@ -1747,10 +1828,15 @@
   "BLG 342",
   "BLG 351",
   "BLG 351E",
+  "BLG 426E",
+  "BLG 427",
+  "BLG 427E",
   "BLG 439",
   "BLG 439E",
   "BLG 451",
   "BLG 451E",
+  "BLG 465",
+  "BLG 465E",
   "CEN 351",
   "CEN 351E",
   "EHB 432E",
@@ -1766,10 +1852,15 @@
   "BLG 342",
   "BLG 351",
   "BLG 351E",
+  "BLG 426E",
+  "BLG 427",
+  "BLG 427E",
   "BLG 439",
   "BLG 439E",
   "BLG 451",
   "BLG 451E",
+  "BLG 465",
+  "BLG 465E",
   "CEN 351",
   "CEN 351E",
   "EHB 432E",
@@ -1792,6 +1883,9 @@
   "BLG 381",
   "BLG 381E",
   "BLG 421",
+  "BLG 426E",
+  "BLG 427",
+  "BLG 427E",
   "BLG 437",
   "BLG 437E",
   "BLG 439",
@@ -1799,6 +1893,7 @@
   "BLG 440",
   "BLG 440E",
   "BLG 458E",
+  "BLG 470E",
   "BLG 471",
   "BLG 471E",
   "CEN 312",
@@ -1820,6 +1915,9 @@
   "BLG 381",
   "BLG 381E",
   "BLG 421",
+  "BLG 426E",
+  "BLG 427",
+  "BLG 427E",
   "BLG 437",
   "BLG 437E",
   "BLG 439",
@@ -1827,6 +1925,7 @@
   "BLG 440",
   "BLG 440E",
   "BLG 458E",
+  "BLG 470E",
   "BLG 471",
   "BLG 471E",
   "CEN 312",
@@ -1840,6 +1939,7 @@
   "BLG 322E",
   "BLG 351",
   "BLG 351E",
+  "BLG 473E",
   "CEN 322E",
   "CEN 351",
   "CEN 351E",
@@ -1851,6 +1951,7 @@
   "BLG 322E",
   "BLG 351",
   "BLG 351E",
+  "BLG 473E",
   "CEN 322E",
   "CEN 351",
   "CEN 351E",
@@ -1863,6 +1964,9 @@
   "BLG 312E",
   "BLG 335",
   "BLG 335E",
+  "BLG 426E",
+  "BLG 427",
+  "BLG 427E",
   "BLG 437",
   "BLG 437E",
   "BLG 439",
@@ -1870,6 +1974,7 @@
   "BLG 440",
   "BLG 440E",
   "BLG 458E",
+  "BLG 470E",
   "BLG 471",
   "BLG 471E",
   "CEN 312",
@@ -1883,6 +1988,9 @@
   "BLG 312E",
   "BLG 335",
   "BLG 335E",
+  "BLG 426E",
+  "BLG 427",
+  "BLG 427E",
   "BLG 437",
   "BLG 437E",
   "BLG 439",
@@ -1890,6 +1998,7 @@
   "BLG 440",
   "BLG 440E",
   "BLG 458E",
+  "BLG 470E",
   "BLG 471",
   "BLG 471E",
   "CEN 312",
@@ -1981,11 +2090,15 @@
   "BLG 312E",
   "BLG 335",
   "BLG 335E",
+  "BLG 426E",
+  "BLG 427",
+  "BLG 427E",
   "BLG 437",
   "BLG 437E",
   "BLG 439",
   "BLG 439E",
   "BLG 458E",
+  "BLG 470E",
   "BLG 471",
   "BLG 471E",
   "CEN 312",
@@ -1998,11 +2111,15 @@
   "BLG 312E",
   "BLG 335",
   "BLG 335E",
+  "BLG 426E",
+  "BLG 427",
+  "BLG 427E",
   "BLG 437",
   "BLG 437E",
   "BLG 439",
   "BLG 439E",
   "BLG 458E",
+  "BLG 470E",
   "BLG 471",
   "BLG 471E",
   "CEN 312",
@@ -2030,9 +2147,14 @@
   "BLG 456E",
   "BLG 460E",
   "BLG 468E",
+  "BLG 469E",
+  "BLG 473E",
   "BLG 475",
   "BLG 475E",
+  "BLG 476E",
   "BLG 478E",
+  "BLG 479E",
+  "BLG 480E",
   "CEN 317",
   "CEN 317E",
   "CEN 335E",
@@ -2061,9 +2183,14 @@
   "BLG 456E",
   "BLG 460E",
   "BLG 468E",
+  "BLG 469E",
+  "BLG 473E",
   "BLG 475",
   "BLG 475E",
+  "BLG 476E",
   "BLG 478E",
+  "BLG 479E",
+  "BLG 480E",
   "CEN 317",
   "CEN 317E",
   "CEN 335E",
@@ -2072,10 +2199,14 @@
   "YZV 406E"
  ],
  "BLG 311": [
+  "BLG 461",
+  "BLG 461E",
   "YZV 423",
   "YZV 423E"
  ],
  "BLG 311E": [
+  "BLG 461",
+  "BLG 461E",
   "YZV 423",
   "YZV 423E"
  ],
@@ -2084,24 +2215,38 @@
   "BLG 321E",
   "BLG 413",
   "BLG 413E",
+  "BLG 420E",
+  "BLG 422",
+  "BLG 422E",
   "BLG 431",
   "BLG 431E",
   "BLG 449",
   "BLG 449E",
   "BLG 450",
-  "BLG 450E"
+  "BLG 450E",
+  "BLG 462",
+  "BLG 462E",
+  "BLG 464E",
+  "BLG 473E"
  ],
  "BLG 312E": [
   "BLG 321",
   "BLG 321E",
   "BLG 413",
   "BLG 413E",
+  "BLG 420E",
+  "BLG 422",
+  "BLG 422E",
   "BLG 431",
   "BLG 431E",
   "BLG 449",
   "BLG 449E",
   "BLG 450",
-  "BLG 450E"
+  "BLG 450E",
+  "BLG 462",
+  "BLG 462E",
+  "BLG 464E",
+  "BLG 473E"
  ],
  "BLG 321": [
   "BLG 451",
@@ -2113,11 +2258,15 @@
  ],
  "BLG 322": [
   "BLG 452",
-  "BLG 452E"
+  "BLG 452E",
+  "BLG 466",
+  "BLG 466E"
  ],
  "BLG 322E": [
   "BLG 452",
-  "BLG 452E"
+  "BLG 452E",
+  "BLG 466",
+  "BLG 466E"
  ],
  "BLG 331": [
   "BLG 445E"
@@ -2148,20 +2297,30 @@
   "CEN 336E"
  ],
  "BLG 336": [
-  "BLG 417E",
+  "BLG 424E",
   "BLG 434E",
   "BLG 435",
   "BLG 435E",
   "BLG 459E",
+  "BLG 472E",
   "SEC 311E"
  ],
  "BLG 336E": [
-  "BLG 417E",
+  "BLG 424E",
   "BLG 434E",
   "BLG 435",
   "BLG 435E",
   "BLG 459E",
+  "BLG 472E",
   "SEC 311E"
+ ],
+ "BLG 337": [
+  "BLG 423",
+  "BLG 423E"
+ ],
+ "BLG 337E": [
+  "BLG 423",
+  "BLG 423E"
  ],
  "BLG 353E": [
   "BLG 347E",
@@ -2170,30 +2329,34 @@
   "BLG 495E"
  ],
  "BLG 354": [
+  "BLG 425E",
   "BLG 438",
   "BLG 438E",
+  "BLG 474E",
   "BLG 477E"
  ],
  "BLG 354E": [
+  "BLG 425E",
   "BLG 438",
   "BLG 438E",
+  "BLG 474E",
   "BLG 477E"
  ],
  "BLG 355E": [
   "BLG 495E"
  ],
  "BLG 372": [
-  "BLG 417E",
   "BLG 435",
   "BLG 435E",
   "BLG 459E",
+  "BLG 472E",
   "SEC 311E"
  ],
  "BLG 372E": [
-  "BLG 417E",
   "BLG 435",
   "BLG 435E",
   "BLG 459E",
+  "BLG 472E",
   "SEC 311E"
  ],
  "BLG 381": [
@@ -2213,6 +2376,22 @@
   "BLG 372",
   "BLG 372E",
   "CEN 336E"
+ ],
+ "BLG 423": [
+  "BLG 422",
+  "BLG 422E"
+ ],
+ "BLG 423E": [
+  "BLG 422",
+  "BLG 422E"
+ ],
+ "BLG 433": [
+  "BLG 422",
+  "BLG 422E"
+ ],
+ "BLG 433E": [
+  "BLG 422",
+  "BLG 422E"
  ],
  "BLG 454E": [
   "BLG 481E",
@@ -5482,8 +5661,10 @@
   "KON 313E"
  ],
  "EHB 252": [
+  "BLG 425E",
   "BLG 438",
   "BLG 438E",
+  "BLG 474E",
   "BLG 477E",
   "EEE 307E",
   "EHB 307",
@@ -5509,8 +5690,10 @@
   "TEL 366E"
  ],
  "EHB 252E": [
+  "BLG 425E",
   "BLG 438",
   "BLG 438E",
+  "BLG 474E",
   "BLG 477E",
   "EEE 307E",
   "EHB 307",
@@ -17386,6 +17569,7 @@
   "BHB 402E",
   "BIO 422",
   "BIO 422E",
+  "BLG 428E",
   "BLG 443",
   "BLG 443E",
   "BLG 454E",
@@ -17428,6 +17612,7 @@
   "BHB 402E",
   "BIO 422",
   "BIO 422E",
+  "BLG 428E",
   "BLG 443",
   "BLG 443E",
   "BLG 454E",
@@ -17491,10 +17676,14 @@
  "MAT 281": [
   "BLG 354",
   "BLG 354E",
+  "BLG 429",
+  "BLG 429E",
   "BLG 444",
   "BLG 444E",
   "BLG 453E",
   "BLG 456E",
+  "BLG 467E",
+  "BLG 469E",
   "BLG 483E",
   "CEN 354E",
   "EEE 211E",
@@ -17540,10 +17729,14 @@
  "MAT 281E": [
   "BLG 354",
   "BLG 354E",
+  "BLG 429",
+  "BLG 429E",
   "BLG 444",
   "BLG 444E",
   "BLG 453E",
   "BLG 456E",
+  "BLG 467E",
+  "BLG 469E",
   "BLG 483E",
   "CEN 354E",
   "EEE 211E",
@@ -23465,6 +23658,8 @@
   "BHB 403",
   "BLG 252",
   "BLG 252E",
+  "BLG 422",
+  "BLG 422E",
   "CEN 252",
   "CEN 252E",
   "YZV 201",

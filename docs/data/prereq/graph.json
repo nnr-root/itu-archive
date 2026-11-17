@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T09:36:19Z",
+ "generatedAt": "2026-11-17T10:42:24Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -294,49 +294,49 @@
    "code": "BBF 204",
    "name": "Biçimsel Diller ve Otomatlar",
    "branch": "BBF",
-   "requirement": "( BLG 112 MIN. DD Veya BLG 112E MIN. DD )"
+   "requirement": "( BLG 112 MIN. DD Veya BLG 112E MIN. DD ) Veya ( BBF 103E MIN. DD Veya BBF 103 MIN. DD )"
   },
   {
    "code": "BBF 204E",
    "name": "Formal Languages and Automata",
    "branch": "BBF",
-   "requirement": "( BLG 112 MIN. DD Veya BLG 112E MIN. DD )"
+   "requirement": "( BLG 112 MIN. DD Veya BLG 112E MIN. DD ) Veya ( BBF 103E MIN. DD Veya BBF 103 MIN. DD )"
   },
   {
    "code": "BBF 301E",
    "name": "Analysis of Algorithms I",
    "branch": "BBF",
-   "requirement": "( ( BLG 221 MIN. DD Veya BLG 221E MIN. DD ) Veya ( BLG 223 MIN. DD Veya BLG 223E MIN. DD ) Veya ( BLG 233 MIN. DD Veya BLG 233E MIN. DD ) Veya ( YZV 201 MIN. DD Veya YZV 201E MIN. DD ) ) Ve ( ( BLG 252 MIN. DD Veya BLG 252E MIN. DD ) Veya ( YZV 201 MIN. DD Veya YZV 201E MIN. DD ) )"
+   "requirement": "( ( BLG 221 MIN. DD Veya BLG 221E MIN. DD ) Veya ( BLG 223 MIN. DD Veya BLG 223E MIN. DD ) Veya ( BLG 233 MIN. DD Veya BLG 233E MIN. DD ) Veya ( YZV 201 MIN. DD Veya YZV 201E MIN. DD ) ) Ve ( ( BLG 252 MIN. DD Veya BLG 252E MIN. DD ) Veya ( BBF 203E MIN. DD Veya BBF 203 MIN. DD ) Veya ( YZV 201 MIN. DD Veya YZV 201E MIN. DD ) )"
   },
   {
    "code": "BBF 302",
    "name": "Veritabanı Sistemleri",
    "branch": "BBF",
-   "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD ) Veya ( MUH 212 MIN. DD Veya MUH 212E MIN. DD ) Veya ( YZV 201 MIN. DD Veya YZV 201E MIN. DD )"
+   "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD ) Veya ( MUH 212 MIN. DD Veya MUH 212E MIN. DD ) Veya ( YZV 201 MIN. DD Veya YZV 201E MIN. DD ) Veya ( BBF 203E MIN. DD Veya BBF 203 MIN. DD )"
   },
   {
    "code": "BBF 302E",
    "name": "Database Systems",
    "branch": "BBF",
-   "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD ) Veya ( MUH 212 MIN. DD Veya MUH 212E MIN. DD ) Veya ( YZV 201 MIN. DD Veya YZV 201E MIN. DD )"
+   "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD ) Veya ( MUH 212 MIN. DD Veya MUH 212E MIN. DD ) Veya ( YZV 201 MIN. DD Veya YZV 201E MIN. DD ) Veya ( BBF 203E MIN. DD Veya BBF 203 MIN. DD )"
   },
   {
    "code": "BBF 303",
    "name": "Algoritma Analizi II",
    "branch": "BBF",
-   "requirement": "( BLG 335 MIN. DD Veya BLG 335E MIN. DD ) Veya ( BLG 381 MIN. DD Veya BLG 381E MIN. DD )"
+   "requirement": "( BLG 335 MIN. DD Veya BLG 335E MIN. DD ) Veya ( BLG 381 MIN. DD Veya BLG 381E MIN. DD ) Veya BBF 301E MIN. DD"
   },
   {
    "code": "BBF 303E",
    "name": "Analysis of Algorithms II",
    "branch": "BBF",
-   "requirement": "( BLG 335 MIN. DD Veya BLG 335E MIN. DD ) Veya ( BLG 381 MIN. DD Veya BLG 381E MIN. DD )"
+   "requirement": "( BLG 335 MIN. DD Veya BLG 335E MIN. DD ) Veya ( BLG 381 MIN. DD Veya BLG 381E MIN. DD ) Veya BBF 301E MIN. DD"
   },
   {
    "code": "BBF 304E",
    "name": "Learning From Data",
    "branch": "BBF",
-   "requirement": "( MAT 271 MIN. DD Veya MAT 271E MIN. DD ) Veya ECN 301E MIN. DD Veya ( YZV 231 MIN. DD Veya YZV 231E MIN. DD )"
+   "requirement": "( MAT 271 MIN. DD Veya MAT 271E MIN. DD ) Veya ECN 301E MIN. DD Veya ( YZV 231 MIN. DD Veya YZV 231E MIN. DD ) Veya ( BBF 201E MIN. DD Veya BBF 201 MIN. DD )"
   },
   {
    "code": "BES 202E",
@@ -1448,6 +1448,16 @@
    "requirement": "( BLG 335 MIN. DD Veya BLG 335E MIN. DD ) Veya ( BLG 381 MIN. DD Veya BLG 381E MIN. DD )"
   },
   {
+   "code": "BLG 337",
+   "name": "",
+   "branch": "BLG"
+  },
+  {
+   "code": "BLG 337E",
+   "name": "Principles of Computer Comm.",
+   "branch": "BLG"
+  },
+  {
    "code": "BLG 341",
    "name": "Dosya Organizasyonu",
    "branch": "BLG",
@@ -1499,13 +1509,13 @@
    "code": "BLG 354",
    "name": "İşaretler ve Sistemler",
    "branch": "BLG",
-   "requirement": "( MAT 281 MIN. DD Veya MAT 281E MIN. DD )"
+   "requirement": "( MAT 281 MIN. DD Veya MAT 281E MIN. DD ) Veya ( BBF 102E MIN. DD Veya BBF 102 MIN. DD )"
   },
   {
    "code": "BLG 354E",
    "name": "Signal&Systems for Comp.Eng.",
    "branch": "BLG",
-   "requirement": "( MAT 281 MIN. DD Veya MAT 281E MIN. DD )"
+   "requirement": "( MAT 281 MIN. DD Veya MAT 281E MIN. DD ) Veya ( BBF 102E MIN. DD Veya BBF 102 MIN. DD )"
   },
   {
    "code": "BLG 355E",
@@ -1565,13 +1575,13 @@
    "code": "BLG 411",
    "name": "Yazılım Mühendisliği",
    "branch": "BLG",
-   "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD )"
+   "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD ) Veya ( BBF 203E MIN. DD Veya BBF 203 MIN. DD )"
   },
   {
    "code": "BLG 411E",
    "name": "Software Engineering",
    "branch": "BLG",
-   "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD )"
+   "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD ) Veya ( BBF 203E MIN. DD Veya BBF 203 MIN. DD )"
   },
   {
    "code": "BLG 413",
@@ -1589,13 +1599,91 @@
    "code": "BLG 417E",
    "name": "Yapay Us",
    "branch": "BLG",
-   "requirement": "( BLG 372 MIN. DD Veya BLG 372E MIN. DD ) Veya ( BLG 336 MIN. DD Veya BLG 336E MIN. DD )"
+   "requirement": "BBF 304E MIN. DD"
+  },
+  {
+   "code": "BLG 420E",
+   "name": "Sistem Programlama",
+   "branch": "BLG",
+   "requirement": "( BLG 312 MIN. DD Veya BLG 312E MIN. DD )"
   },
   {
    "code": "BLG 421",
    "name": "Veritabanı Yönetim Sistemleri",
    "branch": "BLG",
    "requirement": "( BLG 221 MIN. FF Veya BLG 221E MIN. FF )"
+  },
+  {
+   "code": "BLG 422",
+   "name": "Bilgisayar Ağları",
+   "branch": "BLG",
+   "requirement": "( BLG 433 MIN. DD Veya BLG 433E MIN. DD ) Veya ( BLG 423E MIN. DD Veya BLG 423 MIN. DD ) Veya ( BLG 312 MIN. DD Veya BLG 312E MIN. DD ) Veya YZV 104E MIN. DD"
+  },
+  {
+   "code": "BLG 422E",
+   "name": "Computer Networks",
+   "branch": "BLG",
+   "requirement": "( BLG 433 MIN. DD Veya BLG 433E MIN. DD ) Veya ( BLG 423E MIN. DD Veya BLG 423 MIN. DD ) Veya ( BLG 312 MIN. DD Veya BLG 312E MIN. DD ) Veya YZV 104E MIN. DD"
+  },
+  {
+   "code": "BLG 423",
+   "name": "Bilgisayar Haberleşmesi",
+   "branch": "BLG",
+   "requirement": "( BLG 337 MIN. DD Veya BLG 337E MIN. DD )"
+  },
+  {
+   "code": "BLG 423E",
+   "name": "Bilgisayar Haberleşmesi",
+   "branch": "BLG",
+   "requirement": "( BLG 337 MIN. DD Veya BLG 337E MIN. DD )"
+  },
+  {
+   "code": "BLG 424E",
+   "name": "Uzman Sistemlere Giriş",
+   "branch": "BLG",
+   "requirement": "( BLG 336 MIN. DD Veya BLG 336E MIN. DD ) Veya ( BBF 303E MIN. DD Veya BBF 303 MIN. DD )"
+  },
+  {
+   "code": "BLG 425E",
+   "name": "Sayısal İşaret İşleme Laboratuvarı",
+   "branch": "BLG",
+   "requirement": "( BLG 354 MIN. DD Veya BLG 354E MIN. DD ) Veya ( EHB 252 MIN. DD Veya EHB 252E MIN. DD )"
+  },
+  {
+   "code": "BLG 426E",
+   "name": "Bilgisayar Proje I",
+   "branch": "BLG",
+   "requirement": "( ( BLG 221 MIN. DD Veya BLG 221E MIN. DD ) Veya ( BLG 223 MIN. DD Veya BLG 223E MIN. DD ) Veya ( BLG 233 MIN. DD Veya BLG 233E MIN. DD ) ) Ve ( BLG 212 MIN. DD Veya BLG 212E MIN. DD )"
+  },
+  {
+   "code": "BLG 427",
+   "name": "Bilgisayar Proje II",
+   "branch": "BLG",
+   "requirement": "( ( BLG 221 MIN. DD Veya BLG 221E MIN. DD ) Veya ( BLG 223 MIN. DD Veya BLG 223E MIN. DD ) Veya ( BLG 233 MIN. DD Veya BLG 233E MIN. DD ) ) Ve ( BLG 212 MIN. DD Veya BLG 212E MIN. DD )"
+  },
+  {
+   "code": "BLG 427E",
+   "name": "Bilgisayar Proje II",
+   "branch": "BLG",
+   "requirement": "( ( BLG 221 MIN. DD Veya BLG 221E MIN. DD ) Veya ( BLG 223 MIN. DD Veya BLG 223E MIN. DD ) Veya ( BLG 233 MIN. DD Veya BLG 233E MIN. DD ) ) Ve ( BLG 212 MIN. DD Veya BLG 212E MIN. DD )"
+  },
+  {
+   "code": "BLG 428E",
+   "name": "Ayrık Zaman Benzetimi",
+   "branch": "BLG",
+   "requirement": "( MAT 271 MIN. DD Veya MAT 271E MIN. DD ) Veya ( BBF 201E MIN. DD Veya BBF 201 MIN. DD )"
+  },
+  {
+   "code": "BLG 429",
+   "name": "Bilgisayarda Grafik",
+   "branch": "BLG",
+   "requirement": "( ( MAT 281 MIN. DD Veya MAT 281E MIN. DD ) Veya ( BBF 102E MIN. DD Veya BBF 102 MIN. DD ) ) Ve ( ( BIL 102 MIN. DD Veya BIL 102E MIN. DD ) Veya ( BIL 105 MIN. DD Veya BIL 105E MIN. DD ) Veya ( BLG 102 MIN. DD Veya BLG 102E MIN. DD ) )"
+  },
+  {
+   "code": "BLG 429E",
+   "name": "Bilgisayarda Grafik",
+   "branch": "BLG",
+   "requirement": "( ( MAT 281 MIN. DD Veya MAT 281E MIN. DD ) Veya ( BBF 102E MIN. DD Veya BBF 102 MIN. DD ) ) Ve ( ( BIL 102 MIN. DD Veya BIL 102E MIN. DD ) Veya ( BIL 105 MIN. DD Veya BIL 105E MIN. DD ) Veya ( BLG 102 MIN. DD Veya BLG 102E MIN. DD ) )"
   },
   {
    "code": "BLG 431",
@@ -1814,10 +1902,82 @@
    "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD )"
   },
   {
+   "code": "BLG 461",
+   "name": "Derleyici Tasarımı",
+   "branch": "BLG",
+   "requirement": "( BBF 204E MIN. DD Veya BBF 204 MIN. DD ) Veya ( BLG 311 MIN. DD Veya BLG 311E MIN. DD )"
+  },
+  {
+   "code": "BLG 461E",
+   "name": "Derleyici Tasarımı",
+   "branch": "BLG",
+   "requirement": "( BBF 204E MIN. DD Veya BBF 204 MIN. DD ) Veya ( BLG 311 MIN. DD Veya BLG 311E MIN. DD )"
+  },
+  {
+   "code": "BLG 462",
+   "name": "Paralel ve Dağıtılmış Sistemlerde Programlama",
+   "branch": "BLG",
+   "requirement": "( BLG 312 MIN. DD Veya BLG 312E MIN. DD )"
+  },
+  {
+   "code": "BLG 462E",
+   "name": "Paralel ve Dağıtılmış Sistemlerde Programlama",
+   "branch": "BLG",
+   "requirement": "( BLG 312 MIN. DD Veya BLG 312E MIN. DD )"
+  },
+  {
+   "code": "BLG 464E",
+   "name": "Gerçek Zaman Sistemleri Yazılımı",
+   "branch": "BLG",
+   "requirement": "( BLG 312 MIN. DD Veya BLG 312E MIN. DD )"
+  },
+  {
+   "code": "BLG 465",
+   "name": "Gerçek Zaman Sistemleri",
+   "branch": "BLG",
+   "requirement": "( BLG 212 MIN. DD Veya BLG 212E MIN. DD )"
+  },
+  {
+   "code": "BLG 465E",
+   "name": "Real-Time Systems",
+   "branch": "BLG",
+   "requirement": "( BLG 212 MIN. DD Veya BLG 212E MIN. DD )"
+  },
+  {
+   "code": "BLG 466",
+   "name": "Mikroişlemci Tasarım Laboratuvarı",
+   "branch": "BLG",
+   "requirement": "( BLG 322 MIN. DD Veya BLG 322E MIN. DD )"
+  },
+  {
+   "code": "BLG 466E",
+   "name": "Mikroişlemci Tasarım Laboratuvarı",
+   "branch": "BLG",
+   "requirement": "( BLG 322 MIN. DD Veya BLG 322E MIN. DD )"
+  },
+  {
+   "code": "BLG 467E",
+   "name": "Computer Vision",
+   "branch": "BLG",
+   "requirement": "( ( MAT 281 MIN. DD Veya MAT 281E MIN. DD ) Veya ( BBF 102E MIN. DD Veya BBF 102 MIN. DD ) ) Ve ( ( BLG 202 MIN. DD Veya BLG 202E MIN. DD ) Veya ( BBF 202E MIN. DD Veya BBF 202 MIN. DD ) )"
+  },
+  {
    "code": "BLG 468E",
    "name": "Object Oriented Model.&Design",
    "branch": "BLG",
    "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD )"
+  },
+  {
+   "code": "BLG 469E",
+   "name": "Robotik",
+   "branch": "BLG",
+   "requirement": "( ( MAT 281 MIN. DD Veya MAT 281E MIN. DD ) Veya ( BBF 102E MIN. DD Veya BBF 102 MIN. DD ) ) Ve ( ( BLG 252 MIN. DD Veya BLG 252E MIN. DD ) Veya ( BBF 203E MIN. DD Veya BBF 203 MIN. DD ) )"
+  },
+  {
+   "code": "BLG 470E",
+   "name": "Functional Programming",
+   "branch": "BLG",
+   "requirement": "( BLG 221 MIN. DD Veya BLG 221E MIN. DD ) Veya ( BLG 223 MIN. DD Veya BLG 223E MIN. DD ) Veya ( BLG 233 MIN. DD Veya BLG 233E MIN. DD )"
   },
   {
    "code": "BLG 471",
@@ -1832,6 +1992,24 @@
    "requirement": "( BLG 223 MIN. DD Veya BLG 223E MIN. DD ) Veya ( BLG 233 MIN. DD Veya BLG 233E MIN. DD ) Veya ( BLG 221 MIN. DD Veya BLG 221E MIN. DD )"
   },
   {
+   "code": "BLG 472E",
+   "name": "Computer Security",
+   "branch": "BLG",
+   "requirement": "( BLG 336 MIN. DD Veya BLG 336E MIN. DD ) Veya ( BLG 372 MIN. DD Veya BLG 372E MIN. DD ) Veya ( BBF 303E MIN. DD Veya BBF 303 MIN. DD )"
+  },
+  {
+   "code": "BLG 473E",
+   "name": "Güvenli Programlama",
+   "branch": "BLG",
+   "requirement": "( BLG 312 MIN. DD Veya BLG 312E MIN. DD ) Ve ( BLG 222 MIN. DD Veya BLG 222E MIN. DD ) Ve ( ( BLG 252 MIN. DD Veya BLG 252E MIN. DD ) Veya ( BBF 203E MIN. DD Veya BBF 203 MIN. DD ) )"
+  },
+  {
+   "code": "BLG 474E",
+   "name": "Çoğulortam Hesaplama",
+   "branch": "BLG",
+   "requirement": "( BLG 354 MIN. DD Veya BLG 354E MIN. DD ) Veya ( EHB 252 MIN. DD Veya EHB 252E MIN. DD )"
+  },
+  {
    "code": "BLG 475",
    "name": "Yazılım Kalitesi ve Sınaması",
    "branch": "BLG",
@@ -1844,6 +2022,12 @@
    "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD )"
   },
   {
+   "code": "BLG 476E",
+   "name": "Nesneye Dayalı Modelleme ve Tasarım",
+   "branch": "BLG",
+   "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD ) Veya ( BBF 203E MIN. DD Veya BBF 203 MIN. DD )"
+  },
+  {
    "code": "BLG 477E",
    "name": "Multimedia Computing",
    "branch": "BLG",
@@ -1854,6 +2038,18 @@
    "name": "Network Security",
    "branch": "BLG",
    "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD )"
+  },
+  {
+   "code": "BLG 479E",
+   "name": "Ağ Güvenliği",
+   "branch": "BLG",
+   "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD ) Veya ( BBF 203E MIN. DD Veya BBF 203 MIN. DD )"
+  },
+  {
+   "code": "BLG 480E",
+   "name": "Yazılım Kalitesi ve Sınaması",
+   "branch": "BLG",
+   "requirement": "( BLG 252 MIN. DD Veya BLG 252E MIN. DD ) Veya ( BBF 203E MIN. DD Veya BBF 203 MIN. DD )"
   },
   {
    "code": "BLG 481E",
@@ -34545,6 +34741,30 @@
   },
   {
    "from": "BBF 102",
+   "to": "BLG 354"
+  },
+  {
+   "from": "BBF 102",
+   "to": "BLG 354E"
+  },
+  {
+   "from": "BBF 102",
+   "to": "BLG 429"
+  },
+  {
+   "from": "BBF 102",
+   "to": "BLG 429E"
+  },
+  {
+   "from": "BBF 102",
+   "to": "BLG 467E"
+  },
+  {
+   "from": "BBF 102",
+   "to": "BLG 469E"
+  },
+  {
+   "from": "BBF 102",
    "to": "MTT 102"
   },
   {
@@ -34565,6 +34785,30 @@
   },
   {
    "from": "BBF 102E",
+   "to": "BLG 354"
+  },
+  {
+   "from": "BBF 102E",
+   "to": "BLG 354E"
+  },
+  {
+   "from": "BBF 102E",
+   "to": "BLG 429"
+  },
+  {
+   "from": "BBF 102E",
+   "to": "BLG 429E"
+  },
+  {
+   "from": "BBF 102E",
+   "to": "BLG 467E"
+  },
+  {
+   "from": "BBF 102E",
+   "to": "BLG 469E"
+  },
+  {
+   "from": "BBF 102E",
    "to": "MTT 102"
   },
   {
@@ -34573,6 +34817,14 @@
   },
   {
    "from": "BBF 103",
+   "to": "BBF 204"
+  },
+  {
+   "from": "BBF 103",
+   "to": "BBF 204E"
+  },
+  {
+   "from": "BBF 103",
    "to": "BHB 301E"
   },
   {
@@ -34581,6 +34833,14 @@
   },
   {
    "from": "BBF 103E",
+   "to": "BBF 204"
+  },
+  {
+   "from": "BBF 103E",
+   "to": "BBF 204E"
+  },
+  {
+   "from": "BBF 103E",
    "to": "BHB 301E"
   },
   {
@@ -34589,6 +34849,10 @@
   },
   {
    "from": "BBF 201",
+   "to": "BBF 304E"
+  },
+  {
+   "from": "BBF 201",
    "to": "BHB 204E"
   },
   {
@@ -34596,6 +34860,14 @@
    "to": "BHB 402E"
   },
   {
+   "from": "BBF 201",
+   "to": "BLG 428E"
+  },
+  {
+   "from": "BBF 201E",
+   "to": "BBF 304E"
+  },
+  {
    "from": "BBF 201E",
    "to": "BHB 204E"
   },
@@ -34604,12 +34876,148 @@
    "to": "BHB 402E"
   },
   {
+   "from": "BBF 201E",
+   "to": "BLG 428E"
+  },
+  {
+   "from": "BBF 202",
+   "to": "BLG 467E"
+  },
+  {
+   "from": "BBF 202E",
+   "to": "BLG 467E"
+  },
+  {
+   "from": "BBF 203",
+   "to": "BBF 301E"
+  },
+  {
+   "from": "BBF 203",
+   "to": "BBF 302"
+  },
+  {
+   "from": "BBF 203",
+   "to": "BBF 302E"
+  },
+  {
+   "from": "BBF 203",
+   "to": "BLG 411"
+  },
+  {
+   "from": "BBF 203",
+   "to": "BLG 411E"
+  },
+  {
+   "from": "BBF 203",
+   "to": "BLG 469E"
+  },
+  {
+   "from": "BBF 203",
+   "to": "BLG 473E"
+  },
+  {
+   "from": "BBF 203",
+   "to": "BLG 476E"
+  },
+  {
+   "from": "BBF 203",
+   "to": "BLG 479E"
+  },
+  {
+   "from": "BBF 203",
+   "to": "BLG 480E"
+  },
+  {
    "from": "BBF 203",
    "to": "SEC 322E"
   },
   {
    "from": "BBF 203E",
+   "to": "BBF 301E"
+  },
+  {
+   "from": "BBF 203E",
+   "to": "BBF 302"
+  },
+  {
+   "from": "BBF 203E",
+   "to": "BBF 302E"
+  },
+  {
+   "from": "BBF 203E",
+   "to": "BLG 411"
+  },
+  {
+   "from": "BBF 203E",
+   "to": "BLG 411E"
+  },
+  {
+   "from": "BBF 203E",
+   "to": "BLG 469E"
+  },
+  {
+   "from": "BBF 203E",
+   "to": "BLG 473E"
+  },
+  {
+   "from": "BBF 203E",
+   "to": "BLG 476E"
+  },
+  {
+   "from": "BBF 203E",
+   "to": "BLG 479E"
+  },
+  {
+   "from": "BBF 203E",
+   "to": "BLG 480E"
+  },
+  {
+   "from": "BBF 203E",
    "to": "SEC 322E"
+  },
+  {
+   "from": "BBF 204",
+   "to": "BLG 461"
+  },
+  {
+   "from": "BBF 204",
+   "to": "BLG 461E"
+  },
+  {
+   "from": "BBF 204E",
+   "to": "BLG 461"
+  },
+  {
+   "from": "BBF 204E",
+   "to": "BLG 461E"
+  },
+  {
+   "from": "BBF 301E",
+   "to": "BBF 303"
+  },
+  {
+   "from": "BBF 301E",
+   "to": "BBF 303E"
+  },
+  {
+   "from": "BBF 303",
+   "to": "BLG 424E"
+  },
+  {
+   "from": "BBF 303",
+   "to": "BLG 472E"
+  },
+  {
+   "from": "BBF 303E",
+   "to": "BLG 424E"
+  },
+  {
+   "from": "BBF 303E",
+   "to": "BLG 472E"
+  },
+  {
+   "from": "BBF 304E",
+   "to": "BLG 417E"
   },
   {
    "from": "BBF 304E",
@@ -35273,6 +35681,14 @@
   },
   {
    "from": "BIL 102",
+   "to": "BLG 429"
+  },
+  {
+   "from": "BIL 102",
+   "to": "BLG 429E"
+  },
+  {
+   "from": "BIL 102",
    "to": "BLG 444"
   },
   {
@@ -35334,6 +35750,14 @@
   {
    "from": "BIL 102CE",
    "to": "FIZ 272E"
+  },
+  {
+   "from": "BIL 102E",
+   "to": "BLG 429"
+  },
+  {
+   "from": "BIL 102E",
+   "to": "BLG 429E"
   },
   {
    "from": "BIL 102E",
@@ -35850,6 +36274,14 @@
   {
    "from": "BIL 105",
    "to": "BLG 353E"
+  },
+  {
+   "from": "BIL 105",
+   "to": "BLG 429"
+  },
+  {
+   "from": "BIL 105",
+   "to": "BLG 429E"
   },
   {
    "from": "BIL 105",
@@ -35970,6 +36402,14 @@
   {
    "from": "BIL 105E",
    "to": "BLG 353E"
+  },
+  {
+   "from": "BIL 105E",
+   "to": "BLG 429"
+  },
+  {
+   "from": "BIL 105E",
+   "to": "BLG 429E"
   },
   {
    "from": "BIL 105E",
@@ -38237,6 +38677,14 @@
   },
   {
    "from": "BLG 102",
+   "to": "BLG 429"
+  },
+  {
+   "from": "BLG 102",
+   "to": "BLG 429E"
+  },
+  {
+   "from": "BLG 102",
    "to": "CEN 223E"
   },
   {
@@ -38341,6 +38789,14 @@
   },
   {
    "from": "BLG 102E",
+   "to": "BLG 429"
+  },
+  {
+   "from": "BLG 102E",
+   "to": "BLG 429E"
+  },
+  {
+   "from": "BLG 102E",
    "to": "CEN 223E"
   },
   {
@@ -38457,6 +38913,10 @@
   },
   {
    "from": "BLG 202",
+   "to": "BLG 467E"
+  },
+  {
+   "from": "BLG 202",
    "to": "BLG 483E"
   },
   {
@@ -38473,6 +38933,10 @@
   },
   {
    "from": "BLG 202E",
+   "to": "BLG 467E"
+  },
+  {
+   "from": "BLG 202E",
    "to": "BLG 483E"
   },
   {
@@ -38617,6 +39081,18 @@
   },
   {
    "from": "BLG 212",
+   "to": "BLG 426E"
+  },
+  {
+   "from": "BLG 212",
+   "to": "BLG 427"
+  },
+  {
+   "from": "BLG 212",
+   "to": "BLG 427E"
+  },
+  {
+   "from": "BLG 212",
    "to": "BLG 439"
   },
   {
@@ -38630,6 +39106,14 @@
   {
    "from": "BLG 212",
    "to": "BLG 451E"
+  },
+  {
+   "from": "BLG 212",
+   "to": "BLG 465"
+  },
+  {
+   "from": "BLG 212",
+   "to": "BLG 465E"
   },
   {
    "from": "BLG 212",
@@ -38685,6 +39169,18 @@
   },
   {
    "from": "BLG 212E",
+   "to": "BLG 426E"
+  },
+  {
+   "from": "BLG 212E",
+   "to": "BLG 427"
+  },
+  {
+   "from": "BLG 212E",
+   "to": "BLG 427E"
+  },
+  {
+   "from": "BLG 212E",
    "to": "BLG 439"
   },
   {
@@ -38698,6 +39194,14 @@
   {
    "from": "BLG 212E",
    "to": "BLG 451E"
+  },
+  {
+   "from": "BLG 212E",
+   "to": "BLG 465"
+  },
+  {
+   "from": "BLG 212E",
+   "to": "BLG 465E"
   },
   {
    "from": "BLG 212E",
@@ -38781,6 +39285,18 @@
   },
   {
    "from": "BLG 221",
+   "to": "BLG 426E"
+  },
+  {
+   "from": "BLG 221",
+   "to": "BLG 427"
+  },
+  {
+   "from": "BLG 221",
+   "to": "BLG 427E"
+  },
+  {
+   "from": "BLG 221",
    "to": "BLG 437"
   },
   {
@@ -38806,6 +39322,10 @@
   {
    "from": "BLG 221",
    "to": "BLG 458E"
+  },
+  {
+   "from": "BLG 221",
+   "to": "BLG 470E"
   },
   {
    "from": "BLG 221",
@@ -38885,6 +39405,18 @@
   },
   {
    "from": "BLG 221E",
+   "to": "BLG 426E"
+  },
+  {
+   "from": "BLG 221E",
+   "to": "BLG 427"
+  },
+  {
+   "from": "BLG 221E",
+   "to": "BLG 427E"
+  },
+  {
+   "from": "BLG 221E",
    "to": "BLG 437"
   },
   {
@@ -38910,6 +39442,10 @@
   {
    "from": "BLG 221E",
    "to": "BLG 458E"
+  },
+  {
+   "from": "BLG 221E",
+   "to": "BLG 470E"
   },
   {
    "from": "BLG 221E",
@@ -38957,6 +39493,10 @@
   },
   {
    "from": "BLG 222",
+   "to": "BLG 473E"
+  },
+  {
+   "from": "BLG 222",
    "to": "CEN 322E"
   },
   {
@@ -38993,6 +39533,10 @@
   },
   {
    "from": "BLG 222E",
+   "to": "BLG 473E"
+  },
+  {
+   "from": "BLG 222E",
    "to": "CEN 322E"
   },
   {
@@ -39033,6 +39577,18 @@
   },
   {
    "from": "BLG 223",
+   "to": "BLG 426E"
+  },
+  {
+   "from": "BLG 223",
+   "to": "BLG 427"
+  },
+  {
+   "from": "BLG 223",
+   "to": "BLG 427E"
+  },
+  {
+   "from": "BLG 223",
    "to": "BLG 437"
   },
   {
@@ -39058,6 +39614,10 @@
   {
    "from": "BLG 223",
    "to": "BLG 458E"
+  },
+  {
+   "from": "BLG 223",
+   "to": "BLG 470E"
   },
   {
    "from": "BLG 223",
@@ -39105,6 +39665,18 @@
   },
   {
    "from": "BLG 223E",
+   "to": "BLG 426E"
+  },
+  {
+   "from": "BLG 223E",
+   "to": "BLG 427"
+  },
+  {
+   "from": "BLG 223E",
+   "to": "BLG 427E"
+  },
+  {
+   "from": "BLG 223E",
    "to": "BLG 437"
   },
   {
@@ -39130,6 +39702,10 @@
   {
    "from": "BLG 223E",
    "to": "BLG 458E"
+  },
+  {
+   "from": "BLG 223E",
+   "to": "BLG 470E"
   },
   {
    "from": "BLG 223E",
@@ -39473,6 +40049,18 @@
   },
   {
    "from": "BLG 233",
+   "to": "BLG 426E"
+  },
+  {
+   "from": "BLG 233",
+   "to": "BLG 427"
+  },
+  {
+   "from": "BLG 233",
+   "to": "BLG 427E"
+  },
+  {
+   "from": "BLG 233",
    "to": "BLG 437"
   },
   {
@@ -39490,6 +40078,10 @@
   {
    "from": "BLG 233",
    "to": "BLG 458E"
+  },
+  {
+   "from": "BLG 233",
+   "to": "BLG 470E"
   },
   {
    "from": "BLG 233",
@@ -39533,6 +40125,18 @@
   },
   {
    "from": "BLG 233E",
+   "to": "BLG 426E"
+  },
+  {
+   "from": "BLG 233E",
+   "to": "BLG 427"
+  },
+  {
+   "from": "BLG 233E",
+   "to": "BLG 427E"
+  },
+  {
+   "from": "BLG 233E",
    "to": "BLG 437"
   },
   {
@@ -39550,6 +40154,10 @@
   {
    "from": "BLG 233E",
    "to": "BLG 458E"
+  },
+  {
+   "from": "BLG 233E",
+   "to": "BLG 470E"
   },
   {
    "from": "BLG 233E",
@@ -39653,6 +40261,14 @@
   },
   {
    "from": "BLG 252",
+   "to": "BLG 469E"
+  },
+  {
+   "from": "BLG 252",
+   "to": "BLG 473E"
+  },
+  {
+   "from": "BLG 252",
    "to": "BLG 475"
   },
   {
@@ -39661,7 +40277,19 @@
   },
   {
    "from": "BLG 252",
+   "to": "BLG 476E"
+  },
+  {
+   "from": "BLG 252",
    "to": "BLG 478E"
+  },
+  {
+   "from": "BLG 252",
+   "to": "BLG 479E"
+  },
+  {
+   "from": "BLG 252",
+   "to": "BLG 480E"
   },
   {
    "from": "BLG 252",
@@ -39769,6 +40397,14 @@
   },
   {
    "from": "BLG 252E",
+   "to": "BLG 469E"
+  },
+  {
+   "from": "BLG 252E",
+   "to": "BLG 473E"
+  },
+  {
+   "from": "BLG 252E",
    "to": "BLG 475"
   },
   {
@@ -39777,7 +40413,19 @@
   },
   {
    "from": "BLG 252E",
+   "to": "BLG 476E"
+  },
+  {
+   "from": "BLG 252E",
    "to": "BLG 478E"
+  },
+  {
+   "from": "BLG 252E",
+   "to": "BLG 479E"
+  },
+  {
+   "from": "BLG 252E",
+   "to": "BLG 480E"
   },
   {
    "from": "BLG 252E",
@@ -39805,6 +40453,14 @@
   },
   {
    "from": "BLG 311",
+   "to": "BLG 461"
+  },
+  {
+   "from": "BLG 311",
+   "to": "BLG 461E"
+  },
+  {
+   "from": "BLG 311",
    "to": "YZV 423"
   },
   {
@@ -39813,6 +40469,14 @@
   },
   {
    "from": "BLG 311E",
+   "to": "BLG 461"
+  },
+  {
+   "from": "BLG 311E",
+   "to": "BLG 461E"
+  },
+  {
+   "from": "BLG 311E",
    "to": "YZV 423"
   },
   {
@@ -39837,6 +40501,18 @@
   },
   {
    "from": "BLG 312",
+   "to": "BLG 420E"
+  },
+  {
+   "from": "BLG 312",
+   "to": "BLG 422"
+  },
+  {
+   "from": "BLG 312",
+   "to": "BLG 422E"
+  },
+  {
+   "from": "BLG 312",
    "to": "BLG 431"
   },
   {
@@ -39858,6 +40534,22 @@
   {
    "from": "BLG 312",
    "to": "BLG 450E"
+  },
+  {
+   "from": "BLG 312",
+   "to": "BLG 462"
+  },
+  {
+   "from": "BLG 312",
+   "to": "BLG 462E"
+  },
+  {
+   "from": "BLG 312",
+   "to": "BLG 464E"
+  },
+  {
+   "from": "BLG 312",
+   "to": "BLG 473E"
   },
   {
    "from": "BLG 312E",
@@ -39877,6 +40569,18 @@
   },
   {
    "from": "BLG 312E",
+   "to": "BLG 420E"
+  },
+  {
+   "from": "BLG 312E",
+   "to": "BLG 422"
+  },
+  {
+   "from": "BLG 312E",
+   "to": "BLG 422E"
+  },
+  {
+   "from": "BLG 312E",
    "to": "BLG 431"
   },
   {
@@ -39900,6 +40604,22 @@
    "to": "BLG 450E"
   },
   {
+   "from": "BLG 312E",
+   "to": "BLG 462"
+  },
+  {
+   "from": "BLG 312E",
+   "to": "BLG 462E"
+  },
+  {
+   "from": "BLG 312E",
+   "to": "BLG 464E"
+  },
+  {
+   "from": "BLG 312E",
+   "to": "BLG 473E"
+  },
+  {
    "from": "BLG 321",
    "to": "BLG 451"
   },
@@ -39924,12 +40644,28 @@
    "to": "BLG 452E"
   },
   {
+   "from": "BLG 322",
+   "to": "BLG 466"
+  },
+  {
+   "from": "BLG 322",
+   "to": "BLG 466E"
+  },
+  {
    "from": "BLG 322E",
    "to": "BLG 452"
   },
   {
    "from": "BLG 322E",
    "to": "BLG 452E"
+  },
+  {
+   "from": "BLG 322E",
+   "to": "BLG 466"
+  },
+  {
+   "from": "BLG 322E",
+   "to": "BLG 466E"
   },
   {
    "from": "BLG 331",
@@ -39997,7 +40733,7 @@
   },
   {
    "from": "BLG 336",
-   "to": "BLG 417E"
+   "to": "BLG 424E"
   },
   {
    "from": "BLG 336",
@@ -40017,11 +40753,15 @@
   },
   {
    "from": "BLG 336",
+   "to": "BLG 472E"
+  },
+  {
+   "from": "BLG 336",
    "to": "SEC 311E"
   },
   {
    "from": "BLG 336E",
-   "to": "BLG 417E"
+   "to": "BLG 424E"
   },
   {
    "from": "BLG 336E",
@@ -40041,7 +40781,27 @@
   },
   {
    "from": "BLG 336E",
+   "to": "BLG 472E"
+  },
+  {
+   "from": "BLG 336E",
    "to": "SEC 311E"
+  },
+  {
+   "from": "BLG 337",
+   "to": "BLG 423"
+  },
+  {
+   "from": "BLG 337",
+   "to": "BLG 423E"
+  },
+  {
+   "from": "BLG 337E",
+   "to": "BLG 423"
+  },
+  {
+   "from": "BLG 337E",
+   "to": "BLG 423E"
   },
   {
    "from": "BLG 353E",
@@ -40061,11 +40821,19 @@
   },
   {
    "from": "BLG 354",
+   "to": "BLG 425E"
+  },
+  {
+   "from": "BLG 354",
    "to": "BLG 438"
   },
   {
    "from": "BLG 354",
    "to": "BLG 438E"
+  },
+  {
+   "from": "BLG 354",
+   "to": "BLG 474E"
   },
   {
    "from": "BLG 354",
@@ -40073,11 +40841,19 @@
   },
   {
    "from": "BLG 354E",
+   "to": "BLG 425E"
+  },
+  {
+   "from": "BLG 354E",
    "to": "BLG 438"
   },
   {
    "from": "BLG 354E",
    "to": "BLG 438E"
+  },
+  {
+   "from": "BLG 354E",
+   "to": "BLG 474E"
   },
   {
    "from": "BLG 354E",
@@ -40089,10 +40865,6 @@
   },
   {
    "from": "BLG 372",
-   "to": "BLG 417E"
-  },
-  {
-   "from": "BLG 372",
    "to": "BLG 435"
   },
   {
@@ -40102,6 +40874,10 @@
   {
    "from": "BLG 372",
    "to": "BLG 459E"
+  },
+  {
+   "from": "BLG 372",
+   "to": "BLG 472E"
   },
   {
    "from": "BLG 372",
@@ -40109,10 +40885,6 @@
   },
   {
    "from": "BLG 372E",
-   "to": "BLG 417E"
-  },
-  {
-   "from": "BLG 372E",
    "to": "BLG 435"
   },
   {
@@ -40122,6 +40894,10 @@
   {
    "from": "BLG 372E",
    "to": "BLG 459E"
+  },
+  {
+   "from": "BLG 372E",
+   "to": "BLG 472E"
   },
   {
    "from": "BLG 372E",
@@ -40182,6 +40958,38 @@
   {
    "from": "BLG 381E",
    "to": "CEN 336E"
+  },
+  {
+   "from": "BLG 423",
+   "to": "BLG 422"
+  },
+  {
+   "from": "BLG 423",
+   "to": "BLG 422E"
+  },
+  {
+   "from": "BLG 423E",
+   "to": "BLG 422"
+  },
+  {
+   "from": "BLG 423E",
+   "to": "BLG 422E"
+  },
+  {
+   "from": "BLG 433",
+   "to": "BLG 422"
+  },
+  {
+   "from": "BLG 433",
+   "to": "BLG 422E"
+  },
+  {
+   "from": "BLG 433E",
+   "to": "BLG 422"
+  },
+  {
+   "from": "BLG 433E",
+   "to": "BLG 422E"
   },
   {
    "from": "BLG 454E",
@@ -48397,11 +49205,19 @@
   },
   {
    "from": "EHB 252",
+   "to": "BLG 425E"
+  },
+  {
+   "from": "EHB 252",
    "to": "BLG 438"
   },
   {
    "from": "EHB 252",
    "to": "BLG 438E"
+  },
+  {
+   "from": "EHB 252",
+   "to": "BLG 474E"
   },
   {
    "from": "EHB 252",
@@ -48497,11 +49313,19 @@
   },
   {
    "from": "EHB 252E",
+   "to": "BLG 425E"
+  },
+  {
+   "from": "EHB 252E",
    "to": "BLG 438"
   },
   {
    "from": "EHB 252E",
    "to": "BLG 438E"
+  },
+  {
+   "from": "EHB 252E",
+   "to": "BLG 474E"
   },
   {
    "from": "EHB 252E",
@@ -86821,6 +87645,10 @@
   },
   {
    "from": "MAT 271",
+   "to": "BLG 428E"
+  },
+  {
+   "from": "MAT 271",
    "to": "BLG 443"
   },
   {
@@ -86978,6 +87806,10 @@
   {
    "from": "MAT 271E",
    "to": "BIO 422E"
+  },
+  {
+   "from": "MAT 271E",
+   "to": "BLG 428E"
   },
   {
    "from": "MAT 271E",
@@ -87209,6 +88041,14 @@
   },
   {
    "from": "MAT 281",
+   "to": "BLG 429"
+  },
+  {
+   "from": "MAT 281",
+   "to": "BLG 429E"
+  },
+  {
+   "from": "MAT 281",
    "to": "BLG 444"
   },
   {
@@ -87222,6 +88062,14 @@
   {
    "from": "MAT 281",
    "to": "BLG 456E"
+  },
+  {
+   "from": "MAT 281",
+   "to": "BLG 467E"
+  },
+  {
+   "from": "MAT 281",
+   "to": "BLG 469E"
   },
   {
    "from": "MAT 281",
@@ -87397,6 +88245,14 @@
   },
   {
    "from": "MAT 281E",
+   "to": "BLG 429"
+  },
+  {
+   "from": "MAT 281E",
+   "to": "BLG 429E"
+  },
+  {
+   "from": "MAT 281E",
    "to": "BLG 444"
   },
   {
@@ -87410,6 +88266,14 @@
   {
    "from": "MAT 281E",
    "to": "BLG 456E"
+  },
+  {
+   "from": "MAT 281E",
+   "to": "BLG 467E"
+  },
+  {
+   "from": "MAT 281E",
+   "to": "BLG 469E"
   },
   {
    "from": "MAT 281E",
@@ -105326,6 +106190,14 @@
   {
    "from": "YZV 104E",
    "to": "BLG 252E"
+  },
+  {
+   "from": "YZV 104E",
+   "to": "BLG 422"
+  },
+  {
+   "from": "YZV 104E",
+   "to": "BLG 422E"
   },
   {
    "from": "YZV 104E",
