@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T12:27:25Z",
+ "generatedAt": "2026-11-25T11:15:07Z",
  "nodes": [
   {
    "code": "AKM 202",
@@ -18646,6 +18646,48 @@
    "classReq": "95,00"
   },
   {
+   "code": "KHE 347E",
+   "name": "Kuantum Algoritmaları",
+   "branch": "KHE",
+   "requirement": "KHE 353E MIN. DD"
+  },
+  {
+   "code": "KHE 349E",
+   "name": "Kuantum Hesaplama Sistemleri",
+   "branch": "KHE",
+   "requirement": "( FIZ 102 MIN. DD Veya FIZ 102E MIN. DD )"
+  },
+  {
+   "code": "KHE 353E",
+   "name": "Kuantum Programlama",
+   "branch": "KHE",
+   "requirement": "( BLG 102 MIN. DD Veya BLG 102E MIN. DD ) Veya ( BIL 105 MIN. DD Veya BIL 105E MIN. DD )"
+  },
+  {
+   "code": "KHE 355E",
+   "name": "Kuantum Hesaplamaya Giriş",
+   "branch": "KHE",
+   "requirement": "( FIZ 102 MIN. DD Veya FIZ 102E MIN. DD )"
+  },
+  {
+   "code": "KHE 493E",
+   "name": "Kuantum Yapay Zeka",
+   "branch": "KHE",
+   "requirement": "KHE 353E MIN. DD"
+  },
+  {
+   "code": "KHE 494E",
+   "name": "Kuantum Eniyileme",
+   "branch": "KHE",
+   "requirement": "KHE 353E MIN. DD"
+  },
+  {
+   "code": "KHE 495E",
+   "name": "Kuantum Kriptografi",
+   "branch": "KHE",
+   "requirement": "KHE 353E MIN. DD Veya KHE 355E MIN. DD"
+  },
+  {
    "code": "KIM 101",
    "name": "Genel Kimya I",
    "branch": "KIM"
@@ -36357,6 +36399,10 @@
   },
   {
    "from": "BIL 105",
+   "to": "KHE 353E"
+  },
+  {
+   "from": "BIL 105",
    "to": "YZV 448E"
   },
   {
@@ -36482,6 +36528,10 @@
   {
    "from": "BIL 105E",
    "to": "FIZ 272E"
+  },
+  {
+   "from": "BIL 105E",
+   "to": "KHE 353E"
   },
   {
    "from": "BIL 105E",
@@ -38705,6 +38755,10 @@
   },
   {
    "from": "BLG 102",
+   "to": "KHE 353E"
+  },
+  {
+   "from": "BLG 102",
    "to": "YZV 447"
   },
   {
@@ -38814,6 +38868,10 @@
   {
    "from": "BLG 102E",
    "to": "EHB 354E"
+  },
+  {
+   "from": "BLG 102E",
+   "to": "KHE 353E"
   },
   {
    "from": "BLG 102E",
@@ -56053,6 +56111,14 @@
   },
   {
    "from": "FIZ 102",
+   "to": "KHE 349E"
+  },
+  {
+   "from": "FIZ 102",
+   "to": "KHE 355E"
+  },
+  {
+   "from": "FIZ 102",
    "to": "MAD 422"
   },
   {
@@ -56334,6 +56400,14 @@
   {
    "from": "FIZ 102E",
    "to": "JEO 408E"
+  },
+  {
+   "from": "FIZ 102E",
+   "to": "KHE 349E"
+  },
+  {
+   "from": "FIZ 102E",
+   "to": "KHE 355E"
   },
   {
    "from": "FIZ 102E",
@@ -70238,6 +70312,26 @@
   {
    "from": "JEO 370",
    "to": "JEO 398E"
+  },
+  {
+   "from": "KHE 353E",
+   "to": "KHE 347E"
+  },
+  {
+   "from": "KHE 353E",
+   "to": "KHE 493E"
+  },
+  {
+   "from": "KHE 353E",
+   "to": "KHE 494E"
+  },
+  {
+   "from": "KHE 353E",
+   "to": "KHE 495E"
+  },
+  {
+   "from": "KHE 355E",
+   "to": "KHE 495E"
   },
   {
    "from": "KIM 101",
